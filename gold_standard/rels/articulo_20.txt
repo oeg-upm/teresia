@@ -1,0 +1,11 @@
+1	El <e1>trabajador</e1> <rel>estará obligado a realizar</rel> el <comp>trabajo</comp> convenido bajo la dirección del <e2>empresario</e2> o persona en quien este delegue.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> <rel>podrá verificar</rel> el <comp>estado de salud</comp> del <e2>trabajador</e2> que sea alegado por este para justificar sus faltas de asistencia al trabajo, mediante reconocimiento a cargo de personal médico. 
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
+
+3	Los <e1>trabajadores</e1> <rel>tienen derecho</rel> a la intimidad en el uso de los <comp>dispositivos digitales</comp> puestos a su disposición por el <e2>empleador</e2>, a la <comp>desconexión digital</comp> y a la intimidad frente al uso de dispositivos de videovigilancia y geolocalización en los términos establecidos en la legislación vigente en materia de protección de datos personales y garantía de los derechos digitales.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)

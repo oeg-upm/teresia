@@ -1,0 +1,8 @@
+1	En el plazo máximo de un mes a partir de la recepción de la comunicación, se procederá a constituir la comisión negociadora; la <e1>parte receptora</e1> de la comunicación <rel>deberá responder</rel> a la propuesta de <comp>negociación</comp> y ambas partes establecerán un calendario o plan de negociación. 
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: parte emisora
+
+2	La <e1>representación de los trabajadores</e1>, o de los empresarios, que promueva la <comp>negociación</comp>, lo <rel>comunicará</rel> a <e2>la otra parte</e2>, expresando detalladamente en la comunicación, que deberá hacerse por escrito, la legitimación que ostenta de conformidad con los artículos anteriores, los ámbitos del convenio y las materias objeto de negociación.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Duty (rel)

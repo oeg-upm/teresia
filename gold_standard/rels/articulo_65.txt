@@ -1,0 +1,4 @@
+1	Excepcionalmente, la <e1>empresa</e1> no <rel>no estará obligada a comunicar</rel> aquellas <comp>informaciones</comp> específicas relacionadas con secretos industriales, financieros o comerciales cuya divulgación pudiera, según criterios objetivos, obstaculizar el funcionamiento de la empresa o del centro de trabajo u ocasionar graves perjuicios en su estabilidad económica.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Right (rel)
+MissingE2: trabajador

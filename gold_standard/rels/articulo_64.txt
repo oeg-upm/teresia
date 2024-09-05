@@ -1,0 +1,17 @@
+1	El <e2>comité de empresa</e2> <rel>tendrá derecho a ser informado</rel> y consultado por el <e1>empresario</e1> sobre aquellas cuestiones que puedan afectar a los trabajadores, así como sobre la situación de la empresa y la evolución del empleo en la misma, en los términos previstos en este artículo.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+
+2	Asimismo, el <e1>comité de empresa</e1> <rel>tendrá derecho a recibir</rel> la copia básica de los <comp>contratos</comp> así como la notificación de las prórrogas y de las denuncias correspondientes a los mismos en el plazo de diez días siguientes a que tuvieran lugar.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+3	Asimismo, el <e1>comité de empresa</e1> <rel>tendrá derecho a recibir</rel> la copia básica de los <comp>contratos</comp> así como la notificación de las prórrogas y de las denuncias correspondientes a los mismos en el plazo de diez días siguientes a que tuvieran lugar.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+4	La <comp>información</comp> <rel>se deberá facilitar</rel> por el <e1>empresario</e1> al <e2>comité de empresa</e2>, sin perjuicio de lo establecido específicamente en cada caso, en un momento, de una manera y con un contenido apropiados, que permitan a los representantes de los trabajadores proceder a su examen adecuado y preparar, en su caso, la consulta y el informe
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)

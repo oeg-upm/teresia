@@ -1,0 +1,3 @@
+1	<rel>Se prohíbe</rel> la admisión al <comp>trabajo</comp> a los <e2>menores de dieciséis años</e2>.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: NoRight (rel)

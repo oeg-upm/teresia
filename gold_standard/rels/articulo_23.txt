@@ -1,0 +1,3 @@
+1	Los <e1>trabajadores</e1> con al menos un año de antigüedad en la empresa <rel>tienen derecho</rel> a un <comp>permiso retribuido</comp> de veinte horas anuales de formación profesional para el empleo, vinculada a la actividad de la <e2>empresa</e2>, acumulables por un periodo de hasta cinco años.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)

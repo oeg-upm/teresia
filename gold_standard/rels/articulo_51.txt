@@ -1,0 +1,19 @@
+1	La comunicación de la apertura del <comp>periodo de consultas</comp> <rel>se realizará</rel> mediante escrito dirigido por el <e1>empresario</e1> a los <e2>representantes legales de los trabajadores</e2>, una copia del cual se hará llegar a la autoridad laboral.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	Recibida la <comp>comunicación</comp>, la <e1>autoridad laboral</e1> <rel>dará traslado</rel> de la misma a la <e2>entidad gestora</e2> de las prestaciones por desempleo y recabará, con carácter preceptivo, informe de la Inspección de Trabajo y Seguridad Social sobre los extremos de la comunicación a que se refieren los párrafos anteriores y sobre el desarrollo del periodo de consultas.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+3	Transcurrido el periodo de consultas el <e1>empresario</e1> <rel>comunicará</rel> a la <e2>autoridad laboral</e2> el resultado del mismo.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+4	La <e1>empresa</e1> <rel>deberá dar traslado</rel> de dicha <comp>decisión</comp> a los <e2>representantes de los trabajadores</e2> y a la autoridad laboral.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+5	La <e1>empresa</e1> que lleve a cabo un despido colectivo que afecte a más de cincuenta trabajadores <rel>deberá ofrecer</rel> a los <e2>trabajadores</e2> afectados un <comp>plan de recolocación externa</comp> a través de empresas de recolocación autorizadas.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)

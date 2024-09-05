@@ -1,0 +1,3 @@
+1	Los <e1>trabajadores</e1> que tengan la consideración de víctimas de violencia de género o de víctimas del terrorismo <rel>tendrán derecho</rel>, para hacer efectiva su protección o su derecho a la asistencia social integral, a la reducción de la <comp>jornada de trabajo</comp> con disminución proporcional del salario o a la reordenación del tiempo de trabajo, a través de la adaptación del horario, de la aplicación del horario flexible o de otras formas de ordenación del tiempo de trabajo que se utilicen en la <e2>empresa</e2>.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)

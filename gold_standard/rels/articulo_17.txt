@@ -1,0 +1,4 @@
+1	Asimismo, el <e1>Gobierno</e1> <rel>podrá otorgar</rel> <comp>subvenciones</comp>, <comp>desgravaciones</comp> y otras medidas para fomentar el empleo de grupos específicos de trabajadores que encuentren dificultades especiales para acceder al empleo.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Privilege (rel)
+MissingE2: empresa

@@ -1,0 +1,7 @@
+1	Al realizarlo, el <e1>empresario</e1> <rel>pondrá</rel> a disposición del <e2>trabajador</e2> los <comp>salarios</comp> devengados en los días intermedios, manteniéndole durante los mismos en alta en la Seguridad Social.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El <comp>despido</comp> <rel>deberá ser notificado por escrito</rel> al <e2>trabajador</e2>, haciendo figurar los hechos que lo motivan y la fecha en que tendrá efectos.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)

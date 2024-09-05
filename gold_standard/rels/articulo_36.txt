@@ -1,0 +1,11 @@
+1	El <e1>empresario</e1> que recurra regularmente a la realización de <comp>trabajo nocturno<comp> <rel>deberá informar</rel> de ello a la <e2>autoridad laboral</e2>.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> <rel>deberá garantizar</rel> que los <e2>trabajadores nocturnos</e2> que ocupe dispongan de una evaluación gratuita de su <comp>estado de salud</comp>, antes de su afectación a un trabajo nocturno y, posteriormente, a intervalos regulares, en los términos establecidos en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en sus normas de desarrollo. 
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	Los <e1>trabajadores nocturnos</e1> a los que se reconozcan problemas de salud ligados al hecho de su trabajo nocturno <rel>tendrán derecho</rel> a ser destinados a un <comp>puesto de trabajo diurno</comp> que exista en la <e2>empresa</e2> y para el que sean profesionalmente aptos.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)

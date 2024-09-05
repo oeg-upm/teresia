@@ -1,0 +1,12 @@
+1	La <e1>dirección de la empresa</e1> <rel>podrá acordar</rel> modificaciones sustanciales de las <comp>condiciones de trabajo</comp> cuando existan probadas razones económicas, técnicas, organizativas o de producción.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Right (rel)
+MissingE2: trabajador
+
+2	A estos efectos, la <e1>dirección de la empresa</e1> <rel>deberá comunicar</rel> de manera fehaciente a los <e2>trabajadores</e2> o a sus representantes su intención de iniciar el procedimiento de modificación sustancial de <comp>condiciones de trabajo</comp>.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	Transcurrido el plazo máximo para la constitución de la comisión representativa, la <e1>dirección de la empresa</e1> <rel>podrá comunicar</rel> el inicio del <comp>periodo de consultas</comp> a los <e2>representantes de los trabajadores</e2>.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Privilege (rel)

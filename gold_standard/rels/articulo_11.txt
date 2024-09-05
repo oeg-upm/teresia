@@ -1,0 +1,16 @@
+1	Conforme a lo establecido en dicha regulación, el <e1>trabajador</e1> <rel>podrá solicitar</rel> de la <e2>Administración pública</e2> competente la expedición del correspondiente <comp>certificado de profesionalidad</comp>, <comp>título de formación profesional</comp> o, en su caso, <comp>acreditación parcial acumulable</comp>.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+
+2	El <e1>trabajador</e1> <rel>deberá recibir</rel> la <comp>formación</comp> inherente al contrato para la formación y el aprendizaje directamente en un centro formativo de la red a que se refiere la disposición adicional quinta de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, previamente reconocido para ello por el Sistema Nacional de Empleo.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+3	<mod>Ningún</mod> <e2>trabajador</e2> <rel>podrá estar</rel> <comp>contratado en prácticas</comp> en la misma o distinta <e1>empresa</e1> por tiempo superior a dos años en virtud de la misma titulación o certificado de profesionalidad.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: NoRight (rel)
+
+4	Expirada la duración del contrato para la formación y el aprendizaje, el <e2>trabajador</e2> <rel>no podrá ser</rel> <comp>contratado</comp> bajo esta modalidad por la misma o distinta <e1>empresa</e1>, salvo que la formación inherente al nuevo contrato tenga por objeto la obtención de distinta cualificación profesional.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: NoRight (rel)

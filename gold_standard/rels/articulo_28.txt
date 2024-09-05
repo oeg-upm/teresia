@@ -1,0 +1,9 @@
+1	El <e1>empresario</e1> <rel>está obligado a pagar</rel> por la prestación de un trabajo de igual valor la misma <comp>retribución</comp>, satisfecha directa o indirectamente, y cualquiera que sea la naturaleza de la misma, salarial o extrasalarial, sin que pueda producirse discriminación alguna por razón de sexo en ninguno de los elementos o condiciones de aquella.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: trabajador
+
+2	El <e1>empresario</e1> <rel>está obligado a llevar</rel> un registro con los valores medios de los <comp>salarios</comp>, los complementos salariales y las percepciones extrasalariales de su plantilla, desagregados por sexo y distribuidos por grupos profesionales, categorías profesionales o puestos de trabajo iguales o de igual valor.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: trabajador

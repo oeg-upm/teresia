@@ -1,0 +1,14 @@
+1	Los <e1>trabajadores menores de dieciocho años</e1>  <rel>no podrán realizar</rel> más de ocho horas diarias de <comp>trabajo efectivo</comp>, incluyendo, en su caso, el tiempo dedicado a la formación y, si trabajasen para varios empleadores, las horas realizadas con cada uno de ellos.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: NoRight (rel)
+MissingE2: empresa
+
+2	La <e1>persona trabajadora</e1> <rel>tendrá derecho a solicitar</rel> el regreso a su <comp>jornada</comp> o modalidad contractual anterior una vez concluido el periodo acordado o cuando el cambio de las circunstancias así lo justifique, aun cuando no hubiese transcurrido el periodo previsto.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+3	La <e1>empresa</e1> <rel>conservará</rel> los <comp>registros</comp> a que se refiere este precepto durante cuatro años y permanecerán a disposición de las personas trabajadoras, de sus representantes legales y de la Inspección de Trabajo y Seguridad Social.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: trabajadores

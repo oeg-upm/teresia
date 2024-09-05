@@ -1,0 +1,3 @@
+1	Los <comp>convenios</comp> <rel>deberán ser presentados</rel> ante la <e2>autoridad laboral competente</e2>, a los solos efectos de registro, dentro del plazo de quince días a partir del momento en que las <e1>partes negociadoras</e1> lo firmen.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)

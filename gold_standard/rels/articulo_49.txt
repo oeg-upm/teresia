@@ -1,0 +1,13 @@
+1	A la finalización del contrato, excepto en los casos del contrato de interinidad y de los contratos formativos, el <e1>trabajador</e1> <rel>tendrá derecho a recibir</rel> una <comp>indemnización</comp> de cuantía equivalente a la parte proporcional de la cantidad que resultaría de abonar doce días de salario por cada año de servicio, o la establecida, en su caso, en la normativa específica que sea de aplicación.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+2	El <e1>empresario</e1>, con ocasión de la extinción del contrato, al comunicar a los <e2>trabajadores</e2> la denuncia, o, en su caso, el preaviso de la extinción del mismo, <rel>deberá acompañar</rel> una propuesta del documento de <comp>liquidación</comp> de las cantidades adeudadas.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	El <e1>trabajador</e1> <rel>podrá solicitar</rel> la presencia de un <comp>representante legal de los trabajadores</comp> en el momento de proceder a la firma del recibo del finiquito, haciéndose constar en el mismo el hecho de su firma en presencia de un representante legal de los trabajadores, o bien que el trabajador no ha hecho uso de esta posibilidad.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa

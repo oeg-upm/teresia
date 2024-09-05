@@ -1,0 +1,30 @@
+1	A fin de posibilitar la movilidad voluntaria en el trabajo a tiempo parcial, el <e1>empresario</e1> <rel>deberá informar</rel> a los <e2>trabajadores</e2> de la empresa sobre la existencia de <comp>puestos de trabajo</comp> vacantes, de manera que aquellos puedan formular solicitudes de conversión voluntaria de un trabajo a tiempo completo en un trabajo a tiempo parcial y viceversa, o para el incremento del tiempo de trabajo de los trabajadores a tiempo parcial, todo ello de conformidad con los procedimientos que se establezcan en convenio colectivo.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> solo <rel>podrá exigir</rel> la realización de <comp>horas complementarias</comp> cuando así lo hubiera pactado expresamente con el <e2>trabajador</e2>.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
+
+3	El <e1>empresario</e1> <rel>deberá conservar</rel> los resúmenes mensuales de los <comp>registros de jornada</comp> durante un periodo mínimo de cuatro años.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: trabajador
+
+4	La <comp>denegación</comp> de la solicitud <rel>deberá ser notificada</rel> por el <e1>empresario</e1> al <e2>trabajador</e2> por escrito y de manera motivada.
+RelationSignature: LegalAgent-LegalConcept (e1, e2)
+RelationType: Duty (rel)
+
+5	Los <e1>trabajadores a tiempo parcial</e1> <rel>no podrán realizar</rel> <comp>horas extraordinarias</comp>, salvo en los supuestos a los que se refiere el artículo 35.3.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: NoRight (rel)
+MissingE2: empresa
+
+6	El <e1>trabajador</e1> <rel>no podrá ser</rel> despedido ni sufrir ningún otro tipo de <comp>sanción</comp> o efecto perjudicial por el hecho de rechazar esta conversión, sin perjuicio de las medidas que, de conformidad con lo dispuesto en los artículos 51 y 52.c), puedan adoptarse por causas económicas, técnicas, organizativas o de producción. 
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+7	En el supuesto de que el contrato se extinga antes de alcanzar la duración mínima indicada, el <e1>empresario</e1> <rel>estará obligado a celebrar</rel> un nuevo <comp>contrato</comp> en los mismos términos del extinguido, por el tiempo restante.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)

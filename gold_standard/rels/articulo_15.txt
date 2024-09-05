@@ -1,0 +1,7 @@
+1	Los <e1>empresarios</e1> <rel>habrán de notificar</rel> a la <e2>representación legal de los trabajadores en las empresas</e2> los <comp>contratos</comp> realizados de acuerdo con las modalidades de contratación por tiempo determinado previstas en este artículo cuando no exista obligación legal de entregar copia básica de los mismos.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> <rel>deberá informar</rel> a los <e2>trabajadores</e2> de la empresa con contratos de duración determinada o temporales, incluidos los contratos formativos, sobre la existencia de <comp>puestos de trabajo</comp> vacantes, a fin de garantizarles las mismas oportunidades de acceder a puestos permanentes que los demás trabajadores.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)

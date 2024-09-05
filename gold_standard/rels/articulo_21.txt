@@ -1,0 +1,3 @@
+1	En el supuesto de compensación económica por la plena dedicación, el <e1>trabajador</e1> <rel>podrá rescindir</rel> el <comp>acuerdo</comp> y recuperar su libertad de trabajo en otro empleo, comunicándolo por escrito al <e2>empresario</e2> con un preaviso de treinta días, perdiéndose en este caso la compensación económica u otros derechos vinculados a la plena dedicación
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)

@@ -1,0 +1,9 @@
+1	En caso de que el contrato resultase nulo, el <e1>trabajador</e1> <rel>podrá exigir</rel>, por el trabajo que ya hubiese prestado, la <comp>remuneración</comp> consiguiente a un contrato válido.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+2	En caso de nulidad por discriminación salarial por razón de sexo, el <e1>trabajador</e1> <rel>tendrá derecho</rel> a la <comp>retribución</comp> correspondiente al trabajo igual o de igual valor.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa

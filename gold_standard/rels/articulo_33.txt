@@ -1,0 +1,11 @@
+1	El <e1>Fondo de Garantía Salarial</e1>, organismo autónomo adscrito al Ministerio de Empleo y Seguridad Social, con personalidad jurídica y capacidad de obrar para el cumplimiento de sus fines, <rel>abonará</rel> a los <e2>trabajadores</e2> el importe de los <comp>salarios</comp> pendientes de pago a causa de insolvencia o concurso del empresario.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>Fondo de Garantía Salarial</e1>, en los casos del apartado anterior, <rel>abonará</rel> <comp>indemnizaciones</comp> reconocidas como consecuencia de sentencia, auto, acto de conciliación judicial o resolución administrativa a favor de los <e2>trabajadores</e2> a causa de despido o extinción de los contratos conforme a los artículos 50, 51 y 52 de esta ley, y de extinción de contratos conforme al artículo 64 de la Ley 22/2003, de 9 de julio, Concursal, así como las indemnizaciones por extinción de contratos temporales o de duración determinada en los casos que legalmente procedan
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	El <e1>Fondo de Garantía Salarial</e1> <rel>prestará</rel> a la <e2>institución</e2> de garantía competente la <comp>colaboración</comp> que le sea requerida en relación con su intervención en el procedimiento y con el reembolso de las cantidades abonadas a los trabajadores.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Duty (rel)

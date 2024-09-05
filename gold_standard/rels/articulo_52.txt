@@ -1,0 +1,7 @@
+1	Previamente el <e1>empresario</e1> <rel>deberá ofrecer</rel> al <e2>trabajador</e2> un <comp>curso</comp> dirigido a facilitar la adaptación a las modificaciones operadas.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El tiempo destinado a la formación se considerará en todo caso tiempo de trabajo efectivo y el <e1>empresario</e1> <rel>abonará</rel> al <e2>trabajador</e2> el <comp>salario</comp> medio que viniera percibiendo.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)

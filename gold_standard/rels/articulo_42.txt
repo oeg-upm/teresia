@@ -1,0 +1,19 @@
+1	El <e1>empresario</e1> principal, salvo el transcurso del plazo antes señalado respecto a la Seguridad Social, y durante los tres años siguientes a la terminación de su encargo, <rel>responderá</rel> solidariamente de las <comp>obligaciones</comp> referidas a la <e2>Seguridad Social</e2> contraídas por los contratistas y subcontratistas durante el periodo de vigencia de la contrata.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	Los <e2>trabajadores</e2> del contratista o subcontratista <rel>deberán ser informados</rel> por escrito por su <e1>empresario</e1> de la identidad de la <comp>empresa principal</comp> para la cual estén prestando servicios en cada momento.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	Asimismo, el <e1>contratista</e1> o subcontratista <rel>deberán informar</rel> de la identidad de la <comp>empresa principal</comp> a la <e2>Tesorería General de la Seguridad Social</e2> en los términos que reglamentariamente se determinen.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+4	La <e1>empresa contratista</e1> o subcontratista <rel>deberá informar</rel> igualmente a los <e2>representantes legales</e2> de sus trabajadores, antes del inicio de la ejecución de la contrata, sobre los mismos extremos a que se refieren el apartado 3 anterior y las letras b) a e) del apartado 4.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+5	Los <e1>trabajadores</e1> de las empresas contratistas y subcontratistas, cuando no tengan representación legal, <rel>tendrán derecho a formular</rel> a los <e2>representantes de los trabajadores</e2> de la empresa principal cuestiones relativas a las condiciones de ejecución de la <comp>actividad laboral</comp>, mientras compartan centro de trabajo y carezcan de representación.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)

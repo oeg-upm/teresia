@@ -1,0 +1,13 @@
+1	Los <e1>promotores</e1> <rel>comunicarán</rel> a la <e2>empresa</e2> y a la oficina pública dependiente de la autoridad laboral su propósito de celebrar <comp>elecciones</comp> con un plazo mínimo de, al menos, un mes de antelación al inicio del proceso electoral.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	Dichos <comp>acuerdos</comp> <rel>deberán comunicarse</rel> a la <e2>oficina pública</e2> dependiente de la autoridad laboral para su depósito y publicidad.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+MissingE1: sindicato
+
+3	Las <comp>sustituciones</comp>, <comp>revocaciones</comp>, <comp>dimisiones</comp> y <comp>extinciones de mandato</comp> <rel>se comunicarán</rel> a la <e2>oficina pública</e2> dependiente de la autoridad laboral y al empresario, publicándose asimismo en el tablón de anuncios.
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+MissingE2: empresa

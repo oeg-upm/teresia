@@ -1,0 +1,20 @@
+1	El <e1>empresario</e1> <rel>está obligado a comunicar</rel> a la <e2>oficina pública de empleo</e2>, en el plazo de los diez días siguientes a su concertación y en los términos que reglamentariamente se determinen, el contenido de los <comp>contratos de trabajo</comp> que celebre o las prórrogas de los mismos, deban o no formalizarse por escrito.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> <rel>entregará</rel> a la <e2>representación legal de los trabajadores</e2> una copia básica de todos los <comp>contratos</comp> que deban celebrarse por escrito, a excepción de los contratos de relación laboral especial de alta dirección sobre los que se establece el deber de notificación a la representación legal de los trabajadores.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+3	La <comp>copia básica</comp> <rel>se entregará</rel> por el <e1>empresario</e1>, en plazo no superior a diez días desde la formalización del contrato, a los <e2>representantes legales de los trabajadores</e2>, quienes la firmarán a efectos de acreditar que se ha producido la entrega.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+4	Cuando la relación laboral sea de duración superior a cuatro semanas, el <e1>empresario</e1> <rel>deberá informar</rel> por escrito al <e2>trabajador</e2>, en los términos y plazos que se establezcan reglamentariamente, sobre los elementos esenciales del <comp>contrato</comp> y las principales <comp>condiciones de ejecución</comp> de la prestación laboral, siempre que tales elementos y condiciones no figuren en el contrato de trabajo formalizado por escrito.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+5	Los <e1>representantes de la Administración</e1>, así como los de las organizaciones sindicales y de las asociaciones empresariales, que tengan acceso a la copia básica de los contratos en virtud de su pertenencia a los órganos de participación institucional que reglamentariamente tengan tales facultades, <rel>observarán</rel> <comp>sigilo profesional</comp>, no pudiendo utilizar dicha documentación para fines distintos de los que motivaron su conocimiento.
+RelationSignature: LegalEntity-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+MissingE2: trabajador

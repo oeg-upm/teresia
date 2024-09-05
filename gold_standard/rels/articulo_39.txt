@@ -1,0 +1,12 @@
+1	El <e1>empresario</e1> <rel>deberá comunicar</rel> su <comp>decisión</comp> y las razones de esta a los <e2>representantes de los trabajadores</e2>.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	En el caso de encomienda de funciones superiores a las del grupo profesional por un periodo superior a seis meses durante un año u ocho durante dos años, el <e1>trabajador</e1> <rel>podrá reclamar</rel> el <comp>ascenso</comp>, si a ello no obsta lo dispuesto en convenio colectivo o, en todo caso, la cobertura de la vacante correspondiente a las funciones por él realizadas conforme a las reglas en materia de ascensos aplicables en la empresa, sin perjuicio de reclamar la diferencia salarial correspondiente.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+3	Contra la negativa de la empresa, y previo informe del comité o, en su caso, de los delegados de personal, el <e1>trabajador</e1> <rel>podrá reclamar</rel> ante la <e2>jurisdicción social</e2>.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)

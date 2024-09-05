@@ -1,0 +1,16 @@
+1	El <e1>empresario</e1> <rel>podrá suspender</rel> el <comp>contrato de trabajo</comp> por causas económicas, técnicas, organizativas o de producción, con arreglo a lo previsto en este artículo y al procedimiento que se determine reglamentariamente.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
+MissingE2: trabajador
+
+2	Tras la finalización del periodo de consultas el <e1>empresario</e1> <rel>notificará</rel> a los <e2>trabajadores</e2> y a la autoridad laboral su decisión sobre la <comp>suspensión de contratos</comp>, que surtirá efectos a partir de la fecha de su comunicación a la autoridad laboral, salvo que en ella se contemple una posterior. 
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+3	Tras la finalización del periodo de consultas el <e1>empresario</e1> <rel>notificará</rel> a los <e2>trabajadores</e2> y a la <e2>autoridad laboral</e2> su decisión sobre la <comp>suspensión de contratos</comp>, que surtirá efectos a partir de la fecha de su comunicación a la autoridad laboral, salvo que en ella se contemple una posterior.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+4	La <e1>autoridad laboral</e1> <rel>comunicará</rel> la <comp>decisión empresarial</comp> a la <e2>entidad gestora de la prestación por desempleo</e2> .
+RelationSignature: LegalEntity-LegalEntity (e1, e2)
+RelationType: Duty (rel)

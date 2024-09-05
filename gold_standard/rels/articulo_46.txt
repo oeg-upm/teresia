@@ -1,0 +1,13 @@
+1	El <e1>trabajador</e1> con al menos una antigüedad en la empresa de un año <rel>tiene derecho a que se le reconozca</rel> la posibilidad de situarse en <comp>excedencia</comp> voluntaria por un plazo no menor a cuatro meses y no mayor a cinco años.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+2	Los <e1>trabajadores</e1> <rel>tendrán derecho</rel> a un periodo de <comp>excedencia</comp> de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza, como por adopción, o en los supuestos de guarda con fines de adopción o acogimiento permanente, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
+MissingE2: empresa
+
+3	Asimismo <rel>podrán solicitar</rel> su paso a la situación de <comp>excedencia</comp> en la <e2>empresa</e2> los <e1>trabajadores</e1> que ejerzan funciones sindicales de ámbito provincial o superior mientras dure el ejercicio de su cargo representativo.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)

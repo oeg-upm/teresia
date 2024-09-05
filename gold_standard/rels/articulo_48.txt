@@ -1,0 +1,7 @@
+1	La <e1>persona trabajadora</e1> <rel>deberá comunicar</rel> a la <e2>empresa</e2>, con una antelación mínima de quince días, el ejercicio de este <comp>derecho</comp> en los términos establecidos, en su caso, en los convenios colectivos.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Duty (rel)
+
+2	Cuando los dos <e2>progenitores</e2> que ejerzan este derecho trabajen para la misma empresa, la <e1>dirección empresarial</e1> <rel>podrá limitar</rel> su <comp>ejercicio</comp> simultáneo por razones fundadas y objetivas, debidamente motivadas por escrito.
+RelationSignature: LegalAgent-LegalEntity (e1, e2)
+RelationType: Right (rel)
