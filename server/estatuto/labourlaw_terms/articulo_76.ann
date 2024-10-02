@@ -1,97 +1,97 @@
-T1	concept 4053 4070	 centro de trabajo
-T2	concept 5660 5677	 centro de trabajo
-T3	concept 3535 3550	 oficina pública
-T4	concept 4352 4367	 oficina pública
-T5	concept 4653 4668	 oficina pública
-T6	concept 5295 5310	 oficina pública
-T7	concept 5969 5984	 oficina pública
-T8	concept 276 295	 jurisdicción social
-T9	concept 991 1005	 mesa electoral
-T10	concept 1984 2001	 autoridad laboral
-T11	concept 3569 3586	 autoridad laboral
-T12	concept 4386 4403	 autoridad laboral
-T13	concept 4687 4704	 autoridad laboral
-T14	concept 5329 5346	 autoridad laboral
-T15	concept 6003 6020	 autoridad laboral
-T16	concept 3382 3405	 servicios profesionales
-T17	concept 276 288	 jurisdicción
-T18	concept 4063 4070	 trabajo
-T19	concept 5670 5677	 trabajo
-T20	concept 4710 4718	 traslado
-T21	concept 5359 5367	 traslado
-T22	concept 2404 2410	 medida
-T23	concept 2143 2156	 participación
-T24	concept 4232 4240	 votación
-T25	concept 6049 6057	 votación
-T26	concept 936 949	 representante
-T27	concept 2945 2958	 representante
-T28	concept 871 881	 trabajador
-T29	concept 1844 1850	 ámbito
-T30	concept 418 426	 elección
-T31	concept 4105 4113	 elección
-T32	concept 2212 2219	 mandato
-T33	concept 3128 3135	 mandato
-T34	concept 1537 1545	 licencia
-T35	concept 1641 1650	 sindicato
-T36	concept 1945 1954	 sindicato
-T37	concept 2164 2173	 sindicato
-T38	concept 3996 4005	 sindicato
-T39	concept 1089 1094	 deber
-T40	concept 2480 2485	 deber
-T41	concept 3785 3790	 deber
-T42	concept 5726 5736	 empresario
-T43	concept 5585 5595	 procedente
-T44	concept 1984 1993	 autoridad
-T45	concept 3569 3578	 autoridad
-T46	concept 4386 4395	 autoridad
-T47	concept 4687 4696	 autoridad
-T48	concept 5329 5338	 autoridad
-T49	concept 6003 6012	 autoridad
-T50	concept 6129 6138	 contenido
-T51	concept 4526 4537	 tramitación
-T52	concept 4922 4933	 tramitación
-T53	concept 5178 5189	 conformidad
-T54	concept 1784 1792	 delegado
-T55	concept 2508 2515	 defecto
-T56	concept 3262 3270	 servicio
-T57	concept 3382 3390	 servicio
-T58	concept 2643 2647	 edad
-T59	concept 2898 2902	 edad
-T60	concept 1486 1495	 principio
-T61	concept 2067 2076	 principio
-T62	concept 352 359	 empresa
-T63	concept 1830 1837	 empresa
-T64	concept 1878 1885	 empresa
-T65	concept 5726 5733	 empresa
-T66	concept 2199 2207	 duración
-T67	concept 117 130	 procedimiento
-T68	concept 1252 1265	 procedimiento
-T69	concept 1339 1352	 procedimiento
-T70	concept 3469 3482	 procedimiento
-T71	concept 4431 4444	 procedimiento
-T72	concept 4550 4563	 procedimiento
-T73	concept 5462 5475	 procedimiento
-T74	concept 1819 1825	 comité
-T75	concept 5611 5618	 derecho
-T76	concept 5834 5841	 derecho
-T77	concept 6290 6297	 derecho
-T78	concept 4632 4644	 prescripción
-T79	concept 2791 2799	 afinidad
-T80	concept 6301 6308	 reunión
-T81	concept 2747 2761	 consanguinidad
-T82	concept 4132 4140	 computar
-T83	concept 1694 1703	 comunidad
-T84	concept 2357 2365	 personal
-T85	concept 2575 2583	 personal
-T86	concept 2780 2785	 grado
-T87	concept 1032 1043	 reclamación
-T88	concept 3928 3939	 reclamación
-T89	concept 2639 2647	 sociedad
-T90	concept 2894 2902	 sociedad
-T91	concept 736 741	 datos
-T92	concept 3667 3672	 datos
-T93	concept 2357 2364	 persona
-T94	concept 2575 2582	 persona
-T95	concept 3203 3210	 persona
-T96	concept 3275 3282	 persona
-T97	concept 5642 5649	 persona
+T1	concept 4053 4070	centro de trabajo
+T2	concept 5660 5677	centro de trabajo
+T3	concept 3535 3550	oficina pública
+T4	concept 4352 4367	oficina pública
+T5	concept 4653 4668	oficina pública
+T6	concept 5295 5310	oficina pública
+T7	concept 5969 5984	oficina pública
+T8	concept 276 295	jurisdicción social
+T9	concept 991 1005	mesa electoral
+T10	concept 1984 2001	autoridad laboral
+T11	concept 3569 3586	autoridad laboral
+T12	concept 4386 4403	autoridad laboral
+T13	concept 4687 4704	autoridad laboral
+T14	concept 5329 5346	autoridad laboral
+T15	concept 6003 6020	autoridad laboral
+T16	concept 3382 3405	servicios profesionales
+T17	concept 276 288	jurisdicción
+T18	concept 4063 4070	trabajo
+T19	concept 5670 5677	trabajo
+T20	concept 4710 4718	traslado
+T21	concept 5359 5367	traslado
+T22	concept 2404 2410	medida
+T23	concept 2143 2156	participación
+T24	concept 4232 4240	votación
+T25	concept 6049 6057	votación
+T26	concept 936 949	representante
+T27	concept 2945 2958	representante
+T28	concept 871 881	trabajador
+T29	concept 1844 1850	ámbito
+T30	concept 418 426	elección
+T31	concept 4105 4113	elección
+T32	concept 2212 2219	mandato
+T33	concept 3128 3135	mandato
+T34	concept 1537 1545	licencia
+T35	concept 1641 1650	sindicato
+T36	concept 1945 1954	sindicato
+T37	concept 2164 2173	sindicato
+T38	concept 3996 4005	sindicato
+T39	concept 1089 1094	deber
+T40	concept 2480 2485	deber
+T41	concept 3785 3790	deber
+T42	concept 5726 5736	empresario
+T43	concept 5585 5595	procedente
+T44	concept 1984 1993	autoridad
+T45	concept 3569 3578	autoridad
+T46	concept 4386 4395	autoridad
+T47	concept 4687 4696	autoridad
+T48	concept 5329 5338	autoridad
+T49	concept 6003 6012	autoridad
+T50	concept 6129 6138	contenido
+T51	concept 4526 4537	tramitación
+T52	concept 4922 4933	tramitación
+T53	concept 5178 5189	conformidad
+T54	concept 1784 1792	delegado
+T55	concept 2508 2515	defecto
+T56	concept 3262 3270	servicio
+T57	concept 3382 3390	servicio
+T58	concept 2643 2647	edad
+T59	concept 2898 2902	edad
+T60	concept 1486 1495	principio
+T61	concept 2067 2076	principio
+T62	concept 352 359	empresa
+T63	concept 1830 1837	empresa
+T64	concept 1878 1885	empresa
+T65	concept 5726 5733	empresa
+T66	concept 2199 2207	duración
+T67	concept 117 130	procedimiento
+T68	concept 1252 1265	procedimiento
+T69	concept 1339 1352	procedimiento
+T70	concept 3469 3482	procedimiento
+T71	concept 4431 4444	procedimiento
+T72	concept 4550 4563	procedimiento
+T73	concept 5462 5475	procedimiento
+T74	concept 1819 1825	comité
+T75	concept 5611 5618	derecho
+T76	concept 5834 5841	derecho
+T77	concept 6290 6297	derecho
+T78	concept 4632 4644	prescripción
+T79	concept 2791 2799	afinidad
+T80	concept 6301 6308	reunión
+T81	concept 2747 2761	consanguinidad
+T82	concept 4132 4140	computar
+T83	concept 1694 1703	comunidad
+T84	concept 2357 2365	personal
+T85	concept 2575 2583	personal
+T86	concept 2780 2785	grado
+T87	concept 1032 1043	reclamación
+T88	concept 3928 3939	reclamación
+T89	concept 2639 2647	sociedad
+T90	concept 2894 2902	sociedad
+T91	concept 736 741	datos
+T92	concept 3667 3672	datos
+T93	concept 2357 2364	persona
+T94	concept 2575 2582	persona
+T95	concept 3203 3210	persona
+T96	concept 3275 3282	persona
+T97	concept 5642 5649	persona
