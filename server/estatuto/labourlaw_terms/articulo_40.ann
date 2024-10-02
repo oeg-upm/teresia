@@ -1,0 +1,264 @@
+T1	concept 6080 6114	 representación de los trabajadores
+T2	concept 6583 6600	 puesto de trabajo
+T3	concept 6752 6769	 puesto de trabajo
+T4	concept 6945 6962	 puesto de trabajo
+T5	concept 7411 7428	 puesto de trabajo
+T6	concept 7551 7568	 puesto de trabajo
+T7	concept 8018 8035	 puesto de trabajo
+T8	concept 201 218	 centro de trabajo
+T9	concept 1795 1812	 centro de trabajo
+T10	concept 2422 2439	 centro de trabajo
+T11	concept 2534 2551	 centro de trabajo
+T12	concept 7284 7301	 centro de trabajo
+T13	concept 2274 2294	 periodo de consultas
+T14	concept 2931 2951	 periodo de consultas
+T15	concept 4473 4493	 periodo de consultas
+T16	concept 4630 4650	 periodo de consultas
+T17	concept 4786 4806	 periodo de consultas
+T18	concept 4938 4958	 periodo de consultas
+T19	concept 5385 5405	 periodo de consultas
+T20	concept 5897 5917	 periodo de consultas
+T21	concept 6170 6190	 periodo de consultas
+T22	concept 9717 9737	 periodo de consultas
+T23	concept 8676 8691	 gastos de viaje
+T24	concept 6974 6991	 grupo profesional
+T25	concept 8047 8064	 grupo profesional
+T26	concept 9667 9685	 convenio colectivo
+T27	concept 5632 5651	 conflicto colectivo
+T28	concept 1627 1646	 jurisdicción social
+T29	concept 4991 4999	 buena fe
+T30	concept 4886 4903	 autoridad laboral
+T31	concept 3217 3237	 comisión negociadora
+T32	concept 3356 3376	 comisión negociadora
+T33	concept 6876 6893	 asistencia social
+T34	concept 1627 1639	 jurisdicción
+T35	concept 459 472	 productividad
+T36	concept 166 173	 trabajo
+T37	concept 211 218	 trabajo
+T38	concept 502 509	 trabajo
+T39	concept 1805 1812	 trabajo
+T40	concept 2432 2439	 trabajo
+T41	concept 2544 2551	 trabajo
+T42	concept 3277 3284	 trabajo
+T43	concept 4178 4185	 trabajo
+T44	concept 5340 5347	 trabajo
+T45	concept 6593 6600	 trabajo
+T46	concept 6762 6769	 trabajo
+T47	concept 6955 6962	 trabajo
+T48	concept 7082 7089	 trabajo
+T49	concept 7294 7301	 trabajo
+T50	concept 7421 7428	 trabajo
+T51	concept 7561 7568	 trabajo
+T52	concept 8028 8035	 trabajo
+T53	concept 8123 8130	 trabajo
+T54	concept 9618 9625	 trabajo
+T55	concept 1651 1660	 sentencia
+T56	concept 5673 5679	 acción
+T57	concept 6654 6661	 víctima
+T58	concept 6691 6698	 víctima
+T59	concept 8281 8288	 víctima
+T60	concept 8324 8331	 víctima
+T61	concept 6229 6239	 aplicación
+T62	concept 6294 6304	 aplicación
+T63	concept 963 976	 indemnización
+T64	concept 41 49	 traslado
+T65	concept 607 615	 traslado
+T66	concept 809 817	 traslado
+T67	concept 865 873	 traslado
+T68	concept 1434 1442	 traslado
+T69	concept 1674 1682	 traslado
+T70	concept 1926 1934	 traslado
+T71	concept 2101 2109	 traslado
+T72	concept 2201 2209	 traslado
+T73	concept 5471 5479	 traslado
+T74	concept 6422 6430	 traslado
+T75	concept 6541 6549	 traslado
+T76	concept 7260 7268	 traslado
+T77	concept 9336 9344	 traslado
+T78	concept 9505 9513	 traslado
+T79	concept 937 945	 contrato
+T80	concept 1541 1549	 contrato
+T81	concept 3091 3097	 medida
+T82	concept 4615 4625	 transcurso
+T83	concept 995 1002	 salario
+T84	concept 8662 8669	 salario
+T85	concept 1816 1822	 origen
+T86	concept 9048 9054	 origen
+T87	concept 7756 7768	 discapacidad
+T88	concept 7963 7975	 discapacidad
+T89	concept 9921 9933	 discapacidad
+T90	concept 3516 3525	 dirección
+T91	concept 3867 3876	 dirección
+T92	concept 4419 4428	 dirección
+T93	concept 3217 3225	 comisión
+T94	concept 3356 3364	 comisión
+T95	concept 3685 3693	 comisión
+T96	concept 4056 4064	 comisión
+T97	concept 4391 4399	 comisión
+T98	concept 4567 4575	 comisión
+T99	concept 5198 5206	 comisión
+T100	concept 686 699	 representante
+T101	concept 2303 2316	 representante
+T102	concept 3956 3969	 representante
+T103	concept 4247 4260	 representante
+T104	concept 4500 4513	 representante
+T105	concept 5104 5117	 representante
+T106	concept 5856 5869	 representante
+T107	concept 9524 9537	 representante
+T108	concept 53 63	 trabajador
+T109	concept 659 669	 trabajador
+T110	concept 822 832	 trabajador
+T111	concept 1483 1493	 trabajador
+T112	concept 1761 1771	 trabajador
+T113	concept 2333 2343	 trabajador
+T114	concept 2479 2489	 trabajador
+T115	concept 2608 2618	 trabajador
+T116	concept 2644 2654	 trabajador
+T117	concept 2699 2709	 trabajador
+T118	concept 2750 2760	 trabajador
+T119	concept 2825 2835	 trabajador
+T120	concept 2851 2861	 trabajador
+T121	concept 2910 2920	 trabajador
+T122	concept 3150 3160	 trabajador
+T123	concept 3716 3726	 trabajador
+T124	concept 3935 3945	 trabajador
+T125	concept 4277 4287	 trabajador
+T126	concept 4522 4532	 trabajador
+T127	concept 5134 5144	 trabajador
+T128	concept 5229 5239	 trabajador
+T129	concept 5303 5313	 trabajador
+T130	concept 5437 5447	 trabajador
+T131	concept 5878 5888	 trabajador
+T132	concept 5964 5974	 trabajador
+T133	concept 6102 6112	 trabajador
+T134	concept 6491 6501	 trabajador
+T135	concept 6610 6620	 trabajador
+T136	concept 7157 7167	 trabajador
+T137	concept 7460 7470	 trabajador
+T138	concept 7503 7513	 trabajador
+T139	concept 7739 7749	 trabajador
+T140	concept 8268 8278	 trabajador
+T141	concept 8542 8552	 trabajador
+T142	concept 8710 8720	 trabajador
+T143	concept 8964 8974	 trabajador
+T144	concept 9266 9276	 trabajador
+T145	concept 9554 9564	 trabajador
+T146	concept 9797 9807	 trabajador
+T147	concept 9842 9852	 trabajador
+T148	concept 475 487	 organización
+T149	concept 6311 6317	 ámbito
+T150	concept 2151 2154	 ley
+T151	concept 9492 9495	 ley
+T152	concept 269 279	 residencia
+T153	concept 6461 6471	 residencia
+T154	concept 891 903	 compensación
+T155	concept 1134 1146	 compensación
+T156	concept 4742 4752	 ampliación
+T157	concept 6442 6449	 cónyuge
+T158	concept 616 621	 deber
+T159	concept 2248 2253	 deber
+T160	concept 2952 2957	 deber
+T161	concept 3729 3734	 deber
+T162	concept 3891 3896	 deber
+T163	concept 4857 4862	 deber
+T164	concept 4971 4976	 deber
+T165	concept 6337 6342	 deber
+T166	concept 8721 8726	 deber
+T167	concept 645 655	 empresario
+T168	concept 5409 5419	 empresario
+T169	concept 6064 6074	 empresario
+T170	concept 9166 9176	 empresario
+T171	concept 6847 6857	 protección
+T172	concept 7712 7722	 protección
+T173	concept 1252 1257	 cargo
+T174	concept 9156 9161	 cargo
+T175	concept 4886 4895	 autoridad
+T176	concept 5763 5774	 tramitación
+T177	concept 5071 5082	 conformidad
+T178	concept 129 137	 servicio
+T179	concept 1014 1022	 servicio
+T180	concept 6813 6821	 servicio
+T181	concept 9901 9905	 edad
+T182	concept 142 149	 empresa
+T183	concept 240 247	 empresa
+T184	concept 516 523	 empresa
+T185	concept 578 585	 empresa
+T186	concept 645 652	 empresa
+T187	concept 1590 1597	 empresa
+T188	concept 1910 1917	 empresa
+T189	concept 2665 2672	 empresa
+T190	concept 2769 2776	 empresa
+T191	concept 2871 2878	 empresa
+T192	concept 3010 3017	 empresa
+T193	concept 3532 3539	 empresa
+T194	concept 3793 3800	 empresa
+T195	concept 3883 3890	 empresa
+T196	concept 4435 4442	 empresa
+T197	concept 5409 5416	 empresa
+T198	concept 6064 6071	 empresa
+T199	concept 6324 6331	 empresa
+T200	concept 6514 6521	 empresa
+T201	concept 7024 7031	 empresa
+T202	concept 7115 7122	 empresa
+T203	concept 7367 7374	 empresa
+T204	concept 8073 8080	 empresa
+T205	concept 8469 8476	 empresa
+T206	concept 8485 8492	 empresa
+T207	concept 9166 9173	 empresa
+T208	concept 2353 2361	 duración
+T209	concept 4759 4767	 duración
+T210	concept 7313 7321	 duración
+T211	concept 8904 8912	 duración
+T212	concept 9373 9381	 duración
+T213	concept 3338 3351	 procedimiento
+T214	concept 3546 3559	 procedimiento
+T215	concept 3819 3832	 procedimiento
+T216	concept 3998 4011	 procedimiento
+T217	concept 4219 4232	 procedimiento
+T218	concept 6244 6257	 procedimiento
+T219	concept 840 847	 derecho
+T220	concept 1749 1756	 derecho
+T221	concept 5949 5956	 derecho
+T222	concept 6530 6537	 derecho
+T223	concept 6863 6870	 derecho
+T224	concept 6912 6919	 derecho
+T225	concept 7701 7708	 derecho
+T226	concept 7985 7992	 derecho
+T227	concept 8982 8989	 derecho
+T228	concept 1401 1410	 perjuicio
+T229	concept 5657 5666	 perjuicio
+T230	concept 5935 5944	 perjuicio
+T231	concept 9218 9227	 perjuicio
+T232	concept 1266 1273	 término
+T233	concept 8199 8206	 término
+T234	concept 9291 9298	 término
+T235	concept 7385 7395	 obligación
+T236	concept 7651 7661	 obligación
+T237	concept 9098 9106	 computar
+T238	concept 5632 5641	 conflicto
+T239	concept 5739 5748	 conflicto
+T240	concept 1384 1393	 colectivo
+T241	concept 5642 5651	 colectivo
+T242	concept 9676 9685	 colectivo
+T243	concept 9819 9828	 colectivo
+T244	concept 8995 9002	 permiso
+T245	concept 1053 1060	 periodo
+T246	concept 1939 1946	 periodo
+T247	concept 2274 2281	 periodo
+T248	concept 2559 2566	 periodo
+T249	concept 2931 2938	 periodo
+T250	concept 4473 4480	 periodo
+T251	concept 4630 4637	 periodo
+T252	concept 4786 4793	 periodo
+T253	concept 4938 4945	 periodo
+T254	concept 5385 5392	 periodo
+T255	concept 5897 5904	 periodo
+T256	concept 6170 6177	 periodo
+T257	concept 6402 6409	 periodo
+T258	concept 7490 7497	 periodo
+T259	concept 9388 9395	 periodo
+T260	concept 9717 9724	 periodo
+T261	concept 7862 7876	 rehabilitación
+T262	concept 9908 9915	 persona
+T263	concept 8995 9002	 permiso
+T264	concept 8995 9002	 permiso
