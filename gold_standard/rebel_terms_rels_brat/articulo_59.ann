@@ -1,0 +1,33 @@
+T1	concept 0 24	Prescripción y caducidad
+T2	concept 15 24	caducidad
+T3	concept 15 24	caducidad
+T4	concept 0 24	Prescripción y caducidad
+T5	concept 56 75	contrato de trabajo
+T6	concept 99 113	plazo especial
+T7	concept 56 64	contrato
+T8	concept 186 195	terminado
+T9	concept 247 265	duración convenido
+T10	concept 279 296	disposición legal
+T11	concept 348 383	prestación de servicios continuados
+T12	concept 410 421	continuidad
+T13	concept 410 421	continuidad
+T14	concept 348 383	prestación de servicios continuados
+T15	concept 554 566	obligaciones
+T16	concept 56 64	contrato
+T17	concept 792 812	contratos temporales
+T18	concept 751 775	acción contra el despido
+T19	concept 1079 1114	mediación, arbitraje y conciliación
+T20	concept 1040 1052	conciliación
+T21	concept 1251 1271	movilidad geográfica
+T22	concept 1251 1260	movilidad
+R1	opposite of Arg1:T1 Arg2:T2
+R2	opposite of Arg1:T3 Arg2:T4
+R3	has quality Arg1:T5 Arg2:T6
+R4	has quality Arg1:T7 Arg2:T8
+R5	instance of Arg1:T9 Arg2:T10
+R6	opposite of Arg1:T11 Arg2:T12
+R7	opposite of Arg1:T13 Arg2:T14
+R8	part of Arg1:T15 Arg2:T16
+R9	subclass of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22

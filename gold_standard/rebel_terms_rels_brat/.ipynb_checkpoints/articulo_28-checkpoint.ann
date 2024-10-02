@@ -1,0 +1,18 @@
+T1	concept 0 42	Igualdad de remuneración por razón de sexo
+T2	concept 12 24	remuneración
+T3	concept 237 245	salarial
+T4	concept 139 150	retribución
+T5	concept 462 468	tareas
+T6	concept 450 459	funciones
+T7	concept 842 865	complementos salariales
+T8	concept 828 835	salario
+T9	concept 1121 1175	representación legal de los trabajadores en la empresa
+T10	concept 1087 1175	derecho a acceder, a través de la representación legal de los trabajadores en la empresa
+T11	concept 1522 1539	Registro salarial
+T12	concept 1295 1308	retribuciones
+R1	subclass of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	part of Arg1:T9 Arg2:T10
+R6	facet of Arg1:T11 Arg2:T12

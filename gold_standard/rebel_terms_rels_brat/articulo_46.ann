@@ -1,0 +1,45 @@
+T1	concept 0 11	Excedencias
+T2	concept 0 12	Excedencias.
+T3	concept 40 50	voluntaria
+T4	concept 19 29	excedencia
+T5	concept 53 60	forzosa
+T6	concept 19 29	excedencia
+T7	concept 499 520	excedencia voluntaria
+T8	concept 139 149	antigüedad
+T9	concept 923 931	adopción
+T10	concept 955 961	guarda
+T11	concept 1348 1362	consanguinidad
+T12	concept 1411 1421	enfermedad
+T13	concept 1676 1683	hombres
+T14	concept 1686 1693	mujeres
+T15	concept 1686 1693	mujeres
+T16	concept 1676 1683	hombres
+T17	concept 19 29	excedencia
+T18	concept 83 90	derecho
+T19	concept 2601 2622	categoría equivalente
+T20	concept 2475 2492	puesto de trabajo
+T21	concept 2873 2890	categoría general
+T22	concept 2944 2962	categoría especial
+T23	concept 2944 2962	categoría especial
+T24	concept 2873 2890	categoría general
+T25	concept 3195 3219	excedencia en la empresa
+T26	concept 3249 3269	funciones sindicales
+T27	concept 3417 3435	derecho preferente
+T28	concept 83 90	derecho
+T29	concept 19 29	excedencia
+T30	concept 3026 3033	régimen
+R1	has quality Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	opposite of Arg1:T13 Arg2:T14
+R8	opposite of Arg1:T15 Arg2:T16
+R9	subclass of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	different from Arg1:T21 Arg2:T22
+R12	different from Arg1:T23 Arg2:T24
+R13	instance of Arg1:T25 Arg2:T26
+R14	subclass of Arg1:T27 Arg2:T28
+R15	part of Arg1:T29 Arg2:T30

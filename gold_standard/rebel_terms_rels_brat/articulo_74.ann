@@ -1,0 +1,51 @@
+T1	concept 0 20	Funciones de la mesa
+T2	concept 16 20	mesa
+T3	concept 74 84	elecciones
+T4	concept 41 48	empresa
+T5	concept 74 84	elecciones
+T6	concept 528 545	proceso electoral
+T7	concept 693 706	censo laboral
+T8	concept 693 698	censo
+T9	concept 320 334	mesa electoral
+T10	concept 807 816	funciones
+T11	concept 905 914	electores
+T12	concept 693 706	censo laboral
+T13	concept 979 1007	presentación de candidaturas
+T14	concept 930 954	número de representantes
+T15	concept 1024 1034	proclamará
+T16	concept 995 1007	candidaturas
+T17	concept 1086 1103	fecha de votación
+T18	concept 1095 1103	votación
+T19	concept 1122 1140	acta de escrutinio
+T20	concept 1130 1140	escrutinio
+T21	concept 74 84	elecciones
+T22	concept 1356 1368	constitución
+T23	concept 1534 1554	delegado de personal
+T24	concept 1457 1475	centros de trabajo
+T25	concept 2135 2153	lista de electores
+T26	concept 693 706	censo laboral
+T27	concept 2345 2356	inclusiones
+T28	concept 2372 2384	correcciones
+T29	concept 2372 2384	correcciones
+T30	concept 2345 2356	inclusiones
+T31	concept 2825 2854	lista definitiva de electores
+T32	concept 905 914	electores
+T33	concept 1095 1103	votación
+T34	concept 1619 1645	proclamación de candidatos
+R1	facet of Arg1:T1 Arg2:T2
+R2	facet of Arg1:T3 Arg2:T4
+R3	part of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	instance of Arg1:T9 Arg2:T10
+R6	part of Arg1:T11 Arg2:T12
+R7	facet of Arg1:T13 Arg2:T14
+R8	facet of Arg1:T15 Arg2:T16
+R9	facet of Arg1:T17 Arg2:T18
+R10	used by Arg1:T19 Arg2:T20
+R11	part of Arg1:T21 Arg2:T22
+R12	part of Arg1:T23 Arg2:T24
+R13	subclass of Arg1:T25 Arg2:T26
+R14	opposite of Arg1:T27 Arg2:T28
+R15	opposite of Arg1:T29 Arg2:T30
+R16	facet of Arg1:T31 Arg2:T32
+R17	follows Arg1:T33 Arg2:T34

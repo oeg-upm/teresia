@@ -1,0 +1,24 @@
+T1	concept 0 43	Dirección y control de la actividad laboral
+T2	concept 26 43	actividad laboral
+T3	concept 132 142	empresario
+T4	concept 92 109	trabajo convenido
+T5	concept 242 250	contrato
+T6	concept 242 250	contrato
+T7	concept 835 852	deberes laborales
+T8	concept 820 832	obligaciones
+T9	concept 1210 1216	médico
+T10	concept 1067 1072	salud
+T11	concept 1448 1457	intimidad
+T12	concept 1414 1442	Derechos de los trabajadores
+T13	concept 1448 1457	intimidad
+T14	concept 1870 1888	derechos digitales
+T15	concept 1448 1457	intimidad
+T16	concept 1870 1888	derechos digitales
+R1	facet of Arg1:T1 Arg2:T2
+R2	field of this occupation Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	field of this occupation Arg1:T9 Arg2:T10
+R6	part of Arg1:T11 Arg2:T12
+R7	instance of Arg1:T13 Arg2:T14
+R8	instance of Arg1:T15 Arg2:T16

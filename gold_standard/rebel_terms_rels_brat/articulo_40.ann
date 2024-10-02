@@ -1,0 +1,93 @@
+T1	concept 0 20	Movilidad geográfica
+T2	concept 0 9	Movilidad
+T3	concept 142 168	centros de trabajo móviles
+T4	concept 142 160	centros de trabajo
+T5	concept 632 642	empresario
+T6	concept 40 50	trabajador
+T7	concept 1103 1116	mensualidades
+T8	concept 1040 1058	periodos de tiempo
+T9	concept 1765 1778	reincorporado
+T10	concept 28 36	traslado
+T11	concept 2128 2141	fraude de ley
+T12	concept 2128 2134	fraude
+T13	concept 2290 2332	representantes legales de los trabajadores
+T14	concept 188 205	centro de trabajo
+T15	concept 40 52	trabajadores
+T16	concept 129 137	empresas
+T17	concept 40 52	trabajadores
+T18	concept 129 136	empresa
+T19	concept 40 52	trabajadores
+T20	concept 129 137	empresas
+T21	concept 3204 3224	comisión negociadora
+T22	concept 3325 3338	procedimiento
+T23	concept 3480 3494	interlocutores
+T24	concept 3533 3559	procedimiento de consultas
+T25	concept 2290 2332	representantes legales de los trabajadores
+T26	concept 673 687	representantes
+T27	concept 2261 2281	periodo de consultas
+T28	concept 2261 2281	periodo de consultas
+T29	concept 2272 2281	consultas
+T30	concept 4873 4890	autoridad laboral
+T31	concept 673 695	representantes legales
+T32	concept 3672 3715	comisión representativa de los trabajadores
+T33	concept 2261 2281	periodo de consultas
+T34	concept 28 36	traslado
+T35	concept 5619 5638	conflicto colectivo
+T36	concept 5619 5628	conflicto
+T37	concept 6015 6030	párrafo tercero
+T38	concept 5525 5535	apartado 1
+T39	concept 6260 6269	arbitraje
+T40	concept 6248 6257	mediación
+T41	concept 40 50	trabajador
+T42	concept 6570 6587	puesto de trabajo
+T43	concept 6678 6701	víctimas del terrorismo
+T44	concept 6653 6672	violencia de género
+T45	concept 40 52	trabajadores
+T46	concept 129 136	empresa
+T47	concept 188 205	centro de trabajo
+T48	concept 6570 6587	puesto de trabajo
+T49	concept 2081 2086	nuevo
+T50	concept 2226 2234	anterior
+T51	concept 7849 7880	rehabilitación médico-funcional
+T52	concept 7688 7720	derecho de protección a la salud
+T53	concept 40 52	trabajadores
+T54	concept 129 136	empresa
+T55	concept 8842 8857	días laborables
+T56	concept 8673 8678	viaje
+T57	concept 1913 1922	traslados
+T58	concept 9176 9199	orden de desplazamiento
+T59	concept 1913 1922	traslados
+T60	concept 2138 2141	ley
+T61	concept 9654 9672	convenio colectivo
+T62	concept 5022 5029	acuerdo
+R1	subclass of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	part of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	part of Arg1:T13 Arg2:T14
+R8	part of Arg1:T15 Arg2:T16
+R9	part of Arg1:T17 Arg2:T18
+R10	part of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22
+R12	part of Arg1:T23 Arg2:T24
+R13	subclass of Arg1:T25 Arg2:T26
+R14	follows Arg1:T27 Arg2:T28
+R15	participant Arg1:T29 Arg2:T30
+R16	part of Arg1:T31 Arg2:T32
+R17	subclass of Arg1:T33 Arg2:T34
+R18	subclass of Arg1:T35 Arg2:T36
+R19	part of Arg1:T37 Arg2:T38
+R20	subclass of Arg1:T39 Arg2:T40
+R21	subclass of Arg1:T41 Arg2:T42
+R22	subclass of Arg1:T43 Arg2:T44
+R23	part of Arg1:T45 Arg2:T46
+R24	subclass of Arg1:T47 Arg2:T48
+R25	follows Arg1:T49 Arg2:T50
+R26	part of Arg1:T51 Arg2:T52
+R27	part of Arg1:T53 Arg2:T54
+R28	part of Arg1:T55 Arg2:T56
+R29	part of Arg1:T57 Arg2:T58
+R30	main regulatory text Arg1:T59 Arg2:T60
+R31	subclass of Arg1:T61 Arg2:T62

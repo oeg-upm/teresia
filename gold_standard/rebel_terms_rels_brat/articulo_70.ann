@@ -1,0 +1,6 @@
+T1	concept 0 23	Votación para delegados
+T2	concept 14 23	delegados
+T3	concept 45 66	delegados de personal
+T4	concept 150 157	puestos
+R1	office contested Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4

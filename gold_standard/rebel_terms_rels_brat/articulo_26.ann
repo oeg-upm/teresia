@@ -1,0 +1,24 @@
+T1	concept 4 11	salario
+T2	concept 4 11	salario
+T3	concept 4 11	salario
+T4	concept 269 281	remuneración
+T5	concept 269 281	remuneración
+T6	concept 4 11	salario
+T7	concept 614 645	salario mínimo interprofesional
+T8	concept 447 465	salario en especie
+T9	concept 749 764	indemnizaciones
+T10	concept 886 902	Seguridad Social
+T11	concept 1127 1139	salario base
+T12	concept 4 11	salario
+T13	concept 886 902	Seguridad Social
+T14	concept 1726 1741	cargas fiscales
+T15	concept 4 11	salario
+T16	concept 1953 1960	cómputo
+R1	part of Arg1:T1 Arg2:T2
+R2	different from Arg1:T3 Arg2:T4
+R3	different from Arg1:T5 Arg2:T6
+R4	instance of Arg1:T7 Arg2:T8
+R5	part of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	subclass of Arg1:T13 Arg2:T14
+R8	part of Arg1:T15 Arg2:T16

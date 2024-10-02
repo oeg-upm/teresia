@@ -1,0 +1,60 @@
+T1	concept 0 12	Legitimación
+T2	concept 0 12	Legitimación
+T3	concept 142 159	comité de empresa
+T4	concept 96 116	convenios de empresa
+T5	concept 165 186	delegados de personal
+T6	concept 206 226	secciones sindicales
+T7	concept 888 909	convenios sectoriales
+T8	concept 96 105	convenios
+T9	concept 206 226	secciones sindicales
+T10	concept 96 105	convenios
+T11	concept 888 909	convenios sectoriales
+T12	concept 96 104	convenio
+T13	concept 1454 1463	federadas
+T14	concept 1417 1442	organizaciones sindicales
+T15	concept 1466 1478	confederadas
+T16	concept 1417 1442	organizaciones sindicales
+T17	concept 1454 1463	federadas
+T18	concept 1417 1442	organizaciones sindicales
+T19	concept 1466 1478	confederadas
+T20	concept 1417 1442	organizaciones sindicales
+T21	concept 1873 1891	comités de empresa
+T22	concept 1296 1306	sindicatos
+T23	concept 2012 2022	empresario
+T24	concept 80 88	negociar
+T25	concept 96 116	convenios de empresa
+T26	concept 2012 2022	empresario
+T27	concept 109 116	empresa
+T28	concept 109 116	empresa
+T29	concept 109 116	empresa
+T30	concept 109 116	empresa
+T31	concept 2012 2022	empresario
+T32	concept 2422 2448	asociaciones empresariales
+T33	concept 2012 2022	empresario
+T34	concept 2422 2448	asociaciones empresariales
+T35	concept 3017 3047	convenios colectivos de sector
+T36	concept 96 105	convenios
+T37	media 3545 3603	Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical
+T38	loc 1574 1592	comunidad autónoma
+T39	concept 3786 3808	confederación sindical
+T40	concept 1296 1305	sindicato
+R1	has quality Arg1:T1 Arg2:T2
+R2	part of Arg1:T3 Arg2:T4
+R3	part of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	part of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	subclass of Arg1:T13 Arg2:T14
+R8	subclass of Arg1:T15 Arg2:T16
+R9	subclass of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22
+R12	field of this occupation Arg1:T23 Arg2:T24
+R13	participant Arg1:T25 Arg2:T26
+R14	different from Arg1:T27 Arg2:T28
+R15	different from Arg1:T29 Arg2:T30
+R16	field of this occupation Arg1:T31 Arg2:T32
+R17	field of this occupation Arg1:T33 Arg2:T34
+R18	subclass of Arg1:T35 Arg2:T36
+R19	applies to jurisdiction Arg1:T37 Arg2:T38
+R20	subclass of Arg1:T39 Arg2:T40

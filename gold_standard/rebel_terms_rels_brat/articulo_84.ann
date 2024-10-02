@@ -1,0 +1,42 @@
+T1	concept 0 12	Concurrencia
+T2	concept 0 12	Concurrencia
+T3	concept 103 131	convenios de ámbito distinto
+T4	concept 20 38	convenio colectivo
+T5	concept 396 416	convenios colectivos
+T6	concept 315 334	convenio de empresa
+T7	concept 585 597	salario base
+T8	concept 585 592	salario
+T9	concept 738 759	horas extraordinarias
+T10	concept 765 776	retribución
+T11	concept 929 939	vacaciones
+T12	concept 817 824	horario
+T13	concept 1031 1043	trabajadores
+T14	concept 327 334	empresa
+T15	concept 1150 1170	convenios de empresa
+T16	concept 1101 1113	contratación
+T17	concept 1206 1261	conciliación entre la vida laboral, familiar y personal
+T18	concept 1206 1261	conciliación entre la vida laboral, familiar y personal
+T19	concept 396 416	convenios colectivos
+T20	concept 1300 1308	acuerdos
+T21	concept 1492 1511	empresas vinculadas
+T22	concept 396 416	convenios colectivos
+T23	concept 207 211	83.2
+T24	concept 198 206	artículo
+T25	concept 1938 1940	88
+T26	concept 1613 1615	87
+T27	concept 2698 2729	prevención de riesgos laborales
+T28	concept 2642 2663	régimen disciplinario
+R1	has cause Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	has quality Arg1:T11 Arg2:T12
+R7	part of Arg1:T13 Arg2:T14
+R8	part of Arg1:T15 Arg2:T16
+R9	subclass of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22
+R12	instance of Arg1:T23 Arg2:T24
+R13	follows Arg1:T25 Arg2:T26
+R14	subclass of Arg1:T27 Arg2:T28

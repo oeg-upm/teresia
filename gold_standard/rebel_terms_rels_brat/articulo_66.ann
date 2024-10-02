@@ -1,0 +1,39 @@
+T1	concept 0 11	Composición
+T2	concept 0 11	Composición
+T3	concept 42 59	comité de empresa
+T4	concept 103 109	escala
+T5	concept 118 127	cincuenta
+T6	concept 130 134	cien
+T7	concept 130 134	cien
+T8	concept 118 127	cincuenta
+T9	concept 176 209	doscientos cincuenta trabajadores
+T10	concept 163 209	ciento uno a doscientos cincuenta trabajadores
+T11	concept 279 284	trece
+T12	concept 236 251	cincuenta y uno
+T13	concept 118 127	cincuenta
+T14	concept 254 264	quinientos
+T15	concept 413 422	veintiuno
+T16	concept 236 251	cincuenta y uno
+T17	concept 494 501	setenta
+T18	concept 395 398	mil
+T19	concept 149 154	cinco
+T20	concept 395 398	mil
+T21	concept 540 557	centro de trabajo
+T22	concept 52 59	empresa
+T23	concept 896 918	tercio de sus miembros
+T24	concept 924 950	tercio de los trabajadores
+T25	concept 924 950	tercio de los trabajadores
+T26	concept 896 918	tercio de sus miembros
+R1	has quality Arg1:T1 Arg2:T2
+R2	instance of Arg1:T3 Arg2:T4
+R3	part of Arg1:T5 Arg2:T6
+R4	follows Arg1:T7 Arg2:T8
+R5	part of Arg1:T9 Arg2:T10
+R6	follows Arg1:T11 Arg2:T12
+R7	follows Arg1:T13 Arg2:T14
+R8	follows Arg1:T15 Arg2:T16
+R9	part of Arg1:T17 Arg2:T18
+R10	part of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22
+R12	opposite of Arg1:T23 Arg2:T24
+R13	opposite of Arg1:T25 Arg2:T26

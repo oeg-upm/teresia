@@ -1,0 +1,57 @@
+T1	concept 22 52	extinción por causas objetivas
+T2	concept 0 31	Forma y efectos de la extinción
+T3	concept 73 93	acuerdo de extinción
+T4	concept 22 31	extinción
+T5	concept 199 219	Comunicación escrita
+T6	concept 223 233	trabajador
+T7	concept 497 510	mensualidades
+T8	concept 355 368	indemnización
+T9	concept 559 572	artículo 52.c
+T10	concept 523 541	decisión extintiva
+T11	concept 559 572	artículo 52.c
+T12	concept 523 541	decisión extintiva
+T13	concept 1095 1128	extinción del contrato de trabajo
+T14	concept 1109 1128	contrato de trabajo
+T15	concept 1473 1481	licencia
+T16	concept 1533 1539	empleo
+T17	concept 523 541	decisión extintiva
+T18	concept 1611 1632	despido disciplinario
+T19	concept 1853 1872	libertades públicas
+T20	concept 1828 1850	derechos fundamentales
+T21	concept 532 541	extintiva
+T22	concept 523 531	decisión
+T23	concept 2370 2375	parto
+T24	concept 2267 2284	lactancia natural
+T25	concept 2515 2539	trabajadoras embarazadas
+T26	concept 2079 2091	trabajadoras
+T27	concept 1095 1117	extinción del contrato
+T28	concept 1611 1618	despido
+T29	concept 523 541	decisión extintiva
+T30	concept 523 531	decisión
+T31	concept 523 541	decisión extintiva
+T32	concept 523 531	decisión
+T33	concept 355 368	indemnización
+T34	concept 4447 4454	salario
+T35	concept 4657 4709	procedencia o improcedencia de la decisión extintiva
+T36	concept 1611 1632	despido disciplinario
+T37	concept 4990 4999	desempleo
+T38	concept 355 368	indemnización
+R1	subclass of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	used by Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	main subject Arg1:T9 Arg2:T10
+R6	main subject Arg1:T11 Arg2:T12
+R7	facet of Arg1:T13 Arg2:T14
+R8	instance of Arg1:T15 Arg2:T16
+R9	subclass of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	subclass of Arg1:T21 Arg2:T22
+R12	has cause Arg1:T23 Arg2:T24
+R13	subclass of Arg1:T25 Arg2:T26
+R14	subclass of Arg1:T27 Arg2:T28
+R15	subclass of Arg1:T29 Arg2:T30
+R16	subclass of Arg1:T31 Arg2:T32
+R17	subclass of Arg1:T33 Arg2:T34
+R18	subclass of Arg1:T35 Arg2:T36
+R19	subclass of Arg1:T37 Arg2:T38

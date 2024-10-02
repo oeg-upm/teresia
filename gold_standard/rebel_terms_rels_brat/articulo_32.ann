@@ -1,0 +1,18 @@
+T1	concept 0 21	Garantías del salario
+T2	concept 14 21	salario
+T3	concept 130 161	salario mínimo interprofesional
+T4	concept 14 21	salario
+T5	concept 30 49	créditos salariales
+T6	concept 30 37	crédito
+T7	concept 938 965	indemnizaciones por despido
+T8	concept 999 1011	mínimo legal
+T9	concept 1141 1157	crédito salarial
+T10	concept 14 21	salario
+T11	concept 1442 1450	concurso
+T12	concept 1625 1634	Concursal
+R1	facet of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12

@@ -1,0 +1,69 @@
+T1	concept 0 19	Concepto y eficacia
+T2	concept 11 19	eficacia
+T3	concept 190 197	acuerdo
+T4	concept 71 82	negociación
+T5	concept 28 48	convenios colectivos
+T6	concept 451 462	paz laboral
+T7	concept 28 48	convenios colectivos
+T8	concept 555 558	ley
+T9	concept 1171 1177	sector
+T10	concept 148 155	empresa
+T11	concept 1171 1177	sector
+T12	concept 148 155	empresa
+T13	concept 1235 1253	Jornada de trabajo
+T14	concept 1235 1242	Jornada
+T15	concept 1286 1303	tiempo de trabajo
+T16	concept 1259 1266	Horario
+T17	concept 1309 1336	Régimen de trabajo a turnos
+T18	concept 1330 1336	turnos
+T19	concept 1368 1384	cuantía salarial
+T20	concept 1353 1365	remuneración
+T21	concept 1390 1422	Sistema de trabajo y rendimiento
+T22	concept 1411 1422	rendimiento
+T23	concept 1428 1437	Funciones
+T24	concept 1481 1500	movilidad funcional
+T25	concept 1553 1570	acción protectora
+T26	concept 1577 1593	Seguridad Social
+T27	concept 1838 1857	ingresos ordinarios
+T28	concept 1860 1866	ventas
+T29	concept 1860 1866	ventas
+T30	concept 1838 1857	ingresos ordinarios
+T31	concept 2120 2135	causas técnicas
+T32	concept 2404 2422	causas productivas
+T33	concept 2404 2422	causas productivas
+T34	concept 2120 2135	causas técnicas
+T35	concept 2577 2591	interlocutores
+T36	concept 2630 2656	procedimiento de consultas
+T37	concept 3406 3444	discriminaciones por razones de género
+T38	concept 3498 3514	plan de igualdad
+T39	concept 4354 4374	arbitraje vinculante
+T40	concept 4392 4406	laudo arbitral
+T41	concept 5081 5102	comunidades autónomas
+T42	concept 5021 5039	comunidad autónoma
+T43	concept 5840 5848	depósito
+T44	concept 379 401	condiciones de trabajo
+T45	concept 5927 5935	derechos
+T46	concept 898 916	convenio colectivo
+R1	facet of Arg1:T1 Arg2:T2
+R2	part of Arg1:T3 Arg2:T4
+R3	part of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	subclass of Arg1:T13 Arg2:T14
+R8	part of Arg1:T15 Arg2:T16
+R9	facet of Arg1:T17 Arg2:T18
+R10	subclass of Arg1:T19 Arg2:T20
+R11	facet of Arg1:T21 Arg2:T22
+R12	part of Arg1:T23 Arg2:T24
+R13	part of Arg1:T25 Arg2:T26
+R14	opposite of Arg1:T27 Arg2:T28
+R15	opposite of Arg1:T29 Arg2:T30
+R16	opposite of Arg1:T31 Arg2:T32
+R17	opposite of Arg1:T33 Arg2:T34
+R18	part of Arg1:T35 Arg2:T36
+R19	facet of Arg1:T37 Arg2:T38
+R20	subclass of Arg1:T39 Arg2:T40
+R21	subclass of Arg1:T41 Arg2:T42
+R22	facet of Arg1:T43 Arg2:T44
+R23	part of Arg1:T45 Arg2:T46

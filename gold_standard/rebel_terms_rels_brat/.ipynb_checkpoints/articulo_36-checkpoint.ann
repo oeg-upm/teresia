@@ -1,0 +1,6 @@
+T1	concept 0 16	Trabajo nocturno
+T2	concept 18 34	trabajo a turnos
+T3	concept 28 34	turnos
+T4	concept 18 25	trabajo
+R1	subclass of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4

@@ -1,0 +1,66 @@
+T1	concept 3 11	sucesión
+T2	concept 15 22	empresa
+T3	concept 101 127	unidad productiva autónoma
+T4	concept 15 22	empresa
+T5	concept 15 22	empresa
+T6	concept 632 649	entidad económica
+T7	concept 261 277	Seguridad Social
+T8	concept 233 255	obligaciones laborales
+T9	concept 607 618	transmisión
+T10	concept 1273 1279	delito
+T11	concept 74 91	centro de trabajo
+T12	concept 101 127	unidad productiva autónoma
+T13	concept 1541 1559	convenio colectivo
+T14	concept 632 649	entidad económica
+T15	concept 194 204	empresario
+T16	concept 15 22	empresa
+T17	concept 491 498	cedente
+T18	concept 887 897	cesionario
+T19	concept 887 897	cesionario
+T20	concept 491 498	cedente
+T21	concept 607 618	transmisión
+T22	concept 2447 2452	Fecha
+T23	concept 2485 2510	Motivos de la transmisión
+T24	concept 607 618	transmisión
+T25	concept 2541 2551	económicas
+T26	concept 2516 2539	Consecuencias jurídicas
+T27	concept 2607 2656	d) Medidas previstas respecto de los trabajadores
+T28	concept 2610 2656	Medidas previstas respecto de los trabajadores
+T29	concept 491 498	cedente
+T30	concept 887 897	cesionario
+T31	concept 887 897	cesionario
+T32	concept 491 498	cedente
+T33	concept 81 91	de trabajo
+T34	concept 3232 3238	empleo
+T35	concept 3293 3299	fusión
+T36	concept 3302 3310	escisión
+T37	concept 3302 3310	escisión
+T38	concept 3293 3299	fusión
+T39	concept 4354 4356	41
+T40	concept 4347 4349	40
+T41	concept 491 498	cedente
+T42	concept 887 897	cesionario
+T43	concept 887 897	cesionario
+T44	concept 491 498	cedente
+R1	subclass of Arg1:T1 Arg2:T2
+R2	subclass of Arg1:T3 Arg2:T4
+R3	subclass of Arg1:T5 Arg2:T6
+R4	subclass of Arg1:T7 Arg2:T8
+R5	subclass of Arg1:T9 Arg2:T10
+R6	subclass of Arg1:T11 Arg2:T12
+R7	main subject Arg1:T13 Arg2:T14
+R8	field of this occupation Arg1:T15 Arg2:T16
+R9	opposite of Arg1:T17 Arg2:T18
+R10	opposite of Arg1:T19 Arg2:T20
+R11	has quality Arg1:T21 Arg2:T22
+R12	facet of Arg1:T23 Arg2:T24
+R13	subclass of Arg1:T25 Arg2:T26
+R14	subclass of Arg1:T27 Arg2:T28
+R15	opposite of Arg1:T29 Arg2:T30
+R16	opposite of Arg1:T31 Arg2:T32
+R17	part of Arg1:T33 Arg2:T34
+R18	different from Arg1:T35 Arg2:T36
+R19	different from Arg1:T37 Arg2:T38
+R20	follows Arg1:T39 Arg2:T40
+R21	opposite of Arg1:T41 Arg2:T42
+R22	opposite of Arg1:T43 Arg2:T44
