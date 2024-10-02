@@ -1,0 +1,30 @@
+T1	concept 0 17	Deberes laborales
+T2	concept 8 17	laborales
+T3	concept 48 63	deberes básicos
+T4	concept 48 55	deberes
+T5	concept 169 177	buena fe
+T6	concept 156 162	reglas
+T7	concept 180 190	diligencia
+T8	concept 156 162	reglas
+T9	concept 220 251	prevención de riesgos laborales
+T10	concept 209 230	medidas de prevención
+T11	concept 354 375	facultades directivas
+T12	concept 312 322	empresario
+T13	concept 312 319	empresa
+T14	concept 401 410	actividad
+T15	concept 464 509	e) Contribuir a la mejora de la productividad
+T16	concept 496 509	productividad
+T17	concept 566 586	contratos de trabajo
+T18	concept 515 522	Cuantos
+T19	concept 601 645	Elementos y eficacia del contrato de trabajo
+T20	concept 626 645	contrato de trabajo
+R1	facet_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	instance_of Arg1:T5 Arg2:T6
+R4	instance_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	facet_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	facet_of Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20

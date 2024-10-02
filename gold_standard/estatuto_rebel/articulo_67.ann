@@ -1,0 +1,42 @@
+T1	concept 0 23	Promoción de elecciones
+T2	concept 26 43	mandato electoral
+T3	concept 77 98	delegados de personal
+T4	concept 136 161	organizaciones sindicales
+T5	concept 101 131	miembros de comités de empresa
+T6	concept 136 161	organizaciones sindicales
+T7	concept 13 23	elecciones
+T8	concept 837 854	proceso electoral
+T9	media 1590 1648	Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical
+T10	concept 337 347	sindicatos
+T11	concept 1933 2000	renovar la representación por conclusión de la duración del mandato
+T12	concept 13 23	elecciones
+T13	concept 2136 2156	elecciones parciales
+T14	concept 2250 2270	convenios colectivos
+T15	concept 365 388	promoción de elecciones
+T16	concept 837 854	proceso electoral
+T17	concept 365 374	promoción
+T18	concept 837 854	proceso electoral
+T19	concept 3697 3714	comité de empresa
+T20	concept 124 131	empresa
+T21	concept 77 98	delegados de personal
+T22	org 3697 3714	comité de empresa
+T23	concept 4628 4645	sufragio personal
+T24	concept 4628 4636	sufragio
+T25	concept 77 98	delegados de personal
+T26	concept 5182 5190	votación
+T27	concept 1359 1377	tablón de anuncios
+T28	concept 680 695	oficina pública
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	part_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	main_subject Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	part_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	part_of Arg1:T25 Arg2:T26
+R14	part_of Arg1:T27 Arg2:T28

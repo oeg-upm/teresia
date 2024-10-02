@@ -1,0 +1,75 @@
+T1	concept 0 7	Jornada
+T2	per 0 8	Jornada.
+T3	concept 95 115	contratos de trabajo
+T4	concept 72 92	convenios colectivos
+T5	concept 189 194	horas
+T6	concept 15 23	duración
+T7	concept 268 286	convenio colectivo
+T8	concept 309 316	acuerdo
+T9	concept 662 670	descanso
+T10	concept 799 820	prestación de trabajo
+T11	concept 143 160	jornada ordinaria
+T12	concept 30 37	jornada
+T13	concept 189 194	horas
+T14	concept 189 193	hora
+T15	concept 662 670	descanso
+T16	concept 662 670	descanso
+T17	concept 1831 1844	horas diarias
+T18	concept 208 224	trabajo efectivo
+T19	concept 189 194	horas
+T20	concept 15 23	duración
+T21	concept 2185 2192	minutos
+T22	concept 189 193	hora
+T23	concept 2044 2058	jornada diaria
+T24	concept 1678 1695	tiempo de trabajo
+T25	concept 2791 2809	calendario laboral
+T26	concept 326 333	empresa
+T27	org 2954 3007	Ministerio de Trabajo, Migraciones y Seguridad Social
+T28	org 2906 2914	Gobierno
+T29	concept 3466 3514	duración y distribución de la jornada de trabajo
+T30	concept 1678 1695	tiempo de trabajo
+T31	concept 3923 3928	hijos
+T32	concept 3931 3935	hija
+T33	concept 3931 3935	hija
+T34	concept 3923 3928	hijos
+T35	concept 4217 4224	directa
+T36	concept 4230 4239	indirecta
+T37	concept 4230 4239	indirecta
+T38	concept 4217 4224	directa
+T39	concept 30 37	jornada
+T40	concept 4876 4897	modalidad contractual
+T41	concept 5150 5158	permisos
+T42	concept 3423 3430	derecho
+T43	media 5448 5459	Ley 36/2011
+T44	concept 5479 5515	Reguladora de la Jurisdicción Social
+T45	concept 5713 5733	flexibilidad horaria
+T46	concept 5597 5604	horario
+T47	concept 5803 5821	acuerdo de empresa
+T48	concept 4060 4081	negociación colectiva
+T49	concept 6185 6225	Inspección de Trabajo y Seguridad Social
+T50	concept 2991 3007	Seguridad Social
+R1	named_after Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	measured_physical_quantity Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	measured_physical_quantity Arg1:T19 Arg2:T20
+R11	part_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	used_by Arg1:T25 Arg2:T26
+R14	part_of Arg1:T27 Arg2:T28
+R15	facet_of Arg1:T29 Arg2:T30
+R16	opposite_of Arg1:T31 Arg2:T32
+R17	opposite_of Arg1:T33 Arg2:T34
+R18	opposite_of Arg1:T35 Arg2:T36
+R19	opposite_of Arg1:T37 Arg2:T38
+R20	instance_of Arg1:T39 Arg2:T40
+R21	subclass_of Arg1:T41 Arg2:T42
+R22	main_subject Arg1:T43 Arg2:T44
+R23	subclass_of Arg1:T45 Arg2:T46
+R24	part_of Arg1:T47 Arg2:T48
+R25	field_of_work Arg1:T49 Arg2:T50

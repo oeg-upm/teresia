@@ -1,0 +1,24 @@
+T1	concept 0 16	Lugar de reunión
+T2	concept 9 16	reunión
+T3	concept 49 66	centro de trabajo
+T4	concept 9 16	reunión
+T5	concept 280 288	asamblea
+T6	concept 186 196	empresario
+T7	concept 346 359	disposiciones
+T8	concept 368 371	ley
+T9	concept 430 454	última reunión celebrada
+T10	concept 437 454	reunión celebrada
+T11	concept 506 519	resarcimiento
+T12	concept 481 490	resarcido
+T13	concept 603 615	Cierre legal
+T14	concept 186 193	empresa
+T15	concept 759 766	letra b
+T16	concept 665 685	convenios colectivos
+R1	part_of Arg1:T1 Arg2:T2
+R2	use Arg1:T3 Arg2:T4
+R3	participant Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	follows Arg1:T9 Arg2:T10
+R6	has_cause Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16

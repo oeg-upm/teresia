@@ -1,6 +1,0 @@
-T1	concept 0 13	Convocatoria.
-T2	concept 0 12	Convocatoria
-T3	concept 49 62	orden del día
-T4	concept 81 92	convocantes
-R1	instance of Arg1:T1 Arg2:T2
-R2	subclass of Arg1:T3 Arg2:T4

@@ -1,6 +1,0 @@
-T1	concept 0 30	Imposibilidad de la prestación
-T2	concept 20 30	prestación
-T3	concept 250 257	salario
-T4	concept 101 109	contrato
-R1	facet of Arg1:T1 Arg2:T2
-R2	part of Arg1:T3 Arg2:T4

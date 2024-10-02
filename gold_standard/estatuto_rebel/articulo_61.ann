@@ -1,0 +1,6 @@
+T1	concept 0 13	Participación
+T2	concept 0 13	Participación
+T3	concept 99 112	participación
+T4	concept 99 112	participación
+R1	facet_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4

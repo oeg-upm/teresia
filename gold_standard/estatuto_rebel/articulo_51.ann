@@ -1,0 +1,138 @@
+T1	concept 0 17	Despido colectivo
+T2	concept 0 7	Despido
+T3	concept 77 94	despido colectivo
+T4	concept 98 131	extinción de contratos de trabajo
+T5	concept 282 294	trabajadores
+T6	concept 303 311	empresas
+T7	concept 282 294	trabajadores
+T8	concept 303 310	empresa
+T9	concept 282 294	trabajadores
+T10	concept 303 311	empresas
+T11	concept 912 921	trimestre
+T12	concept 1047 1050	año
+T13	concept 1088 1103	causas técnicas
+T14	concept 1371 1389	causas productivas
+T15	concept 1371 1389	causas productivas
+T16	concept 1088 1103	causas técnicas
+T17	concept 1644 1653	plantilla
+T18	concept 303 310	empresa
+T19	concept 1916 1940	extinciones de contratos
+T20	concept 111 119	contrato
+T21	concept 1916 1940	extinciones de contratos
+T22	concept 2657 2670	fraude de ley
+T23	concept 3098 3117	despidos colectivos
+T24	concept 77 84	despido
+T25	concept 3645 3659	interlocutores
+T26	concept 3698 3724	procedimiento de consultas
+T27	concept 77 94	despido colectivo
+T28	concept 77 84	despido
+T29	concept 4646 4680	representantes de los trabajadores
+T30	concept 4688 4705	autoridad laboral
+T31	concept 2102 2112	empresario
+T32	concept 282 294	trabajadores
+T33	concept 5283 5311	causas del despido colectivo
+T34	concept 77 84	despido
+T35	concept 5360 5439	Número y clasificación profesional de los trabajadores afectados por el despido
+T36	concept 77 84	despido
+T37	concept 5360 5394	Número y clasificación profesional
+T38	concept 282 294	trabajadores
+T39	concept 5546 5598	Periodo previsto para la realización de los despidos
+T40	concept 77 84	despido
+T41	concept 77 84	despido
+T42	concept 5659 5698	trabajadores afectados por los despidos
+T43	concept 77 94	despido colectivo
+T44	concept 77 84	despido
+T45	concept 3369 3389	comisión negociadora
+T46	concept 5881 5915	Representantes de los trabajadores
+T47	concept 77 94	despido colectivo
+T48	concept 4688 4705	autoridad laboral
+T49	concept 6594 6634	Inspección de Trabajo y Seguridad Social
+T50	concept 6493 6542	entidad gestora de las prestaciones por desempleo
+T51	concept 7073 7080	acuerdo
+T52	concept 7017 7025	negociar
+T53	concept 2791 2833	representantes legales de los trabajadores
+T54	concept 3837 3880	comisión representativa de los trabajadores
+T55	concept 7565 7574	arbitraje
+T56	concept 7553 7562	mediación
+T57	concept 2773 2782	consultas
+T58	concept 7553 7562	mediación
+T59	concept 77 94	despido colectivo
+T60	concept 4688 4705	autoridad laboral
+T61	concept 4146 4180	procedimiento de despido colectivo
+T62	concept 77 94	despido colectivo
+T63	concept 2102 2112	empresario
+T64	concept 303 310	empresa
+T65	concept 2102 2112	empresario
+T66	concept 282 294	trabajadores
+T67	concept 10029 10047	convenio colectivo
+T68	concept 7073 7080	acuerdo
+T69	concept 77 84	despido
+T70	concept 10288 10308	decisión empresarial
+T71	concept 6533 6542	desempleo
+T72	concept 11060 11088	situación legal de desempleo
+T73	concept 1573 1610	extinción de los contratos de trabajo
+T74	concept 11111 11123	fuerza mayor
+T75	concept 11656 11672	parte interesada
+T76	concept 303 310	empresa
+T77	concept 1573 1599	extinción de los contratos
+T78	concept 11111 11123	fuerza mayor
+T79	media 12451 12477	Fondo de Garantía Salarial
+T80	concept 4688 4705	autoridad laboral
+T81	concept 2102 2112	empresario
+T82	concept 303 310	empresa
+T83	time 13224 13228	1967
+T84	date 13210 13228	1 de enero de 1967
+T85	concept 77 94	despido colectivo
+T86	concept 13614 13634	plan de recolocación
+T87	concept 14151 14177	servicio público de empleo
+T88	concept 4688 4705	autoridad laboral
+T89	concept 14601 14612	reclamación
+T90	concept 14601 14612	reclamación
+T91	concept 14846 14866	aportación económica
+T92	concept 14870 14884	Tesoro Público
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	part_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12
+R7	opposite_of Arg1:T13 Arg2:T14
+R8	opposite_of Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	part_of Arg1:T25 Arg2:T26
+R14	subclass_of Arg1:T27 Arg2:T28
+R15	subclass_of Arg1:T29 Arg2:T30
+R16	field_of_this_occupation Arg1:T31 Arg2:T32
+R17	facet_of Arg1:T33 Arg2:T34
+R18	facet_of Arg1:T35 Arg2:T36
+R19	facet_of Arg1:T37 Arg2:T38
+R20	subclass_of Arg1:T39 Arg2:T40
+R21	has_cause Arg1:T41 Arg2:T42
+R22	subclass_of Arg1:T43 Arg2:T44
+R23	subclass_of Arg1:T45 Arg2:T46
+R24	participant Arg1:T47 Arg2:T48
+R25	subsidiary Arg1:T49 Arg2:T50
+R26	part_of Arg1:T51 Arg2:T52
+R27	part_of Arg1:T53 Arg2:T54
+R28	subclass_of Arg1:T55 Arg2:T56
+R29	subclass_of Arg1:T57 Arg2:T58
+R30	participant Arg1:T59 Arg2:T60
+R31	facet_of Arg1:T61 Arg2:T62
+R32	field_of_this_occupation Arg1:T63 Arg2:T64
+R33	field_of_this_occupation Arg1:T65 Arg2:T66
+R34	subclass_of Arg1:T67 Arg2:T68
+R35	subclass_of Arg1:T69 Arg2:T70
+R36	has_cause Arg1:T71 Arg2:T72
+R37	has_cause Arg1:T73 Arg2:T74
+R38	part_of Arg1:T75 Arg2:T76
+R39	has_cause Arg1:T77 Arg2:T78
+R40	instance_of Arg1:T79 Arg2:T80
+R41	field_of_this_occupation Arg1:T81 Arg2:T82
+R42	point_in_time Arg1:T83 Arg2:T84
+R43	subclass_of Arg1:T85 Arg2:T86
+R44	subclass_of Arg1:T87 Arg2:T88
+R45	subclass_of Arg1:T89 Arg2:T90
+R46	part_of Arg1:T91 Arg2:T92

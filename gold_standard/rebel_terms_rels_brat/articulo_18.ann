@@ -1,6 +1,0 @@
-T1	concept 0 28	Inviolabilidad de la persona
-T2	concept 33 43	trabajador
-T3	concept 302 318	horas de trabajo
-T4	concept 279 296	centro de trabajo
-R1	facet of Arg1:T1 Arg2:T2
-R2	part of Arg1:T3 Arg2:T4

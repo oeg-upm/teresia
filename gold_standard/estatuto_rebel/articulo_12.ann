@@ -1,0 +1,186 @@
+T1	concept 0 25	Contrato a tiempo parcial
+T2	concept 28 46	contrato de relevo
+T3	concept 195 198	día
+T4	concept 186 190	hora
+T5	concept 205 211	semana
+T6	concept 216 219	mes
+T7	concept 216 219	mes
+T8	concept 225 228	año
+T9	concept 269 297	trabajador a tiempo completo
+T10	concept 54 73	contrato de trabajo
+T11	concept 1006 1049	contrato para la formación y el aprendizaje
+T12	concept 978 990	contratación
+T13	concept 799 824	contrato a tiempo parcial
+T14	concept 28 36	contrato
+T15	concept 799 824	contrato a tiempo parcial
+T16	concept 11 25	tiempo parcial
+T17	concept 195 198	día
+T18	concept 205 211	semana
+T19	concept 1750 1766	jornada completa
+T20	concept 28 36	contrato
+T21	concept 799 824	contrato a tiempo parcial
+T22	concept 716 734	convenio colectivo
+T23	concept 2210 2231	horas extraordinarias
+T24	concept 11 25	tiempo parcial
+T25	concept 2314 2335	horas complementarias
+T26	concept 186 191	horas
+T27	concept 1522 1538	horas ordinarias
+T28	concept 2539 2563	trabajo a tiempo parcial
+T29	concept 2320 2335	complementarias
+T30	concept 2539 2563	trabajo a tiempo parcial
+T31	concept 2488 2499	voluntarias
+T32	concept 2539 2563	trabajo a tiempo parcial
+T33	concept 1528 1538	ordinarias
+T34	concept 186 191	horas
+T35	concept 2320 2335	complementarias
+T36	concept 186 191	horas
+T37	concept 2972 2992	registros de jornada
+T38	concept 244 251	jornada
+T39	concept 1750 1766	jornada completa
+T40	concept 28 36	contrato
+T41	concept 3668 3675	mujeres
+T42	concept 3678 3685	hombres
+T43	concept 3678 3685	hombres
+T44	concept 3668 3675	mujeres
+T45	concept 4021 4030	despedido
+T46	concept 4061 4068	sanción
+T47	concept 2539 2563	trabajo a tiempo parcial
+T48	concept 3711 3736	trabajo a tiempo completo
+T49	concept 2539 2563	trabajo a tiempo parcial
+T50	concept 2539 2563	trabajo a tiempo parcial
+T51	concept 2539 2563	trabajo a tiempo parcial
+T52	concept 3711 3736	trabajo a tiempo completo
+T53	concept 2539 2563	trabajo a tiempo parcial
+T54	concept 2539 2563	trabajo a tiempo parcial
+T55	concept 2539 2563	trabajo a tiempo parcial
+T56	concept 3711 3736	trabajo a tiempo completo
+T57	concept 2539 2563	trabajo a tiempo parcial
+T58	concept 2539 2563	trabajo a tiempo parcial
+T59	concept 5093 5101	motivada
+T60	concept 1470 1477	escrito
+T61	concept 5229 5259	formación profesional continua
+T62	concept 5306 5319	profesionales
+T63	concept 2314 2335	horas complementarias
+T64	concept 1522 1538	horas ordinarias
+T65	concept 1522 1538	horas ordinarias
+T66	concept 2314 2335	horas complementarias
+T67	concept 2314 2335	horas complementarias
+T68	concept 28 36	contrato
+T69	concept 6047 6062	horas semanales
+T70	concept 244 262	jornada de trabajo
+T71	concept 2314 2335	horas complementarias
+T72	concept 5929 5959	pacto de horas complementarias
+T73	concept 2314 2335	horas complementarias
+T74	concept 1522 1538	horas ordinarias
+T75	concept 1522 1538	horas ordinarias
+T76	concept 2314 2335	horas complementarias
+T77	concept 2314 2335	horas complementarias
+T78	concept 195 198	día
+T79	concept 2314 2335	horas complementarias
+T80	concept 5629 5634	pacto
+T81	concept 7032 7060	responsabilidades familiares
+T82	org 7078 7089	artículo 37
+T83	concept 7149 7173	incompatibilidad horaria
+T84	concept 7098 7120	Necesidades formativas
+T85	concept 799 824	contrato a tiempo parcial
+T86	concept 28 36	contrato
+T87	concept 2314 2335	horas complementarias
+T88	concept 186 191	horas
+T89	concept 2314 2335	horas complementarias
+T90	concept 1522 1538	horas ordinarias
+T91	concept 1522 1538	horas ordinarias
+T92	concept 2314 2335	horas complementarias
+T93	concept 21 22	c
+T94	concept 7364 7369	letra
+T95	concept 8408 8416	descanso
+T96	concept 244 251	jornada
+T97	concept 8593 8625	cotización a la Seguridad Social
+T98	concept 8609 8625	Seguridad Social
+T99	concept 8980 9036	texto refundido de la Ley General de la Seguridad Social
+T100	media 9002 9036	Ley General de la Seguridad Social
+T101	concept 8980 9036	texto refundido de la Ley General de la Seguridad Social
+T102	media 9002 9036	Ley General de la Seguridad Social
+T103	concept 10128 10135	pensión
+T104	concept 8609 8625	Seguridad Social
+T105	concept 8925 8935	jubilación
+T106	concept 10223 10239	relación laboral
+T107	concept 28 46	contrato de relevo
+T108	concept 28 36	contrato
+T109	concept 10418 10427	desempleo
+T110	concept 269 279	trabajador
+T111	concept 8980 8995	texto refundido
+T112	media 9002 9036	Ley General de la Seguridad Social
+T113	concept 8980 8995	texto refundido
+T114	media 9002 9036	Ley General de la Seguridad Social
+T115	concept 28 46	contrato de relevo
+T116	media 9002 9036	Ley General de la Seguridad Social
+T117	concept 1750 1766	jornada completa
+T118	concept 11 25	tiempo parcial
+T119	concept 11 25	tiempo parcial
+T120	concept 1750 1766	jornada completa
+T121	concept 8980 8995	texto refundido
+T122	media 9002 9036	Ley General de la Seguridad Social
+T123	concept 13167 13186	contratos de relevo
+T124	concept 13084 13105	negociación colectiva
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	part_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	facet_of Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	part_of Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	part_of Arg1:T27 Arg2:T28
+R15	part_of Arg1:T29 Arg2:T30
+R16	part_of Arg1:T31 Arg2:T32
+R17	subclass_of Arg1:T33 Arg2:T34
+R18	subclass_of Arg1:T35 Arg2:T36
+R19	facet_of Arg1:T37 Arg2:T38
+R20	subclass_of Arg1:T39 Arg2:T40
+R21	opposite_of Arg1:T41 Arg2:T42
+R22	opposite_of Arg1:T43 Arg2:T44
+R23	subclass_of Arg1:T45 Arg2:T46
+R24	opposite_of Arg1:T47 Arg2:T48
+R25	opposite_of Arg1:T49 Arg2:T50
+R26	opposite_of Arg1:T51 Arg2:T52
+R27	opposite_of Arg1:T53 Arg2:T54
+R28	opposite_of Arg1:T55 Arg2:T56
+R29	opposite_of Arg1:T57 Arg2:T58
+R30	subclass_of Arg1:T59 Arg2:T60
+R31	subclass_of Arg1:T61 Arg2:T62
+R32	opposite_of Arg1:T63 Arg2:T64
+R33	opposite_of Arg1:T65 Arg2:T66
+R34	part_of Arg1:T67 Arg2:T68
+R35	part_of Arg1:T69 Arg2:T70
+R36	part_of Arg1:T71 Arg2:T72
+R37	opposite_of Arg1:T73 Arg2:T74
+R38	opposite_of Arg1:T75 Arg2:T76
+R39	part_of Arg1:T77 Arg2:T78
+R40	instance_of Arg1:T79 Arg2:T80
+R41	main_regulatory_text Arg1:T81 Arg2:T82
+R42	facet_of Arg1:T83 Arg2:T84
+R43	subclass_of Arg1:T85 Arg2:T86
+R44	subclass_of Arg1:T87 Arg2:T88
+R45	opposite_of Arg1:T89 Arg2:T90
+R46	opposite_of Arg1:T91 Arg2:T92
+R47	instance_of Arg1:T93 Arg2:T94
+R48	part_of Arg1:T95 Arg2:T96
+R49	part_of Arg1:T97 Arg2:T98
+R50	part_of Arg1:T99 Arg2:T100
+R51	part_of Arg1:T101 Arg2:T102
+R52	part_of Arg1:T103 Arg2:T104
+R53	facet_of Arg1:T105 Arg2:T106
+R54	subclass_of Arg1:T107 Arg2:T108
+R55	subclass_of Arg1:T109 Arg2:T110
+R56	part_of Arg1:T111 Arg2:T112
+R57	part_of Arg1:T113 Arg2:T114
+R58	main_regulatory_text Arg1:T115 Arg2:T116
+R59	opposite_of Arg1:T117 Arg2:T118
+R60	opposite_of Arg1:T119 Arg2:T120
+R61	part_of Arg1:T121 Arg2:T122
+R62	part_of Arg1:T123 Arg2:T124

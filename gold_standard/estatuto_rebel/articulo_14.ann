@@ -1,0 +1,33 @@
+T1	concept 0 17	Periodo de prueba
+T2	concept 11 17	prueba
+T3	concept 55 72	periodo de prueba
+T4	concept 152 172	convenios colectivos
+T5	concept 722 740	convenio colectivo
+T6	concept 528 548	contratos temporales
+T7	concept 332 342	trabajador
+T8	concept 746 756	empresario
+T9	concept 55 72	periodo de prueba
+T10	concept 1053 1065	contratación
+T11	concept 1228 1237	plantilla
+T12	concept 1179 1196	puesto de trabajo
+T13	concept 1608 1618	maternidad
+T14	concept 1608 1618	maternidad
+T15	concept 1608 1618	maternidad
+T16	concept 1608 1618	maternidad
+T17	concept 11 17	prueba
+T18	concept 528 536	contrato
+T19	concept 2029 2055	riesgo durante el embarazo
+T20	concept 2057 2084	riesgo durante la lactancia
+T21	concept 2057 2084	riesgo durante la lactancia
+T22	concept 2029 2055	riesgo durante el embarazo
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	different_from Arg1:T13 Arg2:T14
+R8	different_from Arg1:T15 Arg2:T16
+R9	part_of Arg1:T17 Arg2:T18
+R10	different_from Arg1:T19 Arg2:T20
+R11	different_from Arg1:T21 Arg2:T22

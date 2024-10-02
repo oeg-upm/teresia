@@ -1,0 +1,45 @@
+T1	concept 0 20	Relaciones laborales
+T2	concept 24 41	carácter especial
+T3	concept 62 82	relaciones laborales
+T4	concept 24 41	carácter especial
+T5	concept 128 142	alta dirección
+T6	concept 116 124	personal
+T7	concept 202 216	hogar familiar
+T8	concept 202 207	hogar
+T9	concept 232 239	penados
+T10	concept 247 275	instituciones penitenciarias
+T11	concept 278 316	d) La de los deportistas profesionales
+T12	concept 291 302	deportistas
+T13	concept 332 340	artistas
+T14	concept 344 365	espectáculos públicos
+T15	concept 492 499	ventura
+T16	concept 483 489	riesgo
+T17	concept 590 618	centros especiales de empleo
+T18	concept 544 556	discapacidad
+T19	concept 625 633	Derogada
+T20	concept 625 633	Derogada
+T21	concept 685 709	medidas de internamiento
+T22	concept 737 758	responsabilidad penal
+T23	concept 802 815	especialistas
+T24	concept 819 839	Ciencias de la Salud
+T25	concept 889 910	despachos de abogados
+T26	concept 855 862	abogado
+T27	concept 1002 1018	relación laboral
+T28	concept 958 965	trabajo
+T29	concept 1174 1190	derechos básicos
+T30	org 1210 1222	Constitución
+R1	has_quality Arg1:T1 Arg2:T2
+R2	has_quality Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	facet_of Arg1:T9 Arg2:T10
+R6	sport Arg1:T11 Arg2:T12
+R7	field_of_this_occupation Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	facet_of Arg1:T17 Arg2:T18
+R10	opposite_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	field_of_this_occupation Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	subclass_of Arg1:T27 Arg2:T28
+R15	main_regulatory_text Arg1:T29 Arg2:T30

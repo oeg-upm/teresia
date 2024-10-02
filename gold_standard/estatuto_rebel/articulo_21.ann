@@ -1,0 +1,27 @@
+T1	concept 0 55	Pacto de no concurrencia y de permanencia en la empresa
+T2	concept 48 55	empresa
+T3	concept 210 220	dedicación
+T4	concept 83 101	prestación laboral
+T5	concept 367 386	contrato de trabajo
+T6	concept 367 375	contrato
+T7	concept 600 618	interés industrial
+T8	concept 621 630	comercial
+T9	concept 621 630	comercial
+T10	concept 600 618	interés industrial
+T11	concept 230 252	compensación económica
+T12	concept 108 118	trabajador
+T13	concept 204 220	plena dedicación
+T14	concept 204 220	plena dedicación
+T15	concept 204 220	plena dedicación
+T16	concept 204 220	plena dedicación
+T17	concept 1499 1517	daños y perjuicios
+T18	concept 1482 1495	indemnización
+R1	instance_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	opposite_of Arg1:T7 Arg2:T8
+R5	opposite_of Arg1:T9 Arg2:T10
+R6	facet_of Arg1:T11 Arg2:T12
+R7	opposite_of Arg1:T13 Arg2:T14
+R8	opposite_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18

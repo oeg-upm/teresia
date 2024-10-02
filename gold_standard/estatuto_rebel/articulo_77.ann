@@ -1,0 +1,12 @@
+T1	concept 4 29	asambleas de trabajadores
+T2	concept 17 29	trabajadores
+T3	concept 124 141	centro de trabajo
+T4	concept 114 121	empresa
+T5	concept 733 744	presidencia
+T6	concept 759 769	empresario
+T7	concept 1013 1019	turnos
+T8	concept 1224 1243	reuniones parciales
+R1	facet_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8

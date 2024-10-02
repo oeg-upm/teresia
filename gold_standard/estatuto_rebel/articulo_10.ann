@@ -1,0 +1,12 @@
+T1	concept 0 16	Trabajo en común
+T2	concept 19 36	contrato de grupo
+T3	concept 181 188	deberes
+T4	concept 170 178	derechos
+T5	concept 181 188	deberes
+T6	concept 170 178	derechos
+T7	concept 47 57	empresario
+T8	concept 102 112	trabajador
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8

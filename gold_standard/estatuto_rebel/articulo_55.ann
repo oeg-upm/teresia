@@ -1,0 +1,48 @@
+T1	concept 0 41	Forma y efectos del despido disciplinario
+T2	concept 20 41	despido disciplinario
+T3	concept 68 90	notificado por escrito
+T4	concept 20 27	despido
+T5	concept 20 27	despido
+T6	concept 188 206	convenio colectivo
+T7	concept 298 337	representante legal de los trabajadores
+T8	concept 340 357	delegado sindical
+T9	concept 678 694	sección sindical
+T10	concept 578 587	sindicato
+T11	concept 1151 1159	salarios
+T12	concept 1243 1259	Seguridad Social
+T13	concept 1297 1307	procedente
+T14	concept 1309 1321	improcedente
+T15	concept 1309 1321	improcedente
+T16	concept 1297 1307	procedente
+T17	concept 1445 1468	escrito de comunicación
+T18	concept 1456 1468	comunicación
+T19	concept 1765 1784	libertades públicas
+T20	concept 1740 1762	derechos fundamentales
+T21	concept 20 27	despido
+T22	concept 20 27	despido
+T23	concept 2174 2179	parto
+T24	concept 2071 2088	lactancia natural
+T25	concept 2319 2343	trabajadoras embarazadas
+T26	concept 1883 1895	trabajadoras
+T27	concept 2651 2661	excedencia
+T28	concept 3512 3547	derecho a los permisos y excedencia
+T29	concept 3602 3612	readmisión
+T30	concept 20 27	despido
+T31	concept 1935 1954	contrato de trabajo
+T32	concept 3801 3814	indemnización
+R1	facet_of Arg1:T1 Arg2:T2
+R2	facet_of Arg1:T3 Arg2:T4
+R3	part_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12
+R7	opposite_of Arg1:T13 Arg2:T14
+R8	opposite_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	has_cause Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	part_of Arg1:T27 Arg2:T28
+R15	subclass_of Arg1:T29 Arg2:T30
+R16	has_quality Arg1:T31 Arg2:T32
