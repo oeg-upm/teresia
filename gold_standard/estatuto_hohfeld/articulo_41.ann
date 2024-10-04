@@ -1,0 +1,6 @@
+T1	LegalEntity 3 26	dirección de la empresa
+T2	LegalAgent 272 284	trabajadores
+T3	LegalEntity 3 26	dirección de la empresa
+T4	LegalAgent 568 602	representantes de los trabajadores
+R1	Duty Arg1:T1 Arg2:T2
+R2	Privilege Arg1:T3 Arg2:T4

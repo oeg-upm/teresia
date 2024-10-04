@@ -1,0 +1,6 @@
+T1	LegalAgent 4 15	empresarios
+T2	LegalEntity 41 97	representación legal de los trabajadores en las empresas
+T3	LegalAgent 4 14	empresario
+T4	LegalAgent 69 81	trabajadores
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4

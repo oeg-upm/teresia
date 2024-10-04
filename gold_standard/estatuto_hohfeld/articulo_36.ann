@@ -1,0 +1,9 @@
+T1	LegalAgent 3 13	empresario
+T2	LegalEntity 105 122	autoridad laboral
+T3	LegalAgent 3 13	empresario
+T4	LegalAgent 164 186	trabajadores nocturnos
+T5	LegalAgent 164 186	trabajadores nocturnos
+T6	LegalEntity 3 10	empresa
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Right Arg1:T5 Arg2:T6

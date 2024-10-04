@@ -1,0 +1,6 @@
+T1	LegalAgent 72 82	empresario
+T2	LegalEntity 3 20	comité de empresa
+T3	LegalAgent 72 82	empresario
+T4	LegalEntity 3 20	comité de empresa
+R1	Right Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4

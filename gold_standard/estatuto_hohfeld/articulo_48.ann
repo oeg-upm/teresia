@@ -1,0 +1,6 @@
+T1	LegalAgent 3 22	persona trabajadora
+T2	LegalEntity 45 52	empresa
+T3	LegalAgent 284 305	dirección empresarial
+T4	LegalEntity 211 223	progenitores
+R1	Duty Arg1:T1 Arg2:T2
+R2	Right Arg1:T3 Arg2:T4

@@ -1,0 +1,3 @@
+T1	LegalAgent 220 232	trabajadores
+T2	LegalEntity 48 55	empresa
+R1	Right Arg1:T1 Arg2:T2

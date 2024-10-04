@@ -1,0 +1,12 @@
+T1	LegalAgent 3 13	empresario
+T2	LegalEntity 45 70	oficina pública de empleo
+T3	LegalAgent 3 13	empresario
+T4	LegalEntity 336 376	representación legal de los trabajadores
+T5	LegalAgent 3 13	empresario
+T6	LegalAgent 750 792	representantes legales de los trabajadores
+T7	LegalAgent 3 13	empresario
+T8	LegalAgent 364 374	trabajador
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Duty Arg1:T5 Arg2:T6
+R4	Duty Arg1:T7 Arg2:T8

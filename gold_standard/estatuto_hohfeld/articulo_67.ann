@@ -1,0 +1,3 @@
+T1	LegalAgent 4 14	promotores
+T2	LegalEntity 32 39	empresa
+R1	Duty Arg1:T1 Arg2:T2

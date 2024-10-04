@@ -1,0 +1,12 @@
+[relations]
+Duty	Arg1:LegalAgent, Arg2:LegalAgent
+Duty	Arg1:LegalEntity, Arg2:LegalEntity
+Duty	Arg1:LegalAgent, Arg2:LegalEntity
+Duty	Arg1:LegalEntity, Arg2:LegalAgent
+Right	Arg1:LegalAgent, Arg2:LegalAgent
+Privilege	Arg1:LegalAgent, Arg2:LegalEntity
+Privilege	Arg1:LegalEntity, Arg2:LegalAgent
+Right	Arg1:LegalAgent, Arg2:LegalEntity
+NoRight	Arg1:LegalAgent, Arg2:LegalEntity
+NoRight	Arg1:LegalAgent, Arg2:LegalAgent
+Duty	Arg1:LegalAgent, Arg2:LegalConcept

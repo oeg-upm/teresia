@@ -1,0 +1,15 @@
+T1	LegalAgent 102 112	empresario
+T2	LegalAgent 119 161	representantes legales de los trabajadores
+T3	LegalAgent 202 219	autoridad laboral
+T4	LegalEntity 299 314	entidad gestora
+T5	LegalAgent 102 112	empresario
+T6	LegalEntity 202 219	autoridad laboral
+T7	LegalEntity 102 109	empresa
+T8	LegalAgent 733 767	representantes de los trabajadores
+T9	LegalEntity 102 109	empresa
+T10	LegalAgent 149 161	trabajadores
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Duty Arg1:T5 Arg2:T6
+R4	Duty Arg1:T7 Arg2:T8
+R5	Duty Arg1:T9 Arg2:T10

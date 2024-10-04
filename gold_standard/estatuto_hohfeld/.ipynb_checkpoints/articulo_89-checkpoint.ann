@@ -1,0 +1,3 @@
+T1	LegalEntity 279 313	representación de los trabajadores
+T2	LegalEntity 382 395	la otra parte
+R1	Duty Arg1:T1 Arg2:T2

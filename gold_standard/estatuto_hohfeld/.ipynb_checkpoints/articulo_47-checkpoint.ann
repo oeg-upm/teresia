@@ -1,0 +1,9 @@
+T1	LegalAgent 3 13	empresario
+T2	LegalAgent 293 305	trabajadores
+T3	LegalAgent 3 13	empresario
+T4	LegalEntity 293 305	trabajadores
+T5	LegalEntity 313 330	autoridad laboral
+T6	LegalEntity 860 906	entidad gestora de la prestación por desempleo
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Duty Arg1:T5 Arg2:T6
