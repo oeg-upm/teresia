@@ -1,0 +1,7 @@
+1	El <e1>empresario</e1> <rel>está obligado a garantizar</rel> que cada <e2>trabajador</e2> reciba una <comp>formación teórica</comp> y práctica, suficiente y adecuada, en materia preventiva tanto en el momento de su contratación, cualquiera que sea la modalidad o duración de esta, como cuando se produzcan cambios en las funciones que desempeñe o se introduzcan nuevas tecnologías o cambios en los equipos de trabajo.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Duty (rel)
+
+2	El <e1>empresario</e1> <rel>podrá adoptar</rel> las <comp>medidas</comp> que estime más oportunas de vigilancia y control para verificar el cumplimiento por el <e2>trabajador</e2> de sus obligaciones y deberes laborales, guardando en su adopción y aplicación la consideración debida a su dignidad y teniendo en cuenta, en su caso, la capacidad real de los trabajadores con discapacidad.
+RelationSignature: LegalAgent-LegalAgent (e1, e2)
+RelationType: Right (rel)
