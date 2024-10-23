@@ -9,6 +9,7 @@ The metasearch engine will serve as a single access point to existing specialize
     - Hohfeld
     - mREBEL
     - LabourLaw
+
 The folder contains subfolders: "articles", which includes each of the articles from the Workers' Statute; "terms", which contains the extracted terms; and "rels", which contains the Hohfeld relations between the extracted terms. These three folders are sourced from the repository "https://github.com/pmchozas/estatuto_goldstandard.git".
 
 * server: contains everything related to the pre-annotation layers and server tests, aimed at visualizing the results in BRAT.
