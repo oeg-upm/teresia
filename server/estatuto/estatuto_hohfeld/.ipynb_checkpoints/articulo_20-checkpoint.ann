@@ -1,0 +1,9 @@
+T1	LegalAgent 3 13	trabajador
+T2	LegalAgent 84 94	empresario
+T3	LegalAgent 84 94	empresario
+T4	LegalAgent 3 13	trabajador
+T5	LegalAgent 327 339	trabajadores
+T6	LegalAgent 442 451	empleador
+R1	Duty Arg1:T1 Arg2:T2
+R2	Right Arg1:T3 Arg2:T4
+R3	Right Arg1:T5 Arg2:T6

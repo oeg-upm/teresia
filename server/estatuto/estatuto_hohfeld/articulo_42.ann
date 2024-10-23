@@ -1,0 +1,15 @@
+T1	LegalAgent 3 13	empresario
+T2	LegalEntity 84 100	Seguridad Social
+T3	LegalAgent 3 13	empresario
+T4	LegalAgent 348 360	trabajadores
+T5	LegalAgent 266 277	contratista
+T6	LegalEntity 647 687	Tesorería General de la Seguridad Social
+T7	LegalEntity 745 764	empresa contratista
+T8	LegalAgent 815 837	representantes legales
+T9	LegalAgent 348 360	trabajadores
+T10	LegalAgent 1149 1183	representantes de los trabajadores
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Duty Arg1:T5 Arg2:T6
+R4	Duty Arg1:T7 Arg2:T8
+R5	Right Arg1:T9 Arg2:T10

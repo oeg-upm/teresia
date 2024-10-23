@@ -1,0 +1,3 @@
+T1	concept 0 55	Pacto de no concurrencia y de permanencia en la empresa
+T2	concept 48 55	empresa
+R1	instance of Arg1:T1 Arg2:T2

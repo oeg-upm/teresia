@@ -1,0 +1,3 @@
+T1	concept 0 19	Movilidad funcional
+T2	concept 10 19	funcional
+R1	subclass of Arg1:T1 Arg2:T2

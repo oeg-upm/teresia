@@ -1,0 +1,3 @@
+T1	concept 0 20	Contratos formativos
+T2	concept 10 20	formativos
+R1	subclass of Arg1:T1 Arg2:T2

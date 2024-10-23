@@ -1,0 +1,24 @@
+T1	concept 0 11	Tramitación
+T2	concept 0 11	Tramitación
+T3	concept 376 385	promoción
+T4	concept 424 442	convenio colectivo
+T5	time 933 935	84
+T6	time 928 930	83
+T7	concept 1071 1079	buena fe
+T8	concept 1038 1046	negociar
+T9	concept 1170 1176	bienes
+T10	concept 1119 1128	violencia
+T11	concept 1567 1586	plan de negociación
+T12	concept 93 104	negociación
+T13	concept 1675 1682	mayoría
+T14	concept 1654 1658	voto
+T15	concept 1820 1828	mediador
+T16	concept 1756 1770	deliberaciones
+R1	has_cause Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	follows Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	has_cause Arg1:T9 Arg2:T10
+R6	facet_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16

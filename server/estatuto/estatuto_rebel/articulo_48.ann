@@ -1,0 +1,93 @@
+T1	concept 0 43	Suspensión con reserva de puesto de trabajo
+T2	concept 0 10	Suspensión
+T3	concept 125 140	reincorporación
+T4	concept 26 43	puesto de trabajo
+T5	concept 510 518	absoluta
+T6	concept 413 435	incapacidad permanente
+T7	concept 510 518	absoluta
+T8	concept 413 435	incapacidad permanente
+T9	concept 510 518	absoluta
+T10	concept 413 435	incapacidad permanente
+T11	concept 539 553	gran invalidez
+T12	concept 413 435	incapacidad permanente
+T13	concept 539 553	gran invalidez
+T14	concept 413 435	incapacidad permanente
+T15	concept 539 553	gran invalidez
+T16	concept 413 435	incapacidad permanente
+T17	concept 1117 1131	reincorporarse
+T18	concept 1117 1131	reincorporarse
+T19	concept 1260 1265	parto
+T20	concept 1260 1265	parto
+T21	concept 1260 1265	parto
+T22	concept 1317 1336	contrato de trabajo
+T23	concept 1955 1970	parto prematuro
+T24	concept 1260 1265	parto
+T25	concept 2377 2410	parto prematuro con falta de peso
+T26	concept 1260 1265	parto
+T27	concept 125 161	reincorporación al puesto de trabajo
+T28	concept 2913 2933	descanso obligatorio
+T29	concept 2803 2807	hijo
+T30	concept 2810 2814	hija
+T31	concept 2810 2814	hija
+T32	concept 2803 2807	hijo
+T33	concept 3727 3738	trabajadora
+T34	concept 1634 1644	progenitor
+T35	concept 1634 1644	progenitor
+T36	concept 3727 3738	trabajadora
+T37	concept 3970 3985	jornada parcial
+T38	concept 1510 1526	jornada completa
+T39	concept 4264 4284	convenios colectivos
+T40	concept 3635 3642	empresa
+T41	concept 4527 4535	adopción
+T42	concept 4540 4568	guarda con fines de adopción
+T43	concept 4540 4568	guarda con fines de adopción
+T44	concept 4527 4535	adopción
+T45	concept 1510 1526	jornada completa
+T46	concept 5635 5649	tiempo parcial
+T47	concept 5635 5649	tiempo parcial
+T48	concept 1510 1526	jornada completa
+T49	concept 5793 5815	adopción internacional
+T50	concept 5905 5913	adoptado
+T51	concept 4711 4719	acogedor
+T52	concept 4699 4708	guardador
+T53	concept 4264 4284	convenios colectivos
+T54	concept 3635 3642	empresa
+T55	concept 7162 7188	riesgo durante el embarazo
+T56	concept 7194 7229	riesgo durante la lactancia natural
+T57	concept 7194 7229	riesgo durante la lactancia natural
+T58	concept 7162 7188	riesgo durante el embarazo
+T59	concept 7819 7834	tutela judicial
+T60	concept 7868 7889	derecho de protección
+T61	concept 2992 3015	suspensión del contrato
+T62	concept 1317 1325	contrato
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	facet_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	has_cause Arg1:T17 Arg2:T18
+R10	has_cause Arg1:T19 Arg2:T20
+R11	has_cause Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	subclass_of Arg1:T27 Arg2:T28
+R15	opposite_of Arg1:T29 Arg2:T30
+R16	opposite_of Arg1:T31 Arg2:T32
+R17	opposite_of Arg1:T33 Arg2:T34
+R18	opposite_of Arg1:T35 Arg2:T36
+R19	opposite_of Arg1:T37 Arg2:T38
+R20	participant Arg1:T39 Arg2:T40
+R21	different_from Arg1:T41 Arg2:T42
+R22	different_from Arg1:T43 Arg2:T44
+R23	opposite_of Arg1:T45 Arg2:T46
+R24	opposite_of Arg1:T47 Arg2:T48
+R25	subclass_of Arg1:T49 Arg2:T50
+R26	subclass_of Arg1:T51 Arg2:T52
+R27	participant Arg1:T53 Arg2:T54
+R28	different_from Arg1:T55 Arg2:T56
+R29	different_from Arg1:T57 Arg2:T58
+R30	subclass_of Arg1:T59 Arg2:T60
+R31	facet_of Arg1:T61 Arg2:T62

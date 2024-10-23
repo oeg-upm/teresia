@@ -1,0 +1,27 @@
+T1	unk 0 31	Salario mínimo interprofesional
+T2	concept 15 31	interprofesional
+T3	concept 171 202	salario mínimo interprofesional
+T4	org 39 47	Gobierno
+T5	concept 241 259	precios de consumo
+T6	concept 231 237	índice
+T7	concept 268 296	productividad media nacional
+T8	concept 268 281	productividad
+T9	concept 332 357	participación del trabajo
+T10	concept 364 378	renta nacional
+T11	concept 387 414	coyuntura económica general
+T12	concept 387 406	coyuntura económica
+T13	concept 442 460	revisión semestral
+T14	concept 231 248	índice de precios
+T15	concept 646 668	salarios profesionales
+T16	concept 171 185	salario mínimo
+T17	concept 171 202	salario mínimo interprofesional
+T18	concept 171 185	salario mínimo
+R1	is_a_list_of Arg1:T1 Arg2:T2
+R2	creator Arg1:T3 Arg2:T4
+R3	instance_of Arg1:T5 Arg2:T6
+R4	measured_physical_quantity Arg1:T7 Arg2:T8
+R5	facet_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	facet_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18

@@ -1,0 +1,36 @@
+T1	concept 0 18	Forma del contrato
+T2	concept 10 18	contrato
+T3	concept 252 263	retribución
+T4	concept 26 45	contrato de trabajo
+T5	loc 648 654	España
+T6	loc 695 705	extranjero
+T7	loc 695 705	extranjero
+T8	loc 648 654	España
+T9	concept 10 18	contrato
+T10	concept 1161 1177	relación laboral
+T11	concept 309 329	contratos de trabajo
+T12	concept 1186 1196	empresario
+T13	concept 1699 1713	alta dirección
+T14	concept 1161 1177	relación laboral
+T15	concept 2327 2349	información facilitada
+T16	concept 2445 2464	protección de datos
+T17	concept 10 18	contrato
+T18	concept 1186 1196	empresario
+T19	concept 1523 1543	representación legal
+T20	concept 2762 2779	oficina de empleo
+T21	concept 3013 3039	asociaciones empresariales
+T22	concept 2978 3003	organizaciones sindicales
+T23	concept 26 45	contrato de trabajo
+T24	concept 10 18	contrato
+R1	facet_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	diplomatic_relation Arg1:T5 Arg2:T6
+R4	diplomatic_relation Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	participant Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	facet_of Arg1:T15 Arg2:T16
+R9	participant Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24

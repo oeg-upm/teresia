@@ -1,0 +1,3 @@
+T1	LegalAgent 173 192	partes negociadoras
+T2	LegalEntity 46 74	autoridad laboral competente
+R1	Duty Arg1:T1 Arg2:T2

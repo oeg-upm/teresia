@@ -1,0 +1,6 @@
+T1	LegalAgent 3 13	empresario
+T2	LegalAgent 71 105	representantes de los trabajadores
+T3	LegalAgent 93 103	trabajador
+T4	LegalEntity 731 750	jurisdicción social
+R1	Duty Arg1:T1 Arg2:T2
+R2	Right Arg1:T3 Arg2:T4

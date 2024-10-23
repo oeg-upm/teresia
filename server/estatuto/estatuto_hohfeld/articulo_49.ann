@@ -1,0 +1,3 @@
+T1	LegalAgent 386 396	empresario
+T2	LegalAgent 459 471	trabajadores
+R1	Duty Arg1:T1 Arg2:T2

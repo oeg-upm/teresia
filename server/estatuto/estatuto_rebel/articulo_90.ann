@@ -1,0 +1,24 @@
+T1	concept 0 7	Validez
+T2	per 0 7	Validez
+T3	concept 112 119	nulidad
+T4	concept 101 108	sanción
+T5	concept 16 24	convenio
+T6	concept 171 188	autoridad laboral
+T7	concept 593 619	Boletín Oficial del Estado
+T8	concept 645 660	boletín oficial
+T9	concept 16 24	convenio
+T10	concept 805 824	acuerden las partes
+T11	concept 1119 1186	Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social
+T12	concept 984 1003	jurisdicción social
+T13	concept 1308 1316	igualdad
+T14	concept 1367 1383	discriminaciones
+T15	concept 1167 1186	Jurisdicción Social
+T16	concept 984 1003	jurisdicción social
+R1	named_after Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	participant Arg1:T5 Arg2:T6
+R4	instance_of Arg1:T7 Arg2:T8
+R5	has_cause Arg1:T9 Arg2:T10
+R6	main_subject Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16

@@ -1,0 +1,9 @@
+T1	LegalEntity 3 29	Fondo de Garantía Salarial
+T2	LegalAgent 199 211	trabajadores
+T3	LegalEntity 3 29	Fondo de Garantía Salarial
+T4	LegalAgent 199 211	trabajadores
+T5	LegalEntity 3 29	Fondo de Garantía Salarial
+T6	LegalEntity 904 915	institución
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4
+R3	Duty Arg1:T5 Arg2:T6

@@ -1,0 +1,24 @@
+T1	concept 0 25	Contrato fijo-discontinuo
+T2	concept 17 25	continuo
+T3	concept 17 25	continuo
+T4	concept 0 25	Contrato fijo-discontinuo
+T5	concept 9 25	fijo-discontinuo
+T6	concept 33 52	contrato por tiempo
+T7	concept 368 393	contrato a tiempo parcial
+T8	concept 33 41	contrato
+T9	concept 541 561	convenios colectivos
+T10	concept 659 678	jurisdicción social
+T11	concept 1144 1164	distribución horaria
+T12	concept 1114 1129	jornada laboral
+T13	concept 1343 1371	contratos fijos-discontinuos
+T14	concept 1436 1456	contratos temporales
+T15	concept 1514 1544	deberes derivados del contrato
+T16	concept 1503 1511	Derechos
+R1	opposite_of Arg1:T1 Arg2:T2
+R2	opposite_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16

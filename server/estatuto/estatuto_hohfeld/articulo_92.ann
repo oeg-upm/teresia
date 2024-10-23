@@ -1,0 +1,6 @@
+T1	LegalAgent 3 11	Gobierno
+T2	LegalEntity 196 204	empresas
+T3	LegalEntity 1585 1624	Ministerio de Empleo y Seguridad Social
+T4	LegalAgent 1850 1873	empresas y trabajadores
+R1	Privilege Arg1:T1 Arg2:T2
+R2	Privilege Arg1:T3 Arg2:T4

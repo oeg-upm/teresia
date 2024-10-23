@@ -1,0 +1,9 @@
+T1	LegalAgent 50 60	trabajador
+T2	LegalEntity 83 105	Administración pública
+T3	LegalAgent 710 717	empresa
+T4	LegalEntity 50 60	trabajador
+T5	LegalAgent 710 717	empresa
+T6	LegalAgent 50 60	trabajador
+R1	Right Arg1:T1 Arg2:T2
+R2	NoRight Arg1:T3 Arg2:T4
+R3	NoRight Arg1:T5 Arg2:T6

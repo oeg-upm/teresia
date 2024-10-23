@@ -1,0 +1,6 @@
+T1	LegalAgent 15 25	empresario
+T2	LegalAgent 44 54	trabajador
+T3	LegalAgent 15 25	empresario
+T4	LegalAgent 44 54	trabajador
+R1	Duty Arg1:T1 Arg2:T2
+R2	Duty Arg1:T3 Arg2:T4

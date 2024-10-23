@@ -1,0 +1,3 @@
+T1	concept 0 20	Despido improcedente
+T2	concept 0 7	Despido
+R1	subclass of Arg1:T1 Arg2:T2

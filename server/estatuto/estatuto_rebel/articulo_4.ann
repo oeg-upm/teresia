@@ -1,0 +1,60 @@
+T1	concept 0 18	Derechos laborales
+T2	concept 0 7	Derecho
+T3	concept 52 68	derechos básicos
+T4	concept 152 161	normativa
+T5	concept 215 221	oficio
+T6	concept 203 212	profesión
+T7	concept 227 244	Libre sindicación
+T8	concept 227 244	Libre sindicación
+T9	concept 250 271	Negociación colectiva
+T10	concept 250 261	Negociación
+T11	concept 277 319	Adopción de medidas de conflicto colectivo
+T12	concept 300 319	conflicto colectivo
+T13	loc 325 331	Huelga
+T14	loc 325 331	Huelga
+T15	loc 337 344	Reunión
+T16	loc 337 344	Reunión
+T17	concept 374 387	participación
+T18	concept 350 361	Información
+T19	concept 52 59	derecho
+T20	concept 413 432	relación de trabajo
+T21	concept 476 494	ocupación efectiva
+T22	concept 476 485	ocupación
+T23	concept 517 552	formación profesional en el trabajo
+T24	concept 732 745	empleabilidad
+T25	loc 1098 1112	Estado español
+T26	concept 1079 1085	lengua
+T27	concept 1161 1173	discapacidad
+T28	concept 1217 1224	aptitud
+T29	concept 1334 1365	prevención de riesgos laborales
+T30	concept 1287 1304	integridad física
+T31	concept 1477 1518	acoso por razón de origen racial o étnico
+T32	concept 1477 1482	acoso
+T33	concept 1616 1639	acoso por razón de sexo
+T34	concept 1477 1482	acoso
+T35	concept 1675 1687	remuneración
+T36	concept 1675 1687	remuneración
+T37	concept 1782 1801	contrato de trabajo
+T38	concept 681 689	acciones
+T39	concept 1782 1801	contrato de trabajo
+T40	concept 1782 1790	contrato
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	facet_of Arg1:T11 Arg2:T12
+R7	located_in_the_administrative_territorial_entity Arg1:T13 Arg2:T14
+R8	located_in_the_administrative_territorial_entity Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	facet_of Arg1:T23 Arg2:T24
+R13	official_language Arg1:T25 Arg2:T26
+R14	has_quality Arg1:T27 Arg2:T28
+R15	facet_of Arg1:T29 Arg2:T30
+R16	subclass_of Arg1:T31 Arg2:T32
+R17	subclass_of Arg1:T33 Arg2:T34
+R18	subclass_of Arg1:T35 Arg2:T36
+R19	subclass_of Arg1:T37 Arg2:T38
+R20	subclass_of Arg1:T39 Arg2:T40
