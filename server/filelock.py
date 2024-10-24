@@ -1,312 +1,290 @@
 #!/usr/bin/env python
 
-from __future__ import with_statement
+from __future__ import with_statement  # Compatibilidad para usar la declaración 'with' en versiones antiguas de Python.
 
 '''
-Provides a stylish pythonic file-lock:
+Proporciona un mecanismo elegante de bloqueo de archivos en Python:
 
 >>>    with('file.lock'):
 ...        pass
 
-Inspired by: http://code.activestate.com/recipes/576572/
+Inspirado por: http://code.activestate.com/recipes/576572/
 
-Is *NIX specific due to being forced to use ps (suggestions on how to avoid
-this are welcome).
+Es específico para *NIX debido al uso del comando 'ps' (se agradecen sugerencias sobre cómo evitar esto).
 
-But with added timeout and PID check to spice it all up and avoid stale
-lock-files. Also includes a few unittests.
+Incluye tiempo de espera (timeout) y verificación de PID para evitar archivos de bloqueo obsoletos.
+También incluye algunas pruebas unitarias.
 
-Author:     Pontus Stenetorp    <pontus stenetorp se>
-Version:    2009-12-26
+Autor:     Pontus Stenetorp    <pontus stenetorp se>
+Versión:   2009-12-26
 '''
 
 '''
 Copyright (c) 2009, 2011, Pontus Stenetorp <pontus stenetorp se>
 
-Permission to use, copy, modify, and/or distribute this software for any
-purpose with or without fee is hereby granted, provided that the above
-copyright notice and this permission notice appear in all copies.
+Se otorga permiso para usar, copiar, modificar y/o distribuir este software
+para cualquier propósito con o sin tarifa, siempre que se incluya el aviso
+de copyright anterior y este permiso en todas las copias.
 
-THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
-WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
-ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
-WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
-ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
-OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL" Y EL AUTOR RENUNCIA A TODAS LAS
+GARANTÍAS CON RESPECTO A ESTE SOFTWARE, INCLUYENDO TODAS LAS GARANTÍAS
+IMPLÍCITAS DE COMERCIABILIDAD Y ADECUACIÓN PARA UN PROPÓSITO PARTICULAR.
+EN NINGÚN CASO EL AUTOR SERÁ RESPONSABLE DE DAÑOS ESPECIALES, DIRECTOS,
+INDIRECTOS O CONSECUENCIALES O CUALQUIER OTRO DAÑO DERIVADO DEL USO
+O RENDIMIENTO DEL SOFTWARE.
 '''
 
 '''
 Copyright (C) 2008 by Aaron Gallagher
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de forma gratuita, a cualquier persona que obtenga
+una copia de este software y los archivos de documentación asociados
+(el "Software"), para usar el Software sin restricciones, incluyendo
+los derechos de usar, copiar, modificar, fusionar, publicar, distribuir,
+sub-licenciar y/o vender copias del Software.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO,
+EXPRESA O IMPLÍCITA.
 '''
 
-from contextlib import contextmanager
-from errno import EEXIST
+from contextlib import contextmanager  # Importa el manejador de contexto.
+from errno import EEXIST  # Importa el error de archivo ya existente.
 from os import (remove, read, fsync, open, close, write, getpid,
-        O_CREAT, O_EXCL, O_RDWR, O_RDONLY)
-from subprocess import Popen, PIPE
-from time import time, sleep
-from sys import stderr
+        O_CREAT, O_EXCL, O_RDWR, O_RDONLY)  # Funciones de manejo de archivos y procesos.
+from subprocess import Popen, PIPE  # Permite ejecutar procesos externos.
+from time import time, sleep  # Para controlar el tiempo y las pausas.
+from sys import stderr  # Para imprimir errores en la salida de error estándar.
 
-### Constants
-# Disallow ignoring a lock-file although the PID is inactive
+### Constantes
+# No permite ignorar un archivo de bloqueo si el PID no está activo.
 PID_DISALLOW = 1
-# Ignore a lock-file if the noted PID is not running, but warn to stderr
+# Ignora un archivo de bloqueo si el PID no está activo, pero muestra una advertencia.
 PID_WARN = 2
-# Ignore a lock-file if the noted PID is not running
+# Ignora un archivo de bloqueo si el PID no está activo.
 PID_ALLOW = 3
 ###
 
-
+# Clase de error para manejar el tiempo de espera de bloqueo de archivo.
 class FileLockTimeoutError(Exception):
     '''
-    Raised if a file-lock can not be acquired before the timeout is reached.
+    Se lanza si no se puede adquirir el bloqueo del archivo antes de que se alcance el tiempo de espera.
     '''
     def __init__(self, timeout):
-        self.timeout = timeout
+        self.timeout = timeout  # Tiempo de espera que provocó el error.
 
     def __str__(self):
-        return 'Timed out when trying to acquire lock, waited (%d)s' % (
+        return 'Tiempo de espera agotado al intentar adquirir el bloqueo, se esperó (%d)s' % (
                 self.timeout)
 
 
 def _pid_exists(pid):
     '''
-    Returns True if the given PID is a currently existing process id.
+    Devuelve True si el PID dado es un identificador de proceso que existe actualmente.
 
-    Arguments:
-    pid - Process id (PID) to check if it exists on the system
+    Argumentos:
+    pid - Identificador de proceso (PID) para verificar si existe en el sistema.
     '''
-    # Not elegant, but it seems that it is the only way
-    ps = Popen("ps %d | awk '{{print $1}}'" % (pid, ),
+    # No es elegante, pero parece ser la única forma de hacerlo.
+    ps = Popen("ps %d | awk '{{print $1}}'" % (pid, ),  # Ejecuta el comando 'ps' para verificar si el PID existe.
             shell=True, stdout=PIPE)
-    ps.wait()
-    return str(pid) in ps.stdout.read().split('\n')
+    ps.wait()  # Espera a que el comando finalice.
+    return str(pid) in ps.stdout.read().split('\n')  # Verifica si el PID aparece en la salida del comando 'ps'.
 
+# Decorador de contexto para manejar el bloqueo de archivos.
 @contextmanager
 def file_lock(path, wait=0.1, timeout=1,
         pid_policy=PID_DISALLOW, err_output=stderr):
     '''
-    Use the given path for a lock-file containing the PID of the process.
-    If another lock request for the same file is requested, different policies
-    can be set to determine how to handle it.
+    Usa la ruta dada para un archivo de bloqueo que contiene el PID del proceso.
+    Si se solicita otro bloqueo para el mismo archivo, se pueden establecer políticas para determinar cómo manejarlo.
 
-    Arguments:
-    path - Path where to place the lock-file or where it is in place
+    Argumentos:
+    path - Ruta donde colocar el archivo de bloqueo o donde ya está colocado.
     
-    Keyword arguments:
-    wait - Time to wait between attempts to lock the file
-    timeout - Duration to attempt to lock the file until a timeout exception
-        is raised
-    pid_policy - A PID policy as found in the module, valid are PID_DISALLOW,
-        PID_WARN and PID_ALLOW
-    err_output - Where to print warning messages, for testing purposes
+    Argumentos opcionales:
+    wait - Tiempo de espera entre intentos de bloqueo del archivo.
+    timeout - Duración para intentar bloquear el archivo hasta que se lance una excepción de tiempo de espera.
+    pid_policy - Una política de PID como las encontradas en este módulo, válidas son PID_DISALLOW, PID_WARN y PID_ALLOW.
+    err_output - Dónde imprimir los mensajes de advertencia, utilizado con fines de prueba.
     '''
-    start_time = time()
+    start_time = time()  # Obtiene el tiempo inicial.
     while True:
-        if time() - start_time > timeout:
-            raise FileLockTimeoutError(timeout)
+        if time() - start_time > timeout:  # Si el tiempo transcurrido excede el tiempo de espera.
+            raise FileLockTimeoutError(timeout)  # Lanza un error de tiempo de espera.
         try:
-            fd = open(path, O_CREAT | O_EXCL | O_RDWR)
-            write(fd, str(getpid()))
-            fsync(fd)
-            break
-        except OSError, e:
-            if e.errno == EEXIST:
-                if pid_policy == PID_DISALLOW:
-                    pass # Standard, just do nothing
-                elif pid_policy == PID_WARN or pid_policy == PID_ALLOW:
-                    fd = open(path, O_RDONLY)
-                    pid = int(read(fd, 255))
-                    close(fd)
-                    if not _pid_exists(pid):
-                        # Stale lock-file
-                        if pid_policy == PID_WARN:
+            fd = open(path, O_CREAT | O_EXCL | O_RDWR)  # Intenta crear el archivo de bloqueo.
+            write(fd, str(getpid()))  # Escribe el PID del proceso en el archivo de bloqueo.
+            fsync(fd)  # Asegura que los datos se escriban en el disco.
+            break  # Sale del ciclo si se pudo crear el archivo de bloqueo.
+        except OSError as e:
+            if e.errno == EEXIST:  # Si el archivo de bloqueo ya existe.
+                if pid_policy == PID_DISALLOW:  # Si la política es no permitir.
+                    pass  # No hacer nada.
+                elif pid_policy in [PID_WARN, PID_ALLOW]:  # Si la política es advertir o permitir.
+                    fd = open(path, O_RDONLY)  # Abre el archivo de bloqueo en modo de solo lectura.
+                    pid = int(read(fd, 255))  # Lee el PID del archivo de bloqueo.
+                    close(fd)  # Cierra el archivo.
+                    if not _pid_exists(pid):  # Si el proceso con ese PID no existe.
+                        if pid_policy == PID_WARN:  # Si la política es advertir.
                             print >> err_output, (
-                                    "Stale lock-file '%s', deleting" % (
-                                        path))
-                        remove(path)
-                        continue
+                                    "Archivo de bloqueo obsoleto '%s', eliminando" % (
+                                        path))  # Muestra una advertencia.
+                        remove(path)  # Elimina el archivo de bloqueo obsoleto.
+                        continue  # Vuelve a intentar crear el bloqueo.
                 else:
-                    assert False, 'Invalid pid_policy argument'
+                    assert False, 'Argumento de política de PID inválido'  # Si la política es inválida.
             else:
-                raise
-        sleep(wait)
+                raise  # Lanza cualquier otro error de OSError.
+        sleep(wait)  # Espera antes de volver a intentar.
     try:
-        yield fd
+        yield fd  # Devuelve el descriptor de archivo del archivo de bloqueo.
     finally:
-        close(fd)
-        remove(path)
+        close(fd)  # Cierra el archivo de bloqueo.
+        remove(path)  # Elimina el archivo de bloqueo.
 
+# Bloque de pruebas unitarias.
 if __name__ == '__main__':
-    from unittest import TestCase
+    from unittest import TestCase  # Importa las pruebas unitarias.
     import unittest
 
-    from multiprocessing import Process
-    from os import rmdir
-    from os.path import join, isfile
-    from tempfile import mkdtemp
+    from multiprocessing import Process  # Para crear procesos paralelos.
+    from os import rmdir  # Para eliminar directorios.
+    from os.path import join, isfile  # Para unir rutas y verificar la existencia de archivos.
+    from tempfile import mkdtemp  # Para crear un directorio temporal.
 
     try:
-        from cStringIO import StringIO
+        from cStringIO import StringIO  # Para manejar cadenas como archivos (en Python 2.x).
     except ImportError:
-        from StringIO import StringIO
+        from StringIO import StringIO  # Para Python 3.x.
 
-
+    # Clase de prueba para el bloqueo de archivos.
     class TestFileLock(TestCase):
         def setUp(self):
-            self._temp_dir = mkdtemp()
-            self._lock_file_path = join(self._temp_dir, 'lock.file')
+            self._temp_dir = mkdtemp()  # Crea un directorio temporal.
+            self._lock_file_path = join(self._temp_dir, 'lock.file')  # Define la ruta del archivo de bloqueo.
 
         def tearDown(self):
             try:
-                remove(self._lock_file_path)
+                remove(self._lock_file_path)  # Intenta eliminar el archivo de bloqueo.
             except OSError:
-                pass # It just didn't exist
-            rmdir(self._temp_dir)
+                pass  # Si no existe, no hacer nada.
+            rmdir(self._temp_dir)  # Elimina el directorio temporal.
 
         def test_with(self):
             '''
-            Tests do-with functionallity
+            Prueba la funcionalidad 'with'.
             '''
             with file_lock(self._lock_file_path):
-                sleep(1)
-            sleep(0.1) # Make sure the remove is in effect
-            self.assertFalse(isfile(self._lock_file_path))
+                sleep(1)  # Simula una operación que mantiene el bloqueo.
+            sleep(0.1)  # Asegura que el archivo se haya eliminado.
+            self.assertFalse(isfile(self._lock_file_path))  # Verifica que el archivo de bloqueo haya sido eliminado.
 
         def test_exception(self):
             '''
-            Tests if the lock-file does not remain if an exception occurs.
+            Prueba si el archivo de bloqueo no permanece si ocurre una excepción.
             '''
             try:
                 with file_lock(self._lock_file_path):
-                    raise Exception('Breaking out')
+                    raise Exception('Interrumpiendo')  # Genera una excepción dentro del bloque 'with'.
             except Exception:
                 pass
 
-            self.assertFalse(isfile(self._lock_file_path))
+            self.assertFalse(isfile(self._lock_file_path))  # Verifica que el archivo de bloqueo haya sido eliminado.
 
         def test_timeout(self):
             '''
-            Test if a timeout is reached.
+            Prueba si se alcanza un tiempo de espera.
             '''
-            # Use an impossible timeout
+            # Usa un tiempo de espera imposible.
             try:
                 with file_lock(self._lock_file_path, timeout=-1):
                     pass
-                self.assertTrue(False, 'Should not reach this point')
+                self.assertTrue(False, 'No debería llegar a este punto')  # Esta línea no debería ejecutarse.
             except FileLockTimeoutError:
-                pass
+                pass  # El tiempo de espera debería provocar un error.
 
         def test_lock(self):
             '''
-            Test if a lock is indeed in place.
+            Prueba si un bloqueo está realmente en su lugar.
             '''
             def process_task(path):
                 with file_lock(path):
-                    sleep(1)
+                    sleep(1)  # Simula una operación que mantiene el bloqueo.
                 return 0
 
-            process = Process(target=process_task,
-                    args=[self._lock_file_path])
-            process.start()
-            sleep(0.5) # Make sure it reaches the disk
-            self.assertTrue(isfile(self._lock_file_path))
+            process = Process(target=process_task, args=[self._lock_file_path])
+            process.start()  # Inicia el proceso paralelo.
+            sleep(0.5)  # Asegura que el archivo se haya creado en disco.
+            self.assertTrue(isfile(self._lock_file_path))  # Verifica que el archivo de bloqueo exista.
             sleep(1)
 
         def _fake_crash_other_process(self):
             '''
-            Helper method to emulate a forced computer shutdown that leaves a
-            lock-file intact.
-
-            In theory the PID can have ended up being re-used at a later point
-            but the likelihood of this can be considered to be low.
+            Método auxiliar para emular un cierre forzado que deja un archivo de bloqueo intacto.
             '''
             def process_task(path):
                 fd = open(path, O_CREAT | O_RDWR)
                 try:
-                    write(fd, str(getpid()))
+                    write(fd, str(getpid()))  # Escribe el PID en el archivo de bloqueo.
                 finally:
-                    close(fd)
+                    close(fd)  # Cierra el archivo.
                 return 0
 
-            process = Process(target=process_task,
-                    args=[self._lock_file_path])
-            process.start()
+            process = Process(target=process_task, args=[self._lock_file_path])
+            process.start()  # Inicia el proceso.
             while process.is_alive():
-                sleep(0.1)
-            return process.pid
+                sleep(0.1)  # Espera a que el proceso finalice.
+            return process.pid  # Devuelve el PID del proceso.
 
         def test_crash(self):
             '''
-            Test that the fake crash mechanism is working.
+            Prueba que el mecanismo de bloqueo después de un cierre forzado funcione.
             '''
-            pid = self._fake_crash_other_process()
-            self.assertTrue(isfile(self._lock_file_path))
+            pid = self._fake_crash_other_process()  # Simula un cierre forzado.
+            self.assertTrue(isfile(self._lock_file_path))  # Verifica que el archivo de bloqueo exista.
             self.assertTrue(pid == int(
-                read(open(self._lock_file_path, O_RDONLY), 255)))#XXX: Close
+                read(open(self._lock_file_path, O_RDONLY), 255)))  # Verifica que el PID en el archivo coincida.
 
         ###
         def test_pid_disallow(self):
             '''
-            Test if stale-lock files are respected if disallow policy is set.
+            Prueba si los archivos de bloqueo obsoletos se respetan si se establece la política de disallow.
             '''
-            self._fake_crash_other_process()
+            self._fake_crash_other_process()  # Simula un cierre forzado.
             try:
                 with file_lock(self._lock_file_path, pid_policy=PID_DISALLOW):
-                    self.assertTrue(False, 'Should not reach this point')
+                    self.assertTrue(False, 'No debería llegar a este punto')  # No debería alcanzar esta línea.
             except FileLockTimeoutError:
-                pass
+                pass  # Debería lanzar un error de tiempo de espera.
 
         def test_pid_warn(self):
             '''
-            Test if a stale lock-filk causes a warning to stderr and then is
-            ignored if the warn policy is set.
+            Prueba si un archivo de bloqueo obsoleto provoca una advertencia en stderr y luego se ignora con la política de warn.
             '''
-            self._fake_crash_other_process()
-            err_output = StringIO()
+            self._fake_crash_other_process()  # Simula un cierre forzado.
+            err_output = StringIO()  # Crea un objeto para capturar la salida de error.
             try:
                 with file_lock(self._lock_file_path, pid_policy=PID_WARN,
                         err_output=err_output):
                     pass
             except FileLockTimeoutError:
-                self.assertTrue(False, 'Should not reach this point')
-            err_output.seek(0)
-            self.assertTrue(err_output.read(), 'No output although warn set')
+                self.assertTrue(False, 'No debería llegar a este punto')  # No debería alcanzar esta línea.
+            err_output.seek(0)  # Vuelve al inicio de la captura de salida.
+            self.assertTrue(err_output.read(), 'No hubo salida, aunque la política de advertencia estaba activada')  # Verifica que se haya emitido una advertencia.
 
         def test_pid_allow(self):
             '''
-            Test if a stale lock-file is ignored and un-reported if the allow
-            policy has been set.
+            Prueba si un archivo de bloqueo obsoleto se ignora sin notificar con la política de allow.
             '''
-            self._fake_crash_other_process()
-            err_output = StringIO()
+            self._fake_crash_other_process()  # Simula un cierre forzado.
+            err_output = StringIO()  # Crea un objeto para capturar la salida de error.
             try:
                 with file_lock(self._lock_file_path, pid_policy=PID_ALLOW,
                         err_output=err_output):
                     pass
             except FileLockTimeoutError:
-                self.assertTrue(False, 'Should not reach this point')
-            err_output.seek(0)
-            self.assertFalse(err_output.read(), 'Output although allow set')
+                self.assertTrue(False, 'No debería llegar a este punto')  # No debería alcanzar esta línea.
+            err_output.seek(0)  # Vuelve al inicio de la captura de salida.
+            self.assertFalse(err_output.read(), 'Hubo salida, aunque la política de allow estaba activada')  # Verifica que no haya advertencias.
 
-
-    unittest.main()
+    unittest.main()  # Ejecuta las pruebas unitarias.
