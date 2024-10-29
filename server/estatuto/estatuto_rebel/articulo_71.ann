@@ -1,21 +1,21 @@
-T1	concept 0 34	Elección para el comité de empresa
-T2	concept 17 34	comité de empresa
-T3	concept 177 185	técnicos
-T4	concept 75 87	trabajadores
-T5	concept 829 837	fracción
-T6	concept 798 803	grupo
-T7	concept 911 954	elecciones a miembros del comité de empresa
-T8	concept 911 921	elecciones
-T9	concept 1636 1645	sindicato
-T10	concept 1648 1669	grupo de trabajadores
-T11	concept 1730 1744	representantes
-T12	concept 17 34	comité de empresa
-T13	concept 2056 2069	votos válidos
-T14	concept 1894 1921	representación proporcional
-T15	concept 1521 1531	candidatos
-T16	concept 1419 1430	candidatura
-T17	concept 1246 1255	candidato
-T18	concept 958 966	elección
+T1	concept Elección para el comité de empresa
+T2	concept comité de empresa
+T3	concept técnicos
+T4	concept trabajadores
+T5	concept fracción
+T6	concept grupo
+T7	concept elecciones a miembros del comité de empresa
+T8	concept elecciones
+T9	concept sindicato
+T10	concept grupo de trabajadores
+T11	concept representantes
+T12	concept comité de empresa
+T13	concept votos válidos
+T14	concept representación proporcional
+T15	concept candidatos
+T16	concept candidatura
+T17	concept candidato
+T18	concept elección
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6

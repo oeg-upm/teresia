@@ -1,41 +1,36 @@
-T1	concept 0 33	Causas y efectos de la suspensión
-T2	concept 23 33	suspensión
-T3	concept 41 60	contrato de trabajo
-T4	concept 41 60	contrato de trabajo
-T5	concept 110 123	Mutuo acuerdo
-T6	concept 116 123	acuerdo
-T7	concept 41 49	contrato
-T8	concept 147 158	consignadas
-T9	concept 191 211	Incapacidad temporal
-T10	concept 219 231	trabajadores
-T11	concept 325 337	Código Civil
-T12	concept 344 357	leyes civiles
-T13	concept 752 778	Riesgo durante el embarazo
-T14	concept 781 816	riesgo durante la lactancia natural
-T15	concept 849 890	Ejercicio de cargo público representativo
-T16	concept 849 875	Ejercicio de cargo público
-T17	concept 896 917	Privación de libertad
-T18	concept 953 962	sentencia
-T19	concept 1004 1010	sueldo
-T20	concept 995 1001	empleo
-T21	concept 1044 1065	Fuerza mayor temporal
-T22	concept 1044 1056	Fuerza mayor
-T23	concept 1078 1088	económicas
-T24	concept 1119 1129	producción
-T25	concept 1135 1153	Excedencia forzosa
-T26	concept 1135 1145	Excedencia
-T27	concept 1184 1190	huelga
-T28	concept 1173 1180	derecho
-T29	concept 1196 1208	Cierre legal
-T30	concept 1215 1222	empresa
-T31	concept 1277 1307	abandonar su puesto de trabajo
-T32	concept 1344 1363	violencia de género
-T33	concept 1436 1456	remunerar el trabajo
-T34	concept 1398 1410	obligaciones
+T1	concept Causas y efectos de la suspensión
+T2	concept suspensión
+T3	concept contrato de trabajo
+T4	concept contrato de trabajo
+T5	concept Mutuo acuerdo
+T6	concept acuerdo
+T9	concept Incapacidad temporal
+T10	concept trabajadores
+T11	concept Código Civil
+T12	concept leyes civiles
+T13	concept Riesgo durante el embarazo
+T14	concept riesgo durante la lactancia natural
+T15	concept Ejercicio de cargo público representativo
+T16	concept Ejercicio de cargo público
+T17	concept Privación de libertad
+T18	concept sentencia
+T19	concept sueldo
+T20	concept empleo
+T21	concept Fuerza mayor temporal
+T22	concept Fuerza mayor
+T25	concept Excedencia forzosa
+T26	concept Excedencia
+T27	concept huelga
+T28	concept derecho
+T29	concept Cierre legal
+T30	concept empresa
+T31	concept abandonar su puesto de trabajo
+T32	concept violencia de género
+T33	concept remunerar el trabajo
+T34	concept obligaciones
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	has_quality Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
@@ -43,7 +38,6 @@ R8	subclass_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
 R10	part_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	studies Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
 R14	subclass_of Arg1:T27 Arg2:T28
 R15	part_of Arg1:T29 Arg2:T30

@@ -1,57 +1,42 @@
-T1	media 3 29	Fondo de Garantía Salarial
-T2	concept 12 29	Garantía Salarial
-T3	media 3 29	Fondo de Garantía Salarial
-T4	org 96 135	Ministerio de Empleo y Seguridad Social
-T5	concept 849 870	pagas extraordinarias
-T6	concept 264 271	salario
-T7	media 3 29	Fondo de Garantía Salarial
-T8	concept 1348 1385	Ley 22/2003, de 9 de julio, Concursal
-T9	concept 1213 1222	extinción
-T10	concept 1230 1238	contrato
-T11	media 3 29	Fondo de Garantía Salarial
-T12	concept 3 8	Fondo
-T13	concept 2151 2159	créditos
-T14	concept 3067 3084	deudas de la masa
-T15	concept 3067 3084	deudas de la masa
-T16	concept 2151 2159	créditos
-T17	concept 849 870	pagas extraordinarias
-T18	concept 769 800	salario mínimo interprofesional
-T19	concept 1763 1776	indemnización
-T20	concept 3 8	Fondo
-T21	concept 4197 4222	instrucción de expediente
-T22	concept 3 8	Fondo
-T23	media 3 29	Fondo de Garantía Salarial
-T24	concept 1285 1288	ley
-T25	media 3 29	Fondo de Garantía Salarial
-T26	concept 1285 1288	ley
-T27	concept 119 135	Seguridad Social
-T28	concept 5101 5110	desempleo
-T29	media 5294 5305	Ley 36/2011
-T30	concept 5325 5361	Reguladora de la Jurisdicción Social
-T31	concept 1040 1055	indemnizaciones
-T32	concept 264 271	salario
-T33	concept 5899 5918	acciones ejecutivas
-T34	concept 5954 5977	procedimiento concursal
-T35	media 3 29	Fondo de Garantía Salarial
-T36	concept 6152 6162	arbitrales
-T37	media 3 29	Fondo de Garantía Salarial
-T38	loc 6430 6436	España
-T39	concept 6764 6787	Estado miembro distinto
-T40	loc 6430 6436	España
-T41	concept 330 340	empresario
-T42	concept 330 337	empresa
-T43	media 3 29	Fondo de Garantía Salarial
-T44	concept 7501 7524	institución de garantía
-T45	media 3 29	Fondo de Garantía Salarial
-T46	loc 6430 6436	España
-T47	media 3 29	Fondo de Garantía Salarial
-T48	loc 6430 6436	España
-T49	media 3 29	Fondo de Garantía Salarial
-T50	concept 7501 7524	institución de garantía
+T1	media Fondo de Garantía Salarial
+T2	concept Garantía Salarial
+T3	media Fondo de Garantía Salarial
+T4	org Ministerio de Empleo y Seguridad Social
+T5	concept pagas extraordinarias
+T6	concept salario
+T9	concept extinción
+T10	concept contrato
+T11	media Fondo de Garantía Salarial
+T12	concept Fondo
+T13	concept créditos
+T14	concept deudas de la masa
+T15	concept deudas de la masa
+T16	concept créditos
+T17	concept pagas extraordinarias
+T18	concept salario mínimo interprofesional
+T19	concept indemnización
+T20	concept Fondo
+T21	concept instrucción de expediente
+T22	concept Fondo
+T23	media Fondo de Garantía Salarial
+T24	concept ley
+T25	media Fondo de Garantía Salarial
+T26	concept ley
+T27	concept Seguridad Social
+T28	concept desempleo
+T31	concept indemnizaciones
+T32	concept salario
+T33	concept acciones ejecutivas
+T34	concept procedimiento concursal
+T35	media Fondo de Garantía Salarial
+T36	concept arbitrales
+T43	media Fondo de Garantía Salarial
+T44	concept institución de garantía
+T49	media Fondo de Garantía Salarial
+T50	concept institución de garantía
 R1	instance_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	main_regulatory_text Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	instance_of Arg1:T11 Arg2:T12
 R7	different_from Arg1:T13 Arg2:T14
@@ -62,14 +47,8 @@ R11	facet_of Arg1:T21 Arg2:T22
 R12	instance_of Arg1:T23 Arg2:T24
 R13	instance_of Arg1:T25 Arg2:T26
 R14	facet_of Arg1:T27 Arg2:T28
-R15	main_subject Arg1:T29 Arg2:T30
 R16	subclass_of Arg1:T31 Arg2:T32
 R17	part_of Arg1:T33 Arg2:T34
 R18	instance_of Arg1:T35 Arg2:T36
-R19	country Arg1:T37 Arg2:T38
-R20	country Arg1:T39 Arg2:T40
-R21	field_of_this_occupation Arg1:T41 Arg2:T42
 R22	instance_of Arg1:T43 Arg2:T44
-R23	country Arg1:T45 Arg2:T46
-R24	country Arg1:T47 Arg2:T48
 R25	instance_of Arg1:T49 Arg2:T50

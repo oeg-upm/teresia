@@ -1,73 +1,52 @@
-T1	concept 0 23	Suspensión del contrato
-T2	concept 26 46	reducción de jornada
-T3	concept 175 194	contrato de trabajo
-T4	concept 145 155	empresario
-T5	concept 601 620	ingresos ordinarios
-T6	concept 623 629	ventas
-T7	concept 623 629	ventas
-T8	concept 601 620	ingresos ordinarios
-T9	concept 883 898	causas técnicas
-T10	concept 1166 1184	causas productivas
-T11	concept 1166 1184	causas productivas
-T12	concept 883 898	causas técnicas
-T13	concept 1387 1399	trabajadores
-T14	concept 145 152	empresa
-T15	concept 1713 1733	comisión negociadora
-T16	concept 1569 1577	consulta
-T17	concept 1989 2003	interlocutores
-T18	concept 2042 2068	procedimiento de consultas
-T19	concept 1587 1629	representantes legales de los trabajadores
-T20	concept 1587 1601	representantes
-T21	concept 2969 3003	representantes de los trabajadores
-T22	concept 1498 1515	autoridad laboral
-T23	org 3456 3496	Inspección de Trabajo y Seguridad Social
-T24	concept 3370 3419	entidad gestora de las prestaciones por desempleo
-T25	concept 4000 4006	fraude
-T26	concept 4025 4041	abuso de derecho
-T27	concept 1587 1609	representantes legales
-T28	concept 2181 2224	comisión representativa de los trabajadores
-T29	concept 4660 4669	arbitraje
-T30	concept 4648 4657	mediación
-T31	concept 5173 5197	prestación por desempleo
-T32	concept 3370 3385	entidad gestora
-T33	concept 2969 3003	representantes de los trabajadores
-T34	concept 1498 1515	autoridad laboral
-T35	concept 5173 5197	prestación por desempleo
-T36	concept 3410 3419	desempleo
-T37	concept 3410 3419	desempleo
-T38	concept 5173 5197	prestación por desempleo
-T39	concept 6739 6758	conflicto colectivo
-T40	concept 6780 6797	acción individual
-T41	concept 26 46	reducción de jornada
-T42	concept 6934 6952	jornada de trabajo
-T43	concept 7271 7285	jornada diaria
-T44	concept 6934 6952	jornada de trabajo
-T45	concept 7287 7294	semanal
-T46	concept 6934 6952	jornada de trabajo
-T47	concept 7296 7303	mensual
-T48	concept 6934 6952	jornada de trabajo
-T49	concept 7306 7311	anual
-T50	concept 6934 6952	jornada de trabajo
-T51	concept 125 137	fuerza mayor
-T52	concept 175 194	contrato de trabajo
-T53	concept 7662 7684	reducciones de jornada
-T54	concept 7630 7655	suspensiones de contratos
+T1	concept Suspensión del contrato
+T2	concept reducción de jornada
+T13	concept trabajadores
+T14	concept empresa
+T15	concept comisión negociadora
+T16	concept consulta
+T17	concept interlocutores
+T18	concept procedimiento de consultas
+T19	concept representantes legales de los trabajadores
+T20	concept representantes
+T21	concept representantes de los trabajadores
+T22	concept autoridad laboral
+T25	concept fraude
+T26	concept abuso de derecho
+T27	concept representantes legales
+T28	concept comisión representativa de los trabajadores
+T29	concept arbitraje
+T30	concept mediación
+T33	concept representantes de los trabajadores
+T34	concept autoridad laboral
+T35	concept prestación por desempleo
+T36	concept desempleo
+T37	concept desempleo
+T38	concept prestación por desempleo
+T39	concept conflicto colectivo
+T40	concept acción individual
+T41	concept reducción de jornada
+T42	concept jornada de trabajo
+T43	concept jornada diaria
+T44	concept jornada de trabajo
+T45	concept semanal
+T46	concept jornada de trabajo
+T47	concept mensual
+T48	concept jornada de trabajo
+T49	concept anual
+T50	concept jornada de trabajo
+T51	concept fuerza mayor
+T52	concept contrato de trabajo
+T53	concept reducciones de jornada
+T54	concept suspensiones de contratos
 R1	subclass_of Arg1:T1 Arg2:T2
-R2	participant Arg1:T3 Arg2:T4
-R3	opposite_of Arg1:T5 Arg2:T6
-R4	opposite_of Arg1:T7 Arg2:T8
-R5	opposite_of Arg1:T9 Arg2:T10
-R6	opposite_of Arg1:T11 Arg2:T12
 R7	part_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
 R9	part_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	subsidiary Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
 R14	part_of Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
-R16	participant Arg1:T31 Arg2:T32
 R17	part_of Arg1:T33 Arg2:T34
 R18	different_from Arg1:T35 Arg2:T36
 R19	different_from Arg1:T37 Arg2:T38

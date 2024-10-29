@@ -1,25 +1,22 @@
-T1	concept 0 18	Liquidación y pago
-T2	concept 14 18	pago
-T3	concept 52 59	salario
-T4	concept 216 229	retribuciones
-T5	concept 421 429	anticipo
-T6	concept 14 18	pago
-T7	concept 717 735	convenio colectivo
-T8	concept 775 782	empresa
-T9	concept 1109 1127	fijos-discontinuos
-T10	concept 52 59	salario
-T11	concept 1310 1318	comisión
-T12	concept 52 59	salario
-T13	concept 324 346	representantes legales
-T14	concept 285 295	trabajador
-T15	concept 1694 1698	mora
-T16	concept 1682 1689	interés
-T17	concept 1915 1921	cheque
-T18	concept 1929 1946	modalidad de pago
+T1	concept Liquidación y pago
+T2	concept pago
+T3	concept salario
+T4	concept retribuciones
+T5	concept anticipo
+T6	concept pago
+T9	concept fijos-discontinuos
+T10	concept salario
+T11	concept comisión
+T12	concept salario
+T13	concept representantes legales
+T14	concept trabajador
+T15	concept mora
+T16	concept interés
+T17	concept cheque
+T18	concept modalidad de pago
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	participant Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
 R7	part_of Arg1:T13 Arg2:T14

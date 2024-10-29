@@ -1,24 +1,18 @@
-T1	concept 0 28	Locales y tablón de anuncios
-T2	concept 10 28	tablón de anuncios
-T3	concept 144 165	delegados de personal
-T4	concept 37 45	empresas
-T5	concept 172 189	comité de empresa
-T6	concept 37 45	empresas
-T7	media 687 697	TÍTULO III
-T8	media 687 697	TÍTULO III
-T9	concept 735 755	convenios colectivos
-T10	concept 704 725	negociación colectiva
-T11	media 756 766	CAPÍTULO I
-T12	media 756 766	CAPÍTULO I
-T13	concept 767 790	Disposiciones generales
-T14	concept 767 790	Disposiciones generales
-T15	concept 803 840	Naturaleza y efectos de los convenios
-T16	concept 791 798	Sección
+T1	concept Locales y tablón de anuncios
+T2	concept tablón de anuncios
+T3	concept delegados de personal
+T4	concept empresas
+T5	concept comité de empresa
+T6	concept empresas
+T9	concept convenios colectivos
+T10	concept negociación colectiva
+T13	concept Disposiciones generales
+T14	concept Disposiciones generales
+T15	concept Naturaleza y efectos de los convenios
+T16	concept Sección
 R1	instance_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
-R4	follows Arg1:T7 Arg2:T8
 R5	part_of Arg1:T9 Arg2:T10
-R6	follows Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
 R8	instance_of Arg1:T15 Arg2:T16

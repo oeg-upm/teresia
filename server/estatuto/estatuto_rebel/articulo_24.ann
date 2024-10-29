@@ -1,15 +1,9 @@
-T1	concept 0 8	Ascensos
-T2	concept 0 7	Ascenso
-T3	concept 153 170	acuerdo colectivo
-T4	concept 37 73	sistema de clasificación profesional
-T5	concept 313 323	antigüedad
-T6	concept 304 311	méritos
-T7	concept 591 598	mujeres
-T8	concept 601 608	hombres
-T9	concept 601 608	hombres
-T10	concept 591 598	mujeres
+T1	concept Ascensos
+T2	concept Ascenso
+T3	concept acuerdo colectivo
+T4	concept sistema de clasificación profesional
+T5	concept antigüedad
+T6	concept méritos
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	opposite_of Arg1:T7 Arg2:T8
-R5	opposite_of Arg1:T9 Arg2:T10

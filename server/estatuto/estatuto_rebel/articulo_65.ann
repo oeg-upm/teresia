@@ -1,27 +1,24 @@
-T1	concept 12 18	sigilo
-T2	concept 0 9	Capacidad
-T3	concept 84 100	órgano colegiado
-T4	concept 50 67	comité de empresa
-T5	concept 12 18	sigilo
-T6	concept 360 365	deber
-T7	concept 601 610	documento
-T8	concept 60 67	empresa
-T9	concept 824 831	mandato
-T10	concept 360 365	deber
-T11	concept 1038 1049	comerciales
-T12	concept 60 67	empresa
-T13	concept 1299 1316	volumen de empleo
-T14	concept 60 67	empresa
-T15	concept 1625 1692	Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social
-T16	concept 1625 1692	Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social
-T17	concept 12 18	sigilo
-T18	concept 1747 1755	litigios
-T19	concept 1988 2041	Ley sobre Infracciones y Sanciones en el Orden Social
-T20	concept 2059 2083	Real Decreto Legislativo
+T1	concept sigilo
+T2	concept Capacidad
+T3	concept órgano colegiado
+T4	concept comité de empresa
+T5	concept sigilo
+T6	concept deber
+T9	concept mandato
+T10	concept deber
+T11	concept comerciales
+T12	concept empresa
+T13	concept volumen de empleo
+T14	concept empresa
+T15	concept Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social
+T16	concept Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social
+T17	concept sigilo
+T18	concept litigios
+T19	concept Ley sobre Infracciones y Sanciones en el Orden Social
+T20	concept Real Decreto Legislativo
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	instance_of Arg1:T5 Arg2:T6
-R4	manufacturer Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
 R7	facet_of Arg1:T13 Arg2:T14

@@ -1,23 +1,17 @@
-T1	concept 0 19	Movilidad funcional
-T2	concept 10 19	funcional
-T3	concept 207 217	trabajador
-T4	concept 156 174	prestación laboral
-T5	concept 286 296	superiores
-T6	concept 302 312	inferiores
-T7	concept 302 312	inferiores
-T8	concept 286 296	superiores
-T9	concept 788 795	ascenso
-T10	concept 1045 1064	diferencia salarial
-T11	concept 1045 1064	diferencia salarial
-T12	concept 788 795	ascenso
-T13	concept 1703 1724	ineptitud sobrevenida
-T14	concept 1683 1699	despido objetivo
-T15	concept 1912 1920	pactadas
-T16	concept 832 850	convenio colectivo
+T1	concept Movilidad funcional
+T2	concept funcional
+T3	concept trabajador
+T4	concept prestación laboral
+T9	concept ascenso
+T10	concept diferencia salarial
+T11	concept diferencia salarial
+T12	concept ascenso
+T13	concept ineptitud sobrevenida
+T14	concept despido objetivo
+T15	concept pactadas
+T16	concept convenio colectivo
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
-R3	opposite_of Arg1:T5 Arg2:T6
-R4	opposite_of Arg1:T7 Arg2:T8
 R5	different_from Arg1:T9 Arg2:T10
 R6	different_from Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14

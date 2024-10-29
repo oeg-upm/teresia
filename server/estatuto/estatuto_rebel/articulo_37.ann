@@ -1,109 +1,70 @@
-T1	concept 0 8	Descanso
-T2	concept 18 25	fiestas
-T3	concept 231 237	sábado
-T4	concept 145 148	día
-T5	concept 267 272	lunes
-T6	concept 145 148	día
-T7	concept 267 272	lunes
-T8	concept 231 237	sábado
-T9	concept 295 302	domingo
-T10	concept 145 148	día
-T11	concept 295 302	domingo
-T12	concept 267 272	lunes
-T13	concept 320 336	descanso semanal
-T14	concept 79 87	descanso
-T15	time 849 868	Natividad del Señor
-T16	loc 958 964	España
-T17	time 870 879	Año Nuevo
-T18	loc 958 964	España
-T19	concept 897 915	Fiesta del Trabajo
-T20	loc 958 964	España
-T21	time 939 954	Fiesta Nacional
-T22	loc 958 964	España
-T23	loc 958 964	España
-T24	time 849 868	Natividad del Señor
-T25	loc 958 964	España
-T26	time 870 879	Año Nuevo
-T27	concept 267 272	lunes
-T28	concept 295 302	domingo
-T29	concept 267 272	lunes
-T30	concept 1340 1353	días festivos
-T31	concept 295 302	domingo
-T32	concept 1659 1677	comunidad autónoma
-T33	concept 2005 2017	remuneración
-T34	concept 1982 1989	trabajo
-T35	concept 2109 2119	matrimonio
-T36	concept 2076 2097	Quince días naturales
-T37	concept 2205 2228	intervención quirúrgica
-T38	concept 2168 2178	enfermedad
-T39	concept 1157 1165	traslado
-T40	concept 1157 1165	traslado
-T41	concept 2654 2662	sufragio
-T42	concept 2575 2580	deber
-T43	concept 3099 3118	excedencia regulada
-T44	concept 3125 3136	artículo 46
-T45	concept 3240 3253	indemnización
-T46	concept 3296 3303	salario
-T47	concept 3385 3412	representación del personal
-T48	concept 3359 3379	funciones sindicales
-T49	concept 3598 3606	adopción
-T50	concept 3573 3578	parto
-T51	concept 3608 3650	guarda con fines de adopción o acogimiento
-T52	concept 4326 4378	guarda con fines de adopción o acogimiento múltiples
-T53	concept 4326 4378	guarda con fines de adopción o acogimiento múltiples
-T54	concept 3608 3650	guarda con fines de adopción o acogimiento
-T55	concept 4017 4024	acuerdo
-T56	concept 4579 4600	negociación colectiva
-T57	concept 4895 4903	acogedor
-T58	concept 4764 4782	derecho individual
-T59	concept 5213 5224	guardadores
-T60	concept 66 73	derecho
-T61	concept 5227 5237	acogedores
-T62	concept 66 73	derecho
-T63	concept 3573 3578	parto
-T64	concept 5584 5588	hijo
-T65	concept 5778 5814	disminución proporcional del salario
-T66	concept 6075 6116	reducción de la jornada de trabajo diaria
-T67	concept 2321 2335	consanguinidad
-T68	concept 2338 2346	afinidad
-T69	concept 6861 6869	melanoma
-T70	concept 6835 6841	cáncer
-T71	concept 6873 6882	carcinoma
-T72	concept 6835 6841	cáncer
-T73	concept 7507 7514	hombres
-T74	concept 7517 7524	mujeres
-T75	concept 7517 7524	mujeres
-T76	concept 7507 7514	hombres
-T77	concept 4700 4720	reducción de jornada
-T78	concept 7961 7981	convenios colectivos
-T79	media 8822 8833	Ley 36/2011
-T80	concept 8853 8889	Reguladora de la Jurisdicción Social
-T81	concept 9285 9301	horario flexible
-T82	concept 9255 9262	horario
-T83	concept 9608 9661	acuerdo entre la empresa y los trabajadores afectados
-T84	concept 9526 9592	acuerdos entre la empresa y los representantes de los trabajadores
+T1	concept Descanso
+T2	concept fiestas
+T3	concept sábado
+T4	concept día
+T5	concept lunes
+T6	concept día
+T9	concept domingo
+T10	concept día
+T13	concept descanso semanal
+T14	concept descanso
+T29	concept lunes
+T30	concept días festivos
+T31	concept domingo
+T32	concept comunidad autónoma
+T33	concept remuneración
+T34	concept trabajo
+T37	concept intervención quirúrgica
+T38	concept enfermedad
+T39	concept traslado
+T40	concept traslado
+T41	concept sufragio
+T42	concept deber
+T45	concept indemnización
+T46	concept salario
+T47	concept representación del personal
+T48	concept funciones sindicales
+T49	concept adopción
+T50	concept parto
+T51	concept guarda con fines de adopción o acogimiento
+T52	concept guarda con fines de adopción o acogimiento múltiples
+T53	concept guarda con fines de adopción o acogimiento múltiples
+T54	concept guarda con fines de adopción o acogimiento
+T55	concept acuerdo
+T56	concept negociación colectiva
+T57	concept acogedor
+T58	concept derecho individual
+T59	concept guardadores
+T60	concept derecho
+T61	concept acogedores
+T62	concept derecho
+T63	concept parto
+T64	concept hijo
+T65	concept disminución proporcional del salario
+T66	concept reducción de la jornada de trabajo diaria
+T67	concept consanguinidad
+T68	concept afinidad
+T69	concept melanoma
+T70	concept cáncer
+T71	concept carcinoma
+T72	concept cáncer
+T77	concept reducción de jornada
+T78	concept convenios colectivos
+T81	concept horario flexible
+T82	concept horario
+T83	concept acuerdo entre la empresa y los trabajadores afectados
+T84	concept acuerdos entre la empresa y los representantes de los trabajadores
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	follows Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
-R6	follows Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
-R8	country Arg1:T15 Arg2:T16
-R9	country Arg1:T17 Arg2:T18
-R10	country Arg1:T19 Arg2:T20
-R11	country Arg1:T21 Arg2:T22
-R12	public_holiday Arg1:T23 Arg2:T24
-R13	public_holiday Arg1:T25 Arg2:T26
-R14	follows Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
 R16	part_of Arg1:T31 Arg2:T32
 R17	facet_of Arg1:T33 Arg2:T34
-R18	has_quality Arg1:T35 Arg2:T36
 R19	subclass_of Arg1:T37 Arg2:T38
 R20	subclass_of Arg1:T39 Arg2:T40
 R21	subclass_of Arg1:T41 Arg2:T42
-R22	main_regulatory_text Arg1:T43 Arg2:T44
 R23	subclass_of Arg1:T45 Arg2:T46
 R24	subclass_of Arg1:T47 Arg2:T48
 R25	has_cause Arg1:T49 Arg2:T50
@@ -118,9 +79,6 @@ R33	subclass_of Arg1:T65 Arg2:T66
 R34	subclass_of Arg1:T67 Arg2:T68
 R35	subclass_of Arg1:T69 Arg2:T70
 R36	subclass_of Arg1:T71 Arg2:T72
-R37	opposite_of Arg1:T73 Arg2:T74
-R38	opposite_of Arg1:T75 Arg2:T76
 R39	part_of Arg1:T77 Arg2:T78
-R40	main_subject Arg1:T79 Arg2:T80
 R41	subclass_of Arg1:T81 Arg2:T82
 R42	subclass_of Arg1:T83 Arg2:T84

@@ -1,15 +1,12 @@
-T1	concept 47 74	trabajos fijos-discontinuos
-T2	concept 197 229	contrato de duración determinada
-T3	concept 408 422	representantes
-T4	concept 398 404	número
-T5	concept 323 354	trabajadores fijos de plantilla
-T6	concept 80 92	trabajadores
-T7	concept 729 744	días trabajados
-T8	concept 846 854	fracción
-T9	concept 846 854	fracción
-T10	concept 729 744	días trabajados
+T1	concept trabajos fijos-discontinuos
+T2	concept contrato de duración determinada
+T5	concept trabajadores fijos de plantilla
+T6	concept trabajadores
+T7	concept días trabajados
+T8	concept fracción
+T9	concept fracción
+T10	concept días trabajados
 R1	subclass_of Arg1:T1 Arg2:T2
-R2	has_quality Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
 R4	different_from Arg1:T7 Arg2:T8
 R5	different_from Arg1:T9 Arg2:T10

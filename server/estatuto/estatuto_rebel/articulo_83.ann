@@ -1,13 +1,13 @@
-T1	concept 0 23	Unidades de negociación
-T2	concept 12 23	negociación
-T3	concept 64 84	ámbito de aplicación
-T4	concept 32 52	convenios colectivos
-T5	concept 146 172	asociaciones empresariales
-T6	concept 118 143	organizaciones sindicales
-T7	concept 611 621	sindicatos
-T8	concept 146 172	asociaciones empresariales
-T9	concept 267 294	acuerdos interprofesionales
-T10	concept 32 52	convenios colectivos
+T1	concept Unidades de negociación
+T2	concept negociación
+T3	concept ámbito de aplicación
+T4	concept convenios colectivos
+T5	concept asociaciones empresariales
+T6	concept organizaciones sindicales
+T7	concept sindicatos
+T8	concept asociaciones empresariales
+T9	concept acuerdos interprofesionales
+T10	concept convenios colectivos
 R1	facet_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6

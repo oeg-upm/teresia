@@ -1,11 +1,11 @@
-T1	concept 0 19	Promoción económica
-T2	concept 10 19	económica
-T3	concept 170 189	contrato individual
-T4	concept 149 167	convenio colectivo
-T5	concept 299 310	adquisición
-T6	concept 265 284	derechos adquiridos
-T7	concept 362 393	Salarios y garantías salariales
-T8	concept 350 357	Sección
+T1	concept Promoción económica
+T2	concept económica
+T3	concept contrato individual
+T4	concept convenio colectivo
+T5	concept adquisición
+T6	concept derechos adquiridos
+T7	concept Salarios y garantías salariales
+T8	concept Sección
 R1	part_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6

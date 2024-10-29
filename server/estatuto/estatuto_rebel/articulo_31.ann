@@ -1,9 +1,9 @@
-T1	concept 0 31	Gratificaciones extraordinarias
-T2	concept 0 15	Gratificaciones
-T3	concept 67 98	gratificaciones extraordinarias
-T4	concept 194 212	convenio colectivo
-T5	concept 67 98	gratificaciones extraordinarias
-T6	concept 194 212	convenio colectivo
+T1	concept Gratificaciones extraordinarias
+T2	concept Gratificaciones
+T3	concept gratificaciones extraordinarias
+T4	concept convenio colectivo
+T5	concept gratificaciones extraordinarias
+T6	concept convenio colectivo
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6

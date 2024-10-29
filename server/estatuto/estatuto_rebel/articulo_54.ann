@@ -1,32 +1,23 @@
-T1	concept 0 21	Despido disciplinario
-T2	concept 8 21	disciplinario
-T3	concept 105 112	despido
-T4	concept 29 48	contrato de trabajo
-T5	concept 210 223	contractuales
-T6	concept 194 209	incumplimientos
-T7	concept 270 280	asistencia
-T8	concept 283 294	puntualidad
-T9	concept 283 294	puntualidad
-T10	concept 270 280	asistencia
-T11	concept 329 342	desobediencia
-T12	concept 314 326	indisciplina
-T13	concept 84 94	empresario
-T14	concept 84 91	empresa
-T15	concept 520 540	buena fe contractual
-T16	concept 563 572	confianza
-T17	concept 634 644	voluntaria
-T18	concept 651 662	rendimiento
-T19	concept 721 732	toxicomanía
-T20	concept 699 709	embriaguez
-T21	concept 783 824	acoso por razón de origen racial o étnico
-T22	concept 783 788	acoso
+T1	concept Despido disciplinario
+T2	concept disciplinario
+T3	concept despido
+T4	concept contrato de trabajo
+T5	concept contractuales
+T6	concept incumplimientos
+T11	concept desobediencia
+T12	concept indisciplina
+T15	concept buena fe contractual
+T16	concept confianza
+T17	concept voluntaria
+T18	concept rendimiento
+T19	concept toxicomanía
+T20	concept embriaguez
+T21	concept acoso por razón de origen racial o étnico
+T22	concept acoso
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	has_cause Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	opposite_of Arg1:T7 Arg2:T8
-R5	opposite_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R7	field_of_this_occupation Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20

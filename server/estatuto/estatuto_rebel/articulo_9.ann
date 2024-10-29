@@ -1,15 +1,15 @@
-T1	concept 0 20	Validez del contrato
-T2	concept 12 20	contrato
-T3	concept 62 81	contrato de trabajo
-T4	concept 62 81	contrato de trabajo
-T5	concept 319 337	contraprestaciones
-T6	concept 12 20	contrato
-T7	concept 739 754	contrato válido
-T8	concept 12 20	contrato
-T9	concept 899 921	igual o de igual valor
-T10	concept 860 871	retribución
-T11	concept 936 971	Modalidades del contrato de trabajo
-T12	concept 62 81	contrato de trabajo
+T1	concept Validez del contrato
+T2	concept contrato
+T3	concept contrato de trabajo
+T4	concept contrato de trabajo
+T5	concept contraprestaciones
+T6	concept contrato
+T7	concept contrato válido
+T8	concept contrato
+T9	concept igual o de igual valor
+T10	concept retribución
+T11	concept Modalidades del contrato de trabajo
+T12	concept contrato de trabajo
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6

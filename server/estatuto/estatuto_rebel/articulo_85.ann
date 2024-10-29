@@ -1,37 +1,25 @@
-T1	concept 0 9	Contenido
-T2	concept 0 9	Contenido
-T3	concept 459 461	41
-T4	concept 455 457	40
-T5	concept 463 465	47
-T6	concept 459 461	41
-T7	concept 468 470	51
-T8	concept 463 465	47
-T9	concept 991 1051	igualdad de trato y de oportunidades entre mujeres y hombres
-T10	concept 991 999	igualdad
-T11	concept 1379 1386	despido
-T12	concept 1286 1307	negociación colectiva
-T13	concept 1286 1307	negociación colectiva
-T14	concept 888 899	negociación
-T15	concept 50 70	convenios colectivos
-T16	concept 50 59	convenios
-T17	concept 1286 1307	negociación colectiva
-T18	concept 50 70	convenios colectivos
-T19	concept 1460 1484	libertad de contratación
-T20	concept 50 70	convenios colectivos
-T21	concept 817 823	partes
-T22	concept 2396 2406	conciertan
-T23	concept 2454 2462	temporal
-T24	concept 2412 2427	Ámbito personal
-T25	concept 2625 2638	artículo 82.3
-T26	media 2625 2638	artículo 82.3
-T27	concept 2851 2859	denuncia
-T28	concept 50 58	convenio
-T29	concept 3298 3320	sistemas no judiciales
-T30	concept 3324 3346	solución de conflictos
-R1	has_quality Arg1:T1 Arg2:T2
-R2	follows Arg1:T3 Arg2:T4
-R3	follows Arg1:T5 Arg2:T6
-R4	follows Arg1:T7 Arg2:T8
+T9	concept igualdad de trato y de oportunidades entre mujeres y hombres
+T10	concept igualdad
+T11	concept despido
+T12	concept negociación colectiva
+T13	concept negociación colectiva
+T14	concept negociación
+T15	concept convenios colectivos
+T16	concept convenios
+T17	concept negociación colectiva
+T18	concept convenios colectivos
+T19	concept libertad de contratación
+T20	concept convenios colectivos
+T21	concept partes
+T22	concept conciertan
+T23	concept temporal
+T24	concept Ámbito personal
+T25	concept artículo 82.3
+T26	media artículo 82.3
+T27	concept denuncia
+T28	concept convenio
+T29	concept sistemas no judiciales
+T30	concept solución de conflictos
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	part_of Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14

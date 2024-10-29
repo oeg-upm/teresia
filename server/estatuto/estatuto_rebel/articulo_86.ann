@@ -1,24 +1,15 @@
-T1	loc 0 8	Vigencia
-T2	loc 0 8	Vigencia
-T3	concept 81 89	convenio
-T4	concept 31 50	partes negociadoras
-T5	concept 361 363	88
-T6	concept 356 358	87
-T7	concept 427 447	convenios colectivos
-T8	concept 403 408	pacto
-T9	concept 255 273	convenio colectivo
-T10	concept 81 89	convenio
-T11	concept 255 273	convenio colectivo
-T12	concept 403 408	pacto
-T13	concept 1707 1721	laudo arbitral
-T14	concept 1680 1689	arbitraje
-T15	concept 1707 1721	laudo arbitral
-T16	concept 81 89	convenio
-T17	concept 2703 2709	deroga
-T18	concept 81 89	convenio
-R1	located_in_the_administrative_territorial_entity Arg1:T1 Arg2:T2
-R2	participant Arg1:T3 Arg2:T4
-R3	follows Arg1:T5 Arg2:T6
+T7	concept convenios colectivos
+T8	concept pacto
+T9	concept convenio colectivo
+T10	concept convenio
+T11	concept convenio colectivo
+T12	concept pacto
+T13	concept laudo arbitral
+T14	concept arbitraje
+T15	concept laudo arbitral
+T16	concept convenio
+T17	concept deroga
+T18	concept convenio
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
