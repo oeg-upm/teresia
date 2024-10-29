@@ -1,30 +1,20 @@
 [relations]
-# Relaciones jerárquicas y sinónimicas permitidas
-
-facet_of    Arg1:concept, Arg2:concept
-facet_of    Arg1:media, Arg2:concept
-
-subclass_of Arg1:concept, Arg2:concept
-subclass_of Arg1:concept, Arg2:media
-subclass_of Arg1:concept, Arg2:org
-subclass_of Arg1:concept, Arg2:misc
-
-instance_of Arg1:concept, Arg2:concept
-instance_of Arg1:media, Arg2:concept
-instance_of Arg1:misc, Arg2:concept
-
-part_of     Arg1:concept, Arg2:concept
-part_of     Arg1:media, Arg2:concept
-part_of     Arg1:concept, Arg2:org
-part_of     Arg1:org, Arg2:org
-part_of     Arg1:media, Arg2:media
-part_of     Arg1:media, Arg2:org
-part_of     Arg1:concept, Arg2:media
-part_of     Arg1:media, Arg2:per
-
-different_from Arg1:concept, Arg2:concept
-
-has_cause   Arg1:concept, Arg2:concept
-
-field_of_work Arg1:concept, Arg2:concept
-field_of_work Arg1:media, Arg2:concept
+facet_of	Arg1:concept, Arg2:concept
+subclass_of	Arg1:concept, Arg2:concept
+has_cause	Arg1:concept, Arg2:concept
+part_of	Arg1:concept, Arg2:concept
+part_of	Arg1:media, Arg2:concept
+part_of	Arg1:concept, Arg2:media
+different_from	Arg1:concept, Arg2:concept
+instance_of	Arg1:concept, Arg2:concept
+part_of	Arg1:org, Arg2:org
+instance_of	Arg1:media, Arg2:concept
+part_of	Arg1:media, Arg2:media
+part_of	Arg1:media, Arg2:org
+field_of_work	Arg1:concept, Arg2:concept
+field_of_work	Arg1:media, Arg2:concept
+subclass_of	Arg1:concept, Arg2:media
+part_of	Arg1:media, Arg2:per
+part_of	Arg1:concept, Arg2:org
+facet_of	Arg1:media, Arg2:concept
+instance_of	Arg1:misc, Arg2:concept

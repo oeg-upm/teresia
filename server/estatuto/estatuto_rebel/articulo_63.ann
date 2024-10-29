@@ -1,15 +1,15 @@
-T1	concept Comités de empresa
-T2	concept empresa
-T3	concept empresa
-T4	concept centro de trabajo
-T5	concept comité de empresa
-T6	concept empresa
-T7	concept comité intercentros
-T8	concept comités de centro
-T9	concept comité intercentros
-T10	concept sindicatos
-T11	concept intercentros
-T12	media comités
+T1	concept 0 18	Comités de empresa
+T2	concept 11 18	empresa
+T3	concept 11 18	empresa
+T4	concept 133 150	centro de trabajo
+T5	concept 26 43	comité de empresa
+T6	concept 11 18	empresa
+T7	concept 791 810	comité intercentros
+T8	concept 907 924	comités de centro
+T9	concept 791 810	comité intercentros
+T10	concept 1009 1019	sindicatos
+T11	concept 798 810	intercentros
+T12	media 632 639	comités
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6

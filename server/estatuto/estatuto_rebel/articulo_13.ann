@@ -1,21 +1,21 @@
-T1	concept Trabajo a distancia
-T2	concept Trabajo
-T5	concept contrato de trabajo
-T6	concept contrato
-T7	concept retribución
-T8	concept derecho
-T9	concept formación profesional
-T10	concept empleo
-T11	concept Prevención de Riesgos Laborales
-T12	concept seguridad y salud
-T13	concept representación colectiva
-T14	concept derechos de representación
-T17	concept Contenido del contrato de trabajo
-T18	concept contrato de trabajo
+T1	concept 0 19	Trabajo a distancia
+T2	concept 0 7	Trabajo
+T3	concept 581 600	contrato de trabajo
+T4	concept 450 458	contrato
+T5	concept 929 940	retribución
+T6	concept 654 661	derecho
+T7	concept 1119 1140	formación profesional
+T8	concept 1149 1155	empleo
+T9	concept 1613 1644	Prevención de Riesgos Laborales
+T10	concept 1499 1516	seguridad y salud
+T11	concept 1740 1764	representación colectiva
+T12	concept 1728 1754	derechos de representación
+T13	concept 1921 1954	Contenido del contrato de trabajo
+T14	concept 581 600	contrato de trabajo
 R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	subclass_of Arg1:T7 Arg2:T8
-R5	part_of Arg1:T9 Arg2:T10
-R6	facet_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
-R9	part_of Arg1:T17 Arg2:T18
+R4	part_of Arg1:T7 Arg2:T8
+R5	facet_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14

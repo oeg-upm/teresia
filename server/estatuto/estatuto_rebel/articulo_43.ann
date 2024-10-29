@@ -1,9 +1,9 @@
-T1	concept Cesión de trabajadores
-T2	concept trabajadores
-T3	concept empresas de trabajo temporal
-T4	concept contratación de trabajadores
-T11	concept antigüedad
-T12	concept puesto de trabajo
+T1	concept 0 22	Cesión de trabajadores
+T2	concept 10 22	trabajadores
+T3	concept 136 164	empresas de trabajo temporal
+T4	concept 30 58	contratación de trabajadores
+T5	concept 1473 1483	antigüedad
+T6	concept 1443 1460	puesto de trabajo
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
-R6	facet_of Arg1:T11 Arg2:T12
+R3	facet_of Arg1:T5 Arg2:T6

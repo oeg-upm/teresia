@@ -1,18 +1,18 @@
-T7	concept convenios colectivos
-T8	concept pacto
-T9	concept convenio colectivo
-T10	concept convenio
-T11	concept convenio colectivo
-T12	concept pacto
-T13	concept laudo arbitral
-T14	concept arbitraje
-T15	concept laudo arbitral
-T16	concept convenio
-T17	concept deroga
-T18	concept convenio
+T1	concept 427 447	convenios colectivos
+T2	concept 403 408	pacto
+T3	concept 255 273	convenio colectivo
+T4	concept 81 89	convenio
+T5	concept 255 273	convenio colectivo
+T6	concept 403 408	pacto
+T7	concept 1707 1721	laudo arbitral
+T8	concept 1680 1689	arbitraje
+T9	concept 1707 1721	laudo arbitral
+T10	concept 81 89	convenio
+T11	concept 2703 2709	deroga
+T12	concept 81 89	convenio
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
-R5	subclass_of Arg1:T9 Arg2:T10
-R6	subclass_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
-R8	part_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
+R5	part_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12

@@ -1,9 +1,9 @@
-T3	concept Infracciones y Sanciones en el Orden Social
-T4	concept infracciones
-T11	concept reunión de los trabajadores en la empresa
-T12	concept representación colectiva
-T15	concept representación colectiva
-T16	concept derecho
+T1	concept 139 182	Infracciones y Sanciones en el Orden Social
+T2	concept 21 33	infracciones
+T3	concept 584 625	reunión de los trabajadores en la empresa
+T4	concept 554 578	representación colectiva
+T5	concept 554 578	representación colectiva
+T6	concept 542 549	derecho
+R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
-R6	subclass_of Arg1:T11 Arg2:T12
-R8	subclass_of Arg1:T15 Arg2:T16
+R3	subclass_of Arg1:T5 Arg2:T6

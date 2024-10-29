@@ -1,33 +1,33 @@
-T9	concept igualdad de trato y de oportunidades entre mujeres y hombres
-T10	concept igualdad
-T11	concept despido
-T12	concept negociación colectiva
-T13	concept negociación colectiva
-T14	concept negociación
-T15	concept convenios colectivos
-T16	concept convenios
-T17	concept negociación colectiva
-T18	concept convenios colectivos
-T19	concept libertad de contratación
-T20	concept convenios colectivos
-T21	concept partes
-T22	concept conciertan
-T23	concept temporal
-T24	concept Ámbito personal
-T25	concept artículo 82.3
-T26	media artículo 82.3
-T27	concept denuncia
-T28	concept convenio
-T29	concept sistemas no judiciales
-T30	concept solución de conflictos
+T1	concept 991 1051	igualdad de trato y de oportunidades entre mujeres y hombres
+T2	concept 991 999	igualdad
+T3	concept 1379 1386	despido
+T4	concept 1286 1307	negociación colectiva
+T5	concept 1286 1307	negociación colectiva
+T6	concept 888 899	negociación
+T7	concept 50 70	convenios colectivos
+T8	concept 50 59	convenios
+T9	concept 1286 1307	negociación colectiva
+T10	concept 50 70	convenios colectivos
+T11	concept 1460 1484	libertad de contratación
+T12	concept 50 70	convenios colectivos
+T13	concept 817 823	partes
+T14	concept 2396 2406	conciertan
+T15	concept 2454 2462	temporal
+T16	concept 2412 2427	Ámbito personal
+T17	concept 2625 2638	artículo 82.3
+T18	media 2625 2638	artículo 82.3
+T19	concept 2851 2859	denuncia
+T20	concept 50 58	convenio
+T21	concept 3298 3320	sistemas no judiciales
+T22	concept 3324 3346	solución de conflictos
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	part_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
+R7	part_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
-R9	subclass_of Arg1:T17 Arg2:T18
+R9	part_of Arg1:T17 Arg2:T18
 R10	part_of Arg1:T19 Arg2:T20
-R11	part_of Arg1:T21 Arg2:T22
-R12	subclass_of Arg1:T23 Arg2:T24
-R13	part_of Arg1:T25 Arg2:T26
-R14	part_of Arg1:T27 Arg2:T28
-R15	subclass_of Arg1:T29 Arg2:T30
+R11	subclass_of Arg1:T21 Arg2:T22

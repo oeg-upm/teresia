@@ -1,56 +1,59 @@
-T1	concept Votación para delegados y comités de empresa
-T2	concept delegados y comités de empresa
-T3	concept voto por correo
-T4	concept votación
-T5	concept votación
-T6	concept proceso electoral
-T7	concept papeletas
-T8	concept urna
-T9	concept recuento de votos
-T10	concept votación
-T11	concept centro
-T12	concept mesas electorales
-T17	concept tablones de anuncios
-T18	concept anuncio
-T19	concept presidente de la mesa
-T20	concept oficina pública dependiente de la autoridad laboral
-T23	concept mesa electoral
-T24	concept cómputo electoral
-T25	concept presidente de la mesa electoral
-T26	concept oficina pública dependiente de la autoridad laboral
-T27	concept presidente de la mesa electoral
-T28	concept oficina pública dependiente de la autoridad laboral
-T29	concept presidente de la mesa electoral
-T30	concept oficina pública dependiente de la autoridad laboral
-T31	concept presidente de la mesa electoral
-T32	concept oficina pública dependiente de la autoridad laboral
-T33	concept presidente de la mesa electoral
-T34	concept oficina pública dependiente de la autoridad laboral
-T35	concept presidente de la mesa electoral
-T36	concept oficina pública dependiente de la autoridad laboral
-T37	concept presidente de la mesa electoral
-T38	concept oficina pública dependiente de la autoridad laboral
-T39	concept presidente de la mesa electoral
-T40	concept oficina pública dependiente de la autoridad laboral
-T41	concept presidente de la mesa electoral
-T42	concept oficina pública dependiente de la autoridad laboral
-T43	concept presidente de la mesa electoral
-T44	concept oficina pública dependiente de la autoridad laboral
-T45	concept presidente de la mesa electoral
-T46	concept oficina pública dependiente de la autoridad laboral
-T47	concept presidente de la mesa electoral
-T48	concept oficina pública dependiente de la autoridad laboral
-T49	concept orden jurisdiccional social
-T50	concept registro
+T1	concept 0 44	Votación para delegados y comités de empresa
+T2	concept 14 44	delegados y comités de empresa
+T3	concept 194 209	voto por correo
+T4	concept 63 71	votación
+T5	concept 63 71	votación
+T6	concept 311 328	proceso electoral
+T7	concept 401 410	papeletas
+T8	concept 501 505	urna
+T9	concept 614 631	recuento de votos
+T10	concept 63 71	votación
+T11	concept 91 97	centro
+T12	concept 1006 1023	mesas electorales
+T13	concept 1345 1365	tablones de anuncios
+T14	concept 1357 1364	anuncio
+T15	concept 1139 1160	presidente de la mesa
+T16	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T17	concept 573 587	mesa electoral
+T18	concept 3613 3630	cómputo electoral
+T19	concept 3506 3537	presidente de la mesa electoral
+T20	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T21	concept 3506 3537	presidente de la mesa electoral
+T22	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T23	concept 3506 3537	presidente de la mesa electoral
+T24	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T25	concept 3506 3537	presidente de la mesa electoral
+T26	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T27	concept 3506 3537	presidente de la mesa electoral
+T28	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T29	concept 3506 3537	presidente de la mesa electoral
+T30	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T31	concept 3506 3537	presidente de la mesa electoral
+T32	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T33	concept 3506 3537	presidente de la mesa electoral
+T34	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T35	concept 3506 3537	presidente de la mesa electoral
+T36	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T37	concept 3506 3537	presidente de la mesa electoral
+T38	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T39	concept 3506 3537	presidente de la mesa electoral
+T40	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T41	concept 3506 3537	presidente de la mesa electoral
+T42	concept 1553 1604	oficina pública dependiente de la autoridad laboral
+T43	concept 4940 4967	orden jurisdiccional social
+T44	concept 2348 2356	registro
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
 R4	part_of Arg1:T7 Arg2:T8
 R5	part_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R9	subclass_of Arg1:T17 Arg2:T18
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16
+R9	facet_of Arg1:T17 Arg2:T18
 R10	part_of Arg1:T19 Arg2:T20
-R12	facet_of Arg1:T23 Arg2:T24
+R11	part_of Arg1:T21 Arg2:T22
+R12	part_of Arg1:T23 Arg2:T24
 R13	part_of Arg1:T25 Arg2:T26
 R14	part_of Arg1:T27 Arg2:T28
 R15	part_of Arg1:T29 Arg2:T30
@@ -60,7 +63,4 @@ R18	part_of Arg1:T35 Arg2:T36
 R19	part_of Arg1:T37 Arg2:T38
 R20	part_of Arg1:T39 Arg2:T40
 R21	part_of Arg1:T41 Arg2:T42
-R22	part_of Arg1:T43 Arg2:T44
-R23	part_of Arg1:T45 Arg2:T46
-R24	part_of Arg1:T47 Arg2:T48
-R25	subclass_of Arg1:T49 Arg2:T50
+R22	subclass_of Arg1:T43 Arg2:T44

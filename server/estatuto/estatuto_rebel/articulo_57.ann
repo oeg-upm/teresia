@@ -1,9 +1,9 @@
-T1	concept Procedimiento concursal
-T2	concept concursal
-T3	concept sucesión de empresa
-T4	concept contratos de trabajo
-T7	concept Faltas y sanciones de los trabajadores
-T8	concept sanciones
+T1	concept 0 23	Procedimiento concursal
+T2	concept 14 23	concursal
+T3	concept 146 165	sucesión de empresa
+T4	concept 120 140	contratos de trabajo
+T5	concept 267 305	Faltas y sanciones de los trabajadores
+T6	concept 276 285	sanciones
 R1	part_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
-R4	subclass_of Arg1:T7 Arg2:T8
+R3	subclass_of Arg1:T5 Arg2:T6

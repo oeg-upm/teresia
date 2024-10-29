@@ -1,9 +1,9 @@
-T1	concept Capacidad para contratar
-T2	concept contratar
-T3	concept prestación
-T4	concept trabajo
-T9	concept contrato
-T10	concept derechos
+T1	concept 0 24	Capacidad para contratar
+T2	concept 15 24	contratar
+T3	concept 46 56	prestación
+T4	concept 63 70	trabajo
+T5	concept 594 602	contrato
+T6	concept 542 550	derechos
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
-R5	subclass_of Arg1:T9 Arg2:T10
+R3	subclass_of Arg1:T5 Arg2:T6

@@ -1,18 +1,18 @@
-T1	concept Faltas y sanciones de los trabajadores
-T2	concept trabajadores
-T3	concept sanciones
-T4	concept sancionados
-T5	concept muy graves
-T6	concept graves
-T7	concept vacaciones
-T8	concept descanso
-T11	concept Plazos de prescripción
-T12	concept Plazo
-T13	concept Prescripción de acciones derivadas del contrato
-T14	concept contrato
+T1	concept 0 38	Faltas y sanciones de los trabajadores
+T2	concept 26 38	trabajadores
+T3	concept 9 18	sanciones
+T4	concept 71 82	sancionados
+T5	concept 495 505	muy graves
+T6	concept 486 492	graves
+T7	concept 694 704	vacaciones
+T8	concept 742 750	descanso
+T9	concept 796 818	Plazos de prescripción
+T10	concept 796 801	Plazo
+T11	concept 831 878	Prescripción de acciones derivadas del contrato
+T12	concept 870 878	contrato
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
-R6	subclass_of Arg1:T11 Arg2:T12
-R7	part_of Arg1:T13 Arg2:T14
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12

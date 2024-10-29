@@ -1,18 +1,18 @@
-T3	concept comité de empresa
-T4	concept escala
-T5	concept cincuenta
-T6	concept cien
-T9	concept doscientos cincuenta trabajadores
-T10	concept ciento uno a doscientos cincuenta trabajadores
-T17	concept setenta
-T18	concept mil
-T19	concept cinco
-T20	concept mil
-T21	concept centro de trabajo
-T22	concept empresa
-R2	instance_of Arg1:T3 Arg2:T4
+T1	concept 42 59	comité de empresa
+T2	concept 103 109	escala
+T3	concept 118 127	cincuenta
+T4	concept 130 134	cien
+T5	concept 176 209	doscientos cincuenta trabajadores
+T6	concept 163 209	ciento uno a doscientos cincuenta trabajadores
+T7	concept 494 501	setenta
+T8	concept 395 398	mil
+T9	concept 149 154	cinco
+T10	concept 395 398	mil
+T11	concept 540 557	centro de trabajo
+T12	concept 52 59	empresa
+R1	instance_of Arg1:T1 Arg2:T2
+R2	part_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
 R5	part_of Arg1:T9 Arg2:T10
-R9	part_of Arg1:T17 Arg2:T18
-R10	part_of Arg1:T19 Arg2:T20
-R11	subclass_of Arg1:T21 Arg2:T22
+R6	subclass_of Arg1:T11 Arg2:T12

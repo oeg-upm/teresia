@@ -1,21 +1,21 @@
-T1	concept Extinción del contrato
-T2	concept contrato
-T3	concept extinguirse
-T4	concept contrato
-T5	concept ineptitud
-T6	concept prueba
-T7	concept tiempo de trabajo efectivo
-T8	concept tiempo destinado a la formación
-T9	concept extinción
-T10	concept extinción
-T11	concept prioridad de permanencia
-T12	concept empresa
-T15	concept contratos por tiempo indefinido
-T16	concept contratos por tiempo
+T1	concept 0 22	Extinción del contrato
+T2	concept 14 22	contrato
+T3	concept 63 74	extinguirse
+T4	concept 14 22	contrato
+T5	concept 84 93	ineptitud
+T6	concept 263 269	prueba
+T7	concept 667 693	tiempo de trabajo efectivo
+T8	concept 607 638	tiempo destinado a la formación
+T9	concept 777 786	extinción
+T10	concept 777 786	extinción
+T11	concept 1169 1193	prioridad de permanencia
+T12	concept 181 188	empresa
+T13	concept 1289 1320	contratos por tiempo indefinido
+T14	concept 1289 1309	contratos por tiempo
 R1	facet_of Arg1:T1 Arg2:T2
 R2	facet_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	has_cause Arg1:T9 Arg2:T10
 R6	facet_of Arg1:T11 Arg2:T12
-R8	subclass_of Arg1:T15 Arg2:T16
+R7	subclass_of Arg1:T13 Arg2:T14

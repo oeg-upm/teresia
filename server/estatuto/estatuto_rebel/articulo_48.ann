@@ -1,47 +1,47 @@
-T1	concept Suspensión con reserva de puesto de trabajo
-T2	concept Suspensión
-T3	concept reincorporación
-T4	concept puesto de trabajo
-T5	concept absoluta
-T6	concept incapacidad permanente
-T7	concept absoluta
-T8	concept incapacidad permanente
-T9	concept absoluta
-T10	concept incapacidad permanente
-T11	concept gran invalidez
-T12	concept incapacidad permanente
-T13	concept gran invalidez
-T14	concept incapacidad permanente
-T15	concept gran invalidez
-T16	concept incapacidad permanente
-T17	concept reincorporarse
-T18	concept reincorporarse
-T19	concept parto
-T20	concept parto
-T21	concept parto
-T22	concept contrato de trabajo
-T23	concept parto prematuro
-T24	concept parto
-T25	concept parto prematuro con falta de peso
-T26	concept parto
-T27	concept reincorporación al puesto de trabajo
-T28	concept descanso obligatorio
-T41	concept adopción
-T42	concept guarda con fines de adopción
-T43	concept guarda con fines de adopción
-T44	concept adopción
-T49	concept adopción internacional
-T50	concept adoptado
-T51	concept acogedor
-T52	concept guardador
-T55	concept riesgo durante el embarazo
-T56	concept riesgo durante la lactancia natural
-T57	concept riesgo durante la lactancia natural
-T58	concept riesgo durante el embarazo
-T59	concept tutela judicial
-T60	concept derecho de protección
-T61	concept suspensión del contrato
-T62	concept contrato
+T1	concept 0 43	Suspensión con reserva de puesto de trabajo
+T2	concept 0 10	Suspensión
+T3	concept 125 140	reincorporación
+T4	concept 26 43	puesto de trabajo
+T5	concept 510 518	absoluta
+T6	concept 413 435	incapacidad permanente
+T7	concept 510 518	absoluta
+T8	concept 413 435	incapacidad permanente
+T9	concept 510 518	absoluta
+T10	concept 413 435	incapacidad permanente
+T11	concept 539 553	gran invalidez
+T12	concept 413 435	incapacidad permanente
+T13	concept 539 553	gran invalidez
+T14	concept 413 435	incapacidad permanente
+T15	concept 539 553	gran invalidez
+T16	concept 413 435	incapacidad permanente
+T17	concept 1117 1131	reincorporarse
+T18	concept 1117 1131	reincorporarse
+T19	concept 1260 1265	parto
+T20	concept 1260 1265	parto
+T21	concept 1260 1265	parto
+T22	concept 1317 1336	contrato de trabajo
+T23	concept 1955 1970	parto prematuro
+T24	concept 1260 1265	parto
+T25	concept 2377 2410	parto prematuro con falta de peso
+T26	concept 1260 1265	parto
+T27	concept 125 161	reincorporación al puesto de trabajo
+T28	concept 2913 2933	descanso obligatorio
+T29	concept 4527 4535	adopción
+T30	concept 4540 4568	guarda con fines de adopción
+T31	concept 4540 4568	guarda con fines de adopción
+T32	concept 4527 4535	adopción
+T33	concept 5793 5815	adopción internacional
+T34	concept 5905 5913	adoptado
+T35	concept 4711 4719	acogedor
+T36	concept 4699 4708	guardador
+T37	concept 7162 7188	riesgo durante el embarazo
+T38	concept 7194 7229	riesgo durante la lactancia natural
+T39	concept 7194 7229	riesgo durante la lactancia natural
+T40	concept 7162 7188	riesgo durante el embarazo
+T41	concept 7819 7834	tutela judicial
+T42	concept 7868 7889	derecho de protección
+T43	concept 2992 3015	suspensión del contrato
+T44	concept 1317 1325	contrato
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	facet_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
@@ -56,11 +56,11 @@ R11	has_cause Arg1:T21 Arg2:T22
 R12	subclass_of Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
 R14	subclass_of Arg1:T27 Arg2:T28
-R21	different_from Arg1:T41 Arg2:T42
-R22	different_from Arg1:T43 Arg2:T44
-R25	subclass_of Arg1:T49 Arg2:T50
-R26	subclass_of Arg1:T51 Arg2:T52
-R28	different_from Arg1:T55 Arg2:T56
-R29	different_from Arg1:T57 Arg2:T58
-R30	subclass_of Arg1:T59 Arg2:T60
-R31	facet_of Arg1:T61 Arg2:T62
+R15	different_from Arg1:T29 Arg2:T30
+R16	different_from Arg1:T31 Arg2:T32
+R17	subclass_of Arg1:T33 Arg2:T34
+R18	subclass_of Arg1:T35 Arg2:T36
+R19	different_from Arg1:T37 Arg2:T38
+R20	different_from Arg1:T39 Arg2:T40
+R21	subclass_of Arg1:T41 Arg2:T42
+R22	facet_of Arg1:T43 Arg2:T44

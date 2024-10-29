@@ -1,15 +1,15 @@
-T1	concept Despido improcedente
-T2	concept Despido
-T3	concept contrato de trabajo
-T4	concept cese efectivo en el trabajo
-T5	concept improcedencia
-T6	concept sentencia
-T9	concept indemnización
-T10	concept salario
-T11	concept improcedencia del despido
-T12	concept sentencia
+T1	concept 0 20	Despido improcedente
+T2	concept 0 7	Despido
+T3	concept 472 491	contrato de trabajo
+T4	concept 536 563	cese efectivo en el trabajo
+T5	concept 837 850	improcedencia
+T6	concept 140 149	sentencia
+T7	concept 216 229	indemnización
+T8	concept 267 274	salario
+T9	concept 1642 1667	improcedencia del despido
+T10	concept 140 149	sentencia
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	has_cause Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R5	subclass_of Arg1:T9 Arg2:T10
-R6	instance_of Arg1:T11 Arg2:T12
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	instance_of Arg1:T9 Arg2:T10

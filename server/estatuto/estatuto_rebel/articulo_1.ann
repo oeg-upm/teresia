@@ -1,29 +1,29 @@
-T1	concept Ámbito de aplicación
-T2	concept aplicación
-T3	concept empleador
-T4	concept empresario
-T5	concept empresario
-T6	concept empleador
-T7	concept empresas de trabajo
-T8	concept empresas
-T9	concept ámbito regulado por esta ley
-T10	concept ley
-T11	concept Administraciones Públicas
-T12	concept sector público
-T13	concept prestaciones personales
-T14	concept obligatorias
-T15	concept sociedad
-T16	concept forma jurídica
-T17	concept buena vecindad
-T18	concept benevolencia
-T21	concept ventura
-T22	concept riesgo
-T23	concept desarrollo de relación
-T24	concept trabajo
-T29	concept centro de trabajo
-T30	concept unidad productiva
-T31	concept puerto de base
-T32	concept mar
+T1	concept 0 20	Ámbito de aplicación
+T2	concept 10 20	aplicación
+T3	concept 238 247	empleador
+T4	concept 250 260	empresario
+T5	concept 250 260	empresario
+T6	concept 238 247	empleador
+T7	concept 544 563	empresas de trabajo
+T8	concept 522 530	empresas
+T9	concept 618 646	ámbito regulado por esta ley
+T10	concept 30 33	ley
+T11	concept 822 847	Administraciones Públicas
+T12	concept 890 904	sector público
+T13	concept 1012 1035	prestaciones personales
+T14	concept 1036 1048	obligatorias
+T15	concept 1236 1244	sociedad
+T16	concept 1218 1232	forma jurídica
+T17	concept 1416 1430	buena vecindad
+T18	concept 1401 1413	benevolencia
+T19	concept 2001 2008	ventura
+T20	concept 1992 1998	riesgo
+T21	concept 2069 2091	desarrollo de relación
+T22	concept 556 563	trabajo
+T23	concept 3001 3018	centro de trabajo
+T24	concept 3022 3039	unidad productiva
+T25	concept 3269 3283	puerto de base
+T26	concept 3162 3165	mar
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	different_from Arg1:T3 Arg2:T4
 R3	different_from Arg1:T5 Arg2:T6
@@ -33,7 +33,7 @@ R6	part_of Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
 R8	instance_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
 R12	subclass_of Arg1:T23 Arg2:T24
-R15	subclass_of Arg1:T29 Arg2:T30
-R16	part_of Arg1:T31 Arg2:T32
+R13	part_of Arg1:T25 Arg2:T26

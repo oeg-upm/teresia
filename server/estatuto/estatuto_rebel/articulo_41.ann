@@ -1,83 +1,83 @@
-T1	concept Modificaciones sustanciales de condiciones de trabajo
-T2	concept condiciones de trabajo
-T3	concept competitividad
-T4	concept productividad
-T5	concept modificaciones sustanciales de las condiciones de trabajo
-T6	concept condiciones de trabajo
-T7	concept Jornada de trabajo
-T8	concept Jornada
-T9	concept tiempo de trabajo
-T10	concept Horario
-T11	concept Régimen de trabajo a turnos
-T12	concept turnos
-T13	concept cuantía salarial
-T14	concept remuneración
-T15	concept Sistema de trabajo y rendimiento
-T16	concept rendimiento
-T17	concept Funciones
-T18	concept movilidad funcional
-T19	concept acuerdos
-T20	concept contrato de trabajo
-T21	concept colectivo
-T22	concept modificación
-T23	concept trabajadores
-T24	concept empresas
-T25	concept trabajadores
-T26	concept empresa
-T27	concept Treinta trabajadores
-T28	concept trabajadores
-T29	concept modificaciones colectivas
-T30	concept modificación
-T33	concept c
-T34	concept letra
-T35	concept d
-T36	concept letra
-T37	concept f
-T38	concept letra
-T41	concept fraude de ley
-T42	concept fraude
-T43	concept negociación colectiva
-T44	concept condiciones de trabajo
-T45	concept delegados de personal
-T46	concept secciones sindicales
-T47	concept interlocutores
-T48	concept intervención
-T49	concept delegados de personal
-T50	concept comité de empresa
-T53	concept interlocutores
-T54	concept procedimiento
-T55	concept comité intercentros
-T56	concept convenio colectivo
-T57	concept comisión representativa
-T58	concept reglas
-T59	concept representantes legales
-T60	concept centros de trabajo
-T61	concept representantes legales
-T62	concept representantes legales
-T63	concept representantes legales de los trabajadores
-T64	concept representantes legales de los trabajadores
-T65	concept representantes legales
-T66	concept centros de trabajo
-T67	concept trece
-T68	concept número inicial de representantes
-T69	concept trece
-T70	concept número inicial de representantes
-T71	concept dirección
-T72	concept empresa
-T75	concept representantes legales
-T76	concept comisión representativa de los trabajadores
-T77	concept arbitraje
-T78	concept mediación
-T79	concept fraude
-T80	concept abuso de derecho
-T81	concept modificación colectiva de las condiciones de trabajo
-T82	concept consultas sin acuerdo
-T83	concept conflicto colectivo
-T84	concept conflicto
-T85	concept convenios colectivos
-T86	concept condiciones de trabajo
-T87	concept traslados
-T88	concept normas específicas
+T1	concept 0 53	Modificaciones sustanciales de condiciones de trabajo
+T2	concept 31 53	condiciones de trabajo
+T3	concept 298 312	competitividad
+T4	concept 314 327	productividad
+T5	concept 99 156	modificaciones sustanciales de las condiciones de trabajo
+T6	concept 31 53	condiciones de trabajo
+T7	concept 528 546	Jornada de trabajo
+T8	concept 528 535	Jornada
+T9	concept 579 596	tiempo de trabajo
+T10	concept 552 559	Horario
+T11	concept 602 629	Régimen de trabajo a turnos
+T12	concept 623 629	turnos
+T13	concept 661 677	cuantía salarial
+T14	concept 646 658	remuneración
+T15	concept 683 715	Sistema de trabajo y rendimiento
+T16	concept 704 715	rendimiento
+T17	concept 721 730	Funciones
+T18	concept 774 793	movilidad funcional
+T19	concept 976 984	acuerdos
+T20	concept 952 971	contrato de trabajo
+T21	concept 994 1003	colectivo
+T22	concept 1143 1155	modificación
+T23	concept 933 945	trabajadores
+T24	concept 1241 1249	empresas
+T25	concept 933 945	trabajadores
+T26	concept 77 84	empresa
+T27	concept 1419 1439	Treinta trabajadores
+T28	concept 933 945	trabajadores
+T29	concept 1643 1668	modificaciones colectivas
+T30	concept 1143 1155	modificación
+T31	concept 6 7	c
+T32	concept 1962 1967	letra
+T33	concept 2 3	d
+T34	concept 1962 1967	letra
+T35	concept 4 5	f
+T36	concept 1962 1967	letra
+T37	concept 3140 3153	fraude de ley
+T38	concept 3140 3146	fraude
+T39	concept 3275 3296	negociación colectiva
+T40	concept 31 53	condiciones de trabajo
+T41	concept 4300 4321	delegados de personal
+T42	concept 4162 4182	secciones sindicales
+T43	concept 4062 4076	interlocutores
+T44	concept 4044 4056	intervención
+T45	concept 4300 4321	delegados de personal
+T46	concept 4639 4656	comité de empresa
+T47	concept 4062 4076	interlocutores
+T48	concept 3218 3231	procedimiento
+T49	concept 5861 5880	comité intercentros
+T50	concept 5277 5295	convenio colectivo
+T51	concept 6008 6031	comisión representativa
+T52	concept 4553 4559	reglas
+T53	concept 1833 1855	representantes legales
+T54	concept 3835 3853	centros de trabajo
+T55	concept 1833 1855	representantes legales
+T56	concept 1833 1855	representantes legales
+T57	concept 3440 3482	representantes legales de los trabajadores
+T58	concept 3440 3482	representantes legales de los trabajadores
+T59	concept 1833 1855	representantes legales
+T60	concept 3835 3853	centros de trabajo
+T61	concept 3980 3985	trece
+T62	concept 7808 7840	número inicial de representantes
+T63	concept 3980 3985	trece
+T64	concept 7808 7840	número inicial de representantes
+T65	concept 61 70	dirección
+T66	concept 77 84	empresa
+T67	concept 1833 1855	representantes legales
+T68	concept 7981 8024	comisión representativa de los trabajadores
+T69	concept 9718 9727	arbitraje
+T70	concept 9706 9715	mediación
+T71	concept 3140 3146	fraude
+T72	concept 10089 10105	abuso de derecho
+T73	concept 10279 10331	modificación colectiva de las condiciones de trabajo
+T74	concept 10418 10439	consultas sin acuerdo
+T75	concept 10600 10619	conflicto colectivo
+T76	concept 10600 10609	conflicto
+T77	concept 10873 10893	convenios colectivos
+T78	concept 31 53	condiciones de trabajo
+T79	concept 11004 11013	traslados
+T80	concept 11046 11064	normas específicas
 R1	facet_of Arg1:T1 Arg2:T2
 R2	facet_of Arg1:T3 Arg2:T4
 R3	facet_of Arg1:T5 Arg2:T6
@@ -93,28 +93,28 @@ R12	part_of Arg1:T23 Arg2:T24
 R13	part_of Arg1:T25 Arg2:T26
 R14	subclass_of Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
+R16	instance_of Arg1:T31 Arg2:T32
 R17	instance_of Arg1:T33 Arg2:T34
 R18	instance_of Arg1:T35 Arg2:T36
-R19	instance_of Arg1:T37 Arg2:T38
-R21	subclass_of Arg1:T41 Arg2:T42
-R22	facet_of Arg1:T43 Arg2:T44
+R19	subclass_of Arg1:T37 Arg2:T38
+R20	facet_of Arg1:T39 Arg2:T40
+R21	part_of Arg1:T41 Arg2:T42
+R22	subclass_of Arg1:T43 Arg2:T44
 R23	part_of Arg1:T45 Arg2:T46
 R24	subclass_of Arg1:T47 Arg2:T48
-R25	part_of Arg1:T49 Arg2:T50
-R27	subclass_of Arg1:T53 Arg2:T54
+R25	subclass_of Arg1:T49 Arg2:T50
+R26	instance_of Arg1:T51 Arg2:T52
+R27	part_of Arg1:T53 Arg2:T54
 R28	subclass_of Arg1:T55 Arg2:T56
-R29	instance_of Arg1:T57 Arg2:T58
+R29	subclass_of Arg1:T57 Arg2:T58
 R30	part_of Arg1:T59 Arg2:T60
-R31	subclass_of Arg1:T61 Arg2:T62
-R32	subclass_of Arg1:T63 Arg2:T64
+R31	instance_of Arg1:T61 Arg2:T62
+R32	instance_of Arg1:T63 Arg2:T64
 R33	part_of Arg1:T65 Arg2:T66
-R34	instance_of Arg1:T67 Arg2:T68
-R35	instance_of Arg1:T69 Arg2:T70
-R36	part_of Arg1:T71 Arg2:T72
-R38	part_of Arg1:T75 Arg2:T76
+R34	part_of Arg1:T67 Arg2:T68
+R35	subclass_of Arg1:T69 Arg2:T70
+R36	subclass_of Arg1:T71 Arg2:T72
+R37	has_cause Arg1:T73 Arg2:T74
+R38	subclass_of Arg1:T75 Arg2:T76
 R39	subclass_of Arg1:T77 Arg2:T78
 R40	subclass_of Arg1:T79 Arg2:T80
-R41	has_cause Arg1:T81 Arg2:T82
-R42	subclass_of Arg1:T83 Arg2:T84
-R43	subclass_of Arg1:T85 Arg2:T86
-R44	subclass_of Arg1:T87 Arg2:T88

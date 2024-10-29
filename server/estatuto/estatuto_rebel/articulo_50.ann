@@ -1,9 +1,9 @@
-T1	concept Extinción por voluntad
-T2	concept voluntad
-T3	concept extinción del contrato
-T4	concept contrato
-T13	concept despido improcedente
-T14	concept indemnizaciones
+T1	concept 0 22	Extinción por voluntad
+T2	concept 14 22	voluntad
+T3	concept 104 126	extinción del contrato
+T4	concept 118 126	contrato
+T5	concept 825 845	despido improcedente
+T6	concept 791 806	indemnizaciones
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	facet_of Arg1:T3 Arg2:T4
-R7	subclass_of Arg1:T13 Arg2:T14
+R3	subclass_of Arg1:T5 Arg2:T6

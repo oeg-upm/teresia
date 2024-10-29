@@ -1,21 +1,21 @@
-T1	concept Vacaciones anuales
-T2	concept Vacaciones
-T3	concept contrato individual
-T4	concept convenio colectivo
-T5	concept vacaciones
-T6	concept convenios colectivos
-T7	concept preferente
-T8	concept procedimiento
-T9	concept vacaciones
-T10	concept disfrute
-T11	concept disfrute
-T12	concept vacaciones
-T13	concept parto
-T14	concept incapacidad temporal
-T15	concept incapacidad temporal
-T16	concept vacaciones
-T19	concept Modificación, suspensión y extinción del contrato de trabajo
-T20	concept contrato de trabajo
+T1	concept 0 18	Vacaciones anuales
+T2	concept 0 10	Vacaciones
+T3	concept 152 171	contrato individual
+T4	concept 131 149	convenio colectivo
+T5	concept 37 47	vacaciones
+T6	concept 397 417	convenios colectivos
+T7	concept 641 651	preferente
+T8	concept 612 625	procedimiento
+T9	concept 37 47	vacaciones
+T10	concept 272 280	disfrute
+T11	concept 272 280	disfrute
+T12	concept 37 47	vacaciones
+T13	concept 1020 1025	parto
+T14	concept 973 993	incapacidad temporal
+T15	concept 973 993	incapacidad temporal
+T16	concept 37 47	vacaciones
+T17	concept 1885 1945	Modificación, suspensión y extinción del contrato de trabajo
+T18	concept 1084 1103	contrato de trabajo
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
@@ -24,4 +24,4 @@ R5	different_from Arg1:T9 Arg2:T10
 R6	different_from Arg1:T11 Arg2:T12
 R7	has_cause Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
-R10	facet_of Arg1:T19 Arg2:T20
+R9	facet_of Arg1:T17 Arg2:T18

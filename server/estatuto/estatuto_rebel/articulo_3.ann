@@ -1,33 +1,33 @@
-T1	concept Fuentes de la relación laboral
-T2	concept relación laboral
-T3	concept obligaciones
-T4	concept derechos
-T7	concept convenios colectivos
-T8	concept convenio
-T9	concept contrato de trabajo
-T10	concept convenio
-T11	concept costumbres
-T12	concept usos
-T13	concept normas de rango superior
-T14	concept leyes
-T15	concept normas laborales
-T16	concept derecho
-T17	concept convencionales
-T18	concept disposiciones legales
-T19	concept contractuales
-T20	concept disposiciones legales
-T21	concept derecho necesario
-T22	concept derechos
-T23	concept deberes laborales básicos
-T24	concept Derechos
+T1	concept 0 30	Fuentes de la relación laboral
+T2	concept 14 30	relación laboral
+T3	concept 50 62	obligaciones
+T4	concept 39 47	derechos
+T5	concept 186 206	convenios colectivos
+T6	concept 186 194	convenio
+T7	concept 261 280	contrato de trabajo
+T8	concept 186 194	convenio
+T9	concept 509 519	costumbres
+T10	concept 502 506	usos
+T11	concept 744 768	normas de rango superior
+T12	concept 856 861	leyes
+T13	concept 940 956	normas laborales
+T14	concept 39 46	derecho
+T15	concept 1302 1316	convencionales
+T16	concept 123 144	disposiciones legales
+T17	concept 1319 1332	contractuales
+T18	concept 123 144	disposiciones legales
+T19	concept 1038 1055	derecho necesario
+T20	concept 39 47	derechos
+T21	concept 1699 1724	deberes laborales básicos
+T22	concept 1688 1696	Derechos
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
-R8	part_of Arg1:T15 Arg2:T16
+R7	part_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	subclass_of Arg1:T23 Arg2:T24

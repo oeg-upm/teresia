@@ -1,9 +1,9 @@
-T1	concept Ascensos
-T2	concept Ascenso
-T3	concept acuerdo colectivo
-T4	concept sistema de clasificación profesional
-T5	concept antigüedad
-T6	concept méritos
+T1	concept 0 8	Ascensos
+T2	concept 0 7	Ascenso
+T3	concept 153 170	acuerdo colectivo
+T4	concept 37 73	sistema de clasificación profesional
+T5	concept 313 323	antigüedad
+T6	concept 304 311	méritos
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6

@@ -1,42 +1,42 @@
-T3	concept comité de empresa
-T4	concept convenios de empresa
-T5	concept delegados de personal
-T6	concept secciones sindicales
-T7	concept convenios sectoriales
-T8	concept convenios
-T9	concept secciones sindicales
-T10	concept convenios
-T11	concept convenios sectoriales
-T12	concept convenio
-T13	concept federadas
-T14	concept organizaciones sindicales
-T15	concept confederadas
-T16	concept organizaciones sindicales
-T17	concept federadas
-T18	concept organizaciones sindicales
-T19	concept confederadas
-T20	concept organizaciones sindicales
-T21	concept comités de empresa
-T22	concept sindicatos
-T27	concept empresa
-T28	concept empresa
-T29	concept empresa
-T30	concept empresa
-T35	concept convenios colectivos de sector
-T36	concept convenios
-T39	concept confederación sindical
-T40	concept sindicato
+T1	concept 142 159	comité de empresa
+T2	concept 96 116	convenios de empresa
+T3	concept 165 186	delegados de personal
+T4	concept 206 226	secciones sindicales
+T5	concept 888 909	convenios sectoriales
+T6	concept 96 105	convenios
+T7	concept 206 226	secciones sindicales
+T8	concept 96 105	convenios
+T9	concept 888 909	convenios sectoriales
+T10	concept 96 104	convenio
+T11	concept 1454 1463	federadas
+T12	concept 1417 1442	organizaciones sindicales
+T13	concept 1466 1478	confederadas
+T14	concept 1417 1442	organizaciones sindicales
+T15	concept 1454 1463	federadas
+T16	concept 1417 1442	organizaciones sindicales
+T17	concept 1466 1478	confederadas
+T18	concept 1417 1442	organizaciones sindicales
+T19	concept 1873 1891	comités de empresa
+T20	concept 1296 1306	sindicatos
+T21	concept 109 116	empresa
+T22	concept 109 116	empresa
+T23	concept 109 116	empresa
+T24	concept 109 116	empresa
+T25	concept 3017 3047	convenios colectivos de sector
+T26	concept 96 105	convenios
+T27	concept 3786 3808	confederación sindical
+T28	concept 1296 1305	sindicato
+R1	part_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
-R3	part_of Arg1:T5 Arg2:T6
-R4	subclass_of Arg1:T7 Arg2:T8
-R5	part_of Arg1:T9 Arg2:T10
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
-R11	subclass_of Arg1:T21 Arg2:T22
-R14	different_from Arg1:T27 Arg2:T28
-R15	different_from Arg1:T29 Arg2:T30
-R18	subclass_of Arg1:T35 Arg2:T36
-R20	subclass_of Arg1:T39 Arg2:T40
+R11	different_from Arg1:T21 Arg2:T22
+R12	different_from Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	subclass_of Arg1:T27 Arg2:T28

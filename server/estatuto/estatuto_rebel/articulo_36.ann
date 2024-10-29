@@ -1,36 +1,36 @@
-T1	concept Trabajo nocturno
-T2	concept trabajo a turnos
-T5	concept horas diarias
-T6	concept jornada de trabajo
-T7	concept trabajador nocturno
-T8	concept jornada diaria de trabajo
-T9	concept trabajo nocturno
-T10	concept seguridad
-T11	concept retribución
-T12	concept salario
-T13	concept salario
-T14	concept retribución
-T15	concept trabajo en equipo
-T16	concept organización
-T17	concept horas
-T18	concept día
-T19	concept domingo
-T20	concept días festivos
-T21	concept turnos
-T22	concept trabajo
-T23	concept Prevención de Riesgos Laborales
-T24	concept Prevención de Riesgos Laborales
-T25	concept descanso
-T26	concept jornada de trabajo
+T1	concept 0 16	Trabajo nocturno
+T2	concept 18 34	trabajo a turnos
+T3	concept 398 411	horas diarias
+T4	concept 324 342	jornada de trabajo
+T5	concept 606 625	trabajador nocturno
+T6	concept 719 744	jornada diaria de trabajo
+T7	concept 114 130	trabajo nocturno
+T8	concept 1256 1265	seguridad
+T9	concept 1302 1313	retribución
+T10	concept 1386 1393	salario
+T11	concept 1386 1393	salario
+T12	concept 1302 1313	retribución
+T13	concept 1611 1628	trabajo en equipo
+T14	concept 1594 1606	organización
+T15	concept 398 403	horas
+T16	concept 463 466	día
+T17	concept 2293 2300	domingo
+T18	concept 2304 2317	días festivos
+T19	concept 28 34	turnos
+T20	concept 18 25	trabajo
+T21	concept 3060 3091	Prevención de Riesgos Laborales
+T22	concept 3060 3091	Prevención de Riesgos Laborales
+T23	concept 1535 1543	descanso
+T24	concept 324 342	jornada de trabajo
 R1	subclass_of Arg1:T1 Arg2:T2
-R3	part_of Arg1:T5 Arg2:T6
+R2	part_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
-R5	subclass_of Arg1:T9 Arg2:T10
+R5	different_from Arg1:T9 Arg2:T10
 R6	different_from Arg1:T11 Arg2:T12
-R7	different_from Arg1:T13 Arg2:T14
-R8	subclass_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	subclass_of Arg1:T23 Arg2:T24
-R13	part_of Arg1:T25 Arg2:T26
+R12	part_of Arg1:T23 Arg2:T24

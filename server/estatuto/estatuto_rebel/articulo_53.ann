@@ -1,48 +1,48 @@
-T1	concept extinción por causas objetivas
-T2	concept Forma y efectos de la extinción
-T3	concept acuerdo de extinción
-T4	concept extinción
-T7	concept mensualidades
-T8	concept indemnización
-T13	concept extinción del contrato de trabajo
-T14	concept contrato de trabajo
-T15	concept licencia
-T16	concept empleo
-T17	concept decisión extintiva
-T18	concept despido disciplinario
-T19	concept libertades públicas
-T20	concept derechos fundamentales
-T21	concept extintiva
-T22	concept decisión
-T23	concept parto
-T24	concept lactancia natural
-T25	concept trabajadoras embarazadas
-T26	concept trabajadoras
-T27	concept extinción del contrato
-T28	concept despido
-T29	concept decisión extintiva
-T30	concept decisión
-T31	concept decisión extintiva
-T32	concept decisión
-T33	concept indemnización
-T34	concept salario
-T35	concept procedencia o improcedencia de la decisión extintiva
-T36	concept despido disciplinario
-T37	concept desempleo
-T38	concept indemnización
+T1	concept 22 52	extinción por causas objetivas
+T2	concept 0 31	Forma y efectos de la extinción
+T3	concept 73 93	acuerdo de extinción
+T4	concept 22 31	extinción
+T5	concept 497 510	mensualidades
+T6	concept 355 368	indemnización
+T7	concept 1095 1128	extinción del contrato de trabajo
+T8	concept 1109 1128	contrato de trabajo
+T9	concept 1473 1481	licencia
+T10	concept 1533 1539	empleo
+T11	concept 523 541	decisión extintiva
+T12	concept 1611 1632	despido disciplinario
+T13	concept 1853 1872	libertades públicas
+T14	concept 1828 1850	derechos fundamentales
+T15	concept 532 541	extintiva
+T16	concept 523 531	decisión
+T17	concept 2370 2375	parto
+T18	concept 2267 2284	lactancia natural
+T19	concept 2515 2539	trabajadoras embarazadas
+T20	concept 2079 2091	trabajadoras
+T21	concept 1095 1117	extinción del contrato
+T22	concept 1611 1618	despido
+T23	concept 523 541	decisión extintiva
+T24	concept 523 531	decisión
+T25	concept 523 541	decisión extintiva
+T26	concept 523 531	decisión
+T27	concept 355 368	indemnización
+T28	concept 4447 4454	salario
+T29	concept 4657 4709	procedencia o improcedencia de la decisión extintiva
+T30	concept 1611 1632	despido disciplinario
+T31	concept 4990 4999	desempleo
+T32	concept 355 368	indemnización
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
-R4	subclass_of Arg1:T7 Arg2:T8
-R7	facet_of Arg1:T13 Arg2:T14
-R8	instance_of Arg1:T15 Arg2:T16
-R9	subclass_of Arg1:T17 Arg2:T18
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	facet_of Arg1:T7 Arg2:T8
+R5	instance_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	subclass_of Arg1:T15 Arg2:T16
+R9	has_cause Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	has_cause Arg1:T23 Arg2:T24
+R12	subclass_of Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
 R14	subclass_of Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
 R16	subclass_of Arg1:T31 Arg2:T32
-R17	subclass_of Arg1:T33 Arg2:T34
-R18	subclass_of Arg1:T35 Arg2:T36
-R19	subclass_of Arg1:T37 Arg2:T38

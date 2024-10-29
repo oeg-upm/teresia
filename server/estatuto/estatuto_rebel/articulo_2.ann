@@ -1,24 +1,24 @@
-T5	concept alta dirección
-T6	concept personal
-T7	concept hogar familiar
-T8	concept hogar
-T9	concept penados
-T10	concept instituciones penitenciarias
-T15	concept ventura
-T16	concept riesgo
-T17	concept centros especiales de empleo
-T18	concept discapacidad
-T21	concept medidas de internamiento
-T22	concept responsabilidad penal
-T25	concept despachos de abogados
-T26	concept abogado
-T27	concept relación laboral
-T28	concept trabajo
-R3	subclass_of Arg1:T5 Arg2:T6
+T1	concept 128 142	alta dirección
+T2	concept 116 124	personal
+T3	concept 202 216	hogar familiar
+T4	concept 202 207	hogar
+T5	concept 232 239	penados
+T6	concept 247 275	instituciones penitenciarias
+T7	concept 492 499	ventura
+T8	concept 483 489	riesgo
+T9	concept 590 618	centros especiales de empleo
+T10	concept 544 556	discapacidad
+T11	concept 685 709	medidas de internamiento
+T12	concept 737 758	responsabilidad penal
+T13	concept 889 910	despachos de abogados
+T14	concept 855 862	abogado
+T15	concept 1002 1018	relación laboral
+T16	concept 958 965	trabajo
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	facet_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	facet_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
-R9	facet_of Arg1:T17 Arg2:T18
-R11	subclass_of Arg1:T21 Arg2:T22
-R13	subclass_of Arg1:T25 Arg2:T26
-R14	subclass_of Arg1:T27 Arg2:T28

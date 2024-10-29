@@ -1,12 +1,12 @@
-T1	media Sistema de clasificación profesional
-T2	concept clasificación profesional
-T3	concept representantes de los trabajadores
-T4	concept negociación colectiva
-T5	concept aptitudes profesionales
-T6	concept grupo profesional
-T11	concept contrato de trabajo
-T12	concept prestación laboral
+T1	media 0 36	Sistema de clasificación profesional
+T2	concept 11 36	clasificación profesional
+T3	concept 124 158	representantes de los trabajadores
+T4	concept 53 74	negociación colectiva
+T5	concept 341 364	aptitudes profesionales
+T6	concept 291 308	grupo profesional
+T7	concept 1120 1139	contrato de trabajo
+T8	concept 1090 1108	prestación laboral
 R1	instance_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
-R6	subclass_of Arg1:T11 Arg2:T12
+R4	subclass_of Arg1:T7 Arg2:T8

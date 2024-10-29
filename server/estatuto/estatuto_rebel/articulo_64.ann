@@ -1,90 +1,90 @@
-T1	concept Derechos de información y consulta
-T2	concept competencias
-T5	concept informe previo
-T6	concept consulta
-T9	concept sector económico
-T10	concept empresa
-T11	concept ventas
-T12	concept producción
-T13	concept contratos a tiempo parcial
-T14	concept contratos
-T15	concept absentismo
-T16	concept accidentes de trabajo
-T17	concept igualdad entre mujeres y hombres
-T18	concept igualdad de trato y de oportunidades entre mujeres y hombres
-T19	concept comité de empresa
-T20	concept periodicidad
-T21	concept acciones
-T22	concept sociedad
-T23	concept participaciones
-T24	concept sociedad
-T25	concept contrato de trabajo
-T26	concept relación laboral
-T27	concept faltas
-T28	concept sanciones
-T29	concept prórrogas
-T30	concept contratos
-T31	concept centro de trabajo
-T32	concept empresa
-T33	concept contratos de trabajo
-T34	concept organización del trabajo
-T35	concept informe
-T36	concept informe
-T41	concept reducciones de jornada
-T42	concept jornada
-T43	concept traslado total o parcial de las instalaciones
-T44	concept instalaciones
-T45	concept fusión
-T46	concept empresa
-T47	concept formación profesional
-T48	concept formación
-T49	concept control del trabajo
-T50	concept sistemas de organización
-T55	concept comité de empresa
-T56	concept informes
-T57	concept competencias
-T58	concept competencias
-T59	concept Ejercer
-T60	concept labor
-T63	concept seguridad
-T64	concept salud
-T65	concept igualdad de trato
-T66	concept oportunidades
-T69	concept sostenibilidad ambiental
-T70	concept empresa
-T71	concept medidas de conciliación
-T72	concept conciliación
-T75	concept ley
-T76	concept normas legales
-T77	concept consulta
-T78	concept derechos de información
+T1	concept 0 34	Derechos de información y consulta
+T2	concept 37 49	competencias
+T3	concept 709 723	informe previo
+T4	concept 26 34	consulta
+T5	concept 1150 1166	sector económico
+T6	concept 67 74	empresa
+T7	concept 1416 1422	ventas
+T8	concept 1403 1413	producción
+T9	concept 1637 1663	contratos a tiempo parcial
+T10	concept 1526 1535	contratos
+T11	concept 1837 1847	absentismo
+T12	concept 1866 1887	accidentes de trabajo
+T13	concept 2512 2544	igualdad entre mujeres y hombres
+T14	concept 2206 2266	igualdad de trato y de oportunidades entre mujeres y hombres
+T15	concept 57 74	comité de empresa
+T16	concept 2670 2682	periodicidad
+T17	concept 2852 2860	acciones
+T18	concept 2839 2847	sociedad
+T19	concept 2863 2878	participaciones
+T20	concept 2839 2847	sociedad
+T21	concept 3004 3023	contrato de trabajo
+T22	concept 3119 3135	relación laboral
+T23	concept 3192 3198	faltas
+T24	concept 3168 3177	sanciones
+T25	concept 3333 3342	prórrogas
+T26	concept 1526 1535	contratos
+T27	concept 3584 3601	centro de trabajo
+T28	concept 67 74	empresa
+T29	concept 3930 3950	contratos de trabajo
+T30	concept 3897 3921	organización del trabajo
+T31	concept 709 716	informe
+T32	concept 709 716	informe
+T33	concept 4423 4445	reducciones de jornada
+T34	concept 4438 4445	jornada
+T35	concept 4454 4499	traslado total o parcial de las instalaciones
+T36	concept 4486 4499	instalaciones
+T37	concept 4521 4527	fusión
+T38	concept 67 74	empresa
+T39	concept 4682 4703	formación profesional
+T40	concept 14 23	formación
+T41	concept 4780 4799	control del trabajo
+T42	concept 4753 4777	sistemas de organización
+T43	concept 57 74	comité de empresa
+T44	concept 6085 6093	informes
+T45	concept 37 49	competencias
+T46	concept 37 49	competencias
+T47	concept 6342 6349	Ejercer
+T48	concept 2025 2030	labor
+T49	concept 6445 6454	seguridad
+T50	concept 6729 6734	salud
+T51	concept 2206 2223	igualdad de trato
+T52	concept 2229 2242	oportunidades
+T53	concept 7350 7374	sostenibilidad ambiental
+T54	concept 67 74	empresa
+T55	concept 7528 7551	medidas de conciliación
+T56	concept 7539 7551	conciliación
+T57	concept 7881 7884	ley
+T58	concept 7896 7910	normas legales
+T59	concept 26 34	consulta
+T60	concept 8125 8148	derechos de información
 R1	subclass_of Arg1:T1 Arg2:T2
-R3	subclass_of Arg1:T5 Arg2:T6
-R5	facet_of Arg1:T9 Arg2:T10
-R6	part_of Arg1:T11 Arg2:T12
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	facet_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
 R7	subclass_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
-R9	subclass_of Arg1:T17 Arg2:T18
-R10	subclass_of Arg1:T19 Arg2:T20
+R9	part_of Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20
 R11	part_of Arg1:T21 Arg2:T22
-R12	part_of Arg1:T23 Arg2:T24
-R13	part_of Arg1:T25 Arg2:T26
-R14	subclass_of Arg1:T27 Arg2:T28
-R15	subclass_of Arg1:T29 Arg2:T30
-R16	part_of Arg1:T31 Arg2:T32
-R17	part_of Arg1:T33 Arg2:T34
-R18	subclass_of Arg1:T35 Arg2:T36
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	part_of Arg1:T27 Arg2:T28
+R15	part_of Arg1:T29 Arg2:T30
+R16	subclass_of Arg1:T31 Arg2:T32
+R17	subclass_of Arg1:T33 Arg2:T34
+R18	facet_of Arg1:T35 Arg2:T36
+R19	subclass_of Arg1:T37 Arg2:T38
+R20	subclass_of Arg1:T39 Arg2:T40
 R21	subclass_of Arg1:T41 Arg2:T42
-R22	facet_of Arg1:T43 Arg2:T44
+R22	field_of_work Arg1:T43 Arg2:T44
 R23	subclass_of Arg1:T45 Arg2:T46
 R24	subclass_of Arg1:T47 Arg2:T48
-R25	subclass_of Arg1:T49 Arg2:T50
-R28	field_of_work Arg1:T55 Arg2:T56
+R25	facet_of Arg1:T49 Arg2:T50
+R26	subclass_of Arg1:T51 Arg2:T52
+R27	facet_of Arg1:T53 Arg2:T54
+R28	facet_of Arg1:T55 Arg2:T56
 R29	subclass_of Arg1:T57 Arg2:T58
 R30	subclass_of Arg1:T59 Arg2:T60
-R32	facet_of Arg1:T63 Arg2:T64
-R33	subclass_of Arg1:T65 Arg2:T66
-R35	facet_of Arg1:T69 Arg2:T70
-R36	facet_of Arg1:T71 Arg2:T72
-R38	subclass_of Arg1:T75 Arg2:T76
-R39	subclass_of Arg1:T77 Arg2:T78

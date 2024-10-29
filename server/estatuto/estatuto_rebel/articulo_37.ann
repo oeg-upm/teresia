@@ -1,84 +1,84 @@
-T1	concept Descanso
-T2	concept fiestas
-T3	concept sábado
-T4	concept día
-T5	concept lunes
-T6	concept día
-T9	concept domingo
-T10	concept día
-T13	concept descanso semanal
-T14	concept descanso
-T29	concept lunes
-T30	concept días festivos
-T31	concept domingo
-T32	concept comunidad autónoma
-T33	concept remuneración
-T34	concept trabajo
-T37	concept intervención quirúrgica
-T38	concept enfermedad
-T39	concept traslado
-T40	concept traslado
-T41	concept sufragio
-T42	concept deber
-T45	concept indemnización
-T46	concept salario
-T47	concept representación del personal
-T48	concept funciones sindicales
-T49	concept adopción
-T50	concept parto
-T51	concept guarda con fines de adopción o acogimiento
-T52	concept guarda con fines de adopción o acogimiento múltiples
-T53	concept guarda con fines de adopción o acogimiento múltiples
-T54	concept guarda con fines de adopción o acogimiento
-T55	concept acuerdo
-T56	concept negociación colectiva
-T57	concept acogedor
-T58	concept derecho individual
-T59	concept guardadores
-T60	concept derecho
-T61	concept acogedores
-T62	concept derecho
-T63	concept parto
-T64	concept hijo
-T65	concept disminución proporcional del salario
-T66	concept reducción de la jornada de trabajo diaria
-T67	concept consanguinidad
-T68	concept afinidad
-T69	concept melanoma
-T70	concept cáncer
-T71	concept carcinoma
-T72	concept cáncer
-T77	concept reducción de jornada
-T78	concept convenios colectivos
-T81	concept horario flexible
-T82	concept horario
-T83	concept acuerdo entre la empresa y los trabajadores afectados
-T84	concept acuerdos entre la empresa y los representantes de los trabajadores
+T1	concept 0 8	Descanso
+T2	concept 18 25	fiestas
+T3	concept 231 237	sábado
+T4	concept 145 148	día
+T5	concept 267 272	lunes
+T6	concept 145 148	día
+T7	concept 295 302	domingo
+T8	concept 145 148	día
+T9	concept 320 336	descanso semanal
+T10	concept 79 87	descanso
+T11	concept 267 272	lunes
+T12	concept 1340 1353	días festivos
+T13	concept 295 302	domingo
+T14	concept 1659 1677	comunidad autónoma
+T15	concept 2005 2017	remuneración
+T16	concept 1982 1989	trabajo
+T17	concept 2205 2228	intervención quirúrgica
+T18	concept 2168 2178	enfermedad
+T19	concept 1157 1165	traslado
+T20	concept 1157 1165	traslado
+T21	concept 2654 2662	sufragio
+T22	concept 2575 2580	deber
+T23	concept 3240 3253	indemnización
+T24	concept 3296 3303	salario
+T25	concept 3385 3412	representación del personal
+T26	concept 3359 3379	funciones sindicales
+T27	concept 3598 3606	adopción
+T28	concept 3573 3578	parto
+T29	concept 3608 3650	guarda con fines de adopción o acogimiento
+T30	concept 4326 4378	guarda con fines de adopción o acogimiento múltiples
+T31	concept 4326 4378	guarda con fines de adopción o acogimiento múltiples
+T32	concept 3608 3650	guarda con fines de adopción o acogimiento
+T33	concept 4017 4024	acuerdo
+T34	concept 4579 4600	negociación colectiva
+T35	concept 4895 4903	acogedor
+T36	concept 4764 4782	derecho individual
+T37	concept 5213 5224	guardadores
+T38	concept 66 73	derecho
+T39	concept 5227 5237	acogedores
+T40	concept 66 73	derecho
+T41	concept 3573 3578	parto
+T42	concept 5584 5588	hijo
+T43	concept 5778 5814	disminución proporcional del salario
+T44	concept 6075 6116	reducción de la jornada de trabajo diaria
+T45	concept 2321 2335	consanguinidad
+T46	concept 2338 2346	afinidad
+T47	concept 6861 6869	melanoma
+T48	concept 6835 6841	cáncer
+T49	concept 6873 6882	carcinoma
+T50	concept 6835 6841	cáncer
+T51	concept 4700 4720	reducción de jornada
+T52	concept 7961 7981	convenios colectivos
+T53	concept 9285 9301	horario flexible
+T54	concept 9255 9262	horario
+T55	concept 9608 9661	acuerdo entre la empresa y los trabajadores afectados
+T56	concept 9526 9592	acuerdos entre la empresa y los representantes de los trabajadores
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
-R7	subclass_of Arg1:T13 Arg2:T14
-R15	subclass_of Arg1:T29 Arg2:T30
-R16	part_of Arg1:T31 Arg2:T32
-R17	facet_of Arg1:T33 Arg2:T34
-R19	subclass_of Arg1:T37 Arg2:T38
-R20	subclass_of Arg1:T39 Arg2:T40
-R21	subclass_of Arg1:T41 Arg2:T42
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
+R8	facet_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
+R13	subclass_of Arg1:T25 Arg2:T26
+R14	has_cause Arg1:T27 Arg2:T28
+R15	different_from Arg1:T29 Arg2:T30
+R16	different_from Arg1:T31 Arg2:T32
+R17	part_of Arg1:T33 Arg2:T34
+R18	instance_of Arg1:T35 Arg2:T36
+R19	instance_of Arg1:T37 Arg2:T38
+R20	instance_of Arg1:T39 Arg2:T40
+R21	has_cause Arg1:T41 Arg2:T42
+R22	subclass_of Arg1:T43 Arg2:T44
 R23	subclass_of Arg1:T45 Arg2:T46
 R24	subclass_of Arg1:T47 Arg2:T48
-R25	has_cause Arg1:T49 Arg2:T50
-R26	different_from Arg1:T51 Arg2:T52
-R27	different_from Arg1:T53 Arg2:T54
-R28	part_of Arg1:T55 Arg2:T56
-R29	instance_of Arg1:T57 Arg2:T58
-R30	instance_of Arg1:T59 Arg2:T60
-R31	instance_of Arg1:T61 Arg2:T62
-R32	has_cause Arg1:T63 Arg2:T64
-R33	subclass_of Arg1:T65 Arg2:T66
-R34	subclass_of Arg1:T67 Arg2:T68
-R35	subclass_of Arg1:T69 Arg2:T70
-R36	subclass_of Arg1:T71 Arg2:T72
-R39	part_of Arg1:T77 Arg2:T78
-R41	subclass_of Arg1:T81 Arg2:T82
-R42	subclass_of Arg1:T83 Arg2:T84
+R25	subclass_of Arg1:T49 Arg2:T50
+R26	part_of Arg1:T51 Arg2:T52
+R27	subclass_of Arg1:T53 Arg2:T54
+R28	subclass_of Arg1:T55 Arg2:T56

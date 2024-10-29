@@ -1,57 +1,57 @@
-T1	concept Duración del contrato
-T2	concept contrato
-T3	concept duración
-T4	concept tiempo
-T11	concept convenios de empresa
-T12	concept contratos
-T13	concept convenio colectivo sectorial de ámbito inferior
-T14	concept convenio colectivo
-T15	concept duración máxima
-T16	concept duración
-T17	concept plantilla
-T18	concept empresa
-T19	concept sustituido
-T20	concept contrato de trabajo
-T21	concept trabajadores fijos
-T22	concept Seguridad Social
-T23	concept contratos temporales
-T24	concept fraude de ley
-T25	concept contratación por tiempo determinado
-T26	concept contratos
-T27	concept trabajadores fijos
-T28	concept trabajadores
-T29	concept subrogación empresarial
-T30	concept sucesión
-T31	concept contratos de puesta a disposición
-T32	concept contratos de duración determinada
-T33	concept contratos formativos
-T34	concept contratos temporales
-T35	concept contratos formativos
-T36	concept contrato
-T37	concept trabajador
-T38	concept contrato
-T39	concept contratos formativos
-T40	concept contratos
-T43	concept cualificación
-T44	concept formación profesional
-T45	concept trabajador fijo
-T46	concept trabajador
+T1	concept 0 21	Duración del contrato
+T2	concept 13 21	contrato
+T3	concept 99 107	duración
+T4	concept 71 77	tiempo
+T5	concept 867 887	convenios de empresa
+T6	concept 140 149	contratos
+T7	concept 628 675	convenio colectivo sectorial de ámbito inferior
+T8	concept 559 577	convenio colectivo
+T9	concept 1261 1276	duración máxima
+T10	concept 99 107	duración
+T11	concept 2461 2470	plantilla
+T12	concept 363 370	empresa
+T13	concept 2652 2662	sustituido
+T14	concept 29 48	contrato de trabajo
+T15	concept 749 767	trabajadores fijos
+T16	concept 2844 2860	Seguridad Social
+T17	concept 3240 3260	contratos temporales
+T18	concept 3275 3288	fraude de ley
+T19	concept 3451 3486	contratación por tiempo determinado
+T20	concept 140 149	contratos
+T21	concept 749 767	trabajadores fijos
+T22	concept 709 721	trabajadores
+T23	concept 4267 4290	subrogación empresarial
+T24	concept 4256 4264	sucesión
+T25	concept 4742 4775	contratos de puesta a disposición
+T26	concept 140 173	contratos de duración determinada
+T27	concept 4898 4918	contratos formativos
+T28	concept 3240 3260	contratos temporales
+T29	concept 4898 4918	contratos formativos
+T30	concept 13 21	contrato
+T31	concept 229 239	trabajador
+T32	concept 13 21	contrato
+T33	concept 4898 4918	contratos formativos
+T34	concept 140 149	contratos
+T35	concept 7096 7109	cualificación
+T36	concept 7017 7038	formación profesional
+T37	concept 7403 7418	trabajador fijo
+T38	concept 229 239	trabajador
 R1	facet_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
-R6	subclass_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
-R8	subclass_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
-R10	part_of Arg1:T19 Arg2:T20
-R11	part_of Arg1:T21 Arg2:T22
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	subclass_of Arg1:T21 Arg2:T22
 R12	subclass_of Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
 R14	subclass_of Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
-R16	subclass_of Arg1:T31 Arg2:T32
+R16	part_of Arg1:T31 Arg2:T32
 R17	subclass_of Arg1:T33 Arg2:T34
-R18	subclass_of Arg1:T35 Arg2:T36
-R19	part_of Arg1:T37 Arg2:T38
-R20	subclass_of Arg1:T39 Arg2:T40
-R22	part_of Arg1:T43 Arg2:T44
-R23	subclass_of Arg1:T45 Arg2:T46
+R18	part_of Arg1:T35 Arg2:T36
+R19	subclass_of Arg1:T37 Arg2:T38

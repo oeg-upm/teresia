@@ -1,18 +1,18 @@
-T1	concept Seguridad y salud en el trabajo
-T2	concept trabajo
-T3	concept seguridad y salud en el trabajo
-T4	concept derecho
-T5	concept seguridad y salud en el trabajo
-T6	concept trabajo
-T7	concept representantes legales
-T8	concept empresario
-T11	concept accidente
-T12	concept riesgo
-T13	concept autoridad laboral
-T14	concept empresa
+T1	concept 0 31	Seguridad y salud en el trabajo
+T2	concept 24 31	trabajo
+T3	concept 139 170	seguridad y salud en el trabajo
+T4	concept 93 100	derecho
+T5	concept 139 170	seguridad y salud en el trabajo
+T6	concept 24 31	trabajo
+T7	concept 461 483	representantes legales
+T8	concept 391 401	empresario
+T9	concept 1425 1434	accidente
+T10	concept 1609 1615	riesgo
+T11	concept 2521 2538	autoridad laboral
+T12	concept 391 398	empresa
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	facet_of Arg1:T5 Arg2:T6
 R4	facet_of Arg1:T7 Arg2:T8
-R6	subclass_of Arg1:T11 Arg2:T12
-R7	part_of Arg1:T13 Arg2:T14
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12

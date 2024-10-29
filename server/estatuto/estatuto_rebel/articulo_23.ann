@@ -1,21 +1,21 @@
-T1	concept formación profesional
-T2	concept formación
-T3	concept derecho
-T4	concept derecho
-T5	concept profesional
-T6	concept título académico
-T7	concept jornada ordinaria
-T8	concept jornada
-T9	concept perfeccionamiento profesional
-T10	concept formación
-T11	concept tiempo de trabajo efectivo
-T12	concept tiempo
-T17	concept permiso retribuido
-T18	concept ley
+T1	concept 12 33	formación profesional
+T2	concept 12 21	formación
+T3	concept 73 80	derecho
+T4	concept 73 80	derecho
+T5	concept 22 33	profesional
+T6	concept 315 331	título académico
+T7	concept 373 390	jornada ordinaria
+T8	concept 373 380	jornada
+T9	concept 516 545	perfeccionamiento profesional
+T10	concept 12 21	formación
+T11	concept 883 909	tiempo de trabajo efectivo
+T12	concept 823 829	tiempo
+T13	concept 1246 1264	permiso retribuido
+T14	concept 1912 1915	ley
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	instance_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R9	instance_of Arg1:T17 Arg2:T18
+R7	instance_of Arg1:T13 Arg2:T14

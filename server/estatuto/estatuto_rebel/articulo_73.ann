@@ -1,9 +1,9 @@
-T1	concept Mesa electoral
-T2	concept Mesa electoral
-T3	concept colegio
-T4	concept centro de trabajo
-T5	concept votación
-T6	concept proceso electoral
+T1	concept 0 14	Mesa electoral
+T2	concept 0 14	Mesa electoral
+T3	concept 86 93	colegio
+T4	concept 35 52	centro de trabajo
+T5	concept 233 241	votación
+T6	concept 202 219	proceso electoral
 R1	part_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6

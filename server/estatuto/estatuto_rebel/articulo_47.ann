@@ -1,60 +1,60 @@
-T1	concept Suspensión del contrato
-T2	concept reducción de jornada
-T13	concept trabajadores
-T14	concept empresa
-T15	concept comisión negociadora
-T16	concept consulta
-T17	concept interlocutores
-T18	concept procedimiento de consultas
-T19	concept representantes legales de los trabajadores
-T20	concept representantes
-T21	concept representantes de los trabajadores
-T22	concept autoridad laboral
-T25	concept fraude
-T26	concept abuso de derecho
-T27	concept representantes legales
-T28	concept comisión representativa de los trabajadores
-T29	concept arbitraje
-T30	concept mediación
-T33	concept representantes de los trabajadores
-T34	concept autoridad laboral
-T35	concept prestación por desempleo
-T36	concept desempleo
-T37	concept desempleo
-T38	concept prestación por desempleo
-T39	concept conflicto colectivo
-T40	concept acción individual
-T41	concept reducción de jornada
-T42	concept jornada de trabajo
-T43	concept jornada diaria
-T44	concept jornada de trabajo
-T45	concept semanal
-T46	concept jornada de trabajo
-T47	concept mensual
-T48	concept jornada de trabajo
-T49	concept anual
-T50	concept jornada de trabajo
-T51	concept fuerza mayor
-T52	concept contrato de trabajo
-T53	concept reducciones de jornada
-T54	concept suspensiones de contratos
+T1	concept 0 23	Suspensión del contrato
+T2	concept 26 46	reducción de jornada
+T3	concept 1387 1399	trabajadores
+T4	concept 145 152	empresa
+T5	concept 1713 1733	comisión negociadora
+T6	concept 1569 1577	consulta
+T7	concept 1989 2003	interlocutores
+T8	concept 2042 2068	procedimiento de consultas
+T9	concept 1587 1629	representantes legales de los trabajadores
+T10	concept 1587 1601	representantes
+T11	concept 2969 3003	representantes de los trabajadores
+T12	concept 1498 1515	autoridad laboral
+T13	concept 4000 4006	fraude
+T14	concept 4025 4041	abuso de derecho
+T15	concept 1587 1609	representantes legales
+T16	concept 2181 2224	comisión representativa de los trabajadores
+T17	concept 4660 4669	arbitraje
+T18	concept 4648 4657	mediación
+T19	concept 2969 3003	representantes de los trabajadores
+T20	concept 1498 1515	autoridad laboral
+T21	concept 5173 5197	prestación por desempleo
+T22	concept 3410 3419	desempleo
+T23	concept 3410 3419	desempleo
+T24	concept 5173 5197	prestación por desempleo
+T25	concept 6739 6758	conflicto colectivo
+T26	concept 6780 6797	acción individual
+T27	concept 26 46	reducción de jornada
+T28	concept 6934 6952	jornada de trabajo
+T29	concept 7271 7285	jornada diaria
+T30	concept 6934 6952	jornada de trabajo
+T31	concept 7287 7294	semanal
+T32	concept 6934 6952	jornada de trabajo
+T33	concept 7296 7303	mensual
+T34	concept 6934 6952	jornada de trabajo
+T35	concept 7306 7311	anual
+T36	concept 6934 6952	jornada de trabajo
+T37	concept 125 137	fuerza mayor
+T38	concept 175 194	contrato de trabajo
+T39	concept 7662 7684	reducciones de jornada
+T40	concept 7630 7655	suspensiones de contratos
 R1	subclass_of Arg1:T1 Arg2:T2
-R7	part_of Arg1:T13 Arg2:T14
-R8	subclass_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
-R10	subclass_of Arg1:T19 Arg2:T20
-R11	subclass_of Arg1:T21 Arg2:T22
+R2	part_of Arg1:T3 Arg2:T4
+R3	subclass_of Arg1:T5 Arg2:T6
+R4	part_of Arg1:T7 Arg2:T8
+R5	subclass_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	subclass_of Arg1:T13 Arg2:T14
+R8	part_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20
+R11	different_from Arg1:T21 Arg2:T22
+R12	different_from Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
-R14	part_of Arg1:T27 Arg2:T28
+R14	subclass_of Arg1:T27 Arg2:T28
 R15	subclass_of Arg1:T29 Arg2:T30
-R17	part_of Arg1:T33 Arg2:T34
-R18	different_from Arg1:T35 Arg2:T36
-R19	different_from Arg1:T37 Arg2:T38
+R16	subclass_of Arg1:T31 Arg2:T32
+R17	subclass_of Arg1:T33 Arg2:T34
+R18	subclass_of Arg1:T35 Arg2:T36
+R19	facet_of Arg1:T37 Arg2:T38
 R20	subclass_of Arg1:T39 Arg2:T40
-R21	subclass_of Arg1:T41 Arg2:T42
-R22	subclass_of Arg1:T43 Arg2:T44
-R23	subclass_of Arg1:T45 Arg2:T46
-R24	subclass_of Arg1:T47 Arg2:T48
-R25	subclass_of Arg1:T49 Arg2:T50
-R26	facet_of Arg1:T51 Arg2:T52
-R27	subclass_of Arg1:T53 Arg2:T54
