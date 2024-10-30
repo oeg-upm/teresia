@@ -1,0 +1,33 @@
+T1	term-DPJ 927 934	jornada
+T2	term-DPJ 1259 1265	empleo
+T3	term-DPJ 2785 2791	empleo
+T4	term-DPJ 2920 2926	empleo
+T5	LegalAgent-HFD 1198 1208	empresario
+T6	LegalEntity-HFD 1240 1266	oficina pública de empleo,
+T7	LegalEntity-HFD 1535 1575	representación legal de los trabajadores
+T8	LegalAgent-HFD 2603 2645	representantes legales de los trabajadores
+T9	LegalAgent-HFD 3477 3487	trabajador
+R1	Duty-HFD Arg1:T5 Arg2:T6	
+R2	Duty-HFD Arg1:T5 Arg2:T7	
+R3	Duty-HFD Arg1:T5 Arg2:T8	
+R4	Duty-HFD Arg1:T5 Arg2:T9	
+T10	concept-RBL 12 30	Forma del contrato
+T11	concept-RBL 22 30	contrato
+T12	concept-RBL 264 275	retribución
+T13	concept-RBL 38 57	contrato de trabajo
+T14	concept-RBL 1173 1189	relación laboral
+T15	concept-RBL 1711 1725	alta dirección
+T16	concept-RBL 2339 2361	información facilitada
+T17	concept-RBL 2457 2476	protección de datos
+T18	concept-RBL 1535 1555	representación legal
+T19	concept-RBL 2774 2791	oficina de empleo
+T20	concept-RBL 3025 3051	asociaciones empresariales
+T21	concept-RBL 2990 3015	organizaciones sindicales
+R5	facet_of-RBL Arg1:T13 Arg2:T12	
+R6	part_of-RBL Arg1:T11 Arg2:T13	
+R7	part_of-RBL Arg1:T11 Arg2:T14	
+R8	subclass_of-RBL Arg1:T14 Arg2:T15	
+R9	facet_of-RBL Arg1:T17 Arg2:T16	
+R10	part_of-RBL Arg1:T18 Arg2:T19	
+R11	subclass_of-RBL Arg1:T21 Arg2:T20	
+R12	subclass_of-RBL Arg1:T13 Arg2:T11	
