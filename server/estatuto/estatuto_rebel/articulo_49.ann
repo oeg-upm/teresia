@@ -24,28 +24,16 @@ T23	concept 2126 2163	extinción de la personalidad jurídica
 T24	concept 2126 2135	extinción
 T25	concept 2279 2284	abono
 T26	concept 613 620	salario
-T27	concept 2126 2163	extinción de la personalidad jurídica
-T28	concept 2439 2450	artículo 51
-T29	concept 2477 2530	imposibilite definitivamente la prestación de trabajo
-T30	concept 2460 2472	fuerza mayor
-T31	concept 2692 2700	técnicas
-T32	concept 2680 2690	económicas
-T33	concept 459 469	trabajador
-T34	concept 235 245	empresario
-T35	concept 235 245	empresario
-T36	concept 459 469	trabajador
-T37	concept 2644 2651	despido
-T38	concept 459 469	trabajador
-T39	concept 2875 2884	objetivas
-T40	concept 2885 2907	legalmente procedentes
-T41	concept 2885 2907	legalmente procedentes
-T42	concept 2875 2884	objetivas
-T43	concept 2966 3012	abandonar definitivamente su puesto de trabajo
-T44	concept 3049 3068	violencia de género
-T45	concept 3107 3129	extinción del contrato
-T46	concept 3209 3228	extinción del mismo
-T47	concept 3461 3470	finiquito
-T48	concept 3450 3456	recibo
+T27	concept 2477 2530	imposibilite definitivamente la prestación de trabajo
+T28	concept 2460 2472	fuerza mayor
+T29	concept 2692 2700	técnicas
+T30	concept 2680 2690	económicas
+T31	concept 2966 3012	abandonar definitivamente su puesto de trabajo
+T32	concept 3049 3068	violencia de género
+T33	concept 3107 3129	extinción del contrato
+T34	concept 3209 3228	extinción del mismo
+T35	concept 3461 3470	finiquito
+T36	concept 3450 3456	recibo
 R1	facet_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
@@ -59,14 +47,8 @@ R10	subclass_of Arg1:T19 Arg2:T20
 R11	facet_of Arg1:T21 Arg2:T22
 R12	subclass_of Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
-R14	main_regulatory_text Arg1:T27 Arg2:T28
-R15	subclass_of Arg1:T29 Arg2:T30
-R16	part_of Arg1:T31 Arg2:T32
-R17	opposite_of Arg1:T33 Arg2:T34
-R18	opposite_of Arg1:T35 Arg2:T36
-R19	participant Arg1:T37 Arg2:T38
-R20	opposite_of Arg1:T39 Arg2:T40
-R21	opposite_of Arg1:T41 Arg2:T42
-R22	has_cause Arg1:T43 Arg2:T44
-R23	has_cause Arg1:T45 Arg2:T46
-R24	subclass_of Arg1:T47 Arg2:T48
+R14	subclass_of Arg1:T27 Arg2:T28
+R15	part_of Arg1:T29 Arg2:T30
+R16	has_cause Arg1:T31 Arg2:T32
+R17	has_cause Arg1:T33 Arg2:T34
+R18	subclass_of Arg1:T35 Arg2:T36

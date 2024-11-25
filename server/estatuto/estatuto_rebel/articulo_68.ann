@@ -1,42 +1,36 @@
-T1	concept 0 9	Garantías
-T2	org 0 9	Garantías
-T3	concept 80 102	representantes legales
-T4	concept 170 190	convenios colectivos
-T5	concept 308 318	muy graves
-T6	concept 292 305	faltas graves
-T7	concept 554 563	extinción
-T8	concept 554 563	extinción
-T9	concept 626 636	sancionado
-T10	concept 824 831	sanción
-T11	concept 28 34	comité
-T12	concept 38 45	empresa
-T13	concept 1505 1525	delegado de personal
-T14	concept 890 904	representación
+T1	concept 80 102	representantes legales
+T2	concept 170 190	convenios colectivos
+T3	concept 308 318	muy graves
+T4	concept 292 305	faltas graves
+T5	concept 554 563	extinción
+T6	concept 554 563	extinción
+T7	concept 626 636	sancionado
+T8	concept 824 831	sanción
+T9	concept 28 34	comité
+T10	concept 38 45	empresa
+T11	concept 1505 1525	delegado de personal
+T12	concept 890 904	representación
+T13	concept 1439 1444	horas
+T14	concept 1439 1443	hora
 T15	concept 1439 1444	horas
 T16	concept 1439 1443	hora
 T17	concept 1439 1444	horas
-T18	concept 1439 1443	hora
+T18	concept 1794 1804	quinientos
 T19	concept 1439 1444	horas
 T20	concept 1794 1804	quinientos
-T21	concept 1439 1444	horas
-T22	concept 1794 1804	quinientos
-T23	concept 1719 1728	cincuenta
-T24	concept 1439 1444	horas
-T25	concept 1472 1475	uno
-T26	concept 1719 1728	cincuenta
-T27	concept 52 73	delegados de personal
-T28	concept 28 45	comité de empresa
-R1	manufacturer Arg1:T1 Arg2:T2
-R2	part_of Arg1:T3 Arg2:T4
-R3	subclass_of Arg1:T5 Arg2:T6
-R4	has_cause Arg1:T7 Arg2:T8
-R5	subclass_of Arg1:T9 Arg2:T10
-R6	part_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
+T21	concept 1719 1728	cincuenta
+T22	concept 1439 1444	horas
+T23	concept 52 73	delegados de personal
+T24	concept 28 45	comité de empresa
+R1	part_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	has_cause Arg1:T5 Arg2:T6
+R4	subclass_of Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	subclass_of Arg1:T11 Arg2:T12
+R7	part_of Arg1:T13 Arg2:T14
 R8	part_of Arg1:T15 Arg2:T16
 R9	part_of Arg1:T17 Arg2:T18
 R10	part_of Arg1:T19 Arg2:T20
 R11	part_of Arg1:T21 Arg2:T22
 R12	part_of Arg1:T23 Arg2:T24
-R13	follows Arg1:T25 Arg2:T26
-R14	part_of Arg1:T27 Arg2:T28
