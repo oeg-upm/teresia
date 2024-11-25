@@ -1,91 +1,85 @@
-T1	term 2174 2180	 ajustes
-T2	term 533 537	 altas
-T3	term 630 636	 ·mbitos
-T4	term 1726 1732	 ·mbitos
-T5	term 4129 4132	 aÒos
-T6	term 592 595	 cabo
-T7	term 1110 1113	 caso
-T8	term 3368 3371	 caso
-T9	term 3732 3735	 caso
-T10	term 4795 4798	 caso
-T11	term 4836 4840	 causa
-T12	term 1413 1417	 copia
-T13	term 2841 2845	 copia
-T14	term 2964 2968	 copia
-T15	term 486 490	 datos
-T16	term 46 54	 electoral
-T17	term 1008 1016	 electoral
-T18	term 2715 2723	 electoral
-T19	term 3276 3284	 electoral
-T20	term 25 34	 elecciones
-T21	term 74 83	 elecciones
-T22	term 386 395	 elecciones
-T23	term 763 772	 elecciones
-T24	term 1676 1685	 elecciones
-T25	term 1906 1915	 elecciones
-T26	term 2123 2132	 elecciones
-T27	term 2644 2653	 elecciones
-T28	term 3426 3435	 elecciones
-T29	term 3948 3957	 elecciones
-T30	term 4290 4299	 elecciones
-T31	term 134 140	 empresa
-T32	term 268 274	 empresa
-T33	term 671 677	 empresa
-T34	term 933 939	 empresa
-T35	term 2412 2418	 empresa
-T36	term 2491 2497	 empresa
-T37	term 2777 2783	 empresa
-T38	term 3444 3450	 empresa
-T39	term 3637 3643	 empresa
-T40	term 3679 3685	 empresa
-T41	term 4106 4112	 empresa
-T42	term 4860 4866	 empresa
-T43	term 522 529	 empresas
-T44	term 1023 1027	 fecha
-T45	term 2041 2045	 fecha
-T46	term 3040 3044	 fecha
-T47	term 3709 3713	 fecha
-T48	term 1331 1339	 dÌa h·bil
-T49	term 1585 1587	 Ley
-T50	term 4961 4965	 lista
-T51	term 2400 2404	 lugar
-T52	term 1081 1094	 mesa electoral
-T53	term 561 566	 medida
-T54	term 111 118	 miembros
-T55	term 4083 4090	 miembros
-T56	term 4361 4368	 miembros
-T57	term 5142 5147	 n˙mero
-T58	term 686 692	 oficina
-T59	term 1237 1243	 oficina
-T60	term 1294 1300	 oficina
-T61	term 1803 1809	 oficina
-T62	term 2882 2888	 oficina
-T63	term 3186 3192	 oficina
-T64	term 5355 5361	 oficina
-T65	term 2745 2751	 omisiÛn
-T66	term 781 792	 plazo mÌnimo
-T67	term 841 857	 proceso electoral
-T68	term 1000 1016	 proceso electoral
-T69	term 2707 2723	 proceso electoral
-T70	term 3064 3080	 proceso electoral
-T71	term 3268 3284	 proceso electoral
-T72	term 3522 3538	 proceso electoral
-T73	term 1000 1006	 proceso
-T74	term 3064 3070	 proceso
-T75	term 3522 3528	 proceso
-T76	term 1874 1883	 publicidad
-T77	term 161 170	 sindicales
-T78	term 1632 1639	 Sindical
-T79	term 3622 3629	 sindical
-T80	term 5236 5241	 tiempo
-T81	term 309 315	 trabajo
-T82	term 956 962	 trabajo
-T83	term 3464 3470	 trabajo
-T84	term 3657 3663	 trabajo
-T85	term 4884 4890	 trabajo
-T86	term 4814 4820	 vacante
-T87	term 5011 5017	 vacante
-T88	term 2679 2685	 validez
-T89	term 3346 3352	 validez
-T90	term 5152 5156	 votos
-T91	term 5130 5137	 votaciÛn
+T1	concept 2201 2208	ajustes
+T2	concept 538 543	altas
+T3	concept 636 643	√°mbitos
+T4	concept 1748 1755	√°mbitos
+T5	concept 4175 4179	a√±os
+T6	concept 598 602	cabo
+T7	concept 1122 1126	caso
+T8	concept 3406 3410	caso
+T9	concept 3774 3778	caso
+T10	concept 4857 4861	caso
+T11	concept 4898 4903	causa
+T12	concept 1430 1435	copia
+T13	concept 2875 2880	copia
+T14	concept 2999 3004	copia
+T15	concept 491 496	datos
+T16	concept 47 56	electoral
+T17	concept 2149 2169	elecciones parciales
+T18	concept 26 36	elecciones
+T19	concept 77 87	elecciones
+T20	concept 391 401	elecciones
+T21	concept 770 780	elecciones
+T22	concept 1698 1708	elecciones
+T23	concept 1930 1940	elecciones
+T24	concept 2676 2686	elecciones
+T25	concept 3464 3474	elecciones
+T26	concept 3992 4002	elecciones
+T27	concept 4337 4347	elecciones
+T28	concept 137 144	empresa
+T29	concept 272 279	empresa
+T30	concept 678 685	empresa
+T31	concept 943 950	empresa
+T32	concept 2440 2447	empresa
+T33	concept 2521 2528	empresa
+T34	concept 2811 2818	empresa
+T35	concept 3482 3489	empresa
+T36	concept 3678 3685	empresa
+T37	concept 3720 3727	empresa
+T38	concept 4152 4159	empresa
+T39	concept 4922 4929	empresa
+T40	concept 527 535	empresas
+T41	concept 1033 1038	fecha
+T42	concept 2066 2071	fecha
+T43	concept 3075 3080	fecha
+T44	concept 3750 3755	fecha
+T45	concept 1346 1355	d√≠a h√°bil
+T46	concept 1603 1615	Ley Org√°nica
+T47	concept 5024 5029	lista
+T48	concept 2428 2433	lugar
+T49	concept 1092 1106	mesa electoral
+T50	concept 567 573	medida
+T51	concept 114 122	miembros
+T52	concept 4129 4137	miembros
+T53	concept 4409 4417	miembros
+T54	concept 5207 5213	n√∫mero
+T55	concept 693 708	oficina p√∫blica
+T56	concept 1250 1265	oficina p√∫blica
+T57	concept 1308 1323	oficina p√∫blica
+T58	concept 1826 1841	oficina p√∫blica
+T59	concept 2916 2931	oficina p√∫blica
+T60	concept 3222 3237	oficina p√∫blica
+T61	concept 5425 5440	oficina p√∫blica
+T62	concept 2779 2786	omisi√≥n
+T63	concept 788 800	plazo m√≠nimo
+T64	concept 850 867	proceso electoral
+T65	concept 1010 1027	proceso electoral
+T66	concept 2739 2756	proceso electoral
+T67	concept 3099 3116	proceso electoral
+T68	concept 3304 3321	proceso electoral
+T69	concept 3561 3578	proceso electoral
+T70	concept 1897 1907	publicidad
+T71	concept 164 174	sindicales
+T72	concept 1653 1661	Sindical
+T73	concept 3663 3671	sindical
+T74	concept 5302 5308	tiempo
+T75	concept 313 320	trabajo
+T76	concept 966 973	trabajo
+T77	concept 3502 3509	trabajo
+T78	concept 3698 3705	trabajo
+T79	concept 4946 4953	trabajo
+T80	concept 4876 4883	vacante
+T81	concept 5075 5082	vacante
+T82	concept 2711 2718	validez
+T83	concept 3383 3390	validez
+T84	concept 5217 5222	votos
+T85	concept 5195 5203	votaci√≥n

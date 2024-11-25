@@ -1,26 +1,25 @@
-T1	term 354 357	 caso
-T2	term 1194 1197	 caso
-T3	term 1706 1720	 cargas fiscales
-T4	term 197 202	 cuenta
-T5	term 1371 1377	 empresa
-T6	term 1685 1691	 empresa
-T7	term 266 270	 forma
-T8	term 783 788	 gastos
-T9	term 557 561	 lugar
-T10	term 2007 2011	 orden
-T11	term 1815 1819	 pacto
-T12	term 1631 1636	 puesto
-T13	term 1118 1129	 salario base
-T14	term 449 466	 salario en especie
-T15	term 615 645	 salario mínimo interprofesional
-T16	term 16 22	 salario
-T17	term 41 47	 salario
-T18	term 615 621	 salario
-T19	term 681 687	 salario
-T20	term 1085 1091	 salario
-T21	term 1884 1891	 salarios
-T22	term 1169 1174	 tiempo
-T23	term 227 242	 trabajo efectivo
-T24	term 335 341	 trabajo
-T25	term 1317 1323	 trabajo
-T26	term 1641 1647	 trabajo
+T1	concept 363 367	caso
+T2	concept 1218 1222	caso
+T3	concept 1739 1754	cargas fiscales
+T4	concept 202 208	cuenta
+T5	concept 1397 1404	empresa
+T6	concept 1716 1723	empresa
+T7	concept 273 278	forma
+T8	concept 797 803	gastos
+T9	concept 569 574	lugar
+T10	concept 2045 2050	orden
+T11	concept 1849 1854	pacto
+T12	concept 1662 1668	puesto
+T13	concept 1140 1152	salario base
+T14	concept 460 478	salario en especie
+T15	concept 627 658	salario mÃ­nimo interprofesional
+T16	concept 17 24	salario
+T17	concept 44 51	salario
+T18	concept 695 702	salario
+T19	concept 1106 1113	salario
+T20	concept 1920 1928	salarios
+T21	concept 1192 1198	tiempo
+T22	concept 233 249	trabajo efectivo
+T23	concept 343 350	trabajo
+T24	concept 1343 1350	trabajo
+T25	concept 1672 1679	trabajo

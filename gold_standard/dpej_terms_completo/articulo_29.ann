@@ -1,33 +1,34 @@
-T1	term 1507 1509	 año
-T2	term 1195 1198	 cabo
-T3	term 1893 1898	 cheque
-T4	term 1486 1489	 cosa
-T5	term 436 441	 cuenta
-T6	term 677 682	 Empleo
-T7	term 773 779	 empresa
-T8	term 1846 1852	 empresa
-T9	term 1945 1964	 entidades de crédito
-T10	term 111 115	 fecha
-T11	term 345 351	 legales
-T12	term 1547 1553	 legales
-T13	term 1876 1880	 legal
-T14	term 1623 1628	 libros
-T15	term 119 123	 lugar
-T16	term 1676 1679	 mora
-T17	term 1860 1865	 moneda
-T18	term 53 68	 pago del salario
-T19	term 1687 1702	 pago del salario
-T20	term 26 29	 pago
-T21	term 419 422	 pago
-T22	term 589 592	 pago
-T23	term 1769 1772	 pago
-T24	term 1920 1923	 pago
-T25	term 607 624	 recibo de salarios
-T26	term 551 556	 recibo
-T27	term 490 496	 salario
-T28	term 1289 1295	 salario
-T29	term 1749 1755	 salario
-T30	term 1012 1019	 salarios
-T31	term 185 190	 tiempo
-T32	term 447 453	 trabajo
-T33	term 1069 1076	 trabajos
+T1	concept 1535 1538	aÃ±o
+T2	concept 1216 1220	cabo
+T3	concept 1928 1934	cheque
+T4	concept 1513 1517	cosa
+T5	concept 446 452	cuenta
+T6	concept 689 695	Empleo
+T7	concept 788 795	empresa
+T8	concept 2030 2037	empresa
+T9	concept 1980 1989	entidades
+T10	concept 114 119	fecha
+T11	concept 352 359	legales
+T12	concept 1576 1583	legales
+T13	concept 1911 1916	legal
+T14	concept 1652 1658	libros
+T15	concept 122 127	lugar
+T16	concept 1707 1711	mora
+T17	concept 1895 1901	moneda
+T18	concept 56 72	pago del salario
+T19	concept 1718 1734	pago del salario
+T20	concept 27 31	pago
+T21	concept 428 432	pago
+T22	concept 600 604	pago
+T23	concept 1803 1807	pago
+T24	concept 1955 1959	pago
+T25	concept 562 568	recibo
+T26	concept 619 625	recibo
+T27	concept 501 508	salario
+T28	concept 1313 1320	salario
+T29	concept 1782 1789	salario
+T30	concept 629 637	salarios
+T31	concept 1030 1038	salarios
+T32	concept 189 195	tiempo
+T33	concept 457 464	trabajo
+T34	concept 1087 1095	trabajos

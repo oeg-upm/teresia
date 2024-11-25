@@ -1,100 +1,95 @@
-T1	term 4793 4809	 actas electorales
-T2	term 766 769	 acta
-T3	term 888 891	 acta
-T4	term 5826 5829	 acta
-T5	term 5997 6000	 acta
-T6	term 4269 4273	 actas
-T7	term 599 605	 afectar
-T8	term 2744 2751	 afinidad
-T9	term 1817 1822	 ·mbito
-T10	term 2217 2220	 aÒos
-T11	term 3320 3323	 aÒos
-T12	term 2548 2553	 asunto
-T13	term 3275 3280	 asunto
-T14	term 1290 1293	 caso
-T15	term 3568 3571	 caso
-T16	term 3892 3895	 caso
-T17	term 4390 4393	 caso
-T18	term 5799 5802	 caso
-T19	term 2499 2503	 casos
-T20	term 4721 4725	 copia
-T21	term 37 45	 electoral
-T22	term 78 86	 electoral
-T23	term 635 643	 electoral
-T24	term 981 989	 electoral
-T25	term 4742 4750	 electoral
-T26	term 5326 5334	 electoral
-T27	term 409 416	 elecciÛn
-T28	term 4038 4045	 elecciÛn
-T29	term 896 905	 elecciones
-T30	term 3549 3558	 elecciones
-T31	term 3617 3626	 elecciones
-T32	term 344 350	 empresa
-T33	term 1803 1809	 empresa
-T34	term 1850 1856	 empresa
-T35	term 4254 4260	 entrada
-T36	term 2606 2612	 entidad
-T37	term 2833 2841	 entidades
-T38	term 1575 1586	 equivalentes
-T39	term 1998 2002	 forma
-T40	term 2733 2737	 grado
-T41	term 1537 1554	 graduados sociales
-T42	term 1001 1005	 haber
-T43	term 4674 4678	 h·bil
-T44	term 4222 4228	 h·biles
-T45	term 5424 5430	 h·biles
-T46	term 1122 1130	 dÌa h·bil
-T47	term 4670 4678	 dÌa h·bil
-T48	term 3759 3770	 dÌas h·biles
-T49	term 4217 4228	 dÌas h·biles
-T50	term 5006 5017	 dÌas h·biles
-T51	term 5419 5430	 dÌas h·biles
-T52	term 3687 3692	 hechos
-T53	term 3841 3846	 hechos
-T54	term 4109 4113	 hecho
-T55	term 397 404	 impugnar
-T56	term 3711 3718	 impugnar
-T57	term 6053 6066	 laudo arbitral
-T58	term 5686 5690	 laudo
-T59	term 5695 5699	 laudo
-T60	term 6043 6047	 laudo
-T61	term 3176 3180	 letra
-T62	term 2910 2916	 legales
-T63	term 3398 3402	 lugar
-T64	term 4988 4992	 lugar
-T65	term 976 989	 mesa electoral
-T66	term 447 450	 mesa
-T67	term 1101 1104	 mesa
-T68	term 3881 3884	 mesa
-T69	term 2369 2374	 medida
-T70	term 1776 1783	 miembros
-T71	term 3226 3232	 natural
-T72	term 1478 1488	 neutralidad
-T73	term 1648 1652	 nivel
-T74	term 847 852	 n˙mero
-T75	term 912 917	 n˙mero
-T76	term 3476 3482	 oficina
-T77	term 4281 4287	 oficina
-T78	term 4575 4581	 oficina
-T79	term 5208 5214	 oficina
-T80	term 5872 5878	 oficina
-T81	term 5963 5969	 oficina
-T82	term 6093 6097	 orden
-T83	term 4546 4567	 plazos de prescripciÛn
-T84	term 3745 3749	 plazo
-T85	term 4198 4202	 plazo
-T86	term 5487 5493	 pruebas
-T87	term 513 529	 proceso electoral
-T88	term 627 643	 proceso electoral
-T89	term 791 807	 proceso electoral
-T90	term 5773 5789	 proceso electoral
-T91	term 627 633	 proceso
-T92	term 5773 5779	 proceso
-T93	term 2595 2602	 sociedad
-T94	term 2845 2854	 sociedades
-T95	term 3362 3365	 tipo
-T96	term 3996 4002	 trabajo
-T97	term 5579 5585	 trabajo
-T98	term 572 577	 vicios
-T99	term 4163 4170	 votaciÛn
-T100	term 5951 5958	 votaciÛn
+T1	concept 4872 4889	actas electorales
+T2	concept 780 784	acta
+T3	concept 902 906	acta
+T4	concept 5922 5926	acta
+T5	concept 6096 6100	acta
+T6	concept 4340 4345	actas
+T7	concept 611 618	afectar
+T8	concept 2791 2799	afinidad
+T9	concept 1844 1850	√°mbito
+T10	concept 2250 2254	a√±os
+T11	concept 3377 3381	a√±os
+T12	concept 2590 2596	asunto
+T13	concept 3332 3338	asunto
+T14	concept 1310 1314	caso
+T15	concept 3629 3633	caso
+T16	concept 3959 3963	caso
+T17	concept 4463 4467	caso
+T18	concept 5894 5898	caso
+T19	concept 2539 2544	casos
+T20	concept 4799 4804	copia
+T21	concept 38 47	electoral
+T22	concept 81 90	electoral
+T23	concept 4820 4829	electoral
+T24	concept 5413 5422	electoral
+T25	concept 418 426	elecci√≥n
+T26	concept 4105 4113	elecci√≥n
+T27	concept 910 920	elecciones
+T28	concept 3609 3619	elecciones
+T29	concept 3679 3689	elecciones
+T30	concept 352 359	empresa
+T31	concept 1830 1837	empresa
+T32	concept 1878 1885	empresa
+T33	concept 4325 4332	entrada
+T34	concept 2650 2657	entidad
+T35	concept 2882 2891	entidades
+T36	concept 1600 1612	equivalentes
+T37	concept 2028 2033	forma
+T38	concept 2780 2785	grado
+T39	concept 1561 1579	graduados sociales
+T40	concept 1016 1021	haber
+T41	concept 1137 1146	d√≠a h√°bil
+T42	concept 4748 4757	d√≠a h√°bil
+T43	concept 3824 3836	d√≠as h√°biles
+T44	concept 4287 4299	d√≠as h√°biles
+T45	concept 5089 5101	d√≠as h√°biles
+T46	concept 5509 5521	d√≠as h√°biles
+T47	concept 3751 3757	hechos
+T48	concept 3907 3913	hechos
+T49	concept 3751 3757	hechos
+T50	concept 3907 3913	hechos
+T51	concept 4177 4182	hecho
+T52	concept 406 414	impugnar
+T53	concept 3775 3783	impugnar
+T54	concept 6154 6168	laudo arbitral
+T55	concept 5778 5783	laudo
+T56	concept 5788 5793	laudo
+T57	concept 6143 6148	laudo
+T58	concept 3230 3235	letra
+T59	concept 2960 2967	legales
+T60	concept 3455 3460	lugar
+T61	concept 5071 5076	lugar
+T62	concept 991 1005	mesa electoral
+T63	concept 457 461	mesa
+T64	concept 1116 1120	mesa
+T65	concept 3947 3951	mesa
+T66	concept 2404 2410	medida
+T67	concept 1803 1811	miembros
+T68	concept 3283 3290	natural
+T69	concept 1500 1511	neutralidad
+T70	concept 1675 1680	nivel
+T71	concept 861 867	n√∫mero
+T72	concept 926 932	n√∫mero
+T73	concept 3535 3550	oficina p√∫blica
+T74	concept 4352 4367	oficina p√∫blica
+T75	concept 4653 4668	oficina p√∫blica
+T76	concept 5295 5310	oficina p√∫blica
+T77	concept 5969 5984	oficina p√∫blica
+T78	concept 6062 6069	oficina
+T79	concept 6194 6199	orden
+T80	concept 3810 3815	plazo
+T81	concept 4268 4273	plazo
+T82	concept 4622 4628	plazos
+T83	concept 5577 5584	pruebas
+T84	concept 524 541	proceso electoral
+T85	concept 639 656	proceso electoral
+T86	concept 805 822	proceso electoral
+T87	concept 5867 5884	proceso electoral
+T88	concept 2639 2647	sociedad
+T89	concept 2894 2904	sociedades
+T90	concept 3419 3423	tipo
+T91	concept 4063 4070	trabajo
+T92	concept 5670 5677	trabajo
+T93	concept 584 590	vicios
+T94	concept 4232 4240	votaci√≥n
+T95	concept 6049 6057	votaci√≥n

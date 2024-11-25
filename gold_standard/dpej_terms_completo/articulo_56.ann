@@ -1,35 +1,33 @@
-T1	term 286 288	 año
-T2	term 366 368	 año
-T3	term 573 576	 caso
-T4	term 1931 1935	 casos
-T5	term 2067 2072	 cuotas
-T6	term 1992 1997	 cuenta
-T7	term 1737 1743	 demanda
-T8	term 886 891	 empleo
-T9	term 237 247	 equivalente
-T10	term 1394 1398	 favor
-T11	term 529 533	 fecha
-T12	term 764 768	 fecha
-T13	term 1709 1713	 fecha
-T14	term 1915 1921	 hábiles
-T15	term 1687 1698	 días hábiles
-T16	term 1910 1921	 días hábiles
-T17	term 1195 1199	 legal
-T18	term 419 424	 opción
-T19	term 1247 1252	 opción
-T20	term 1301 1306	 opción
-T21	term 1361 1366	 opción
-T22	term 100 104	 plazo
-T23	term 646 668	 salarios de tramitación
-T24	term 1013 1035	 salarios de tramitación
-T25	term 1526 1548	 salarios de tramitación
-T26	term 2014 2036	 salarios de tramitación
-T27	term 274 280	 salario
-T28	term 726 733	 salarios
-T29	term 1526 1533	 salarios
-T30	term 2123 2130	 salarios
-T31	term 1235 1242	 sindical
-T32	term 343 348	 tiempo
-T33	term 1874 1879	 tiempo
-T34	term 488 494	 trabajo
-T35	term 559 565	 trabajo
+T1	concept 292 295	aÃ±o
+T2	concept 373 376	aÃ±o
+T3	concept 585 589	caso
+T4	concept 1966 1971	casos
+T5	concept 2105 2111	cuotas
+T6	concept 2029 2035	cuenta
+T7	concept 1769 1776	demanda
+T8	concept 900 906	empleo
+T9	concept 243 254	equivalente
+T10	concept 1421 1426	favor
+T11	concept 539 544	fecha
+T12	concept 778 783	fecha
+T13	concept 1741 1746	fecha
+T14	concept 1719 1731	dÃ­as hÃ¡biles
+T15	concept 1944 1956	dÃ­as hÃ¡biles
+T16	concept 1216 1221	legal
+T17	concept 428 434	opciÃ³n
+T18	concept 1269 1275	opciÃ³n
+T19	concept 1324 1330	opciÃ³n
+T20	concept 1386 1392	opciÃ³n
+T21	concept 105 110	plazo
+T22	concept 280 287	salario
+T23	concept 659 667	salarios
+T24	concept 740 748	salarios
+T25	concept 1029 1037	salarios
+T26	concept 1556 1564	salarios
+T27	concept 2051 2059	salarios
+T28	concept 2161 2169	salarios
+T29	concept 1256 1264	sindical
+T30	concept 350 356	tiempo
+T31	concept 1908 1914	tiempo
+T32	concept 497 504	trabajo
+T33	concept 569 576	trabajo

@@ -1,61 +1,58 @@
-T1	term 375 378	 acta
-T2	term 1094 1097	 acta
-T3	term 1104 1107	 acta
-T4	term 1320 1323	 caso
-T5	term 1412 1415	 caso
-T6	term 1688 1691	 caso
-T7	term 2937 2942	 Contra
-T8	term 537 545	 electoral
-T9	term 765 773	 electoral
-T10	term 84 93	 elecciones
-T11	term 482 491	 elecciones
-T12	term 569 578	 elecciones
-T13	term 1365 1374	 elecciones
-T14	term 1420 1429	 elecciones
-T15	term 1922 1931	 elecciones
-T16	term 51 57	 empresa
-T17	term 607 613	 empresa
-T18	term 405 409	 fecha
-T19	term 505 509	 fecha
-T20	term 948 952	 fecha
-T21	term 1070 1074	 fecha
-T22	term 1352 1356	 fecha
-T23	term 2403 2407	 haber
-T24	term 3060 3068	 día hábil
-T25	term 2103 2107	 lista
-T26	term 2449 2453	 lista
-T27	term 2468 2472	 lista
-T28	term 2784 2788	 lista
-T29	term 324 337	 mesa electoral
-T30	term 671 684	 mesa electoral
-T31	term 760 773	 mesa electoral
-T32	term 1981 1994	 mesa electoral
-T33	term 28 31	 mesa
-T34	term 204 207	 mesa
-T35	term 671 674	 mesa
-T36	term 1231 1234	 mesa
-T37	term 1560 1563	 mesa
-T38	term 1696 1699	 mesa
-T39	term 1895 1898	 mesa
-T40	term 2250 2253	 mesa
-T41	term 2547 2550	 mesa
-T42	term 3039 3042	 mesa
-T43	term 1935 1942	 miembros
-T44	term 2600 2607	 miembros
-T45	term 1159 1167	 naturales
-T46	term 918 923	 número
-T47	term 2590 2595	 número
-T48	term 1129 1133	 plazo
-T49	term 2423 2427	 plazo
-T50	term 2892 2896	 plazo
-T51	term 1174 1179	 plazos
-T52	term 529 545	 proceso electoral
-T53	term 817 823	 público
-T54	term 106 112	 término
-T55	term 630 636	 término
-T56	term 2205 2210	 tiempo
-T57	term 1445 1451	 trabajo
-T58	term 1079 1086	 votación
-T59	term 1584 1591	 votación
-T60	term 1773 1780	 votación
-T61	term 3112 3119	 votación
+T1	concept 385 389	acta
+T2	concept 1135 1139	acta
+T3	concept 1887 1891	acta
+T4	concept 1354 1358	caso
+T5	concept 1448 1452	caso
+T6	concept 1726 1730	caso
+T7	concept 2994 3000	Contra
+T8	concept 87 97	elecciones
+T9	concept 493 503	elecciones
+T10	concept 583 593	elecciones
+T11	concept 1400 1410	elecciones
+T12	concept 1456 1466	elecciones
+T13	concept 1964 1974	elecciones
+T14	concept 54 61	empresa
+T15	concept 2000 2007	empresa
+T16	concept 416 421	fecha
+T17	concept 517 522	fecha
+T18	concept 973 978	fecha
+T19	concept 1099 1104	fecha
+T20	concept 1387 1392	fecha
+T21	concept 2451 2456	haber
+T22	concept 3118 3127	dÃ­a hÃ¡bil
+T23	concept 2148 2153	lista
+T24	concept 2497 2502	lista
+T25	concept 2517 2522	lista
+T26	concept 2838 2843	lista
+T27	concept 333 347	mesa electoral
+T28	concept 688 702	mesa electoral
+T29	concept 781 795	mesa electoral
+T30	concept 2024 2038	mesa electoral
+T31	concept 29 33	mesa
+T32	concept 210 214	mesa
+T33	concept 1263 1267	mesa
+T34	concept 1597 1601	mesa
+T35	concept 1734 1738	mesa
+T36	concept 1935 1939	mesa
+T37	concept 2297 2301	mesa
+T38	concept 2598 2602	mesa
+T39	concept 3097 3101	mesa
+T40	concept 1977 1985	miembros
+T41	concept 2653 2661	miembros
+T42	concept 1190 1199	naturales
+T43	concept 943 949	nÃºmero
+T44	concept 2643 2649	nÃºmero
+T45	concept 1160 1165	plazo
+T46	concept 2471 2476	plazo
+T47	concept 2947 2952	plazo
+T48	concept 1206 1212	plazos
+T49	concept 541 558	proceso electoral
+T50	concept 840 847	pÃºblico
+T51	concept 111 118	tÃ©rmino
+T52	concept 646 653	tÃ©rmino
+T53	concept 2251 2257	tiempo
+T54	concept 1481 1488	trabajo
+T55	concept 1108 1116	votaciÃ³n
+T56	concept 1621 1629	votaciÃ³n
+T57	concept 1811 1819	votaciÃ³n
+T58	concept 3171 3179	votaciÃ³n

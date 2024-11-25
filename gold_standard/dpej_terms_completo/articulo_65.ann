@@ -1,33 +1,32 @@
-T1	term 184 189	 ámbito
-T2	term 681 686	 ámbito
-T3	term 327 330	 caso
-T4	term 577 580	 caso
-T5	term 2093 2097	 casos
-T6	term 1254 1258	 datos
-T7	term 381 395	 deber de sigilo
-T8	term 759 773	 deber de sigilo
-T9	term 361 365	 deber
-T10	term 115 121	 ejercer
-T11	term 1298 1303	 empleo
-T12	term 70 76	 empresa
-T13	term 282 288	 empresa
-T14	term 473 479	 empresa
-T15	term 624 630	 empresa
-T16	term 902 908	 empresa
-T17	term 1129 1135	 empresa
-T18	term 1311 1317	 empresa
-T19	term 1361 1367	 empresa
-T20	term 1611 1613	 Ley
-T21	term 1968 1970	 Ley
-T22	term 1591 1595	 libro
-T23	term 852 856	 lugar
-T24	term 243 250	 miembros
-T25	term 259 266	 miembros
-T26	term 2009 2013	 Orden
-T27	term 93 108	 órgano colegiado
-T28	term 1511 1517	 proceso
-T29	term 1716 1722	 proceso
-T30	term 589 592	 tipo
-T31	term 1577 1582	 título
-T32	term 497 503	 trabajo
-T33	term 1153 1159	 trabajo
+T1	concept 189 195	Ã¡mbito
+T2	concept 698 704	Ã¡mbito
+T3	concept 337 341	caso
+T4	concept 593 597	caso
+T5	concept 2130 2135	casos
+T6	concept 1279 1284	datos
+T7	concept 393 408	deber de sigilo
+T8	concept 777 792	deber de sigilo
+T9	concept 120 136	ejercer acciones
+T10	concept 1323 1329	empleo
+T11	concept 73 80	empresa
+T12	concept 290 297	empresa
+T13	concept 486 493	empresa
+T14	concept 641 648	empresa
+T15	concept 923 930	empresa
+T16	concept 1153 1160	empresa
+T17	concept 1336 1343	empresa
+T18	concept 1388 1395	empresa
+T19	concept 1638 1641	Ley
+T20	concept 2001 2004	Ley
+T21	concept 1618 1623	libro
+T22	concept 870 875	lugar
+T23	concept 249 257	miembros
+T24	concept 267 275	miembros
+T25	concept 2042 2047	Orden
+T26	concept 97 113	Ã³rgano colegiado
+T27	concept 1538 1570	proceso de conflictos colectivos
+T28	concept 1748 1755	proceso
+T29	concept 606 610	tipo
+T30	concept 1604 1610	tÃ­tulo
+T31	concept 510 517	trabajo
+T32	concept 1177 1184	trabajo

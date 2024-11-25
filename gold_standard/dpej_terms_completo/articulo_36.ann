@@ -1,76 +1,71 @@
-T1	term 3327 3331	 aptos
-T2	term 2320 2323	 bien
-T3	term 3377 3380	 cabo
-T4	term 3445 3448	 caso
-T5	term 2032 2037	 cuenta
-T6	term 3562 3567	 cuenta
-T7	term 3856 3861	 cuenta
-T8	term 1891 1898	 empresas
-T9	term 2175 2182	 empresas
-T10	term 2738 2744	 empresa
-T11	term 2750 2756	 empresa
-T12	term 3283 3289	 empresa
-T13	term 2687 2697	 equivalente
-T14	term 288 292	 forma
-T15	term 3582 3588	 general
-T16	term 3174 3178	 hecho
-T17	term 330 336	 jornada
-T18	term 721 727	 jornada
-T19	term 852 858	 jornada
-T20	term 3923 3929	 jornada
-T21	term 105 107	 ley
-T22	term 3465 3467	 ley
-T23	term 2999 3001	 Ley
-T24	term 2594 2598	 nivel
-T25	term 3072 3077	 normas
-T26	term 173 177	 noche
-T27	term 2103 2107	 noche
-T28	term 1904 1911	 procesos
-T29	term 1684 1690	 puestos
-T30	term 3241 3246	 puesto
-T31	term 3346 3351	 puesto
-T32	term 3045 3061	 Riesgos Laborales
-T33	term 1215 1221	 riesgos
-T34	term 2042 2049	 rotación
-T35	term 1245 1249	 salud
-T36	term 2628 2632	 salud
-T37	term 2873 2877	 salud
-T38	term 3157 3161	 salud
-T39	term 3773 3777	 salud
-T40	term 1380 1386	 salario
-T41	term 2971 2978	 términos
-T42	term 3709 3725	 tipo de actividad
-T43	term 12 27	 Trabajo nocturno
-T44	term 122 137	 trabajo nocturno
-T45	term 262 277	 trabajo nocturno
-T46	term 1113 1128	 trabajo nocturno
-T47	term 1269 1284	 trabajo nocturno
-T48	term 2907 2922	 trabajo nocturno
-T49	term 3186 3201	 trabajo nocturno
-T50	term 29 35	 trabajo
-T51	term 57 63	 trabajo
-T52	term 262 268	 trabajo
-T53	term 341 347	 trabajo
-T54	term 739 745	 trabajo
-T55	term 863 869	 trabajo
-T56	term 1269 1275	 trabajo
-T57	term 1428 1434	 trabajo
-T58	term 1517 1523	 trabajo
-T59	term 1555 1561	 trabajo
-T60	term 1603 1609	 trabajo
-T61	term 1695 1701	 trabajo
-T62	term 1997 2003	 trabajo
-T63	term 2234 2240	 trabajo
-T64	term 2677 2683	 trabajo
-T65	term 3186 3192	 trabajo
-T66	term 3251 3257	 trabajo
-T67	term 3356 3362	 trabajo
-T68	term 3502 3508	 trabajo
-T69	term 3608 3614	 trabajo
-T70	term 3664 3670	 trabajo
-T71	term 3934 3940	 trabajo
-T72	term 39 44	 turnos
-T73	term 372 377	 turnos
-T74	term 1565 1570	 turnos
-T75	term 2012 2017	 turnos
-T76	term 2256 2261	 turnos
+T1	concept 3371 3376	aptos
+T2	concept 2350 2354	bien
+T3	concept 3422 3426	cabo
+T4	concept 3491 3495	caso
+T5	concept 2058 2064	cuenta
+T6	concept 3611 3617	cuenta
+T7	concept 3907 3913	cuenta
+T8	concept 1916 1924	empresas
+T9	concept 2203 2211	empresas
+T10	concept 2772 2779	empresa
+T11	concept 3327 3334	empresa
+T12	concept 3565 3572	empresa
+T13	concept 2721 2732	equivalente
+T14	concept 1598 1603	forma
+T15	concept 3631 3638	general
+T16	concept 3218 3223	hecho
+T17	concept 337 344	jornada
+T18	concept 732 739	jornada
+T19	concept 864 871	jornada
+T20	concept 3974 3981	jornada
+T21	concept 109 112	ley
+T22	concept 3512 3515	ley
+T23	concept 3038 3041	Ley
+T24	concept 2627 2632	nivel
+T25	concept 3115 3121	normas
+T26	concept 178 183	noche
+T27	concept 2129 2134	noche
+T28	concept 1929 1937	procesos
+T29	concept 1705 1712	puestos
+T30	concept 3285 3291	puesto
+T31	concept 3391 3397	puesto
+T32	concept 3087 3104	Riesgos Laborales
+T33	concept 1231 1238	riesgos
+T34	concept 2068 2076	rotaciÃ³n
+T35	concept 1261 1266	salud
+T36	concept 2661 2666	salud
+T37	concept 2908 2913	salud
+T38	concept 3201 3206	salud
+T39	concept 3823 3828	salud
+T40	concept 1399 1406	salario
+T41	concept 3010 3018	tÃ©rminos
+T42	concept 3759 3776	tipo de actividad
+T43	concept 31 47	trabajo a turnos
+T44	concept 1576 1592	trabajo a turnos
+T45	concept 13 29	Trabajo nocturno
+T46	concept 127 143	trabajo nocturno
+T47	concept 268 284	trabajo nocturno
+T48	concept 1128 1144	trabajo nocturno
+T49	concept 1287 1303	trabajo nocturno
+T50	concept 2943 2959	trabajo nocturno
+T51	concept 3230 3246	trabajo nocturno
+T52	concept 59 66	trabajo
+T53	concept 348 355	trabajo
+T54	concept 750 757	trabajo
+T55	concept 875 882	trabajo
+T56	concept 1447 1454	trabajo
+T57	concept 1536 1543	trabajo
+T58	concept 1624 1631	trabajo
+T59	concept 1716 1723	trabajo
+T60	concept 2023 2030	trabajo
+T61	concept 2262 2269	trabajo
+T62	concept 2710 2717	trabajo
+T63	concept 3295 3302	trabajo
+T64	concept 3401 3408	trabajo
+T65	concept 3551 3558	trabajo
+T66	concept 3657 3664	trabajo
+T67	concept 3714 3721	trabajo
+T68	concept 3985 3992	trabajo
+T69	concept 2038 2044	turnos
+T70	concept 2284 2290	turnos
+T71	concept 2584 2590	turnos

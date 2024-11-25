@@ -1,8 +1,9 @@
-T1	term 117 124	 empresas
-T2	term 406 412	 empresa
-T3	term 577 581	 fecha
-T4	term 780 784	 haber
-T5	term 589 594	 hechos
-T6	term 256 262	 legales
-T7	term 771 775	 multa
-T8	term 798 819	 Plazos de prescripción
+T1	concept 120 128	empresas
+T2	concept 412 419	empresa
+T3	concept 585 590	fecha
+T4	concept 790 795	haber
+T5	concept 597 603	hechos
+T6	concept 597 603	hechos
+T7	concept 260 267	legales
+T8	concept 781 786	multa
+T9	concept 809 815	Plazos

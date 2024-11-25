@@ -1,36 +1,33 @@
-T1	term 124 129	 ámbito
-T2	term 422 427	 ámbito
-T3	term 522 527	 ámbito
-T4	term 952 957	 ámbito
-T5	term 1928 1933	 ámbito
-T6	term 2028 2033	 ámbito
-T7	term 2359 2364	 ámbito
-T8	term 2452 2457	 ámbito
-T9	term 330 336	 empresa
-T10	term 688 694	 empresa
-T11	term 965 971	 empresa
-T12	term 1151 1157	 empresa
-T13	term 1444 1451	 empresas
-T14	term 1473 1480	 empresas
-T15	term 1435 1439	 grupo
-T16	term 2570 2576	 jornada
-T17	term 1128 1130	 ley
-T18	term 1166 1172	 medidas
-T19	term 165 173	 negociado
-T20	term 1768 1776	 negociado
-T21	term 2143 2151	 negociado
-T22	term 2631 2636	 normas
-T23	term 146 150	 pacto
-T24	term 1749 1753	 pacto
-T25	term 2499 2504	 prueba
-T26	term 2674 2690	 riesgos laborales
-T27	term 583 594	 salario base
-T28	term 977 983	 sistema
-T29	term 840 845	 tiempo
-T30	term 787 793	 trabajo
-T31	term 850 856	 trabajo
-T32	term 872 878	 trabajo
-T33	term 2594 2600	 trabajo
-T34	term 797 802	 turnos
-T35	term 882 887	 turnos
-T36	term 1214 1217	 vida
+T1	concept 129 135	Ã¡mbito
+T2	concept 433 439	Ã¡mbito
+T3	concept 535 541	Ã¡mbito
+T4	concept 975 981	Ã¡mbito
+T5	concept 1968 1974	Ã¡mbito
+T6	concept 2069 2075	Ã¡mbito
+T7	concept 2403 2409	Ã¡mbito
+T8	concept 2498 2504	Ã¡mbito
+T9	concept 340 347	empresa
+T10	concept 704 711	empresa
+T11	concept 988 995	empresa
+T12	concept 1176 1183	empresa
+T13	concept 1505 1513	empresas
+T14	concept 1467 1484	grupo de empresas
+T15	concept 2619 2626	jornada
+T16	concept 1153 1156	ley
+T17	concept 1193 1200	medidas
+T18	concept 171 180	negociado
+T19	concept 1805 1814	negociado
+T20	concept 2418 2427	negociado
+T21	concept 2682 2688	normas
+T22	concept 151 156	pacto
+T23	concept 1786 1791	pacto
+T24	concept 2545 2551	prueba
+T25	concept 2725 2742	riesgos laborales
+T26	concept 598 610	salario base
+T27	concept 1000 1007	sistema
+T28	concept 860 866	tiempo
+T29	concept 805 821	trabajo a turnos
+T30	concept 893 909	trabajo a turnos
+T31	concept 870 877	trabajo
+T32	concept 2643 2650	trabajo
+T33	concept 1241 1245	vida
