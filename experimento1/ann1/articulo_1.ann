@@ -32,8 +32,6 @@ T31	concept 2996 2999	ley
 T32	concept 764 771	legales
 T33	concept 2834 2839	lugar
 T34	concept 1157 1164	miembro
-T35	concept 757 763	normas
-T36	concept 977 983	normas
 T37	concept 2793 2799	normas
 T38	concept 1846 1857	operaciones
 T39	concept 1846 1857	operaciones
@@ -60,3 +58,34 @@ T59	concept 3023 3030	trabajo
 T60	concept 3160 3167	trabajo
 T61	concept 3208 3215	trabajo
 T62	concept 1372 1380	trabajos
+T63	term 116 137	servicios retribuidos
+T64	term 116 154	servicios retribuidos por cuenta ajena
+T65	term 142 154	cuenta ajena
+T66	term 250 259	empleador
+T67	term 262 272	empresario
+T68	term 403 426	prestación de servicios
+T69	term 695 716	funcionarios públicos
+T70	term 494 514	personas contratadas
+T71	term 757 771	normas legales
+T35	concept 757 763	normas
+T72	term 902 916	sector público
+T73	concept 977 999	normas administrativas
+T36	term 1512 1523	asalariados
+T74	term 1570 1580	familiares
+T75	term 1642 1649	cónyuge
+T76	term 1655 1668	descendientes
+T77	term 1670 1682	ascendientes
+T78	term 1691 1719	parientes por consanguinidad
+T79	term 1784 1792	adopción
+T80	term 1846 1869	operaciones mercantiles
+T81	term 2284 2314	autorizaciones administrativas
+T82	term 2600 2628	legislación laboral española
+T83	term 2675 2697	trabajadores españoles
+T84	term 2803 2816	orden público
+T85	term 2834 2850	lugar de trabajo
+T86	term 2895 2914	derechos económicos
+T87	term 2954 2972	territorio español
+T88	term 3013 3030	centro de trabajo
+T89	term 3034 3051	unidad productiva
+T90	term 3121 3138	autoridad laboral
+T91	term 3147 3167	actividad de trabajo
