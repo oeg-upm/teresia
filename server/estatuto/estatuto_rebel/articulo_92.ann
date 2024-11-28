@@ -36,178 +36,162 @@ T35	concept 4483 4502	más representativas
 T36	concept 4427 4455	organizaciones empresariales
 T37	concept 4690 4719	Disposición adicional séptima
 T38	concept 4721 4746	Regulación de condiciones
-T39	org 316 355	Ministerio de Empleo y Seguridad Social
-T40	org 4968 4976	Gobierno
-T41	media 5237 5284	Disposición adicional octava. Código de Trabajo
-T42	concept 5267 5284	Código de Trabajo
-T43	media 5267 5284	Código de Trabajo
-T44	concept 5722 5755	disposiciones generales laborales
-T45	media 5925 5977	Comisión Consultiva Nacional de Convenios Colectivos
-T46	media 5957 5977	Convenios Colectivos
-T47	media 5925 5977	Comisión Consultiva Nacional de Convenios Colectivos
-T48	org 316 355	Ministerio de Empleo y Seguridad Social
-T49	concept 6442 6462	convenios colectivos
-T50	concept 163 181	convenio colectivo
-T51	concept 6760 6800	Observatorio de la Negociación Colectiva
-T52	concept 1263 1284	negociación colectiva
-T53	concept 4787 4809	condiciones de trabajo
-T54	concept 6442 6462	convenios colectivos
-T55	media 5925 5977	Comisión Consultiva Nacional de Convenios Colectivos
-T56	concept 5957 5977	Convenios Colectivos
-T57	media 5925 5977	Comisión Consultiva Nacional de Convenios Colectivos
-T58	concept 257 274	autoridad laboral
-T59	media 5925 5977	Comisión Consultiva Nacional de Convenios Colectivos
-T60	concept 5427 5430	ley
-T61	concept 8885 8913	edad ordinaria de jubilación
-T62	concept 6442 6462	convenios colectivos
-T63	concept 9072 9096	edad legal de jubilación
-T64	concept 339 355	Seguridad Social
-T65	concept 9379 9410	pensión ordinaria de jubilación
-T66	concept 339 355	Seguridad Social
-T67	concept 9632 9652	contratos temporales
-T68	concept 1706 1714	contrato
-T69	concept 3936 3960	capacidad representativa
-T70	concept 5116 5141	organizaciones sindicales
-T71	concept 392 413	comunidades autónomas
-T72	concept 3849 3856	estatal
-T73	concept 10240 10249	duodécima
-T74	concept 1364 1385	Disposición adicional
-T75	concept 10753 10788	Disposición adicional decimotercera
-T76	concept 10790 10824	Solución no judicial de conflictos
-T77	concept 11049 11103	procedimientos no judiciales de solución de conflictos
-T78	concept 949 962	procedimiento
-T79	concept 2313 2317	obra
-T80	concept 1706 1714	contrato
-T81	concept 11707 11715	servicio
-T82	concept 1706 1714	contrato
-T83	concept 12046 12091	organismos públicos vinculados o dependientes
+T39	concept 6442 6462	convenios colectivos
+T40	concept 163 181	convenio colectivo
+T41	concept 6760 6800	Observatorio de la Negociación Colectiva
+T42	concept 1263 1284	negociación colectiva
+T43	concept 4787 4809	condiciones de trabajo
+T44	concept 6442 6462	convenios colectivos
+T45	concept 8885 8913	edad ordinaria de jubilación
+T46	concept 6442 6462	convenios colectivos
+T47	concept 9072 9096	edad legal de jubilación
+T48	concept 339 355	Seguridad Social
+T49	concept 9379 9410	pensión ordinaria de jubilación
+T50	concept 339 355	Seguridad Social
+T51	concept 9632 9652	contratos temporales
+T52	concept 1706 1714	contrato
+T53	concept 3936 3960	capacidad representativa
+T54	concept 5116 5141	organizaciones sindicales
+T55	concept 392 413	comunidades autónomas
+T56	concept 3849 3856	estatal
+T57	concept 10240 10249	duodécima
+T58	concept 1364 1385	Disposición adicional
+T59	concept 10753 10788	Disposición adicional decimotercera
+T60	concept 10790 10824	Solución no judicial de conflictos
+T61	concept 11049 11103	procedimientos no judiciales de solución de conflictos
+T62	concept 949 962	procedimiento
+T63	concept 2313 2317	obra
+T64	concept 1706 1714	contrato
+T65	concept 11707 11715	servicio
+T66	concept 1706 1714	contrato
+T67	concept 12046 12091	organismos públicos vinculados o dependientes
+T68	concept 3780 3805	Administraciones Públicas
+T69	concept 12653 12685	extinción de la relación laboral
+T70	concept 12207 12221	empleo público
+T71	concept 9001 9020	contrato de trabajo
+T72	concept 11687 11728	contrato por obra o servicio determinados
+T73	concept 12046 12065	organismos públicos
+T74	concept 13690 13718	entidades de derecho público
+T75	concept 13673 13681	agencias
+T76	concept 13690 13718	entidades de derecho público
+T77	concept 14056 14089	Disposición adicional decimosexta
+T78	concept 14106 14113	despido
+T79	concept 14183 14197	sector público
+T80	concept 3780 3805	Administraciones Públicas
+T81	concept 6360 6365	entes
+T82	concept 3780 3805	Administraciones Públicas
+T83	concept 3826 3836	organismos
 T84	concept 3780 3805	Administraciones Públicas
-T85	concept 12653 12685	extinción de la relación laboral
-T86	concept 12207 12221	empleo público
-T87	concept 9001 9020	contrato de trabajo
-T88	concept 11687 11728	contrato por obra o servicio determinados
-T89	concept 12046 12065	organismos públicos
-T90	concept 13690 13718	entidades de derecho público
-T91	concept 13673 13681	agencias
-T92	concept 13690 13718	entidades de derecho público
-T93	concept 14056 14089	Disposición adicional decimosexta
-T94	concept 14106 14113	despido
-T95	concept 14183 14197	sector público
-T96	concept 3780 3805	Administraciones Públicas
-T97	concept 6360 6365	entes
-T98	concept 3780 3805	Administraciones Públicas
-T99	concept 3826 3836	organismos
-T100	concept 3780 3805	Administraciones Públicas
-T101	concept 3814 3823	entidades
-T102	concept 3780 3805	Administraciones Públicas
-T103	concept 12172 12178	mérito
-T104	concept 12162 12170	igualdad
-T105	concept 16077 16112	Disposición adicional decimoséptima
-T106	concept 16151 16171	reducción de jornada
-T107	concept 3780 3805	Administraciones Públicas
-T108	concept 12046 12065	organismos públicos
-T109	concept 16998 17032	Disposición adicional decimonovena
-T110	concept 17045 17060	indemnizaciones
-T111	concept 16151 16171	reducción de jornada
-T112	concept 17045 17060	indemnizaciones
-T113	concept 17788 17818	Disposición adicional vigésima
-T114	concept 17820 17840	Contratos formativos
-T115	concept 17916 17938	contratos en prácticas
-T116	concept 339 355	Seguridad Social
-T117	concept 18326 18346	cuotas empresariales
-T118	concept 339 355	Seguridad Social
-T119	concept 1706 1750	contratos para la formación y el aprendizaje
-T120	concept 1706 1715	contratos
-T121	concept 18867 18904	Disposición adicional vigesimoprimera
-T122	concept 18921 18944	trabajadores excedentes
-T123	concept 19021 19064	beneficiarios de prestaciones por desempleo
-T124	concept 339 355	Seguridad Social
-T125	concept 19205 19215	excedencia
-T126	concept 592 602	trabajador
-T127	concept 19205 19215	excedencia
-T128	concept 592 602	trabajador
-T129	concept 19205 19215	excedencia
-T130	concept 592 602	trabajador
-T131	concept 2338 2349	artículo 15
-T132	concept 5427 5430	ley
-T133	concept 20282 20319	Disposición adicional vigesimosegunda
-T134	concept 20321 20413	Permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia
-T135	concept 20694 20738	Ley del Estatuto Básico del Empleado Público
-T136	concept 14489 14513	Real Decreto Legislativo
-T137	concept 21011 21042	Disposición transitoria primera
-T138	concept 5427 5430	ley
-T139	concept 21146 21207	contratos celebrados antes de la entrada en vigor de esta ley
-T140	concept 1706 1715	contratos
-T141	concept 21420 21451	Disposición transitoria segunda
-T142	concept 1616 1660	Contratos para la formación y el aprendizaje
-T143	concept 21971 21989	edad de jubilación
-T144	concept 8903 8913	jubilación
-T145	concept 22150 22180	Disposición transitoria cuarta
-T146	concept 2272 2293	Negociación colectiva
-T147	concept 1706 1714	contrato
-T148	concept 1706 1714	contrato
-T149	concept 23926 23955	Disposición transitoria sexta
-T150	concept 23957 23978	Horas complementarias
-T151	concept 24805 24810	parto
-T152	concept 24322 24343	permiso de paternidad
-T153	concept 24805 24810	parto
-T154	concept 24322 24343	permiso de paternidad
+T85	concept 3814 3823	entidades
+T86	concept 3780 3805	Administraciones Públicas
+T87	concept 12172 12178	mérito
+T88	concept 12162 12170	igualdad
+T89	concept 16077 16112	Disposición adicional decimoséptima
+T90	concept 16151 16171	reducción de jornada
+T91	concept 3780 3805	Administraciones Públicas
+T92	concept 12046 12065	organismos públicos
+T93	concept 16998 17032	Disposición adicional decimonovena
+T94	concept 17045 17060	indemnizaciones
+T95	concept 16151 16171	reducción de jornada
+T96	concept 17045 17060	indemnizaciones
+T97	concept 17788 17818	Disposición adicional vigésima
+T98	concept 17820 17840	Contratos formativos
+T99	concept 17916 17938	contratos en prácticas
+T100	concept 339 355	Seguridad Social
+T101	concept 18326 18346	cuotas empresariales
+T102	concept 339 355	Seguridad Social
+T103	concept 1706 1750	contratos para la formación y el aprendizaje
+T104	concept 1706 1715	contratos
+T105	concept 18867 18904	Disposición adicional vigesimoprimera
+T106	concept 18921 18944	trabajadores excedentes
+T107	concept 19021 19064	beneficiarios de prestaciones por desempleo
+T108	concept 339 355	Seguridad Social
+T109	concept 19205 19215	excedencia
+T110	concept 592 602	trabajador
+T111	concept 19205 19215	excedencia
+T112	concept 592 602	trabajador
+T113	concept 19205 19215	excedencia
+T114	concept 592 602	trabajador
+T115	concept 2338 2349	artículo 15
+T116	concept 5427 5430	ley
+T117	concept 20282 20319	Disposición adicional vigesimosegunda
+T118	concept 20321 20413	Permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia
+T119	concept 20694 20738	Ley del Estatuto Básico del Empleado Público
+T120	concept 14489 14513	Real Decreto Legislativo
+T121	concept 21011 21042	Disposición transitoria primera
+T122	concept 5427 5430	ley
+T123	concept 21146 21207	contratos celebrados antes de la entrada en vigor de esta ley
+T124	concept 1706 1715	contratos
+T125	concept 21420 21451	Disposición transitoria segunda
+T126	concept 1616 1660	Contratos para la formación y el aprendizaje
+T127	concept 21971 21989	edad de jubilación
+T128	concept 8903 8913	jubilación
+T129	concept 22150 22180	Disposición transitoria cuarta
+T130	concept 2272 2293	Negociación colectiva
+T131	concept 1706 1714	contrato
+T132	concept 1706 1714	contrato
+T133	concept 23926 23955	Disposición transitoria sexta
+T134	concept 23957 23978	Horas complementarias
+T135	concept 24805 24810	parto
+T136	concept 24322 24343	permiso de paternidad
+T137	concept 24805 24810	parto
+T138	concept 24322 24343	permiso de paternidad
+T139	concept 2073 2081	adopción
+T140	concept 24322 24343	permiso de paternidad
+T141	concept 2073 2081	adopción
+T142	concept 24322 24343	permiso de paternidad
+T143	concept 24822 24874	guarda con fines de adopción o acogimiento múltiples
+T144	concept 24322 24343	permiso de paternidad
+T145	concept 24822 24874	guarda con fines de adopción o acogimiento múltiples
+T146	concept 24322 24343	permiso de paternidad
+T147	concept 2073 2081	adopción
+T148	concept 24382 24424	guarda con fines de adopción o acogimiento
+T149	concept 24382 24424	guarda con fines de adopción o acogimiento
+T150	concept 2073 2081	adopción
+T151	concept 24382 24424	guarda con fines de adopción o acogimiento
+T152	concept 2073 2081	adopción
+T153	concept 24382 24424	guarda con fines de adopción o acogimiento
+T154	concept 2073 2081	adopción
 T155	concept 2073 2081	adopción
-T156	concept 24322 24343	permiso de paternidad
+T156	concept 24382 24424	guarda con fines de adopción o acogimiento
 T157	concept 2073 2081	adopción
-T158	concept 24322 24343	permiso de paternidad
-T159	concept 24822 24874	guarda con fines de adopción o acogimiento múltiples
-T160	concept 24322 24343	permiso de paternidad
-T161	concept 24822 24874	guarda con fines de adopción o acogimiento múltiples
-T162	concept 24322 24343	permiso de paternidad
+T158	concept 24382 24424	guarda con fines de adopción o acogimiento
+T159	concept 24382 24424	guarda con fines de adopción o acogimiento
+T160	concept 2073 2081	adopción
+T161	concept 24382 24424	guarda con fines de adopción o acogimiento
+T162	concept 24382 24424	guarda con fines de adopción o acogimiento
 T163	concept 2073 2081	adopción
 T164	concept 24382 24424	guarda con fines de adopción o acogimiento
-T165	concept 24382 24424	guarda con fines de adopción o acogimiento
-T166	concept 2073 2081	adopción
-T167	concept 24382 24424	guarda con fines de adopción o acogimiento
-T168	concept 2073 2081	adopción
-T169	concept 24382 24424	guarda con fines de adopción o acogimiento
-T170	concept 2073 2081	adopción
-T171	concept 2073 2081	adopción
-T172	concept 24382 24424	guarda con fines de adopción o acogimiento
-T173	concept 2073 2081	adopción
-T174	concept 24382 24424	guarda con fines de adopción o acogimiento
-T175	concept 24382 24424	guarda con fines de adopción o acogimiento
-T176	concept 2073 2081	adopción
+T165	concept 2073 2081	adopción
+T166	concept 24382 24424	guarda con fines de adopción o acogimiento
+T167	concept 25830 25847	contrato temporal
+T168	concept 2513 2526	indemnización
+T169	concept 8885 8913	edad ordinaria de jubilación
+T170	concept 6442 6462	convenios colectivos
+T171	concept 2228 2238	(Derogado)
+T172	concept 2229 2237	Derogado
+T173	concept 27804 27824	despido improcedente
+T174	concept 29131 29152	despido disciplinario
+T175	concept 29252 29285	Disposición transitoria duodécima
+T176	concept 29287 29310	Salarios de tramitación
 T177	concept 24382 24424	guarda con fines de adopción o acogimiento
-T178	concept 24382 24424	guarda con fines de adopción o acogimiento
-T179	concept 2073 2081	adopción
+T178	concept 24372 24424	adopción, guarda con fines de adopción o acogimiento
+T179	concept 24372 24424	adopción, guarda con fines de adopción o acogimiento
 T180	concept 24382 24424	guarda con fines de adopción o acogimiento
-T181	concept 2073 2081	adopción
-T182	concept 24382 24424	guarda con fines de adopción o acogimiento
-T183	concept 25830 25847	contrato temporal
-T184	concept 2513 2526	indemnización
-T185	concept 8885 8913	edad ordinaria de jubilación
-T186	concept 6442 6462	convenios colectivos
-T187	concept 2228 2238	(Derogado)
-T188	concept 2229 2237	Derogado
-T189	concept 27804 27824	despido improcedente
-T190	concept 29131 29152	despido disciplinario
-T191	concept 29252 29285	Disposición transitoria duodécima
-T192	concept 29287 29310	Salarios de tramitación
-T193	concept 24382 24424	guarda con fines de adopción o acogimiento
-T194	concept 24372 24424	adopción, guarda con fines de adopción o acogimiento
-T195	concept 24372 24424	adopción, guarda con fines de adopción o acogimiento
-T196	concept 24382 24424	guarda con fines de adopción o acogimiento
-T197	concept 34967 35005	reincorporación de la madre al trabajo
-T198	concept 2011 2031	incapacidad temporal
-T199	concept 9001 9020	contrato de trabajo
-T200	concept 35386 35405	régimen transitorio
-T201	concept 36036 36053	Disposición final
-T202	concept 36063 36082	Título competencial
-T203	concept 36345 36370	Disposición final segunda
-T204	concept 36372 36396	Desarrollo reglamentario
-T205	concept 5116 5141	organizaciones sindicales
-T206	concept 3965 3991	asociaciones empresariales
-T207	concept 14106 14113	despido
-T208	concept 18130 18142	contingencia
-T209	concept 37426 37446	Incapacidad Temporal
-T210	concept 37350 37370	prestación económica
+T181	concept 34967 35005	reincorporación de la madre al trabajo
+T182	concept 2011 2031	incapacidad temporal
+T183	concept 9001 9020	contrato de trabajo
+T184	concept 35386 35405	régimen transitorio
+T185	concept 36036 36053	Disposición final
+T186	concept 36063 36082	Título competencial
+T187	concept 36345 36370	Disposición final segunda
+T188	concept 36372 36396	Desarrollo reglamentario
+T189	concept 5116 5141	organizaciones sindicales
+T190	concept 3965 3991	asociaciones empresariales
+T191	concept 14106 14113	despido
+T192	concept 18130 18142	contingencia
+T193	concept 37426 37446	Incapacidad Temporal
+T194	concept 37350 37370	prestación económica
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
@@ -227,89 +211,81 @@ R16	instance_of Arg1:T31 Arg2:T32
 R17	subclass_of Arg1:T33 Arg2:T34
 R18	subclass_of Arg1:T35 Arg2:T36
 R19	instance_of Arg1:T37 Arg2:T38
-R20	part_of Arg1:T39 Arg2:T40
-R21	part_of Arg1:T41 Arg2:T42
-R22	instance_of Arg1:T43 Arg2:T44
+R20	subclass_of Arg1:T39 Arg2:T40
+R21	field_of_work Arg1:T41 Arg2:T42
+R22	part_of Arg1:T43 Arg2:T44
 R23	part_of Arg1:T45 Arg2:T46
-R24	part_of Arg1:T47 Arg2:T48
-R25	subclass_of Arg1:T49 Arg2:T50
-R26	field_of_work Arg1:T51 Arg2:T52
-R27	part_of Arg1:T53 Arg2:T54
-R28	field_of_work Arg1:T55 Arg2:T56
+R24	facet_of Arg1:T47 Arg2:T48
+R25	part_of Arg1:T49 Arg2:T50
+R26	subclass_of Arg1:T51 Arg2:T52
+R27	facet_of Arg1:T53 Arg2:T54
+R28	part_of Arg1:T55 Arg2:T56
 R29	instance_of Arg1:T57 Arg2:T58
 R30	instance_of Arg1:T59 Arg2:T60
-R31	part_of Arg1:T61 Arg2:T62
-R32	facet_of Arg1:T63 Arg2:T64
+R31	subclass_of Arg1:T61 Arg2:T62
+R32	part_of Arg1:T63 Arg2:T64
 R33	part_of Arg1:T65 Arg2:T66
 R34	subclass_of Arg1:T67 Arg2:T68
 R35	facet_of Arg1:T69 Arg2:T70
-R36	part_of Arg1:T71 Arg2:T72
-R37	instance_of Arg1:T73 Arg2:T74
-R38	instance_of Arg1:T75 Arg2:T76
+R36	subclass_of Arg1:T71 Arg2:T72
+R37	subclass_of Arg1:T73 Arg2:T74
+R38	subclass_of Arg1:T75 Arg2:T76
 R39	subclass_of Arg1:T77 Arg2:T78
-R40	part_of Arg1:T79 Arg2:T80
+R40	subclass_of Arg1:T79 Arg2:T80
 R41	part_of Arg1:T81 Arg2:T82
-R42	subclass_of Arg1:T83 Arg2:T84
-R43	facet_of Arg1:T85 Arg2:T86
-R44	subclass_of Arg1:T87 Arg2:T88
-R45	subclass_of Arg1:T89 Arg2:T90
+R42	part_of Arg1:T83 Arg2:T84
+R43	part_of Arg1:T85 Arg2:T86
+R44	part_of Arg1:T87 Arg2:T88
+R45	instance_of Arg1:T89 Arg2:T90
 R46	subclass_of Arg1:T91 Arg2:T92
 R47	subclass_of Arg1:T93 Arg2:T94
 R48	subclass_of Arg1:T95 Arg2:T96
-R49	part_of Arg1:T97 Arg2:T98
+R49	instance_of Arg1:T97 Arg2:T98
 R50	part_of Arg1:T99 Arg2:T100
 R51	part_of Arg1:T101 Arg2:T102
-R52	part_of Arg1:T103 Arg2:T104
-R53	instance_of Arg1:T105 Arg2:T106
-R54	subclass_of Arg1:T107 Arg2:T108
+R52	subclass_of Arg1:T103 Arg2:T104
+R53	subclass_of Arg1:T105 Arg2:T106
+R54	part_of Arg1:T107 Arg2:T108
 R55	subclass_of Arg1:T109 Arg2:T110
 R56	subclass_of Arg1:T111 Arg2:T112
-R57	instance_of Arg1:T113 Arg2:T114
+R57	subclass_of Arg1:T113 Arg2:T114
 R58	part_of Arg1:T115 Arg2:T116
-R59	part_of Arg1:T117 Arg2:T118
-R60	subclass_of Arg1:T119 Arg2:T120
-R61	subclass_of Arg1:T121 Arg2:T122
-R62	part_of Arg1:T123 Arg2:T124
-R63	subclass_of Arg1:T125 Arg2:T126
-R64	subclass_of Arg1:T127 Arg2:T128
-R65	subclass_of Arg1:T129 Arg2:T130
-R66	part_of Arg1:T131 Arg2:T132
-R67	subclass_of Arg1:T133 Arg2:T134
-R68	instance_of Arg1:T135 Arg2:T136
-R69	instance_of Arg1:T137 Arg2:T138
-R70	subclass_of Arg1:T139 Arg2:T140
+R59	subclass_of Arg1:T117 Arg2:T118
+R60	instance_of Arg1:T119 Arg2:T120
+R61	instance_of Arg1:T121 Arg2:T122
+R62	subclass_of Arg1:T123 Arg2:T124
+R63	part_of Arg1:T125 Arg2:T126
+R64	facet_of Arg1:T127 Arg2:T128
+R65	part_of Arg1:T129 Arg2:T130
+R66	subclass_of Arg1:T131 Arg2:T132
+R67	instance_of Arg1:T133 Arg2:T134
+R68	part_of Arg1:T135 Arg2:T136
+R69	part_of Arg1:T137 Arg2:T138
+R70	part_of Arg1:T139 Arg2:T140
 R71	part_of Arg1:T141 Arg2:T142
-R72	facet_of Arg1:T143 Arg2:T144
+R72	part_of Arg1:T143 Arg2:T144
 R73	part_of Arg1:T145 Arg2:T146
-R74	subclass_of Arg1:T147 Arg2:T148
-R75	instance_of Arg1:T149 Arg2:T150
-R76	part_of Arg1:T151 Arg2:T152
-R77	part_of Arg1:T153 Arg2:T154
-R78	part_of Arg1:T155 Arg2:T156
-R79	part_of Arg1:T157 Arg2:T158
-R80	part_of Arg1:T159 Arg2:T160
-R81	part_of Arg1:T161 Arg2:T162
+R74	different_from Arg1:T147 Arg2:T148
+R75	different_from Arg1:T149 Arg2:T150
+R76	different_from Arg1:T151 Arg2:T152
+R77	different_from Arg1:T153 Arg2:T154
+R78	different_from Arg1:T155 Arg2:T156
+R79	different_from Arg1:T157 Arg2:T158
+R80	different_from Arg1:T159 Arg2:T160
+R81	different_from Arg1:T161 Arg2:T162
 R82	different_from Arg1:T163 Arg2:T164
 R83	different_from Arg1:T165 Arg2:T166
-R84	different_from Arg1:T167 Arg2:T168
-R85	different_from Arg1:T169 Arg2:T170
-R86	different_from Arg1:T171 Arg2:T172
-R87	different_from Arg1:T173 Arg2:T174
-R88	different_from Arg1:T175 Arg2:T176
+R84	subclass_of Arg1:T167 Arg2:T168
+R85	part_of Arg1:T169 Arg2:T170
+R86	has_cause Arg1:T171 Arg2:T172
+R87	subclass_of Arg1:T173 Arg2:T174
+R88	instance_of Arg1:T175 Arg2:T176
 R89	different_from Arg1:T177 Arg2:T178
 R90	different_from Arg1:T179 Arg2:T180
-R91	different_from Arg1:T181 Arg2:T182
-R92	subclass_of Arg1:T183 Arg2:T184
+R91	subclass_of Arg1:T181 Arg2:T182
+R92	part_of Arg1:T183 Arg2:T184
 R93	part_of Arg1:T185 Arg2:T186
-R94	has_cause Arg1:T187 Arg2:T188
+R94	part_of Arg1:T187 Arg2:T188
 R95	subclass_of Arg1:T189 Arg2:T190
 R96	instance_of Arg1:T191 Arg2:T192
-R97	different_from Arg1:T193 Arg2:T194
-R98	different_from Arg1:T195 Arg2:T196
-R99	subclass_of Arg1:T197 Arg2:T198
-R100	part_of Arg1:T199 Arg2:T200
-R101	part_of Arg1:T201 Arg2:T202
-R102	part_of Arg1:T203 Arg2:T204
-R103	subclass_of Arg1:T205 Arg2:T206
-R104	instance_of Arg1:T207 Arg2:T208
-R105	subclass_of Arg1:T209 Arg2:T210
+R97	subclass_of Arg1:T193 Arg2:T194

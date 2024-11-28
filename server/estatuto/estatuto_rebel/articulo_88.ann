@@ -1,27 +1,21 @@
-T1	media 0 20	Comisión negociadora
-T2	concept 9 20	negociadora
-T3	concept 522 543	delegados de personal
-T4	concept 501 519	comités de empresa
+T1	concept 522 543	delegados de personal
+T2	concept 501 519	comités de empresa
+T3	concept 80 100	comisión negociadora
+T4	concept 835 860	organizaciones sindicales
 T5	concept 80 100	comisión negociadora
-T6	concept 835 860	organizaciones sindicales
-T7	concept 80 100	comisión negociadora
-T8	concept 349 375	asociaciones empresariales
-T9	concept 362 375	empresariales
-T10	concept 835 860	organizaciones sindicales
-T11	concept 80 88	comisión
-T12	concept 1628 1647	partes negociadoras
-T13	concept 1843 1864	convenios sectoriales
-T14	concept 634 642	convenio
-T15	media 2127 2161	sesión constitutiva de la comisión
-T16	media 80 100	comisión negociadora
-T17	concept 2350 2363	Procedimiento
-T18	concept 2350 2363	Procedimiento
-R1	facet_of Arg1:T1 Arg2:T2
-R2	part_of Arg1:T3 Arg2:T4
+T6	concept 349 375	asociaciones empresariales
+T7	concept 362 375	empresariales
+T8	concept 835 860	organizaciones sindicales
+T9	concept 80 88	comisión
+T10	concept 1628 1647	partes negociadoras
+T11	concept 1843 1864	convenios sectoriales
+T12	concept 634 642	convenio
+T13	concept 2350 2363	Procedimiento
+T14	concept 2350 2363	Procedimiento
+R1	part_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
 R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
-R8	part_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
+R7	part_of Arg1:T13 Arg2:T14

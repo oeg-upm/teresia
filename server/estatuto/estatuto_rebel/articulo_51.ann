@@ -60,16 +60,14 @@ T59	concept 11656 11672	parte interesada
 T60	concept 303 310	empresa
 T61	concept 1573 1599	extinción de los contratos
 T62	concept 11111 11123	fuerza mayor
-T63	media 12451 12477	Fondo de Garantía Salarial
-T64	concept 4688 4705	autoridad laboral
-T65	concept 77 94	despido colectivo
-T66	concept 13614 13634	plan de recolocación
-T67	concept 14151 14177	servicio público de empleo
-T68	concept 4688 4705	autoridad laboral
-T69	concept 14601 14612	reclamación
-T70	concept 14601 14612	reclamación
-T71	concept 14846 14866	aportación económica
-T72	concept 14870 14884	Tesoro Público
+T63	concept 77 94	despido colectivo
+T64	concept 13614 13634	plan de recolocación
+T65	concept 14151 14177	servicio público de empleo
+T66	concept 4688 4705	autoridad laboral
+T67	concept 14601 14612	reclamación
+T68	concept 14601 14612	reclamación
+T69	concept 14846 14866	aportación económica
+T70	concept 14870 14884	Tesoro Público
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
@@ -101,8 +99,7 @@ R28	has_cause Arg1:T55 Arg2:T56
 R29	has_cause Arg1:T57 Arg2:T58
 R30	part_of Arg1:T59 Arg2:T60
 R31	has_cause Arg1:T61 Arg2:T62
-R32	instance_of Arg1:T63 Arg2:T64
+R32	subclass_of Arg1:T63 Arg2:T64
 R33	subclass_of Arg1:T65 Arg2:T66
 R34	subclass_of Arg1:T67 Arg2:T68
-R35	subclass_of Arg1:T69 Arg2:T70
-R36	part_of Arg1:T71 Arg2:T72
+R35	part_of Arg1:T69 Arg2:T70

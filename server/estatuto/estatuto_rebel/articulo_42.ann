@@ -4,33 +4,30 @@ T3	concept 989 1003	subcontratista
 T4	concept 212 223	contratista
 T5	concept 989 1003	subcontratista
 T6	concept 212 223	contratista
-T7	media 416 433	Tesorería General
-T8	concept 275 291	Seguridad Social
+T7	concept 989 1003	subcontratista
+T8	concept 212 223	contratista
 T9	concept 989 1003	subcontratista
 T10	concept 212 223	contratista
-T11	concept 989 1003	subcontratista
-T12	concept 212 223	contratista
+T11	concept 3 11	contrata
+T12	concept 2699 2708	ejecución
 T13	concept 3 11	contrata
-T14	concept 2699 2708	ejecución
-T15	concept 3 11	contrata
+T14	concept 2819 2836	centro de trabajo
+T15	concept 2265 2276	subcontrata
 T16	concept 2819 2836	centro de trabajo
-T17	concept 2265 2276	subcontrata
-T18	concept 2819 2836	centro de trabajo
-T19	concept 2950 2981	prevención de riesgos laborales
-T20	concept 2908 2919	actividades
-T21	concept 989 1003	subcontratista
-T22	concept 212 223	contratista
-T23	concept 3734 3768	representantes de los trabajadores
-T24	concept 3679 3693	representación
+T17	concept 2950 2981	prevención de riesgos laborales
+T18	concept 2908 2919	actividades
+T19	concept 989 1003	subcontratista
+T20	concept 212 223	contratista
+T21	concept 3734 3768	representantes de los trabajadores
+T22	concept 3679 3693	representación
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
-R4	part_of Arg1:T7 Arg2:T8
+R4	subclass_of Arg1:T7 Arg2:T8
 R5	subclass_of Arg1:T9 Arg2:T10
 R6	subclass_of Arg1:T11 Arg2:T12
-R7	subclass_of Arg1:T13 Arg2:T14
+R7	part_of Arg1:T13 Arg2:T14
 R8	part_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
+R9	subclass_of Arg1:T17 Arg2:T18
 R10	subclass_of Arg1:T19 Arg2:T20
 R11	subclass_of Arg1:T21 Arg2:T22
-R12	subclass_of Arg1:T23 Arg2:T24

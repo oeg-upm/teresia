@@ -1,54 +1,33 @@
-T1	concept 363 421	texto refundido de la Ley del Estatuto de los Trabajadores
-T2	media 25 36	Ley 20/2014
-T3	concept 878 888	sindicales
-T4	concept 891 904	empresariales
+T1	concept 878 888	sindicales
+T2	concept 891 904	empresariales
+T3	concept 385 421	Ley del Estatuto de los Trabajadores
+T4	concept 267 282	texto refundido
 T5	concept 385 421	Ley del Estatuto de los Trabajadores
-T6	concept 267 282	texto refundido
-T7	concept 385 421	Ley del Estatuto de los Trabajadores
-T8	concept 25 28	Ley
-T9	concept 1395 1424	Disposición derogatoria única
-T10	concept 1426 1446	Derogación normativa
-T11	concept 1790 1818	disposición adicional cuarta
-T12	media 1864 1875	Ley 12/2001
-T13	concept 1824 1857	disposición transitoria a segunda
-T14	media 1864 1875	Ley 12/2001
-T15	concept 2010 2039	disposición adicional séptima
-T16	media 2083 2094	Ley 43/2006
-T17	concept 2045 2076	disposición transitoria segunda
-T18	media 2083 2094	Ley 43/2006
-T19	concept 2219 2245	disposiciones transitorias
-T20	concept 2481 2497	Real Decreto-ley
-T21	concept 2774 2814	disposiciones adicionales sexta y novena
-T22	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
-T23	concept 2820 2861	disposiciones transitorias quinta y sexta
-T24	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
-T25	concept 2883 2913	disposición transitoria novena
-T26	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
-T27	misc 3865 3874	FELIPE R.
-T28	concept 3872 3874	R.
-T29	concept 1020 1057	Ministra de Empleo y Seguridad Social
-T30	concept 1020 1028	Ministra
-T31	media 3940 3998	TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES
-T32	media 3962 3998	LEY DEL ESTATUTO DE LOS TRABAJADORES
-T33	concept 4056 4079	Disposiciones generales
-T34	concept 4056 4079	Disposiciones generales
-T35	concept 4092 4108	Ámbito y fuentes
-T36	concept 4080 4087	Sección
-R1	part_of Arg1:T1 Arg2:T2
-R2	subclass_of Arg1:T3 Arg2:T4
+T6	concept 25 28	Ley
+T7	concept 1395 1424	Disposición derogatoria única
+T8	concept 1426 1446	Derogación normativa
+T9	concept 2219 2245	disposiciones transitorias
+T10	concept 2481 2497	Real Decreto-ley
+T11	concept 2774 2814	disposiciones adicionales sexta y novena
+T12	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
+T13	concept 2820 2861	disposiciones transitorias quinta y sexta
+T14	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
+T15	concept 2883 2913	disposición transitoria novena
+T16	concept 2975 3057	Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral
+T17	concept 1020 1057	Ministra de Empleo y Seguridad Social
+T18	concept 1020 1028	Ministra
+T19	concept 4056 4079	Disposiciones generales
+T20	concept 4056 4079	Disposiciones generales
+T21	concept 4092 4108	Ámbito y fuentes
+T22	concept 4080 4087	Sección
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	instance_of Arg1:T3 Arg2:T4
 R3	instance_of Arg1:T5 Arg2:T6
 R4	instance_of Arg1:T7 Arg2:T8
-R5	instance_of Arg1:T9 Arg2:T10
+R5	part_of Arg1:T9 Arg2:T10
 R6	part_of Arg1:T11 Arg2:T12
 R7	part_of Arg1:T13 Arg2:T14
 R8	part_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
-R10	part_of Arg1:T19 Arg2:T20
-R11	part_of Arg1:T21 Arg2:T22
-R12	part_of Arg1:T23 Arg2:T24
-R13	part_of Arg1:T25 Arg2:T26
-R14	instance_of Arg1:T27 Arg2:T28
-R15	subclass_of Arg1:T29 Arg2:T30
-R16	part_of Arg1:T31 Arg2:T32
-R17	subclass_of Arg1:T33 Arg2:T34
-R18	instance_of Arg1:T35 Arg2:T36
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	subclass_of Arg1:T19 Arg2:T20
+R11	instance_of Arg1:T21 Arg2:T22

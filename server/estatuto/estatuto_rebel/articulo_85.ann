@@ -14,12 +14,10 @@ T13	concept 817 823	partes
 T14	concept 2396 2406	conciertan
 T15	concept 2454 2462	temporal
 T16	concept 2412 2427	Ámbito personal
-T17	concept 2625 2638	artículo 82.3
-T18	media 2625 2638	artículo 82.3
-T19	concept 2851 2859	denuncia
-T20	concept 50 58	convenio
-T21	concept 3298 3320	sistemas no judiciales
-T22	concept 3324 3346	solución de conflictos
+T17	concept 2851 2859	denuncia
+T18	concept 50 58	convenio
+T19	concept 3298 3320	sistemas no judiciales
+T20	concept 3324 3346	solución de conflictos
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	part_of Arg1:T3 Arg2:T4
 R3	subclass_of Arg1:T5 Arg2:T6
@@ -29,5 +27,4 @@ R6	part_of Arg1:T11 Arg2:T12
 R7	part_of Arg1:T13 Arg2:T14
 R8	subclass_of Arg1:T15 Arg2:T16
 R9	part_of Arg1:T17 Arg2:T18
-R10	part_of Arg1:T19 Arg2:T20
-R11	subclass_of Arg1:T21 Arg2:T22
+R10	subclass_of Arg1:T19 Arg2:T20

@@ -1,54 +1,30 @@
-T1	media 3 29	Fondo de Garantía Salarial
-T2	concept 12 29	Garantía Salarial
-T3	media 3 29	Fondo de Garantía Salarial
-T4	org 96 135	Ministerio de Empleo y Seguridad Social
-T5	concept 849 870	pagas extraordinarias
-T6	concept 264 271	salario
-T7	concept 1213 1222	extinción
-T8	concept 1230 1238	contrato
-T9	media 3 29	Fondo de Garantía Salarial
-T10	concept 3 8	Fondo
-T11	concept 2151 2159	créditos
-T12	concept 3067 3084	deudas de la masa
-T13	concept 3067 3084	deudas de la masa
-T14	concept 2151 2159	créditos
-T15	concept 849 870	pagas extraordinarias
-T16	concept 769 800	salario mínimo interprofesional
-T17	concept 1763 1776	indemnización
-T18	concept 3 8	Fondo
-T19	concept 4197 4222	instrucción de expediente
-T20	concept 3 8	Fondo
-T21	media 3 29	Fondo de Garantía Salarial
-T22	concept 1285 1288	ley
-T23	media 3 29	Fondo de Garantía Salarial
-T24	concept 1285 1288	ley
-T25	concept 119 135	Seguridad Social
-T26	concept 5101 5110	desempleo
-T27	concept 1040 1055	indemnizaciones
-T28	concept 264 271	salario
-T29	concept 5899 5918	acciones ejecutivas
-T30	concept 5954 5977	procedimiento concursal
-T31	media 3 29	Fondo de Garantía Salarial
-T32	concept 6152 6162	arbitrales
-T33	media 3 29	Fondo de Garantía Salarial
-T34	concept 7501 7524	institución de garantía
-T35	media 3 29	Fondo de Garantía Salarial
-T36	concept 7501 7524	institución de garantía
-R1	instance_of Arg1:T1 Arg2:T2
-R2	part_of Arg1:T3 Arg2:T4
-R3	subclass_of Arg1:T5 Arg2:T6
-R4	subclass_of Arg1:T7 Arg2:T8
-R5	instance_of Arg1:T9 Arg2:T10
-R6	different_from Arg1:T11 Arg2:T12
-R7	different_from Arg1:T13 Arg2:T14
-R8	part_of Arg1:T15 Arg2:T16
-R9	part_of Arg1:T17 Arg2:T18
-R10	facet_of Arg1:T19 Arg2:T20
-R11	instance_of Arg1:T21 Arg2:T22
-R12	instance_of Arg1:T23 Arg2:T24
-R13	facet_of Arg1:T25 Arg2:T26
-R14	subclass_of Arg1:T27 Arg2:T28
-R15	part_of Arg1:T29 Arg2:T30
-R16	instance_of Arg1:T31 Arg2:T32
-R17	instance_of Arg1:T33 Arg2:T34
-R18	instance_of Arg1:T35 Arg2:T36
+T1	concept 849 870	pagas extraordinarias
+T2	concept 264 271	salario
+T3	concept 1213 1222	extinción
+T4	concept 1230 1238	contrato
+T5	concept 2151 2159	créditos
+T6	concept 3067 3084	deudas de la masa
+T7	concept 3067 3084	deudas de la masa
+T8	concept 2151 2159	créditos
+T9	concept 849 870	pagas extraordinarias
+T10	concept 769 800	salario mínimo interprofesional
+T11	concept 1763 1776	indemnización
+T12	concept 3 8	Fondo
+T13	concept 4197 4222	instrucción de expediente
+T14	concept 3 8	Fondo
+T15	concept 119 135	Seguridad Social
+T16	concept 5101 5110	desempleo
+T17	concept 1040 1055	indemnizaciones
+T18	concept 264 271	salario
+T19	concept 5899 5918	acciones ejecutivas
+T20	concept 5954 5977	procedimiento concursal
+R1	subclass_of Arg1:T1 Arg2:T2
+R2	subclass_of Arg1:T3 Arg2:T4
+R3	different_from Arg1:T5 Arg2:T6
+R4	different_from Arg1:T7 Arg2:T8
+R5	part_of Arg1:T9 Arg2:T10
+R6	part_of Arg1:T11 Arg2:T12
+R7	facet_of Arg1:T13 Arg2:T14
+R8	facet_of Arg1:T15 Arg2:T16
+R9	subclass_of Arg1:T17 Arg2:T18
+R10	part_of Arg1:T19 Arg2:T20

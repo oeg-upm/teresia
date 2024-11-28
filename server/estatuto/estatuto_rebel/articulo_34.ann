@@ -16,20 +16,18 @@ T15	concept 2185 2192	minutos
 T16	concept 189 193	hora
 T17	concept 2044 2058	jornada diaria
 T18	concept 1678 1695	tiempo de trabajo
-T19	org 2954 3007	Ministerio de Trabajo, Migraciones y Seguridad Social
-T20	org 2906 2914	Gobierno
-T21	concept 3466 3514	duración y distribución de la jornada de trabajo
-T22	concept 1678 1695	tiempo de trabajo
-T23	concept 30 37	jornada
-T24	concept 4876 4897	modalidad contractual
-T25	concept 5150 5158	permisos
-T26	concept 3423 3430	derecho
-T27	concept 5713 5733	flexibilidad horaria
-T28	concept 5597 5604	horario
-T29	concept 5803 5821	acuerdo de empresa
-T30	concept 4060 4081	negociación colectiva
-T31	concept 6185 6225	Inspección de Trabajo y Seguridad Social
-T32	concept 2991 3007	Seguridad Social
+T19	concept 3466 3514	duración y distribución de la jornada de trabajo
+T20	concept 1678 1695	tiempo de trabajo
+T21	concept 30 37	jornada
+T22	concept 4876 4897	modalidad contractual
+T23	concept 5150 5158	permisos
+T24	concept 3423 3430	derecho
+T25	concept 5713 5733	flexibilidad horaria
+T26	concept 5597 5604	horario
+T27	concept 5803 5821	acuerdo de empresa
+T28	concept 4060 4081	negociación colectiva
+T29	concept 6185 6225	Inspección de Trabajo y Seguridad Social
+T30	concept 2991 3007	Seguridad Social
 R1	subclass_of Arg1:T1 Arg2:T2
 R2	subclass_of Arg1:T3 Arg2:T4
 R3	part_of Arg1:T5 Arg2:T6
@@ -39,10 +37,9 @@ R6	subclass_of Arg1:T11 Arg2:T12
 R7	part_of Arg1:T13 Arg2:T14
 R8	part_of Arg1:T15 Arg2:T16
 R9	subclass_of Arg1:T17 Arg2:T18
-R10	part_of Arg1:T19 Arg2:T20
-R11	facet_of Arg1:T21 Arg2:T22
-R12	instance_of Arg1:T23 Arg2:T24
+R10	facet_of Arg1:T19 Arg2:T20
+R11	instance_of Arg1:T21 Arg2:T22
+R12	subclass_of Arg1:T23 Arg2:T24
 R13	subclass_of Arg1:T25 Arg2:T26
-R14	subclass_of Arg1:T27 Arg2:T28
-R15	part_of Arg1:T29 Arg2:T30
-R16	field_of_work Arg1:T31 Arg2:T32
+R14	part_of Arg1:T27 Arg2:T28
+R15	field_of_work Arg1:T29 Arg2:T30
