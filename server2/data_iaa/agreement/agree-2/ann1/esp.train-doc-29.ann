@@ -1,0 +1,14 @@
+T1	PER 4 17	Caius Apicius
+T2	LOC 18 24	Madrid
+T3	ORG 34 37	EFE
+T4	PER 361 397	Nobel de Literatura Camilo José Cela
+T5	PER 563 567	Cela
+T6	PER 720 724	Cela
+T7	PER 1074 1078	Cela
+T8	PER 1081 1096	Antonio Machado
+T9	MISC 2376 2387	Viejo Mundo
+T10	LOC 2498 2504	Europa
+R1	WORK_FOR Arg1:T1 Arg2:T3	
+R2	LIVES_IN Arg1:T1 Arg2:T2	
+T11	PER 2457 2466	españoles
+R3	LIVES_IN Arg1:T11 Arg2:T10	
