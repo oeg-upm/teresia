@@ -1,0 +1,315 @@
+T1 Term-DPJ 1042 1046 caso
+T2 Term-DPJ 204 209 cargo
+T3 Term-DPJ 335 340 cargo
+T4 Term-DPJ 1365 1379 consanguinidad
+T5 Term-DPJ 1227 1238 negociación
+T6 Term-DPJ 252 259 trabajo
+T7 Term-DPJ 401 408 empresa
+T8 Term-DPJ 6 16 excedencia
+T9 Term-DPJ 485 495 excedencia
+T10 Term-DPJ 703 713 excedencia
+T11 Term-DPJ 778 788 excedencia
+T12 Term-DPJ 1132 1142 excedencia
+T13 Term-DPJ 1587 1597 excedencia
+T14 Term-DPJ 1681 1686 forma
+T15 Term-DPJ 1054 1073 resolución judicial
+T16 Term-DPJ 1562 1571 actividad
+T17 Term-DPJ 1022 1032 nacimiento
+T18 Term-DPJ 971 982 acogimiento
+T19 Term-DPJ 485 506 excedencia voluntaria
+T20 Term-DPJ 703 724 excedencia voluntaria
+T21 Term-DPJ 1227 1248 negociación colectiva
+T22 Term-DPJ 1625 1633 apartado
+T23 Term-DPJ 100 106 puesto
+T24 Term-DPJ 1054 1064 resolución
+T25 Term-DPJ 187 195 elección
+T26 Term-DPJ 1472 1476 edad
+T27 Term-DPJ 415 418 año
+T28 Term-DPJ 563 567 años
+T29 Term-DPJ 668 672 años
+T30 Term-DPJ 820 824 años
+T31 Term-DPJ 1174 1178 años
+T32 Term-DPJ 1013 1018 fecha
+T33 Term-TC 204 217 cargo público
+T34 Term-TC 335 348 cargo público
+T35 Term-TC 324 328 cese
+T36 Term-TC 83 95 conservación
+T37 Term-TC 1587 1597 excedencia
+T38 Term-TC 485 495 excedencia
+T39 Term-TC 778 788 excedencia
+T40 Term-TC 703 713 excedencia
+T41 Term-TC 6 16 excedencia
+T42 Term-TC 1132 1142 excedencia
+T43 Term-TC 1227 1248 negociación colectiva
+T44 Term-TC 264 273 reingreso
+T45 Term-TC 1054 1064 resolución
+T46 Term-TC 514 519 plazo
+T47 Term-TC 908 916 adopción
+T48 Term-TC 960 968 adopción
+T49 Term-TC 1386 1394 afinidad
+T50 Term-TC 1365 1379 consanguinidad
+T51 Term-TC 1503 1515 discapacidad
+T52 Term-TC 1472 1476 edad
+T53 Term-TC 1681 1686 forma
+T54 Term-TC 1356 1361 grado
+T55 Term-TC 940 946 guarda
+T56 Term-TC 1022 1032 nacimiento
+T57 Term-TC 1305 1320 pareja de hecho
+T58 Term-TC 1436 1451 pareja de hecho
+T59 Term-TC 1478 1487 accidente
+T60 Term-TC 126 136 antigüedad
+T61 Term-TC 384 394 antigüedad
+T62 Term-TC 238 248 asistencia
+T63 Term-TC 841 848 cuidado
+T64 Term-TC 1283 1290 cuidado
+T65 Term-TC 204 209 cargo
+T66 Term-TC 335 340 cargo
+T67 Term-TC 401 408 empresa
+T68 Term-TC 703 724 excedencia voluntaria
+T69 Term-TC 485 506 excedencia voluntaria
+T70 Term-TC 252 259 trabajo
+T71 Term-TC 1651 1659 duración
+T72 Term-TC 1147 1155 duración
+T73 Term-TC 792 800 duración
+T74 Term-TC 1208 1216 duración
+T75 Term-TC 143 151 vigencia
+T76 Term-TC 425 432 derecho
+T77 Term-TC 70 77 derecho
+T78 Term-TC 1108 1115 derecho
+T79 Term-TC 754 761 derecho
+T80 Term-TC 1714 1721 derecho
+T81 Term-TC 574 581 derecho
+T82 Term-TC 1227 1238 negociación
+T83 Term-TC 1054 1073 resolución judicial
+T84 Term-TC 971 982 acogimiento
+T85 Term-TC 1562 1571 actividad
+T86 Term-TC 112 119 cómputo
+T87 Term-TC 1295 1302 cónyuge
+T88 Term-TC 1714 1732 derecho individual
+T89 Term-TC 187 195 elección
+T90 Term-TC 523 528 menor
+T91 Term-TC 1159 1167 superior
+T92 Term-TC 804 812 superior
+T93 Term-TC 1446 1451 hecho
+T94 Term-TC 1315 1320 hecho
+T95 Term-DV 204 217 cargo público
+T96 Term-DV 335 348 cargo público
+T97 Term-DV 1478 1487 accidente
+T98 Term-DV 359 363 baja
+T99 Term-DV 633 637 baja
+T100 Term-DV 736 740 baja
+T101 Term-DV 1257 1261 baja
+T102 Term-DV 1743 1747 baja
+T103 Term-DV 1758 1762 baja
+T104 Term-DV 1506 1510 capa
+T105 Term-DV 1506 1515 capacidad
+T106 Term-DV 204 209 cargo
+T107 Term-DV 335 340 cargo
+T108 Term-DV 156 164 conceder
+T109 Term-DV 65 68 dar
+T110 Term-DV 274 278 debe
+T111 Term-DV 70 77 derecho
+T112 Term-DV 425 432 derecho
+T113 Term-DV 574 581 derecho
+T114 Term-DV 754 761 derecho
+T115 Term-DV 1108 1115 derecho
+T116 Term-DV 1714 1721 derecho
+T117 Term-DV 132 136 edad
+T118 Term-DV 390 394 edad
+T119 Term-DV 1472 1476 edad
+T120 Term-DV 1496 1500 edad
+T121 Term-DV 187 195 elección
+T122 Term-DV 401 408 empresa
+T123 Term-DV 1330 1337 familia
+T124 Term-DV 1408 1415 familia
+T125 Term-DV 1013 1015 fe
+T126 Term-DV 1492 1494 fe
+T127 Term-DV 1681 1686 forma
+T128 Term-DV 1315 1320 hecho
+T129 Term-DV 1446 1451 hecho
+T130 Term-DV 857 861 hijo
+T131 Term-DV 1065 1073 judicial
+T132 Term-DV 1022 1032 nacimiento
+T133 Term-DV 178 184 nación
+T134 Term-DV 1227 1238 negociación
+T135 Term-DV 196 200 para
+T136 Term-DV 825 829 para
+T137 Term-DV 1267 1271 para
+T138 Term-DV 514 519 plazo
+T139 Term-DV 458 469 posibilidad
+T140 Term-DV 210 217 público
+T141 Term-DV 341 348 público
+T142 Term-DV 831 837 tender
+T143 Term-DV 1273 1279 tender
+T144 Term-DV 356 366 trabajador
+T145 Term-DV 630 640 trabajador
+T146 Term-DV 733 743 trabajador
+T147 Term-DV 1254 1264 trabajador
+T148 Term-DV 1740 1750 trabajador
+T149 Term-DV 1755 1765 trabajador
+T150 Term-DV 1525 1529 vale
+T151 Term-DV 1726 1732 vidual
+T152 Term-DV 7 8 x
+T153 Term-DV 486 487 x
+T154 Term-DV 704 705 x
+T155 Term-DV 779 780 x
+T156 Term-DV 1133 1134 x
+T157 Term-DV 1588 1589 x
+T158 Term-AR 792 814 duración no superior a
+T159 Term-AR 1147 1169 duración no superior a
+T160 Term-AR 6 16 excedencia
+T161 Term-AR 485 495 excedencia
+T162 Term-AR 703 713 excedencia
+T163 Term-AR 778 788 excedencia
+T164 Term-AR 1132 1142 excedencia
+T165 Term-AR 1587 1597 excedencia
+T166 Term-AR 1054 1064 resolución
+T167 Term-AR 1365 1379 consanguinidad
+T168 Term-AR 1227 1248 negociación colectiva
+T169 Term-AR 971 993 acogimiento permanente
+T170 Term-AR 415 418 año
+T171 Term-AR 563 567 años
+T172 Term-AR 668 672 años
+T173 Term-AR 820 824 años
+T174 Term-AR 1174 1178 años
+T175 Term-AR 204 209 cargo
+T176 Term-AR 335 340 cargo
+T177 Term-AR 1022 1032 nacimiento
+T178 Term-AR 792 812 duración no superior
+T179 Term-AR 1147 1167 duración no superior
+T180 Term-AR 857 861 hijo
+T181 Term-AR 767 774 periodo
+T182 Term-AR 1121 1128 periodo
+T183 Term-AR 1640 1647 periodo
+T184 Term-AR 971 982 acogimiento
+T185 Term-AR 951 956 fines
+T186 Term-AR 1013 1018 fecha
+T187 Term-AR 927 936 supuestos
+T188 Term-AR 238 248 asistencia
+T189 Term-AR 307 310 mes
+T190 Term-AR 538 543 meses
+T191 Term-AR 514 530 plazo no menor a
+T192 Term-AR 307 348 mes siguiente al cese en el cargo público
+T193 Term-AR 1562 1571 actividad
+T194 Term-AR 204 217 cargo público
+T195 Term-AR 335 348 cargo público
+T196 Term-AR 792 800 duración
+T197 Term-AR 1147 1155 duración
+T198 Term-AR 1208 1216 duración
+T199 Term-AR 1651 1659 duración
+T200 Term-AR 1587 1633 excedencia contemplada en el presente apartado
+T201 Term-AR 485 506 excedencia voluntaria
+T202 Term-AR 703 724 excedencia voluntaria
+T203 Term-AR 997 1003 contar
+T204 Term-AR 1755 1767 trabajadoras
+T205 Term-AR 1227 1238 negociación
+T206 Term-AR 356 366 trabajador
+T207 Term-AR 630 640 trabajador
+T208 Term-AR 733 745 trabajadores
+T209 Term-AR 1254 1266 trabajadores
+T210 Term-AR 1740 1752 trabajadores
+T211 Term-AR 100 106 puesto
+T212 Term-AR 514 519 plazo
+T213 Term-AR 841 848 cuidado
+T214 Term-AR 1283 1290 cuidado
+T215 Term-AR 401 408 empresa
+T216 Term-AR 1681 1686 forma
+T217 Term-AR 1305 1311 pareja
+T218 Term-AR 1436 1442 pareja
+T219 Term-AR 1562 1582 actividad retribuida
+T220 Term-AR 70 77 derecho
+T221 Term-AR 425 432 derecho
+T222 Term-AR 574 581 derecho
+T223 Term-AR 754 761 derecho
+T224 Term-AR 1108 1115 derecho
+T225 Term-AR 1714 1721 derecho
+T226 Term-AR 908 916 adopción
+T227 Term-AR 960 968 adopción
+T228 Term-AR 112 119 cómputo
+T229 Term-AR 613 616 vez
+T230 Term-AR 1348 1361 segundo grado
+T231 Term-AR 187 195 elección
+T232 Term-AR 1472 1476 edad
+T233 Term-AR 252 259 trabajo
+T234 Term-AR 143 151 vigencia
+T235 Term-AR 1042 1046 caso
+T236 Term-AR 1625 1633 apartado
+T237 Term-LL 1227 1248 negociación colectiva
+T238 Term-LL 908 916 adopción
+T239 Term-LL 960 968 adopción
+T240 Term-LL 252 259 trabajo
+T241 Term-LL 523 528 menor
+T242 Term-LL 1478 1487 accidente
+T243 Term-LL 1503 1515 discapacidad
+T244 Term-LL 356 366 trabajador
+T245 Term-LL 630 640 trabajador
+T246 Term-LL 733 743 trabajador
+T247 Term-LL 1254 1264 trabajador
+T248 Term-LL 1740 1750 trabajador
+T249 Term-LL 1755 1765 trabajador
+T250 Term-LL 6 16 excedencia
+T251 Term-LL 485 495 excedencia
+T252 Term-LL 703 713 excedencia
+T253 Term-LL 778 788 excedencia
+T254 Term-LL 1132 1142 excedencia
+T255 Term-LL 1587 1597 excedencia
+T256 Term-LL 187 195 elección
+T257 Term-LL 126 136 antigüedad
+T258 Term-LL 384 394 antigüedad
+T259 Term-LL 1295 1302 cónyuge
+T260 Term-LL 274 279 deber
+T261 Term-LL 143 151 vigencia
+T262 Term-LL 204 209 cargo
+T263 Term-LL 335 340 cargo
+T264 Term-LL 132 136 edad
+T265 Term-LL 390 394 edad
+T266 Term-LL 1472 1476 edad
+T267 Term-LL 1496 1500 edad
+T268 Term-LL 401 408 empresa
+T269 Term-LL 792 800 duración
+T270 Term-LL 1147 1155 duración
+T271 Term-LL 1208 1216 duración
+T272 Term-LL 1651 1659 duración
+T273 Term-LL 70 77 derecho
+T274 Term-LL 425 432 derecho
+T275 Term-LL 574 581 derecho
+T276 Term-LL 754 761 derecho
+T277 Term-LL 1108 1115 derecho
+T278 Term-LL 1714 1721 derecho
+T279 Term-LL 1386 1394 afinidad
+T280 Term-LL 1365 1379 consanguinidad
+T281 Term-LL 1356 1361 grado
+T282 Term-LL 767 774 periodo
+T283 Term-LL 1121 1128 periodo
+T284 Term-LL 1640 1647 periodo
+T285 Term-LL 143 151 vigencia
+T286 Term-LL 6 16 excedencia
+T287 Term-LL 485 495 excedencia
+T288 Term-LL 703 713 excedencia
+T289 Term-LL 778 788 excedencia
+T290 Term-LL 1132 1142 excedencia
+T291 Term-LL 1587 1597 excedencia
+T292 Term-IAT 204 209 cargo
+T293 Term-IAT 335 340 cargo
+T294 Term-IAT 514 519 plazo
+T295 Term-IAT 1054 1064 resolución
+T296 Term-IAT 401 408 empresa
+T297 Term-IAT 908 916 adopción
+T298 Term-IAT 960 968 adopción
+T299 Term-IAT 1625 1633 apartado
+T300 Term-IAT 356 366 trabajador
+T301 Term-IAT 630 640 trabajador
+T302 Term-IAT 733 745 trabajadores
+T303 Term-IAT 1254 1266 trabajadores
+T304 Term-IAT 1740 1752 trabajadores
+T305 Term-IAT 1365 1379 consanguinidad
+T306 Term-IAT 1562 1571 actividad
+T307 Term-IAT 1022 1032 nacimiento
+T308 Term-IAT 1227 1238 negociación
+T309 Term-IAT 857 861 hijo
+T310 Term-IAT 307 310 mes
+T311 Term-IAT 538 543 meses
+T312 Term-IAT 792 800 duración
+T313 Term-IAT 1147 1155 duración
+T314 Term-IAT 1208 1216 duración
+T315 Term-IAT 1651 1659 duración

@@ -1,0 +1,372 @@
+T1 Term-DPJ 621 625 caso
+T2 Term-DPJ 1709 1713 caso
+T3 Term-DPJ 133 150 jornada ordinaria
+T4 Term-DPJ 949 966 jornada ordinaria
+T5 Term-DPJ 298 305 acuerdo
+T6 Term-DPJ 1089 1096 acuerdo
+T7 Term-DPJ 1561 1568 acuerdo
+T8 Term-DPJ 734 742 preaviso
+T9 Term-DPJ 459 464 pacto
+T10 Term-DPJ 1170 1175 pacto
+T11 Term-DPJ 32 39 trabajo
+T12 Term-DPJ 99 106 trabajo
+T13 Term-DPJ 154 161 trabajo
+T14 Term-DPJ 198 205 trabajo
+T15 Term-DPJ 569 576 trabajo
+T16 Term-DPJ 801 808 trabajo
+T17 Term-DPJ 970 977 trabajo
+T18 Term-DPJ 1454 1461 trabajo
+T19 Term-DPJ 1674 1681 trabajo
+T20 Term-DPJ 315 322 empresa
+T21 Term-DPJ 469 476 empresa
+T22 Term-DPJ 1106 1113 empresa
+T23 Term-DPJ 1578 1585 empresa
+T24 Term-DPJ 63 72 convenios
+T25 Term-DPJ 257 265 convenio
+T26 Term-DPJ 1029 1037 convenio
+T27 Term-DPJ 1524 1532 convenio
+T28 Term-DPJ 198 214 trabajo efectivo
+T29 Term-DPJ 1454 1470 trabajo efectivo
+T30 Term-DPJ 86 95 contratos
+T31 Term-DPJ 63 83 convenios colectivos
+T32 Term-DPJ 257 275 convenio colectivo
+T33 Term-DPJ 1029 1047 convenio colectivo
+T34 Term-DPJ 1524 1542 convenio colectivo
+T35 Term-DPJ 1664 1670 tiempo
+T36 Term-DPJ 692 695 ley
+T37 Term-DPJ 787 797 prestación
+T38 Term-DPJ 21 28 jornada
+T39 Term-DPJ 133 140 jornada
+T40 Term-DPJ 417 424 jornada
+T41 Term-DPJ 558 565 jornada
+T42 Term-DPJ 903 910 jornada
+T43 Term-DPJ 949 956 jornada
+T44 Term-DPJ 1238 1245 jornada
+T45 Term-DPJ 1348 1355 jornada
+T46 Term-DPJ 1732 1740 jornadas
+T47 Term-DPJ 388 400 distribución
+T48 Term-DPJ 584 596 distribución
+T49 Term-DPJ 1209 1221 distribución
+T50 Term-DPJ 1647 1659 distribución
+T51 Term-DPJ 440 443 año
+T52 Term-DPJ 529 532 año
+T53 Term-DPJ 1424 1430 número
+T54 Term-TC 63 72 convenios
+T55 Term-TC 1029 1037 convenio
+T56 Term-TC 257 265 convenio
+T57 Term-TC 1524 1532 convenio
+T58 Term-TC 1279 1284 plazo
+T59 Term-TC 835 847 compensación
+T60 Term-TC 86 95 contratos
+T61 Term-TC 459 464 pacto
+T62 Term-TC 1170 1175 pacto
+T63 Term-TC 692 695 ley
+T64 Term-TC 787 797 prestación
+T65 Term-TC 329 343 representantes
+T66 Term-TC 1592 1606 representantes
+T67 Term-TC 1120 1134 representantes
+T68 Term-TC 734 742 preaviso
+T69 Term-TC 63 83 convenios colectivos
+T70 Term-TC 257 275 convenio colectivo
+T71 Term-TC 1524 1542 convenio colectivo
+T72 Term-TC 1029 1047 convenio colectivo
+T73 Term-TC 650 665 descanso diario
+T74 Term-TC 1717 1740 descanso entre jornadas
+T75 Term-TC 315 322 empresa
+T76 Term-TC 469 476 empresa
+T77 Term-TC 1578 1585 empresa
+T78 Term-TC 1106 1113 empresa
+T79 Term-TC 1053 1058 falta
+T80 Term-TC 99 106 trabajo
+T81 Term-TC 154 161 trabajo
+T82 Term-TC 801 808 trabajo
+T83 Term-TC 970 977 trabajo
+T84 Term-TC 21 39 jornada de trabajo
+T85 Term-TC 558 576 jornada de trabajo
+T86 Term-TC 949 966 jornada ordinaria
+T87 Term-TC 133 150 jornada ordinaria
+T88 Term-TC 1664 1681 tiempo de trabajo
+T89 Term-TC 1454 1470 trabajo efectivo
+T90 Term-TC 198 214 trabajo efectivo
+T91 Term-TC 926 934 duración
+T92 Term-TC 6 14 duración
+T93 Term-TC 111 119 duración
+T94 Term-TC 1089 1096 acuerdo
+T95 Term-TC 1561 1568 acuerdo
+T96 Term-TC 298 305 acuerdo
+T97 Term-TC 230 237 cómputo
+T98 Term-TC 388 424 distribución irregular de la jornada
+T99 Term-TC 1209 1245 distribución irregular de la jornada
+T100 Term-TC 1674 1681 trabajo
+T101 Term-TC 198 205 trabajo
+T102 Term-TC 1454 1461 trabajo
+T103 Term-TC 978 983 legal
+T104 Term-TC 1484 1492 superior
+T105 Term-TC 374 384 establecer
+T106 Term-TC 719 726 conocer
+T107 Term-TC 872 878 exceso
+T108 Term-DV 21 39 jornada de trabajo
+T109 Term-DV 558 576 jornada de trabajo
+T110 Term-DV 354 358 baja
+T111 Term-DV 704 708 baja
+T112 Term-DV 1145 1149 baja
+T113 Term-DV 1617 1621 baja
+T114 Term-DV 835 847 compensación
+T115 Term-DV 1257 1260 dar
+T116 Term-DV 597 601 debe
+T117 Term-DV 712 716 debe
+T118 Term-DV 1246 1250 debe
+T119 Term-DV 285 292 defecto
+T120 Term-DV 448 455 defecto
+T121 Term-DV 885 892 defecto
+T122 Term-DV 1159 1166 defecto
+T123 Term-DV 1552 1559 defecto
+T124 Term-DV 759 762 día
+T125 Term-DV 767 770 día
+T126 Term-DV 659 665 diario
+T127 Term-DV 1682 1688 diario
+T128 Term-DV 388 400 distribución
+T129 Term-DV 584 596 distribución
+T130 Term-DV 1209 1221 distribución
+T131 Term-DV 1647 1659 distribución
+T132 Term-DV 315 322 empresa
+T133 Term-DV 469 476 empresa
+T134 Term-DV 1106 1113 empresa
+T135 Term-DV 1578 1585 empresa
+T136 Term-DV 1053 1058 falta
+T137 Term-DV 207 209 fe
+T138 Term-DV 287 289 fe
+T139 Term-DV 450 452 fe
+T140 Term-DV 857 859 fe
+T141 Term-DV 887 889 fe
+T142 Term-DV 1161 1163 fe
+T143 Term-DV 1183 1185 fe
+T144 Term-DV 1463 1465 fe
+T145 Term-DV 1554 1556 fe
+T146 Term-DV 75 82 lectivo
+T147 Term-DV 268 275 lectivo
+T148 Term-DV 1040 1047 lectivo
+T149 Term-DV 1535 1542 lectivo
+T150 Term-DV 978 983 legal
+T151 Term-DV 692 695 ley
+T152 Term-DV 459 464 pacto
+T153 Term-DV 1170 1175 pacto
+T154 Term-DV 1279 1284 plazo
+T155 Term-DV 734 742 preaviso
+T156 Term-DV 787 797 prestación
+T157 Term-DV 90 94 rato
+T158 Term-DV 911 915 real
+T159 Term-DV 173 178 renta
+T160 Term-DV 351 361 trabajador
+T161 Term-DV 701 711 trabajador
+T162 Term-DV 1142 1152 trabajador
+T163 Term-DV 1614 1624 trabajador
+T164 Term-DV 679 682 vis
+T165 Term-DV 738 741 vis
+T166 Term-DV 1065 1068 vis
+T167 Term-DV 122 123 x
+T168 Term-DV 873 874 x
+T169 Term-DV 937 938 x
+T170 Term-DV 1000 1001 x
+T171 Term-AR 1664 1670 tiempo
+T172 Term-AR 459 464 pacto
+T173 Term-AR 1170 1175 pacto
+T174 Term-AR 329 343 representantes
+T175 Term-AR 1120 1134 representantes
+T176 Term-AR 1592 1606 representantes
+T177 Term-AR 388 410 distribución irregular
+T178 Term-AR 1209 1231 distribución irregular
+T179 Term-AR 298 322 acuerdo entre la empresa
+T180 Term-AR 1089 1113 acuerdo entre la empresa
+T181 Term-AR 1561 1585 acuerdo entre la empresa
+T182 Term-AR 298 305 acuerdo
+T183 Term-AR 1089 1096 acuerdo
+T184 Term-AR 1561 1568 acuerdo
+T185 Term-AR 440 443 año
+T186 Term-AR 529 532 año
+T187 Term-AR 759 763 días
+T188 Term-AR 767 770 día
+T189 Term-AR 21 28 jornada
+T190 Term-AR 133 140 jornada
+T191 Term-AR 417 424 jornada
+T192 Term-AR 558 565 jornada
+T193 Term-AR 903 910 jornada
+T194 Term-AR 949 956 jornada
+T195 Term-AR 1238 1245 jornada
+T196 Term-AR 1348 1355 jornada
+T197 Term-AR 1732 1740 jornadas
+T198 Term-AR 1434 1470 horas ordinarias de trabajo efectivo
+T199 Term-AR 497 503 manera
+T200 Term-AR 630 638 periodos
+T201 Term-AR 1053 1058 falta
+T202 Term-AR 1434 1450 horas ordinarias
+T203 Term-AR 1293 1298 meses
+T204 Term-AR 63 72 convenios
+T205 Term-AR 257 265 convenio
+T206 Term-AR 1029 1037 convenio
+T207 Term-AR 1524 1532 convenio
+T208 Term-AR 133 150 jornada ordinaria
+T209 Term-AR 949 966 jornada ordinaria
+T210 Term-AR 179 194 horas semanales
+T211 Term-AR 1181 1245 diferencias derivadas de la distribución irregular de la jornada
+T212 Term-AR 734 742 preaviso
+T213 Term-AR 111 126 duración máxima
+T214 Term-AR 926 941 duración máxima
+T215 Term-AR 6 14 duración
+T216 Term-AR 111 119 duración
+T217 Term-AR 926 934 duración
+T218 Term-AR 63 83 convenios colectivos
+T219 Term-AR 63 83 convenios colectivos
+T220 Term-AR 351 363 trabajadores
+T221 Term-AR 1142 1154 trabajadores
+T222 Term-AR 1614 1626 trabajadores
+T223 Term-AR 701 711 trabajador
+T224 Term-AR 1279 1284 plazo
+T225 Term-AR 630 665 periodos mínimos de descanso diario
+T226 Term-AR 315 322 empresa
+T227 Term-AR 469 476 empresa
+T228 Term-AR 1106 1113 empresa
+T229 Term-AR 1578 1585 empresa
+T230 Term-AR 787 797 prestación
+T231 Term-AR 179 184 horas
+T232 Term-AR 1414 1419 horas
+T233 Term-AR 1434 1439 horas
+T234 Term-AR 776 780 hora
+T235 Term-AR 650 658 descanso
+T236 Term-AR 1717 1725 descanso
+T237 Term-AR 692 695 ley
+T238 Term-AR 430 443 largo del año
+T239 Term-AR 519 532 largo del año
+T240 Term-AR 230 243 cómputo anual
+T241 Term-AR 230 237 cómputo
+T242 Term-AR 1424 1430 número
+T243 Term-AR 734 749 preaviso mínimo
+T244 Term-AR 86 95 contratos
+T245 Term-AR 257 275 convenio colectivo
+T246 Term-AR 1029 1047 convenio colectivo
+T247 Term-AR 1524 1542 convenio colectivo
+T248 Term-AR 388 400 distribución
+T249 Term-AR 584 596 distribución
+T250 Term-AR 1209 1221 distribución
+T251 Term-AR 1647 1659 distribución
+T252 Term-AR 198 214 trabajo efectivo
+T253 Term-AR 1454 1470 trabajo efectivo
+T254 Term-AR 32 39 trabajo
+T255 Term-AR 99 106 trabajo
+T256 Term-AR 154 161 trabajo
+T257 Term-AR 198 205 trabajo
+T258 Term-AR 569 576 trabajo
+T259 Term-AR 801 808 trabajo
+T260 Term-AR 970 977 trabajo
+T261 Term-AR 1454 1461 trabajo
+T262 Term-AR 1674 1681 trabajo
+T263 Term-AR 621 625 caso
+T264 Term-AR 1709 1713 caso
+T265 Term-LL 21 39 jornada de trabajo
+T266 Term-LL 558 576 jornada de trabajo
+T267 Term-LL 21 39 jornada de trabajo
+T268 Term-LL 558 576 jornada de trabajo
+T269 Term-LL 257 275 convenio colectivo
+T270 Term-LL 1029 1047 convenio colectivo
+T271 Term-LL 1524 1542 convenio colectivo
+T272 Term-LL 230 243 cómputo anual
+T273 Term-LL 198 214 trabajo efectivo
+T274 Term-LL 1454 1470 trabajo efectivo
+T275 Term-LL 133 150 jornada ordinaria
+T276 Term-LL 949 966 jornada ordinaria
+T277 Term-LL 21 28 jornada
+T278 Term-LL 133 140 jornada
+T279 Term-LL 417 424 jornada
+T280 Term-LL 558 565 jornada
+T281 Term-LL 903 910 jornada
+T282 Term-LL 949 956 jornada
+T283 Term-LL 1238 1245 jornada
+T284 Term-LL 1348 1355 jornada
+T285 Term-LL 1732 1739 jornada
+T286 Term-LL 21 28 jornada
+T287 Term-LL 133 140 jornada
+T288 Term-LL 417 424 jornada
+T289 Term-LL 558 565 jornada
+T290 Term-LL 903 910 jornada
+T291 Term-LL 949 956 jornada
+T292 Term-LL 1238 1245 jornada
+T293 Term-LL 1348 1355 jornada
+T294 Term-LL 1732 1739 jornada
+T295 Term-LL 32 39 trabajo
+T296 Term-LL 99 106 trabajo
+T297 Term-LL 154 161 trabajo
+T298 Term-LL 198 205 trabajo
+T299 Term-LL 569 576 trabajo
+T300 Term-LL 801 808 trabajo
+T301 Term-LL 970 977 trabajo
+T302 Term-LL 1454 1461 trabajo
+T303 Term-LL 1674 1681 trabajo
+T304 Term-LL 86 94 contrato
+T305 Term-LL 459 464 pacto
+T306 Term-LL 1170 1175 pacto
+T307 Term-LL 650 658 descanso
+T308 Term-LL 1717 1725 descanso
+T309 Term-LL 787 797 prestación
+T310 Term-LL 329 342 representante
+T311 Term-LL 1120 1133 representante
+T312 Term-LL 1592 1605 representante
+T313 Term-LL 351 361 trabajador
+T314 Term-LL 701 711 trabajador
+T315 Term-LL 1142 1152 trabajador
+T316 Term-LL 1614 1624 trabajador
+T317 Term-LL 692 695 ley
+T318 Term-LL 835 847 compensación
+T319 Term-LL 597 602 deber
+T320 Term-LL 712 717 deber
+T321 Term-LL 1246 1251 deber
+T322 Term-LL 1063 1071 revisión
+T323 Term-LL 285 292 defecto
+T324 Term-LL 448 455 defecto
+T325 Term-LL 885 892 defecto
+T326 Term-LL 1159 1166 defecto
+T327 Term-LL 1552 1559 defecto
+T328 Term-LL 315 322 empresa
+T329 Term-LL 469 476 empresa
+T330 Term-LL 1106 1113 empresa
+T331 Term-LL 1578 1585 empresa
+T332 Term-LL 6 14 duración
+T333 Term-LL 111 119 duración
+T334 Term-LL 926 934 duración
+T335 Term-LL 173 178 renta
+T336 Term-LL 73 82 colectivo
+T337 Term-LL 266 275 colectivo
+T338 Term-LL 1038 1047 colectivo
+T339 Term-LL 1533 1542 colectivo
+T340 Term-LL 630 637 periodo
+T341 Term-IAT 1279 1284 plazo
+T342 Term-IAT 298 305 acuerdo
+T343 Term-IAT 1089 1096 acuerdo
+T344 Term-IAT 1561 1568 acuerdo
+T345 Term-IAT 315 322 empresa
+T346 Term-IAT 469 476 empresa
+T347 Term-IAT 1106 1113 empresa
+T348 Term-IAT 1578 1585 empresa
+T349 Term-IAT 388 400 distribución
+T350 Term-IAT 584 596 distribución
+T351 Term-IAT 1209 1221 distribución
+T352 Term-IAT 1647 1659 distribución
+T353 Term-IAT 1053 1058 falta
+T354 Term-IAT 351 363 trabajadores
+T355 Term-IAT 1142 1154 trabajadores
+T356 Term-IAT 1614 1626 trabajadores
+T357 Term-IAT 701 711 trabajador
+T358 Term-IAT 787 797 prestación
+T359 Term-IAT 86 95 contratos
+T360 Term-IAT 650 658 descanso
+T361 Term-IAT 1717 1725 descanso
+T362 Term-IAT 329 343 representantes
+T363 Term-IAT 1120 1134 representantes
+T364 Term-IAT 1592 1606 representantes
+T365 Term-IAT 63 72 convenios
+T366 Term-IAT 257 265 convenio
+T367 Term-IAT 1029 1037 convenio
+T368 Term-IAT 1524 1532 convenio
+T369 Term-IAT 1293 1298 meses
+T370 Term-IAT 6 14 duración
+T371 Term-IAT 111 119 duración
+T372 Term-IAT 926 934 duración

@@ -1,0 +1,327 @@
+T1 Term-DPJ 701 705 caso
+T2 Term-DPJ 276 282 empleo
+T3 Term-DPJ 1385 1391 empleo
+T4 Term-DPJ 1602 1607 tipos
+T5 Term-DPJ 80 87 empresa
+T6 Term-DPJ 249 256 empresa
+T7 Term-DPJ 423 430 empresa
+T8 Term-DPJ 643 650 empresa
+T9 Term-DPJ 865 872 empresa
+T10 Term-DPJ 1015 1022 empresa
+T11 Term-DPJ 1069 1076 empresa
+T12 Term-DPJ 1195 1202 empresa
+T13 Term-DPJ 1242 1249 empresa
+T14 Term-DPJ 914 926 cumplimiento
+T15 Term-DPJ 898 909 cooperación
+T16 Term-DPJ 1444 1452 programa
+T17 Term-DPJ 70 76 comité
+T18 Term-DPJ 413 419 comité
+T19 Term-DPJ 633 639 comité
+T20 Term-DPJ 855 861 comité
+T21 Term-DPJ 1059 1065 comité
+T22 Term-DPJ 1533 1542 contratos
+T23 Term-DPJ 1644 1653 contratos
+T24 Term-DPJ 1292 1303 actividades
+T25 Term-DPJ 70 87 comité de empresa
+T26 Term-DPJ 413 430 comité de empresa
+T27 Term-DPJ 633 650 comité de empresa
+T28 Term-DPJ 855 872 comité de empresa
+T29 Term-DPJ 1059 1076 comité de empresa
+T30 Term-DPJ 1656 1662 tiempo
+T31 Term-DPJ 1747 1753 tiempo
+T32 Term-DPJ 386 391 datos
+T33 Term-DPJ 25 36 información
+T34 Term-DPJ 356 367 información
+T35 Term-DPJ 812 823 información
+T36 Term-DPJ 776 786 aplicación
+T37 Term-DPJ 0 8 Artículo
+T38 Term-DPJ 330 338 artículo
+T39 Term-DPJ 794 808 procedimientos
+T40 Term-DPJ 1563 1569 número
+T41 Term-DPJ 371 382 transmisión
+T42 Term-TC 898 909 cooperación
+T43 Term-TC 721 728 informe
+T44 Term-TC 1784 1799 subcontratación
+T45 Term-TC 303 311 términos
+T46 Term-TC 1644 1653 contratos
+T47 Term-TC 1533 1542 contratos
+T48 Term-TC 0 8 Artículo
+T49 Term-TC 330 338 artículo
+T50 Term-TC 600 607 diálogo
+T51 Term-TC 740 745 parte
+T52 Term-TC 70 87 comité de empresa
+T53 Term-TC 633 650 comité de empresa
+T54 Term-TC 1059 1076 comité de empresa
+T55 Term-TC 413 430 comité de empresa
+T56 Term-TC 855 872 comité de empresa
+T57 Term-TC 50 62 competencias
+T58 Term-TC 249 256 empresa
+T59 Term-TC 1242 1249 empresa
+T60 Term-TC 1015 1022 empresa
+T61 Term-TC 1195 1202 empresa
+T62 Term-TC 1385 1391 empleo
+T63 Term-TC 276 282 empleo
+T64 Term-TC 1690 1711 horas complementarias
+T65 Term-TC 1331 1347 medioambientales
+T66 Term-TC 13 21 Derechos
+T67 Term-TC 1084 1091 derecho
+T68 Term-TC 95 102 derecho
+T69 Term-TC 934 942 derechos
+T70 Term-TC 95 118 derecho a ser informado
+T71 Term-TC 1084 1107 derecho a ser informado
+T72 Term-TC 763 773 definición
+T73 Term-TC 1292 1303 actividades
+T74 Term-TC 1319 1330 actuaciones
+T75 Term-TC 776 786 aplicación
+T76 Term-TC 1511 1522 celebración
+T77 Term-TC 914 926 cumplimiento
+T78 Term-TC 982 988 cuenta
+T79 Term-TC 456 468 conocimiento
+T80 Term-TC 710 717 emisión
+T81 Term-TC 1602 1607 tipos
+T82 Term-TC 356 367 información
+T83 Term-TC 812 823 información
+T84 Term-TC 25 36 información
+T85 Term-TC 555 566 intercambio
+T86 Term-TC 794 808 procedimientos
+T87 Term-TC 1411 1421 producción
+T88 Term-TC 1456 1466 producción
+T89 Term-TC 1444 1452 programa
+T90 Term-TC 371 382 transmisión
+T91 Term-TC 1424 1430 ventas
+T92 Term-TC 505 513 proceder
+T93 Term-DV 204 208 baja
+T94 Term-DV 1042 1046 baja
+T95 Term-DV 1723 1727 baja
+T96 Term-DV 1338 1342 bien
+T97 Term-DV 50 61 competencia
+T98 Term-DV 95 102 derecho
+T99 Term-DV 934 941 derecho
+T100 Term-DV 1084 1091 derecho
+T101 Term-DV 80 87 empresa
+T102 Term-DV 139 146 empresa
+T103 Term-DV 249 256 empresa
+T104 Term-DV 399 406 empresa
+T105 Term-DV 423 430 empresa
+T106 Term-DV 617 624 empresa
+T107 Term-DV 643 650 empresa
+T108 Term-DV 839 846 empresa
+T109 Term-DV 865 872 empresa
+T110 Term-DV 1015 1022 empresa
+T111 Term-DV 1069 1076 empresa
+T112 Term-DV 1195 1202 empresa
+T113 Term-DV 1242 1249 empresa
+T114 Term-DV 1497 1504 empresa
+T115 Term-DV 139 149 empresario
+T116 Term-DV 399 409 empresario
+T117 Term-DV 617 627 empresario
+T118 Term-DV 839 849 empresario
+T119 Term-DV 1497 1507 empresario
+T120 Term-DV 188 190 fe
+T121 Term-DV 27 32 forma
+T122 Term-DV 111 116 forma
+T123 Term-DV 358 363 forma
+T124 Term-DV 814 819 forma
+T125 Term-DV 1100 1105 forma
+T126 Term-DV 900 909 operación
+T127 Term-DV 1663 1670 parcial
+T128 Term-DV 1754 1761 parcial
+T129 Term-DV 740 745 parte
+T130 Term-DV 777 782 plica
+T131 Term-DV 1481 1490 prevision
+T132 Term-DV 1276 1284 probable
+T133 Term-DV 794 807 procedimiento
+T134 Term-DV 1448 1452 rama
+T135 Term-DV 1537 1541 rato
+T136 Term-DV 1648 1652 rato
+T137 Term-DV 1675 1679 real
+T138 Term-DV 1784 1799 subcontratación
+T139 Term-DV 201 211 trabajador
+T140 Term-DV 1039 1049 trabajador
+T141 Term-DV 1720 1730 trabajador
+T142 Term-DV 371 382 transmisión
+T143 Term-DV 1736 1743 tratado
+T144 Term-DV 1424 1429 venta
+T145 Term-DV 315 318 vis
+T146 Term-DV 1484 1487 vis
+T147 Term-DV 520 521 x
+T148 Term-AR 233 242 situación
+T149 Term-AR 1216 1225 situación
+T150 Term-AR 1656 1662 tiempo
+T151 Term-AR 1747 1753 tiempo
+T152 Term-AR 276 282 empleo
+T153 Term-AR 1385 1391 empleo
+T154 Term-AR 740 745 parte
+T155 Term-AR 303 338 términos previstos en este artículo
+T156 Term-AR 39 47 consulta
+T157 Term-AR 531 539 consulta
+T158 Term-AR 826 834 consulta
+T159 Term-AR 434 437 fin
+T160 Term-AR 914 926 cumplimiento
+T161 Term-AR 215 218 así
+T162 Term-AR 1393 1396 así
+T163 Term-AR 776 786 aplicación
+T164 Term-AR 945 968 obligaciones recíprocas
+T165 Term-AR 70 76 comité
+T166 Term-AR 413 419 comité
+T167 Term-AR 633 639 comité
+T168 Term-AR 855 861 comité
+T169 Term-AR 1059 1065 comité
+T170 Term-AR 0 8 Artículo
+T171 Term-AR 330 338 artículo
+T172 Term-AR 1771 1780 supuestos
+T173 Term-AR 262 271 evolución
+T174 Term-AR 1137 1146 evolución
+T175 Term-AR 1255 1264 evolución
+T176 Term-AR 25 36 información
+T177 Term-AR 356 367 información
+T178 Term-AR 812 823 información
+T179 Term-AR 794 808 procedimientos
+T180 Term-AR 386 391 datos
+T181 Term-AR 1292 1303 actividades
+T182 Term-AR 721 728 informe
+T183 Term-AR 371 382 transmisión
+T184 Term-AR 1411 1421 producción
+T185 Term-AR 1456 1466 producción
+T186 Term-AR 1588 1599 modalidades
+T187 Term-AR 201 213 trabajadores
+T188 Term-AR 1039 1051 trabajadores
+T189 Term-AR 1720 1732 trabajadores
+T190 Term-AR 80 87 empresa
+T191 Term-AR 249 256 empresa
+T192 Term-AR 423 430 empresa
+T193 Term-AR 643 650 empresa
+T194 Term-AR 865 872 empresa
+T195 Term-AR 1015 1022 empresa
+T196 Term-AR 1069 1076 empresa
+T197 Term-AR 1195 1202 empresa
+T198 Term-AR 1242 1249 empresa
+T199 Term-AR 1690 1695 horas
+T200 Term-AR 1690 1711 horas complementarias
+T201 Term-AR 1526 1542 nuevos contratos
+T202 Term-AR 1526 1542 nuevos contratos
+T203 Term-AR 1675 1686 realización
+T204 Term-AR 476 496 cuestión determinada
+T205 Term-AR 661 681 cuestión determinada
+T206 Term-AR 1720 1761 trabajadores contratados a tiempo parcial
+T207 Term-AR 13 21 Derechos
+T208 Term-AR 95 102 derecho
+T209 Term-AR 1084 1091 derecho
+T210 Term-AR 934 942 derechos
+T211 Term-AR 1563 1569 número
+T212 Term-AR 1533 1542 contratos
+T213 Term-AR 1644 1653 contratos
+T214 Term-AR 1444 1452 programa
+T215 Term-AR 1656 1670 tiempo parcial
+T216 Term-AR 1747 1761 tiempo parcial
+T217 Term-AR 721 749 informe previo por parte del
+T218 Term-AR 701 705 caso
+T219 Term-AR 139 149 empresario
+T220 Term-AR 399 409 empresario
+T221 Term-AR 617 627 empresario
+T222 Term-AR 839 849 empresario
+T223 Term-AR 1497 1507 empresario
+T224 Term-LL 70 87 comité de empresa
+T225 Term-LL 413 430 comité de empresa
+T226 Term-LL 633 650 comité de empresa
+T227 Term-LL 855 872 comité de empresa
+T228 Term-LL 1059 1076 comité de empresa
+T229 Term-LL 1656 1670 tiempo parcial
+T230 Term-LL 1747 1761 tiempo parcial
+T231 Term-LL 776 786 aplicación
+T232 Term-LL 1533 1541 contrato
+T233 Term-LL 1644 1652 contrato
+T234 Term-LL 25 36 información
+T235 Term-LL 356 367 información
+T236 Term-LL 812 823 información
+T237 Term-LL 201 211 trabajador
+T238 Term-LL 1039 1049 trabajador
+T239 Term-LL 1720 1730 trabajador
+T240 Term-LL 914 926 cumplimiento
+T241 Term-LL 1787 1799 contratación
+T242 Term-LL 27 36 formación
+T243 Term-LL 358 367 formación
+T244 Term-LL 814 823 formación
+T245 Term-LL 139 149 empresario
+T246 Term-LL 399 409 empresario
+T247 Term-LL 617 627 empresario
+T248 Term-LL 839 849 empresario
+T249 Term-LL 1497 1507 empresario
+T250 Term-LL 1784 1795 subcontrata
+T251 Term-LL 1784 1799 subcontratación
+T252 Term-LL 80 87 empresa
+T253 Term-LL 139 146 empresa
+T254 Term-LL 249 256 empresa
+T255 Term-LL 399 406 empresa
+T256 Term-LL 423 430 empresa
+T257 Term-LL 617 624 empresa
+T258 Term-LL 643 650 empresa
+T259 Term-LL 839 846 empresa
+T260 Term-LL 865 872 empresa
+T261 Term-LL 1015 1022 empresa
+T262 Term-LL 1069 1076 empresa
+T263 Term-LL 1195 1202 empresa
+T264 Term-LL 1242 1249 empresa
+T265 Term-LL 1497 1504 empresa
+T266 Term-LL 794 807 procedimiento
+T267 Term-LL 70 76 comité
+T268 Term-LL 413 419 comité
+T269 Term-LL 633 639 comité
+T270 Term-LL 855 861 comité
+T271 Term-LL 1059 1065 comité
+T272 Term-LL 95 102 derecho
+T273 Term-LL 934 941 derecho
+T274 Term-LL 1084 1091 derecho
+T275 Term-LL 303 310 término
+T276 Term-LL 898 909 cooperación
+T277 Term-LL 50 61 competencia
+T278 Term-LL 900 909 operación
+T279 Term-LL 276 282 empleo
+T280 Term-LL 1385 1391 empleo
+T281 Term-LL 386 391 datos
+T282 Term-LL 519 525 examen
+T283 Term-IAT 1675 1686 realización
+T284 Term-IAT 386 391 datos
+T285 Term-IAT 776 786 aplicación
+T286 Term-IAT 740 745 parte
+T287 Term-IAT 0 8 Artículo
+T288 Term-IAT 330 338 artículo
+T289 Term-IAT 80 87 empresa
+T290 Term-IAT 249 256 empresa
+T291 Term-IAT 423 430 empresa
+T292 Term-IAT 643 650 empresa
+T293 Term-IAT 865 872 empresa
+T294 Term-IAT 1015 1022 empresa
+T295 Term-IAT 1069 1076 empresa
+T296 Term-IAT 1195 1202 empresa
+T297 Term-IAT 1242 1249 empresa
+T298 Term-IAT 721 728 informe
+T299 Term-IAT 139 149 empresario
+T300 Term-IAT 399 409 empresario
+T301 Term-IAT 617 627 empresario
+T302 Term-IAT 839 849 empresario
+T303 Term-IAT 1497 1507 empresario
+T304 Term-IAT 233 242 situación
+T305 Term-IAT 1216 1225 situación
+T306 Term-IAT 39 47 consulta
+T307 Term-IAT 531 539 consulta
+T308 Term-IAT 826 834 consulta
+T309 Term-IAT 794 808 procedimientos
+T310 Term-IAT 201 213 trabajadores
+T311 Term-IAT 1039 1051 trabajadores
+T312 Term-IAT 1720 1732 trabajadores
+T313 Term-IAT 276 282 empleo
+T314 Term-IAT 1385 1391 empleo
+T315 Term-IAT 1292 1303 actividades
+T316 Term-IAT 1533 1542 contratos
+T317 Term-IAT 1644 1653 contratos
+T318 Term-IAT 70 76 comité
+T319 Term-IAT 413 419 comité
+T320 Term-IAT 633 639 comité
+T321 Term-IAT 855 861 comité
+T322 Term-IAT 1059 1065 comité
+T323 Term-IAT 1444 1452 programa
+T324 Term-IAT 25 36 información
+T325 Term-IAT 356 367 información
+T326 Term-IAT 812 823 información
+T327 Term-IAT 371 382 transmisión

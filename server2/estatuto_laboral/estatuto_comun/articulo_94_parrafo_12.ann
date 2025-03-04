@@ -1,0 +1,330 @@
+T1 Term-DPJ 1396 1400 caso
+T2 Term-DPJ 1033 1040 acuerdo
+T3 Term-DPJ 1691 1707 Servicio Público
+T4 Term-DPJ 1351 1357 empleo
+T5 Term-DPJ 1632 1638 empleo
+T6 Term-DPJ 1711 1717 Empleo
+T7 Term-DPJ 1328 1338 regulación
+T8 Term-DPJ 1609 1619 regulación
+T9 Term-DPJ 1301 1307 ámbito
+T10 Term-DPJ 806 811 tipos
+T11 Term-DPJ 1314 1324 expediente
+T12 Term-DPJ 1594 1605 expedientes
+T13 Term-DPJ 1670 1679 Seguridad
+T14 Term-DPJ 1755 1764 Seguridad
+T15 Term-DPJ 1496 1500 vida
+T16 Term-DPJ 38 45 trabajo
+T17 Term-DPJ 77 84 trabajo
+T18 Term-DPJ 1374 1381 trabajo
+T19 Term-DPJ 1745 1752 Trabajo
+T20 Term-DPJ 138 146 empresas
+T21 Term-DPJ 485 493 empresas
+T22 Term-DPJ 726 733 empresa
+T23 Term-DPJ 544 555 adquisición
+T24 Term-DPJ 996 1003 sistema
+T25 Term-DPJ 1137 1144 sistema
+T26 Term-DPJ 64 73 contratos
+T27 Term-DPJ 1285 1293 contrato
+T28 Term-DPJ 1531 1542 Disposición
+T29 Term-DPJ 697 706 actividad
+T30 Term-DPJ 1270 1280 suspensión
+T31 Term-DPJ 1691 1725 Servicio Público de Empleo Estatal
+T32 Term-DPJ 1364 1370 tiempo
+T33 Term-DPJ 841 844 Ley
+T34 Term-DPJ 939 942 Ley
+T35 Term-DPJ 1581 1586 datos
+T36 Term-DPJ 129 132 bis
+T37 Term-DPJ 1510 1518 personal
+T38 Term-DPJ 1731 1741 Inspección
+T39 Term-DPJ 27 34 jornada
+T40 Term-DPJ 1260 1267 jornada
+T41 Term-DPJ 673 681 relación
+T42 Term-DPJ 1227 1237 aplicación
+T43 Term-DPJ 1691 1699 Servicio
+T44 Term-DPJ 1244 1253 reducción
+T45 Term-DPJ 111 120 artículos
+T46 Term-DPJ 1062 1076 procedimientos
+T47 Term-DPJ 841 853 Ley Orgánica
+T48 Term-DPJ 1100 1106 normas
+T49 Term-TC 1731 1741 Inspección
+T50 Term-TC 841 853 Ley Orgánica
+T51 Term-TC 1691 1707 Servicio Público
+T52 Term-TC 544 555 adquisición
+T53 Term-TC 64 73 contratos
+T54 Term-TC 1285 1293 contrato
+T55 Term-TC 939 942 Ley
+T56 Term-TC 841 844 Ley
+T57 Term-TC 111 120 artículos
+T58 Term-TC 1531 1552 Disposición adicional
+T59 Term-TC 1100 1106 normas
+T60 Term-TC 1477 1489 conciliación
+T61 Term-TC 448 459 necesidades
+T62 Term-TC 1137 1144 sistema
+T63 Term-TC 996 1003 sistema
+T64 Term-TC 559 571 competencias
+T65 Term-TC 270 282 competencias
+T66 Term-TC 1425 1434 descansos
+T67 Term-TC 485 493 empresas
+T68 Term-TC 138 146 empresas
+T69 Term-TC 726 733 empresa
+T70 Term-TC 77 84 trabajo
+T71 Term-TC 1632 1638 empleo
+T72 Term-TC 1351 1357 empleo
+T73 Term-TC 1711 1717 Empleo
+T74 Term-TC 815 824 formación
+T75 Term-TC 1148 1157 formación
+T76 Term-TC 909 930 Formación Profesional
+T77 Term-TC 1007 1028 formación profesional
+T78 Term-TC 1731 1752 Inspección de Trabajo
+T79 Term-TC 27 45 jornada de trabajo
+T80 Term-TC 302 315 empleabilidad
+T81 Term-TC 1510 1518 personal
+T82 Term-TC 1049 1059 requisitos
+T83 Term-TC 1755 1771 Seguridad Social
+T84 Term-TC 1670 1686 Seguridad Social
+T85 Term-TC 1364 1381 tiempo de trabajo
+T86 Term-TC 390 400 desarrollo
+T87 Term-TC 1464 1471 derecho
+T88 Term-TC 207 215 personas
+T89 Term-TC 323 331 personas
+T90 Term-TC 633 641 personas
+T91 Term-TC 1670 1679 Seguridad
+T92 Term-TC 1755 1764 Seguridad
+T93 Term-TC 1270 1280 suspensión
+T94 Term-TC 572 581 digitales
+T95 Term-TC 1531 1542 Disposición
+T96 Term-TC 1568 1574 Acceso
+T97 Term-TC 1033 1040 acuerdo
+T98 Term-TC 697 706 actividad
+T99 Term-TC 1227 1237 aplicación
+T100 Term-TC 1314 1324 expediente
+T101 Term-TC 1594 1605 expedientes
+T102 Term-TC 1374 1381 trabajo
+T103 Term-TC 806 811 tipos
+T104 Term-TC 256 262 mejora
+T105 Term-TC 244 252 objetivo
+T106 Term-TC 1062 1076 procedimientos
+T107 Term-TC 1609 1619 regulación
+T108 Term-TC 1328 1338 regulación
+T109 Term-TC 471 477 reales
+T110 Term-TC 1620 1628 temporal
+T111 Term-TC 1339 1347 temporal
+T112 Term-TC 1646 1655 Tesorería
+T113 Term-DV 27 45 jornada de trabajo
+T114 Term-DV 335 339 baja
+T115 Term-DV 503 507 baja
+T116 Term-DV 645 649 baja
+T117 Term-DV 270 281 competencia
+T118 Term-DV 559 570 competencia
+T119 Term-DV 1477 1489 conciliación
+T120 Term-DV 1194 1198 debe
+T121 Term-DV 1402 1406 debe
+T122 Term-DV 1464 1471 derecho
+T123 Term-DV 138 145 empresa
+T124 Term-DV 485 492 empresa
+T125 Term-DV 726 733 empresa
+T126 Term-DV 1521 1528 familia
+T127 Term-DV 217 219 fe
+T128 Term-DV 286 288 fe
+T129 Term-DV 922 924 fe
+T130 Term-DV 1020 1022 fe
+T131 Term-DV 175 180 forma
+T132 Term-DV 413 418 forma
+T133 Term-DV 460 465 forma
+T134 Term-DV 748 753 forma
+T135 Term-DV 815 820 forma
+T136 Term-DV 1007 1012 forma
+T137 Term-DV 1148 1153 forma
+T138 Term-DV 1183 1188 forma
+T139 Term-DV 1501 1508 laboral
+T140 Term-DV 1435 1440 legal
+T141 Term-DV 448 457 necesidad
+T142 Term-DV 1100 1105 norma
+T143 Term-DV 186 190 para
+T144 Term-DV 1273 1280 pensión
+T145 Term-DV 207 214 persona
+T146 Term-DV 323 330 persona
+T147 Term-DV 633 640 persona
+T148 Term-DV 1510 1517 persona
+T149 Term-DV 1510 1518 personal
+T150 Term-DV 1228 1233 plica
+T151 Term-DV 1062 1075 procedimiento
+T152 Term-DV 283 294 profesional
+T153 Term-DV 1017 1028 profesional
+T154 Term-DV 68 72 rato
+T155 Term-DV 1289 1293 rato
+T156 Term-DV 471 475 real
+T157 Term-DV 1244 1253 reducción
+T158 Term-DV 1328 1338 regulación
+T159 Term-DV 1609 1619 regulación
+T160 Term-DV 996 1003 sistema
+T161 Term-DV 1137 1144 sistema
+T162 Term-DV 1270 1280 suspensión
+T163 Term-DV 437 443 tender
+T164 Term-DV 332 342 trabajador
+T165 Term-DV 500 510 trabajador
+T166 Term-DV 642 652 trabajador
+T167 Term-DV 828 831 vis
+T168 Term-DV 1315 1316 x
+T169 Term-DV 1563 1564 x
+T170 Term-DV 1595 1596 x
+T171 Term-AR 1691 1707 Servicio Público
+T172 Term-AR 1425 1458 descansos legalmente establecidos
+T173 Term-AR 1364 1370 tiempo
+T174 Term-AR 390 400 desarrollo
+T175 Term-AR 1351 1357 empleo
+T176 Term-AR 1632 1638 empleo
+T177 Term-AR 1711 1717 Empleo
+T178 Term-AR 1314 1324 expediente
+T179 Term-AR 1594 1605 expedientes
+T180 Term-AR 1033 1040 acuerdo
+T181 Term-AR 244 252 objetivo
+T182 Term-AR 1531 1542 Disposición
+T183 Term-AR 27 34 jornada
+T184 Term-AR 1260 1267 jornada
+T185 Term-AR 1100 1106 normas
+T186 Term-AR 544 555 adquisición
+T187 Term-AR 673 681 relación
+T188 Term-AR 1731 1741 Inspección
+T189 Term-AR 1670 1679 Seguridad
+T190 Term-AR 1755 1764 Seguridad
+T191 Term-AR 166 185 acciones formativas
+T192 Term-AR 404 423 acciones formativas
+T193 Term-AR 739 758 acciones formativas
+T194 Term-AR 1174 1193 acciones formativas
+T195 Term-AR 583 586 así
+T196 Term-AR 1227 1237 aplicación
+T197 Term-AR 348 372 través de estas acciones
+T198 Term-AR 815 824 formación
+T199 Term-AR 1007 1016 formación
+T200 Term-AR 1148 1157 formación
+T201 Term-AR 909 918 Formación
+T202 Term-AR 111 120 artículos
+T203 Term-AR 1531 1552 Disposición adicional
+T204 Term-AR 348 357 través de
+T205 Term-AR 778 787 través de
+T206 Term-AR 1112 1121 través de
+T207 Term-AR 1328 1338 regulación
+T208 Term-AR 1609 1619 regulación
+T209 Term-AR 1062 1076 procedimientos
+T210 Term-AR 1244 1253 reducción
+T211 Term-AR 207 215 personas
+T212 Term-AR 323 331 personas
+T213 Term-AR 633 641 personas
+T214 Term-AR 1301 1307 ámbito
+T215 Term-AR 323 344 personas trabajadoras
+T216 Term-AR 633 654 personas trabajadoras
+T217 Term-AR 323 344 personas trabajadoras
+T218 Term-AR 633 654 personas trabajadoras
+T219 Term-AR 1270 1280 suspensión
+T220 Term-AR 1581 1586 datos
+T221 Term-AR 559 581 competencias digitales
+T222 Term-AR 697 706 actividad
+T223 Term-AR 1328 1347 regulación temporal
+T224 Term-AR 1609 1628 regulación temporal
+T225 Term-AR 1033 1059 acuerdo con los requisitos
+T226 Term-AR 1691 1699 Servicio
+T227 Term-AR 996 1003 sistema
+T228 Term-AR 1137 1144 sistema
+T229 Term-AR 332 344 trabajadoras
+T230 Term-AR 642 654 trabajadoras
+T231 Term-AR 500 512 trabajadores
+T232 Term-AR 138 146 empresas
+T233 Term-AR 485 493 empresas
+T234 Term-AR 726 733 empresa
+T235 Term-AR 1425 1434 descansos
+T236 Term-AR 841 844 Ley
+T237 Term-AR 939 942 Ley
+T238 Term-AR 129 132 bis
+T239 Term-AR 1670 1686 Seguridad Social
+T240 Term-AR 1755 1771 Seguridad Social
+T241 Term-AR 1464 1471 derecho
+T242 Term-AR 697 733 actividad desarrollada en la empresa
+T243 Term-AR 64 73 contratos
+T244 Term-AR 1285 1293 contrato
+T245 Term-AR 1112 1144 través de cualquier otro sistema
+T246 Term-AR 1510 1518 personal
+T247 Term-AR 38 45 trabajo
+T248 Term-AR 77 84 trabajo
+T249 Term-AR 1374 1381 trabajo
+T250 Term-AR 1745 1752 Trabajo
+T251 Term-AR 909 930 Formación Profesional
+T252 Term-AR 1007 1028 formación profesional
+T253 Term-AR 448 459 necesidades
+T254 Term-AR 1396 1400 caso
+T255 Term-LL 27 45 jornada de trabajo
+T256 Term-LL 1270 1293 suspensión del contrato
+T257 Term-LL 27 45 jornada de trabajo
+T258 Term-LL 1007 1028 formación profesional
+T259 Term-LL 27 34 jornada
+T260 Term-LL 1260 1267 jornada
+T261 Term-LL 27 34 jornada
+T262 Term-LL 1260 1267 jornada
+T263 Term-LL 38 45 trabajo
+T264 Term-LL 77 84 trabajo
+T265 Term-LL 1374 1381 trabajo
+T266 Term-LL 1227 1237 aplicación
+T267 Term-LL 64 72 contrato
+T268 Term-LL 1285 1293 contrato
+T269 Term-LL 1425 1433 descanso
+T270 Term-LL 332 342 trabajador
+T271 Term-LL 500 510 trabajador
+T272 Term-LL 642 652 trabajador
+T273 Term-LL 1301 1307 ámbito
+T274 Term-LL 1273 1280 pensión
+T275 Term-LL 815 824 formación
+T276 Term-LL 1007 1016 formación
+T277 Term-LL 1148 1157 formación
+T278 Term-LL 1194 1199 deber
+T279 Term-LL 1402 1407 deber
+T280 Term-LL 544 555 adquisición
+T281 Term-LL 138 145 empresa
+T282 Term-LL 485 492 empresa
+T283 Term-LL 726 733 empresa
+T284 Term-LL 1062 1075 procedimiento
+T285 Term-LL 1464 1471 derecho
+T286 Term-LL 1049 1058 requisito
+T287 Term-LL 270 281 competencia
+T288 Term-LL 559 570 competencia
+T289 Term-LL 1270 1280 suspensión
+T290 Term-LL 1510 1518 personal
+T291 Term-LL 1351 1357 empleo
+T292 Term-LL 1632 1638 empleo
+T293 Term-LL 1581 1586 datos
+T294 Term-LL 207 214 persona
+T295 Term-LL 323 330 persona
+T296 Term-LL 633 640 persona
+T297 Term-LL 1510 1517 persona
+T298 Term-LL 544 555 adquisición
+T299 Term-IAT 1581 1586 datos
+T300 Term-IAT 1227 1237 aplicación
+T301 Term-IAT 111 120 artículos
+T302 Term-IAT 1033 1040 acuerdo
+T303 Term-IAT 138 146 empresas
+T304 Term-IAT 485 493 empresas
+T305 Term-IAT 726 733 empresa
+T306 Term-IAT 544 555 adquisición
+T307 Term-IAT 1244 1253 reducción
+T308 Term-IAT 1270 1280 suspensión
+T309 Term-IAT 1062 1076 procedimientos
+T310 Term-IAT 500 512 trabajadores
+T311 Term-IAT 1351 1357 empleo
+T312 Term-IAT 1632 1638 empleo
+T313 Term-IAT 1711 1717 Empleo
+T314 Term-IAT 1670 1679 Seguridad
+T315 Term-IAT 1755 1764 Seguridad
+T316 Term-IAT 697 706 actividad
+T317 Term-IAT 64 73 contratos
+T318 Term-IAT 1285 1293 contrato
+T319 Term-IAT 996 1003 sistema
+T320 Term-IAT 1137 1144 sistema
+T321 Term-IAT 1425 1434 descansos
+T322 Term-IAT 1314 1324 expediente
+T323 Term-IAT 1594 1605 expedientes
+T324 Term-IAT 1328 1338 regulación
+T325 Term-IAT 1609 1619 regulación
+T326 Term-IAT 1731 1741 Inspección
+T327 Term-IAT 815 824 formación
+T328 Term-IAT 1007 1016 formación
+T329 Term-IAT 1148 1157 formación
+T330 Term-IAT 909 918 Formación

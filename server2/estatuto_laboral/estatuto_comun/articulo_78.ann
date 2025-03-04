@@ -1,0 +1,238 @@
+T1 Term-DPJ 425 429 caso
+T2 Term-DPJ 727 740 orden del día
+T3 Term-DPJ 137 154 centro de trabajo
+T4 Term-DPJ 280 297 centro de trabajo
+T5 Term-DPJ 147 154 trabajo
+T6 Term-DPJ 290 297 trabajo
+T7 Term-DPJ 127 134 empresa
+T8 Term-DPJ 270 277 empresa
+T9 Term-DPJ 448 455 empresa
+T10 Term-DPJ 639 646 empresa
+T11 Term-DPJ 851 858 empresa
+T12 Term-DPJ 987 994 empresa
+T13 Term-DPJ 785 797 convocatoria
+T14 Term-DPJ 260 266 comité
+T15 Term-DPJ 438 444 comité
+T16 Term-DPJ 50 61 conformidad
+T17 Term-DPJ 964 973 actividad
+T18 Term-DPJ 260 277 comité de empresa
+T19 Term-DPJ 438 455 comité de empresa
+T20 Term-DPJ 17 26 asambleas
+T21 Term-DPJ 184 192 asamblea
+T22 Term-DPJ 197 205 asamblea
+T23 Term-DPJ 392 400 asamblea
+T24 Term-DPJ 595 603 asamblea
+T25 Term-DPJ 884 892 asamblea
+T26 Term-DPJ 1086 1099 circunstancia
+T27 Term-DPJ 727 732 orden
+T28 Term-DPJ 247 255 personal
+T29 Term-DPJ 479 487 personal
+T30 Term-DPJ 917 924 medidas
+T31 Term-DPJ 0 8 Artículo
+T32 Term-DPJ 85 93 artículo
+T33 Term-DPJ 137 143 centro
+T34 Term-DPJ 280 286 centro
+T35 Term-DPJ 308 314 número
+T36 Term-TC 727 732 orden
+T37 Term-TC 804 811 nombres
+T38 Term-TC 0 8 Artículo
+T39 Term-TC 85 93 artículo
+T40 Term-TC 727 740 orden del día
+T41 Term-TC 964 980 actividad normal
+T42 Term-TC 137 154 centro de trabajo
+T43 Term-TC 280 297 centro de trabajo
+T44 Term-TC 438 455 comité de empresa
+T45 Term-TC 260 277 comité de empresa
+T46 Term-TC 987 994 empresa
+T47 Term-TC 639 646 empresa
+T48 Term-TC 127 134 empresa
+T49 Term-TC 851 858 empresa
+T50 Term-TC 247 255 personal
+T51 Term-TC 479 487 personal
+T52 Term-TC 1143 1152 plantilla
+T53 Term-TC 378 387 plantilla
+T54 Term-TC 1024 1030 turnos
+T55 Term-TC 1193 1203 desarrollo
+T56 Term-TC 540 550 desarrollo
+T57 Term-TC 162 169 derecho
+T58 Term-TC 819 827 personas
+T59 Term-TC 607 615 personas
+T60 Term-TC 50 61 conformidad
+T61 Term-TC 964 973 actividad
+T62 Term-TC 17 26 asambleas
+T63 Term-TC 392 400 asamblea
+T64 Term-TC 184 192 asamblea
+T65 Term-TC 884 892 asamblea
+T66 Term-TC 595 603 asamblea
+T67 Term-TC 197 205 asamblea
+T68 Term-TC 1086 1099 circunstancia
+T69 Term-TC 785 797 convocatoria
+T70 Term-TC 947 957 perjuicios
+T71 Term-TC 1157 1166 perjuicio
+T72 Term-TC 1210 1220 producción
+T73 Term-TC 1169 1179 alteración
+T74 Term-TC 871 878 asistir
+T75 Term-TC 579 588 presencia
+T76 Term-DV 727 740 orden del día
+T77 Term-DV 33 37 baja
+T78 Term-DV 104 108 baja
+T79 Term-DV 321 325 baja
+T80 Term-DV 1013 1017 baja
+T81 Term-DV 491 497 comuna
+T82 Term-DV 899 902 dar
+T83 Term-DV 162 169 derecho
+T84 Term-DV 737 740 día
+T85 Term-DV 1326 1329 día
+T86 Term-DV 127 134 empresa
+T87 Term-DV 270 277 empresa
+T88 Term-DV 448 455 empresa
+T89 Term-DV 639 646 empresa
+T90 Term-DV 771 778 empresa
+T91 Term-DV 851 858 empresa
+T92 Term-DV 987 994 empresa
+T93 Term-DV 771 781 empresario
+T94 Term-DV 336 338 fe
+T95 Term-DV 1311 1313 fe
+T96 Term-DV 950 956 juicio
+T97 Term-DV 1160 1166 juicio
+T98 Term-DV 236 242 legado
+T99 Term-DV 468 474 legado
+T100 Term-DV 804 810 nombre
+T101 Term-DV 533 538 norma
+T102 Term-DV 974 979 norma
+T103 Term-DV 1186 1191 norma
+T104 Term-DV 727 732 orden
+T105 Term-DV 1245 1252 parcial
+T106 Term-DV 935 939 para
+T107 Term-DV 947 956 perjuicio
+T108 Term-DV 1157 1166 perjuicio
+T109 Term-DV 247 254 persona
+T110 Term-DV 479 486 persona
+T111 Term-DV 607 614 persona
+T112 Term-DV 819 826 persona
+T113 Term-DV 247 255 personal
+T114 Term-DV 479 487 personal
+T115 Term-DV 579 588 presencia
+T116 Term-DV 745 756 presidencia
+T117 Term-DV 30 40 trabajador
+T118 Term-DV 101 111 trabajador
+T119 Term-DV 318 328 trabajador
+T120 Term-AR 540 550 desarrollo
+T121 Term-AR 1193 1203 desarrollo
+T122 Term-AR 533 550 normal desarrollo
+T123 Term-AR 1186 1203 normal desarrollo
+T124 Term-AR 737 740 día
+T125 Term-AR 1326 1329 día
+T126 Term-AR 17 26 asambleas
+T127 Term-AR 184 192 asamblea
+T128 Term-AR 197 205 asamblea
+T129 Term-AR 392 400 asamblea
+T130 Term-AR 595 603 asamblea
+T131 Term-AR 884 892 asamblea
+T132 Term-AR 607 646 personas no pertenecientes a la empresa
+T133 Term-AR 819 858 personas no pertenecientes a la empresa
+T134 Term-AR 1226 1254 diversas reuniones parciales
+T135 Term-AR 917 924 medidas
+T136 Term-AR 564 567 así
+T137 Term-AR 260 266 comité
+T138 Term-AR 438 444 comité
+T139 Term-AR 0 8 Artículo
+T140 Term-AR 85 93 artículo
+T141 Term-AR 607 615 personas
+T142 Term-AR 819 827 personas
+T143 Term-AR 1326 1343 día de la primera
+T144 Term-AR 964 973 actividad
+T145 Term-AR 234 243 delegados
+T146 Term-AR 466 475 delegados
+T147 Term-AR 1210 1220 producción
+T148 Term-AR 30 42 trabajadores
+T149 Term-AR 101 113 trabajadores
+T150 Term-AR 318 330 trabajadores
+T151 Term-AR 1086 1099 circunstancia
+T152 Term-AR 127 134 empresa
+T153 Term-AR 270 277 empresa
+T154 Term-AR 448 455 empresa
+T155 Term-AR 639 646 empresa
+T156 Term-AR 851 858 empresa
+T157 Term-AR 987 994 empresa
+T158 Term-AR 137 143 centro
+T159 Term-AR 280 286 centro
+T160 Term-AR 162 169 derecho
+T161 Term-AR 50 61 conformidad
+T162 Term-AR 308 314 número
+T163 Term-AR 727 732 orden
+T164 Term-AR 1024 1030 turnos
+T165 Term-AR 234 255 delegados de personal
+T166 Term-AR 466 487 delegados de personal
+T167 Term-AR 247 255 personal
+T168 Term-AR 479 487 personal
+T169 Term-AR 147 154 trabajo
+T170 Term-AR 290 297 trabajo
+T171 Term-AR 785 797 convocatoria
+T172 Term-AR 318 345 trabajadores no inferior al
+T173 Term-AR 425 429 caso
+T174 Term-AR 771 781 empresario
+T175 Term-LL 234 255 delegados de personal
+T176 Term-LL 466 487 delegados de personal
+T177 Term-LL 260 277 comité de empresa
+T178 Term-LL 438 455 comité de empresa
+T179 Term-LL 137 154 centro de trabajo
+T180 Term-LL 280 297 centro de trabajo
+T181 Term-LL 147 154 trabajo
+T182 Term-LL 290 297 trabajo
+T183 Term-LL 917 923 medida
+T184 Term-LL 30 40 trabajador
+T185 Term-LL 101 111 trabajador
+T186 Term-LL 318 328 trabajador
+T187 Term-LL 785 797 convocatoria
+T188 Term-LL 746 756 residencia
+T189 Term-LL 771 781 empresario
+T190 Term-LL 50 61 conformidad
+T191 Term-LL 234 242 delegado
+T192 Term-LL 466 474 delegado
+T193 Term-LL 127 134 empresa
+T194 Term-LL 270 277 empresa
+T195 Term-LL 448 455 empresa
+T196 Term-LL 639 646 empresa
+T197 Term-LL 771 778 empresa
+T198 Term-LL 851 858 empresa
+T199 Term-LL 987 994 empresa
+T200 Term-LL 260 266 comité
+T201 Term-LL 438 444 comité
+T202 Term-LL 162 169 derecho
+T203 Term-LL 947 956 perjuicio
+T204 Term-LL 1157 1166 perjuicio
+T205 Term-LL 247 255 personal
+T206 Term-LL 479 487 personal
+T207 Term-LL 247 254 persona
+T208 Term-LL 479 486 persona
+T209 Term-LL 607 614 persona
+T210 Term-LL 819 826 persona
+T211 Term-LL 1024 1029 turno
+T212 Term-LL 1235 1242 reunion
+T213 Term-IAT 785 797 convocatoria
+T214 Term-IAT 0 8 Artículo
+T215 Term-IAT 85 93 artículo
+T216 Term-IAT 127 134 empresa
+T217 Term-IAT 270 277 empresa
+T218 Term-IAT 448 455 empresa
+T219 Term-IAT 639 646 empresa
+T220 Term-IAT 851 858 empresa
+T221 Term-IAT 987 994 empresa
+T222 Term-IAT 50 61 conformidad
+T223 Term-IAT 771 781 empresario
+T224 Term-IAT 234 243 delegados
+T225 Term-IAT 466 475 delegados
+T226 Term-IAT 17 26 asambleas
+T227 Term-IAT 184 192 asamblea
+T228 Term-IAT 197 205 asamblea
+T229 Term-IAT 392 400 asamblea
+T230 Term-IAT 595 603 asamblea
+T231 Term-IAT 884 892 asamblea
+T232 Term-IAT 30 42 trabajadores
+T233 Term-IAT 101 113 trabajadores
+T234 Term-IAT 318 330 trabajadores
+T235 Term-IAT 727 732 orden
+T236 Term-IAT 964 973 actividad
+T237 Term-IAT 260 266 comité
+T238 Term-IAT 438 444 comité
