@@ -1,82 +1,82 @@
-T1 Term-DPJ 180 184 caso
-T2 Term-DPJ 316 327 negociación
-T3 Term-DPJ 853 864 negociación
-T4 Term-DPJ 108 114 ámbito
-T5 Term-DPJ 713 719 ámbito
-T6 Term-DPJ 1627 1633 ámbito
-T7 Term-DPJ 1385 1392 ámbitos
-T8 Term-DPJ 1676 1683 ámbitos
-T9 Term-DPJ 1341 1346 nivel
-T10 Term-DPJ 1545 1550 nivel
-T11 Term-DPJ 95 102 empresa
-T12 Term-DPJ 138 145 empresa
-T13 Term-DPJ 458 465 empresa
-T14 Term-DPJ 547 555 empresas
-T15 Term-DPJ 615 623 empresas
-T16 Term-DPJ 82 91 convenios
-T17 Term-DPJ 520 529 convenios
-T18 Term-DPJ 573 582 convenios
-T19 Term-DPJ 872 881 convenios
-T20 Term-DPJ 902 911 convenios
-T21 Term-DPJ 1175 1184 convenios
-T22 Term-DPJ 1589 1598 convenios
-T23 Term-DPJ 128 134 comité
-T24 Term-DPJ 286 292 comité
-T25 Term-DPJ 448 454 comité
-T26 Term-DPJ 1554 1572 comunidad autónoma
-T27 Term-DPJ 128 145 comité de empresa
-T28 Term-DPJ 448 465 comité de empresa
-T29 Term-DPJ 538 555 grupo de empresas
-T30 Term-DPJ 239 247 conjunto
-T31 Term-DPJ 164 172 personal
-T32 Term-DPJ 491 499 personal
-T33 Term-DPJ 1129 1137 personal
-T34 Term-DPJ 834 842 apartado
-T35 Term-DPJ 723 733 aplicación
-T36 Term-DPJ 1120 1128 votación
-T37 Term-DPJ 1554 1563 comunidad
-T38 Term-DPJ 538 543 grupo
-T39 Term-DPJ 927 932 grupo
-T40 Term-TC 1554 1572 comunidad autónoma
-T41 Term-TC 1175 1184 convenios
-T42 Term-TC 1589 1598 convenios
-T43 Term-TC 872 881 convenios
-T44 Term-TC 573 582 convenios
-T45 Term-TC 902 911 convenios
-T46 Term-TC 520 529 convenios
-T47 Term-TC 82 91 convenios
-T48 Term-TC 615 634 empresas vinculadas
-T49 Term-TC 927 932 grupo
-T50 Term-TC 538 543 grupo
-T51 Term-TC 738 750 legitimación
-T52 Term-TC 1341 1346 nivel
-T53 Term-TC 1545 1550 nivel
-T54 Term-TC 1554 1563 comunidad
-T55 Term-TC 1234 1248 representación
-T56 Term-TC 6 20 representación
-T57 Term-TC 768 782 representación
-T58 Term-TC 297 309 intervención
-T59 Term-TC 1120 1128 votación
-T60 Term-TC 316 327 negociación
-T61 Term-TC 853 864 negociación
-T62 Term-TC 713 733 ámbito de aplicación
-T63 Term-TC 1627 1645 ámbito territorial
-T64 Term-TC 1277 1287 sindicatos
-T65 Term-TC 1481 1491 sindicatos
-T66 Term-TC 448 465 comité de empresa
-T67 Term-TC 128 145 comité de empresa
-T68 Term-TC 95 102 empresa
-T69 Term-TC 547 555 empresas
-T70 Term-TC 615 623 empresas
-T71 Term-TC 491 499 personal
-T72 Term-TC 164 172 personal
-T73 Term-TC 1129 1137 personal
-T74 Term-TC 258 265 mayoría
-T75 Term-TC 420 427 mayoría
-T76 Term-TC 723 733 aplicación
-T77 Term-TC 286 292 comité
-T78 Term-TC 882 893 sectoriales
-T79 Term-TC 1185 1196 sectoriales
+T1 Term-DPEJ 180 184 caso
+T2 Term-DPEJ 316 327 negociación
+T3 Term-DPEJ 853 864 negociación
+T4 Term-DPEJ 108 114 ámbito
+T5 Term-DPEJ 713 719 ámbito
+T6 Term-DPEJ 1627 1633 ámbito
+T7 Term-DPEJ 1385 1392 ámbitos
+T8 Term-DPEJ 1676 1683 ámbitos
+T9 Term-DPEJ 1341 1346 nivel
+T10 Term-DPEJ 1545 1550 nivel
+T11 Term-DPEJ 95 102 empresa
+T12 Term-DPEJ 138 145 empresa
+T13 Term-DPEJ 458 465 empresa
+T14 Term-DPEJ 547 555 empresas
+T15 Term-DPEJ 615 623 empresas
+T16 Term-DPEJ 82 91 convenios
+T17 Term-DPEJ 520 529 convenios
+T18 Term-DPEJ 573 582 convenios
+T19 Term-DPEJ 872 881 convenios
+T20 Term-DPEJ 902 911 convenios
+T21 Term-DPEJ 1175 1184 convenios
+T22 Term-DPEJ 1589 1598 convenios
+T23 Term-DPEJ 128 134 comité
+T24 Term-DPEJ 286 292 comité
+T25 Term-DPEJ 448 454 comité
+T26 Term-DPEJ 1554 1572 comunidad autónoma
+T27 Term-DPEJ 128 145 comité de empresa
+T28 Term-DPEJ 448 465 comité de empresa
+T29 Term-DPEJ 538 555 grupo de empresas
+T30 Term-DPEJ 239 247 conjunto
+T31 Term-DPEJ 164 172 personal
+T32 Term-DPEJ 491 499 personal
+T33 Term-DPEJ 1129 1137 personal
+T34 Term-DPEJ 834 842 apartado
+T35 Term-DPEJ 723 733 aplicación
+T36 Term-DPEJ 1120 1128 votación
+T37 Term-DPEJ 1554 1563 comunidad
+T38 Term-DPEJ 538 543 grupo
+T39 Term-DPEJ 927 932 grupo
+T40 Term-Termcat 1554 1572 comunidad autónoma
+T41 Term-Termcat 1175 1184 convenios
+T42 Term-Termcat 1589 1598 convenios
+T43 Term-Termcat 872 881 convenios
+T44 Term-Termcat 573 582 convenios
+T45 Term-Termcat 902 911 convenios
+T46 Term-Termcat 520 529 convenios
+T47 Term-Termcat 82 91 convenios
+T48 Term-Termcat 615 634 empresas vinculadas
+T49 Term-Termcat 927 932 grupo
+T50 Term-Termcat 538 543 grupo
+T51 Term-Termcat 738 750 legitimación
+T52 Term-Termcat 1341 1346 nivel
+T53 Term-Termcat 1545 1550 nivel
+T54 Term-Termcat 1554 1563 comunidad
+T55 Term-Termcat 1234 1248 representación
+T56 Term-Termcat 6 20 representación
+T57 Term-Termcat 768 782 representación
+T58 Term-Termcat 297 309 intervención
+T59 Term-Termcat 1120 1128 votación
+T60 Term-Termcat 316 327 negociación
+T61 Term-Termcat 853 864 negociación
+T62 Term-Termcat 713 733 ámbito de aplicación
+T63 Term-Termcat 1627 1645 ámbito territorial
+T64 Term-Termcat 1277 1287 sindicatos
+T65 Term-Termcat 1481 1491 sindicatos
+T66 Term-Termcat 448 465 comité de empresa
+T67 Term-Termcat 128 145 comité de empresa
+T68 Term-Termcat 95 102 empresa
+T69 Term-Termcat 547 555 empresas
+T70 Term-Termcat 615 623 empresas
+T71 Term-Termcat 491 499 personal
+T72 Term-Termcat 164 172 personal
+T73 Term-Termcat 1129 1137 personal
+T74 Term-Termcat 258 265 mayoría
+T75 Term-Termcat 420 427 mayoría
+T76 Term-Termcat 723 733 aplicación
+T77 Term-Termcat 286 292 comité
+T78 Term-Termcat 882 893 sectoriales
+T79 Term-Termcat 1185 1196 sectoriales
 T80 Term-DV 31 35 baja
 T81 Term-DV 793 797 baja
 T82 Term-DV 939 943 baja
@@ -127,153 +127,153 @@ T126 Term-DV 28 38 trabajador
 T127 Term-DV 790 800 trabajador
 T128 Term-DV 936 946 trabajador
 T129 Term-DV 1256 1266 trabajador
-T130 Term-AR 538 543 grupo
-T131 Term-AR 927 932 grupo
-T132 Term-AR 902 982 convenios dirigidos a un grupo de trabajadores con perfil profesional específico
-T133 Term-AR 1554 1563 comunidad
-T134 Term-AR 382 385 así
-T135 Term-AR 557 560 así
-T136 Term-AR 1356 1359 así
-T137 Term-AR 1647 1650 así
-T138 Term-AR 723 733 aplicación
-T139 Term-AR 128 134 comité
-T140 Term-AR 286 292 comité
-T141 Term-AR 448 454 comité
-T142 Term-AR 1398 1423 organizaciones sindicales
-T143 Term-AR 1689 1714 organizaciones sindicales
-T144 Term-AR 1277 1287 sindicatos
-T145 Term-AR 1481 1491 sindicatos
-T146 Term-AR 1110 1119 través de
-T147 Term-AR 1627 1645 ámbito territorial
-T148 Term-AR 108 114 ámbito
-T149 Term-AR 713 719 ámbito
-T150 Term-AR 1627 1633 ámbito
-T151 Term-AR 1385 1392 ámbitos
-T152 Term-AR 1676 1683 ámbitos
-T153 Term-AR 82 91 convenios
-T154 Term-AR 520 529 convenios
-T155 Term-AR 573 582 convenios
-T156 Term-AR 872 881 convenios
-T157 Term-AR 902 911 convenios
-T158 Term-AR 1175 1184 convenios
-T159 Term-AR 1589 1598 convenios
-T160 Term-AR 273 281 miembros
-T161 Term-AR 435 443 miembros
-T162 Term-AR 151 160 delegados
-T163 Term-AR 478 487 delegados
-T164 Term-AR 1341 1346 nivel
-T165 Term-AR 1545 1550 nivel
-T166 Term-AR 6 40 representación de los trabajadores
-T167 Term-AR 768 802 representación de los trabajadores
-T168 Term-AR 1234 1268 representación de los trabajadores
-T169 Term-AR 1302 1338 consideración de más representativos
-T170 Term-AR 1506 1542 consideración de más representativos
-T171 Term-AR 1621 1645 dicho ámbito territorial
-T172 Term-AR 615 660 empresas vinculadas por razones organizativas
-T173 Term-AR 316 327 negociación
-T174 Term-AR 853 864 negociación
-T175 Term-AR 28 40 trabajadores
-T176 Term-AR 790 802 trabajadores
-T177 Term-AR 936 948 trabajadores
-T178 Term-AR 1256 1268 trabajadores
-T179 Term-AR 95 102 empresa
-T180 Term-AR 138 145 empresa
-T181 Term-AR 458 465 empresa
-T182 Term-AR 547 555 empresas
-T183 Term-AR 615 623 empresas
-T184 Term-AR 1341 1354 nivel estatal
-T185 Term-AR 6 20 representación
-T186 Term-AR 768 782 representación
-T187 Term-AR 1234 1248 representación
-T188 Term-AR 239 247 conjunto
-T189 Term-AR 1110 1137 través de votación personal
-T190 Term-AR 1120 1128 votación
-T191 Term-AR 1554 1572 comunidad autónoma
-T192 Term-AR 872 893 convenios sectoriales
-T193 Term-AR 1175 1196 convenios sectoriales
-T194 Term-AR 151 172 delegados de personal
-T195 Term-AR 478 499 delegados de personal
-T196 Term-AR 1302 1315 consideración
-T197 Term-AR 1506 1519 consideración
-T198 Term-AR 164 172 personal
-T199 Term-AR 491 499 personal
-T200 Term-AR 1129 1137 personal
-T201 Term-AR 192 212 secciones sindicales
-T202 Term-AR 348 368 secciones sindicales
-T203 Term-AR 1022 1042 secciones sindicales
-T204 Term-AR 180 184 caso
-T205 Term-AR 834 842 apartado
-T206 Term-LL 6 40 representación de los trabajadores
-T207 Term-LL 768 802 representación de los trabajadores
-T208 Term-LL 1234 1268 representación de los trabajadores
-T209 Term-LL 151 172 delegados de personal
-T210 Term-LL 478 499 delegados de personal
-T211 Term-LL 128 145 comité de empresa
-T212 Term-LL 448 465 comité de empresa
-T213 Term-LL 713 733 ámbito de aplicación
-T214 Term-LL 1627 1645 ámbito territorial
-T215 Term-LL 723 733 aplicación
-T216 Term-LL 1120 1128 votación
-T217 Term-LL 28 38 trabajador
-T218 Term-LL 790 800 trabajador
-T219 Term-LL 936 946 trabajador
-T220 Term-LL 1256 1266 trabajador
-T221 Term-LL 108 114 ámbito
-T222 Term-LL 713 719 ámbito
-T223 Term-LL 1385 1391 ámbito
-T224 Term-LL 1627 1633 ámbito
-T225 Term-LL 1676 1682 ámbito
-T226 Term-LL 1277 1286 sindicato
-T227 Term-LL 1481 1490 sindicato
-T228 Term-LL 151 159 delegado
-T229 Term-LL 478 486 delegado
-T230 Term-LL 95 102 empresa
-T231 Term-LL 138 145 empresa
-T232 Term-LL 458 465 empresa
-T233 Term-LL 547 554 empresa
-T234 Term-LL 615 622 empresa
-T235 Term-LL 128 134 comité
-T236 Term-LL 286 292 comité
-T237 Term-LL 448 454 comité
-T238 Term-LL 738 750 legitimación
-T239 Term-LL 1554 1563 comunidad
-T240 Term-LL 164 172 personal
-T241 Term-LL 491 499 personal
-T242 Term-LL 1129 1137 personal
-T243 Term-LL 164 171 persona
-T244 Term-LL 491 498 persona
-T245 Term-LL 1129 1136 persona
-T246 Term-IAT 723 733 aplicación
-T247 Term-IAT 239 247 conjunto
-T248 Term-IAT 1341 1346 nivel
-T249 Term-IAT 1545 1550 nivel
-T250 Term-IAT 538 543 grupo
-T251 Term-IAT 927 932 grupo
-T252 Term-IAT 95 102 empresa
-T253 Term-IAT 138 145 empresa
-T254 Term-IAT 458 465 empresa
-T255 Term-IAT 547 555 empresas
-T256 Term-IAT 615 623 empresas
-T257 Term-IAT 1554 1563 comunidad
-T258 Term-IAT 151 160 delegados
-T259 Term-IAT 478 487 delegados
-T260 Term-IAT 834 842 apartado
-T261 Term-IAT 28 40 trabajadores
-T262 Term-IAT 790 802 trabajadores
-T263 Term-IAT 936 948 trabajadores
-T264 Term-IAT 1256 1268 trabajadores
-T265 Term-IAT 1120 1128 votación
-T266 Term-IAT 273 281 miembros
-T267 Term-IAT 435 443 miembros
-T268 Term-IAT 128 134 comité
-T269 Term-IAT 286 292 comité
-T270 Term-IAT 448 454 comité
-T271 Term-IAT 316 327 negociación
-T272 Term-IAT 853 864 negociación
-T273 Term-IAT 82 91 convenios
-T274 Term-IAT 520 529 convenios
-T275 Term-IAT 573 582 convenios
-T276 Term-IAT 872 881 convenios
-T277 Term-IAT 902 911 convenios
-T278 Term-IAT 1175 1184 convenios
-T279 Term-IAT 1589 1598 convenios
+T130 Term-AttentionRank 538 543 grupo
+T131 Term-AttentionRank 927 932 grupo
+T132 Term-AttentionRank 902 982 convenios dirigidos a un grupo de trabajadores con perfil profesional específico
+T133 Term-AttentionRank 1554 1563 comunidad
+T134 Term-AttentionRank 382 385 así
+T135 Term-AttentionRank 557 560 así
+T136 Term-AttentionRank 1356 1359 así
+T137 Term-AttentionRank 1647 1650 así
+T138 Term-AttentionRank 723 733 aplicación
+T139 Term-AttentionRank 128 134 comité
+T140 Term-AttentionRank 286 292 comité
+T141 Term-AttentionRank 448 454 comité
+T142 Term-AttentionRank 1398 1423 organizaciones sindicales
+T143 Term-AttentionRank 1689 1714 organizaciones sindicales
+T144 Term-AttentionRank 1277 1287 sindicatos
+T145 Term-AttentionRank 1481 1491 sindicatos
+T146 Term-AttentionRank 1110 1119 través de
+T147 Term-AttentionRank 1627 1645 ámbito territorial
+T148 Term-AttentionRank 108 114 ámbito
+T149 Term-AttentionRank 713 719 ámbito
+T150 Term-AttentionRank 1627 1633 ámbito
+T151 Term-AttentionRank 1385 1392 ámbitos
+T152 Term-AttentionRank 1676 1683 ámbitos
+T153 Term-AttentionRank 82 91 convenios
+T154 Term-AttentionRank 520 529 convenios
+T155 Term-AttentionRank 573 582 convenios
+T156 Term-AttentionRank 872 881 convenios
+T157 Term-AttentionRank 902 911 convenios
+T158 Term-AttentionRank 1175 1184 convenios
+T159 Term-AttentionRank 1589 1598 convenios
+T160 Term-AttentionRank 273 281 miembros
+T161 Term-AttentionRank 435 443 miembros
+T162 Term-AttentionRank 151 160 delegados
+T163 Term-AttentionRank 478 487 delegados
+T164 Term-AttentionRank 1341 1346 nivel
+T165 Term-AttentionRank 1545 1550 nivel
+T166 Term-AttentionRank 6 40 representación de los trabajadores
+T167 Term-AttentionRank 768 802 representación de los trabajadores
+T168 Term-AttentionRank 1234 1268 representación de los trabajadores
+T169 Term-AttentionRank 1302 1338 consideración de más representativos
+T170 Term-AttentionRank 1506 1542 consideración de más representativos
+T171 Term-AttentionRank 1621 1645 dicho ámbito territorial
+T172 Term-AttentionRank 615 660 empresas vinculadas por razones organizativas
+T173 Term-AttentionRank 316 327 negociación
+T174 Term-AttentionRank 853 864 negociación
+T175 Term-AttentionRank 28 40 trabajadores
+T176 Term-AttentionRank 790 802 trabajadores
+T177 Term-AttentionRank 936 948 trabajadores
+T178 Term-AttentionRank 1256 1268 trabajadores
+T179 Term-AttentionRank 95 102 empresa
+T180 Term-AttentionRank 138 145 empresa
+T181 Term-AttentionRank 458 465 empresa
+T182 Term-AttentionRank 547 555 empresas
+T183 Term-AttentionRank 615 623 empresas
+T184 Term-AttentionRank 1341 1354 nivel estatal
+T185 Term-AttentionRank 6 20 representación
+T186 Term-AttentionRank 768 782 representación
+T187 Term-AttentionRank 1234 1248 representación
+T188 Term-AttentionRank 239 247 conjunto
+T189 Term-AttentionRank 1110 1137 través de votación personal
+T190 Term-AttentionRank 1120 1128 votación
+T191 Term-AttentionRank 1554 1572 comunidad autónoma
+T192 Term-AttentionRank 872 893 convenios sectoriales
+T193 Term-AttentionRank 1175 1196 convenios sectoriales
+T194 Term-AttentionRank 151 172 delegados de personal
+T195 Term-AttentionRank 478 499 delegados de personal
+T196 Term-AttentionRank 1302 1315 consideración
+T197 Term-AttentionRank 1506 1519 consideración
+T198 Term-AttentionRank 164 172 personal
+T199 Term-AttentionRank 491 499 personal
+T200 Term-AttentionRank 1129 1137 personal
+T201 Term-AttentionRank 192 212 secciones sindicales
+T202 Term-AttentionRank 348 368 secciones sindicales
+T203 Term-AttentionRank 1022 1042 secciones sindicales
+T204 Term-AttentionRank 180 184 caso
+T205 Term-AttentionRank 834 842 apartado
+T206 Term-LabourLaw 6 40 representación de los trabajadores
+T207 Term-LabourLaw 768 802 representación de los trabajadores
+T208 Term-LabourLaw 1234 1268 representación de los trabajadores
+T209 Term-LabourLaw 151 172 delegados de personal
+T210 Term-LabourLaw 478 499 delegados de personal
+T211 Term-LabourLaw 128 145 comité de empresa
+T212 Term-LabourLaw 448 465 comité de empresa
+T213 Term-LabourLaw 713 733 ámbito de aplicación
+T214 Term-LabourLaw 1627 1645 ámbito territorial
+T215 Term-LabourLaw 723 733 aplicación
+T216 Term-LabourLaw 1120 1128 votación
+T217 Term-LabourLaw 28 38 trabajador
+T218 Term-LabourLaw 790 800 trabajador
+T219 Term-LabourLaw 936 946 trabajador
+T220 Term-LabourLaw 1256 1266 trabajador
+T221 Term-LabourLaw 108 114 ámbito
+T222 Term-LabourLaw 713 719 ámbito
+T223 Term-LabourLaw 1385 1391 ámbito
+T224 Term-LabourLaw 1627 1633 ámbito
+T225 Term-LabourLaw 1676 1682 ámbito
+T226 Term-LabourLaw 1277 1286 sindicato
+T227 Term-LabourLaw 1481 1490 sindicato
+T228 Term-LabourLaw 151 159 delegado
+T229 Term-LabourLaw 478 486 delegado
+T230 Term-LabourLaw 95 102 empresa
+T231 Term-LabourLaw 138 145 empresa
+T232 Term-LabourLaw 458 465 empresa
+T233 Term-LabourLaw 547 554 empresa
+T234 Term-LabourLaw 615 622 empresa
+T235 Term-LabourLaw 128 134 comité
+T236 Term-LabourLaw 286 292 comité
+T237 Term-LabourLaw 448 454 comité
+T238 Term-LabourLaw 738 750 legitimación
+T239 Term-LabourLaw 1554 1563 comunidad
+T240 Term-LabourLaw 164 172 personal
+T241 Term-LabourLaw 491 499 personal
+T242 Term-LabourLaw 1129 1137 personal
+T243 Term-LabourLaw 164 171 persona
+T244 Term-LabourLaw 491 498 persona
+T245 Term-LabourLaw 1129 1136 persona
+T246 Term-IATE 723 733 aplicación
+T247 Term-IATE 239 247 conjunto
+T248 Term-IATE 1341 1346 nivel
+T249 Term-IATE 1545 1550 nivel
+T250 Term-IATE 538 543 grupo
+T251 Term-IATE 927 932 grupo
+T252 Term-IATE 95 102 empresa
+T253 Term-IATE 138 145 empresa
+T254 Term-IATE 458 465 empresa
+T255 Term-IATE 547 555 empresas
+T256 Term-IATE 615 623 empresas
+T257 Term-IATE 1554 1563 comunidad
+T258 Term-IATE 151 160 delegados
+T259 Term-IATE 478 487 delegados
+T260 Term-IATE 834 842 apartado
+T261 Term-IATE 28 40 trabajadores
+T262 Term-IATE 790 802 trabajadores
+T263 Term-IATE 936 948 trabajadores
+T264 Term-IATE 1256 1268 trabajadores
+T265 Term-IATE 1120 1128 votación
+T266 Term-IATE 273 281 miembros
+T267 Term-IATE 435 443 miembros
+T268 Term-IATE 128 134 comité
+T269 Term-IATE 286 292 comité
+T270 Term-IATE 448 454 comité
+T271 Term-IATE 316 327 negociación
+T272 Term-IATE 853 864 negociación
+T273 Term-IATE 82 91 convenios
+T274 Term-IATE 520 529 convenios
+T275 Term-IATE 573 582 convenios
+T276 Term-IATE 872 881 convenios
+T277 Term-IATE 902 911 convenios
+T278 Term-IATE 1175 1184 convenios
+T279 Term-IATE 1589 1598 convenios

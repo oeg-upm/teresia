@@ -1,90 +1,90 @@
-T1 Term-DPJ 936 940 caso
-T2 Term-DPJ 1630 1634 caso
-T3 Term-DPJ 1581 1589 acuerdos
-T4 Term-DPJ 1103 1112 violencia
-T5 Term-DPJ 80 91 negociación
-T6 Term-DPJ 325 336 negociación
-T7 Term-DPJ 1238 1249 negociación
-T8 Term-DPJ 1497 1508 negociación
-T9 Term-DPJ 1561 1572 negociación
-T10 Term-DPJ 279 286 ámbitos
-T11 Term-DPJ 633 639 ámbito
-T12 Term-DPJ 291 299 convenio
-T13 Term-DPJ 411 419 convenio
-T14 Term-DPJ 656 664 convenio
-T15 Term-DPJ 844 852 convenio
-T16 Term-DPJ 1056 1064 buena fe
-T17 Term-DPJ 233 244 conformidad
-T18 Term-DPJ 363 372 promoción
-T19 Term-DPJ 764 769 causa
-T20 Term-DPJ 411 429 convenio colectivo
-T21 Term-DPJ 1553 1557 plan
-T22 Term-DPJ 253 262 artículos
-T23 Term-DPJ 904 913 artículos
-T24 Term-DPJ 380 389 resultado
-T25 Term-TC 584 593 autoridad
-T26 Term-TC 656 664 convenio
-T27 Term-TC 291 299 convenio
-T28 Term-TC 844 852 convenio
-T29 Term-TC 411 419 convenio
-T30 Term-TC 205 217 legitimación
-T31 Term-TC 1302 1307 plazo
-T32 Term-TC 496 500 acto
-T33 Term-TC 1154 1160 bienes
-T34 Term-TC 1056 1064 buena fe
-T35 Term-TC 6 20 representación
-T36 Term-TC 1103 1112 violencia
-T37 Term-TC 904 913 artículos
-T38 Term-TC 253 262 artículos
-T39 Term-TC 1785 1797 intervención
-T40 Term-TC 1639 1643 voto
-T41 Term-TC 525 537 comunicación
-T42 Term-TC 156 168 comunicación
-T43 Term-TC 691 703 comunicación
-T44 Term-TC 442 454 comunicación
-T45 Term-TC 1356 1368 comunicación
-T46 Term-TC 1446 1458 comunicación
-T47 Term-TC 1561 1572 negociación
-T48 Term-TC 80 91 negociación
-T49 Term-TC 1497 1508 negociación
-T50 Term-TC 1238 1249 negociación
-T51 Term-TC 325 336 negociación
-T52 Term-TC 1424 1429 parte
-T53 Term-TC 117 122 parte
-T54 Term-TC 669 674 parte
-T55 Term-TC 1760 1766 partes
-T56 Term-TC 1517 1523 partes
-T57 Term-TC 1169 1175 partes
-T58 Term-TC 996 1002 partes
-T59 Term-TC 633 651 ámbito territorial
-T60 Term-TC 363 372 promoción
-T61 Term-TC 584 601 autoridad laboral
-T62 Term-TC 1540 1550 calendario
-T63 Term-TC 1596 1604 comisión
-T64 Term-TC 1399 1419 comisión negociadora
-T65 Term-TC 411 429 convenio colectivo
-T66 Term-TC 507 515 denuncia
-T67 Term-TC 396 404 denuncia
-T68 Term-TC 621 628 función
-T69 Term-TC 1130 1138 personas
-T70 Term-TC 1660 1667 mayoría
-T71 Term-TC 233 244 conformidad
-T72 Term-TC 1581 1589 acuerdos
-T73 Term-TC 764 769 causa
-T74 Term-TC 396 429 denuncia de un convenio colectivo
-T75 Term-TC 558 565 efectos
-T76 Term-TC 569 577 registro
-T77 Term-TC 728 738 iniciación
-T78 Term-TC 770 775 legal
-T79 Term-TC 306 314 materias
-T80 Term-TC 869 878 perjuicio
-T81 Term-TC 1553 1557 plan
-T82 Term-TC 1040 1049 principio
-T83 Term-TC 430 437 vigente
-T84 Term-TC 1774 1781 acordar
-T85 Term-TC 1399 1407 comisión
-T86 Term-TC 1340 1349 recepción
-T87 Term-TC 380 389 resultado
+T1 Term-DPEJ 936 940 caso
+T2 Term-DPEJ 1630 1634 caso
+T3 Term-DPEJ 1581 1589 acuerdos
+T4 Term-DPEJ 1103 1112 violencia
+T5 Term-DPEJ 80 91 negociación
+T6 Term-DPEJ 325 336 negociación
+T7 Term-DPEJ 1238 1249 negociación
+T8 Term-DPEJ 1497 1508 negociación
+T9 Term-DPEJ 1561 1572 negociación
+T10 Term-DPEJ 279 286 ámbitos
+T11 Term-DPEJ 633 639 ámbito
+T12 Term-DPEJ 291 299 convenio
+T13 Term-DPEJ 411 419 convenio
+T14 Term-DPEJ 656 664 convenio
+T15 Term-DPEJ 844 852 convenio
+T16 Term-DPEJ 1056 1064 buena fe
+T17 Term-DPEJ 233 244 conformidad
+T18 Term-DPEJ 363 372 promoción
+T19 Term-DPEJ 764 769 causa
+T20 Term-DPEJ 411 429 convenio colectivo
+T21 Term-DPEJ 1553 1557 plan
+T22 Term-DPEJ 253 262 artículos
+T23 Term-DPEJ 904 913 artículos
+T24 Term-DPEJ 380 389 resultado
+T25 Term-Termcat 584 593 autoridad
+T26 Term-Termcat 656 664 convenio
+T27 Term-Termcat 291 299 convenio
+T28 Term-Termcat 844 852 convenio
+T29 Term-Termcat 411 419 convenio
+T30 Term-Termcat 205 217 legitimación
+T31 Term-Termcat 1302 1307 plazo
+T32 Term-Termcat 496 500 acto
+T33 Term-Termcat 1154 1160 bienes
+T34 Term-Termcat 1056 1064 buena fe
+T35 Term-Termcat 6 20 representación
+T36 Term-Termcat 1103 1112 violencia
+T37 Term-Termcat 904 913 artículos
+T38 Term-Termcat 253 262 artículos
+T39 Term-Termcat 1785 1797 intervención
+T40 Term-Termcat 1639 1643 voto
+T41 Term-Termcat 525 537 comunicación
+T42 Term-Termcat 156 168 comunicación
+T43 Term-Termcat 691 703 comunicación
+T44 Term-Termcat 442 454 comunicación
+T45 Term-Termcat 1356 1368 comunicación
+T46 Term-Termcat 1446 1458 comunicación
+T47 Term-Termcat 1561 1572 negociación
+T48 Term-Termcat 80 91 negociación
+T49 Term-Termcat 1497 1508 negociación
+T50 Term-Termcat 1238 1249 negociación
+T51 Term-Termcat 325 336 negociación
+T52 Term-Termcat 1424 1429 parte
+T53 Term-Termcat 117 122 parte
+T54 Term-Termcat 669 674 parte
+T55 Term-Termcat 1760 1766 partes
+T56 Term-Termcat 1517 1523 partes
+T57 Term-Termcat 1169 1175 partes
+T58 Term-Termcat 996 1002 partes
+T59 Term-Termcat 633 651 ámbito territorial
+T60 Term-Termcat 363 372 promoción
+T61 Term-Termcat 584 601 autoridad laboral
+T62 Term-Termcat 1540 1550 calendario
+T63 Term-Termcat 1596 1604 comisión
+T64 Term-Termcat 1399 1419 comisión negociadora
+T65 Term-Termcat 411 429 convenio colectivo
+T66 Term-Termcat 507 515 denuncia
+T67 Term-Termcat 396 404 denuncia
+T68 Term-Termcat 621 628 función
+T69 Term-Termcat 1130 1138 personas
+T70 Term-Termcat 1660 1667 mayoría
+T71 Term-Termcat 233 244 conformidad
+T72 Term-Termcat 1581 1589 acuerdos
+T73 Term-Termcat 764 769 causa
+T74 Term-Termcat 396 429 denuncia de un convenio colectivo
+T75 Term-Termcat 558 565 efectos
+T76 Term-Termcat 569 577 registro
+T77 Term-Termcat 728 738 iniciación
+T78 Term-Termcat 770 775 legal
+T79 Term-Termcat 306 314 materias
+T80 Term-Termcat 869 878 perjuicio
+T81 Term-Termcat 1553 1557 plan
+T82 Term-Termcat 1040 1049 principio
+T83 Term-Termcat 430 437 vigente
+T84 Term-Termcat 1774 1781 acordar
+T85 Term-Termcat 1399 1407 comisión
+T86 Term-Termcat 1340 1349 recepción
+T87 Term-Termcat 380 389 resultado
 T88 Term-DV 31 35 baja
 T89 Term-DV 1154 1158 bien
 T90 Term-DV 1540 1550 calendario
@@ -151,134 +151,134 @@ T150 Term-DV 1639 1643 voto
 T151 Term-DV 125 126 x
 T152 Term-DV 1192 1193 x
 T153 Term-DV 1310 1311 x
-T154 Term-AR 253 273 artículos anteriores
-T155 Term-AR 569 577 registro
-T156 Term-AR 117 122 parte
-T157 Term-AR 669 674 parte
-T158 Term-AR 1424 1429 parte
-T159 Term-AR 996 1002 partes
-T160 Term-AR 1169 1175 partes
-T161 Term-AR 1517 1523 partes
-T162 Term-AR 1760 1766 partes
-T163 Term-AR 1581 1589 acuerdos
-T164 Term-AR 584 593 autoridad
-T165 Term-AR 1553 1557 plan
-T166 Term-AR 380 389 resultado
-T167 Term-AR 1804 1826 mediador designado por
-T168 Term-AR 764 769 causa
-T169 Term-AR 1056 1064 buena fe
-T170 Term-AR 363 372 promoción
-T171 Term-AR 558 568 efectos de
-T172 Term-AR 1399 1419 comisión negociadora
-T173 Term-AR 1466 1469 res
-T174 Term-AR 496 500 acto
-T175 Term-AR 1327 1333 partir
-T176 Term-AR 253 262 artículos
-T177 Term-AR 904 913 artículos
-T178 Term-AR 344 352 supuesto
-T179 Term-AR 1073 1082 supuestos
-T180 Term-AR 633 651 ámbito territorial
-T181 Term-AR 584 601 autoridad laboral
-T182 Term-AR 1130 1138 personas
-T183 Term-AR 279 286 ámbitos
-T184 Term-AR 633 639 ámbito
-T185 Term-AR 1321 1324 mes
-T186 Term-AR 291 299 convenio
-T187 Term-AR 411 419 convenio
-T188 Term-AR 656 664 convenio
-T189 Term-AR 844 852 convenio
-T190 Term-AR 1639 1653 voto favorable
-T191 Term-AR 764 775 causa legal
-T192 Term-AR 1103 1112 violencia
-T193 Term-AR 6 40 representación de los trabajadores
-T194 Term-AR 156 168 comunicación
-T195 Term-AR 442 454 comunicación
-T196 Term-AR 525 537 comunicación
-T197 Term-AR 691 703 comunicación
-T198 Term-AR 1356 1368 comunicación
-T199 Term-AR 1446 1458 comunicación
-T200 Term-AR 80 91 negociación
-T201 Term-AR 325 336 negociación
-T202 Term-AR 1238 1249 negociación
-T203 Term-AR 1497 1508 negociación
-T204 Term-AR 1561 1572 negociación
-T205 Term-AR 28 40 trabajadores
-T206 Term-AR 1302 1307 plazo
-T207 Term-AR 1399 1407 comisión
-T208 Term-AR 1596 1604 comisión
-T209 Term-AR 6 20 representación
-T210 Term-AR 306 314 materias
-T211 Term-AR 844 855 convenio ya
-T212 Term-AR 1725 1732 momento
-T213 Term-AR 1639 1643 voto
-T214 Term-AR 1302 1314 plazo máximo
-T215 Term-AR 233 244 conformidad
-T216 Term-AR 621 628 función
-T217 Term-AR 558 565 efectos
-T218 Term-AR 411 429 convenio colectivo
-T219 Term-AR 1253 1258 curso
-T220 Term-AR 936 940 caso
-T221 Term-AR 1630 1634 caso
-T222 Term-AR 1327 1349 partir de la recepción
-T223 Term-AR 51 62 empresarios
-T224 Term-LL 6 40 representación de los trabajadores
-T225 Term-LL 411 429 convenio colectivo
-T226 Term-LL 633 651 ámbito territorial
-T227 Term-LL 1056 1064 buena fe
-T228 Term-LL 584 601 autoridad laboral
-T229 Term-LL 1399 1419 comisión negociadora
-T230 Term-LL 1399 1407 comisión
-T231 Term-LL 1596 1604 comisión
-T232 Term-LL 28 38 trabajador
-T233 Term-LL 279 285 ámbito
-T234 Term-LL 633 639 ámbito
-T235 Term-LL 174 179 deber
-T236 Term-LL 455 460 deber
-T237 Term-LL 944 949 deber
-T238 Term-LL 1459 1464 deber
-T239 Term-LL 51 61 empresario
-T240 Term-LL 584 593 autoridad
-T241 Term-LL 233 244 conformidad
-T242 Term-LL 363 372 promoción
-T243 Term-LL 1040 1049 principio
-T244 Term-LL 51 58 empresa
-T245 Term-LL 869 878 perjuicio
-T246 Term-LL 205 217 legitimación
-T247 Term-LL 420 429 colectivo
-T248 Term-LL 1130 1137 persona
-T249 Term-LL 363 372 promoción
-T250 Term-LL 396 404 denuncia
-T251 Term-LL 507 515 denuncia
-T252 Term-IAT 1466 1469 res
-T253 Term-IAT 1725 1732 momento
-T254 Term-IAT 117 122 parte
-T255 Term-IAT 669 674 parte
-T256 Term-IAT 1424 1429 parte
-T257 Term-IAT 996 1002 partes
-T258 Term-IAT 1169 1175 partes
-T259 Term-IAT 1517 1523 partes
-T260 Term-IAT 1760 1766 partes
-T261 Term-IAT 253 262 artículos
-T262 Term-IAT 904 913 artículos
-T263 Term-IAT 1302 1307 plazo
-T264 Term-IAT 1581 1589 acuerdos
-T265 Term-IAT 621 628 función
-T266 Term-IAT 233 244 conformidad
-T267 Term-IAT 51 62 empresarios
-T268 Term-IAT 1553 1557 plan
-T269 Term-IAT 569 577 registro
-T270 Term-IAT 28 40 trabajadores
-T271 Term-IAT 306 314 materias
-T272 Term-IAT 558 565 efectos
-T273 Term-IAT 80 91 negociación
-T274 Term-IAT 325 336 negociación
-T275 Term-IAT 1238 1249 negociación
-T276 Term-IAT 1497 1508 negociación
-T277 Term-IAT 1561 1572 negociación
-T278 Term-IAT 1399 1407 comisión
-T279 Term-IAT 1596 1604 comisión
-T280 Term-IAT 291 299 convenio
-T281 Term-IAT 411 419 convenio
-T282 Term-IAT 656 664 convenio
-T283 Term-IAT 844 852 convenio
-T284 Term-IAT 1321 1324 mes
+T154 Term-AttentionRank 253 273 artículos anteriores
+T155 Term-AttentionRank 569 577 registro
+T156 Term-AttentionRank 117 122 parte
+T157 Term-AttentionRank 669 674 parte
+T158 Term-AttentionRank 1424 1429 parte
+T159 Term-AttentionRank 996 1002 partes
+T160 Term-AttentionRank 1169 1175 partes
+T161 Term-AttentionRank 1517 1523 partes
+T162 Term-AttentionRank 1760 1766 partes
+T163 Term-AttentionRank 1581 1589 acuerdos
+T164 Term-AttentionRank 584 593 autoridad
+T165 Term-AttentionRank 1553 1557 plan
+T166 Term-AttentionRank 380 389 resultado
+T167 Term-AttentionRank 1804 1826 mediador designado por
+T168 Term-AttentionRank 764 769 causa
+T169 Term-AttentionRank 1056 1064 buena fe
+T170 Term-AttentionRank 363 372 promoción
+T171 Term-AttentionRank 558 568 efectos de
+T172 Term-AttentionRank 1399 1419 comisión negociadora
+T173 Term-AttentionRank 1466 1469 res
+T174 Term-AttentionRank 496 500 acto
+T175 Term-AttentionRank 1327 1333 partir
+T176 Term-AttentionRank 253 262 artículos
+T177 Term-AttentionRank 904 913 artículos
+T178 Term-AttentionRank 344 352 supuesto
+T179 Term-AttentionRank 1073 1082 supuestos
+T180 Term-AttentionRank 633 651 ámbito territorial
+T181 Term-AttentionRank 584 601 autoridad laboral
+T182 Term-AttentionRank 1130 1138 personas
+T183 Term-AttentionRank 279 286 ámbitos
+T184 Term-AttentionRank 633 639 ámbito
+T185 Term-AttentionRank 1321 1324 mes
+T186 Term-AttentionRank 291 299 convenio
+T187 Term-AttentionRank 411 419 convenio
+T188 Term-AttentionRank 656 664 convenio
+T189 Term-AttentionRank 844 852 convenio
+T190 Term-AttentionRank 1639 1653 voto favorable
+T191 Term-AttentionRank 764 775 causa legal
+T192 Term-AttentionRank 1103 1112 violencia
+T193 Term-AttentionRank 6 40 representación de los trabajadores
+T194 Term-AttentionRank 156 168 comunicación
+T195 Term-AttentionRank 442 454 comunicación
+T196 Term-AttentionRank 525 537 comunicación
+T197 Term-AttentionRank 691 703 comunicación
+T198 Term-AttentionRank 1356 1368 comunicación
+T199 Term-AttentionRank 1446 1458 comunicación
+T200 Term-AttentionRank 80 91 negociación
+T201 Term-AttentionRank 325 336 negociación
+T202 Term-AttentionRank 1238 1249 negociación
+T203 Term-AttentionRank 1497 1508 negociación
+T204 Term-AttentionRank 1561 1572 negociación
+T205 Term-AttentionRank 28 40 trabajadores
+T206 Term-AttentionRank 1302 1307 plazo
+T207 Term-AttentionRank 1399 1407 comisión
+T208 Term-AttentionRank 1596 1604 comisión
+T209 Term-AttentionRank 6 20 representación
+T210 Term-AttentionRank 306 314 materias
+T211 Term-AttentionRank 844 855 convenio ya
+T212 Term-AttentionRank 1725 1732 momento
+T213 Term-AttentionRank 1639 1643 voto
+T214 Term-AttentionRank 1302 1314 plazo máximo
+T215 Term-AttentionRank 233 244 conformidad
+T216 Term-AttentionRank 621 628 función
+T217 Term-AttentionRank 558 565 efectos
+T218 Term-AttentionRank 411 429 convenio colectivo
+T219 Term-AttentionRank 1253 1258 curso
+T220 Term-AttentionRank 936 940 caso
+T221 Term-AttentionRank 1630 1634 caso
+T222 Term-AttentionRank 1327 1349 partir de la recepción
+T223 Term-AttentionRank 51 62 empresarios
+T224 Term-LabourLaw 6 40 representación de los trabajadores
+T225 Term-LabourLaw 411 429 convenio colectivo
+T226 Term-LabourLaw 633 651 ámbito territorial
+T227 Term-LabourLaw 1056 1064 buena fe
+T228 Term-LabourLaw 584 601 autoridad laboral
+T229 Term-LabourLaw 1399 1419 comisión negociadora
+T230 Term-LabourLaw 1399 1407 comisión
+T231 Term-LabourLaw 1596 1604 comisión
+T232 Term-LabourLaw 28 38 trabajador
+T233 Term-LabourLaw 279 285 ámbito
+T234 Term-LabourLaw 633 639 ámbito
+T235 Term-LabourLaw 174 179 deber
+T236 Term-LabourLaw 455 460 deber
+T237 Term-LabourLaw 944 949 deber
+T238 Term-LabourLaw 1459 1464 deber
+T239 Term-LabourLaw 51 61 empresario
+T240 Term-LabourLaw 584 593 autoridad
+T241 Term-LabourLaw 233 244 conformidad
+T242 Term-LabourLaw 363 372 promoción
+T243 Term-LabourLaw 1040 1049 principio
+T244 Term-LabourLaw 51 58 empresa
+T245 Term-LabourLaw 869 878 perjuicio
+T246 Term-LabourLaw 205 217 legitimación
+T247 Term-LabourLaw 420 429 colectivo
+T248 Term-LabourLaw 1130 1137 persona
+T249 Term-LabourLaw 363 372 promoción
+T250 Term-LabourLaw 396 404 denuncia
+T251 Term-LabourLaw 507 515 denuncia
+T252 Term-IATE 1466 1469 res
+T253 Term-IATE 1725 1732 momento
+T254 Term-IATE 117 122 parte
+T255 Term-IATE 669 674 parte
+T256 Term-IATE 1424 1429 parte
+T257 Term-IATE 996 1002 partes
+T258 Term-IATE 1169 1175 partes
+T259 Term-IATE 1517 1523 partes
+T260 Term-IATE 1760 1766 partes
+T261 Term-IATE 253 262 artículos
+T262 Term-IATE 904 913 artículos
+T263 Term-IATE 1302 1307 plazo
+T264 Term-IATE 1581 1589 acuerdos
+T265 Term-IATE 621 628 función
+T266 Term-IATE 233 244 conformidad
+T267 Term-IATE 51 62 empresarios
+T268 Term-IATE 1553 1557 plan
+T269 Term-IATE 569 577 registro
+T270 Term-IATE 28 40 trabajadores
+T271 Term-IATE 306 314 materias
+T272 Term-IATE 558 565 efectos
+T273 Term-IATE 80 91 negociación
+T274 Term-IATE 325 336 negociación
+T275 Term-IATE 1238 1249 negociación
+T276 Term-IATE 1497 1508 negociación
+T277 Term-IATE 1561 1572 negociación
+T278 Term-IATE 1399 1407 comisión
+T279 Term-IATE 1596 1604 comisión
+T280 Term-IATE 291 299 convenio
+T281 Term-IATE 411 419 convenio
+T282 Term-IATE 656 664 convenio
+T283 Term-IATE 844 852 convenio
+T284 Term-IATE 1321 1324 mes

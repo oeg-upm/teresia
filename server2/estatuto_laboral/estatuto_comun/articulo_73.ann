@@ -1,47 +1,47 @@
-T1 Term-DPJ 274 281 órganos
-T2 Term-DPJ 61 69 trabajos
-T3 Term-DPJ 149 157 trabajos
-T4 Term-DPJ 495 503 trabajos
-T5 Term-DPJ 794 806 convocatoria
-T6 Term-DPJ 211 219 contrato
-T7 Term-DPJ 557 565 contrato
-T8 Term-DPJ 857 865 fracción
-T9 Term-DPJ 308 314 título
-T10 Term-DPJ 813 821 elección
-T11 Term-DPJ 48 57 servicios
-T12 Term-DPJ 136 145 servicios
-T13 Term-DPJ 482 491 servicios
-T14 Term-DPJ 604 607 año
-T15 Term-DPJ 703 706 año
-T16 Term-DPJ 776 779 año
-T17 Term-DPJ 0 8 Artículo
-T18 Term-DPJ 411 417 número
-T19 Term-DPJ 730 736 número
-T20 Term-TC 482 491 servicios
-T21 Term-TC 48 57 servicios
-T22 Term-TC 136 145 servicios
-T23 Term-TC 683 690 término
-T24 Term-TC 557 565 contrato
-T25 Term-TC 211 219 contrato
-T26 Term-TC 14 28 Representantes
-T27 Term-TC 421 435 representantes
-T28 Term-TC 308 314 título
-T29 Term-TC 0 8 Artículo
-T30 Term-TC 149 163 trabajos fijos
-T31 Term-TC 495 509 trabajos fijos
-T32 Term-TC 61 75 trabajos fijos
-T33 Term-TC 359 368 plantilla
-T34 Term-TC 649 658 plantilla
-T35 Term-TC 569 577 duración
-T36 Term-TC 223 231 duración
-T37 Term-TC 794 806 convocatoria
-T38 Term-TC 386 393 efectos
-T39 Term-TC 813 821 elección
-T40 Term-TC 495 503 trabajos
-T41 Term-TC 61 69 trabajos
-T42 Term-TC 149 157 trabajos
-T43 Term-TC 274 281 órganos
-T44 Term-TC 590 598 superior
+T1 Term-DPEJ 274 281 órganos
+T2 Term-DPEJ 61 69 trabajos
+T3 Term-DPEJ 149 157 trabajos
+T4 Term-DPEJ 495 503 trabajos
+T5 Term-DPEJ 794 806 convocatoria
+T6 Term-DPEJ 211 219 contrato
+T7 Term-DPEJ 557 565 contrato
+T8 Term-DPEJ 857 865 fracción
+T9 Term-DPEJ 308 314 título
+T10 Term-DPEJ 813 821 elección
+T11 Term-DPEJ 48 57 servicios
+T12 Term-DPEJ 136 145 servicios
+T13 Term-DPEJ 482 491 servicios
+T14 Term-DPEJ 604 607 año
+T15 Term-DPEJ 703 706 año
+T16 Term-DPEJ 776 779 año
+T17 Term-DPEJ 0 8 Artículo
+T18 Term-DPEJ 411 417 número
+T19 Term-DPEJ 730 736 número
+T20 Term-Termcat 482 491 servicios
+T21 Term-Termcat 48 57 servicios
+T22 Term-Termcat 136 145 servicios
+T23 Term-Termcat 683 690 término
+T24 Term-Termcat 557 565 contrato
+T25 Term-Termcat 211 219 contrato
+T26 Term-Termcat 14 28 Representantes
+T27 Term-Termcat 421 435 representantes
+T28 Term-Termcat 308 314 título
+T29 Term-Termcat 0 8 Artículo
+T30 Term-Termcat 149 163 trabajos fijos
+T31 Term-Termcat 495 509 trabajos fijos
+T32 Term-Termcat 61 75 trabajos fijos
+T33 Term-Termcat 359 368 plantilla
+T34 Term-Termcat 649 658 plantilla
+T35 Term-Termcat 569 577 duración
+T36 Term-Termcat 223 231 duración
+T37 Term-Termcat 794 806 convocatoria
+T38 Term-Termcat 386 393 efectos
+T39 Term-Termcat 813 821 elección
+T40 Term-Termcat 495 503 trabajos
+T41 Term-Termcat 61 69 trabajos
+T42 Term-Termcat 149 157 trabajos
+T43 Term-Termcat 274 281 órganos
+T44 Term-Termcat 590 598 superior
 T45 Term-DV 859 865 acción
 T46 Term-DV 97 101 baja
 T47 Term-DV 186 190 baja
@@ -71,88 +71,88 @@ T70 Term-DV 529 539 trabajador
 T71 Term-DV 627 637 trabajador
 T72 Term-DV 887 897 trabajador
 T73 Term-DV 670 677 tratado
-T74 Term-AR 337 355 trabajadores fijos
-T75 Term-AR 627 645 trabajadores fijos
-T76 Term-AR 14 28 Representantes
-T77 Term-AR 421 435 representantes
-T78 Term-AR 604 607 año
-T79 Term-AR 703 706 año
-T80 Term-AR 776 779 año
-T81 Term-AR 740 744 días
-T82 Term-AR 839 843 días
-T83 Term-AR 762 769 periodo
-T84 Term-AR 386 396 efectos de
-T85 Term-AR 0 8 Artículo
-T86 Term-AR 683 706 término de hasta un año
-T87 Term-AR 308 314 título
-T88 Term-AR 223 243 duración determinada
-T89 Term-AR 569 589 duración determinada
-T90 Term-AR 223 231 duración
-T91 Term-AR 569 577 duración
-T92 Term-AR 48 57 servicios
-T93 Term-AR 136 145 servicios
-T94 Term-AR 482 491 servicios
-T95 Term-AR 94 106 trabajadores
-T96 Term-AR 183 195 trabajadores
-T97 Term-AR 337 349 trabajadores
-T98 Term-AR 529 541 trabajadores
-T99 Term-AR 627 639 trabajadores
-T100 Term-AR 887 897 trabajador
-T101 Term-AR 274 281 órganos
-T102 Term-AR 740 755 días trabajados
-T103 Term-AR 839 854 días trabajados
-T104 Term-AR 740 821 días trabajados en el periodo de un año anterior a la convocatoria de la elección
-T105 Term-AR 411 417 número
-T106 Term-AR 730 736 número
-T107 Term-AR 211 219 contrato
-T108 Term-AR 557 565 contrato
-T109 Term-AR 386 393 efectos
-T110 Term-AR 857 865 fracción
-T111 Term-AR 813 821 elección
-T112 Term-AR 61 69 trabajos
-T113 Term-AR 149 157 trabajos
-T114 Term-AR 495 503 trabajos
-T115 Term-AR 794 806 convocatoria
-T116 Term-LL 61 68 trabajo
-T117 Term-LL 149 156 trabajo
-T118 Term-LL 495 502 trabajo
-T119 Term-LL 859 865 acción
-T120 Term-LL 211 219 contrato
-T121 Term-LL 557 565 contrato
-T122 Term-LL 421 434 representante
-T123 Term-LL 94 104 trabajador
-T124 Term-LL 183 193 trabajador
-T125 Term-LL 337 347 trabajador
-T126 Term-LL 529 539 trabajador
-T127 Term-LL 627 637 trabajador
-T128 Term-LL 887 897 trabajador
-T129 Term-LL 794 806 convocatoria
-T130 Term-LL 813 821 elección
-T131 Term-LL 274 280 órgano
-T132 Term-LL 48 56 servicio
-T133 Term-LL 136 144 servicio
-T134 Term-LL 482 490 servicio
-T135 Term-LL 223 231 duración
-T136 Term-LL 569 577 duración
-T137 Term-LL 683 690 término
-T138 Term-LL 611 619 computar
-T139 Term-LL 710 718 computar
-T140 Term-LL 869 877 computar
-T141 Term-LL 762 769 periodo
-T142 Term-IAT 794 806 convocatoria
-T143 Term-IAT 308 314 título
-T144 Term-IAT 0 8 Artículo
-T145 Term-IAT 94 106 trabajadores
-T146 Term-IAT 183 195 trabajadores
-T147 Term-IAT 337 349 trabajadores
-T148 Term-IAT 529 541 trabajadores
-T149 Term-IAT 627 639 trabajadores
-T150 Term-IAT 887 897 trabajador
-T151 Term-IAT 211 219 contrato
-T152 Term-IAT 557 565 contrato
-T153 Term-IAT 386 393 efectos
-T154 Term-IAT 857 865 fracción
-T155 Term-IAT 14 28 Representantes
-T156 Term-IAT 421 435 representantes
-T157 Term-IAT 223 231 duración
-T158 Term-IAT 569 577 duración
+T74 Term-AttentionRank 337 355 trabajadores fijos
+T75 Term-AttentionRank 627 645 trabajadores fijos
+T76 Term-AttentionRank 14 28 Representantes
+T77 Term-AttentionRank 421 435 representantes
+T78 Term-AttentionRank 604 607 año
+T79 Term-AttentionRank 703 706 año
+T80 Term-AttentionRank 776 779 año
+T81 Term-AttentionRank 740 744 días
+T82 Term-AttentionRank 839 843 días
+T83 Term-AttentionRank 762 769 periodo
+T84 Term-AttentionRank 386 396 efectos de
+T85 Term-AttentionRank 0 8 Artículo
+T86 Term-AttentionRank 683 706 término de hasta un año
+T87 Term-AttentionRank 308 314 título
+T88 Term-AttentionRank 223 243 duración determinada
+T89 Term-AttentionRank 569 589 duración determinada
+T90 Term-AttentionRank 223 231 duración
+T91 Term-AttentionRank 569 577 duración
+T92 Term-AttentionRank 48 57 servicios
+T93 Term-AttentionRank 136 145 servicios
+T94 Term-AttentionRank 482 491 servicios
+T95 Term-AttentionRank 94 106 trabajadores
+T96 Term-AttentionRank 183 195 trabajadores
+T97 Term-AttentionRank 337 349 trabajadores
+T98 Term-AttentionRank 529 541 trabajadores
+T99 Term-AttentionRank 627 639 trabajadores
+T100 Term-AttentionRank 887 897 trabajador
+T101 Term-AttentionRank 274 281 órganos
+T102 Term-AttentionRank 740 755 días trabajados
+T103 Term-AttentionRank 839 854 días trabajados
+T104 Term-AttentionRank 740 821 días trabajados en el periodo de un año anterior a la convocatoria de la elección
+T105 Term-AttentionRank 411 417 número
+T106 Term-AttentionRank 730 736 número
+T107 Term-AttentionRank 211 219 contrato
+T108 Term-AttentionRank 557 565 contrato
+T109 Term-AttentionRank 386 393 efectos
+T110 Term-AttentionRank 857 865 fracción
+T111 Term-AttentionRank 813 821 elección
+T112 Term-AttentionRank 61 69 trabajos
+T113 Term-AttentionRank 149 157 trabajos
+T114 Term-AttentionRank 495 503 trabajos
+T115 Term-AttentionRank 794 806 convocatoria
+T116 Term-LabourLaw 61 68 trabajo
+T117 Term-LabourLaw 149 156 trabajo
+T118 Term-LabourLaw 495 502 trabajo
+T119 Term-LabourLaw 859 865 acción
+T120 Term-LabourLaw 211 219 contrato
+T121 Term-LabourLaw 557 565 contrato
+T122 Term-LabourLaw 421 434 representante
+T123 Term-LabourLaw 94 104 trabajador
+T124 Term-LabourLaw 183 193 trabajador
+T125 Term-LabourLaw 337 347 trabajador
+T126 Term-LabourLaw 529 539 trabajador
+T127 Term-LabourLaw 627 637 trabajador
+T128 Term-LabourLaw 887 897 trabajador
+T129 Term-LabourLaw 794 806 convocatoria
+T130 Term-LabourLaw 813 821 elección
+T131 Term-LabourLaw 274 280 órgano
+T132 Term-LabourLaw 48 56 servicio
+T133 Term-LabourLaw 136 144 servicio
+T134 Term-LabourLaw 482 490 servicio
+T135 Term-LabourLaw 223 231 duración
+T136 Term-LabourLaw 569 577 duración
+T137 Term-LabourLaw 683 690 término
+T138 Term-LabourLaw 611 619 computar
+T139 Term-LabourLaw 710 718 computar
+T140 Term-LabourLaw 869 877 computar
+T141 Term-LabourLaw 762 769 periodo
+T142 Term-IATE 794 806 convocatoria
+T143 Term-IATE 308 314 título
+T144 Term-IATE 0 8 Artículo
+T145 Term-IATE 94 106 trabajadores
+T146 Term-IATE 183 195 trabajadores
+T147 Term-IATE 337 349 trabajadores
+T148 Term-IATE 529 541 trabajadores
+T149 Term-IATE 627 639 trabajadores
+T150 Term-IATE 887 897 trabajador
+T151 Term-IATE 211 219 contrato
+T152 Term-IATE 557 565 contrato
+T153 Term-IATE 386 393 efectos
+T154 Term-IATE 857 865 fracción
+T155 Term-IATE 14 28 Representantes
+T156 Term-IATE 421 435 representantes
+T157 Term-IATE 223 231 duración
+T158 Term-IATE 569 577 duración

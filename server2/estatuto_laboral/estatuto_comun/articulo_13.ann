@@ -1,65 +1,65 @@
-T1 Term-DPJ 13 20 Trabajo
-T2 Term-DPJ 75 82 trabajo
-T3 Term-DPJ 142 149 trabajo
-T4 Term-DPJ 203 210 tRaBajo
-T5 Term-DPJ 190 198 contRato
-T6 Term-DPJ 237 245 contrato
-T7 Term-DPJ 13 32 Trabajo a distancia
-T8 Term-DPJ 75 94 trabajo a distancia
-T9 Term-DPJ 142 161 trabajo a distancia
-T10 Term-DPJ 127 130 Ley
-T11 Term-DPJ 175 184 contEnIdo
-T12 Term-DPJ 0 8 Artículo
-T13 Term-TC 211 218 Sección
-T14 Term-TC 102 110 términos
-T15 Term-TC 190 198 contRato
-T16 Term-TC 237 245 contrato
-T17 Term-TC 127 130 Ley
-T18 Term-TC 0 8 Artículo
-T19 Term-TC 163 171 CAPÍTULO
-T20 Term-TC 203 210 tRaBajo
-T21 Term-TC 13 32 Trabajo a distancia
-T22 Term-TC 75 94 trabajo a distancia
-T23 Term-TC 142 161 trabajo a distancia
-T24 Term-TC 224 232 Duración
-T25 Term-TC 38 46 personas
-T26 Term-TC 224 245 Duración del contrato
-T27 Term-TC 13 20 Trabajo
-T28 Term-TC 75 82 trabajo
-T29 Term-TC 142 149 trabajo
+T1 Term-DPEJ 13 20 Trabajo
+T2 Term-DPEJ 75 82 trabajo
+T3 Term-DPEJ 142 149 trabajo
+T4 Term-DPEJ 203 210 tRaBajo
+T5 Term-DPEJ 190 198 contRato
+T6 Term-DPEJ 237 245 contrato
+T7 Term-DPEJ 13 32 Trabajo a distancia
+T8 Term-DPEJ 75 94 trabajo a distancia
+T9 Term-DPEJ 142 161 trabajo a distancia
+T10 Term-DPEJ 127 130 Ley
+T11 Term-DPEJ 175 184 contEnIdo
+T12 Term-DPEJ 0 8 Artículo
+T13 Term-Termcat 211 218 Sección
+T14 Term-Termcat 102 110 términos
+T15 Term-Termcat 190 198 contRato
+T16 Term-Termcat 237 245 contrato
+T17 Term-Termcat 127 130 Ley
+T18 Term-Termcat 0 8 Artículo
+T19 Term-Termcat 163 171 CAPÍTULO
+T20 Term-Termcat 203 210 tRaBajo
+T21 Term-Termcat 13 32 Trabajo a distancia
+T22 Term-Termcat 75 94 trabajo a distancia
+T23 Term-Termcat 142 161 trabajo a distancia
+T24 Term-Termcat 224 232 Duración
+T25 Term-Termcat 38 46 personas
+T26 Term-Termcat 224 245 Duración del contrato
+T27 Term-Termcat 13 20 Trabajo
+T28 Term-Termcat 75 82 trabajo
+T29 Term-Termcat 142 149 trabajo
 T30 Term-DV 50 54 baja
 T31 Term-DV 38 45 persona
 T32 Term-DV 241 245 rato
 T33 Term-DV 47 57 trabajador
 T34 Term-DV 114 117 vis
-T35 Term-AR 175 184 contEnIdo
-T36 Term-AR 0 8 Artículo
-T37 Term-AR 211 218 Sección
-T38 Term-AR 38 46 personas
-T39 Term-AR 38 59 personas trabajadoras
-T40 Term-AR 38 59 personas trabajadoras
-T41 Term-AR 224 232 Duración
-T42 Term-AR 23 32 distancia
-T43 Term-AR 85 94 distancia
-T44 Term-AR 152 161 distancia
-T45 Term-AR 47 59 trabajadoras
-T46 Term-AR 127 130 Ley
-T47 Term-AR 190 198 contRato
-T48 Term-AR 237 245 contrato
-T49 Term-AR 13 20 Trabajo
-T50 Term-AR 75 82 trabajo
-T51 Term-AR 142 149 trabajo
-T52 Term-AR 203 210 tRaBajo
-T53 Term-LL 75 94 trabajo a distancia
-T54 Term-LL 142 161 trabajo a distancia
-T55 Term-LL 75 82 trabajo
-T56 Term-LL 142 149 trabajo
-T57 Term-LL 237 245 contrato
-T58 Term-LL 47 57 trabajador
-T59 Term-LL 102 109 término
-T60 Term-LL 38 45 persona
-T61 Term-IAT 0 8 Artículo
-T62 Term-IAT 211 218 Sección
-T63 Term-IAT 190 198 contRato
-T64 Term-IAT 237 245 contrato
-T65 Term-IAT 224 232 Duración
+T35 Term-AttentionRank 175 184 contEnIdo
+T36 Term-AttentionRank 0 8 Artículo
+T37 Term-AttentionRank 211 218 Sección
+T38 Term-AttentionRank 38 46 personas
+T39 Term-AttentionRank 38 59 personas trabajadoras
+T40 Term-AttentionRank 38 59 personas trabajadoras
+T41 Term-AttentionRank 224 232 Duración
+T42 Term-AttentionRank 23 32 distancia
+T43 Term-AttentionRank 85 94 distancia
+T44 Term-AttentionRank 152 161 distancia
+T45 Term-AttentionRank 47 59 trabajadoras
+T46 Term-AttentionRank 127 130 Ley
+T47 Term-AttentionRank 190 198 contRato
+T48 Term-AttentionRank 237 245 contrato
+T49 Term-AttentionRank 13 20 Trabajo
+T50 Term-AttentionRank 75 82 trabajo
+T51 Term-AttentionRank 142 149 trabajo
+T52 Term-AttentionRank 203 210 tRaBajo
+T53 Term-LabourLaw 75 94 trabajo a distancia
+T54 Term-LabourLaw 142 161 trabajo a distancia
+T55 Term-LabourLaw 75 82 trabajo
+T56 Term-LabourLaw 142 149 trabajo
+T57 Term-LabourLaw 237 245 contrato
+T58 Term-LabourLaw 47 57 trabajador
+T59 Term-LabourLaw 102 109 término
+T60 Term-LabourLaw 38 45 persona
+T61 Term-IATE 0 8 Artículo
+T62 Term-IATE 211 218 Sección
+T63 Term-IATE 190 198 contRato
+T64 Term-IATE 237 245 contrato
+T65 Term-IATE 224 232 Duración

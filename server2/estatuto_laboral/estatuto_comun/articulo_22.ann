@@ -1,85 +1,85 @@
-T1 Term-DPJ 911 915 caso
-T2 Term-DPJ 106 113 acuerdo
-T3 Term-DPJ 970 977 acuerdo
-T4 Term-DPJ 792 800 ausencia
-T5 Term-DPJ 66 77 negociación
-T6 Term-DPJ 1099 1117 prestación laboral
-T7 Term-DPJ 705 712 trabajo
-T8 Term-DPJ 1141 1148 trabajo
-T9 Term-DPJ 123 130 empresa
-T10 Term-DPJ 13 20 Sistema
-T11 Term-DPJ 191 198 sistema
-T12 Term-DPJ 619 627 sistemas
-T13 Term-DPJ 893 901 sistemas
-T14 Term-DPJ 1129 1137 contrato
-T15 Term-DPJ 866 873 hombres
-T16 Term-DPJ 1456 1462 tiempo
-T17 Term-DPJ 66 87 negociación colectiva
-T18 Term-DPJ 505 522 responsabilidades
-T19 Term-DPJ 694 701 puestos
-T20 Term-DPJ 417 427 prestación
-T21 Term-DPJ 1099 1109 prestación
-T22 Term-DPJ 804 818 discriminación
-T23 Term-DPJ 393 402 contenido
-T24 Term-DPJ 1083 1092 contenido
-T25 Term-DPJ 0 8 Artículo
-T26 Term-DPJ 949 957 artículo
-T27 Term-DPJ 261 267 grupos
-T28 Term-DPJ 572 578 grupos
-T29 Term-DPJ 303 308 grupo
-T30 Term-DPJ 1043 1048 grupo
-T31 Term-DPJ 1207 1212 grupo
-T32 Term-DPJ 1361 1366 grupo
-T33 Term-TC 572 578 grupos
-T34 Term-TC 261 267 grupos
-T35 Term-TC 1207 1212 grupo
-T36 Term-TC 303 308 grupo
-T37 Term-TC 1043 1048 grupo
-T38 Term-TC 1361 1366 grupo
-T39 Term-TC 66 87 negociación colectiva
-T40 Term-TC 792 800 ausencia
-T41 Term-TC 1129 1137 contrato
-T42 Term-TC 417 427 prestación
-T43 Term-TC 1099 1109 prestación
-T44 Term-TC 137 151 representantes
-T45 Term-TC 0 8 Artículo
-T46 Term-TC 949 957 artículo
-T47 Term-TC 13 20 Sistema
-T48 Term-TC 191 198 sistema
-T49 Term-TC 619 627 sistemas
-T50 Term-TC 893 901 sistemas
-T51 Term-TC 353 362 aptitudes
-T52 Term-TC 24 49 clasificación profesional
-T53 Term-TC 202 227 clasificación profesional
-T54 Term-TC 1129 1148 contrato de trabajo
-T55 Term-TC 804 818 discriminación
-T56 Term-TC 123 130 empresa
-T57 Term-TC 705 712 trabajo
-T58 Term-TC 572 592 grupos profesionales
-T59 Term-TC 261 281 grupos profesionales
-T60 Term-TC 1207 1224 grupo profesional
-T61 Term-TC 303 320 grupo profesional
-T62 Term-TC 1043 1060 grupo profesional
-T63 Term-TC 1287 1299 polivalencia
-T64 Term-TC 455 461 tareas
-T65 Term-TC 252 257 medio
-T66 Term-TC 66 77 negociación
-T67 Term-TC 554 564 definición
-T68 Term-TC 970 977 acuerdo
-T69 Term-TC 106 113 acuerdo
-T70 Term-TC 647 655 análisis
-T71 Term-TC 353 376 aptitudes profesionales
-T72 Term-TC 856 863 mujeres
-T73 Term-TC 778 788 garantizar
-T74 Term-TC 686 692 género
-T75 Term-TC 866 873 hombres
-T76 Term-TC 1287 1309 polivalencia funcional
-T77 Term-TC 505 522 responsabilidades
-T78 Term-TC 13 49 Sistema de clasificación profesional
-T79 Term-TC 191 227 sistema de clasificación profesional
-T80 Term-TC 24 37 clasificación
-T81 Term-TC 202 215 clasificación
-T82 Term-TC 474 488 especialidades
+T1 Term-DPEJ 911 915 caso
+T2 Term-DPEJ 106 113 acuerdo
+T3 Term-DPEJ 970 977 acuerdo
+T4 Term-DPEJ 792 800 ausencia
+T5 Term-DPEJ 66 77 negociación
+T6 Term-DPEJ 1099 1117 prestación laboral
+T7 Term-DPEJ 705 712 trabajo
+T8 Term-DPEJ 1141 1148 trabajo
+T9 Term-DPEJ 123 130 empresa
+T10 Term-DPEJ 13 20 Sistema
+T11 Term-DPEJ 191 198 sistema
+T12 Term-DPEJ 619 627 sistemas
+T13 Term-DPEJ 893 901 sistemas
+T14 Term-DPEJ 1129 1137 contrato
+T15 Term-DPEJ 866 873 hombres
+T16 Term-DPEJ 1456 1462 tiempo
+T17 Term-DPEJ 66 87 negociación colectiva
+T18 Term-DPEJ 505 522 responsabilidades
+T19 Term-DPEJ 694 701 puestos
+T20 Term-DPEJ 417 427 prestación
+T21 Term-DPEJ 1099 1109 prestación
+T22 Term-DPEJ 804 818 discriminación
+T23 Term-DPEJ 393 402 contenido
+T24 Term-DPEJ 1083 1092 contenido
+T25 Term-DPEJ 0 8 Artículo
+T26 Term-DPEJ 949 957 artículo
+T27 Term-DPEJ 261 267 grupos
+T28 Term-DPEJ 572 578 grupos
+T29 Term-DPEJ 303 308 grupo
+T30 Term-DPEJ 1043 1048 grupo
+T31 Term-DPEJ 1207 1212 grupo
+T32 Term-DPEJ 1361 1366 grupo
+T33 Term-Termcat 572 578 grupos
+T34 Term-Termcat 261 267 grupos
+T35 Term-Termcat 1207 1212 grupo
+T36 Term-Termcat 303 308 grupo
+T37 Term-Termcat 1043 1048 grupo
+T38 Term-Termcat 1361 1366 grupo
+T39 Term-Termcat 66 87 negociación colectiva
+T40 Term-Termcat 792 800 ausencia
+T41 Term-Termcat 1129 1137 contrato
+T42 Term-Termcat 417 427 prestación
+T43 Term-Termcat 1099 1109 prestación
+T44 Term-Termcat 137 151 representantes
+T45 Term-Termcat 0 8 Artículo
+T46 Term-Termcat 949 957 artículo
+T47 Term-Termcat 13 20 Sistema
+T48 Term-Termcat 191 198 sistema
+T49 Term-Termcat 619 627 sistemas
+T50 Term-Termcat 893 901 sistemas
+T51 Term-Termcat 353 362 aptitudes
+T52 Term-Termcat 24 49 clasificación profesional
+T53 Term-Termcat 202 227 clasificación profesional
+T54 Term-Termcat 1129 1148 contrato de trabajo
+T55 Term-Termcat 804 818 discriminación
+T56 Term-Termcat 123 130 empresa
+T57 Term-Termcat 705 712 trabajo
+T58 Term-Termcat 572 592 grupos profesionales
+T59 Term-Termcat 261 281 grupos profesionales
+T60 Term-Termcat 1207 1224 grupo profesional
+T61 Term-Termcat 303 320 grupo profesional
+T62 Term-Termcat 1043 1060 grupo profesional
+T63 Term-Termcat 1287 1299 polivalencia
+T64 Term-Termcat 455 461 tareas
+T65 Term-Termcat 252 257 medio
+T66 Term-Termcat 66 77 negociación
+T67 Term-Termcat 554 564 definición
+T68 Term-Termcat 970 977 acuerdo
+T69 Term-Termcat 106 113 acuerdo
+T70 Term-Termcat 647 655 análisis
+T71 Term-Termcat 353 376 aptitudes profesionales
+T72 Term-Termcat 856 863 mujeres
+T73 Term-Termcat 778 788 garantizar
+T74 Term-Termcat 686 692 género
+T75 Term-Termcat 866 873 hombres
+T76 Term-Termcat 1287 1309 polivalencia funcional
+T77 Term-Termcat 505 522 responsabilidades
+T78 Term-Termcat 13 49 Sistema de clasificación profesional
+T79 Term-Termcat 191 227 sistema de clasificación profesional
+T80 Term-Termcat 24 37 clasificación
+T81 Term-Termcat 202 215 clasificación
+T82 Term-Termcat 474 488 especialidades
 T83 Term-DV 162 166 baja
 T84 Term-DV 238 242 baja
 T85 Term-DV 539 543 baja
@@ -133,130 +133,130 @@ T132 Term-DV 1029 1039 trabajador
 T133 Term-DV 1291 1295 vale
 T134 Term-DV 1400 1406 virtud
 T135 Term-DV 937 940 vis
-T136 Term-AR 261 267 grupos
-T137 Term-AR 572 578 grupos
-T138 Term-AR 303 308 grupo
-T139 Term-AR 1043 1048 grupo
-T140 Term-AR 1207 1212 grupo
-T141 Term-AR 1361 1366 grupo
-T142 Term-AR 393 402 contenido
-T143 Term-AR 1083 1092 contenido
-T144 Term-AR 1456 1462 tiempo
-T145 Term-AR 1400 1423 virtud de las funciones
-T146 Term-AR 137 151 representantes
-T147 Term-AR 106 130 acuerdo entre la empresa
-T148 Term-AR 106 113 acuerdo
-T149 Term-AR 970 977 acuerdo
-T150 Term-AR 66 87 negociación colectiva
-T151 Term-AR 1400 1406 virtud
-T152 Term-AR 970 997 acuerdo entre el trabajador
-T153 Term-AR 0 8 Artículo
-T154 Term-AR 949 957 artículo
-T155 Term-AR 261 281 grupos profesionales
-T156 Term-AR 572 592 grupos profesionales
-T157 Term-AR 261 281 grupos profesionales
-T158 Term-AR 572 592 grupos profesionales
-T159 Term-AR 1099 1117 prestación laboral
-T160 Term-AR 607 616 criterios
-T161 Term-AR 714 723 criterios
-T162 Term-AR 881 890 criterios
-T163 Term-AR 804 818 discriminación
-T164 Term-AR 676 682 sesgos
-T165 Term-AR 856 863 mujeres
-T166 Term-AR 13 20 Sistema
-T167 Term-AR 191 198 sistema
-T168 Term-AR 619 627 sistemas
-T169 Term-AR 893 901 sistemas
-T170 Term-AR 66 77 negociación
-T171 Term-AR 159 171 trabajadores
-T172 Term-AR 235 247 trabajadores
-T173 Term-AR 536 546 trabajador
-T174 Term-AR 987 997 trabajador
-T175 Term-AR 1029 1039 trabajador
-T176 Term-AR 694 701 puestos
-T177 Term-AR 123 130 empresa
-T178 Term-AR 505 522 responsabilidades
-T179 Term-AR 417 427 prestación
-T180 Term-AR 1099 1109 prestación
-T181 Term-AR 303 320 grupo profesional
-T182 Term-AR 1043 1060 grupo profesional
-T183 Term-AR 1207 1224 grupo profesional
-T184 Term-AR 647 669 análisis correlacional
-T185 Term-AR 1177 1233 funciones correspondientes al grupo profesional asignado
-T186 Term-AR 1152 1163 realización
-T187 Term-AR 1315 1326 realización
-T188 Term-AR 866 873 hombres
-T189 Term-AR 792 800 ausencia
-T190 Term-AR 1129 1137 contrato
-T191 Term-AR 24 49 clasificación profesional
-T192 Term-AR 202 227 clasificación profesional
-T193 Term-AR 705 712 trabajo
-T194 Term-AR 1141 1148 trabajo
-T195 Term-AR 1287 1309 polivalencia funcional
-T196 Term-AR 911 915 caso
-T197 Term-AR 1003 1013 empresario
-T198 Term-LL 191 227 sistema de clasificación profesional
-T199 Term-LL 1129 1148 contrato de trabajo
-T200 Term-LL 1118 1137 objeto del contrato
-T201 Term-LL 303 320 grupo profesional
-T202 Term-LL 1043 1060 grupo profesional
-T203 Term-LL 1207 1224 grupo profesional
-T204 Term-LL 66 87 negociación colectiva
-T205 Term-LL 705 712 trabajo
-T206 Term-LL 1141 1148 trabajo
-T207 Term-LL 1129 1137 contrato
-T208 Term-LL 505 520 responsabilidad
-T209 Term-LL 417 427 prestación
-T210 Term-LL 1099 1109 prestación
-T211 Term-LL 137 150 representante
-T212 Term-LL 159 169 trabajador
-T213 Term-LL 235 245 trabajador
-T214 Term-LL 536 546 trabajador
-T215 Term-LL 987 997 trabajador
-T216 Term-LL 1029 1039 trabajador
-T217 Term-LL 607 615 criterio
-T218 Term-LL 714 722 criterio
-T219 Term-LL 881 889 criterio
-T220 Term-LL 804 818 discriminación
-T221 Term-LL 647 655 análisis
-T222 Term-LL 1003 1013 empresario
-T223 Term-LL 393 402 contenido
-T224 Term-LL 1083 1092 contenido
-T225 Term-LL 792 800 ausencia
-T226 Term-LL 97 104 defecto
-T227 Term-LL 123 130 empresa
-T228 Term-LL 1003 1010 empresa
-T229 Term-LL 792 800 ausencia
-T230 Term-IAT 866 873 hombres
-T231 Term-IAT 1152 1163 realización
-T232 Term-IAT 1315 1326 realización
-T233 Term-IAT 804 818 discriminación
-T234 Term-IAT 0 8 Artículo
-T235 Term-IAT 949 957 artículo
-T236 Term-IAT 106 113 acuerdo
-T237 Term-IAT 970 977 acuerdo
-T238 Term-IAT 505 522 responsabilidades
-T239 Term-IAT 261 267 grupos
-T240 Term-IAT 572 578 grupos
-T241 Term-IAT 303 308 grupo
-T242 Term-IAT 1043 1048 grupo
-T243 Term-IAT 1207 1212 grupo
-T244 Term-IAT 1361 1366 grupo
-T245 Term-IAT 123 130 empresa
-T246 Term-IAT 1003 1013 empresario
-T247 Term-IAT 856 863 mujeres
-T248 Term-IAT 159 171 trabajadores
-T249 Term-IAT 235 247 trabajadores
-T250 Term-IAT 536 546 trabajador
-T251 Term-IAT 987 997 trabajador
-T252 Term-IAT 1029 1039 trabajador
-T253 Term-IAT 676 682 sesgos
-T254 Term-IAT 417 427 prestación
-T255 Term-IAT 1099 1109 prestación
-T256 Term-IAT 1129 1137 contrato
-T257 Term-IAT 66 77 negociación
-T258 Term-IAT 13 20 Sistema
-T259 Term-IAT 191 198 sistema
-T260 Term-IAT 619 627 sistemas
-T261 Term-IAT 893 901 sistemas
-T262 Term-IAT 137 151 representantes
+T136 Term-AttentionRank 261 267 grupos
+T137 Term-AttentionRank 572 578 grupos
+T138 Term-AttentionRank 303 308 grupo
+T139 Term-AttentionRank 1043 1048 grupo
+T140 Term-AttentionRank 1207 1212 grupo
+T141 Term-AttentionRank 1361 1366 grupo
+T142 Term-AttentionRank 393 402 contenido
+T143 Term-AttentionRank 1083 1092 contenido
+T144 Term-AttentionRank 1456 1462 tiempo
+T145 Term-AttentionRank 1400 1423 virtud de las funciones
+T146 Term-AttentionRank 137 151 representantes
+T147 Term-AttentionRank 106 130 acuerdo entre la empresa
+T148 Term-AttentionRank 106 113 acuerdo
+T149 Term-AttentionRank 970 977 acuerdo
+T150 Term-AttentionRank 66 87 negociación colectiva
+T151 Term-AttentionRank 1400 1406 virtud
+T152 Term-AttentionRank 970 997 acuerdo entre el trabajador
+T153 Term-AttentionRank 0 8 Artículo
+T154 Term-AttentionRank 949 957 artículo
+T155 Term-AttentionRank 261 281 grupos profesionales
+T156 Term-AttentionRank 572 592 grupos profesionales
+T157 Term-AttentionRank 261 281 grupos profesionales
+T158 Term-AttentionRank 572 592 grupos profesionales
+T159 Term-AttentionRank 1099 1117 prestación laboral
+T160 Term-AttentionRank 607 616 criterios
+T161 Term-AttentionRank 714 723 criterios
+T162 Term-AttentionRank 881 890 criterios
+T163 Term-AttentionRank 804 818 discriminación
+T164 Term-AttentionRank 676 682 sesgos
+T165 Term-AttentionRank 856 863 mujeres
+T166 Term-AttentionRank 13 20 Sistema
+T167 Term-AttentionRank 191 198 sistema
+T168 Term-AttentionRank 619 627 sistemas
+T169 Term-AttentionRank 893 901 sistemas
+T170 Term-AttentionRank 66 77 negociación
+T171 Term-AttentionRank 159 171 trabajadores
+T172 Term-AttentionRank 235 247 trabajadores
+T173 Term-AttentionRank 536 546 trabajador
+T174 Term-AttentionRank 987 997 trabajador
+T175 Term-AttentionRank 1029 1039 trabajador
+T176 Term-AttentionRank 694 701 puestos
+T177 Term-AttentionRank 123 130 empresa
+T178 Term-AttentionRank 505 522 responsabilidades
+T179 Term-AttentionRank 417 427 prestación
+T180 Term-AttentionRank 1099 1109 prestación
+T181 Term-AttentionRank 303 320 grupo profesional
+T182 Term-AttentionRank 1043 1060 grupo profesional
+T183 Term-AttentionRank 1207 1224 grupo profesional
+T184 Term-AttentionRank 647 669 análisis correlacional
+T185 Term-AttentionRank 1177 1233 funciones correspondientes al grupo profesional asignado
+T186 Term-AttentionRank 1152 1163 realización
+T187 Term-AttentionRank 1315 1326 realización
+T188 Term-AttentionRank 866 873 hombres
+T189 Term-AttentionRank 792 800 ausencia
+T190 Term-AttentionRank 1129 1137 contrato
+T191 Term-AttentionRank 24 49 clasificación profesional
+T192 Term-AttentionRank 202 227 clasificación profesional
+T193 Term-AttentionRank 705 712 trabajo
+T194 Term-AttentionRank 1141 1148 trabajo
+T195 Term-AttentionRank 1287 1309 polivalencia funcional
+T196 Term-AttentionRank 911 915 caso
+T197 Term-AttentionRank 1003 1013 empresario
+T198 Term-LabourLaw 191 227 sistema de clasificación profesional
+T199 Term-LabourLaw 1129 1148 contrato de trabajo
+T200 Term-LabourLaw 1118 1137 objeto del contrato
+T201 Term-LabourLaw 303 320 grupo profesional
+T202 Term-LabourLaw 1043 1060 grupo profesional
+T203 Term-LabourLaw 1207 1224 grupo profesional
+T204 Term-LabourLaw 66 87 negociación colectiva
+T205 Term-LabourLaw 705 712 trabajo
+T206 Term-LabourLaw 1141 1148 trabajo
+T207 Term-LabourLaw 1129 1137 contrato
+T208 Term-LabourLaw 505 520 responsabilidad
+T209 Term-LabourLaw 417 427 prestación
+T210 Term-LabourLaw 1099 1109 prestación
+T211 Term-LabourLaw 137 150 representante
+T212 Term-LabourLaw 159 169 trabajador
+T213 Term-LabourLaw 235 245 trabajador
+T214 Term-LabourLaw 536 546 trabajador
+T215 Term-LabourLaw 987 997 trabajador
+T216 Term-LabourLaw 1029 1039 trabajador
+T217 Term-LabourLaw 607 615 criterio
+T218 Term-LabourLaw 714 722 criterio
+T219 Term-LabourLaw 881 889 criterio
+T220 Term-LabourLaw 804 818 discriminación
+T221 Term-LabourLaw 647 655 análisis
+T222 Term-LabourLaw 1003 1013 empresario
+T223 Term-LabourLaw 393 402 contenido
+T224 Term-LabourLaw 1083 1092 contenido
+T225 Term-LabourLaw 792 800 ausencia
+T226 Term-LabourLaw 97 104 defecto
+T227 Term-LabourLaw 123 130 empresa
+T228 Term-LabourLaw 1003 1010 empresa
+T229 Term-LabourLaw 792 800 ausencia
+T230 Term-IATE 866 873 hombres
+T231 Term-IATE 1152 1163 realización
+T232 Term-IATE 1315 1326 realización
+T233 Term-IATE 804 818 discriminación
+T234 Term-IATE 0 8 Artículo
+T235 Term-IATE 949 957 artículo
+T236 Term-IATE 106 113 acuerdo
+T237 Term-IATE 970 977 acuerdo
+T238 Term-IATE 505 522 responsabilidades
+T239 Term-IATE 261 267 grupos
+T240 Term-IATE 572 578 grupos
+T241 Term-IATE 303 308 grupo
+T242 Term-IATE 1043 1048 grupo
+T243 Term-IATE 1207 1212 grupo
+T244 Term-IATE 1361 1366 grupo
+T245 Term-IATE 123 130 empresa
+T246 Term-IATE 1003 1013 empresario
+T247 Term-IATE 856 863 mujeres
+T248 Term-IATE 159 171 trabajadores
+T249 Term-IATE 235 247 trabajadores
+T250 Term-IATE 536 546 trabajador
+T251 Term-IATE 987 997 trabajador
+T252 Term-IATE 1029 1039 trabajador
+T253 Term-IATE 676 682 sesgos
+T254 Term-IATE 417 427 prestación
+T255 Term-IATE 1099 1109 prestación
+T256 Term-IATE 1129 1137 contrato
+T257 Term-IATE 66 77 negociación
+T258 Term-IATE 13 20 Sistema
+T259 Term-IATE 191 198 sistema
+T260 Term-IATE 619 627 sistemas
+T261 Term-IATE 893 901 sistemas
+T262 Term-IATE 137 151 representantes

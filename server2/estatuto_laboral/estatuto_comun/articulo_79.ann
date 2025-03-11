@@ -1,44 +1,44 @@
-T1 Term-DPJ 326 331 casos
-T2 Term-DPJ 184 191 acuerdo
-T3 Term-DPJ 766 771 letra
-T4 Term-DPJ 62 79 centro de trabajo
-T5 Term-DPJ 248 265 centro de trabajo
-T6 Term-DPJ 72 79 trabajo
-T7 Term-DPJ 169 176 trabajo
-T8 Term-DPJ 258 265 trabajo
-T9 Term-DPJ 630 637 empresa
-T10 Term-DPJ 672 681 convenios
-T11 Term-DPJ 13 18 Lugar
-T12 Term-DPJ 37 42 lugar
-T13 Term-DPJ 141 146 lugar
-T14 Term-DPJ 672 692 convenios colectivos
-T15 Term-DPJ 292 300 asamblea
-T16 Term-DPJ 379 382 ley
-T17 Term-DPJ 515 528 resarcimiento
-T18 Term-DPJ 709 719 aplicación
-T19 Term-DPJ 0 8 Artículo
-T20 Term-DPJ 62 68 centro
-T21 Term-DPJ 248 254 centro
-T22 Term-TC 672 681 convenios
-T23 Term-TC 537 542 daños
-T24 Term-TC 379 382 ley
-T25 Term-TC 515 528 resarcimiento
-T26 Term-TC 0 8 Artículo
-T27 Term-TC 590 597 reunión
-T28 Term-TC 46 53 reunión
-T29 Term-TC 447 454 reunión
-T30 Term-TC 22 29 reunión
-T31 Term-TC 248 265 centro de trabajo
-T32 Term-TC 62 79 centro de trabajo
-T33 Term-TC 672 692 convenios colectivos
-T34 Term-TC 630 637 empresa
-T35 Term-TC 169 176 trabajo
-T36 Term-TC 611 617 Cierre
-T37 Term-TC 184 191 acuerdo
-T38 Term-TC 709 719 aplicación
-T39 Term-TC 292 300 asamblea
-T40 Term-TC 274 285 celebración
-T41 Term-TC 618 623 legal
+T1 Term-DPEJ 326 331 casos
+T2 Term-DPEJ 184 191 acuerdo
+T3 Term-DPEJ 766 771 letra
+T4 Term-DPEJ 62 79 centro de trabajo
+T5 Term-DPEJ 248 265 centro de trabajo
+T6 Term-DPEJ 72 79 trabajo
+T7 Term-DPEJ 169 176 trabajo
+T8 Term-DPEJ 258 265 trabajo
+T9 Term-DPEJ 630 637 empresa
+T10 Term-DPEJ 672 681 convenios
+T11 Term-DPEJ 13 18 Lugar
+T12 Term-DPEJ 37 42 lugar
+T13 Term-DPEJ 141 146 lugar
+T14 Term-DPEJ 672 692 convenios colectivos
+T15 Term-DPEJ 292 300 asamblea
+T16 Term-DPEJ 379 382 ley
+T17 Term-DPEJ 515 528 resarcimiento
+T18 Term-DPEJ 709 719 aplicación
+T19 Term-DPEJ 0 8 Artículo
+T20 Term-DPEJ 62 68 centro
+T21 Term-DPEJ 248 254 centro
+T22 Term-Termcat 672 681 convenios
+T23 Term-Termcat 537 542 daños
+T24 Term-Termcat 379 382 ley
+T25 Term-Termcat 515 528 resarcimiento
+T26 Term-Termcat 0 8 Artículo
+T27 Term-Termcat 590 597 reunión
+T28 Term-Termcat 46 53 reunión
+T29 Term-Termcat 447 454 reunión
+T30 Term-Termcat 22 29 reunión
+T31 Term-Termcat 248 265 centro de trabajo
+T32 Term-Termcat 62 79 centro de trabajo
+T33 Term-Termcat 672 692 convenios colectivos
+T34 Term-Termcat 630 637 empresa
+T35 Term-Termcat 169 176 trabajo
+T36 Term-Termcat 611 617 Cierre
+T37 Term-Termcat 184 191 acuerdo
+T38 Term-Termcat 709 719 aplicación
+T39 Term-Termcat 292 300 asamblea
+T40 Term-Termcat 274 285 celebración
+T41 Term-Termcat 618 623 legal
 T42 Term-DV 537 541 daño
 T43 Term-DV 228 232 debe
 T44 Term-DV 199 206 empresa
@@ -55,71 +55,71 @@ T54 Term-DV 379 382 ley
 T55 Term-DV 266 270 para
 T56 Term-DV 710 715 plica
 T57 Term-DV 360 370 posiciones
-T58 Term-AR 22 29 reunión
-T59 Term-AR 46 53 reunión
-T60 Term-AR 447 454 reunión
-T61 Term-AR 590 597 reunión
-T62 Term-AR 515 528 resarcimiento
-T63 Term-AR 184 191 acuerdo
-T64 Term-AR 537 542 daños
-T65 Term-AR 292 300 asamblea
-T66 Term-AR 709 719 aplicación
-T67 Term-AR 0 8 Artículo
-T68 Term-AR 425 430 meses
-T69 Term-AR 672 681 convenios
-T70 Term-AR 13 18 Lugar
-T71 Term-AR 37 42 lugar
-T72 Term-AR 141 146 lugar
-T73 Term-AR 184 209 acuerdo con el empresario
-T74 Term-AR 315 331 siguientes casos
-T75 Term-AR 672 692 convenios colectivos
-T76 Term-AR 672 692 convenios colectivos
-T77 Term-AR 630 637 empresa
-T78 Term-AR 160 165 horas
-T79 Term-AR 379 382 ley
-T80 Term-AR 62 68 centro
-T81 Term-AR 248 254 centro
-T82 Term-AR 643 665 reuniones informativas
-T83 Term-AR 766 771 letra
-T84 Term-AR 72 79 trabajo
-T85 Term-AR 169 176 trabajo
-T86 Term-AR 258 265 trabajo
-T87 Term-AR 326 331 casos
-T88 Term-AR 199 209 empresario
-T89 Term-AR 217 227 empresario
-T90 Term-LL 37 53 lugar de reunión
-T91 Term-LL 62 79 centro de trabajo
-T92 Term-LL 248 265 centro de trabajo
-T93 Term-LL 72 79 trabajo
-T94 Term-LL 169 176 trabajo
-T95 Term-LL 258 265 trabajo
-T96 Term-LL 709 719 aplicación
-T97 Term-LL 379 382 ley
-T98 Term-LL 228 233 deber
-T99 Term-LL 199 209 empresario
-T100 Term-LL 217 227 empresario
-T101 Term-LL 199 206 empresa
-T102 Term-LL 217 224 empresa
-T103 Term-LL 630 637 empresa
-T104 Term-LL 22 29 reunión
-T105 Term-LL 46 53 reunión
-T106 Term-LL 447 454 reunión
-T107 Term-LL 590 597 reunión
-T108 Term-LL 682 691 colectivo
-T109 Term-LL 503 509 fianza
-T110 Term-LL 643 650 reunion
-T111 Term-IAT 709 719 aplicación
-T112 Term-IAT 0 8 Artículo
-T113 Term-IAT 184 191 acuerdo
-T114 Term-IAT 630 637 empresa
-T115 Term-IAT 22 29 reunión
-T116 Term-IAT 46 53 reunión
-T117 Term-IAT 447 454 reunión
-T118 Term-IAT 590 597 reunión
-T119 Term-IAT 199 209 empresario
-T120 Term-IAT 217 227 empresario
-T121 Term-IAT 292 300 asamblea
-T122 Term-IAT 537 542 daños
-T123 Term-IAT 672 681 convenios
-T124 Term-IAT 425 430 meses
-T125 Term-IAT 766 771 letra
+T58 Term-AttentionRank 22 29 reunión
+T59 Term-AttentionRank 46 53 reunión
+T60 Term-AttentionRank 447 454 reunión
+T61 Term-AttentionRank 590 597 reunión
+T62 Term-AttentionRank 515 528 resarcimiento
+T63 Term-AttentionRank 184 191 acuerdo
+T64 Term-AttentionRank 537 542 daños
+T65 Term-AttentionRank 292 300 asamblea
+T66 Term-AttentionRank 709 719 aplicación
+T67 Term-AttentionRank 0 8 Artículo
+T68 Term-AttentionRank 425 430 meses
+T69 Term-AttentionRank 672 681 convenios
+T70 Term-AttentionRank 13 18 Lugar
+T71 Term-AttentionRank 37 42 lugar
+T72 Term-AttentionRank 141 146 lugar
+T73 Term-AttentionRank 184 209 acuerdo con el empresario
+T74 Term-AttentionRank 315 331 siguientes casos
+T75 Term-AttentionRank 672 692 convenios colectivos
+T76 Term-AttentionRank 672 692 convenios colectivos
+T77 Term-AttentionRank 630 637 empresa
+T78 Term-AttentionRank 160 165 horas
+T79 Term-AttentionRank 379 382 ley
+T80 Term-AttentionRank 62 68 centro
+T81 Term-AttentionRank 248 254 centro
+T82 Term-AttentionRank 643 665 reuniones informativas
+T83 Term-AttentionRank 766 771 letra
+T84 Term-AttentionRank 72 79 trabajo
+T85 Term-AttentionRank 169 176 trabajo
+T86 Term-AttentionRank 258 265 trabajo
+T87 Term-AttentionRank 326 331 casos
+T88 Term-AttentionRank 199 209 empresario
+T89 Term-AttentionRank 217 227 empresario
+T90 Term-LabourLaw 37 53 lugar de reunión
+T91 Term-LabourLaw 62 79 centro de trabajo
+T92 Term-LabourLaw 248 265 centro de trabajo
+T93 Term-LabourLaw 72 79 trabajo
+T94 Term-LabourLaw 169 176 trabajo
+T95 Term-LabourLaw 258 265 trabajo
+T96 Term-LabourLaw 709 719 aplicación
+T97 Term-LabourLaw 379 382 ley
+T98 Term-LabourLaw 228 233 deber
+T99 Term-LabourLaw 199 209 empresario
+T100 Term-LabourLaw 217 227 empresario
+T101 Term-LabourLaw 199 206 empresa
+T102 Term-LabourLaw 217 224 empresa
+T103 Term-LabourLaw 630 637 empresa
+T104 Term-LabourLaw 22 29 reunión
+T105 Term-LabourLaw 46 53 reunión
+T106 Term-LabourLaw 447 454 reunión
+T107 Term-LabourLaw 590 597 reunión
+T108 Term-LabourLaw 682 691 colectivo
+T109 Term-LabourLaw 503 509 fianza
+T110 Term-LabourLaw 643 650 reunion
+T111 Term-IATE 709 719 aplicación
+T112 Term-IATE 0 8 Artículo
+T113 Term-IATE 184 191 acuerdo
+T114 Term-IATE 630 637 empresa
+T115 Term-IATE 22 29 reunión
+T116 Term-IATE 46 53 reunión
+T117 Term-IATE 447 454 reunión
+T118 Term-IATE 590 597 reunión
+T119 Term-IATE 199 209 empresario
+T120 Term-IATE 217 227 empresario
+T121 Term-IATE 292 300 asamblea
+T122 Term-IATE 537 542 daños
+T123 Term-IATE 672 681 convenios
+T124 Term-IATE 425 430 meses
+T125 Term-IATE 766 771 letra

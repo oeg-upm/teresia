@@ -1,16 +1,16 @@
-T1 Term-DPJ 62 75 orden del día
-T2 Term-DPJ 203 209 acusar
-T3 Term-DPJ 13 25 Convocatoria
-T4 Term-DPJ 30 42 convocatoria
-T5 Term-DPJ 62 67 orden
-T6 Term-DPJ 0 8 Artículo
-T7 Term-TC 62 67 orden
-T8 Term-TC 210 216 recibo
-T9 Term-TC 0 8 Artículo
-T10 Term-TC 62 75 orden del día
-T11 Term-TC 13 25 Convocatoria
-T12 Term-TC 30 42 convocatoria
-T13 Term-TC 203 216 acusar recibo
+T1 Term-DPEJ 62 75 orden del día
+T2 Term-DPEJ 203 209 acusar
+T3 Term-DPEJ 13 25 Convocatoria
+T4 Term-DPEJ 30 42 convocatoria
+T5 Term-DPEJ 62 67 orden
+T6 Term-DPEJ 0 8 Artículo
+T7 Term-Termcat 62 67 orden
+T8 Term-Termcat 210 216 recibo
+T9 Term-Termcat 0 8 Artículo
+T10 Term-Termcat 62 75 orden del día
+T11 Term-Termcat 13 25 Convocatoria
+T12 Term-Termcat 30 42 convocatoria
+T13 Term-Termcat 203 216 acusar recibo
 T14 Term-DV 62 75 orden del día
 T15 Term-DV 191 195 bien
 T16 Term-DV 72 75 día
@@ -20,25 +20,25 @@ T19 Term-DV 62 67 orden
 T20 Term-DV 210 216 recibo
 T21 Term-DV 142 147 renta
 T22 Term-DV 49 50 x
-T23 Term-AR 48 57 expresión
-T24 Term-AR 72 75 día
-T25 Term-AR 76 85 propuesto
-T26 Term-AR 94 105 convocantes
-T27 Term-AR 210 216 recibo
-T28 Term-AR 0 8 Artículo
-T29 Term-AR 164 174 antelación
-T30 Term-AR 155 160 horas
-T31 Term-AR 203 209 acusar
-T32 Term-AR 62 67 orden
-T33 Term-AR 13 25 Convocatoria
-T34 Term-AR 30 42 convocatoria
-T35 Term-AR 124 134 empresario
-T36 Term-LL 30 42 convocatoria
-T37 Term-LL 124 134 empresario
-T38 Term-LL 124 131 empresa
-T39 Term-LL 142 147 renta
-T40 Term-IAT 13 25 Convocatoria
-T41 Term-IAT 30 42 convocatoria
-T42 Term-IAT 0 8 Artículo
-T43 Term-IAT 124 134 empresario
-T44 Term-IAT 62 67 orden
+T23 Term-AttentionRank 48 57 expresión
+T24 Term-AttentionRank 72 75 día
+T25 Term-AttentionRank 76 85 propuesto
+T26 Term-AttentionRank 94 105 convocantes
+T27 Term-AttentionRank 210 216 recibo
+T28 Term-AttentionRank 0 8 Artículo
+T29 Term-AttentionRank 164 174 antelación
+T30 Term-AttentionRank 155 160 horas
+T31 Term-AttentionRank 203 209 acusar
+T32 Term-AttentionRank 62 67 orden
+T33 Term-AttentionRank 13 25 Convocatoria
+T34 Term-AttentionRank 30 42 convocatoria
+T35 Term-AttentionRank 124 134 empresario
+T36 Term-LabourLaw 30 42 convocatoria
+T37 Term-LabourLaw 124 134 empresario
+T38 Term-LabourLaw 124 131 empresa
+T39 Term-LabourLaw 142 147 renta
+T40 Term-IATE 13 25 Convocatoria
+T41 Term-IATE 30 42 convocatoria
+T42 Term-IATE 0 8 Artículo
+T43 Term-IATE 124 134 empresario
+T44 Term-IATE 62 67 orden

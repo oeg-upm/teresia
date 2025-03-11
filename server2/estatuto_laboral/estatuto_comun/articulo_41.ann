@@ -1,54 +1,54 @@
-T1 Term-DPJ 677 685 salarial
-T2 Term-DPJ 343 355 organización
-T3 Term-DPJ 59 66 trabajo
-T4 Term-DPJ 162 169 trabajo
-T5 Term-DPJ 370 377 trabajo
-T6 Term-DPJ 471 478 trabajo
-T7 Term-DPJ 550 557 trabajo
-T8 Term-DPJ 599 606 trabajo
-T9 Term-DPJ 622 629 trabajo
-T10 Term-DPJ 701 708 trabajo
-T11 Term-DPJ 90 97 empresa
-T12 Term-DPJ 384 391 empresa
-T13 Term-DPJ 74 83 dirección
-T14 Term-DPJ 643 650 Sistema
-T15 Term-DPJ 690 697 Sistema
-T16 Term-DPJ 589 595 tiempo
-T17 Term-DPJ 622 638 trabajo a turnos
-T18 Term-DPJ 669 676 cuantía
-T19 Term-DPJ 539 546 Jornada
-T20 Term-DPJ 760 767 límites
-T21 Term-DPJ 572 584 distribución
-T22 Term-DPJ 0 8 Artículo
-T23 Term-TC 0 8 Artículo
-T24 Term-TC 643 650 Sistema
-T25 Term-TC 690 697 Sistema
-T26 Term-TC 311 325 competitividad
-T27 Term-TC 456 478 condiciones de trabajo
-T28 Term-TC 44 66 condiciones de trabajo
-T29 Term-TC 147 169 condiciones de trabajo
-T30 Term-TC 74 83 dirección
-T31 Term-TC 90 97 empresa
-T32 Term-TC 384 391 empresa
-T33 Term-TC 370 377 trabajo
-T34 Term-TC 701 708 trabajo
-T35 Term-TC 539 557 Jornada de trabajo
-T36 Term-TC 780 799 movilidad funcional
-T37 Term-TC 327 340 productividad
-T38 Term-TC 654 666 remuneración
-T39 Term-TC 711 722 rendimiento
-T40 Term-TC 677 685 salarial
-T41 Term-TC 589 606 tiempo de trabajo
-T42 Term-TC 622 638 trabajo a turnos
-T43 Term-TC 599 606 trabajo
-T44 Term-TC 622 629 trabajo
-T45 Term-TC 526 534 materias
-T46 Term-TC 243 253 producción
-T47 Term-TC 669 676 cuantía
-T48 Term-TC 611 618 Régimen
-T49 Term-TC 690 708 Sistema de trabajo
-T50 Term-TC 632 638 turnos
-T51 Term-TC 104 111 acordar
+T1 Term-DPEJ 677 685 salarial
+T2 Term-DPEJ 343 355 organización
+T3 Term-DPEJ 59 66 trabajo
+T4 Term-DPEJ 162 169 trabajo
+T5 Term-DPEJ 370 377 trabajo
+T6 Term-DPEJ 471 478 trabajo
+T7 Term-DPEJ 550 557 trabajo
+T8 Term-DPEJ 599 606 trabajo
+T9 Term-DPEJ 622 629 trabajo
+T10 Term-DPEJ 701 708 trabajo
+T11 Term-DPEJ 90 97 empresa
+T12 Term-DPEJ 384 391 empresa
+T13 Term-DPEJ 74 83 dirección
+T14 Term-DPEJ 643 650 Sistema
+T15 Term-DPEJ 690 697 Sistema
+T16 Term-DPEJ 589 595 tiempo
+T17 Term-DPEJ 622 638 trabajo a turnos
+T18 Term-DPEJ 669 676 cuantía
+T19 Term-DPEJ 539 546 Jornada
+T20 Term-DPEJ 760 767 límites
+T21 Term-DPEJ 572 584 distribución
+T22 Term-DPEJ 0 8 Artículo
+T23 Term-Termcat 0 8 Artículo
+T24 Term-Termcat 643 650 Sistema
+T25 Term-Termcat 690 697 Sistema
+T26 Term-Termcat 311 325 competitividad
+T27 Term-Termcat 456 478 condiciones de trabajo
+T28 Term-Termcat 44 66 condiciones de trabajo
+T29 Term-Termcat 147 169 condiciones de trabajo
+T30 Term-Termcat 74 83 dirección
+T31 Term-Termcat 90 97 empresa
+T32 Term-Termcat 384 391 empresa
+T33 Term-Termcat 370 377 trabajo
+T34 Term-Termcat 701 708 trabajo
+T35 Term-Termcat 539 557 Jornada de trabajo
+T36 Term-Termcat 780 799 movilidad funcional
+T37 Term-Termcat 327 340 productividad
+T38 Term-Termcat 654 666 remuneración
+T39 Term-Termcat 711 722 rendimiento
+T40 Term-Termcat 677 685 salarial
+T41 Term-Termcat 589 606 tiempo de trabajo
+T42 Term-Termcat 622 638 trabajo a turnos
+T43 Term-Termcat 599 606 trabajo
+T44 Term-Termcat 622 629 trabajo
+T45 Term-Termcat 526 534 materias
+T46 Term-Termcat 243 253 producción
+T47 Term-Termcat 669 676 cuantía
+T48 Term-Termcat 611 618 Régimen
+T49 Term-Termcat 690 708 Sistema de trabajo
+T50 Term-Termcat 632 638 turnos
+T51 Term-Termcat 104 111 acordar
 T52 Term-DV 108 111 dar
 T53 Term-DV 74 83 dirección
 T54 Term-DV 572 584 distribución
@@ -62,69 +62,69 @@ T61 Term-DV 677 681 sala
 T62 Term-DV 782 785 vil
 T63 Term-DV 178 179 x
 T64 Term-DV 746 747 x
-T65 Term-AR 760 767 límites
-T66 Term-AR 669 676 cuantía
-T67 Term-AR 589 595 tiempo
-T68 Term-AR 343 355 organización
-T69 Term-AR 311 325 competitividad
-T70 Term-AR 74 83 dirección
-T71 Term-AR 539 546 Jornada
-T72 Term-AR 185 212 probadas razones económicas
-T73 Term-AR 0 8 Artículo
-T74 Term-AR 194 212 razones económicas
-T75 Term-AR 780 799 movilidad funcional
-T76 Term-AR 677 685 salarial
-T77 Term-AR 271 276 tales
-T78 Term-AR 515 534 siguientes materias
-T79 Term-AR 643 650 Sistema
-T80 Term-AR 690 697 Sistema
-T81 Term-AR 243 253 producción
-T82 Term-AR 90 97 empresa
-T83 Term-AR 384 391 empresa
-T84 Term-AR 526 534 materias
-T85 Term-AR 562 569 Horario
-T86 Term-AR 632 638 turnos
-T87 Term-AR 572 584 distribución
-T88 Term-AR 327 340 productividad
-T89 Term-AR 404 417 consideración
-T90 Term-AR 59 66 trabajo
-T91 Term-AR 162 169 trabajo
-T92 Term-AR 370 377 trabajo
-T93 Term-AR 471 478 trabajo
-T94 Term-AR 550 557 trabajo
-T95 Term-AR 599 606 trabajo
-T96 Term-AR 622 629 trabajo
-T97 Term-AR 701 708 trabajo
-T98 Term-AR 13 40 Modificaciones sustanciales
-T99 Term-AR 112 139 modificaciones sustanciales
-T100 Term-AR 421 448 modificaciones sustanciales
-T101 Term-LL 44 66 condiciones de trabajo
-T102 Term-LL 147 169 condiciones de trabajo
-T103 Term-LL 456 478 condiciones de trabajo
-T104 Term-LL 780 799 movilidad funcional
-T105 Term-LL 327 340 productividad
-T106 Term-LL 59 66 trabajo
-T107 Term-LL 162 169 trabajo
-T108 Term-LL 370 377 trabajo
-T109 Term-LL 471 478 trabajo
-T110 Term-LL 550 557 trabajo
-T111 Term-LL 599 606 trabajo
-T112 Term-LL 622 629 trabajo
-T113 Term-LL 701 708 trabajo
-T114 Term-LL 74 83 dirección
-T115 Term-LL 343 355 organización
-T116 Term-LL 654 666 remuneración
-T117 Term-LL 669 676 cuantía
-T118 Term-LL 90 97 empresa
-T119 Term-LL 384 391 empresa
-T120 Term-LL 632 637 turno
-T121 Term-IAT 327 340 productividad
-T122 Term-IAT 0 8 Artículo
-T123 Term-IAT 90 97 empresa
-T124 Term-IAT 384 391 empresa
-T125 Term-IAT 572 584 distribución
-T126 Term-IAT 311 325 competitividad
-T127 Term-IAT 526 534 materias
-T128 Term-IAT 643 650 Sistema
-T129 Term-IAT 690 697 Sistema
-T130 Term-IAT 74 83 dirección
+T65 Term-AttentionRank 760 767 límites
+T66 Term-AttentionRank 669 676 cuantía
+T67 Term-AttentionRank 589 595 tiempo
+T68 Term-AttentionRank 343 355 organización
+T69 Term-AttentionRank 311 325 competitividad
+T70 Term-AttentionRank 74 83 dirección
+T71 Term-AttentionRank 539 546 Jornada
+T72 Term-AttentionRank 185 212 probadas razones económicas
+T73 Term-AttentionRank 0 8 Artículo
+T74 Term-AttentionRank 194 212 razones económicas
+T75 Term-AttentionRank 780 799 movilidad funcional
+T76 Term-AttentionRank 677 685 salarial
+T77 Term-AttentionRank 271 276 tales
+T78 Term-AttentionRank 515 534 siguientes materias
+T79 Term-AttentionRank 643 650 Sistema
+T80 Term-AttentionRank 690 697 Sistema
+T81 Term-AttentionRank 243 253 producción
+T82 Term-AttentionRank 90 97 empresa
+T83 Term-AttentionRank 384 391 empresa
+T84 Term-AttentionRank 526 534 materias
+T85 Term-AttentionRank 562 569 Horario
+T86 Term-AttentionRank 632 638 turnos
+T87 Term-AttentionRank 572 584 distribución
+T88 Term-AttentionRank 327 340 productividad
+T89 Term-AttentionRank 404 417 consideración
+T90 Term-AttentionRank 59 66 trabajo
+T91 Term-AttentionRank 162 169 trabajo
+T92 Term-AttentionRank 370 377 trabajo
+T93 Term-AttentionRank 471 478 trabajo
+T94 Term-AttentionRank 550 557 trabajo
+T95 Term-AttentionRank 599 606 trabajo
+T96 Term-AttentionRank 622 629 trabajo
+T97 Term-AttentionRank 701 708 trabajo
+T98 Term-AttentionRank 13 40 Modificaciones sustanciales
+T99 Term-AttentionRank 112 139 modificaciones sustanciales
+T100 Term-AttentionRank 421 448 modificaciones sustanciales
+T101 Term-LabourLaw 44 66 condiciones de trabajo
+T102 Term-LabourLaw 147 169 condiciones de trabajo
+T103 Term-LabourLaw 456 478 condiciones de trabajo
+T104 Term-LabourLaw 780 799 movilidad funcional
+T105 Term-LabourLaw 327 340 productividad
+T106 Term-LabourLaw 59 66 trabajo
+T107 Term-LabourLaw 162 169 trabajo
+T108 Term-LabourLaw 370 377 trabajo
+T109 Term-LabourLaw 471 478 trabajo
+T110 Term-LabourLaw 550 557 trabajo
+T111 Term-LabourLaw 599 606 trabajo
+T112 Term-LabourLaw 622 629 trabajo
+T113 Term-LabourLaw 701 708 trabajo
+T114 Term-LabourLaw 74 83 dirección
+T115 Term-LabourLaw 343 355 organización
+T116 Term-LabourLaw 654 666 remuneración
+T117 Term-LabourLaw 669 676 cuantía
+T118 Term-LabourLaw 90 97 empresa
+T119 Term-LabourLaw 384 391 empresa
+T120 Term-LabourLaw 632 637 turno
+T121 Term-IATE 327 340 productividad
+T122 Term-IATE 0 8 Artículo
+T123 Term-IATE 90 97 empresa
+T124 Term-IATE 384 391 empresa
+T125 Term-IATE 572 584 distribución
+T126 Term-IATE 311 325 competitividad
+T127 Term-IATE 526 534 materias
+T128 Term-IATE 643 650 Sistema
+T129 Term-IATE 690 697 Sistema
+T130 Term-IATE 74 83 dirección

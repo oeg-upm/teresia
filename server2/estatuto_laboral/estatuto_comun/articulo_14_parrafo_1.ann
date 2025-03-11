@@ -1,80 +1,80 @@
-T1 Term-DPJ 105 109 caso
-T2 Term-DPJ 1417 1421 caso
-T3 Term-DPJ 1455 1463 embarazo
-T4 Term-DPJ 1494 1502 embarazo
-T5 Term-DPJ 1647 1655 embarazo
-T6 Term-DPJ 169 174 pacto
-T7 Term-DPJ 867 872 pacto
-T8 Term-DPJ 1166 1173 trabajo
-T9 Term-DPJ 334 342 empresas
-T10 Term-DPJ 994 1001 empresa
-T11 Term-DPJ 133 142 convenios
-T12 Term-DPJ 178 186 convenio
-T13 Term-DPJ 702 710 convenio
-T14 Term-DPJ 508 517 contratos
-T15 Term-DPJ 1302 1311 instancia
-T16 Term-DPJ 1379 1388 instancia
-T17 Term-DPJ 1536 1546 suspensión
-T18 Term-DPJ 133 153 convenios colectivos
-T19 Term-DPJ 702 720 convenio colectivo
-T20 Term-DPJ 585 591 tiempo
-T21 Term-DPJ 1156 1162 puesto
-T22 Term-DPJ 1244 1254 resolución
-T23 Term-DPJ 1366 1376 resolución
-T24 Term-DPJ 74 81 límites
-T25 Term-DPJ 1261 1269 relación
-T26 Term-DPJ 557 565 artículo
-T27 Term-DPJ 1567 1575 artículo
-T28 Term-DPJ 1474 1479 fecha
-T29 Term-TC 133 142 convenios
-T30 Term-TC 178 186 convenio
-T31 Term-TC 702 710 convenio
-T32 Term-TC 1379 1388 instancia
-T33 Term-TC 1302 1311 instancia
-T34 Term-TC 47 53 prueba
-T35 Term-TC 846 852 prueba
-T36 Term-TC 394 400 prueba
-T37 Term-TC 1070 1076 prueba
-T38 Term-TC 215 221 prueba
-T39 Term-TC 902 908 prueba
-T40 Term-TC 632 638 prueba
-T41 Term-TC 1244 1254 resolución
-T42 Term-TC 1366 1376 resolución
-T43 Term-TC 508 517 contratos
-T44 Term-TC 867 872 pacto
-T45 Term-TC 169 174 pacto
-T46 Term-TC 694 698 cosa
-T47 Term-TC 1658 1668 maternidad
-T48 Term-TC 1584 1594 maternidad
-T49 Term-TC 557 565 artículo
-T50 Term-TC 1567 1575 artículo
-T51 Term-TC 1333 1339 partes
-T52 Term-TC 133 153 convenios colectivos
-T53 Term-TC 702 720 convenio colectivo
-T54 Term-TC 334 342 empresas
-T55 Term-TC 994 1001 empresa
-T56 Term-TC 1156 1173 puesto de trabajo
-T57 Term-TC 1018 1043 modalidad de contratación
-T58 Term-TC 1205 1214 plantilla
-T59 Term-TC 85 93 duración
-T60 Term-TC 191 199 duración
-T61 Term-TC 532 540 duración
-T62 Term-TC 1112 1120 derechos
-T63 Term-TC 1081 1088 persona
-T64 Term-TC 1536 1546 suspensión
-T65 Term-TC 1031 1043 contratación
-T66 Term-TC 1389 1400 empresarial
-T67 Term-TC 1616 1623 motivos
-T68 Term-TC 891 908 periodo de prueba
-T69 Term-TC 36 53 periodo de prueba
-T70 Term-TC 1059 1076 periodo de prueba
-T71 Term-TC 204 221 periodo de prueba
-T72 Term-TC 383 400 periodo de prueba
-T73 Term-TC 621 638 periodo de prueba
-T74 Term-TC 1446 1451 razón
-T75 Term-TC 1261 1277 relación laboral
-T76 Term-TC 595 603 superior
-T77 Term-TC 518 528 temporales
+T1 Term-DPEJ 105 109 caso
+T2 Term-DPEJ 1417 1421 caso
+T3 Term-DPEJ 1455 1463 embarazo
+T4 Term-DPEJ 1494 1502 embarazo
+T5 Term-DPEJ 1647 1655 embarazo
+T6 Term-DPEJ 169 174 pacto
+T7 Term-DPEJ 867 872 pacto
+T8 Term-DPEJ 1166 1173 trabajo
+T9 Term-DPEJ 334 342 empresas
+T10 Term-DPEJ 994 1001 empresa
+T11 Term-DPEJ 133 142 convenios
+T12 Term-DPEJ 178 186 convenio
+T13 Term-DPEJ 702 710 convenio
+T14 Term-DPEJ 508 517 contratos
+T15 Term-DPEJ 1302 1311 instancia
+T16 Term-DPEJ 1379 1388 instancia
+T17 Term-DPEJ 1536 1546 suspensión
+T18 Term-DPEJ 133 153 convenios colectivos
+T19 Term-DPEJ 702 720 convenio colectivo
+T20 Term-DPEJ 585 591 tiempo
+T21 Term-DPEJ 1156 1162 puesto
+T22 Term-DPEJ 1244 1254 resolución
+T23 Term-DPEJ 1366 1376 resolución
+T24 Term-DPEJ 74 81 límites
+T25 Term-DPEJ 1261 1269 relación
+T26 Term-DPEJ 557 565 artículo
+T27 Term-DPEJ 1567 1575 artículo
+T28 Term-DPEJ 1474 1479 fecha
+T29 Term-Termcat 133 142 convenios
+T30 Term-Termcat 178 186 convenio
+T31 Term-Termcat 702 710 convenio
+T32 Term-Termcat 1379 1388 instancia
+T33 Term-Termcat 1302 1311 instancia
+T34 Term-Termcat 47 53 prueba
+T35 Term-Termcat 846 852 prueba
+T36 Term-Termcat 394 400 prueba
+T37 Term-Termcat 1070 1076 prueba
+T38 Term-Termcat 215 221 prueba
+T39 Term-Termcat 902 908 prueba
+T40 Term-Termcat 632 638 prueba
+T41 Term-Termcat 1244 1254 resolución
+T42 Term-Termcat 1366 1376 resolución
+T43 Term-Termcat 508 517 contratos
+T44 Term-Termcat 867 872 pacto
+T45 Term-Termcat 169 174 pacto
+T46 Term-Termcat 694 698 cosa
+T47 Term-Termcat 1658 1668 maternidad
+T48 Term-Termcat 1584 1594 maternidad
+T49 Term-Termcat 557 565 artículo
+T50 Term-Termcat 1567 1575 artículo
+T51 Term-Termcat 1333 1339 partes
+T52 Term-Termcat 133 153 convenios colectivos
+T53 Term-Termcat 702 720 convenio colectivo
+T54 Term-Termcat 334 342 empresas
+T55 Term-Termcat 994 1001 empresa
+T56 Term-Termcat 1156 1173 puesto de trabajo
+T57 Term-Termcat 1018 1043 modalidad de contratación
+T58 Term-Termcat 1205 1214 plantilla
+T59 Term-Termcat 85 93 duración
+T60 Term-Termcat 191 199 duración
+T61 Term-Termcat 532 540 duración
+T62 Term-Termcat 1112 1120 derechos
+T63 Term-Termcat 1081 1088 persona
+T64 Term-Termcat 1536 1546 suspensión
+T65 Term-Termcat 1031 1043 contratación
+T66 Term-Termcat 1389 1400 empresarial
+T67 Term-Termcat 1616 1623 motivos
+T68 Term-Termcat 891 908 periodo de prueba
+T69 Term-Termcat 36 53 periodo de prueba
+T70 Term-Termcat 1059 1076 periodo de prueba
+T71 Term-Termcat 204 221 periodo de prueba
+T72 Term-Termcat 383 400 periodo de prueba
+T73 Term-Termcat 621 638 periodo de prueba
+T74 Term-Termcat 1446 1451 razón
+T75 Term-Termcat 1261 1277 relación laboral
+T76 Term-Termcat 595 603 superior
+T77 Term-Termcat 518 528 temporales
 T78 Term-DV 833 852 objeto de la prueba
 T79 Term-DV 316 320 baja
 T80 Term-DV 370 374 baja
@@ -128,159 +128,159 @@ T127 Term-DV 411 412 x
 T128 Term-DV 649 650 x
 T129 Term-DV 802 803 x
 T130 Term-DV 1217 1218 x
-T131 Term-AR 74 81 límites
-T132 Term-AR 1261 1277 relación laboral
-T133 Term-AR 585 591 tiempo
-T134 Term-AR 169 174 pacto
-T135 Term-AR 867 872 pacto
-T136 Term-AR 1446 1451 razón
-T137 Term-AR 1333 1339 partes
-T138 Term-AR 585 605 tiempo no superior a
-T139 Term-AR 1244 1254 resolución
-T140 Term-AR 1366 1376 resolución
-T141 Term-AR 36 43 periodo
-T142 Term-AR 204 211 periodo
-T143 Term-AR 383 390 periodo
-T144 Term-AR 621 628 periodo
-T145 Term-AR 891 898 periodo
-T146 Term-AR 1059 1066 periodo
-T147 Term-AR 1261 1269 relación
-T148 Term-AR 1455 1463 embarazo
-T149 Term-AR 1494 1502 embarazo
-T150 Term-AR 1647 1655 embarazo
-T151 Term-AR 1483 1489 inicio
-T152 Term-AR 1474 1479 fecha
-T153 Term-AR 557 565 artículo
-T154 Term-AR 1567 1575 artículo
-T155 Term-AR 492 500 supuesto
-T156 Term-AR 508 528 contratos temporales
-T157 Term-AR 532 552 duración determinada
-T158 Term-AR 1081 1088 persona
-T159 Term-AR 247 252 meses
-T160 Term-AR 292 297 meses
-T161 Term-AR 426 431 meses
-T162 Term-AR 611 616 meses
-T163 Term-AR 662 665 mes
-T164 Term-AR 133 142 convenios
-T165 Term-AR 178 186 convenio
-T166 Term-AR 702 710 convenio
-T167 Term-AR 1536 1546 suspensión
-T168 Term-AR 85 93 duración
-T169 Term-AR 191 199 duración
-T170 Term-AR 532 540 duración
-T171 Term-AR 133 153 convenios colectivos
-T172 Term-AR 133 153 convenios colectivos
-T173 Term-AR 1089 1100 trabajadora
-T174 Term-AR 1429 1441 trabajadoras
-T175 Term-AR 1018 1027 modalidad
-T176 Term-AR 313 325 trabajadores
-T177 Term-AR 367 379 trabajadores
-T178 Term-AR 441 453 trabajadores
-T179 Term-AR 741 751 trabajador
-T180 Term-AR 919 929 trabajador
-T181 Term-AR 1156 1162 puesto
-T182 Term-AR 334 342 empresas
-T183 Term-AR 994 1001 empresa
-T184 Term-AR 1616 1655 motivos no relacionados con el embarazo
-T185 Term-AR 262 280 técnicos titulados
-T186 Term-AR 466 484 técnicos titulados
-T187 Term-AR 1031 1043 contratación
-T188 Term-AR 47 53 prueba
-T189 Term-AR 215 221 prueba
-T190 Term-AR 394 400 prueba
-T191 Term-AR 632 638 prueba
-T192 Term-AR 846 852 prueba
-T193 Term-AR 902 908 prueba
-T194 Term-AR 1070 1076 prueba
-T195 Term-AR 1112 1120 derechos
-T196 Term-AR 1081 1100 persona trabajadora
-T197 Term-AR 508 517 contratos
-T198 Term-AR 702 720 convenio colectivo
-T199 Term-AR 1302 1311 instancia
-T200 Term-AR 1379 1388 instancia
-T201 Term-AR 1166 1173 trabajo
-T202 Term-AR 105 109 caso
-T203 Term-AR 1417 1421 caso
-T204 Term-AR 725 735 empresario
-T205 Term-AR 1379 1400 instancia empresarial
-T206 Term-LL 1156 1173 puesto de trabajo
-T207 Term-LL 702 720 convenio colectivo
-T208 Term-LL 1261 1277 relación laboral
-T209 Term-LL 231 238 exceder
-T210 Term-LL 410 417 exceder
-T211 Term-LL 648 655 exceder
-T212 Term-LL 1166 1173 trabajo
-T213 Term-LL 508 516 contrato
-T214 Term-LL 169 174 pacto
-T215 Term-LL 867 872 pacto
-T216 Term-LL 1351 1361 transcurso
-T217 Term-LL 313 323 trabajador
-T218 Term-LL 367 377 trabajador
-T219 Term-LL 441 451 trabajador
-T220 Term-LL 741 751 trabajador
-T221 Term-LL 919 929 trabajador
-T222 Term-LL 1089 1099 trabajador
-T223 Term-LL 1429 1439 trabajador
-T224 Term-LL 1539 1546 pensión
-T225 Term-LL 1031 1043 contratación
-T226 Term-LL 725 735 empresario
-T227 Term-LL 1584 1594 maternidad
-T228 Term-LL 1658 1668 maternidad
-T229 Term-LL 158 165 defecto
-T230 Term-LL 334 341 empresa
-T231 Term-LL 725 732 empresa
-T232 Term-LL 994 1001 empresa
-T233 Term-LL 1389 1396 empresa
-T234 Term-LL 85 93 duración
-T235 Term-LL 191 199 duración
-T236 Term-LL 532 540 duración
-T237 Term-LL 1112 1119 derecho
-T238 Term-LL 143 152 colectivo
-T239 Term-LL 711 720 colectivo
-T240 Term-LL 1536 1546 suspensión
-T241 Term-LL 36 43 periodo
-T242 Term-LL 204 211 periodo
-T243 Term-LL 383 390 periodo
-T244 Term-LL 621 628 periodo
-T245 Term-LL 891 898 periodo
-T246 Term-LL 1059 1066 periodo
-T247 Term-LL 1081 1088 persona
-T248 Term-IAT 1333 1339 partes
-T249 Term-IAT 557 565 artículo
-T250 Term-IAT 1567 1575 artículo
-T251 Term-IAT 1244 1254 resolución
-T252 Term-IAT 1366 1376 resolución
-T253 Term-IAT 334 342 empresas
-T254 Term-IAT 994 1001 empresa
-T255 Term-IAT 1446 1451 razón
-T256 Term-IAT 725 735 empresario
-T257 Term-IAT 1536 1546 suspensión
-T258 Term-IAT 1302 1311 instancia
-T259 Term-IAT 1379 1388 instancia
-T260 Term-IAT 47 53 prueba
-T261 Term-IAT 215 221 prueba
-T262 Term-IAT 394 400 prueba
-T263 Term-IAT 632 638 prueba
-T264 Term-IAT 846 852 prueba
-T265 Term-IAT 902 908 prueba
-T266 Term-IAT 1070 1076 prueba
-T267 Term-IAT 313 325 trabajadores
-T268 Term-IAT 367 379 trabajadores
-T269 Term-IAT 441 453 trabajadores
-T270 Term-IAT 741 751 trabajador
-T271 Term-IAT 919 929 trabajador
-T272 Term-IAT 1455 1463 embarazo
-T273 Term-IAT 1494 1502 embarazo
-T274 Term-IAT 1647 1655 embarazo
-T275 Term-IAT 508 517 contratos
-T276 Term-IAT 133 142 convenios
-T277 Term-IAT 178 186 convenio
-T278 Term-IAT 702 710 convenio
-T279 Term-IAT 247 252 meses
-T280 Term-IAT 292 297 meses
-T281 Term-IAT 426 431 meses
-T282 Term-IAT 611 616 meses
-T283 Term-IAT 662 665 mes
-T284 Term-IAT 85 93 duración
-T285 Term-IAT 191 199 duración
-T286 Term-IAT 532 540 duración
+T131 Term-AttentionRank 74 81 límites
+T132 Term-AttentionRank 1261 1277 relación laboral
+T133 Term-AttentionRank 585 591 tiempo
+T134 Term-AttentionRank 169 174 pacto
+T135 Term-AttentionRank 867 872 pacto
+T136 Term-AttentionRank 1446 1451 razón
+T137 Term-AttentionRank 1333 1339 partes
+T138 Term-AttentionRank 585 605 tiempo no superior a
+T139 Term-AttentionRank 1244 1254 resolución
+T140 Term-AttentionRank 1366 1376 resolución
+T141 Term-AttentionRank 36 43 periodo
+T142 Term-AttentionRank 204 211 periodo
+T143 Term-AttentionRank 383 390 periodo
+T144 Term-AttentionRank 621 628 periodo
+T145 Term-AttentionRank 891 898 periodo
+T146 Term-AttentionRank 1059 1066 periodo
+T147 Term-AttentionRank 1261 1269 relación
+T148 Term-AttentionRank 1455 1463 embarazo
+T149 Term-AttentionRank 1494 1502 embarazo
+T150 Term-AttentionRank 1647 1655 embarazo
+T151 Term-AttentionRank 1483 1489 inicio
+T152 Term-AttentionRank 1474 1479 fecha
+T153 Term-AttentionRank 557 565 artículo
+T154 Term-AttentionRank 1567 1575 artículo
+T155 Term-AttentionRank 492 500 supuesto
+T156 Term-AttentionRank 508 528 contratos temporales
+T157 Term-AttentionRank 532 552 duración determinada
+T158 Term-AttentionRank 1081 1088 persona
+T159 Term-AttentionRank 247 252 meses
+T160 Term-AttentionRank 292 297 meses
+T161 Term-AttentionRank 426 431 meses
+T162 Term-AttentionRank 611 616 meses
+T163 Term-AttentionRank 662 665 mes
+T164 Term-AttentionRank 133 142 convenios
+T165 Term-AttentionRank 178 186 convenio
+T166 Term-AttentionRank 702 710 convenio
+T167 Term-AttentionRank 1536 1546 suspensión
+T168 Term-AttentionRank 85 93 duración
+T169 Term-AttentionRank 191 199 duración
+T170 Term-AttentionRank 532 540 duración
+T171 Term-AttentionRank 133 153 convenios colectivos
+T172 Term-AttentionRank 133 153 convenios colectivos
+T173 Term-AttentionRank 1089 1100 trabajadora
+T174 Term-AttentionRank 1429 1441 trabajadoras
+T175 Term-AttentionRank 1018 1027 modalidad
+T176 Term-AttentionRank 313 325 trabajadores
+T177 Term-AttentionRank 367 379 trabajadores
+T178 Term-AttentionRank 441 453 trabajadores
+T179 Term-AttentionRank 741 751 trabajador
+T180 Term-AttentionRank 919 929 trabajador
+T181 Term-AttentionRank 1156 1162 puesto
+T182 Term-AttentionRank 334 342 empresas
+T183 Term-AttentionRank 994 1001 empresa
+T184 Term-AttentionRank 1616 1655 motivos no relacionados con el embarazo
+T185 Term-AttentionRank 262 280 técnicos titulados
+T186 Term-AttentionRank 466 484 técnicos titulados
+T187 Term-AttentionRank 1031 1043 contratación
+T188 Term-AttentionRank 47 53 prueba
+T189 Term-AttentionRank 215 221 prueba
+T190 Term-AttentionRank 394 400 prueba
+T191 Term-AttentionRank 632 638 prueba
+T192 Term-AttentionRank 846 852 prueba
+T193 Term-AttentionRank 902 908 prueba
+T194 Term-AttentionRank 1070 1076 prueba
+T195 Term-AttentionRank 1112 1120 derechos
+T196 Term-AttentionRank 1081 1100 persona trabajadora
+T197 Term-AttentionRank 508 517 contratos
+T198 Term-AttentionRank 702 720 convenio colectivo
+T199 Term-AttentionRank 1302 1311 instancia
+T200 Term-AttentionRank 1379 1388 instancia
+T201 Term-AttentionRank 1166 1173 trabajo
+T202 Term-AttentionRank 105 109 caso
+T203 Term-AttentionRank 1417 1421 caso
+T204 Term-AttentionRank 725 735 empresario
+T205 Term-AttentionRank 1379 1400 instancia empresarial
+T206 Term-LabourLaw 1156 1173 puesto de trabajo
+T207 Term-LabourLaw 702 720 convenio colectivo
+T208 Term-LabourLaw 1261 1277 relación laboral
+T209 Term-LabourLaw 231 238 exceder
+T210 Term-LabourLaw 410 417 exceder
+T211 Term-LabourLaw 648 655 exceder
+T212 Term-LabourLaw 1166 1173 trabajo
+T213 Term-LabourLaw 508 516 contrato
+T214 Term-LabourLaw 169 174 pacto
+T215 Term-LabourLaw 867 872 pacto
+T216 Term-LabourLaw 1351 1361 transcurso
+T217 Term-LabourLaw 313 323 trabajador
+T218 Term-LabourLaw 367 377 trabajador
+T219 Term-LabourLaw 441 451 trabajador
+T220 Term-LabourLaw 741 751 trabajador
+T221 Term-LabourLaw 919 929 trabajador
+T222 Term-LabourLaw 1089 1099 trabajador
+T223 Term-LabourLaw 1429 1439 trabajador
+T224 Term-LabourLaw 1539 1546 pensión
+T225 Term-LabourLaw 1031 1043 contratación
+T226 Term-LabourLaw 725 735 empresario
+T227 Term-LabourLaw 1584 1594 maternidad
+T228 Term-LabourLaw 1658 1668 maternidad
+T229 Term-LabourLaw 158 165 defecto
+T230 Term-LabourLaw 334 341 empresa
+T231 Term-LabourLaw 725 732 empresa
+T232 Term-LabourLaw 994 1001 empresa
+T233 Term-LabourLaw 1389 1396 empresa
+T234 Term-LabourLaw 85 93 duración
+T235 Term-LabourLaw 191 199 duración
+T236 Term-LabourLaw 532 540 duración
+T237 Term-LabourLaw 1112 1119 derecho
+T238 Term-LabourLaw 143 152 colectivo
+T239 Term-LabourLaw 711 720 colectivo
+T240 Term-LabourLaw 1536 1546 suspensión
+T241 Term-LabourLaw 36 43 periodo
+T242 Term-LabourLaw 204 211 periodo
+T243 Term-LabourLaw 383 390 periodo
+T244 Term-LabourLaw 621 628 periodo
+T245 Term-LabourLaw 891 898 periodo
+T246 Term-LabourLaw 1059 1066 periodo
+T247 Term-LabourLaw 1081 1088 persona
+T248 Term-IATE 1333 1339 partes
+T249 Term-IATE 557 565 artículo
+T250 Term-IATE 1567 1575 artículo
+T251 Term-IATE 1244 1254 resolución
+T252 Term-IATE 1366 1376 resolución
+T253 Term-IATE 334 342 empresas
+T254 Term-IATE 994 1001 empresa
+T255 Term-IATE 1446 1451 razón
+T256 Term-IATE 725 735 empresario
+T257 Term-IATE 1536 1546 suspensión
+T258 Term-IATE 1302 1311 instancia
+T259 Term-IATE 1379 1388 instancia
+T260 Term-IATE 47 53 prueba
+T261 Term-IATE 215 221 prueba
+T262 Term-IATE 394 400 prueba
+T263 Term-IATE 632 638 prueba
+T264 Term-IATE 846 852 prueba
+T265 Term-IATE 902 908 prueba
+T266 Term-IATE 1070 1076 prueba
+T267 Term-IATE 313 325 trabajadores
+T268 Term-IATE 367 379 trabajadores
+T269 Term-IATE 441 453 trabajadores
+T270 Term-IATE 741 751 trabajador
+T271 Term-IATE 919 929 trabajador
+T272 Term-IATE 1455 1463 embarazo
+T273 Term-IATE 1494 1502 embarazo
+T274 Term-IATE 1647 1655 embarazo
+T275 Term-IATE 508 517 contratos
+T276 Term-IATE 133 142 convenios
+T277 Term-IATE 178 186 convenio
+T278 Term-IATE 702 710 convenio
+T279 Term-IATE 247 252 meses
+T280 Term-IATE 292 297 meses
+T281 Term-IATE 426 431 meses
+T282 Term-IATE 611 616 meses
+T283 Term-IATE 662 665 mes
+T284 Term-IATE 85 93 duración
+T285 Term-IATE 191 199 duración
+T286 Term-IATE 532 540 duración

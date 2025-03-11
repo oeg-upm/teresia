@@ -1,84 +1,84 @@
-T1 Term-DPJ 260 264 caso
-T2 Term-DPJ 649 661 organización
-T3 Term-DPJ 1005 1014 Seguridad
-T4 Term-DPJ 161 168 trabajo
-T5 Term-DPJ 1463 1470 trabajo
-T6 Term-DPJ 107 114 empresa
-T7 Term-DPJ 549 556 empresa
-T8 Term-DPJ 570 577 empresa
-T9 Term-DPJ 599 606 empresa
-T10 Term-DPJ 1239 1246 empresa
-T11 Term-DPJ 1318 1325 empresa
-T12 Term-DPJ 149 157 empresas
-T13 Term-DPJ 472 480 empresas
-T14 Term-DPJ 439 448 contratos
-T15 Term-DPJ 796 805 condición
-T16 Term-DPJ 1198 1207 condición
-T17 Term-DPJ 161 177 trabajo temporal
-T18 Term-DPJ 511 522 disposición
-T19 Term-DPJ 557 564 cedente
-T20 Term-DPJ 607 614 cedente
-T21 Term-DPJ 841 848 cedente
-T22 Term-DPJ 1247 1254 cedente
-T23 Term-DPJ 630 639 actividad
-T24 Term-DPJ 743 752 actividad
-T25 Term-DPJ 402 416 circunstancias
-T26 Term-DPJ 896 905 apartados
-T27 Term-DPJ 1050 1067 responsabilidades
-T28 Term-DPJ 1453 1459 puesto
-T29 Term-DPJ 1223 1231 elección
-T30 Term-DPJ 452 461 servicios
-T31 Term-DPJ 1417 1426 servicios
-T32 Term-DPJ 0 8 Artículo
-T33 Term-DPJ 349 357 artículo
-T34 Term-TC 796 805 condición
-T35 Term-TC 1198 1207 condición
-T36 Term-TC 452 461 servicios
-T37 Term-TC 1417 1426 servicios
-T38 Term-TC 209 217 términos
-T39 Term-TC 1110 1115 actos
-T40 Term-TC 1475 1479 bien
-T41 Term-TC 1247 1254 cedente
-T42 Term-TC 557 564 cedente
-T43 Term-TC 841 848 cedente
-T44 Term-TC 607 614 cedente
-T45 Term-TC 13 19 Cesión
-T46 Term-TC 1529 1535 cesión
-T47 Term-TC 299 305 cesión
-T48 Term-TC 439 448 contratos
-T49 Term-TC 0 8 Artículo
-T50 Term-TC 349 357 artículo
-T51 Term-TC 1483 1493 antigüedad
-T52 Term-TC 13 35 Cesión de trabajadores
-T53 Term-TC 107 114 empresa
-T54 Term-TC 1318 1325 empresa
-T55 Term-TC 549 556 empresa
-T56 Term-TC 1239 1246 empresa
-T57 Term-TC 599 606 empresa
-T58 Term-TC 570 577 empresa
-T59 Term-TC 472 480 empresas
-T60 Term-TC 149 157 empresas
-T61 Term-TC 1453 1470 puesto de trabajo
-T62 Term-TC 1005 1021 Seguridad Social
-T63 Term-TC 161 177 trabajo temporal
-T64 Term-TC 726 736 desarrollo
-T65 Term-TC 1176 1183 derecho
-T66 Term-TC 1273 1281 derechos
-T67 Term-TC 700 706 medios
-T68 Term-TC 1005 1014 Seguridad
-T69 Term-TC 511 522 disposición
-T70 Term-TC 743 752 actividad
-T71 Term-TC 630 639 actividad
-T72 Term-TC 402 416 circunstancias
-T73 Term-TC 43 55 contratación
-T74 Term-TC 1223 1231 elección
-T75 Term-TC 161 168 trabajo
-T76 Term-TC 1536 1542 ilegal
-T77 Term-TC 306 312 ilegal
-T78 Term-TC 1077 1084 penales
-T79 Term-TC 1027 1036 perjuicio
-T80 Term-TC 1050 1067 responsabilidades
-T81 Term-TC 169 177 temporal
+T1 Term-DPEJ 260 264 caso
+T2 Term-DPEJ 649 661 organización
+T3 Term-DPEJ 1005 1014 Seguridad
+T4 Term-DPEJ 161 168 trabajo
+T5 Term-DPEJ 1463 1470 trabajo
+T6 Term-DPEJ 107 114 empresa
+T7 Term-DPEJ 549 556 empresa
+T8 Term-DPEJ 570 577 empresa
+T9 Term-DPEJ 599 606 empresa
+T10 Term-DPEJ 1239 1246 empresa
+T11 Term-DPEJ 1318 1325 empresa
+T12 Term-DPEJ 149 157 empresas
+T13 Term-DPEJ 472 480 empresas
+T14 Term-DPEJ 439 448 contratos
+T15 Term-DPEJ 796 805 condición
+T16 Term-DPEJ 1198 1207 condición
+T17 Term-DPEJ 161 177 trabajo temporal
+T18 Term-DPEJ 511 522 disposición
+T19 Term-DPEJ 557 564 cedente
+T20 Term-DPEJ 607 614 cedente
+T21 Term-DPEJ 841 848 cedente
+T22 Term-DPEJ 1247 1254 cedente
+T23 Term-DPEJ 630 639 actividad
+T24 Term-DPEJ 743 752 actividad
+T25 Term-DPEJ 402 416 circunstancias
+T26 Term-DPEJ 896 905 apartados
+T27 Term-DPEJ 1050 1067 responsabilidades
+T28 Term-DPEJ 1453 1459 puesto
+T29 Term-DPEJ 1223 1231 elección
+T30 Term-DPEJ 452 461 servicios
+T31 Term-DPEJ 1417 1426 servicios
+T32 Term-DPEJ 0 8 Artículo
+T33 Term-DPEJ 349 357 artículo
+T34 Term-Termcat 796 805 condición
+T35 Term-Termcat 1198 1207 condición
+T36 Term-Termcat 452 461 servicios
+T37 Term-Termcat 1417 1426 servicios
+T38 Term-Termcat 209 217 términos
+T39 Term-Termcat 1110 1115 actos
+T40 Term-Termcat 1475 1479 bien
+T41 Term-Termcat 1247 1254 cedente
+T42 Term-Termcat 557 564 cedente
+T43 Term-Termcat 841 848 cedente
+T44 Term-Termcat 607 614 cedente
+T45 Term-Termcat 13 19 Cesión
+T46 Term-Termcat 1529 1535 cesión
+T47 Term-Termcat 299 305 cesión
+T48 Term-Termcat 439 448 contratos
+T49 Term-Termcat 0 8 Artículo
+T50 Term-Termcat 349 357 artículo
+T51 Term-Termcat 1483 1493 antigüedad
+T52 Term-Termcat 13 35 Cesión de trabajadores
+T53 Term-Termcat 107 114 empresa
+T54 Term-Termcat 1318 1325 empresa
+T55 Term-Termcat 549 556 empresa
+T56 Term-Termcat 1239 1246 empresa
+T57 Term-Termcat 599 606 empresa
+T58 Term-Termcat 570 577 empresa
+T59 Term-Termcat 472 480 empresas
+T60 Term-Termcat 149 157 empresas
+T61 Term-Termcat 1453 1470 puesto de trabajo
+T62 Term-Termcat 1005 1021 Seguridad Social
+T63 Term-Termcat 161 177 trabajo temporal
+T64 Term-Termcat 726 736 desarrollo
+T65 Term-Termcat 1176 1183 derecho
+T66 Term-Termcat 1273 1281 derechos
+T67 Term-Termcat 700 706 medios
+T68 Term-Termcat 1005 1014 Seguridad
+T69 Term-Termcat 511 522 disposición
+T70 Term-Termcat 743 752 actividad
+T71 Term-Termcat 630 639 actividad
+T72 Term-Termcat 402 416 circunstancias
+T73 Term-Termcat 43 55 contratación
+T74 Term-Termcat 1223 1231 elección
+T75 Term-Termcat 161 168 trabajo
+T76 Term-Termcat 1536 1542 ilegal
+T77 Term-Termcat 306 312 ilegal
+T78 Term-Termcat 1077 1084 penales
+T79 Term-Termcat 1027 1036 perjuicio
+T80 Term-Termcat 1050 1067 responsabilidades
+T81 Term-Termcat 169 177 temporal
 T82 Term-DV 26 30 baja
 T83 Term-DV 62 66 baja
 T84 Term-DV 319 323 baja
@@ -147,140 +147,140 @@ T146 Term-DV 1124 1134 trabajador
 T147 Term-DV 1301 1311 trabajador
 T148 Term-DV 1395 1405 trabajador
 T149 Term-DV 1445 1449 vale
-T150 Term-AR 557 564 cedente
-T151 Term-AR 607 614 cedente
-T152 Term-AR 841 848 cedente
-T153 Term-AR 1247 1254 cedente
-T154 Term-AR 726 736 desarrollo
-T155 Term-AR 649 661 organización
-T156 Term-AR 1027 1067 perjuicio de las demás responsabilidades
-T157 Term-AR 851 861 cesionario
-T158 Term-AR 511 522 disposición
-T159 Term-AR 1124 1167 trabajadores sometidos al tráfico prohibido
-T160 Term-AR 316 357 trabajadores contemplada en este artículo
-T161 Term-AR 161 177 trabajo temporal
-T162 Term-AR 1005 1014 Seguridad
-T163 Term-AR 1516 1522 inicio
-T164 Term-AR 1367 1389 condiciones ordinarias
-T165 Term-AR 1110 1115 actos
-T166 Term-AR 570 588 empresa cesionaria
-T167 Term-AR 1318 1336 empresa cesionaria
-T168 Term-AR 0 8 Artículo
-T169 Term-AR 349 357 artículo
-T170 Term-AR 139 148 través de
-T171 Term-AR 896 916 apartados anteriores
-T172 Term-AR 951 995 obligaciones contraídas con los trabajadores
-T173 Term-AR 630 639 actividad
-T174 Term-AR 743 752 actividad
-T175 Term-AR 452 461 servicios
-T176 Term-AR 1417 1426 servicios
-T177 Term-AR 299 312 cesión ilegal
-T178 Term-AR 1529 1542 cesión ilegal
-T179 Term-AR 23 35 trabajadores
-T180 Term-AR 59 71 trabajadores
-T181 Term-AR 316 328 trabajadores
-T182 Term-AR 530 542 trabajadores
-T183 Term-AR 983 995 trabajadores
-T184 Term-AR 1124 1136 trabajadores
-T185 Term-AR 1301 1311 trabajador
-T186 Term-AR 1395 1405 trabajador
-T187 Term-AR 1453 1459 puesto
-T188 Term-AR 402 416 circunstancias
-T189 Term-AR 107 114 empresa
-T190 Term-AR 549 556 empresa
-T191 Term-AR 570 577 empresa
-T192 Term-AR 599 606 empresa
-T193 Term-AR 1239 1246 empresa
-T194 Term-AR 1318 1325 empresa
-T195 Term-AR 149 157 empresas
-T196 Term-AR 472 480 empresas
-T197 Term-AR 549 564 empresa cedente
-T198 Term-AR 599 614 empresa cedente
-T199 Term-AR 1239 1254 empresa cedente
-T200 Term-AR 1050 1067 responsabilidades
-T201 Term-AR 796 805 condición
-T202 Term-AR 1198 1207 condición
-T203 Term-AR 1005 1021 Seguridad Social
-T204 Term-AR 43 55 contratación
-T205 Term-AR 1176 1183 derecho
-T206 Term-AR 1273 1281 derechos
-T207 Term-AR 439 448 contratos
-T208 Term-AR 1223 1231 elección
-T209 Term-AR 161 168 trabajo
-T210 Term-AR 1463 1470 trabajo
-T211 Term-AR 260 264 caso
-T212 Term-AR 809 819 empresario
-T213 Term-AR 828 839 empresarios
-T214 Term-AR 896 905 apartados
-T215 Term-LL 1453 1470 puesto de trabajo
-T216 Term-LL 161 168 trabajo
-T217 Term-LL 1463 1470 trabajo
-T218 Term-LL 439 447 contrato
-T219 Term-LL 1050 1065 responsabilidad
-T220 Term-LL 23 33 trabajador
-T221 Term-LL 59 69 trabajador
-T222 Term-LL 316 326 trabajador
-T223 Term-LL 530 540 trabajador
-T224 Term-LL 983 993 trabajador
-T225 Term-LL 1124 1134 trabajador
-T226 Term-LL 1301 1311 trabajador
-T227 Term-LL 1395 1405 trabajador
-T228 Term-LL 649 661 organización
-T229 Term-LL 43 55 contratación
-T230 Term-LL 1223 1231 elección
-T231 Term-LL 1483 1493 antigüedad
-T232 Term-LL 796 805 condición
-T233 Term-LL 1198 1207 condición
-T234 Term-LL 809 819 empresario
-T235 Term-LL 828 838 empresario
-T236 Term-LL 452 460 servicio
-T237 Term-LL 1417 1425 servicio
-T238 Term-LL 1489 1493 edad
-T239 Term-LL 107 114 empresa
-T240 Term-LL 149 156 empresa
-T241 Term-LL 472 479 empresa
-T242 Term-LL 549 556 empresa
-T243 Term-LL 570 577 empresa
-T244 Term-LL 599 606 empresa
-T245 Term-LL 809 816 empresa
-T246 Term-LL 828 835 empresa
-T247 Term-LL 1239 1246 empresa
-T248 Term-LL 1318 1325 empresa
-T249 Term-LL 1176 1183 derecho
-T250 Term-LL 1273 1280 derecho
-T251 Term-LL 1027 1036 perjuicio
-T252 Term-LL 209 216 término
-T253 Term-LL 1497 1505 computar
-T254 Term-LL 299 305 cesión
-T255 Term-LL 1529 1535 cesión
-T256 Term-LL 511 522 disposición
-T257 Term-IAT 0 8 Artículo
-T258 Term-IAT 349 357 artículo
-T259 Term-IAT 1050 1067 responsabilidades
-T260 Term-IAT 107 114 empresa
-T261 Term-IAT 549 556 empresa
-T262 Term-IAT 570 577 empresa
-T263 Term-IAT 599 606 empresa
-T264 Term-IAT 1239 1246 empresa
-T265 Term-IAT 1318 1325 empresa
-T266 Term-IAT 149 157 empresas
-T267 Term-IAT 472 480 empresas
-T268 Term-IAT 809 819 empresario
-T269 Term-IAT 828 839 empresarios
-T270 Term-IAT 557 564 cedente
-T271 Term-IAT 607 614 cedente
-T272 Term-IAT 841 848 cedente
-T273 Term-IAT 1247 1254 cedente
-T274 Term-IAT 896 905 apartados
-T275 Term-IAT 23 35 trabajadores
-T276 Term-IAT 59 71 trabajadores
-T277 Term-IAT 316 328 trabajadores
-T278 Term-IAT 530 542 trabajadores
-T279 Term-IAT 983 995 trabajadores
-T280 Term-IAT 1124 1136 trabajadores
-T281 Term-IAT 1301 1311 trabajador
-T282 Term-IAT 1395 1405 trabajador
-T283 Term-IAT 1005 1014 Seguridad
-T284 Term-IAT 630 639 actividad
-T285 Term-IAT 743 752 actividad
-T286 Term-IAT 439 448 contratos
+T150 Term-AttentionRank 557 564 cedente
+T151 Term-AttentionRank 607 614 cedente
+T152 Term-AttentionRank 841 848 cedente
+T153 Term-AttentionRank 1247 1254 cedente
+T154 Term-AttentionRank 726 736 desarrollo
+T155 Term-AttentionRank 649 661 organización
+T156 Term-AttentionRank 1027 1067 perjuicio de las demás responsabilidades
+T157 Term-AttentionRank 851 861 cesionario
+T158 Term-AttentionRank 511 522 disposición
+T159 Term-AttentionRank 1124 1167 trabajadores sometidos al tráfico prohibido
+T160 Term-AttentionRank 316 357 trabajadores contemplada en este artículo
+T161 Term-AttentionRank 161 177 trabajo temporal
+T162 Term-AttentionRank 1005 1014 Seguridad
+T163 Term-AttentionRank 1516 1522 inicio
+T164 Term-AttentionRank 1367 1389 condiciones ordinarias
+T165 Term-AttentionRank 1110 1115 actos
+T166 Term-AttentionRank 570 588 empresa cesionaria
+T167 Term-AttentionRank 1318 1336 empresa cesionaria
+T168 Term-AttentionRank 0 8 Artículo
+T169 Term-AttentionRank 349 357 artículo
+T170 Term-AttentionRank 139 148 través de
+T171 Term-AttentionRank 896 916 apartados anteriores
+T172 Term-AttentionRank 951 995 obligaciones contraídas con los trabajadores
+T173 Term-AttentionRank 630 639 actividad
+T174 Term-AttentionRank 743 752 actividad
+T175 Term-AttentionRank 452 461 servicios
+T176 Term-AttentionRank 1417 1426 servicios
+T177 Term-AttentionRank 299 312 cesión ilegal
+T178 Term-AttentionRank 1529 1542 cesión ilegal
+T179 Term-AttentionRank 23 35 trabajadores
+T180 Term-AttentionRank 59 71 trabajadores
+T181 Term-AttentionRank 316 328 trabajadores
+T182 Term-AttentionRank 530 542 trabajadores
+T183 Term-AttentionRank 983 995 trabajadores
+T184 Term-AttentionRank 1124 1136 trabajadores
+T185 Term-AttentionRank 1301 1311 trabajador
+T186 Term-AttentionRank 1395 1405 trabajador
+T187 Term-AttentionRank 1453 1459 puesto
+T188 Term-AttentionRank 402 416 circunstancias
+T189 Term-AttentionRank 107 114 empresa
+T190 Term-AttentionRank 549 556 empresa
+T191 Term-AttentionRank 570 577 empresa
+T192 Term-AttentionRank 599 606 empresa
+T193 Term-AttentionRank 1239 1246 empresa
+T194 Term-AttentionRank 1318 1325 empresa
+T195 Term-AttentionRank 149 157 empresas
+T196 Term-AttentionRank 472 480 empresas
+T197 Term-AttentionRank 549 564 empresa cedente
+T198 Term-AttentionRank 599 614 empresa cedente
+T199 Term-AttentionRank 1239 1254 empresa cedente
+T200 Term-AttentionRank 1050 1067 responsabilidades
+T201 Term-AttentionRank 796 805 condición
+T202 Term-AttentionRank 1198 1207 condición
+T203 Term-AttentionRank 1005 1021 Seguridad Social
+T204 Term-AttentionRank 43 55 contratación
+T205 Term-AttentionRank 1176 1183 derecho
+T206 Term-AttentionRank 1273 1281 derechos
+T207 Term-AttentionRank 439 448 contratos
+T208 Term-AttentionRank 1223 1231 elección
+T209 Term-AttentionRank 161 168 trabajo
+T210 Term-AttentionRank 1463 1470 trabajo
+T211 Term-AttentionRank 260 264 caso
+T212 Term-AttentionRank 809 819 empresario
+T213 Term-AttentionRank 828 839 empresarios
+T214 Term-AttentionRank 896 905 apartados
+T215 Term-LabourLaw 1453 1470 puesto de trabajo
+T216 Term-LabourLaw 161 168 trabajo
+T217 Term-LabourLaw 1463 1470 trabajo
+T218 Term-LabourLaw 439 447 contrato
+T219 Term-LabourLaw 1050 1065 responsabilidad
+T220 Term-LabourLaw 23 33 trabajador
+T221 Term-LabourLaw 59 69 trabajador
+T222 Term-LabourLaw 316 326 trabajador
+T223 Term-LabourLaw 530 540 trabajador
+T224 Term-LabourLaw 983 993 trabajador
+T225 Term-LabourLaw 1124 1134 trabajador
+T226 Term-LabourLaw 1301 1311 trabajador
+T227 Term-LabourLaw 1395 1405 trabajador
+T228 Term-LabourLaw 649 661 organización
+T229 Term-LabourLaw 43 55 contratación
+T230 Term-LabourLaw 1223 1231 elección
+T231 Term-LabourLaw 1483 1493 antigüedad
+T232 Term-LabourLaw 796 805 condición
+T233 Term-LabourLaw 1198 1207 condición
+T234 Term-LabourLaw 809 819 empresario
+T235 Term-LabourLaw 828 838 empresario
+T236 Term-LabourLaw 452 460 servicio
+T237 Term-LabourLaw 1417 1425 servicio
+T238 Term-LabourLaw 1489 1493 edad
+T239 Term-LabourLaw 107 114 empresa
+T240 Term-LabourLaw 149 156 empresa
+T241 Term-LabourLaw 472 479 empresa
+T242 Term-LabourLaw 549 556 empresa
+T243 Term-LabourLaw 570 577 empresa
+T244 Term-LabourLaw 599 606 empresa
+T245 Term-LabourLaw 809 816 empresa
+T246 Term-LabourLaw 828 835 empresa
+T247 Term-LabourLaw 1239 1246 empresa
+T248 Term-LabourLaw 1318 1325 empresa
+T249 Term-LabourLaw 1176 1183 derecho
+T250 Term-LabourLaw 1273 1280 derecho
+T251 Term-LabourLaw 1027 1036 perjuicio
+T252 Term-LabourLaw 209 216 término
+T253 Term-LabourLaw 1497 1505 computar
+T254 Term-LabourLaw 299 305 cesión
+T255 Term-LabourLaw 1529 1535 cesión
+T256 Term-LabourLaw 511 522 disposición
+T257 Term-IATE 0 8 Artículo
+T258 Term-IATE 349 357 artículo
+T259 Term-IATE 1050 1067 responsabilidades
+T260 Term-IATE 107 114 empresa
+T261 Term-IATE 549 556 empresa
+T262 Term-IATE 570 577 empresa
+T263 Term-IATE 599 606 empresa
+T264 Term-IATE 1239 1246 empresa
+T265 Term-IATE 1318 1325 empresa
+T266 Term-IATE 149 157 empresas
+T267 Term-IATE 472 480 empresas
+T268 Term-IATE 809 819 empresario
+T269 Term-IATE 828 839 empresarios
+T270 Term-IATE 557 564 cedente
+T271 Term-IATE 607 614 cedente
+T272 Term-IATE 841 848 cedente
+T273 Term-IATE 1247 1254 cedente
+T274 Term-IATE 896 905 apartados
+T275 Term-IATE 23 35 trabajadores
+T276 Term-IATE 59 71 trabajadores
+T277 Term-IATE 316 328 trabajadores
+T278 Term-IATE 530 542 trabajadores
+T279 Term-IATE 983 995 trabajadores
+T280 Term-IATE 1124 1136 trabajadores
+T281 Term-IATE 1301 1311 trabajador
+T282 Term-IATE 1395 1405 trabajador
+T283 Term-IATE 1005 1014 Seguridad
+T284 Term-IATE 630 639 actividad
+T285 Term-IATE 743 752 actividad
+T286 Term-IATE 439 448 contratos

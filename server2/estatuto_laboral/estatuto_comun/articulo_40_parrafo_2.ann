@@ -1,77 +1,77 @@
-T1 Term-DPJ 597 614 centro de trabajo
-T2 Term-DPJ 709 726 centro de trabajo
-T3 Term-DPJ 607 614 trabajo
-T4 Term-DPJ 719 726 trabajo
-T5 Term-DPJ 1448 1455 trabajo
-T6 Term-DPJ 85 92 empresa
-T7 Term-DPJ 942 949 empresa
-T8 Term-DPJ 1702 1709 empresa
-T9 Term-DPJ 839 847 empresas
-T10 Term-DPJ 1043 1051 empresas
-T11 Term-DPJ 1686 1695 dirección
-T12 Term-DPJ 1298 1311 consecuencias
-T13 Term-DPJ 217 223 causas
-T14 Term-DPJ 1147 1153 causas
-T15 Term-DPJ 101 110 traslados
-T16 Term-DPJ 276 285 traslados
-T17 Term-DPJ 375 383 traslado
-T18 Term-DPJ 326 329 ley
-T19 Term-DPJ 1808 1813 orden
-T20 Term-DPJ 62 70 apartado
-T21 Term-DPJ 404 412 apartado
-T22 Term-DPJ 1172 1180 decisión
-T23 Term-DPJ 1262 1269 medidas
-T24 Term-DPJ 1787 1795 artículo
-T25 Term-DPJ 1509 1522 procedimiento
-T26 Term-DPJ 1716 1729 procedimiento
-T27 Term-DPJ 597 603 centro
-T28 Term-DPJ 709 715 centro
-T29 Term-DPJ 1437 1444 centros
-T30 Term-DPJ 1484 1491 centros
-T31 Term-DPJ 152 158 número
-T32 Term-DPJ 773 779 número
-T33 Term-DPJ 913 919 número
-T34 Term-TC 1808 1813 orden
-T35 Term-TC 1413 1417 bien
-T36 Term-TC 316 329 fraude de ley
-T37 Term-TC 1600 1614 representación
-T38 Term-TC 477 491 representantes
-T39 Term-TC 1787 1795 artículo
-T40 Term-TC 1645 1657 intervención
-T41 Term-TC 326 329 ley
-T42 Term-TC 1634 1640 partes
-T43 Term-TC 709 726 centro de trabajo
-T44 Term-TC 597 614 centro de trabajo
-T45 Term-TC 1388 1408 comisión negociadora
-T46 Term-TC 1527 1547 comisión negociadora
-T47 Term-TC 1686 1695 dirección
-T48 Term-TC 85 92 empresa
-T49 Term-TC 942 949 empresa
-T50 Term-TC 1702 1709 empresa
-T51 Term-TC 839 847 empresas
-T52 Term-TC 1043 1051 empresas
-T53 Term-TC 1448 1455 trabajo
-T54 Term-TC 276 285 traslados
-T55 Term-TC 101 110 traslados
-T56 Term-TC 375 383 traslado
-T57 Term-TC 527 535 duración
-T58 Term-TC 1172 1180 decisión
-T59 Term-TC 251 260 actuación
-T60 Term-TC 1147 1153 causas
-T61 Term-TC 217 223 causas
-T62 Term-TC 361 367 efecto
-T63 Term-TC 1234 1241 efectos
-T64 Term-TC 1181 1192 empresarial
-T65 Term-TC 492 499 legales
-T66 Term-TC 1509 1522 procedimiento
-T67 Term-TC 1716 1729 procedimiento
-T68 Term-TC 1763 1770 sujetos
-T69 Term-TC 539 547 superior
-T70 Term-TC 1388 1396 comisión
-T71 Term-TC 1527 1535 comisión
-T72 Term-TC 316 322 fraude
-T73 Term-TC 1222 1229 reducir
-T74 Term-TC 477 499 representantes legales
+T1 Term-DPEJ 597 614 centro de trabajo
+T2 Term-DPEJ 709 726 centro de trabajo
+T3 Term-DPEJ 607 614 trabajo
+T4 Term-DPEJ 719 726 trabajo
+T5 Term-DPEJ 1448 1455 trabajo
+T6 Term-DPEJ 85 92 empresa
+T7 Term-DPEJ 942 949 empresa
+T8 Term-DPEJ 1702 1709 empresa
+T9 Term-DPEJ 839 847 empresas
+T10 Term-DPEJ 1043 1051 empresas
+T11 Term-DPEJ 1686 1695 dirección
+T12 Term-DPEJ 1298 1311 consecuencias
+T13 Term-DPEJ 217 223 causas
+T14 Term-DPEJ 1147 1153 causas
+T15 Term-DPEJ 101 110 traslados
+T16 Term-DPEJ 276 285 traslados
+T17 Term-DPEJ 375 383 traslado
+T18 Term-DPEJ 326 329 ley
+T19 Term-DPEJ 1808 1813 orden
+T20 Term-DPEJ 62 70 apartado
+T21 Term-DPEJ 404 412 apartado
+T22 Term-DPEJ 1172 1180 decisión
+T23 Term-DPEJ 1262 1269 medidas
+T24 Term-DPEJ 1787 1795 artículo
+T25 Term-DPEJ 1509 1522 procedimiento
+T26 Term-DPEJ 1716 1729 procedimiento
+T27 Term-DPEJ 597 603 centro
+T28 Term-DPEJ 709 715 centro
+T29 Term-DPEJ 1437 1444 centros
+T30 Term-DPEJ 1484 1491 centros
+T31 Term-DPEJ 152 158 número
+T32 Term-DPEJ 773 779 número
+T33 Term-DPEJ 913 919 número
+T34 Term-Termcat 1808 1813 orden
+T35 Term-Termcat 1413 1417 bien
+T36 Term-Termcat 316 329 fraude de ley
+T37 Term-Termcat 1600 1614 representación
+T38 Term-Termcat 477 491 representantes
+T39 Term-Termcat 1787 1795 artículo
+T40 Term-Termcat 1645 1657 intervención
+T41 Term-Termcat 326 329 ley
+T42 Term-Termcat 1634 1640 partes
+T43 Term-Termcat 709 726 centro de trabajo
+T44 Term-Termcat 597 614 centro de trabajo
+T45 Term-Termcat 1388 1408 comisión negociadora
+T46 Term-Termcat 1527 1547 comisión negociadora
+T47 Term-Termcat 1686 1695 dirección
+T48 Term-Termcat 85 92 empresa
+T49 Term-Termcat 942 949 empresa
+T50 Term-Termcat 1702 1709 empresa
+T51 Term-Termcat 839 847 empresas
+T52 Term-Termcat 1043 1051 empresas
+T53 Term-Termcat 1448 1455 trabajo
+T54 Term-Termcat 276 285 traslados
+T55 Term-Termcat 101 110 traslados
+T56 Term-Termcat 375 383 traslado
+T57 Term-Termcat 527 535 duración
+T58 Term-Termcat 1172 1180 decisión
+T59 Term-Termcat 251 260 actuación
+T60 Term-Termcat 1147 1153 causas
+T61 Term-Termcat 217 223 causas
+T62 Term-Termcat 361 367 efecto
+T63 Term-Termcat 1234 1241 efectos
+T64 Term-Termcat 1181 1192 empresarial
+T65 Term-Termcat 492 499 legales
+T66 Term-Termcat 1509 1522 procedimiento
+T67 Term-Termcat 1716 1729 procedimiento
+T68 Term-Termcat 1763 1770 sujetos
+T69 Term-Termcat 539 547 superior
+T70 Term-Termcat 1388 1396 comisión
+T71 Term-Termcat 1527 1535 comisión
+T72 Term-Termcat 316 322 fraude
+T73 Term-Termcat 1222 1229 reducir
+T74 Term-Termcat 477 499 representantes legales
 T75 Term-DV 510 514 baja
 T76 Term-DV 657 661 baja
 T77 Term-DV 786 790 baja
@@ -153,161 +153,161 @@ T152 Term-DV 747 752 venta
 T153 Term-DV 36 39 vis
 T154 Term-DV 1423 1424 x
 T155 Term-DV 1574 1575 x
-T156 Term-AR 477 491 representantes
-T157 Term-AR 1465 1477 circunscrita
-T158 Term-AR 1298 1311 consecuencias
-T159 Term-AR 1634 1640 partes
-T160 Term-AR 477 499 representantes legales
-T161 Term-AR 477 499 representantes legales
-T162 Term-AR 144 148 días
-T163 Term-AR 558 562 días
-T164 Term-AR 753 757 días
-T165 Term-AR 1686 1695 dirección
-T166 Term-AR 217 223 causas
-T167 Term-AR 1147 1153 causas
-T168 Term-AR 1321 1343 trabajadores afectados
-T169 Term-AR 459 468 consultas
-T170 Term-AR 1113 1122 consultas
-T171 Term-AR 1733 1742 consultas
-T172 Term-AR 1348 1356 consulta
-T173 Term-AR 527 547 duración no superior
-T174 Term-AR 114 122 periodos
-T175 Term-AR 448 455 periodo
-T176 Term-AR 734 741 periodo
-T177 Term-AR 1102 1109 periodo
-T178 Term-AR 1262 1269 medidas
-T179 Term-AR 101 110 traslados
-T180 Term-AR 276 285 traslados
-T181 Term-AR 375 383 traslado
-T182 Term-AR 1388 1408 comisión negociadora
-T183 Term-AR 1527 1547 comisión negociadora
-T184 Term-AR 1243 1246 así
-T185 Term-AR 1787 1795 artículo
-T186 Term-AR 1172 1180 decisión
-T187 Term-AR 404 421 apartado anterior
-T188 Term-AR 1509 1522 procedimiento
-T189 Term-AR 1716 1729 procedimiento
-T190 Term-AR 1172 1192 decisión empresarial
-T191 Term-AR 247 250 tal
-T192 Term-AR 1147 1165 causas motivadoras
-T193 Term-AR 1588 1596 miembros
-T194 Term-AR 1763 1795 sujetos indicados en el artículo
-T195 Term-AR 527 535 duración
-T196 Term-AR 507 519 trabajadores
-T197 Term-AR 654 666 trabajadores
-T198 Term-AR 783 795 trabajadores
-T199 Term-AR 818 830 trabajadores
-T200 Term-AR 873 885 trabajadores
-T201 Term-AR 923 935 trabajadores
-T202 Term-AR 998 1010 trabajadores
-T203 Term-AR 1023 1035 trabajadores
-T204 Term-AR 1082 1094 trabajadores
-T205 Term-AR 1321 1333 trabajadores
-T206 Term-AR 1388 1396 comisión
-T207 Term-AR 1527 1535 comisión
-T208 Term-AR 85 92 empresa
-T209 Term-AR 942 949 empresa
-T210 Term-AR 1702 1709 empresa
-T211 Term-AR 839 847 empresas
-T212 Term-AR 1043 1051 empresas
-T213 Term-AR 1484 1501 centros afectados
-T214 Term-AR 1600 1614 representación
-T215 Term-AR 326 329 ley
-T216 Term-AR 597 603 centro
-T217 Term-AR 709 715 centro
-T218 Term-AR 1437 1444 centros
-T219 Term-AR 1484 1491 centros
-T220 Term-AR 217 230 causas nuevas
-T221 Term-AR 152 158 número
-T222 Term-AR 773 779 número
-T223 Term-AR 913 919 número
-T224 Term-AR 1808 1813 orden
-T225 Term-AR 114 135 periodos sucesivos de
-T226 Term-AR 361 367 efecto
-T227 Term-AR 1234 1241 efectos
-T228 Term-AR 152 197 número inferior a los umbrales allí señalados
-T229 Term-AR 1484 1522 centros afectados por el procedimiento
-T230 Term-AR 152 182 número inferior a los umbrales
-T231 Term-AR 607 614 trabajo
-T232 Term-AR 719 726 trabajo
-T233 Term-AR 1448 1455 trabajo
-T234 Term-AR 62 70 apartado
-T235 Term-AR 404 412 apartado
-T236 Term-LL 597 614 centro de trabajo
-T237 Term-LL 709 726 centro de trabajo
-T238 Term-LL 448 468 periodo de consultas
-T239 Term-LL 1102 1122 periodo de consultas
-T240 Term-LL 1388 1408 comisión negociadora
-T241 Term-LL 1527 1547 comisión negociadora
-T242 Term-LL 607 614 trabajo
-T243 Term-LL 719 726 trabajo
-T244 Term-LL 1448 1455 trabajo
-T245 Term-LL 101 109 traslado
-T246 Term-LL 276 284 traslado
-T247 Term-LL 375 383 traslado
-T248 Term-LL 1262 1268 medida
-T249 Term-LL 1686 1695 dirección
-T250 Term-LL 1388 1396 comisión
-T251 Term-LL 1527 1535 comisión
-T252 Term-LL 477 490 representante
-T253 Term-LL 507 517 trabajador
-T254 Term-LL 654 664 trabajador
-T255 Term-LL 783 793 trabajador
-T256 Term-LL 818 828 trabajador
-T257 Term-LL 873 883 trabajador
-T258 Term-LL 923 933 trabajador
-T259 Term-LL 998 1008 trabajador
-T260 Term-LL 1023 1033 trabajador
-T261 Term-LL 1082 1092 trabajador
-T262 Term-LL 1321 1331 trabajador
-T263 Term-LL 326 329 ley
-T264 Term-LL 422 427 deber
-T265 Term-LL 1123 1128 deber
-T266 Term-LL 85 92 empresa
-T267 Term-LL 839 846 empresa
-T268 Term-LL 942 949 empresa
-T269 Term-LL 1043 1050 empresa
-T270 Term-LL 1181 1188 empresa
-T271 Term-LL 1702 1709 empresa
-T272 Term-LL 527 535 duración
-T273 Term-LL 1509 1522 procedimiento
-T274 Term-LL 1716 1729 procedimiento
-T275 Term-LL 114 121 periodo
-T276 Term-LL 448 455 periodo
-T277 Term-LL 734 741 periodo
-T278 Term-LL 1102 1109 periodo
-T279 Term-IAT 1172 1180 decisión
-T280 Term-IAT 1634 1640 partes
-T281 Term-IAT 1787 1795 artículo
-T282 Term-IAT 85 92 empresa
-T283 Term-IAT 942 949 empresa
-T284 Term-IAT 1702 1709 empresa
-T285 Term-IAT 839 847 empresas
-T286 Term-IAT 1043 1051 empresas
-T287 Term-IAT 459 468 consultas
-T288 Term-IAT 1113 1122 consultas
-T289 Term-IAT 1733 1742 consultas
-T290 Term-IAT 1348 1356 consulta
-T291 Term-IAT 1509 1522 procedimiento
-T292 Term-IAT 1716 1729 procedimiento
-T293 Term-IAT 62 70 apartado
-T294 Term-IAT 404 412 apartado
-T295 Term-IAT 507 519 trabajadores
-T296 Term-IAT 654 666 trabajadores
-T297 Term-IAT 783 795 trabajadores
-T298 Term-IAT 818 830 trabajadores
-T299 Term-IAT 873 885 trabajadores
-T300 Term-IAT 923 935 trabajadores
-T301 Term-IAT 998 1010 trabajadores
-T302 Term-IAT 1023 1035 trabajadores
-T303 Term-IAT 1082 1094 trabajadores
-T304 Term-IAT 1321 1333 trabajadores
-T305 Term-IAT 1808 1813 orden
-T306 Term-IAT 1588 1596 miembros
-T307 Term-IAT 361 367 efecto
-T308 Term-IAT 1234 1241 efectos
-T309 Term-IAT 1388 1396 comisión
-T310 Term-IAT 1527 1535 comisión
-T311 Term-IAT 477 491 representantes
-T312 Term-IAT 1686 1695 dirección
-T313 Term-IAT 527 535 duración
+T156 Term-AttentionRank 477 491 representantes
+T157 Term-AttentionRank 1465 1477 circunscrita
+T158 Term-AttentionRank 1298 1311 consecuencias
+T159 Term-AttentionRank 1634 1640 partes
+T160 Term-AttentionRank 477 499 representantes legales
+T161 Term-AttentionRank 477 499 representantes legales
+T162 Term-AttentionRank 144 148 días
+T163 Term-AttentionRank 558 562 días
+T164 Term-AttentionRank 753 757 días
+T165 Term-AttentionRank 1686 1695 dirección
+T166 Term-AttentionRank 217 223 causas
+T167 Term-AttentionRank 1147 1153 causas
+T168 Term-AttentionRank 1321 1343 trabajadores afectados
+T169 Term-AttentionRank 459 468 consultas
+T170 Term-AttentionRank 1113 1122 consultas
+T171 Term-AttentionRank 1733 1742 consultas
+T172 Term-AttentionRank 1348 1356 consulta
+T173 Term-AttentionRank 527 547 duración no superior
+T174 Term-AttentionRank 114 122 periodos
+T175 Term-AttentionRank 448 455 periodo
+T176 Term-AttentionRank 734 741 periodo
+T177 Term-AttentionRank 1102 1109 periodo
+T178 Term-AttentionRank 1262 1269 medidas
+T179 Term-AttentionRank 101 110 traslados
+T180 Term-AttentionRank 276 285 traslados
+T181 Term-AttentionRank 375 383 traslado
+T182 Term-AttentionRank 1388 1408 comisión negociadora
+T183 Term-AttentionRank 1527 1547 comisión negociadora
+T184 Term-AttentionRank 1243 1246 así
+T185 Term-AttentionRank 1787 1795 artículo
+T186 Term-AttentionRank 1172 1180 decisión
+T187 Term-AttentionRank 404 421 apartado anterior
+T188 Term-AttentionRank 1509 1522 procedimiento
+T189 Term-AttentionRank 1716 1729 procedimiento
+T190 Term-AttentionRank 1172 1192 decisión empresarial
+T191 Term-AttentionRank 247 250 tal
+T192 Term-AttentionRank 1147 1165 causas motivadoras
+T193 Term-AttentionRank 1588 1596 miembros
+T194 Term-AttentionRank 1763 1795 sujetos indicados en el artículo
+T195 Term-AttentionRank 527 535 duración
+T196 Term-AttentionRank 507 519 trabajadores
+T197 Term-AttentionRank 654 666 trabajadores
+T198 Term-AttentionRank 783 795 trabajadores
+T199 Term-AttentionRank 818 830 trabajadores
+T200 Term-AttentionRank 873 885 trabajadores
+T201 Term-AttentionRank 923 935 trabajadores
+T202 Term-AttentionRank 998 1010 trabajadores
+T203 Term-AttentionRank 1023 1035 trabajadores
+T204 Term-AttentionRank 1082 1094 trabajadores
+T205 Term-AttentionRank 1321 1333 trabajadores
+T206 Term-AttentionRank 1388 1396 comisión
+T207 Term-AttentionRank 1527 1535 comisión
+T208 Term-AttentionRank 85 92 empresa
+T209 Term-AttentionRank 942 949 empresa
+T210 Term-AttentionRank 1702 1709 empresa
+T211 Term-AttentionRank 839 847 empresas
+T212 Term-AttentionRank 1043 1051 empresas
+T213 Term-AttentionRank 1484 1501 centros afectados
+T214 Term-AttentionRank 1600 1614 representación
+T215 Term-AttentionRank 326 329 ley
+T216 Term-AttentionRank 597 603 centro
+T217 Term-AttentionRank 709 715 centro
+T218 Term-AttentionRank 1437 1444 centros
+T219 Term-AttentionRank 1484 1491 centros
+T220 Term-AttentionRank 217 230 causas nuevas
+T221 Term-AttentionRank 152 158 número
+T222 Term-AttentionRank 773 779 número
+T223 Term-AttentionRank 913 919 número
+T224 Term-AttentionRank 1808 1813 orden
+T225 Term-AttentionRank 114 135 periodos sucesivos de
+T226 Term-AttentionRank 361 367 efecto
+T227 Term-AttentionRank 1234 1241 efectos
+T228 Term-AttentionRank 152 197 número inferior a los umbrales allí señalados
+T229 Term-AttentionRank 1484 1522 centros afectados por el procedimiento
+T230 Term-AttentionRank 152 182 número inferior a los umbrales
+T231 Term-AttentionRank 607 614 trabajo
+T232 Term-AttentionRank 719 726 trabajo
+T233 Term-AttentionRank 1448 1455 trabajo
+T234 Term-AttentionRank 62 70 apartado
+T235 Term-AttentionRank 404 412 apartado
+T236 Term-LabourLaw 597 614 centro de trabajo
+T237 Term-LabourLaw 709 726 centro de trabajo
+T238 Term-LabourLaw 448 468 periodo de consultas
+T239 Term-LabourLaw 1102 1122 periodo de consultas
+T240 Term-LabourLaw 1388 1408 comisión negociadora
+T241 Term-LabourLaw 1527 1547 comisión negociadora
+T242 Term-LabourLaw 607 614 trabajo
+T243 Term-LabourLaw 719 726 trabajo
+T244 Term-LabourLaw 1448 1455 trabajo
+T245 Term-LabourLaw 101 109 traslado
+T246 Term-LabourLaw 276 284 traslado
+T247 Term-LabourLaw 375 383 traslado
+T248 Term-LabourLaw 1262 1268 medida
+T249 Term-LabourLaw 1686 1695 dirección
+T250 Term-LabourLaw 1388 1396 comisión
+T251 Term-LabourLaw 1527 1535 comisión
+T252 Term-LabourLaw 477 490 representante
+T253 Term-LabourLaw 507 517 trabajador
+T254 Term-LabourLaw 654 664 trabajador
+T255 Term-LabourLaw 783 793 trabajador
+T256 Term-LabourLaw 818 828 trabajador
+T257 Term-LabourLaw 873 883 trabajador
+T258 Term-LabourLaw 923 933 trabajador
+T259 Term-LabourLaw 998 1008 trabajador
+T260 Term-LabourLaw 1023 1033 trabajador
+T261 Term-LabourLaw 1082 1092 trabajador
+T262 Term-LabourLaw 1321 1331 trabajador
+T263 Term-LabourLaw 326 329 ley
+T264 Term-LabourLaw 422 427 deber
+T265 Term-LabourLaw 1123 1128 deber
+T266 Term-LabourLaw 85 92 empresa
+T267 Term-LabourLaw 839 846 empresa
+T268 Term-LabourLaw 942 949 empresa
+T269 Term-LabourLaw 1043 1050 empresa
+T270 Term-LabourLaw 1181 1188 empresa
+T271 Term-LabourLaw 1702 1709 empresa
+T272 Term-LabourLaw 527 535 duración
+T273 Term-LabourLaw 1509 1522 procedimiento
+T274 Term-LabourLaw 1716 1729 procedimiento
+T275 Term-LabourLaw 114 121 periodo
+T276 Term-LabourLaw 448 455 periodo
+T277 Term-LabourLaw 734 741 periodo
+T278 Term-LabourLaw 1102 1109 periodo
+T279 Term-IATE 1172 1180 decisión
+T280 Term-IATE 1634 1640 partes
+T281 Term-IATE 1787 1795 artículo
+T282 Term-IATE 85 92 empresa
+T283 Term-IATE 942 949 empresa
+T284 Term-IATE 1702 1709 empresa
+T285 Term-IATE 839 847 empresas
+T286 Term-IATE 1043 1051 empresas
+T287 Term-IATE 459 468 consultas
+T288 Term-IATE 1113 1122 consultas
+T289 Term-IATE 1733 1742 consultas
+T290 Term-IATE 1348 1356 consulta
+T291 Term-IATE 1509 1522 procedimiento
+T292 Term-IATE 1716 1729 procedimiento
+T293 Term-IATE 62 70 apartado
+T294 Term-IATE 404 412 apartado
+T295 Term-IATE 507 519 trabajadores
+T296 Term-IATE 654 666 trabajadores
+T297 Term-IATE 783 795 trabajadores
+T298 Term-IATE 818 830 trabajadores
+T299 Term-IATE 873 885 trabajadores
+T300 Term-IATE 923 935 trabajadores
+T301 Term-IATE 998 1010 trabajadores
+T302 Term-IATE 1023 1035 trabajadores
+T303 Term-IATE 1082 1094 trabajadores
+T304 Term-IATE 1321 1333 trabajadores
+T305 Term-IATE 1808 1813 orden
+T306 Term-IATE 1588 1596 miembros
+T307 Term-IATE 361 367 efecto
+T308 Term-IATE 1234 1241 efectos
+T309 Term-IATE 1388 1396 comisión
+T310 Term-IATE 1527 1535 comisión
+T311 Term-IATE 477 491 representantes
+T312 Term-IATE 1686 1695 dirección
+T313 Term-IATE 527 535 duración
