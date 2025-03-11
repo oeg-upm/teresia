@@ -1,365 +1,365 @@
-T1 Term-DPEJ 448 456 despidos
-T2 Term-DPEJ 786 794 despidos
-T3 Term-DPEJ 1267 1274 despido
-T4 Term-DPEJ 232 240 Salarial
-T5 Term-DPEJ 1659 1663 caso
-T6 Term-DPEJ 1847 1851 caso
-T7 Term-DPEJ 1643 1649 empleo
-T8 Term-DPEJ 448 467 despidos colectivos
-T9 Term-DPEJ 786 805 despidos colectivos
-T10 Term-DPEJ 1267 1284 despido colectivo
-T11 Term-DPEJ 1214 1223 Seguridad
-T12 Term-DPEJ 513 520 empresa
-T13 Term-DPEJ 621 628 empresa
-T14 Term-DPEJ 1239 1246 empresa
-T15 Term-DPEJ 809 817 empresas
-T16 Term-DPEJ 1416 1424 empresas
-T17 Term-DPEJ 1706 1714 empresas
-T18 Term-DPEJ 1071 1079 convenio
-T19 Term-DPEJ 1196 1207 Ley General
-T20 Term-DPEJ 214 240 Fondo de Garantía Salarial
-T21 Term-DPEJ 182 191 contratos
-T22 Term-DPEJ 944 953 condición
-T23 Term-DPEJ 223 231 Garantía
-T24 Term-DPEJ 1196 1199 Ley
-T25 Term-DPEJ 99 112 indemnización
-T26 Term-DPEJ 833 856 procedimiento concursal
-T27 Term-DPEJ 1745 1768 procedimiento concursal
-T28 Term-DPEJ 165 174 extinción
-T29 Term-DPEJ 424 432 decisión
-T30 Term-DPEJ 641 649 decisión
-T31 Term-DPEJ 1375 1379 plan
-T32 Term-DPEJ 1460 1464 plan
-T33 Term-DPEJ 1821 1825 plan
-T34 Term-DPEJ 920 924 edad
-T35 Term-DPEJ 328 339 información
-T36 Term-DPEJ 673 684 información
-T37 Term-DPEJ 1688 1698 aplicación
-T38 Term-DPEJ 1528 1535 medidas
-T39 Term-DPEJ 912 916 años
-T40 Term-DPEJ 374 382 artículo
-T41 Term-DPEJ 535 542 control
-T42 Term-DPEJ 768 782 procedimientos
-T43 Term-DPEJ 833 846 procedimiento
-T44 Term-DPEJ 1745 1758 procedimiento
-T45 Term-Termcat 3 12 autoridad
-T46 Term-Termcat 944 953 condición
-T47 Term-Termcat 1071 1079 convenio
-T48 Term-Termcat 1149 1157 términos
-T49 Term-Termcat 182 191 contratos
-T50 Term-Termcat 920 924 edad
-T51 Term-Termcat 37 49 fuerza mayor
-T52 Term-Termcat 223 231 Garantía
-T53 Term-Termcat 1196 1199 Ley
-T54 Term-Termcat 1004 1014 obligación
-T55 Term-Termcat 1029 1035 cuotas
-T56 Term-Termcat 374 382 artículo
-T57 Term-Termcat 1174 1189 texto refundido
-T58 Term-Termcat 87 92 parte
-T59 Term-Termcat 786 805 despidos colectivos
-T60 Term-Termcat 448 467 despidos colectivos
-T61 Term-Termcat 1267 1284 despido colectivo
-T62 Term-Termcat 1576 1584 atención
-T63 Term-Termcat 3 20 autoridad laboral
-T64 Term-Termcat 833 856 procedimiento concursal
-T65 Term-Termcat 1745 1768 procedimiento concursal
-T66 Term-Termcat 621 628 empresa
-T67 Term-Termcat 513 520 empresa
-T68 Term-Termcat 1239 1246 empresa
-T69 Term-Termcat 809 817 empresas
-T70 Term-Termcat 1416 1424 empresas
-T71 Term-Termcat 1706 1714 empresas
-T72 Term-Termcat 1643 1649 empleo
-T73 Term-Termcat 214 240 Fondo de Garantía Salarial
-T74 Term-Termcat 1539 1548 formación
-T75 Term-Termcat 99 112 indemnización
-T76 Term-Termcat 1551 1574 orientación profesional
-T77 Term-Termcat 1383 1395 recolocación
-T78 Term-Termcat 1428 1440 recolocación
-T79 Term-Termcat 1214 1230 Seguridad Social
-T80 Term-Termcat 641 649 decisión
-T81 Term-Termcat 424 432 decisión
-T82 Term-Termcat 260 267 derecho
-T83 Term-Termcat 165 174 extinción
-T84 Term-Termcat 400 413 independencia
-T85 Term-Termcat 1214 1223 Seguridad
-T86 Term-Termcat 1688 1698 aplicación
-T87 Term-Termcat 847 856 concursal
-T88 Term-Termcat 1759 1768 concursal
-T89 Term-Termcat 535 542 control
-T90 Term-Termcat 738 744 efecto
-T91 Term-Termcat 605 610 hecho
-T92 Term-Termcat 1052 1064 financiación
-T93 Term-Termcat 673 684 información
-T94 Term-Termcat 328 339 información
-T95 Term-Termcat 246 255 perjuicio
-T96 Term-Termcat 1821 1825 plan
-T97 Term-Termcat 1375 1379 plan
-T98 Term-Termcat 1460 1464 plan
-T99 Term-Termcat 768 782 procedimientos
-T100 Term-Termcat 833 846 procedimiento
-T101 Term-Termcat 1745 1758 procedimiento
-T102 Term-Termcat 56 63 acordar
-T103 Term-Termcat 342 355 documentación
-T104 Term-DV 37 49 fuerza mayor
-T105 Term-DV 1018 1024 abonar
-T106 Term-DV 138 142 baja
-T107 Term-DV 874 878 baja
-T108 Term-DV 1108 1112 baja
-T109 Term-DV 1318 1322 baja
-T110 Term-DV 1352 1356 baja
-T111 Term-DV 1605 1609 baja
-T112 Term-DV 1865 1869 baja
-T113 Term-DV 1385 1395 colocación
-T114 Term-DV 1430 1440 colocación
-T115 Term-DV 944 953 condición
-T116 Term-DV 60 63 dar
-T117 Term-DV 1328 1332 debe
-T118 Term-DV 1513 1517 debe
-T119 Term-DV 424 432 decisión
-T120 Term-DV 641 649 decisión
-T121 Term-DV 402 413 dependencia
-T122 Term-DV 260 267 derecho
-T123 Term-DV 448 455 despido
-T124 Term-DV 786 793 despido
-T125 Term-DV 1267 1274 despido
-T126 Term-DV 1815 1820 dicho
-T127 Term-DV 920 924 edad
-T128 Term-DV 293 300 empresa
-T129 Term-DV 493 500 empresa
-T130 Term-DV 513 520 empresa
-T131 Term-DV 581 588 empresa
-T132 Term-DV 621 628 empresa
-T133 Term-DV 809 816 empresa
-T134 Term-DV 1239 1246 empresa
-T135 Term-DV 1416 1423 empresa
-T136 Term-DV 1706 1713 empresa
-T137 Term-DV 293 303 empresario
-T138 Term-DV 493 503 empresario
-T139 Term-DV 581 591 empresario
-T140 Term-DV 149 151 fe
-T141 Term-DV 201 203 fe
-T142 Term-DV 739 741 fe
-T143 Term-DV 1290 1292 fe
-T144 Term-DV 1363 1365 fe
-T145 Term-DV 1566 1568 fe
-T146 Term-DV 1614 1616 fe
-T147 Term-DV 1052 1064 financiación
-T148 Term-DV 330 335 forma
-T149 Term-DV 675 680 forma
-T150 Term-DV 1539 1544 forma
-T151 Term-DV 37 43 fuerza
-T152 Term-DV 605 610 hecho
-T153 Term-DV 249 255 juicio
-T154 Term-DV 13 20 laboral
-T155 Term-DV 459 466 lectivo
-T156 Term-DV 797 804 lectivo
-T157 Term-DV 1277 1284 lectivo
-T158 Term-DV 1387 1395 locación
-T159 Term-DV 1432 1440 locación
-T160 Term-DV 1004 1014 obligación
-T161 Term-DV 1475 1479 para
-T162 Term-DV 87 92 parte
-T163 Term-DV 246 255 perjuicio
-T164 Term-DV 1585 1592 persona
-T165 Term-DV 1585 1593 personal
-T166 Term-DV 387 392 plica
-T167 Term-DV 1689 1694 plica
-T168 Term-DV 768 781 procedimiento
-T169 Term-DV 833 846 procedimiento
-T170 Term-DV 1745 1758 procedimiento
-T171 Term-DV 1563 1574 profesional
-T172 Term-DV 186 190 rato
-T173 Term-DV 1132 1136 seña
-T174 Term-DV 1468 1472 seña
-T175 Term-DV 135 145 trabajador
-T176 Term-DV 871 881 trabajador
-T177 Term-DV 1105 1115 trabajador
-T178 Term-DV 1315 1325 trabajador
-T179 Term-DV 1349 1359 trabajador
-T180 Term-DV 1602 1612 trabajador
-T181 Term-DV 1862 1872 trabajador
-T182 Term-DV 359 362 vis
-T183 Term-DV 1161 1164 vis
-T184 Term-DV 359 364 vista
-T185 Term-DV 166 167 x
-T186 Term-DV 993 994 x
-T187 Term-DV 1176 1177 x
-T188 Term-DV 1397 1398 x
-T189 Term-AttentionRank 1643 1649 empleo
-T190 Term-AttentionRank 1004 1014 obligación
-T191 Term-AttentionRank 87 92 parte
-T192 Term-AttentionRank 3 12 autoridad
-T193 Term-AttentionRank 1375 1379 plan
-T194 Term-AttentionRank 1460 1464 plan
-T195 Term-AttentionRank 1821 1825 plan
-T196 Term-AttentionRank 912 916 años
-T197 Term-AttentionRank 135 157 trabajadores afectados
-T198 Term-AttentionRank 1349 1371 trabajadores afectados
-T199 Term-AttentionRank 135 191 trabajadores afectados por la extinción de sus contratos
-T200 Term-AttentionRank 1483 1490 periodo
-T201 Term-AttentionRank 1576 1621 atención personalizada al trabajador afectado
-T202 Term-AttentionRank 957 968 mutualistas
-T203 Term-AttentionRank 1214 1223 Seguridad
-T204 Term-AttentionRank 1528 1535 medidas
-T205 Term-AttentionRank 1688 1698 aplicación
-T206 Term-AttentionRank 1539 1548 formación
-T207 Term-AttentionRank 374 382 artículo
-T208 Term-AttentionRank 424 432 decisión
-T209 Term-AttentionRank 641 649 decisión
-T210 Term-AttentionRank 1406 1415 través de
-T211 Term-AttentionRank 328 339 información
-T212 Term-AttentionRank 673 684 información
-T213 Term-AttentionRank 768 782 procedimientos
-T214 Term-AttentionRank 833 846 procedimiento
-T215 Term-AttentionRank 1745 1758 procedimiento
-T216 Term-AttentionRank 3 20 autoridad laboral
-T217 Term-AttentionRank 165 174 extinción
-T218 Term-AttentionRank 786 817 despidos colectivos de empresas
-T219 Term-AttentionRank 1506 1511 meses
-T220 Term-AttentionRank 1071 1079 convenio
-T221 Term-AttentionRank 232 240 Salarial
-T222 Term-AttentionRank 734 737 tal
-T223 Term-AttentionRank 581 613 empresario basada en el hecho de
-T224 Term-AttentionRank 223 231 Garantía
-T225 Term-AttentionRank 37 49 fuerza mayor
-T226 Term-AttentionRank 1454 1464 Dicho plan
-T227 Term-AttentionRank 1815 1825 dicho plan
-T228 Term-AttentionRank 135 147 trabajadores
-T229 Term-AttentionRank 871 883 trabajadores
-T230 Term-AttentionRank 1105 1117 trabajadores
-T231 Term-AttentionRank 1315 1327 trabajadores
-T232 Term-AttentionRank 1349 1361 trabajadores
-T233 Term-AttentionRank 1862 1874 trabajadores
-T234 Term-AttentionRank 1602 1612 trabajador
-T235 Term-AttentionRank 1383 1403 recolocación externa
-T236 Term-AttentionRank 513 520 empresa
-T237 Term-AttentionRank 621 628 empresa
-T238 Term-AttentionRank 1239 1246 empresa
-T239 Term-AttentionRank 809 817 empresas
-T240 Term-AttentionRank 1416 1424 empresas
-T241 Term-AttentionRank 1706 1714 empresas
-T242 Term-AttentionRank 833 856 procedimiento concursal
-T243 Term-AttentionRank 1745 1768 procedimiento concursal
-T244 Term-AttentionRank 944 953 condición
-T245 Term-AttentionRank 1428 1452 recolocación autorizadas
-T246 Term-AttentionRank 448 456 despidos
-T247 Term-AttentionRank 786 794 despidos
-T248 Term-AttentionRank 1267 1274 despido
-T249 Term-AttentionRank 535 542 control
-T250 Term-AttentionRank 1196 1199 Ley
-T251 Term-AttentionRank 1214 1230 Seguridad Social
-T252 Term-AttentionRank 99 112 indemnización
-T253 Term-AttentionRank 260 267 derecho
-T254 Term-AttentionRank 424 467 decisión relativa a los despidos colectivos
-T255 Term-AttentionRank 182 191 contratos
-T256 Term-AttentionRank 448 467 despidos colectivos
-T257 Term-AttentionRank 786 805 despidos colectivos
-T258 Term-AttentionRank 1267 1284 despido colectivo
-T259 Term-AttentionRank 738 744 efecto
-T260 Term-AttentionRank 920 924 edad
-T261 Term-AttentionRank 718 731 consideración
-T262 Term-AttentionRank 246 267 perjuicio del derecho
-T263 Term-AttentionRank 1659 1663 caso
-T264 Term-AttentionRank 1847 1851 caso
-T265 Term-AttentionRank 293 303 empresario
-T266 Term-AttentionRank 493 503 empresario
-T267 Term-AttentionRank 581 591 empresario
-T268 Term-AttentionRank 1174 1189 texto refundido
-T269 Term-LabourLaw 833 856 procedimiento concursal
-T270 Term-LabourLaw 1745 1768 procedimiento concursal
-T271 Term-LabourLaw 1174 1189 texto refundido
-T272 Term-LabourLaw 3 20 autoridad laboral
-T273 Term-LabourLaw 1267 1284 despido colectivo
-T274 Term-LabourLaw 448 455 despido
-T275 Term-LabourLaw 786 793 despido
-T276 Term-LabourLaw 1267 1274 despido
-T277 Term-LabourLaw 1180 1189 refundido
-T278 Term-LabourLaw 1688 1698 aplicación
-T279 Term-LabourLaw 99 112 indemnización
-T280 Term-LabourLaw 182 190 contrato
-T281 Term-LabourLaw 1528 1534 medida
-T282 Term-LabourLaw 328 339 información
-T283 Term-LabourLaw 673 684 información
-T284 Term-LabourLaw 135 145 trabajador
-T285 Term-LabourLaw 871 881 trabajador
-T286 Term-LabourLaw 1105 1115 trabajador
-T287 Term-LabourLaw 1315 1325 trabajador
-T288 Term-LabourLaw 1349 1359 trabajador
-T289 Term-LabourLaw 1602 1612 trabajador
-T290 Term-LabourLaw 1862 1872 trabajador
-T291 Term-LabourLaw 386 393 aplicar
-T292 Term-LabourLaw 330 339 formación
-T293 Term-LabourLaw 675 684 formación
-T294 Term-LabourLaw 1539 1548 formación
-T295 Term-LabourLaw 944 953 condición
-T296 Term-LabourLaw 1328 1333 deber
-T297 Term-LabourLaw 1513 1518 deber
-T298 Term-LabourLaw 293 303 empresario
-T299 Term-LabourLaw 493 503 empresario
-T300 Term-LabourLaw 581 591 empresario
-T301 Term-LabourLaw 3 12 autoridad
-T302 Term-LabourLaw 920 924 edad
-T303 Term-LabourLaw 293 300 empresa
-T304 Term-LabourLaw 493 500 empresa
-T305 Term-LabourLaw 513 520 empresa
-T306 Term-LabourLaw 581 588 empresa
-T307 Term-LabourLaw 621 628 empresa
-T308 Term-LabourLaw 809 816 empresa
-T309 Term-LabourLaw 1239 1246 empresa
-T310 Term-LabourLaw 1416 1423 empresa
-T311 Term-LabourLaw 1706 1713 empresa
-T312 Term-LabourLaw 768 781 procedimiento
-T313 Term-LabourLaw 833 846 procedimiento
-T314 Term-LabourLaw 1745 1758 procedimiento
-T315 Term-LabourLaw 260 267 derecho
-T316 Term-LabourLaw 246 255 perjuicio
-T317 Term-LabourLaw 1149 1156 término
-T318 Term-LabourLaw 1004 1014 obligación
-T319 Term-LabourLaw 457 466 colectivo
-T320 Term-LabourLaw 795 804 colectivo
-T321 Term-LabourLaw 1275 1284 colectivo
-T322 Term-LabourLaw 1585 1593 personal
-T323 Term-LabourLaw 1483 1490 periodo
-T324 Term-LabourLaw 1643 1649 empleo
-T325 Term-LabourLaw 1585 1592 persona
-T326 Term-IATE 165 174 extinción
-T327 Term-IATE 424 432 decisión
-T328 Term-IATE 641 649 decisión
-T329 Term-IATE 1688 1698 aplicación
-T330 Term-IATE 87 92 parte
-T331 Term-IATE 374 382 artículo
-T332 Term-IATE 513 520 empresa
-T333 Term-IATE 621 628 empresa
-T334 Term-IATE 1239 1246 empresa
-T335 Term-IATE 809 817 empresas
-T336 Term-IATE 1416 1424 empresas
-T337 Term-IATE 1706 1714 empresas
-T338 Term-IATE 293 303 empresario
-T339 Term-IATE 493 503 empresario
-T340 Term-IATE 581 591 empresario
-T341 Term-IATE 1375 1379 plan
-T342 Term-IATE 1460 1464 plan
-T343 Term-IATE 1821 1825 plan
-T344 Term-IATE 223 231 Garantía
-T345 Term-IATE 768 782 procedimientos
-T346 Term-IATE 833 846 procedimiento
-T347 Term-IATE 1745 1758 procedimiento
-T348 Term-IATE 135 147 trabajadores
-T349 Term-IATE 871 883 trabajadores
-T350 Term-IATE 1105 1117 trabajadores
-T351 Term-IATE 1315 1327 trabajadores
-T352 Term-IATE 1349 1361 trabajadores
-T353 Term-IATE 1862 1874 trabajadores
-T354 Term-IATE 1602 1612 trabajador
-T355 Term-IATE 535 542 control
-T356 Term-IATE 1643 1649 empleo
-T357 Term-IATE 1214 1223 Seguridad
-T358 Term-IATE 182 191 contratos
-T359 Term-IATE 1004 1014 obligación
-T360 Term-IATE 738 744 efecto
-T361 Term-IATE 1071 1079 convenio
-T362 Term-IATE 1506 1511 meses
-T363 Term-IATE 328 339 información
-T364 Term-IATE 673 684 información
-T365 Term-IATE 1539 1548 formación
+T1	Term-DPEJ 448 456	despidos
+T2	Term-DPEJ 786 794	despidos
+T3	Term-DPEJ 1267 1274	despido
+T4	Term-DPEJ 232 240	Salarial
+T5	Term-DPEJ 1659 1663	caso
+T6	Term-DPEJ 1847 1851	caso
+T7	Term-DPEJ 1643 1649	empleo
+T8	Term-DPEJ 448 467	despidos colectivos
+T9	Term-DPEJ 786 805	despidos colectivos
+T10	Term-DPEJ 1267 1284	despido colectivo
+T11	Term-DPEJ 1214 1223	Seguridad
+T12	Term-DPEJ 513 520	empresa
+T13	Term-DPEJ 621 628	empresa
+T14	Term-DPEJ 1239 1246	empresa
+T15	Term-DPEJ 809 817	empresas
+T16	Term-DPEJ 1416 1424	empresas
+T17	Term-DPEJ 1706 1714	empresas
+T18	Term-DPEJ 1071 1079	convenio
+T19	Term-DPEJ 1196 1207	Ley General
+T20	Term-DPEJ 214 240	Fondo de Garantía Salarial
+T21	Term-DPEJ 182 191	contratos
+T22	Term-DPEJ 944 953	condición
+T23	Term-DPEJ 223 231	Garantía
+T24	Term-DPEJ 1196 1199	Ley
+T25	Term-DPEJ 99 112	indemnización
+T26	Term-DPEJ 833 856	procedimiento concursal
+T27	Term-DPEJ 1745 1768	procedimiento concursal
+T28	Term-DPEJ 165 174	extinción
+T29	Term-DPEJ 424 432	decisión
+T30	Term-DPEJ 641 649	decisión
+T31	Term-DPEJ 1375 1379	plan
+T32	Term-DPEJ 1460 1464	plan
+T33	Term-DPEJ 1821 1825	plan
+T34	Term-DPEJ 920 924	edad
+T35	Term-DPEJ 328 339	información
+T36	Term-DPEJ 673 684	información
+T37	Term-DPEJ 1688 1698	aplicación
+T38	Term-DPEJ 1528 1535	medidas
+T39	Term-DPEJ 912 916	años
+T40	Term-DPEJ 374 382	artículo
+T41	Term-DPEJ 535 542	control
+T42	Term-DPEJ 768 782	procedimientos
+T43	Term-DPEJ 833 846	procedimiento
+T44	Term-DPEJ 1745 1758	procedimiento
+T45	Term-Termcat 3 12	autoridad
+T46	Term-Termcat 944 953	condición
+T47	Term-Termcat 1071 1079	convenio
+T48	Term-Termcat 1149 1157	términos
+T49	Term-Termcat 182 191	contratos
+T50	Term-Termcat 920 924	edad
+T51	Term-Termcat 37 49	fuerza mayor
+T52	Term-Termcat 223 231	Garantía
+T53	Term-Termcat 1196 1199	Ley
+T54	Term-Termcat 1004 1014	obligación
+T55	Term-Termcat 1029 1035	cuotas
+T56	Term-Termcat 374 382	artículo
+T57	Term-Termcat 1174 1189	texto refundido
+T58	Term-Termcat 87 92	parte
+T59	Term-Termcat 786 805	despidos colectivos
+T60	Term-Termcat 448 467	despidos colectivos
+T61	Term-Termcat 1267 1284	despido colectivo
+T62	Term-Termcat 1576 1584	atención
+T63	Term-Termcat 3 20	autoridad laboral
+T64	Term-Termcat 833 856	procedimiento concursal
+T65	Term-Termcat 1745 1768	procedimiento concursal
+T66	Term-Termcat 621 628	empresa
+T67	Term-Termcat 513 520	empresa
+T68	Term-Termcat 1239 1246	empresa
+T69	Term-Termcat 809 817	empresas
+T70	Term-Termcat 1416 1424	empresas
+T71	Term-Termcat 1706 1714	empresas
+T72	Term-Termcat 1643 1649	empleo
+T73	Term-Termcat 214 240	Fondo de Garantía Salarial
+T74	Term-Termcat 1539 1548	formación
+T75	Term-Termcat 99 112	indemnización
+T76	Term-Termcat 1551 1574	orientación profesional
+T77	Term-Termcat 1383 1395	recolocación
+T78	Term-Termcat 1428 1440	recolocación
+T79	Term-Termcat 1214 1230	Seguridad Social
+T80	Term-Termcat 641 649	decisión
+T81	Term-Termcat 424 432	decisión
+T82	Term-Termcat 260 267	derecho
+T83	Term-Termcat 165 174	extinción
+T84	Term-Termcat 400 413	independencia
+T85	Term-Termcat 1214 1223	Seguridad
+T86	Term-Termcat 1688 1698	aplicación
+T87	Term-Termcat 847 856	concursal
+T88	Term-Termcat 1759 1768	concursal
+T89	Term-Termcat 535 542	control
+T90	Term-Termcat 738 744	efecto
+T91	Term-Termcat 605 610	hecho
+T92	Term-Termcat 1052 1064	financiación
+T93	Term-Termcat 673 684	información
+T94	Term-Termcat 328 339	información
+T95	Term-Termcat 246 255	perjuicio
+T96	Term-Termcat 1821 1825	plan
+T97	Term-Termcat 1375 1379	plan
+T98	Term-Termcat 1460 1464	plan
+T99	Term-Termcat 768 782	procedimientos
+T100	Term-Termcat 833 846	procedimiento
+T101	Term-Termcat 1745 1758	procedimiento
+T102	Term-Termcat 56 63	acordar
+T103	Term-Termcat 342 355	documentación
+T104	Term-DV 37 49	fuerza mayor
+T105	Term-DV 1018 1024	abonar
+T106	Term-DV 138 142	baja
+T107	Term-DV 874 878	baja
+T108	Term-DV 1108 1112	baja
+T109	Term-DV 1318 1322	baja
+T110	Term-DV 1352 1356	baja
+T111	Term-DV 1605 1609	baja
+T112	Term-DV 1865 1869	baja
+T113	Term-DV 1385 1395	colocación
+T114	Term-DV 1430 1440	colocación
+T115	Term-DV 944 953	condición
+T116	Term-DV 60 63	dar
+T117	Term-DV 1328 1332	debe
+T118	Term-DV 1513 1517	debe
+T119	Term-DV 424 432	decisión
+T120	Term-DV 641 649	decisión
+T121	Term-DV 402 413	dependencia
+T122	Term-DV 260 267	derecho
+T123	Term-DV 448 455	despido
+T124	Term-DV 786 793	despido
+T125	Term-DV 1267 1274	despido
+T126	Term-DV 1815 1820	dicho
+T127	Term-DV 920 924	edad
+T128	Term-DV 293 300	empresa
+T129	Term-DV 493 500	empresa
+T130	Term-DV 513 520	empresa
+T131	Term-DV 581 588	empresa
+T132	Term-DV 621 628	empresa
+T133	Term-DV 809 816	empresa
+T134	Term-DV 1239 1246	empresa
+T135	Term-DV 1416 1423	empresa
+T136	Term-DV 1706 1713	empresa
+T137	Term-DV 293 303	empresario
+T138	Term-DV 493 503	empresario
+T139	Term-DV 581 591	empresario
+T140	Term-DV 149 151	fe
+T141	Term-DV 201 203	fe
+T142	Term-DV 739 741	fe
+T143	Term-DV 1290 1292	fe
+T144	Term-DV 1363 1365	fe
+T145	Term-DV 1566 1568	fe
+T146	Term-DV 1614 1616	fe
+T147	Term-DV 1052 1064	financiación
+T148	Term-DV 330 335	forma
+T149	Term-DV 675 680	forma
+T150	Term-DV 1539 1544	forma
+T151	Term-DV 37 43	fuerza
+T152	Term-DV 605 610	hecho
+T153	Term-DV 249 255	juicio
+T154	Term-DV 13 20	laboral
+T155	Term-DV 459 466	lectivo
+T156	Term-DV 797 804	lectivo
+T157	Term-DV 1277 1284	lectivo
+T158	Term-DV 1387 1395	locación
+T159	Term-DV 1432 1440	locación
+T160	Term-DV 1004 1014	obligación
+T161	Term-DV 1475 1479	para
+T162	Term-DV 87 92	parte
+T163	Term-DV 246 255	perjuicio
+T164	Term-DV 1585 1592	persona
+T165	Term-DV 1585 1593	personal
+T166	Term-DV 387 392	plica
+T167	Term-DV 1689 1694	plica
+T168	Term-DV 768 781	procedimiento
+T169	Term-DV 833 846	procedimiento
+T170	Term-DV 1745 1758	procedimiento
+T171	Term-DV 1563 1574	profesional
+T172	Term-DV 186 190	rato
+T173	Term-DV 1132 1136	seña
+T174	Term-DV 1468 1472	seña
+T175	Term-DV 135 145	trabajador
+T176	Term-DV 871 881	trabajador
+T177	Term-DV 1105 1115	trabajador
+T178	Term-DV 1315 1325	trabajador
+T179	Term-DV 1349 1359	trabajador
+T180	Term-DV 1602 1612	trabajador
+T181	Term-DV 1862 1872	trabajador
+T182	Term-DV 359 362	vis
+T183	Term-DV 1161 1164	vis
+T184	Term-DV 359 364	vista
+T185	Term-DV 166 167	x
+T186	Term-DV 993 994	x
+T187	Term-DV 1176 1177	x
+T188	Term-DV 1397 1398	x
+T189	Term-AttentionRank 1643 1649	empleo
+T190	Term-AttentionRank 1004 1014	obligación
+T191	Term-AttentionRank 87 92	parte
+T192	Term-AttentionRank 3 12	autoridad
+T193	Term-AttentionRank 1375 1379	plan
+T194	Term-AttentionRank 1460 1464	plan
+T195	Term-AttentionRank 1821 1825	plan
+T196	Term-AttentionRank 912 916	años
+T197	Term-AttentionRank 135 157	trabajadores afectados
+T198	Term-AttentionRank 1349 1371	trabajadores afectados
+T199	Term-AttentionRank 135 191	trabajadores afectados por la extinción de sus contratos
+T200	Term-AttentionRank 1483 1490	periodo
+T201	Term-AttentionRank 1576 1621	atención personalizada al trabajador afectado
+T202	Term-AttentionRank 957 968	mutualistas
+T203	Term-AttentionRank 1214 1223	Seguridad
+T204	Term-AttentionRank 1528 1535	medidas
+T205	Term-AttentionRank 1688 1698	aplicación
+T206	Term-AttentionRank 1539 1548	formación
+T207	Term-AttentionRank 374 382	artículo
+T208	Term-AttentionRank 424 432	decisión
+T209	Term-AttentionRank 641 649	decisión
+T210	Term-AttentionRank 1406 1415	través de
+T211	Term-AttentionRank 328 339	información
+T212	Term-AttentionRank 673 684	información
+T213	Term-AttentionRank 768 782	procedimientos
+T214	Term-AttentionRank 833 846	procedimiento
+T215	Term-AttentionRank 1745 1758	procedimiento
+T216	Term-AttentionRank 3 20	autoridad laboral
+T217	Term-AttentionRank 165 174	extinción
+T218	Term-AttentionRank 786 817	despidos colectivos de empresas
+T219	Term-AttentionRank 1506 1511	meses
+T220	Term-AttentionRank 1071 1079	convenio
+T221	Term-AttentionRank 232 240	Salarial
+T222	Term-AttentionRank 734 737	tal
+T223	Term-AttentionRank 581 613	empresario basada en el hecho de
+T224	Term-AttentionRank 223 231	Garantía
+T225	Term-AttentionRank 37 49	fuerza mayor
+T226	Term-AttentionRank 1454 1464	Dicho plan
+T227	Term-AttentionRank 1815 1825	dicho plan
+T228	Term-AttentionRank 135 147	trabajadores
+T229	Term-AttentionRank 871 883	trabajadores
+T230	Term-AttentionRank 1105 1117	trabajadores
+T231	Term-AttentionRank 1315 1327	trabajadores
+T232	Term-AttentionRank 1349 1361	trabajadores
+T233	Term-AttentionRank 1862 1874	trabajadores
+T234	Term-AttentionRank 1602 1612	trabajador
+T235	Term-AttentionRank 1383 1403	recolocación externa
+T236	Term-AttentionRank 513 520	empresa
+T237	Term-AttentionRank 621 628	empresa
+T238	Term-AttentionRank 1239 1246	empresa
+T239	Term-AttentionRank 809 817	empresas
+T240	Term-AttentionRank 1416 1424	empresas
+T241	Term-AttentionRank 1706 1714	empresas
+T242	Term-AttentionRank 833 856	procedimiento concursal
+T243	Term-AttentionRank 1745 1768	procedimiento concursal
+T244	Term-AttentionRank 944 953	condición
+T245	Term-AttentionRank 1428 1452	recolocación autorizadas
+T246	Term-AttentionRank 448 456	despidos
+T247	Term-AttentionRank 786 794	despidos
+T248	Term-AttentionRank 1267 1274	despido
+T249	Term-AttentionRank 535 542	control
+T250	Term-AttentionRank 1196 1199	Ley
+T251	Term-AttentionRank 1214 1230	Seguridad Social
+T252	Term-AttentionRank 99 112	indemnización
+T253	Term-AttentionRank 260 267	derecho
+T254	Term-AttentionRank 424 467	decisión relativa a los despidos colectivos
+T255	Term-AttentionRank 182 191	contratos
+T256	Term-AttentionRank 448 467	despidos colectivos
+T257	Term-AttentionRank 786 805	despidos colectivos
+T258	Term-AttentionRank 1267 1284	despido colectivo
+T259	Term-AttentionRank 738 744	efecto
+T260	Term-AttentionRank 920 924	edad
+T261	Term-AttentionRank 718 731	consideración
+T262	Term-AttentionRank 246 267	perjuicio del derecho
+T263	Term-AttentionRank 1659 1663	caso
+T264	Term-AttentionRank 1847 1851	caso
+T265	Term-AttentionRank 293 303	empresario
+T266	Term-AttentionRank 493 503	empresario
+T267	Term-AttentionRank 581 591	empresario
+T268	Term-AttentionRank 1174 1189	texto refundido
+T269	Term-LabourLaw 833 856	procedimiento concursal
+T270	Term-LabourLaw 1745 1768	procedimiento concursal
+T271	Term-LabourLaw 1174 1189	texto refundido
+T272	Term-LabourLaw 3 20	autoridad laboral
+T273	Term-LabourLaw 1267 1284	despido colectivo
+T274	Term-LabourLaw 448 455	despido
+T275	Term-LabourLaw 786 793	despido
+T276	Term-LabourLaw 1267 1274	despido
+T277	Term-LabourLaw 1180 1189	refundido
+T278	Term-LabourLaw 1688 1698	aplicación
+T279	Term-LabourLaw 99 112	indemnización
+T280	Term-LabourLaw 182 190	contrato
+T281	Term-LabourLaw 1528 1534	medida
+T282	Term-LabourLaw 328 339	información
+T283	Term-LabourLaw 673 684	información
+T284	Term-LabourLaw 135 145	trabajador
+T285	Term-LabourLaw 871 881	trabajador
+T286	Term-LabourLaw 1105 1115	trabajador
+T287	Term-LabourLaw 1315 1325	trabajador
+T288	Term-LabourLaw 1349 1359	trabajador
+T289	Term-LabourLaw 1602 1612	trabajador
+T290	Term-LabourLaw 1862 1872	trabajador
+T291	Term-LabourLaw 386 393	aplicar
+T292	Term-LabourLaw 330 339	formación
+T293	Term-LabourLaw 675 684	formación
+T294	Term-LabourLaw 1539 1548	formación
+T295	Term-LabourLaw 944 953	condición
+T296	Term-LabourLaw 1328 1333	deber
+T297	Term-LabourLaw 1513 1518	deber
+T298	Term-LabourLaw 293 303	empresario
+T299	Term-LabourLaw 493 503	empresario
+T300	Term-LabourLaw 581 591	empresario
+T301	Term-LabourLaw 3 12	autoridad
+T302	Term-LabourLaw 920 924	edad
+T303	Term-LabourLaw 293 300	empresa
+T304	Term-LabourLaw 493 500	empresa
+T305	Term-LabourLaw 513 520	empresa
+T306	Term-LabourLaw 581 588	empresa
+T307	Term-LabourLaw 621 628	empresa
+T308	Term-LabourLaw 809 816	empresa
+T309	Term-LabourLaw 1239 1246	empresa
+T310	Term-LabourLaw 1416 1423	empresa
+T311	Term-LabourLaw 1706 1713	empresa
+T312	Term-LabourLaw 768 781	procedimiento
+T313	Term-LabourLaw 833 846	procedimiento
+T314	Term-LabourLaw 1745 1758	procedimiento
+T315	Term-LabourLaw 260 267	derecho
+T316	Term-LabourLaw 246 255	perjuicio
+T317	Term-LabourLaw 1149 1156	término
+T318	Term-LabourLaw 1004 1014	obligación
+T319	Term-LabourLaw 457 466	colectivo
+T320	Term-LabourLaw 795 804	colectivo
+T321	Term-LabourLaw 1275 1284	colectivo
+T322	Term-LabourLaw 1585 1593	personal
+T323	Term-LabourLaw 1483 1490	periodo
+T324	Term-LabourLaw 1643 1649	empleo
+T325	Term-LabourLaw 1585 1592	persona
+T326	Term-IATE 165 174	extinción
+T327	Term-IATE 424 432	decisión
+T328	Term-IATE 641 649	decisión
+T329	Term-IATE 1688 1698	aplicación
+T330	Term-IATE 87 92	parte
+T331	Term-IATE 374 382	artículo
+T332	Term-IATE 513 520	empresa
+T333	Term-IATE 621 628	empresa
+T334	Term-IATE 1239 1246	empresa
+T335	Term-IATE 809 817	empresas
+T336	Term-IATE 1416 1424	empresas
+T337	Term-IATE 1706 1714	empresas
+T338	Term-IATE 293 303	empresario
+T339	Term-IATE 493 503	empresario
+T340	Term-IATE 581 591	empresario
+T341	Term-IATE 1375 1379	plan
+T342	Term-IATE 1460 1464	plan
+T343	Term-IATE 1821 1825	plan
+T344	Term-IATE 223 231	Garantía
+T345	Term-IATE 768 782	procedimientos
+T346	Term-IATE 833 846	procedimiento
+T347	Term-IATE 1745 1758	procedimiento
+T348	Term-IATE 135 147	trabajadores
+T349	Term-IATE 871 883	trabajadores
+T350	Term-IATE 1105 1117	trabajadores
+T351	Term-IATE 1315 1327	trabajadores
+T352	Term-IATE 1349 1361	trabajadores
+T353	Term-IATE 1862 1874	trabajadores
+T354	Term-IATE 1602 1612	trabajador
+T355	Term-IATE 535 542	control
+T356	Term-IATE 1643 1649	empleo
+T357	Term-IATE 1214 1223	Seguridad
+T358	Term-IATE 182 191	contratos
+T359	Term-IATE 1004 1014	obligación
+T360	Term-IATE 738 744	efecto
+T361	Term-IATE 1071 1079	convenio
+T362	Term-IATE 1506 1511	meses
+T363	Term-IATE 328 339	información
+T364	Term-IATE 673 684	información
+T365	Term-IATE 1539 1548	formación

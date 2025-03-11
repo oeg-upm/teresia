@@ -1,381 +1,381 @@
-T1 Term-DPEJ 972 976 caso
-T2 Term-DPEJ 1551 1555 caso
-T3 Term-DPEJ 469 486 jornada ordinaria
-T4 Term-DPEJ 797 802 cargo
-T5 Term-DPEJ 1414 1420 empleo
-T6 Term-DPEJ 1678 1684 empleo
-T7 Term-DPEJ 1153 1161 ausencia
-T8 Term-DPEJ 1014 1025 negociación
-T9 Term-DPEJ 1783 1794 negociación
-T10 Term-DPEJ 53 60 trabajo
-T11 Term-DPEJ 176 183 trabajo
-T12 Term-DPEJ 199 206 trabajo
-T13 Term-DPEJ 341 348 trabajo
-T14 Term-DPEJ 490 497 trabajo
-T15 Term-DPEJ 667 674 trabajo
-T16 Term-DPEJ 769 776 trabajo
-T17 Term-DPEJ 987 994 trabajo
-T18 Term-DPEJ 258 265 empresa
-T19 Term-DPEJ 809 816 empresa
-T20 Term-DPEJ 1310 1317 empresa
-T21 Term-DPEJ 1453 1460 empresa
-T22 Term-DPEJ 452 462 adaptación
-T23 Term-DPEJ 712 722 adaptación
-T24 Term-DPEJ 987 1003 trabajo efectivo
-T25 Term-DPEJ 1126 1134 sistemas
-T26 Term-DPEJ 13 22 Promoción
-T27 Term-DPEJ 316 321 forma
-T28 Term-DPEJ 1437 1446 actividad
-T29 Term-DPEJ 199 218 trabajo a distancia
-T30 Term-DPEJ 917 923 tiempo
-T31 Term-DPEJ 977 983 tiempo
-T32 Term-DPEJ 977 1003 tiempo de trabajo efectivo
-T33 Term-DPEJ 412 418 título
-T34 Term-DPEJ 1014 1035 negociación colectiva
-T35 Term-DPEJ 1783 1804 negociación colectiva
-T36 Term-DPEJ 272 278 puesto
-T37 Term-DPEJ 657 663 puesto
-T38 Term-DPEJ 759 765 puesto
-T39 Term-DPEJ 469 476 jornada
-T40 Term-DPEJ 1165 1179 discriminación
-T41 Term-DPEJ 1703 1707 plan
-T42 Term-DPEJ 84 92 permisos
-T43 Term-DPEJ 577 585 permisos
-T44 Term-DPEJ 1338 1345 permiso
-T45 Term-DPEJ 1286 1289 año
-T46 Term-DPEJ 1504 1508 años
-T47 Term-DPEJ 0 8 Artículo
-T48 Term-DPEJ 412 428 título académico
-T49 Term-Termcat 1014 1035 negociación colectiva
-T50 Term-Termcat 1783 1804 negociación colectiva
-T51 Term-Termcat 84 92 permisos
-T52 Term-Termcat 577 585 permisos
-T53 Term-Termcat 1338 1345 permiso
-T54 Term-Termcat 1052 1060 términos
-T55 Term-Termcat 1153 1161 ausencia
-T56 Term-Termcat 878 886 créditos
-T57 Term-Termcat 316 321 forma
-T58 Term-Termcat 68 76 disfrute
-T59 Term-Termcat 412 418 título
-T60 Term-Termcat 0 8 Artículo
-T61 Term-Termcat 1126 1134 sistemas
-T62 Term-Termcat 1293 1303 antigüedad
-T63 Term-Termcat 13 22 Promoción
-T64 Term-Termcat 506 516 asistencia
-T65 Term-Termcat 797 802 cargo
-T66 Term-Termcat 1165 1179 discriminación
-T67 Term-Termcat 258 265 empresa
-T68 Term-Termcat 1453 1460 empresa
-T69 Term-Termcat 1310 1317 empresa
-T70 Term-Termcat 809 816 empresa
-T71 Term-Termcat 176 183 trabajo
-T72 Term-Termcat 490 497 trabajo
-T73 Term-Termcat 341 348 trabajo
-T74 Term-Termcat 53 60 trabajo
-T75 Term-Termcat 1414 1420 empleo
-T76 Term-Termcat 1678 1684 empleo
-T77 Term-Termcat 599 608 formación
-T78 Term-Termcat 1647 1656 formación
-T79 Term-Termcat 684 693 formación
-T80 Term-Termcat 939 948 formación
-T81 Term-Termcat 903 912 formación
-T82 Term-Termcat 25 46 formación profesional
-T83 Term-Termcat 529 550 formación profesional
-T84 Term-Termcat 1384 1405 formación profesional
-T85 Term-Termcat 469 486 jornada ordinaria
-T86 Term-Termcat 759 776 puesto de trabajo
-T87 Term-Termcat 611 628 perfeccionamiento
-T88 Term-Termcat 1703 1720 plan de formación
-T89 Term-Termcat 645 674 reserva del puesto de trabajo
-T90 Term-Termcat 167 172 turno
-T91 Term-Termcat 199 218 trabajo a distancia
-T92 Term-Termcat 977 994 tiempo de trabajo
-T93 Term-Termcat 412 428 título académico
-T94 Term-Termcat 987 1003 trabajo efectivo
-T95 Term-Termcat 1084 1092 derechos
-T96 Term-Termcat 1513 1520 derecho
-T97 Term-Termcat 1325 1332 derecho
-T98 Term-Termcat 1014 1025 negociación
-T99 Term-Termcat 1783 1794 negociación
-T100 Term-Termcat 645 652 reserva
-T101 Term-Termcat 1437 1446 actividad
-T102 Term-Termcat 452 462 adaptación
-T103 Term-Termcat 712 722 adaptación
-T104 Term-Termcat 560 569 concesión
-T105 Term-Termcat 867 873 efecto
-T106 Term-Termcat 1749 1760 empresarial
-T107 Term-Termcat 1065 1074 ejercicio
-T108 Term-Termcat 199 206 trabajo
-T109 Term-Termcat 657 674 puesto de trabajo
-T110 Term-Termcat 822 831 perjuicio
-T111 Term-Termcat 1703 1707 plan
-T112 Term-Termcat 233 240 régimen
-T113 Term-Termcat 977 1003 tiempo de trabajo efectivo
-T114 Term-DV 1220 1224 baja
-T115 Term-DV 1260 1264 baja
-T116 Term-DV 1569 1573 baja
-T117 Term-DV 797 802 cargo
-T118 Term-DV 563 569 cesión
-T119 Term-DV 1106 1109 dar
-T120 Term-DV 1084 1091 derecho
-T121 Term-DV 1325 1332 derecho
-T122 Term-DV 1513 1520 derecho
-T123 Term-DV 383 387 dios
-T124 Term-DV 1165 1179 discriminación
-T125 Term-DV 1299 1303 edad
-T126 Term-DV 258 265 empresa
-T127 Term-DV 809 816 empresa
-T128 Term-DV 1310 1317 empresa
-T129 Term-DV 1453 1460 empresa
-T130 Term-DV 1749 1756 empresa
-T131 Term-DV 38 40 fe
-T132 Term-DV 149 151 fe
-T133 Term-DV 434 436 fe
-T134 Term-DV 542 544 fe
-T135 Term-DV 614 616 fe
-T136 Term-DV 632 634 fe
-T137 Term-DV 868 870 fe
-T138 Term-DV 996 998 fe
-T139 Term-DV 1397 1399 fe
-T140 Term-DV 1661 1663 fe
-T141 Term-DV 25 30 forma
-T142 Term-DV 316 321 forma
-T143 Term-DV 529 534 forma
-T144 Term-DV 599 604 forma
-T145 Term-DV 684 689 forma
-T146 Term-DV 903 908 forma
-T147 Term-DV 939 944 forma
-T148 Term-DV 1384 1389 forma
-T149 Term-DV 1605 1610 forma
-T150 Term-DV 1647 1652 forma
-T151 Term-DV 1711 1716 forma
-T152 Term-DV 825 831 juicio
-T153 Term-DV 1691 1694 mar
-T154 Term-DV 1173 1179 nación
-T155 Term-DV 1014 1025 negociación
-T156 Term-DV 1783 1794 negociación
-T157 Term-DV 104 108 para
-T158 Term-DV 388 392 para
-T159 Term-DV 498 502 para
-T160 Term-DV 704 708 para
-T161 Term-DV 1406 1410 para
-T162 Term-DV 1670 1674 para
-T163 Term-DV 822 831 perjuicio
-T164 Term-DV 84 91 permiso
-T165 Term-DV 577 584 permiso
-T166 Term-DV 1338 1345 permiso
-T167 Term-DV 838 849 posibilidad
-T168 Term-DV 35 46 profesional
-T169 Term-DV 431 442 profesional
-T170 Term-DV 539 550 profesional
-T171 Term-DV 629 640 profesional
-T172 Term-DV 1394 1405 profesional
-T173 Term-DV 1658 1669 profesional
-T174 Term-DV 325 329 real
-T175 Term-DV 1583 1587 real
-T176 Term-DV 879 885 rédito
-T177 Term-DV 233 240 régimen
-T178 Term-DV 1244 1248 sexo
-T179 Term-DV 1126 1133 sistema
-T180 Term-DV 1526 1532 tender
-T181 Term-DV 1217 1227 trabajador
-T182 Term-DV 1257 1267 trabajador
-T183 Term-DV 1566 1576 trabajador
-T184 Term-DV 122 123 x
-T185 Term-DV 1246 1247 x
-T186 Term-AttentionRank 917 923 tiempo
-T187 Term-AttentionRank 977 983 tiempo
-T188 Term-AttentionRank 1414 1420 empleo
-T189 Term-AttentionRank 1678 1684 empleo
-T190 Term-AttentionRank 1065 1074 ejercicio
-T191 Term-AttentionRank 1244 1248 sexo
-T192 Term-AttentionRank 379 387 estudios
-T193 Term-AttentionRank 1014 1035 negociación colectiva
-T194 Term-AttentionRank 1783 1804 negociación colectiva
-T195 Term-AttentionRank 1703 1707 plan
-T196 Term-AttentionRank 1286 1289 año
-T197 Term-AttentionRank 1504 1508 años
-T198 Term-AttentionRank 797 802 cargo
-T199 Term-AttentionRank 729 776 modificaciones operadas en el puesto de trabajo
-T200 Term-AttentionRank 469 476 jornada
-T201 Term-AttentionRank 1481 1488 periodo
-T202 Term-AttentionRank 146 157 preferencia
-T203 Term-AttentionRank 13 22 Promoción
-T204 Term-AttentionRank 1596 1615 acciones formativas
-T205 Term-AttentionRank 878 912 créditos destinados a la formación
-T206 Term-AttentionRank 131 134 así
-T207 Term-AttentionRank 25 34 formación
-T208 Term-AttentionRank 529 538 formación
-T209 Term-AttentionRank 599 608 formación
-T210 Term-AttentionRank 684 693 formación
-T211 Term-AttentionRank 903 912 formación
-T212 Term-AttentionRank 939 948 formación
-T213 Term-AttentionRank 1384 1393 formación
-T214 Term-AttentionRank 1647 1656 formación
-T215 Term-AttentionRank 1711 1720 formación
-T216 Term-AttentionRank 0 8 Artículo
-T217 Term-AttentionRank 452 462 adaptación
-T218 Term-AttentionRank 712 722 adaptación
-T219 Term-AttentionRank 917 948 tiempo destinado a la formación
-T220 Term-AttentionRank 822 849 perjuicio de la posibilidad
-T221 Term-AttentionRank 412 418 título
-T222 Term-AttentionRank 506 516 asistencia
-T223 Term-AttentionRank 684 776 formación necesaria para su adaptación a las modificaciones operadas en el puesto de trabajo
-T224 Term-AttentionRank 645 652 reserva
-T225 Term-AttentionRank 469 486 jornada ordinaria
-T226 Term-AttentionRank 223 226 tal
-T227 Term-AttentionRank 863 866 tal
-T228 Term-AttentionRank 1114 1123 criterios
-T229 Term-AttentionRank 1437 1446 actividad
-T230 Term-AttentionRank 1338 1356 permiso retribuido
-T231 Term-AttentionRank 1165 1179 discriminación
-T232 Term-AttentionRank 878 886 créditos
-T233 Term-AttentionRank 209 218 distancia
-T234 Term-AttentionRank 1126 1134 sistemas
-T235 Term-AttentionRank 1014 1025 negociación
-T236 Term-AttentionRank 1783 1794 negociación
-T237 Term-AttentionRank 84 92 permisos
-T238 Term-AttentionRank 577 585 permisos
-T239 Term-AttentionRank 1338 1345 permiso
-T240 Term-AttentionRank 1217 1229 trabajadores
-T241 Term-AttentionRank 1257 1269 trabajadores
-T242 Term-AttentionRank 1566 1576 trabajador
-T243 Term-AttentionRank 272 278 puesto
-T244 Term-AttentionRank 657 663 puesto
-T245 Term-AttentionRank 759 765 puesto
-T246 Term-AttentionRank 258 265 empresa
-T247 Term-AttentionRank 809 816 empresa
-T248 Term-AttentionRank 1310 1317 empresa
-T249 Term-AttentionRank 1453 1460 empresa
-T250 Term-AttentionRank 1367 1372 horas
-T251 Term-AttentionRank 316 321 forma
-T252 Term-AttentionRank 325 336 realización
-T253 Term-AttentionRank 1084 1092 derechos
-T254 Term-AttentionRank 1325 1332 derecho
-T255 Term-AttentionRank 1513 1520 derecho
-T256 Term-AttentionRank 167 172 turno
-T257 Term-AttentionRank 1153 1161 ausencia
-T258 Term-AttentionRank 867 873 efecto
-T259 Term-AttentionRank 987 1003 trabajo efectivo
-T260 Term-AttentionRank 53 60 trabajo
-T261 Term-AttentionRank 176 183 trabajo
-T262 Term-AttentionRank 199 206 trabajo
-T263 Term-AttentionRank 341 348 trabajo
-T264 Term-AttentionRank 490 497 trabajo
-T265 Term-AttentionRank 667 674 trabajo
-T266 Term-AttentionRank 769 776 trabajo
-T267 Term-AttentionRank 987 994 trabajo
-T268 Term-AttentionRank 25 46 formación profesional
-T269 Term-AttentionRank 529 550 formación profesional
-T270 Term-AttentionRank 1384 1405 formación profesional
-T271 Term-AttentionRank 519 525 cursos
-T272 Term-AttentionRank 972 976 caso
-T273 Term-AttentionRank 1551 1555 caso
-T274 Term-LabourLaw 657 674 puesto de trabajo
-T275 Term-LabourLaw 759 776 puesto de trabajo
-T276 Term-LabourLaw 199 218 trabajo a distancia
-T277 Term-LabourLaw 167 183 turno de trabajo
-T278 Term-LabourLaw 1338 1356 permiso retribuido
-T279 Term-LabourLaw 25 46 formación profesional
-T280 Term-LabourLaw 529 550 formación profesional
-T281 Term-LabourLaw 1384 1405 formación profesional
-T282 Term-LabourLaw 987 1003 trabajo efectivo
-T283 Term-LabourLaw 469 486 jornada ordinaria
-T284 Term-LabourLaw 1014 1035 negociación colectiva
-T285 Term-LabourLaw 1783 1804 negociación colectiva
-T286 Term-LabourLaw 469 476 jornada
-T287 Term-LabourLaw 109 118 concurrir
-T288 Term-LabourLaw 469 476 jornada
-T289 Term-LabourLaw 53 60 trabajo
-T290 Term-LabourLaw 176 183 trabajo
-T291 Term-LabourLaw 199 206 trabajo
-T292 Term-LabourLaw 341 348 trabajo
-T293 Term-LabourLaw 490 497 trabajo
-T294 Term-LabourLaw 667 674 trabajo
-T295 Term-LabourLaw 769 776 trabajo
-T296 Term-LabourLaw 987 994 trabajo
-T297 Term-LabourLaw 1691 1696 marco
-T298 Term-LabourLaw 1217 1227 trabajador
-T299 Term-LabourLaw 1257 1267 trabajador
-T300 Term-LabourLaw 1566 1576 trabajador
-T301 Term-LabourLaw 1114 1122 criterio
-T302 Term-LabourLaw 1165 1179 discriminación
-T303 Term-LabourLaw 25 34 formación
-T304 Term-LabourLaw 529 538 formación
-T305 Term-LabourLaw 599 608 formación
-T306 Term-LabourLaw 684 693 formación
-T307 Term-LabourLaw 903 912 formación
-T308 Term-LabourLaw 939 948 formación
-T309 Term-LabourLaw 1384 1393 formación
-T310 Term-LabourLaw 1647 1656 formación
-T311 Term-LabourLaw 1711 1720 formación
-T312 Term-LabourLaw 1293 1303 antigüedad
-T313 Term-LabourLaw 233 240 régimen
-T314 Term-LabourLaw 878 885 crédito
-T315 Term-LabourLaw 797 802 cargo
-T316 Term-LabourLaw 1153 1161 ausencia
-T317 Term-LabourLaw 1299 1303 edad
-T318 Term-LabourLaw 258 265 empresa
-T319 Term-LabourLaw 809 816 empresa
-T320 Term-LabourLaw 1310 1317 empresa
-T321 Term-LabourLaw 1453 1460 empresa
-T322 Term-LabourLaw 1749 1756 empresa
-T323 Term-LabourLaw 1084 1091 derecho
-T324 Term-LabourLaw 1325 1332 derecho
-T325 Term-LabourLaw 1513 1520 derecho
-T326 Term-LabourLaw 822 831 perjuicio
-T327 Term-LabourLaw 1052 1059 término
-T328 Term-LabourLaw 1244 1248 sexo
-T329 Term-LabourLaw 563 569 cesión
-T330 Term-LabourLaw 84 91 permiso
-T331 Term-LabourLaw 577 584 permiso
-T332 Term-LabourLaw 1338 1345 permiso
-T333 Term-LabourLaw 1481 1488 periodo
-T334 Term-LabourLaw 1414 1420 empleo
-T335 Term-LabourLaw 1678 1684 empleo
-T336 Term-LabourLaw 1153 1161 ausencia
-T337 Term-LabourLaw 84 91 permiso
-T338 Term-LabourLaw 577 584 permiso
-T339 Term-LabourLaw 1338 1345 permiso
-T340 Term-LabourLaw 167 172 turno
-T341 Term-LabourLaw 84 91 permiso
-T342 Term-LabourLaw 577 584 permiso
-T343 Term-LabourLaw 1338 1345 permiso
-T344 Term-IATE 797 802 cargo
-T345 Term-IATE 1244 1248 sexo
-T346 Term-IATE 325 336 realización
-T347 Term-IATE 146 157 preferencia
-T348 Term-IATE 412 418 título
-T349 Term-IATE 1165 1179 discriminación
-T350 Term-IATE 0 8 Artículo
-T351 Term-IATE 258 265 empresa
-T352 Term-IATE 809 816 empresa
-T353 Term-IATE 1310 1317 empresa
-T354 Term-IATE 1453 1460 empresa
-T355 Term-IATE 379 387 estudios
-T356 Term-IATE 1703 1707 plan
-T357 Term-IATE 84 92 permisos
-T358 Term-IATE 577 585 permisos
-T359 Term-IATE 1338 1345 permiso
-T360 Term-IATE 878 886 créditos
-T361 Term-IATE 1217 1229 trabajadores
-T362 Term-IATE 1257 1269 trabajadores
-T363 Term-IATE 1566 1576 trabajador
-T364 Term-IATE 1414 1420 empleo
-T365 Term-IATE 1678 1684 empleo
-T366 Term-IATE 1437 1446 actividad
-T367 Term-IATE 867 873 efecto
-T368 Term-IATE 1014 1025 negociación
-T369 Term-IATE 1783 1794 negociación
-T370 Term-IATE 1126 1134 sistemas
-T371 Term-IATE 645 652 reserva
-T372 Term-IATE 1065 1074 ejercicio
-T373 Term-IATE 25 34 formación
-T374 Term-IATE 529 538 formación
-T375 Term-IATE 599 608 formación
-T376 Term-IATE 684 693 formación
-T377 Term-IATE 903 912 formación
-T378 Term-IATE 939 948 formación
-T379 Term-IATE 1384 1393 formación
-T380 Term-IATE 1647 1656 formación
-T381 Term-IATE 1711 1720 formación
+T1	Term-DPEJ 972 976	caso
+T2	Term-DPEJ 1551 1555	caso
+T3	Term-DPEJ 469 486	jornada ordinaria
+T4	Term-DPEJ 797 802	cargo
+T5	Term-DPEJ 1414 1420	empleo
+T6	Term-DPEJ 1678 1684	empleo
+T7	Term-DPEJ 1153 1161	ausencia
+T8	Term-DPEJ 1014 1025	negociación
+T9	Term-DPEJ 1783 1794	negociación
+T10	Term-DPEJ 53 60	trabajo
+T11	Term-DPEJ 176 183	trabajo
+T12	Term-DPEJ 199 206	trabajo
+T13	Term-DPEJ 341 348	trabajo
+T14	Term-DPEJ 490 497	trabajo
+T15	Term-DPEJ 667 674	trabajo
+T16	Term-DPEJ 769 776	trabajo
+T17	Term-DPEJ 987 994	trabajo
+T18	Term-DPEJ 258 265	empresa
+T19	Term-DPEJ 809 816	empresa
+T20	Term-DPEJ 1310 1317	empresa
+T21	Term-DPEJ 1453 1460	empresa
+T22	Term-DPEJ 452 462	adaptación
+T23	Term-DPEJ 712 722	adaptación
+T24	Term-DPEJ 987 1003	trabajo efectivo
+T25	Term-DPEJ 1126 1134	sistemas
+T26	Term-DPEJ 13 22	Promoción
+T27	Term-DPEJ 316 321	forma
+T28	Term-DPEJ 1437 1446	actividad
+T29	Term-DPEJ 199 218	trabajo a distancia
+T30	Term-DPEJ 917 923	tiempo
+T31	Term-DPEJ 977 983	tiempo
+T32	Term-DPEJ 977 1003	tiempo de trabajo efectivo
+T33	Term-DPEJ 412 418	título
+T34	Term-DPEJ 1014 1035	negociación colectiva
+T35	Term-DPEJ 1783 1804	negociación colectiva
+T36	Term-DPEJ 272 278	puesto
+T37	Term-DPEJ 657 663	puesto
+T38	Term-DPEJ 759 765	puesto
+T39	Term-DPEJ 469 476	jornada
+T40	Term-DPEJ 1165 1179	discriminación
+T41	Term-DPEJ 1703 1707	plan
+T42	Term-DPEJ 84 92	permisos
+T43	Term-DPEJ 577 585	permisos
+T44	Term-DPEJ 1338 1345	permiso
+T45	Term-DPEJ 1286 1289	año
+T46	Term-DPEJ 1504 1508	años
+T47	Term-DPEJ 0 8	Artículo
+T48	Term-DPEJ 412 428	título académico
+T49	Term-Termcat 1014 1035	negociación colectiva
+T50	Term-Termcat 1783 1804	negociación colectiva
+T51	Term-Termcat 84 92	permisos
+T52	Term-Termcat 577 585	permisos
+T53	Term-Termcat 1338 1345	permiso
+T54	Term-Termcat 1052 1060	términos
+T55	Term-Termcat 1153 1161	ausencia
+T56	Term-Termcat 878 886	créditos
+T57	Term-Termcat 316 321	forma
+T58	Term-Termcat 68 76	disfrute
+T59	Term-Termcat 412 418	título
+T60	Term-Termcat 0 8	Artículo
+T61	Term-Termcat 1126 1134	sistemas
+T62	Term-Termcat 1293 1303	antigüedad
+T63	Term-Termcat 13 22	Promoción
+T64	Term-Termcat 506 516	asistencia
+T65	Term-Termcat 797 802	cargo
+T66	Term-Termcat 1165 1179	discriminación
+T67	Term-Termcat 258 265	empresa
+T68	Term-Termcat 1453 1460	empresa
+T69	Term-Termcat 1310 1317	empresa
+T70	Term-Termcat 809 816	empresa
+T71	Term-Termcat 176 183	trabajo
+T72	Term-Termcat 490 497	trabajo
+T73	Term-Termcat 341 348	trabajo
+T74	Term-Termcat 53 60	trabajo
+T75	Term-Termcat 1414 1420	empleo
+T76	Term-Termcat 1678 1684	empleo
+T77	Term-Termcat 599 608	formación
+T78	Term-Termcat 1647 1656	formación
+T79	Term-Termcat 684 693	formación
+T80	Term-Termcat 939 948	formación
+T81	Term-Termcat 903 912	formación
+T82	Term-Termcat 25 46	formación profesional
+T83	Term-Termcat 529 550	formación profesional
+T84	Term-Termcat 1384 1405	formación profesional
+T85	Term-Termcat 469 486	jornada ordinaria
+T86	Term-Termcat 759 776	puesto de trabajo
+T87	Term-Termcat 611 628	perfeccionamiento
+T88	Term-Termcat 1703 1720	plan de formación
+T89	Term-Termcat 645 674	reserva del puesto de trabajo
+T90	Term-Termcat 167 172	turno
+T91	Term-Termcat 199 218	trabajo a distancia
+T92	Term-Termcat 977 994	tiempo de trabajo
+T93	Term-Termcat 412 428	título académico
+T94	Term-Termcat 987 1003	trabajo efectivo
+T95	Term-Termcat 1084 1092	derechos
+T96	Term-Termcat 1513 1520	derecho
+T97	Term-Termcat 1325 1332	derecho
+T98	Term-Termcat 1014 1025	negociación
+T99	Term-Termcat 1783 1794	negociación
+T100	Term-Termcat 645 652	reserva
+T101	Term-Termcat 1437 1446	actividad
+T102	Term-Termcat 452 462	adaptación
+T103	Term-Termcat 712 722	adaptación
+T104	Term-Termcat 560 569	concesión
+T105	Term-Termcat 867 873	efecto
+T106	Term-Termcat 1749 1760	empresarial
+T107	Term-Termcat 1065 1074	ejercicio
+T108	Term-Termcat 199 206	trabajo
+T109	Term-Termcat 657 674	puesto de trabajo
+T110	Term-Termcat 822 831	perjuicio
+T111	Term-Termcat 1703 1707	plan
+T112	Term-Termcat 233 240	régimen
+T113	Term-Termcat 977 1003	tiempo de trabajo efectivo
+T114	Term-DV 1220 1224	baja
+T115	Term-DV 1260 1264	baja
+T116	Term-DV 1569 1573	baja
+T117	Term-DV 797 802	cargo
+T118	Term-DV 563 569	cesión
+T119	Term-DV 1106 1109	dar
+T120	Term-DV 1084 1091	derecho
+T121	Term-DV 1325 1332	derecho
+T122	Term-DV 1513 1520	derecho
+T123	Term-DV 383 387	dios
+T124	Term-DV 1165 1179	discriminación
+T125	Term-DV 1299 1303	edad
+T126	Term-DV 258 265	empresa
+T127	Term-DV 809 816	empresa
+T128	Term-DV 1310 1317	empresa
+T129	Term-DV 1453 1460	empresa
+T130	Term-DV 1749 1756	empresa
+T131	Term-DV 38 40	fe
+T132	Term-DV 149 151	fe
+T133	Term-DV 434 436	fe
+T134	Term-DV 542 544	fe
+T135	Term-DV 614 616	fe
+T136	Term-DV 632 634	fe
+T137	Term-DV 868 870	fe
+T138	Term-DV 996 998	fe
+T139	Term-DV 1397 1399	fe
+T140	Term-DV 1661 1663	fe
+T141	Term-DV 25 30	forma
+T142	Term-DV 316 321	forma
+T143	Term-DV 529 534	forma
+T144	Term-DV 599 604	forma
+T145	Term-DV 684 689	forma
+T146	Term-DV 903 908	forma
+T147	Term-DV 939 944	forma
+T148	Term-DV 1384 1389	forma
+T149	Term-DV 1605 1610	forma
+T150	Term-DV 1647 1652	forma
+T151	Term-DV 1711 1716	forma
+T152	Term-DV 825 831	juicio
+T153	Term-DV 1691 1694	mar
+T154	Term-DV 1173 1179	nación
+T155	Term-DV 1014 1025	negociación
+T156	Term-DV 1783 1794	negociación
+T157	Term-DV 104 108	para
+T158	Term-DV 388 392	para
+T159	Term-DV 498 502	para
+T160	Term-DV 704 708	para
+T161	Term-DV 1406 1410	para
+T162	Term-DV 1670 1674	para
+T163	Term-DV 822 831	perjuicio
+T164	Term-DV 84 91	permiso
+T165	Term-DV 577 584	permiso
+T166	Term-DV 1338 1345	permiso
+T167	Term-DV 838 849	posibilidad
+T168	Term-DV 35 46	profesional
+T169	Term-DV 431 442	profesional
+T170	Term-DV 539 550	profesional
+T171	Term-DV 629 640	profesional
+T172	Term-DV 1394 1405	profesional
+T173	Term-DV 1658 1669	profesional
+T174	Term-DV 325 329	real
+T175	Term-DV 1583 1587	real
+T176	Term-DV 879 885	rédito
+T177	Term-DV 233 240	régimen
+T178	Term-DV 1244 1248	sexo
+T179	Term-DV 1126 1133	sistema
+T180	Term-DV 1526 1532	tender
+T181	Term-DV 1217 1227	trabajador
+T182	Term-DV 1257 1267	trabajador
+T183	Term-DV 1566 1576	trabajador
+T184	Term-DV 122 123	x
+T185	Term-DV 1246 1247	x
+T186	Term-AttentionRank 917 923	tiempo
+T187	Term-AttentionRank 977 983	tiempo
+T188	Term-AttentionRank 1414 1420	empleo
+T189	Term-AttentionRank 1678 1684	empleo
+T190	Term-AttentionRank 1065 1074	ejercicio
+T191	Term-AttentionRank 1244 1248	sexo
+T192	Term-AttentionRank 379 387	estudios
+T193	Term-AttentionRank 1014 1035	negociación colectiva
+T194	Term-AttentionRank 1783 1804	negociación colectiva
+T195	Term-AttentionRank 1703 1707	plan
+T196	Term-AttentionRank 1286 1289	año
+T197	Term-AttentionRank 1504 1508	años
+T198	Term-AttentionRank 797 802	cargo
+T199	Term-AttentionRank 729 776	modificaciones operadas en el puesto de trabajo
+T200	Term-AttentionRank 469 476	jornada
+T201	Term-AttentionRank 1481 1488	periodo
+T202	Term-AttentionRank 146 157	preferencia
+T203	Term-AttentionRank 13 22	Promoción
+T204	Term-AttentionRank 1596 1615	acciones formativas
+T205	Term-AttentionRank 878 912	créditos destinados a la formación
+T206	Term-AttentionRank 131 134	así
+T207	Term-AttentionRank 25 34	formación
+T208	Term-AttentionRank 529 538	formación
+T209	Term-AttentionRank 599 608	formación
+T210	Term-AttentionRank 684 693	formación
+T211	Term-AttentionRank 903 912	formación
+T212	Term-AttentionRank 939 948	formación
+T213	Term-AttentionRank 1384 1393	formación
+T214	Term-AttentionRank 1647 1656	formación
+T215	Term-AttentionRank 1711 1720	formación
+T216	Term-AttentionRank 0 8	Artículo
+T217	Term-AttentionRank 452 462	adaptación
+T218	Term-AttentionRank 712 722	adaptación
+T219	Term-AttentionRank 917 948	tiempo destinado a la formación
+T220	Term-AttentionRank 822 849	perjuicio de la posibilidad
+T221	Term-AttentionRank 412 418	título
+T222	Term-AttentionRank 506 516	asistencia
+T223	Term-AttentionRank 684 776	formación necesaria para su adaptación a las modificaciones operadas en el puesto de trabajo
+T224	Term-AttentionRank 645 652	reserva
+T225	Term-AttentionRank 469 486	jornada ordinaria
+T226	Term-AttentionRank 223 226	tal
+T227	Term-AttentionRank 863 866	tal
+T228	Term-AttentionRank 1114 1123	criterios
+T229	Term-AttentionRank 1437 1446	actividad
+T230	Term-AttentionRank 1338 1356	permiso retribuido
+T231	Term-AttentionRank 1165 1179	discriminación
+T232	Term-AttentionRank 878 886	créditos
+T233	Term-AttentionRank 209 218	distancia
+T234	Term-AttentionRank 1126 1134	sistemas
+T235	Term-AttentionRank 1014 1025	negociación
+T236	Term-AttentionRank 1783 1794	negociación
+T237	Term-AttentionRank 84 92	permisos
+T238	Term-AttentionRank 577 585	permisos
+T239	Term-AttentionRank 1338 1345	permiso
+T240	Term-AttentionRank 1217 1229	trabajadores
+T241	Term-AttentionRank 1257 1269	trabajadores
+T242	Term-AttentionRank 1566 1576	trabajador
+T243	Term-AttentionRank 272 278	puesto
+T244	Term-AttentionRank 657 663	puesto
+T245	Term-AttentionRank 759 765	puesto
+T246	Term-AttentionRank 258 265	empresa
+T247	Term-AttentionRank 809 816	empresa
+T248	Term-AttentionRank 1310 1317	empresa
+T249	Term-AttentionRank 1453 1460	empresa
+T250	Term-AttentionRank 1367 1372	horas
+T251	Term-AttentionRank 316 321	forma
+T252	Term-AttentionRank 325 336	realización
+T253	Term-AttentionRank 1084 1092	derechos
+T254	Term-AttentionRank 1325 1332	derecho
+T255	Term-AttentionRank 1513 1520	derecho
+T256	Term-AttentionRank 167 172	turno
+T257	Term-AttentionRank 1153 1161	ausencia
+T258	Term-AttentionRank 867 873	efecto
+T259	Term-AttentionRank 987 1003	trabajo efectivo
+T260	Term-AttentionRank 53 60	trabajo
+T261	Term-AttentionRank 176 183	trabajo
+T262	Term-AttentionRank 199 206	trabajo
+T263	Term-AttentionRank 341 348	trabajo
+T264	Term-AttentionRank 490 497	trabajo
+T265	Term-AttentionRank 667 674	trabajo
+T266	Term-AttentionRank 769 776	trabajo
+T267	Term-AttentionRank 987 994	trabajo
+T268	Term-AttentionRank 25 46	formación profesional
+T269	Term-AttentionRank 529 550	formación profesional
+T270	Term-AttentionRank 1384 1405	formación profesional
+T271	Term-AttentionRank 519 525	cursos
+T272	Term-AttentionRank 972 976	caso
+T273	Term-AttentionRank 1551 1555	caso
+T274	Term-LabourLaw 657 674	puesto de trabajo
+T275	Term-LabourLaw 759 776	puesto de trabajo
+T276	Term-LabourLaw 199 218	trabajo a distancia
+T277	Term-LabourLaw 167 183	turno de trabajo
+T278	Term-LabourLaw 1338 1356	permiso retribuido
+T279	Term-LabourLaw 25 46	formación profesional
+T280	Term-LabourLaw 529 550	formación profesional
+T281	Term-LabourLaw 1384 1405	formación profesional
+T282	Term-LabourLaw 987 1003	trabajo efectivo
+T283	Term-LabourLaw 469 486	jornada ordinaria
+T284	Term-LabourLaw 1014 1035	negociación colectiva
+T285	Term-LabourLaw 1783 1804	negociación colectiva
+T286	Term-LabourLaw 469 476	jornada
+T287	Term-LabourLaw 109 118	concurrir
+T288	Term-LabourLaw 469 476	jornada
+T289	Term-LabourLaw 53 60	trabajo
+T290	Term-LabourLaw 176 183	trabajo
+T291	Term-LabourLaw 199 206	trabajo
+T292	Term-LabourLaw 341 348	trabajo
+T293	Term-LabourLaw 490 497	trabajo
+T294	Term-LabourLaw 667 674	trabajo
+T295	Term-LabourLaw 769 776	trabajo
+T296	Term-LabourLaw 987 994	trabajo
+T297	Term-LabourLaw 1691 1696	marco
+T298	Term-LabourLaw 1217 1227	trabajador
+T299	Term-LabourLaw 1257 1267	trabajador
+T300	Term-LabourLaw 1566 1576	trabajador
+T301	Term-LabourLaw 1114 1122	criterio
+T302	Term-LabourLaw 1165 1179	discriminación
+T303	Term-LabourLaw 25 34	formación
+T304	Term-LabourLaw 529 538	formación
+T305	Term-LabourLaw 599 608	formación
+T306	Term-LabourLaw 684 693	formación
+T307	Term-LabourLaw 903 912	formación
+T308	Term-LabourLaw 939 948	formación
+T309	Term-LabourLaw 1384 1393	formación
+T310	Term-LabourLaw 1647 1656	formación
+T311	Term-LabourLaw 1711 1720	formación
+T312	Term-LabourLaw 1293 1303	antigüedad
+T313	Term-LabourLaw 233 240	régimen
+T314	Term-LabourLaw 878 885	crédito
+T315	Term-LabourLaw 797 802	cargo
+T316	Term-LabourLaw 1153 1161	ausencia
+T317	Term-LabourLaw 1299 1303	edad
+T318	Term-LabourLaw 258 265	empresa
+T319	Term-LabourLaw 809 816	empresa
+T320	Term-LabourLaw 1310 1317	empresa
+T321	Term-LabourLaw 1453 1460	empresa
+T322	Term-LabourLaw 1749 1756	empresa
+T323	Term-LabourLaw 1084 1091	derecho
+T324	Term-LabourLaw 1325 1332	derecho
+T325	Term-LabourLaw 1513 1520	derecho
+T326	Term-LabourLaw 822 831	perjuicio
+T327	Term-LabourLaw 1052 1059	término
+T328	Term-LabourLaw 1244 1248	sexo
+T329	Term-LabourLaw 563 569	cesión
+T330	Term-LabourLaw 84 91	permiso
+T331	Term-LabourLaw 577 584	permiso
+T332	Term-LabourLaw 1338 1345	permiso
+T333	Term-LabourLaw 1481 1488	periodo
+T334	Term-LabourLaw 1414 1420	empleo
+T335	Term-LabourLaw 1678 1684	empleo
+T336	Term-LabourLaw 1153 1161	ausencia
+T337	Term-LabourLaw 84 91	permiso
+T338	Term-LabourLaw 577 584	permiso
+T339	Term-LabourLaw 1338 1345	permiso
+T340	Term-LabourLaw 167 172	turno
+T341	Term-LabourLaw 84 91	permiso
+T342	Term-LabourLaw 577 584	permiso
+T343	Term-LabourLaw 1338 1345	permiso
+T344	Term-IATE 797 802	cargo
+T345	Term-IATE 1244 1248	sexo
+T346	Term-IATE 325 336	realización
+T347	Term-IATE 146 157	preferencia
+T348	Term-IATE 412 418	título
+T349	Term-IATE 1165 1179	discriminación
+T350	Term-IATE 0 8	Artículo
+T351	Term-IATE 258 265	empresa
+T352	Term-IATE 809 816	empresa
+T353	Term-IATE 1310 1317	empresa
+T354	Term-IATE 1453 1460	empresa
+T355	Term-IATE 379 387	estudios
+T356	Term-IATE 1703 1707	plan
+T357	Term-IATE 84 92	permisos
+T358	Term-IATE 577 585	permisos
+T359	Term-IATE 1338 1345	permiso
+T360	Term-IATE 878 886	créditos
+T361	Term-IATE 1217 1229	trabajadores
+T362	Term-IATE 1257 1269	trabajadores
+T363	Term-IATE 1566 1576	trabajador
+T364	Term-IATE 1414 1420	empleo
+T365	Term-IATE 1678 1684	empleo
+T366	Term-IATE 1437 1446	actividad
+T367	Term-IATE 867 873	efecto
+T368	Term-IATE 1014 1025	negociación
+T369	Term-IATE 1783 1794	negociación
+T370	Term-IATE 1126 1134	sistemas
+T371	Term-IATE 645 652	reserva
+T372	Term-IATE 1065 1074	ejercicio
+T373	Term-IATE 25 34	formación
+T374	Term-IATE 529 538	formación
+T375	Term-IATE 599 608	formación
+T376	Term-IATE 684 693	formación
+T377	Term-IATE 903 912	formación
+T378	Term-IATE 939 948	formación
+T379	Term-IATE 1384 1393	formación
+T380	Term-IATE 1647 1656	formación
+T381	Term-IATE 1711 1720	formación

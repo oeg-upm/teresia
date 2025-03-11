@@ -1,335 +1,335 @@
-T1 Term-DPEJ 252 259 despido
-T2 Term-DPEJ 296 303 despido
-T3 Term-DPEJ 543 550 despido
-T4 Term-DPEJ 244 248 caso
-T5 Term-DPEJ 1157 1161 caso
-T6 Term-DPEJ 1419 1423 caso
-T7 Term-DPEJ 1140 1146 reglas
-T8 Term-DPEJ 833 842 ocupación
-T9 Term-DPEJ 1075 1084 ocupación
-T10 Term-DPEJ 754 771 igualdad de trato
-T11 Term-DPEJ 996 1013 igualdad de trato
-T12 Term-DPEJ 821 827 empleo
-T13 Term-DPEJ 1063 1069 empleo
-T14 Term-DPEJ 252 273 despido disciplinario
-T15 Term-DPEJ 430 441 expedientes
-T16 Term-DPEJ 470 478 salarios
-T17 Term-DPEJ 67 76 contratos
-T18 Term-DPEJ 1573 1578 forma
-T19 Term-DPEJ 807 814 hombres
-T20 Term-DPEJ 1049 1056 hombres
-T21 Term-DPEJ 739 747 garantía
-T22 Term-DPEJ 981 989 garantía
-T23 Term-DPEJ 45 51 causas
-T24 Term-DPEJ 575 586 Disposición
-T25 Term-DPEJ 1240 1250 suspensión
-T26 Term-DPEJ 1484 1494 suspensión
-T27 Term-DPEJ 1726 1736 suspensión
-T28 Term-DPEJ 1165 1175 nacimiento
-T29 Term-DPEJ 1427 1437 nacimiento
-T30 Term-DPEJ 687 690 ley
-T31 Term-DPEJ 929 932 ley
-T32 Term-DPEJ 1280 1283 ley
-T33 Term-DPEJ 1386 1389 ley
-T34 Term-DPEJ 278 303 indemnización por despido
-T35 Term-DPEJ 13 26 indemnización
-T36 Term-DPEJ 278 291 indemnización
-T37 Term-DPEJ 360 368 apartado
-T38 Term-DPEJ 851 860 apartados
-T39 Term-DPEJ 31 40 extinción
-T40 Term-DPEJ 754 762 igualdad
-T41 Term-DPEJ 996 1004 igualdad
-T42 Term-DPEJ 413 423 aplicación
-T43 Term-DPEJ 1095 1105 aplicación
-T44 Term-DPEJ 614 624 Aplicación
-T45 Term-DPEJ 717 724 medidas
-T46 Term-DPEJ 959 966 medidas
-T47 Term-DPEJ 391 399 artículo
-T48 Term-DPEJ 639 647 artículo
-T49 Term-DPEJ 875 883 artículo
-T50 Term-Termcat 252 273 despido disciplinario
-T51 Term-Termcat 921 928 Decreto
-T52 Term-Termcat 1378 1385 Decreto
-T53 Term-Termcat 1272 1279 Decreto
-T54 Term-Termcat 679 686 Decreto
-T55 Term-Termcat 460 466 Estado
-T56 Term-Termcat 80 87 fomento
-T57 Term-Termcat 833 842 ocupación
-T58 Term-Termcat 1075 1084 ocupación
-T59 Term-Termcat 482 493 tramitación
-T60 Term-Termcat 1649 1654 ceder
-T61 Term-Termcat 67 76 contratos
-T62 Term-Termcat 1573 1578 forma
-T63 Term-Termcat 981 989 garantía
-T64 Term-Termcat 739 747 garantía
-T65 Term-Termcat 1740 1748 disfrute
-T66 Term-Termcat 1280 1283 ley
-T67 Term-Termcat 687 690 ley
-T68 Term-Termcat 929 932 ley
-T69 Term-Termcat 1386 1389 ley
-T70 Term-Termcat 1427 1437 nacimiento
-T71 Term-Termcat 1165 1175 nacimiento
-T72 Term-Termcat 445 456 reclamación
-T73 Term-Termcat 875 883 artículo
-T74 Term-Termcat 639 647 artículo
-T75 Term-Termcat 391 399 artículo
-T76 Term-Termcat 575 598 Disposición transitoria
-T77 Term-Termcat 1352 1368 entrada en vigor
-T78 Term-Termcat 1316 1332 entrada en vigor
-T79 Term-Termcat 524 533 sentencia
-T80 Term-Termcat 543 550 despido
-T81 Term-Termcat 296 316 despido improcedente
-T82 Term-Termcat 821 827 empleo
-T83 Term-Termcat 1063 1069 empleo
-T84 Term-Termcat 996 1004 igualdad
-T85 Term-Termcat 754 762 igualdad
-T86 Term-Termcat 13 26 indemnización
-T87 Term-Termcat 278 291 indemnización
-T88 Term-Termcat 470 478 salarios
-T89 Term-Termcat 1509 1516 semanas
-T90 Term-Termcat 1701 1708 semanas
-T91 Term-Termcat 31 40 extinción
-T92 Term-Termcat 1484 1494 suspensión
-T93 Term-Termcat 1726 1736 suspensión
-T94 Term-Termcat 1240 1250 suspensión
-T95 Term-Termcat 575 586 Disposición
-T96 Term-Termcat 413 423 aplicación
-T97 Term-Termcat 1095 1105 aplicación
-T98 Term-Termcat 614 624 Aplicación
-T99 Term-Termcat 45 51 causas
-T100 Term-Termcat 330 338 conforme
-T101 Term-Termcat 1114 1122 conforme
-T102 Term-Termcat 94 106 contratación
-T103 Term-Termcat 2 9 efectos
-T104 Term-Termcat 797 804 mujeres
-T105 Term-Termcat 1039 1046 mujeres
-T106 Term-Termcat 430 441 expedientes
-T107 Term-Termcat 807 814 hombres
-T108 Term-Termcat 1049 1056 hombres
-T109 Term-Termcat 754 771 igualdad de trato
-T110 Term-Termcat 996 1013 igualdad de trato
-T111 Term-Termcat 1627 1642 madre biológica
-T112 Term-Termcat 1180 1195 madre biológica
-T113 Term-Termcat 201 210 normativa
-T114 Term-Termcat 1140 1146 reglas
-T115 Term-Termcat 674 686 Real Decreto
-T116 Term-Termcat 916 928 Real Decreto
-T117 Term-Termcat 1373 1385 Real Decreto
-T118 Term-Termcat 1267 1279 Real Decreto
-T119 Term-Termcat 524 539 sentencia firme
-T120 Term-Termcat 218 224 amparo
-T121 Term-Termcat 304 316 improcedente
-T122 Term-Termcat 777 790 oportunidades
-T123 Term-Termcat 1019 1032 oportunidades
-T124 Term-DV 524 539 sentencia firme
-T125 Term-DV 660 666 acción
-T126 Term-DV 897 903 acción
-T127 Term-DV 45 50 causa
-T128 Term-DV 309 316 cedente
-T129 Term-DV 1550 1554 debe
-T130 Term-DV 252 259 despido
-T131 Term-DV 296 303 despido
-T132 Term-DV 543 550 despido
-T133 Term-DV 2 9 efectos
-T134 Term-DV 3 5 fe
-T135 Term-DV 155 157 fe
-T136 Term-DV 1573 1578 forma
-T137 Term-DV 739 747 garantía
-T138 Term-DV 981 989 garantía
-T139 Term-DV 727 733 gentes
-T140 Term-DV 969 975 gentes
-T141 Term-DV 754 762 igualdad
-T142 Term-DV 996 1004 igualdad
-T143 Term-DV 687 690 ley
-T144 Term-DV 929 932 ley
-T145 Term-DV 1280 1283 ley
-T146 Term-DV 1386 1389 ley
-T147 Term-DV 1189 1195 lógica
-T148 Term-DV 1636 1642 lógica
-T149 Term-DV 1180 1185 madre
-T150 Term-DV 1627 1632 madre
-T151 Term-DV 707 710 mar
-T152 Term-DV 949 952 mar
-T153 Term-DV 1300 1303 mar
-T154 Term-DV 1406 1409 mar
-T155 Term-DV 1165 1175 nacimiento
-T156 Term-DV 1427 1437 nacimiento
-T157 Term-DV 201 206 norma
-T158 Term-DV 833 842 ocupación
-T159 Term-DV 1075 1084 ocupación
-T160 Term-DV 734 738 para
-T161 Term-DV 976 980 para
-T162 Term-DV 1617 1622 parto
-T163 Term-DV 1243 1250 pensión
-T164 Term-DV 1487 1494 pensión
-T165 Term-DV 1729 1736 pensión
-T166 Term-DV 414 419 plica
-T167 Term-DV 615 620 plica
-T168 Term-DV 1096 1101 plica
-T169 Term-DV 71 75 rato
-T170 Term-DV 767 771 rato
-T171 Term-DV 1009 1013 rato
-T172 Term-DV 445 456 reclamación
-T173 Term-DV 470 474 sala
-T174 Term-DV 470 477 salario
-T175 Term-DV 524 533 sentencia
-T176 Term-DV 1240 1250 suspensión
-T177 Term-DV 1484 1494 suspensión
-T178 Term-DV 1726 1736 suspensión
-T179 Term-DV 32 33 x
-T180 Term-DV 431 432 x
-T181 Term-AttentionRank 717 733 medidas urgentes
-T182 Term-AttentionRank 959 975 medidas urgentes
-T183 Term-AttentionRank 821 827 empleo
-T184 Term-AttentionRank 1063 1069 empleo
-T185 Term-AttentionRank 430 441 expedientes
-T186 Term-AttentionRank 833 842 ocupación
-T187 Term-AttentionRank 1075 1084 ocupación
-T188 Term-AttentionRank 296 316 despido improcedente
-T189 Term-AttentionRank 482 493 tramitación
-T190 Term-AttentionRank 45 51 causas
-T191 Term-AttentionRank 1573 1593 forma ininterrumpida
-T192 Term-AttentionRank 575 586 Disposición
-T193 Term-AttentionRank 1165 1175 nacimiento
-T194 Term-AttentionRank 1427 1437 nacimiento
-T195 Term-AttentionRank 1140 1146 reglas
-T196 Term-AttentionRank 1228 1236 periodos
-T197 Term-AttentionRank 1473 1480 periodo
-T198 Term-AttentionRank 1677 1684 periodo
-T199 Term-AttentionRank 1715 1722 periodo
-T200 Term-AttentionRank 244 273 caso de despido disciplinario
-T201 Term-AttentionRank 1495 1500 total
-T202 Term-AttentionRank 717 724 medidas
-T203 Term-AttentionRank 959 966 medidas
-T204 Term-AttentionRank 2 12 efectos de
-T205 Term-AttentionRank 413 423 aplicación
-T206 Term-AttentionRank 1095 1105 aplicación
-T207 Term-AttentionRank 614 624 Aplicación
-T208 Term-AttentionRank 1339 1345 partir
-T209 Term-AttentionRank 1114 1146 conforme a las siguientes reglas
-T210 Term-AttentionRank 391 399 artículo
-T211 Term-AttentionRank 639 647 artículo
-T212 Term-AttentionRank 875 883 artículo
-T213 Term-AttentionRank 1339 1359 partir de la entrada
-T214 Term-AttentionRank 31 40 extinción
-T215 Term-AttentionRank 1327 1332 vigor
-T216 Term-AttentionRank 1363 1368 vigor
-T217 Term-AttentionRank 1240 1250 suspensión
-T218 Term-AttentionRank 1484 1494 suspensión
-T219 Term-AttentionRank 1726 1736 suspensión
-T220 Term-AttentionRank 739 747 garantía
-T221 Term-AttentionRank 981 989 garantía
-T222 Term-AttentionRank 1509 1516 semanas
-T223 Term-AttentionRank 1701 1708 semanas
-T224 Term-AttentionRank 797 804 mujeres
-T225 Term-AttentionRank 1039 1046 mujeres
-T226 Term-AttentionRank 1180 1195 madre biológica
-T227 Term-AttentionRank 1627 1642 madre biológica
-T228 Term-AttentionRank 1573 1578 forma
-T229 Term-AttentionRank 45 61 causas objetivas
-T230 Term-AttentionRank 252 259 despido
-T231 Term-AttentionRank 296 303 despido
-T232 Term-AttentionRank 543 550 despido
-T233 Term-AttentionRank 687 690 ley
-T234 Term-AttentionRank 929 932 ley
-T235 Term-AttentionRank 1280 1283 ley
-T236 Term-AttentionRank 1386 1389 ley
-T237 Term-AttentionRank 470 478 salarios
-T238 Term-AttentionRank 13 26 indemnización
-T239 Term-AttentionRank 278 291 indemnización
-T240 Term-AttentionRank 94 106 contratación
-T241 Term-AttentionRank 1447 1457 progenitor
-T242 Term-AttentionRank 1663 1673 progenitor
-T243 Term-AttentionRank 575 598 Disposición transitoria
-T244 Term-AttentionRank 1573 1622 forma ininterrumpida inmediatamente tras el parto
-T245 Term-AttentionRank 754 762 igualdad
-T246 Term-AttentionRank 996 1004 igualdad
-T247 Term-AttentionRank 807 814 hombres
-T248 Term-AttentionRank 1049 1056 hombres
-T249 Term-AttentionRank 67 76 contratos
-T250 Term-AttentionRank 2 9 efectos
-T251 Term-AttentionRank 244 248 caso
-T252 Term-AttentionRank 1157 1161 caso
-T253 Term-AttentionRank 1419 1423 caso
-T254 Term-AttentionRank 360 368 apartado
-T255 Term-AttentionRank 851 860 apartados
-T256 Term-LabourLaw 278 303 indemnización por despido
-T257 Term-LabourLaw 296 316 despido improcedente
-T258 Term-LabourLaw 252 273 despido disciplinario
-T259 Term-LabourLaw 252 259 despido
-T260 Term-LabourLaw 296 303 despido
-T261 Term-LabourLaw 543 550 despido
-T262 Term-LabourLaw 524 533 sentencia
-T263 Term-LabourLaw 660 666 acción
-T264 Term-LabourLaw 897 903 acción
-T265 Term-LabourLaw 413 423 aplicación
-T266 Term-LabourLaw 1095 1105 aplicación
-T267 Term-LabourLaw 220 224 paro
-T268 Term-LabourLaw 13 26 indemnización
-T269 Term-LabourLaw 278 291 indemnización
-T270 Term-LabourLaw 67 75 contrato
-T271 Term-LabourLaw 717 723 medida
-T272 Term-LabourLaw 959 965 medida
-T273 Term-LabourLaw 470 477 salario
-T274 Term-LabourLaw 754 762 igualdad
-T275 Term-LabourLaw 996 1004 igualdad
-T276 Term-LabourLaw 1243 1250 pensión
-T277 Term-LabourLaw 1487 1494 pensión
-T278 Term-LabourLaw 1729 1736 pensión
-T279 Term-LabourLaw 94 106 contratación
-T280 Term-LabourLaw 833 842 ocupación
-T281 Term-LabourLaw 1075 1084 ocupación
-T282 Term-LabourLaw 687 690 ley
-T283 Term-LabourLaw 929 932 ley
-T284 Term-LabourLaw 1280 1283 ley
-T285 Term-LabourLaw 1386 1389 ley
-T286 Term-LabourLaw 304 316 improcedente
-T287 Term-LabourLaw 1550 1555 deber
-T288 Term-LabourLaw 306 316 procedente
-T289 Term-LabourLaw 218 224 amparo
-T290 Term-LabourLaw 482 493 tramitación
-T291 Term-LabourLaw 1240 1250 suspensión
-T292 Term-LabourLaw 1484 1494 suspensión
-T293 Term-LabourLaw 1726 1736 suspensión
-T294 Term-LabourLaw 1228 1235 periodo
-T295 Term-LabourLaw 1473 1480 periodo
-T296 Term-LabourLaw 1677 1684 periodo
-T297 Term-LabourLaw 1715 1722 periodo
-T298 Term-LabourLaw 445 456 reclamación
-T299 Term-LabourLaw 821 827 empleo
-T300 Term-LabourLaw 1063 1069 empleo
-T301 Term-LabourLaw 1617 1622 parto
-T302 Term-IATE 31 40 extinción
-T303 Term-IATE 807 814 hombres
-T304 Term-IATE 1049 1056 hombres
-T305 Term-IATE 833 842 ocupación
-T306 Term-IATE 1075 1084 ocupación
-T307 Term-IATE 413 423 aplicación
-T308 Term-IATE 1095 1105 aplicación
-T309 Term-IATE 614 624 Aplicación
-T310 Term-IATE 391 399 artículo
-T311 Term-IATE 639 647 artículo
-T312 Term-IATE 875 883 artículo
-T313 Term-IATE 1447 1457 progenitor
-T314 Term-IATE 1663 1673 progenitor
-T315 Term-IATE 470 478 salarios
-T316 Term-IATE 739 747 garantía
-T317 Term-IATE 981 989 garantía
-T318 Term-IATE 1240 1250 suspensión
-T319 Term-IATE 1484 1494 suspensión
-T320 Term-IATE 1726 1736 suspensión
-T321 Term-IATE 360 368 apartado
-T322 Term-IATE 851 860 apartados
-T323 Term-IATE 797 804 mujeres
-T324 Term-IATE 1039 1046 mujeres
-T325 Term-IATE 754 762 igualdad
-T326 Term-IATE 996 1004 igualdad
-T327 Term-IATE 821 827 empleo
-T328 Term-IATE 1063 1069 empleo
-T329 Term-IATE 67 76 contratos
-T330 Term-IATE 2 9 efectos
-T331 Term-IATE 1165 1175 nacimiento
-T332 Term-IATE 1427 1437 nacimiento
-T333 Term-IATE 1327 1332 vigor
-T334 Term-IATE 1363 1368 vigor
-T335 Term-IATE 430 441 expedientes
+T1	Term-DPEJ 252 259	despido
+T2	Term-DPEJ 296 303	despido
+T3	Term-DPEJ 543 550	despido
+T4	Term-DPEJ 244 248	caso
+T5	Term-DPEJ 1157 1161	caso
+T6	Term-DPEJ 1419 1423	caso
+T7	Term-DPEJ 1140 1146	reglas
+T8	Term-DPEJ 833 842	ocupación
+T9	Term-DPEJ 1075 1084	ocupación
+T10	Term-DPEJ 754 771	igualdad de trato
+T11	Term-DPEJ 996 1013	igualdad de trato
+T12	Term-DPEJ 821 827	empleo
+T13	Term-DPEJ 1063 1069	empleo
+T14	Term-DPEJ 252 273	despido disciplinario
+T15	Term-DPEJ 430 441	expedientes
+T16	Term-DPEJ 470 478	salarios
+T17	Term-DPEJ 67 76	contratos
+T18	Term-DPEJ 1573 1578	forma
+T19	Term-DPEJ 807 814	hombres
+T20	Term-DPEJ 1049 1056	hombres
+T21	Term-DPEJ 739 747	garantía
+T22	Term-DPEJ 981 989	garantía
+T23	Term-DPEJ 45 51	causas
+T24	Term-DPEJ 575 586	Disposición
+T25	Term-DPEJ 1240 1250	suspensión
+T26	Term-DPEJ 1484 1494	suspensión
+T27	Term-DPEJ 1726 1736	suspensión
+T28	Term-DPEJ 1165 1175	nacimiento
+T29	Term-DPEJ 1427 1437	nacimiento
+T30	Term-DPEJ 687 690	ley
+T31	Term-DPEJ 929 932	ley
+T32	Term-DPEJ 1280 1283	ley
+T33	Term-DPEJ 1386 1389	ley
+T34	Term-DPEJ 278 303	indemnización por despido
+T35	Term-DPEJ 13 26	indemnización
+T36	Term-DPEJ 278 291	indemnización
+T37	Term-DPEJ 360 368	apartado
+T38	Term-DPEJ 851 860	apartados
+T39	Term-DPEJ 31 40	extinción
+T40	Term-DPEJ 754 762	igualdad
+T41	Term-DPEJ 996 1004	igualdad
+T42	Term-DPEJ 413 423	aplicación
+T43	Term-DPEJ 1095 1105	aplicación
+T44	Term-DPEJ 614 624	Aplicación
+T45	Term-DPEJ 717 724	medidas
+T46	Term-DPEJ 959 966	medidas
+T47	Term-DPEJ 391 399	artículo
+T48	Term-DPEJ 639 647	artículo
+T49	Term-DPEJ 875 883	artículo
+T50	Term-Termcat 252 273	despido disciplinario
+T51	Term-Termcat 921 928	Decreto
+T52	Term-Termcat 1378 1385	Decreto
+T53	Term-Termcat 1272 1279	Decreto
+T54	Term-Termcat 679 686	Decreto
+T55	Term-Termcat 460 466	Estado
+T56	Term-Termcat 80 87	fomento
+T57	Term-Termcat 833 842	ocupación
+T58	Term-Termcat 1075 1084	ocupación
+T59	Term-Termcat 482 493	tramitación
+T60	Term-Termcat 1649 1654	ceder
+T61	Term-Termcat 67 76	contratos
+T62	Term-Termcat 1573 1578	forma
+T63	Term-Termcat 981 989	garantía
+T64	Term-Termcat 739 747	garantía
+T65	Term-Termcat 1740 1748	disfrute
+T66	Term-Termcat 1280 1283	ley
+T67	Term-Termcat 687 690	ley
+T68	Term-Termcat 929 932	ley
+T69	Term-Termcat 1386 1389	ley
+T70	Term-Termcat 1427 1437	nacimiento
+T71	Term-Termcat 1165 1175	nacimiento
+T72	Term-Termcat 445 456	reclamación
+T73	Term-Termcat 875 883	artículo
+T74	Term-Termcat 639 647	artículo
+T75	Term-Termcat 391 399	artículo
+T76	Term-Termcat 575 598	Disposición transitoria
+T77	Term-Termcat 1352 1368	entrada en vigor
+T78	Term-Termcat 1316 1332	entrada en vigor
+T79	Term-Termcat 524 533	sentencia
+T80	Term-Termcat 543 550	despido
+T81	Term-Termcat 296 316	despido improcedente
+T82	Term-Termcat 821 827	empleo
+T83	Term-Termcat 1063 1069	empleo
+T84	Term-Termcat 996 1004	igualdad
+T85	Term-Termcat 754 762	igualdad
+T86	Term-Termcat 13 26	indemnización
+T87	Term-Termcat 278 291	indemnización
+T88	Term-Termcat 470 478	salarios
+T89	Term-Termcat 1509 1516	semanas
+T90	Term-Termcat 1701 1708	semanas
+T91	Term-Termcat 31 40	extinción
+T92	Term-Termcat 1484 1494	suspensión
+T93	Term-Termcat 1726 1736	suspensión
+T94	Term-Termcat 1240 1250	suspensión
+T95	Term-Termcat 575 586	Disposición
+T96	Term-Termcat 413 423	aplicación
+T97	Term-Termcat 1095 1105	aplicación
+T98	Term-Termcat 614 624	Aplicación
+T99	Term-Termcat 45 51	causas
+T100	Term-Termcat 330 338	conforme
+T101	Term-Termcat 1114 1122	conforme
+T102	Term-Termcat 94 106	contratación
+T103	Term-Termcat 2 9	efectos
+T104	Term-Termcat 797 804	mujeres
+T105	Term-Termcat 1039 1046	mujeres
+T106	Term-Termcat 430 441	expedientes
+T107	Term-Termcat 807 814	hombres
+T108	Term-Termcat 1049 1056	hombres
+T109	Term-Termcat 754 771	igualdad de trato
+T110	Term-Termcat 996 1013	igualdad de trato
+T111	Term-Termcat 1627 1642	madre biológica
+T112	Term-Termcat 1180 1195	madre biológica
+T113	Term-Termcat 201 210	normativa
+T114	Term-Termcat 1140 1146	reglas
+T115	Term-Termcat 674 686	Real Decreto
+T116	Term-Termcat 916 928	Real Decreto
+T117	Term-Termcat 1373 1385	Real Decreto
+T118	Term-Termcat 1267 1279	Real Decreto
+T119	Term-Termcat 524 539	sentencia firme
+T120	Term-Termcat 218 224	amparo
+T121	Term-Termcat 304 316	improcedente
+T122	Term-Termcat 777 790	oportunidades
+T123	Term-Termcat 1019 1032	oportunidades
+T124	Term-DV 524 539	sentencia firme
+T125	Term-DV 660 666	acción
+T126	Term-DV 897 903	acción
+T127	Term-DV 45 50	causa
+T128	Term-DV 309 316	cedente
+T129	Term-DV 1550 1554	debe
+T130	Term-DV 252 259	despido
+T131	Term-DV 296 303	despido
+T132	Term-DV 543 550	despido
+T133	Term-DV 2 9	efectos
+T134	Term-DV 3 5	fe
+T135	Term-DV 155 157	fe
+T136	Term-DV 1573 1578	forma
+T137	Term-DV 739 747	garantía
+T138	Term-DV 981 989	garantía
+T139	Term-DV 727 733	gentes
+T140	Term-DV 969 975	gentes
+T141	Term-DV 754 762	igualdad
+T142	Term-DV 996 1004	igualdad
+T143	Term-DV 687 690	ley
+T144	Term-DV 929 932	ley
+T145	Term-DV 1280 1283	ley
+T146	Term-DV 1386 1389	ley
+T147	Term-DV 1189 1195	lógica
+T148	Term-DV 1636 1642	lógica
+T149	Term-DV 1180 1185	madre
+T150	Term-DV 1627 1632	madre
+T151	Term-DV 707 710	mar
+T152	Term-DV 949 952	mar
+T153	Term-DV 1300 1303	mar
+T154	Term-DV 1406 1409	mar
+T155	Term-DV 1165 1175	nacimiento
+T156	Term-DV 1427 1437	nacimiento
+T157	Term-DV 201 206	norma
+T158	Term-DV 833 842	ocupación
+T159	Term-DV 1075 1084	ocupación
+T160	Term-DV 734 738	para
+T161	Term-DV 976 980	para
+T162	Term-DV 1617 1622	parto
+T163	Term-DV 1243 1250	pensión
+T164	Term-DV 1487 1494	pensión
+T165	Term-DV 1729 1736	pensión
+T166	Term-DV 414 419	plica
+T167	Term-DV 615 620	plica
+T168	Term-DV 1096 1101	plica
+T169	Term-DV 71 75	rato
+T170	Term-DV 767 771	rato
+T171	Term-DV 1009 1013	rato
+T172	Term-DV 445 456	reclamación
+T173	Term-DV 470 474	sala
+T174	Term-DV 470 477	salario
+T175	Term-DV 524 533	sentencia
+T176	Term-DV 1240 1250	suspensión
+T177	Term-DV 1484 1494	suspensión
+T178	Term-DV 1726 1736	suspensión
+T179	Term-DV 32 33	x
+T180	Term-DV 431 432	x
+T181	Term-AttentionRank 717 733	medidas urgentes
+T182	Term-AttentionRank 959 975	medidas urgentes
+T183	Term-AttentionRank 821 827	empleo
+T184	Term-AttentionRank 1063 1069	empleo
+T185	Term-AttentionRank 430 441	expedientes
+T186	Term-AttentionRank 833 842	ocupación
+T187	Term-AttentionRank 1075 1084	ocupación
+T188	Term-AttentionRank 296 316	despido improcedente
+T189	Term-AttentionRank 482 493	tramitación
+T190	Term-AttentionRank 45 51	causas
+T191	Term-AttentionRank 1573 1593	forma ininterrumpida
+T192	Term-AttentionRank 575 586	Disposición
+T193	Term-AttentionRank 1165 1175	nacimiento
+T194	Term-AttentionRank 1427 1437	nacimiento
+T195	Term-AttentionRank 1140 1146	reglas
+T196	Term-AttentionRank 1228 1236	periodos
+T197	Term-AttentionRank 1473 1480	periodo
+T198	Term-AttentionRank 1677 1684	periodo
+T199	Term-AttentionRank 1715 1722	periodo
+T200	Term-AttentionRank 244 273	caso de despido disciplinario
+T201	Term-AttentionRank 1495 1500	total
+T202	Term-AttentionRank 717 724	medidas
+T203	Term-AttentionRank 959 966	medidas
+T204	Term-AttentionRank 2 12	efectos de
+T205	Term-AttentionRank 413 423	aplicación
+T206	Term-AttentionRank 1095 1105	aplicación
+T207	Term-AttentionRank 614 624	Aplicación
+T208	Term-AttentionRank 1339 1345	partir
+T209	Term-AttentionRank 1114 1146	conforme a las siguientes reglas
+T210	Term-AttentionRank 391 399	artículo
+T211	Term-AttentionRank 639 647	artículo
+T212	Term-AttentionRank 875 883	artículo
+T213	Term-AttentionRank 1339 1359	partir de la entrada
+T214	Term-AttentionRank 31 40	extinción
+T215	Term-AttentionRank 1327 1332	vigor
+T216	Term-AttentionRank 1363 1368	vigor
+T217	Term-AttentionRank 1240 1250	suspensión
+T218	Term-AttentionRank 1484 1494	suspensión
+T219	Term-AttentionRank 1726 1736	suspensión
+T220	Term-AttentionRank 739 747	garantía
+T221	Term-AttentionRank 981 989	garantía
+T222	Term-AttentionRank 1509 1516	semanas
+T223	Term-AttentionRank 1701 1708	semanas
+T224	Term-AttentionRank 797 804	mujeres
+T225	Term-AttentionRank 1039 1046	mujeres
+T226	Term-AttentionRank 1180 1195	madre biológica
+T227	Term-AttentionRank 1627 1642	madre biológica
+T228	Term-AttentionRank 1573 1578	forma
+T229	Term-AttentionRank 45 61	causas objetivas
+T230	Term-AttentionRank 252 259	despido
+T231	Term-AttentionRank 296 303	despido
+T232	Term-AttentionRank 543 550	despido
+T233	Term-AttentionRank 687 690	ley
+T234	Term-AttentionRank 929 932	ley
+T235	Term-AttentionRank 1280 1283	ley
+T236	Term-AttentionRank 1386 1389	ley
+T237	Term-AttentionRank 470 478	salarios
+T238	Term-AttentionRank 13 26	indemnización
+T239	Term-AttentionRank 278 291	indemnización
+T240	Term-AttentionRank 94 106	contratación
+T241	Term-AttentionRank 1447 1457	progenitor
+T242	Term-AttentionRank 1663 1673	progenitor
+T243	Term-AttentionRank 575 598	Disposición transitoria
+T244	Term-AttentionRank 1573 1622	forma ininterrumpida inmediatamente tras el parto
+T245	Term-AttentionRank 754 762	igualdad
+T246	Term-AttentionRank 996 1004	igualdad
+T247	Term-AttentionRank 807 814	hombres
+T248	Term-AttentionRank 1049 1056	hombres
+T249	Term-AttentionRank 67 76	contratos
+T250	Term-AttentionRank 2 9	efectos
+T251	Term-AttentionRank 244 248	caso
+T252	Term-AttentionRank 1157 1161	caso
+T253	Term-AttentionRank 1419 1423	caso
+T254	Term-AttentionRank 360 368	apartado
+T255	Term-AttentionRank 851 860	apartados
+T256	Term-LabourLaw 278 303	indemnización por despido
+T257	Term-LabourLaw 296 316	despido improcedente
+T258	Term-LabourLaw 252 273	despido disciplinario
+T259	Term-LabourLaw 252 259	despido
+T260	Term-LabourLaw 296 303	despido
+T261	Term-LabourLaw 543 550	despido
+T262	Term-LabourLaw 524 533	sentencia
+T263	Term-LabourLaw 660 666	acción
+T264	Term-LabourLaw 897 903	acción
+T265	Term-LabourLaw 413 423	aplicación
+T266	Term-LabourLaw 1095 1105	aplicación
+T267	Term-LabourLaw 220 224	paro
+T268	Term-LabourLaw 13 26	indemnización
+T269	Term-LabourLaw 278 291	indemnización
+T270	Term-LabourLaw 67 75	contrato
+T271	Term-LabourLaw 717 723	medida
+T272	Term-LabourLaw 959 965	medida
+T273	Term-LabourLaw 470 477	salario
+T274	Term-LabourLaw 754 762	igualdad
+T275	Term-LabourLaw 996 1004	igualdad
+T276	Term-LabourLaw 1243 1250	pensión
+T277	Term-LabourLaw 1487 1494	pensión
+T278	Term-LabourLaw 1729 1736	pensión
+T279	Term-LabourLaw 94 106	contratación
+T280	Term-LabourLaw 833 842	ocupación
+T281	Term-LabourLaw 1075 1084	ocupación
+T282	Term-LabourLaw 687 690	ley
+T283	Term-LabourLaw 929 932	ley
+T284	Term-LabourLaw 1280 1283	ley
+T285	Term-LabourLaw 1386 1389	ley
+T286	Term-LabourLaw 304 316	improcedente
+T287	Term-LabourLaw 1550 1555	deber
+T288	Term-LabourLaw 306 316	procedente
+T289	Term-LabourLaw 218 224	amparo
+T290	Term-LabourLaw 482 493	tramitación
+T291	Term-LabourLaw 1240 1250	suspensión
+T292	Term-LabourLaw 1484 1494	suspensión
+T293	Term-LabourLaw 1726 1736	suspensión
+T294	Term-LabourLaw 1228 1235	periodo
+T295	Term-LabourLaw 1473 1480	periodo
+T296	Term-LabourLaw 1677 1684	periodo
+T297	Term-LabourLaw 1715 1722	periodo
+T298	Term-LabourLaw 445 456	reclamación
+T299	Term-LabourLaw 821 827	empleo
+T300	Term-LabourLaw 1063 1069	empleo
+T301	Term-LabourLaw 1617 1622	parto
+T302	Term-IATE 31 40	extinción
+T303	Term-IATE 807 814	hombres
+T304	Term-IATE 1049 1056	hombres
+T305	Term-IATE 833 842	ocupación
+T306	Term-IATE 1075 1084	ocupación
+T307	Term-IATE 413 423	aplicación
+T308	Term-IATE 1095 1105	aplicación
+T309	Term-IATE 614 624	Aplicación
+T310	Term-IATE 391 399	artículo
+T311	Term-IATE 639 647	artículo
+T312	Term-IATE 875 883	artículo
+T313	Term-IATE 1447 1457	progenitor
+T314	Term-IATE 1663 1673	progenitor
+T315	Term-IATE 470 478	salarios
+T316	Term-IATE 739 747	garantía
+T317	Term-IATE 981 989	garantía
+T318	Term-IATE 1240 1250	suspensión
+T319	Term-IATE 1484 1494	suspensión
+T320	Term-IATE 1726 1736	suspensión
+T321	Term-IATE 360 368	apartado
+T322	Term-IATE 851 860	apartados
+T323	Term-IATE 797 804	mujeres
+T324	Term-IATE 1039 1046	mujeres
+T325	Term-IATE 754 762	igualdad
+T326	Term-IATE 996 1004	igualdad
+T327	Term-IATE 821 827	empleo
+T328	Term-IATE 1063 1069	empleo
+T329	Term-IATE 67 76	contratos
+T330	Term-IATE 2 9	efectos
+T331	Term-IATE 1165 1175	nacimiento
+T332	Term-IATE 1427 1437	nacimiento
+T333	Term-IATE 1327 1332	vigor
+T334	Term-IATE 1363 1368	vigor
+T335	Term-IATE 430 441	expedientes

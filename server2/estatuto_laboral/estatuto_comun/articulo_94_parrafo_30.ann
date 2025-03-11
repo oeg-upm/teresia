@@ -1,437 +1,437 @@
-T1 Term-DPEJ 1408 1416 Salarial
-T2 Term-DPEJ 734 738 caso
-T3 Term-DPEJ 798 802 caso
-T4 Term-DPEJ 932 936 caso
-T5 Term-DPEJ 1742 1746 caso
-T6 Term-DPEJ 539 548 capacidad
-T7 Term-DPEJ 106 112 empleo
-T8 Term-DPEJ 756 762 empleo
-T9 Term-DPEJ 742 752 regulación
-T10 Term-DPEJ 1283 1297 Salario mínimo
-T11 Term-DPEJ 1344 1358 Salario mínimo
-T12 Term-DPEJ 187 192 Salud
-T13 Term-DPEJ 665 674 seguridad
-T14 Term-DPEJ 1251 1260 Seguridad
-T15 Term-DPEJ 1573 1582 Seguridad
-T16 Term-DPEJ 259 266 trabajo
-T17 Term-DPEJ 304 311 trabajo
-T18 Term-DPEJ 351 358 trabajo
-T19 Term-DPEJ 691 698 trabajo
-T20 Term-DPEJ 1045 1052 trabajo
-T21 Term-DPEJ 1599 1606 trabajo
-T22 Term-DPEJ 1523 1531 trabajos
-T23 Term-DPEJ 423 430 empresa
-T24 Term-DPEJ 598 605 empresa
-T25 Term-DPEJ 840 847 empresa
-T26 Term-DPEJ 1283 1290 Salario
-T27 Term-DPEJ 1344 1351 Salario
-T28 Term-DPEJ 1318 1326 Salarios
-T29 Term-DPEJ 1283 1314 Salario mínimo interprofesional
-T30 Term-DPEJ 1344 1375 Salario mínimo interprofesional
-T31 Term-DPEJ 413 419 Comité
-T32 Term-DPEJ 830 836 Comité
-T33 Term-DPEJ 1390 1416 fondo de Garantía Salarial
-T34 Term-DPEJ 1658 1669 Adquisición
-T35 Term-DPEJ 247 255 contrato
-T36 Term-DPEJ 292 300 contrato
-T37 Term-DPEJ 339 347 contrato
-T38 Term-DPEJ 1163 1171 contrato
-T39 Term-DPEJ 637 650 Participación
-T40 Term-DPEJ 610 616 riesgo
-T41 Term-DPEJ 1399 1407 Garantía
-T42 Term-DPEJ 1140 1145 causa
-T43 Term-DPEJ 382 393 aprendizaje
-T44 Term-DPEJ 806 814 traslado
-T45 Term-DPEJ 1062 1070 traslado
-T46 Term-DPEJ 582 591 actividad
-T47 Term-DPEJ 1010 1022 modificación
-T48 Term-DPEJ 413 430 Comité de empresa
-T49 Term-DPEJ 830 847 Comité de empresa
-T50 Term-DPEJ 269 275 tiempo
-T51 Term-DPEJ 304 324 trabajo en prácticas
-T52 Term-DPEJ 494 508 Consentimiento
-T53 Term-DPEJ 1610 1615 Deber
-T54 Term-DPEJ 445 453 personal
-T55 Term-DPEJ 526 534 personal
-T56 Term-DPEJ 863 871 personal
-T57 Term-DPEJ 884 893 invalidez
-T58 Term-DPEJ 912 921 invalidez
-T59 Term-DPEJ 1149 1158 extinción
-T60 Term-DPEJ 1184 1192 Igualdad
-T61 Term-DPEJ 1727 1738 Información
-T62 Term-DPEJ 654 661 medidas
-T63 Term-DPEJ 1632 1639 medidas
-T64 Term-DPEJ 21 30 servicios
-T65 Term-DPEJ 1773 1782 servicios
-T66 Term-DPEJ 940 947 permiso
-T67 Term-DPEJ 1459 1463 años
-T68 Term-DPEJ 1555 1559 años
-T69 Term-DPEJ 84 91 centros
-T70 Term-Termcat 1230 1236 cargas
-T71 Term-Termcat 875 879 Cese
-T72 Term-Termcat 884 893 invalidez
-T73 Term-Termcat 912 921 invalidez
-T74 Term-Termcat 940 947 permiso
-T75 Term-Termcat 1495 1506 Prohibición
-T76 Term-Termcat 21 30 servicios
-T77 Term-Termcat 1773 1782 servicios
-T78 Term-Termcat 1330 1341 tramitación
-T79 Term-Termcat 1658 1669 Adquisición
-T80 Term-Termcat 494 508 Consentimiento
-T81 Term-Termcat 514 523 contratar
-T82 Term-Termcat 247 255 contrato
-T83 Term-Termcat 339 347 contrato
-T84 Term-Termcat 1163 1171 contrato
-T85 Term-Termcat 292 300 contrato
-T86 Term-Termcat 1610 1615 Deber
-T87 Term-Termcat 1399 1407 Garantía
-T88 Term-Termcat 1790 1800 Obligación
-T89 Term-Termcat 1134 1138 pago
-T90 Term-Termcat 1222 1226 Pago
-T91 Term-Termcat 456 470 Representantes
-T92 Term-Termcat 123 133 Residencia
-T93 Term-Termcat 1422 1434 Intervención
-T94 Term-Termcat 1094 1101 reunión
-T95 Term-Termcat 382 393 aprendizaje
-T96 Term-Termcat 1805 1810 parte
-T97 Term-Termcat 214 224 percepción
-T98 Term-Termcat 620 629 accidente
-T99 Term-Termcat 539 548 capacidad
-T100 Term-Termcat 830 847 Comité de empresa
-T101 Term-Termcat 413 430 Comité de empresa
-T102 Term-Termcat 1030 1052 condiciones de trabajo
-T103 Term-Termcat 339 358 contrato de trabajo
-T104 Term-Termcat 247 283 contrato de trabajo a tiempo parcial
-T105 Term-Termcat 292 324 contrato de trabajo en prácticas
-T106 Term-Termcat 1083 1101 Derecho de reunión
-T107 Term-Termcat 598 605 empresa
-T108 Term-Termcat 155 168 especialistas
-T109 Term-Termcat 1125 1130 Falta
-T110 Term-Termcat 1523 1531 trabajos
-T111 Term-Termcat 106 112 empleo
-T112 Term-Termcat 1390 1416 fondo de Garantía Salarial
-T113 Term-Termcat 142 151 formación
-T114 Term-Termcat 367 376 formación
-T115 Term-Termcat 973 994 formación profesional
-T116 Term-Termcat 907 921 gran invalidez
-T117 Term-Termcat 1585 1606 higiene en el trabajo
-T118 Term-Termcat 677 698 higiene en el trabajo
-T119 Term-Termcat 1184 1192 Igualdad
-T120 Term-Termcat 863 871 personal
-T121 Term-Termcat 445 453 personal
-T122 Term-Termcat 526 534 personal
-T123 Term-Termcat 742 762 regulación de empleo
-T124 Term-Termcat 1318 1326 Salarios
-T125 Term-Termcat 1344 1375 Salario mínimo interprofesional
-T126 Term-Termcat 1283 1314 Salario mínimo interprofesional
-T127 Term-Termcat 1251 1267 Seguridad Social
-T128 Term-Termcat 1062 1070 traslado
-T129 Term-Termcat 806 814 traslado
-T130 Term-Termcat 201 208 Derecho
-T131 Term-Termcat 1149 1158 extinción
-T132 Term-Termcat 1010 1022 modificación
-T133 Term-Termcat 665 674 seguridad
-T134 Term-Termcat 1573 1582 Seguridad
-T135 Term-Termcat 1251 1260 Seguridad
-T136 Term-Termcat 756 762 empleo
-T137 Term-Termcat 1377 1382 Abono
-T138 Term-Termcat 582 591 actividad
-T139 Term-Termcat 1140 1145 causa
-T140 Term-Termcat 34 43 despachos
-T141 Term-Termcat 1237 1245 fiscales
-T142 Term-Termcat 1727 1738 Información
-T143 Term-Termcat 884 904 invalidez permanente
-T144 Term-Termcat 1438 1445 menores
-T145 Term-Termcat 1534 1541 menores
-T146 Term-Termcat 1765 1770 obras
-T147 Term-Termcat 637 650 Participación
-T148 Term-Termcat 783 794 permanencia
-T149 Term-Termcat 719 730 permanencia
-T150 Term-Termcat 1197 1202 razón
-T151 Term-Termcat 610 616 riesgo
-T152 Term-Termcat 953 960 asistir
-T153 Term-Termcat 315 324 prácticas
-T154 Term-Termcat 0 8 Abogados
-T155 Term-Termcat 47 55 abogados
-T156 Term-Termcat 1083 1090 Derecho
-T157 Term-DV 47 54 abogado
-T158 Term-DV 620 629 accidente
-T159 Term-DV 481 485 baja
-T160 Term-DV 1112 1116 baja
-T161 Term-DV 1689 1693 baja
-T162 Term-DV 1818 1822 baja
-T163 Term-DV 69 73 capa
-T164 Term-DV 539 543 capa
-T165 Term-DV 539 548 capacidad
-T166 Term-DV 1230 1235 carga
-T167 Term-DV 1140 1145 causa
-T168 Term-DV 423 430 empresa
-T169 Term-DV 598 605 empresa
-T170 Term-DV 840 847 empresa
-T171 Term-DV 986 988 fe
-T172 Term-DV 1306 1308 fe
-T173 Term-DV 1367 1369 fe
-T174 Term-DV 1237 1243 fiscal
-T175 Term-DV 142 147 forma
-T176 Term-DV 367 372 forma
-T177 Term-DV 973 978 forma
-T178 Term-DV 1729 1734 forma
-T179 Term-DV 434 440 legado
-T180 Term-DV 852 858 legado
-T181 Term-DV 1765 1769 obra
-T182 Term-DV 1134 1138 pago
-T183 Term-DV 276 283 parcial
-T184 Term-DV 134 138 para
-T185 Term-DV 359 363 para
-T186 Term-DV 509 513 para
-T187 Term-DV 948 952 para
-T188 Term-DV 1805 1810 parte
-T189 Term-DV 940 947 permiso
-T190 Term-DV 445 452 persona
-T191 Term-DV 526 533 persona
-T192 Term-DV 863 870 persona
-T193 Term-DV 445 453 personal
-T194 Term-DV 526 534 personal
-T195 Term-DV 863 871 personal
-T196 Term-DV 983 994 profesional
-T197 Term-DV 1303 1314 profesional
-T198 Term-DV 1364 1375 profesional
-T199 Term-DV 1480 1487 público
-T200 Term-DV 251 255 rato
-T201 Term-DV 296 300 rato
-T202 Term-DV 343 347 rato
-T203 Term-DV 1167 1171 rato
-T204 Term-DV 742 752 regulación
-T205 Term-DV 21 29 servicio
-T206 Term-DV 1773 1781 servicio
-T207 Term-DV 1206 1210 sexo
-T208 Term-DV 478 488 trabajador
-T209 Term-DV 1109 1119 trabajador
-T210 Term-DV 1686 1696 trabajador
-T211 Term-DV 1815 1825 trabajador
-T212 Term-DV 806 814 traslado
-T213 Term-DV 1062 1070 traslado
-T214 Term-DV 886 893 validez
-T215 Term-DV 914 921 validez
-T216 Term-DV 1150 1151 x
-T217 Term-DV 1208 1209 x
-T218 Term-AttentionRank 269 275 tiempo
-T219 Term-AttentionRank 106 112 empleo
-T220 Term-AttentionRank 756 762 empleo
-T221 Term-AttentionRank 456 470 Representantes
-T222 Term-AttentionRank 1790 1800 Obligación
-T223 Term-AttentionRank 1197 1202 razón
-T224 Term-AttentionRank 1094 1101 reunión
-T225 Term-AttentionRank 1805 1810 parte
-T226 Term-AttentionRank 1206 1210 sexo
-T227 Term-AttentionRank 0 8 Abogados
-T228 Term-AttentionRank 47 55 abogados
-T229 Term-AttentionRank 1459 1463 años
-T230 Term-AttentionRank 1555 1559 años
-T231 Term-AttentionRank 1330 1341 tramitación
-T232 Term-AttentionRank 1140 1145 causa
-T233 Term-AttentionRank 610 616 riesgo
-T234 Term-AttentionRank 187 192 Salud
-T235 Term-AttentionRank 1658 1669 Adquisición
-T236 Term-AttentionRank 665 674 seguridad
-T237 Term-AttentionRank 1251 1260 Seguridad
-T238 Term-AttentionRank 1573 1582 Seguridad
-T239 Term-AttentionRank 654 661 medidas
-T240 Term-AttentionRank 1632 1639 medidas
-T241 Term-AttentionRank 806 814 traslado
-T242 Term-AttentionRank 1062 1070 traslado
-T243 Term-AttentionRank 1674 1682 carácter
-T244 Term-AttentionRank 539 548 capacidad
-T245 Term-AttentionRank 1765 1770 obras
-T246 Term-AttentionRank 413 419 Comité
-T247 Term-AttentionRank 830 836 Comité
-T248 Term-AttentionRank 142 151 formación
-T249 Term-AttentionRank 367 376 formación
-T250 Term-AttentionRank 973 982 formación
-T251 Term-AttentionRank 1377 1382 Abono
-T252 Term-AttentionRank 742 752 regulación
-T253 Term-AttentionRank 1727 1738 Información
-T254 Term-AttentionRank 1125 1130 Falta
-T255 Term-AttentionRank 1149 1158 extinción
-T256 Term-AttentionRank 637 650 Participación
-T257 Term-AttentionRank 1408 1416 Salarial
-T258 Term-AttentionRank 382 393 aprendizaje
-T259 Term-AttentionRank 1010 1022 modificación
-T260 Term-AttentionRank 582 591 actividad
-T261 Term-AttentionRank 719 730 permanencia
-T262 Term-AttentionRank 783 794 permanencia
-T263 Term-AttentionRank 1399 1407 Garantía
-T264 Term-AttentionRank 432 441 Delegados
-T265 Term-AttentionRank 850 859 Delegados
-T266 Term-AttentionRank 514 523 contratar
-T267 Term-AttentionRank 21 30 servicios
-T268 Term-AttentionRank 1773 1782 servicios
-T269 Term-AttentionRank 1283 1297 Salario mínimo
-T270 Term-AttentionRank 1344 1358 Salario mínimo
-T271 Term-AttentionRank 84 102 centros especiales
-T272 Term-AttentionRank 940 947 permiso
-T273 Term-AttentionRank 478 490 trabajadores
-T274 Term-AttentionRank 1109 1121 trabajadores
-T275 Term-AttentionRank 1686 1696 trabajador
-T276 Term-AttentionRank 1815 1825 trabajador
-T277 Term-AttentionRank 423 430 empresa
-T278 Term-AttentionRank 598 605 empresa
-T279 Term-AttentionRank 840 847 empresa
-T280 Term-AttentionRank 907 921 gran invalidez
-T281 Term-AttentionRank 84 91 centros
-T282 Term-AttentionRank 1510 1544 determinados trabajos a menores de
-T283 Term-AttentionRank 1251 1267 Seguridad Social
-T284 Term-AttentionRank 1283 1290 Salario
-T285 Term-AttentionRank 1344 1351 Salario
-T286 Term-AttentionRank 1318 1326 Salarios
-T287 Term-AttentionRank 201 208 Derecho
-T288 Term-AttentionRank 1083 1090 Derecho
-T289 Term-AttentionRank 1467 1488 espectáculos públicos
-T290 Term-AttentionRank 1184 1192 Igualdad
-T291 Term-AttentionRank 884 904 invalidez permanente
-T292 Term-AttentionRank 247 255 contrato
-T293 Term-AttentionRank 292 300 contrato
-T294 Term-AttentionRank 339 347 contrato
-T295 Term-AttentionRank 1163 1171 contrato
-T296 Term-AttentionRank 1750 1761 subcontrata
-T297 Term-AttentionRank 1134 1138 pago
-T298 Term-AttentionRank 1222 1226 Pago
-T299 Term-AttentionRank 494 508 Consentimiento
-T300 Term-AttentionRank 269 283 tiempo parcial
-T301 Term-AttentionRank 1610 1615 Deber
-T302 Term-AttentionRank 432 453 Delegados de personal
-T303 Term-AttentionRank 850 871 Delegados de personal
-T304 Term-AttentionRank 445 453 personal
-T305 Term-AttentionRank 526 534 personal
-T306 Term-AttentionRank 863 871 personal
-T307 Term-AttentionRank 259 266 trabajo
-T308 Term-AttentionRank 304 311 trabajo
-T309 Term-AttentionRank 351 358 trabajo
-T310 Term-AttentionRank 691 698 trabajo
-T311 Term-AttentionRank 1045 1052 trabajo
-T312 Term-AttentionRank 1599 1606 trabajo
-T313 Term-AttentionRank 1523 1531 trabajos
-T314 Term-AttentionRank 973 994 formación profesional
-T315 Term-AttentionRank 963 969 cursos
-T316 Term-AttentionRank 1742 1761 caso de subcontrata
-T317 Term-AttentionRank 932 947 caso de permiso
-T318 Term-AttentionRank 734 738 caso
-T319 Term-AttentionRank 798 802 caso
-T320 Term-AttentionRank 932 936 caso
-T321 Term-AttentionRank 1742 1746 caso
-T322 Term-LabourLaw 1149 1171 extinción del contrato
-T323 Term-LabourLaw 247 266 contrato de trabajo
-T324 Term-LabourLaw 292 311 contrato de trabajo
-T325 Term-LabourLaw 339 358 contrato de trabajo
-T326 Term-LabourLaw 1030 1052 condiciones de trabajo
-T327 Term-LabourLaw 973 994 formación profesional
-T328 Term-LabourLaw 269 283 tiempo parcial
-T329 Term-LabourLaw 1010 1022 modificación
-T330 Term-LabourLaw 259 266 trabajo
-T331 Term-LabourLaw 304 311 trabajo
-T332 Term-LabourLaw 351 358 trabajo
-T333 Term-LabourLaw 691 698 trabajo
-T334 Term-LabourLaw 1045 1052 trabajo
-T335 Term-LabourLaw 1523 1530 trabajo
-T336 Term-LabourLaw 1599 1606 trabajo
-T337 Term-LabourLaw 610 616 riesgo
-T338 Term-LabourLaw 806 814 traslado
-T339 Term-LabourLaw 1062 1070 traslado
-T340 Term-LabourLaw 247 255 contrato
-T341 Term-LabourLaw 292 300 contrato
-T342 Term-LabourLaw 339 347 contrato
-T343 Term-LabourLaw 1163 1171 contrato
-T344 Term-LabourLaw 654 660 medida
-T345 Term-LabourLaw 1632 1638 medida
-T346 Term-LabourLaw 1438 1443 menor
-T347 Term-LabourLaw 1534 1539 menor
-T348 Term-LabourLaw 382 393 aprendizaje
-T349 Term-LabourLaw 620 629 accidente
-T350 Term-LabourLaw 478 488 trabajador
-T351 Term-LabourLaw 1109 1119 trabajador
-T352 Term-LabourLaw 1686 1696 trabajador
-T353 Term-LabourLaw 1815 1825 trabajador
-T354 Term-LabourLaw 142 151 formación
-T355 Term-LabourLaw 367 376 formación
-T356 Term-LabourLaw 973 982 formación
-T357 Term-LabourLaw 1729 1738 formación
-T358 Term-LabourLaw 1750 1761 subcontrata
-T359 Term-LabourLaw 665 674 seguridad
-T360 Term-LabourLaw 1330 1341 tramitación
-T361 Term-LabourLaw 21 29 servicio
-T362 Term-LabourLaw 1773 1781 servicio
-T363 Term-LabourLaw 423 430 empresa
-T364 Term-LabourLaw 598 605 empresa
-T365 Term-LabourLaw 840 847 empresa
-T366 Term-LabourLaw 886 893 validez
-T367 Term-LabourLaw 914 921 validez
-T368 Term-LabourLaw 47 54 abogado
-T369 Term-LabourLaw 1094 1101 reunión
-T370 Term-LabourLaw 1206 1210 sexo
-T371 Term-LabourLaw 1709 1719 cotización
-T372 Term-LabourLaw 1843 1853 cotización
-T373 Term-LabourLaw 445 453 personal
-T374 Term-LabourLaw 526 534 personal
-T375 Term-LabourLaw 863 871 personal
-T376 Term-LabourLaw 940 947 permiso
-T377 Term-LabourLaw 106 112 empleo
-T378 Term-LabourLaw 756 762 empleo
-T379 Term-LabourLaw 445 452 persona
-T380 Term-LabourLaw 526 533 persona
-T381 Term-LabourLaw 863 870 persona
-T382 Term-LabourLaw 940 947 permiso
-T383 Term-LabourLaw 940 947 permiso
-T384 Term-IATE 1765 1770 obras
-T385 Term-IATE 1149 1158 extinción
-T386 Term-IATE 1206 1210 sexo
-T387 Term-IATE 494 508 Consentimiento
-T388 Term-IATE 1805 1810 parte
-T389 Term-IATE 1010 1022 modificación
-T390 Term-IATE 610 616 riesgo
-T391 Term-IATE 423 430 empresa
-T392 Term-IATE 598 605 empresa
-T393 Term-IATE 840 847 empresa
-T394 Term-IATE 1197 1202 razón
-T395 Term-IATE 1658 1669 Adquisición
-T396 Term-IATE 1094 1101 reunión
-T397 Term-IATE 1125 1130 Falta
-T398 Term-IATE 719 730 permanencia
-T399 Term-IATE 783 794 permanencia
-T400 Term-IATE 1283 1290 Salario
-T401 Term-IATE 1344 1351 Salario
-T402 Term-IATE 1318 1326 Salarios
-T403 Term-IATE 432 441 Delegados
-T404 Term-IATE 850 859 Delegados
-T405 Term-IATE 1399 1407 Garantía
-T406 Term-IATE 940 947 permiso
-T407 Term-IATE 637 650 Participación
-T408 Term-IATE 1377 1382 Abono
-T409 Term-IATE 478 490 trabajadores
-T410 Term-IATE 1109 1121 trabajadores
-T411 Term-IATE 1686 1696 trabajador
-T412 Term-IATE 1815 1825 trabajador
-T413 Term-IATE 1134 1138 pago
-T414 Term-IATE 1222 1226 Pago
-T415 Term-IATE 1184 1192 Igualdad
-T416 Term-IATE 539 548 capacidad
-T417 Term-IATE 106 112 empleo
-T418 Term-IATE 756 762 empleo
-T419 Term-IATE 665 674 seguridad
-T420 Term-IATE 1251 1260 Seguridad
-T421 Term-IATE 1573 1582 Seguridad
-T422 Term-IATE 582 591 actividad
-T423 Term-IATE 1674 1682 carácter
-T424 Term-IATE 247 255 contrato
-T425 Term-IATE 292 300 contrato
-T426 Term-IATE 339 347 contrato
-T427 Term-IATE 1163 1171 contrato
-T428 Term-IATE 1790 1800 Obligación
-T429 Term-IATE 413 419 Comité
-T430 Term-IATE 830 836 Comité
-T431 Term-IATE 456 470 Representantes
-T432 Term-IATE 382 393 aprendizaje
-T433 Term-IATE 742 752 regulación
-T434 Term-IATE 1727 1738 Información
-T435 Term-IATE 142 151 formación
-T436 Term-IATE 367 376 formación
-T437 Term-IATE 973 982 formación
+T1	Term-DPEJ 1408 1416	Salarial
+T2	Term-DPEJ 734 738	caso
+T3	Term-DPEJ 798 802	caso
+T4	Term-DPEJ 932 936	caso
+T5	Term-DPEJ 1742 1746	caso
+T6	Term-DPEJ 539 548	capacidad
+T7	Term-DPEJ 106 112	empleo
+T8	Term-DPEJ 756 762	empleo
+T9	Term-DPEJ 742 752	regulación
+T10	Term-DPEJ 1283 1297	Salario mínimo
+T11	Term-DPEJ 1344 1358	Salario mínimo
+T12	Term-DPEJ 187 192	Salud
+T13	Term-DPEJ 665 674	seguridad
+T14	Term-DPEJ 1251 1260	Seguridad
+T15	Term-DPEJ 1573 1582	Seguridad
+T16	Term-DPEJ 259 266	trabajo
+T17	Term-DPEJ 304 311	trabajo
+T18	Term-DPEJ 351 358	trabajo
+T19	Term-DPEJ 691 698	trabajo
+T20	Term-DPEJ 1045 1052	trabajo
+T21	Term-DPEJ 1599 1606	trabajo
+T22	Term-DPEJ 1523 1531	trabajos
+T23	Term-DPEJ 423 430	empresa
+T24	Term-DPEJ 598 605	empresa
+T25	Term-DPEJ 840 847	empresa
+T26	Term-DPEJ 1283 1290	Salario
+T27	Term-DPEJ 1344 1351	Salario
+T28	Term-DPEJ 1318 1326	Salarios
+T29	Term-DPEJ 1283 1314	Salario mínimo interprofesional
+T30	Term-DPEJ 1344 1375	Salario mínimo interprofesional
+T31	Term-DPEJ 413 419	Comité
+T32	Term-DPEJ 830 836	Comité
+T33	Term-DPEJ 1390 1416	fondo de Garantía Salarial
+T34	Term-DPEJ 1658 1669	Adquisición
+T35	Term-DPEJ 247 255	contrato
+T36	Term-DPEJ 292 300	contrato
+T37	Term-DPEJ 339 347	contrato
+T38	Term-DPEJ 1163 1171	contrato
+T39	Term-DPEJ 637 650	Participación
+T40	Term-DPEJ 610 616	riesgo
+T41	Term-DPEJ 1399 1407	Garantía
+T42	Term-DPEJ 1140 1145	causa
+T43	Term-DPEJ 382 393	aprendizaje
+T44	Term-DPEJ 806 814	traslado
+T45	Term-DPEJ 1062 1070	traslado
+T46	Term-DPEJ 582 591	actividad
+T47	Term-DPEJ 1010 1022	modificación
+T48	Term-DPEJ 413 430	Comité de empresa
+T49	Term-DPEJ 830 847	Comité de empresa
+T50	Term-DPEJ 269 275	tiempo
+T51	Term-DPEJ 304 324	trabajo en prácticas
+T52	Term-DPEJ 494 508	Consentimiento
+T53	Term-DPEJ 1610 1615	Deber
+T54	Term-DPEJ 445 453	personal
+T55	Term-DPEJ 526 534	personal
+T56	Term-DPEJ 863 871	personal
+T57	Term-DPEJ 884 893	invalidez
+T58	Term-DPEJ 912 921	invalidez
+T59	Term-DPEJ 1149 1158	extinción
+T60	Term-DPEJ 1184 1192	Igualdad
+T61	Term-DPEJ 1727 1738	Información
+T62	Term-DPEJ 654 661	medidas
+T63	Term-DPEJ 1632 1639	medidas
+T64	Term-DPEJ 21 30	servicios
+T65	Term-DPEJ 1773 1782	servicios
+T66	Term-DPEJ 940 947	permiso
+T67	Term-DPEJ 1459 1463	años
+T68	Term-DPEJ 1555 1559	años
+T69	Term-DPEJ 84 91	centros
+T70	Term-Termcat 1230 1236	cargas
+T71	Term-Termcat 875 879	Cese
+T72	Term-Termcat 884 893	invalidez
+T73	Term-Termcat 912 921	invalidez
+T74	Term-Termcat 940 947	permiso
+T75	Term-Termcat 1495 1506	Prohibición
+T76	Term-Termcat 21 30	servicios
+T77	Term-Termcat 1773 1782	servicios
+T78	Term-Termcat 1330 1341	tramitación
+T79	Term-Termcat 1658 1669	Adquisición
+T80	Term-Termcat 494 508	Consentimiento
+T81	Term-Termcat 514 523	contratar
+T82	Term-Termcat 247 255	contrato
+T83	Term-Termcat 339 347	contrato
+T84	Term-Termcat 1163 1171	contrato
+T85	Term-Termcat 292 300	contrato
+T86	Term-Termcat 1610 1615	Deber
+T87	Term-Termcat 1399 1407	Garantía
+T88	Term-Termcat 1790 1800	Obligación
+T89	Term-Termcat 1134 1138	pago
+T90	Term-Termcat 1222 1226	Pago
+T91	Term-Termcat 456 470	Representantes
+T92	Term-Termcat 123 133	Residencia
+T93	Term-Termcat 1422 1434	Intervención
+T94	Term-Termcat 1094 1101	reunión
+T95	Term-Termcat 382 393	aprendizaje
+T96	Term-Termcat 1805 1810	parte
+T97	Term-Termcat 214 224	percepción
+T98	Term-Termcat 620 629	accidente
+T99	Term-Termcat 539 548	capacidad
+T100	Term-Termcat 830 847	Comité de empresa
+T101	Term-Termcat 413 430	Comité de empresa
+T102	Term-Termcat 1030 1052	condiciones de trabajo
+T103	Term-Termcat 339 358	contrato de trabajo
+T104	Term-Termcat 247 283	contrato de trabajo a tiempo parcial
+T105	Term-Termcat 292 324	contrato de trabajo en prácticas
+T106	Term-Termcat 1083 1101	Derecho de reunión
+T107	Term-Termcat 598 605	empresa
+T108	Term-Termcat 155 168	especialistas
+T109	Term-Termcat 1125 1130	Falta
+T110	Term-Termcat 1523 1531	trabajos
+T111	Term-Termcat 106 112	empleo
+T112	Term-Termcat 1390 1416	fondo de Garantía Salarial
+T113	Term-Termcat 142 151	formación
+T114	Term-Termcat 367 376	formación
+T115	Term-Termcat 973 994	formación profesional
+T116	Term-Termcat 907 921	gran invalidez
+T117	Term-Termcat 1585 1606	higiene en el trabajo
+T118	Term-Termcat 677 698	higiene en el trabajo
+T119	Term-Termcat 1184 1192	Igualdad
+T120	Term-Termcat 863 871	personal
+T121	Term-Termcat 445 453	personal
+T122	Term-Termcat 526 534	personal
+T123	Term-Termcat 742 762	regulación de empleo
+T124	Term-Termcat 1318 1326	Salarios
+T125	Term-Termcat 1344 1375	Salario mínimo interprofesional
+T126	Term-Termcat 1283 1314	Salario mínimo interprofesional
+T127	Term-Termcat 1251 1267	Seguridad Social
+T128	Term-Termcat 1062 1070	traslado
+T129	Term-Termcat 806 814	traslado
+T130	Term-Termcat 201 208	Derecho
+T131	Term-Termcat 1149 1158	extinción
+T132	Term-Termcat 1010 1022	modificación
+T133	Term-Termcat 665 674	seguridad
+T134	Term-Termcat 1573 1582	Seguridad
+T135	Term-Termcat 1251 1260	Seguridad
+T136	Term-Termcat 756 762	empleo
+T137	Term-Termcat 1377 1382	Abono
+T138	Term-Termcat 582 591	actividad
+T139	Term-Termcat 1140 1145	causa
+T140	Term-Termcat 34 43	despachos
+T141	Term-Termcat 1237 1245	fiscales
+T142	Term-Termcat 1727 1738	Información
+T143	Term-Termcat 884 904	invalidez permanente
+T144	Term-Termcat 1438 1445	menores
+T145	Term-Termcat 1534 1541	menores
+T146	Term-Termcat 1765 1770	obras
+T147	Term-Termcat 637 650	Participación
+T148	Term-Termcat 783 794	permanencia
+T149	Term-Termcat 719 730	permanencia
+T150	Term-Termcat 1197 1202	razón
+T151	Term-Termcat 610 616	riesgo
+T152	Term-Termcat 953 960	asistir
+T153	Term-Termcat 315 324	prácticas
+T154	Term-Termcat 0 8	Abogados
+T155	Term-Termcat 47 55	abogados
+T156	Term-Termcat 1083 1090	Derecho
+T157	Term-DV 47 54	abogado
+T158	Term-DV 620 629	accidente
+T159	Term-DV 481 485	baja
+T160	Term-DV 1112 1116	baja
+T161	Term-DV 1689 1693	baja
+T162	Term-DV 1818 1822	baja
+T163	Term-DV 69 73	capa
+T164	Term-DV 539 543	capa
+T165	Term-DV 539 548	capacidad
+T166	Term-DV 1230 1235	carga
+T167	Term-DV 1140 1145	causa
+T168	Term-DV 423 430	empresa
+T169	Term-DV 598 605	empresa
+T170	Term-DV 840 847	empresa
+T171	Term-DV 986 988	fe
+T172	Term-DV 1306 1308	fe
+T173	Term-DV 1367 1369	fe
+T174	Term-DV 1237 1243	fiscal
+T175	Term-DV 142 147	forma
+T176	Term-DV 367 372	forma
+T177	Term-DV 973 978	forma
+T178	Term-DV 1729 1734	forma
+T179	Term-DV 434 440	legado
+T180	Term-DV 852 858	legado
+T181	Term-DV 1765 1769	obra
+T182	Term-DV 1134 1138	pago
+T183	Term-DV 276 283	parcial
+T184	Term-DV 134 138	para
+T185	Term-DV 359 363	para
+T186	Term-DV 509 513	para
+T187	Term-DV 948 952	para
+T188	Term-DV 1805 1810	parte
+T189	Term-DV 940 947	permiso
+T190	Term-DV 445 452	persona
+T191	Term-DV 526 533	persona
+T192	Term-DV 863 870	persona
+T193	Term-DV 445 453	personal
+T194	Term-DV 526 534	personal
+T195	Term-DV 863 871	personal
+T196	Term-DV 983 994	profesional
+T197	Term-DV 1303 1314	profesional
+T198	Term-DV 1364 1375	profesional
+T199	Term-DV 1480 1487	público
+T200	Term-DV 251 255	rato
+T201	Term-DV 296 300	rato
+T202	Term-DV 343 347	rato
+T203	Term-DV 1167 1171	rato
+T204	Term-DV 742 752	regulación
+T205	Term-DV 21 29	servicio
+T206	Term-DV 1773 1781	servicio
+T207	Term-DV 1206 1210	sexo
+T208	Term-DV 478 488	trabajador
+T209	Term-DV 1109 1119	trabajador
+T210	Term-DV 1686 1696	trabajador
+T211	Term-DV 1815 1825	trabajador
+T212	Term-DV 806 814	traslado
+T213	Term-DV 1062 1070	traslado
+T214	Term-DV 886 893	validez
+T215	Term-DV 914 921	validez
+T216	Term-DV 1150 1151	x
+T217	Term-DV 1208 1209	x
+T218	Term-AttentionRank 269 275	tiempo
+T219	Term-AttentionRank 106 112	empleo
+T220	Term-AttentionRank 756 762	empleo
+T221	Term-AttentionRank 456 470	Representantes
+T222	Term-AttentionRank 1790 1800	Obligación
+T223	Term-AttentionRank 1197 1202	razón
+T224	Term-AttentionRank 1094 1101	reunión
+T225	Term-AttentionRank 1805 1810	parte
+T226	Term-AttentionRank 1206 1210	sexo
+T227	Term-AttentionRank 0 8	Abogados
+T228	Term-AttentionRank 47 55	abogados
+T229	Term-AttentionRank 1459 1463	años
+T230	Term-AttentionRank 1555 1559	años
+T231	Term-AttentionRank 1330 1341	tramitación
+T232	Term-AttentionRank 1140 1145	causa
+T233	Term-AttentionRank 610 616	riesgo
+T234	Term-AttentionRank 187 192	Salud
+T235	Term-AttentionRank 1658 1669	Adquisición
+T236	Term-AttentionRank 665 674	seguridad
+T237	Term-AttentionRank 1251 1260	Seguridad
+T238	Term-AttentionRank 1573 1582	Seguridad
+T239	Term-AttentionRank 654 661	medidas
+T240	Term-AttentionRank 1632 1639	medidas
+T241	Term-AttentionRank 806 814	traslado
+T242	Term-AttentionRank 1062 1070	traslado
+T243	Term-AttentionRank 1674 1682	carácter
+T244	Term-AttentionRank 539 548	capacidad
+T245	Term-AttentionRank 1765 1770	obras
+T246	Term-AttentionRank 413 419	Comité
+T247	Term-AttentionRank 830 836	Comité
+T248	Term-AttentionRank 142 151	formación
+T249	Term-AttentionRank 367 376	formación
+T250	Term-AttentionRank 973 982	formación
+T251	Term-AttentionRank 1377 1382	Abono
+T252	Term-AttentionRank 742 752	regulación
+T253	Term-AttentionRank 1727 1738	Información
+T254	Term-AttentionRank 1125 1130	Falta
+T255	Term-AttentionRank 1149 1158	extinción
+T256	Term-AttentionRank 637 650	Participación
+T257	Term-AttentionRank 1408 1416	Salarial
+T258	Term-AttentionRank 382 393	aprendizaje
+T259	Term-AttentionRank 1010 1022	modificación
+T260	Term-AttentionRank 582 591	actividad
+T261	Term-AttentionRank 719 730	permanencia
+T262	Term-AttentionRank 783 794	permanencia
+T263	Term-AttentionRank 1399 1407	Garantía
+T264	Term-AttentionRank 432 441	Delegados
+T265	Term-AttentionRank 850 859	Delegados
+T266	Term-AttentionRank 514 523	contratar
+T267	Term-AttentionRank 21 30	servicios
+T268	Term-AttentionRank 1773 1782	servicios
+T269	Term-AttentionRank 1283 1297	Salario mínimo
+T270	Term-AttentionRank 1344 1358	Salario mínimo
+T271	Term-AttentionRank 84 102	centros especiales
+T272	Term-AttentionRank 940 947	permiso
+T273	Term-AttentionRank 478 490	trabajadores
+T274	Term-AttentionRank 1109 1121	trabajadores
+T275	Term-AttentionRank 1686 1696	trabajador
+T276	Term-AttentionRank 1815 1825	trabajador
+T277	Term-AttentionRank 423 430	empresa
+T278	Term-AttentionRank 598 605	empresa
+T279	Term-AttentionRank 840 847	empresa
+T280	Term-AttentionRank 907 921	gran invalidez
+T281	Term-AttentionRank 84 91	centros
+T282	Term-AttentionRank 1510 1544	determinados trabajos a menores de
+T283	Term-AttentionRank 1251 1267	Seguridad Social
+T284	Term-AttentionRank 1283 1290	Salario
+T285	Term-AttentionRank 1344 1351	Salario
+T286	Term-AttentionRank 1318 1326	Salarios
+T287	Term-AttentionRank 201 208	Derecho
+T288	Term-AttentionRank 1083 1090	Derecho
+T289	Term-AttentionRank 1467 1488	espectáculos públicos
+T290	Term-AttentionRank 1184 1192	Igualdad
+T291	Term-AttentionRank 884 904	invalidez permanente
+T292	Term-AttentionRank 247 255	contrato
+T293	Term-AttentionRank 292 300	contrato
+T294	Term-AttentionRank 339 347	contrato
+T295	Term-AttentionRank 1163 1171	contrato
+T296	Term-AttentionRank 1750 1761	subcontrata
+T297	Term-AttentionRank 1134 1138	pago
+T298	Term-AttentionRank 1222 1226	Pago
+T299	Term-AttentionRank 494 508	Consentimiento
+T300	Term-AttentionRank 269 283	tiempo parcial
+T301	Term-AttentionRank 1610 1615	Deber
+T302	Term-AttentionRank 432 453	Delegados de personal
+T303	Term-AttentionRank 850 871	Delegados de personal
+T304	Term-AttentionRank 445 453	personal
+T305	Term-AttentionRank 526 534	personal
+T306	Term-AttentionRank 863 871	personal
+T307	Term-AttentionRank 259 266	trabajo
+T308	Term-AttentionRank 304 311	trabajo
+T309	Term-AttentionRank 351 358	trabajo
+T310	Term-AttentionRank 691 698	trabajo
+T311	Term-AttentionRank 1045 1052	trabajo
+T312	Term-AttentionRank 1599 1606	trabajo
+T313	Term-AttentionRank 1523 1531	trabajos
+T314	Term-AttentionRank 973 994	formación profesional
+T315	Term-AttentionRank 963 969	cursos
+T316	Term-AttentionRank 1742 1761	caso de subcontrata
+T317	Term-AttentionRank 932 947	caso de permiso
+T318	Term-AttentionRank 734 738	caso
+T319	Term-AttentionRank 798 802	caso
+T320	Term-AttentionRank 932 936	caso
+T321	Term-AttentionRank 1742 1746	caso
+T322	Term-LabourLaw 1149 1171	extinción del contrato
+T323	Term-LabourLaw 247 266	contrato de trabajo
+T324	Term-LabourLaw 292 311	contrato de trabajo
+T325	Term-LabourLaw 339 358	contrato de trabajo
+T326	Term-LabourLaw 1030 1052	condiciones de trabajo
+T327	Term-LabourLaw 973 994	formación profesional
+T328	Term-LabourLaw 269 283	tiempo parcial
+T329	Term-LabourLaw 1010 1022	modificación
+T330	Term-LabourLaw 259 266	trabajo
+T331	Term-LabourLaw 304 311	trabajo
+T332	Term-LabourLaw 351 358	trabajo
+T333	Term-LabourLaw 691 698	trabajo
+T334	Term-LabourLaw 1045 1052	trabajo
+T335	Term-LabourLaw 1523 1530	trabajo
+T336	Term-LabourLaw 1599 1606	trabajo
+T337	Term-LabourLaw 610 616	riesgo
+T338	Term-LabourLaw 806 814	traslado
+T339	Term-LabourLaw 1062 1070	traslado
+T340	Term-LabourLaw 247 255	contrato
+T341	Term-LabourLaw 292 300	contrato
+T342	Term-LabourLaw 339 347	contrato
+T343	Term-LabourLaw 1163 1171	contrato
+T344	Term-LabourLaw 654 660	medida
+T345	Term-LabourLaw 1632 1638	medida
+T346	Term-LabourLaw 1438 1443	menor
+T347	Term-LabourLaw 1534 1539	menor
+T348	Term-LabourLaw 382 393	aprendizaje
+T349	Term-LabourLaw 620 629	accidente
+T350	Term-LabourLaw 478 488	trabajador
+T351	Term-LabourLaw 1109 1119	trabajador
+T352	Term-LabourLaw 1686 1696	trabajador
+T353	Term-LabourLaw 1815 1825	trabajador
+T354	Term-LabourLaw 142 151	formación
+T355	Term-LabourLaw 367 376	formación
+T356	Term-LabourLaw 973 982	formación
+T357	Term-LabourLaw 1729 1738	formación
+T358	Term-LabourLaw 1750 1761	subcontrata
+T359	Term-LabourLaw 665 674	seguridad
+T360	Term-LabourLaw 1330 1341	tramitación
+T361	Term-LabourLaw 21 29	servicio
+T362	Term-LabourLaw 1773 1781	servicio
+T363	Term-LabourLaw 423 430	empresa
+T364	Term-LabourLaw 598 605	empresa
+T365	Term-LabourLaw 840 847	empresa
+T366	Term-LabourLaw 886 893	validez
+T367	Term-LabourLaw 914 921	validez
+T368	Term-LabourLaw 47 54	abogado
+T369	Term-LabourLaw 1094 1101	reunión
+T370	Term-LabourLaw 1206 1210	sexo
+T371	Term-LabourLaw 1709 1719	cotización
+T372	Term-LabourLaw 1843 1853	cotización
+T373	Term-LabourLaw 445 453	personal
+T374	Term-LabourLaw 526 534	personal
+T375	Term-LabourLaw 863 871	personal
+T376	Term-LabourLaw 940 947	permiso
+T377	Term-LabourLaw 106 112	empleo
+T378	Term-LabourLaw 756 762	empleo
+T379	Term-LabourLaw 445 452	persona
+T380	Term-LabourLaw 526 533	persona
+T381	Term-LabourLaw 863 870	persona
+T382	Term-LabourLaw 940 947	permiso
+T383	Term-LabourLaw 940 947	permiso
+T384	Term-IATE 1765 1770	obras
+T385	Term-IATE 1149 1158	extinción
+T386	Term-IATE 1206 1210	sexo
+T387	Term-IATE 494 508	Consentimiento
+T388	Term-IATE 1805 1810	parte
+T389	Term-IATE 1010 1022	modificación
+T390	Term-IATE 610 616	riesgo
+T391	Term-IATE 423 430	empresa
+T392	Term-IATE 598 605	empresa
+T393	Term-IATE 840 847	empresa
+T394	Term-IATE 1197 1202	razón
+T395	Term-IATE 1658 1669	Adquisición
+T396	Term-IATE 1094 1101	reunión
+T397	Term-IATE 1125 1130	Falta
+T398	Term-IATE 719 730	permanencia
+T399	Term-IATE 783 794	permanencia
+T400	Term-IATE 1283 1290	Salario
+T401	Term-IATE 1344 1351	Salario
+T402	Term-IATE 1318 1326	Salarios
+T403	Term-IATE 432 441	Delegados
+T404	Term-IATE 850 859	Delegados
+T405	Term-IATE 1399 1407	Garantía
+T406	Term-IATE 940 947	permiso
+T407	Term-IATE 637 650	Participación
+T408	Term-IATE 1377 1382	Abono
+T409	Term-IATE 478 490	trabajadores
+T410	Term-IATE 1109 1121	trabajadores
+T411	Term-IATE 1686 1696	trabajador
+T412	Term-IATE 1815 1825	trabajador
+T413	Term-IATE 1134 1138	pago
+T414	Term-IATE 1222 1226	Pago
+T415	Term-IATE 1184 1192	Igualdad
+T416	Term-IATE 539 548	capacidad
+T417	Term-IATE 106 112	empleo
+T418	Term-IATE 756 762	empleo
+T419	Term-IATE 665 674	seguridad
+T420	Term-IATE 1251 1260	Seguridad
+T421	Term-IATE 1573 1582	Seguridad
+T422	Term-IATE 582 591	actividad
+T423	Term-IATE 1674 1682	carácter
+T424	Term-IATE 247 255	contrato
+T425	Term-IATE 292 300	contrato
+T426	Term-IATE 339 347	contrato
+T427	Term-IATE 1163 1171	contrato
+T428	Term-IATE 1790 1800	Obligación
+T429	Term-IATE 413 419	Comité
+T430	Term-IATE 830 836	Comité
+T431	Term-IATE 456 470	Representantes
+T432	Term-IATE 382 393	aprendizaje
+T433	Term-IATE 742 752	regulación
+T434	Term-IATE 1727 1738	Información
+T435	Term-IATE 142 151	formación
+T436	Term-IATE 367 376	formación
+T437	Term-IATE 973 982	formación

@@ -1,321 +1,321 @@
-T1 Term-DPEJ 660 665 casos
-T2 Term-DPEJ 807 811 caso
-T3 Term-DPEJ 1299 1303 modo
-T4 Term-DPEJ 1114 1120 ámbito
-T5 Term-DPEJ 1234 1240 ámbito
-T6 Term-DPEJ 760 765 nivel
-T7 Term-DPEJ 902 907 nivel
-T8 Term-DPEJ 208 215 trabajo
-T9 Term-DPEJ 288 295 trabajo
-T10 Term-DPEJ 1270 1277 trabajo
-T11 Term-DPEJ 158 165 empresa
-T12 Term-DPEJ 602 609 empresa
-T13 Term-DPEJ 1445 1452 empresa
-T14 Term-DPEJ 1585 1592 empresa
-T15 Term-DPEJ 1476 1483 mercado
-T16 Term-DPEJ 1248 1256 sistemas
-T17 Term-DPEJ 51 59 contrato
-T18 Term-DPEJ 275 284 contratos
-T19 Term-DPEJ 1401 1408 demanda
-T20 Term-DPEJ 64 70 causas
-T21 Term-DPEJ 301 307 causas
-T22 Term-DPEJ 553 559 causas
-T23 Term-DPEJ 1050 1056 causas
-T24 Term-DPEJ 1165 1171 causas
-T25 Term-DPEJ 1334 1340 causas
-T26 Term-DPEJ 36 46 suspensión
-T27 Term-DPEJ 1653 1663 suspensión
-T28 Term-DPEJ 1086 1093 cambios
-T29 Term-DPEJ 1206 1213 cambios
-T30 Term-DPEJ 1373 1380 cambios
-T31 Term-DPEJ 1282 1290 personal
-T32 Term-DPEJ 26 33 jornada
-T33 Term-DPEJ 197 204 jornada
-T34 Term-DPEJ 1428 1437 servicios
-T35 Term-DPEJ 1010 1013 año
-T36 Term-DPEJ 13 22 Reducción
-T37 Term-DPEJ 1634 1643 reducción
-T38 Term-DPEJ 0 8 Artículo
-T39 Term-DPEJ 416 424 artículo
-T40 Term-DPEJ 517 525 artículo
-T41 Term-DPEJ 585 595 resultados
-T42 Term-DPEJ 430 443 procedimiento
-T43 Term-DPEJ 1491 1504 procedimiento
-T44 Term-DPEJ 1547 1553 número
-T45 Term-DPEJ 1598 1604 número
-T46 Term-Termcat 1705 1714 autoridad
-T47 Term-Termcat 1401 1408 demanda
-T48 Term-Termcat 1299 1303 modo
-T49 Term-Termcat 902 907 nivel
-T50 Term-Termcat 760 765 nivel
-T51 Term-Termcat 1428 1437 servicios
-T52 Term-Termcat 51 59 contrato
-T53 Term-Termcat 275 284 contratos
-T54 Term-Termcat 138 150 fuerza mayor
-T55 Term-Termcat 1793 1807 representación
-T56 Term-Termcat 0 8 Artículo
-T57 Term-Termcat 416 424 artículo
-T58 Term-Termcat 517 525 artículo
-T59 Term-Termcat 1687 1699 comunicación
-T60 Term-Termcat 1248 1256 sistemas
-T61 Term-Termcat 1705 1722 autoridad laboral
-T62 Term-Termcat 1445 1452 empresa
-T63 Term-Termcat 158 165 empresa
-T64 Term-Termcat 1585 1592 empresa
-T65 Term-Termcat 602 609 empresa
-T66 Term-Termcat 288 295 trabajo
-T67 Term-Termcat 1270 1277 trabajo
-T68 Term-Termcat 769 777 ingresos
-T69 Term-Termcat 911 919 ingresos
-T70 Term-Termcat 197 215 jornada de trabajo
-T71 Term-Termcat 1282 1290 personal
-T72 Term-Termcat 13 33 Reducción de jornada
-T73 Term-Termcat 1846 1854 duración
-T74 Term-Termcat 1608 1616 personas
-T75 Term-Termcat 1557 1565 personas
-T76 Term-Termcat 1821 1829 personas
-T77 Term-Termcat 223 231 personas
-T78 Term-Termcat 1128 1134 medios
-T79 Term-Termcat 36 46 suspensión
-T80 Term-Termcat 1653 1663 suspensión
-T81 Term-Termcat 1086 1093 cambios
-T82 Term-Termcat 1206 1213 cambios
-T83 Term-Termcat 1373 1380 cambios
-T84 Term-Termcat 1165 1171 causas
-T85 Term-Termcat 301 318 causas económicas
-T86 Term-Termcat 64 81 causas económicas
-T87 Term-Termcat 553 570 causas económicas
-T88 Term-Termcat 1334 1352 causas productivas
-T89 Term-Termcat 1050 1065 causas técnicas
-T90 Term-Termcat 486 493 efectos
-T91 Term-Termcat 1137 1149 instrumentos
-T92 Term-Termcat 1808 1813 legal
-T93 Term-Termcat 1476 1483 mercado
-T94 Term-Termcat 1259 1266 métodos
-T95 Term-Termcat 778 788 ordinarios
-T96 Term-Termcat 920 930 ordinarios
-T97 Term-Termcat 694 702 pérdidas
-T98 Term-Termcat 430 443 procedimiento
-T99 Term-Termcat 1491 1504 procedimiento
-T100 Term-Termcat 349 359 producción
-T101 Term-Termcat 1153 1163 producción
-T102 Term-Termcat 1320 1330 producción
-T103 Term-Termcat 112 122 producción
-T104 Term-Termcat 1858 1866 superior
-T105 Term-Termcat 372 380 temporal
-T106 Term-Termcat 933 939 ventas
-T107 Term-Termcat 791 797 ventas
-T108 Term-Termcat 1723 1733 competente
-T109 Term-Termcat 172 179 reducir
-T110 Term-Termcat 585 595 resultados
-T111 Term-DV 197 215 jornada de trabajo
-T112 Term-DV 138 150 fuerza mayor
-T113 Term-DV 235 239 baja
-T114 Term-DV 1569 1573 baja
-T115 Term-DV 1833 1837 baja
-T116 Term-DV 64 69 causa
-T117 Term-DV 301 306 causa
-T118 Term-DV 553 558 causa
-T119 Term-DV 1050 1055 causa
-T120 Term-DV 1165 1170 causa
-T121 Term-DV 1334 1339 causa
-T122 Term-DV 1687 1699 comunicación
-T123 Term-DV 1401 1408 demanda
-T124 Term-DV 1876 1879 día
-T125 Term-DV 1130 1134 dios
-T126 Term-DV 486 493 efectos
-T127 Term-DV 158 165 empresa
-T128 Term-DV 602 609 empresa
-T129 Term-DV 1445 1452 empresa
-T130 Term-DV 1585 1592 empresa
-T131 Term-DV 487 489 fe
-T132 Term-DV 963 965 fe
-T133 Term-DV 1618 1620 fe
-T134 Term-DV 138 144 fuerza
-T135 Term-DV 1715 1722 laboral
-T136 Term-DV 1808 1813 legal
-T137 Term-DV 1403 1408 manda
-T138 Term-DV 778 787 ordinario
-T139 Term-DV 920 929 ordinario
-T140 Term-DV 39 46 pensión
-T141 Term-DV 1656 1663 pensión
-T142 Term-DV 223 230 persona
-T143 Term-DV 1282 1289 persona
-T144 Term-DV 1557 1564 persona
-T145 Term-DV 1608 1615 persona
-T146 Term-DV 1821 1828 persona
-T147 Term-DV 1282 1290 personal
-T148 Term-DV 1516 1521 plica
-T149 Term-DV 616 622 prenda
-T150 Term-DV 1795 1807 presentación
-T151 Term-DV 430 443 procedimiento
-T152 Term-DV 1491 1504 procedimiento
-T153 Term-DV 55 59 rato
-T154 Term-DV 279 283 rato
-T155 Term-DV 1634 1643 reducción
-T156 Term-DV 461 472 reglamentar
-T157 Term-DV 1793 1807 representación
-T158 Term-DV 1428 1436 servicio
-T159 Term-DV 1248 1255 sistema
-T160 Term-DV 36 46 suspensión
-T161 Term-DV 1653 1663 suspensión
-T162 Term-DV 818 824 tender
-T163 Term-DV 232 242 trabajador
-T164 Term-DV 1566 1576 trabajador
-T165 Term-DV 1830 1840 trabajador
-T166 Term-DV 791 796 venta
-T167 Term-DV 933 938 venta
-T168 Term-DV 402 405 vis
-T169 Term-DV 503 506 vis
-T170 Term-DV 717 720 vis
-T171 Term-DV 717 722 vista
-T172 Term-DV 681 682 x
-T173 Term-AttentionRank 627 636 situación
-T174 Term-AttentionRank 1846 1868 duración no superior a
-T175 Term-AttentionRank 1705 1714 autoridad
-T176 Term-AttentionRank 585 595 resultados
-T177 Term-AttentionRank 1010 1013 año
-T178 Term-AttentionRank 1876 1880 días
-T179 Term-AttentionRank 769 788 ingresos ordinarios
-T180 Term-AttentionRank 911 930 ingresos ordinarios
-T181 Term-AttentionRank 64 70 causas
-T182 Term-AttentionRank 301 307 causas
-T183 Term-AttentionRank 553 559 causas
-T184 Term-AttentionRank 1050 1056 causas
-T185 Term-AttentionRank 1165 1171 causas
-T186 Term-AttentionRank 1334 1340 causas
-T187 Term-AttentionRank 26 33 jornada
-T188 Term-AttentionRank 197 204 jornada
-T189 Term-AttentionRank 1776 1785 consultas
-T190 Term-AttentionRank 1846 1866 duración no superior
-T191 Term-AttentionRank 1765 1772 periodo
-T192 Term-AttentionRank 363 371 carácter
-T193 Term-AttentionRank 486 496 efectos de
-T194 Term-AttentionRank 0 8 Artículo
-T195 Term-AttentionRank 416 424 artículo
-T196 Term-AttentionRank 517 525 artículo
-T197 Term-AttentionRank 1476 1483 mercado
-T198 Term-AttentionRank 430 443 procedimiento
-T199 Term-AttentionRank 1491 1504 procedimiento
-T200 Term-AttentionRank 1705 1722 autoridad laboral
-T201 Term-AttentionRank 13 22 Reducción
-T202 Term-AttentionRank 1634 1643 reducción
-T203 Term-AttentionRank 223 231 personas
-T204 Term-AttentionRank 1557 1565 personas
-T205 Term-AttentionRank 1608 1616 personas
-T206 Term-AttentionRank 1821 1829 personas
-T207 Term-AttentionRank 1114 1120 ámbito
-T208 Term-AttentionRank 1234 1240 ámbito
-T209 Term-AttentionRank 223 244 personas trabajadoras
-T210 Term-AttentionRank 1557 1578 personas trabajadoras
-T211 Term-AttentionRank 1821 1842 personas trabajadoras
-T212 Term-AttentionRank 223 244 personas trabajadoras
-T213 Term-AttentionRank 1557 1578 personas trabajadoras
-T214 Term-AttentionRank 1821 1842 personas trabajadoras
-T215 Term-AttentionRank 666 671 tales
-T216 Term-AttentionRank 36 46 suspensión
-T217 Term-AttentionRank 1653 1663 suspensión
-T218 Term-AttentionRank 760 765 nivel
-T219 Term-AttentionRank 902 907 nivel
-T220 Term-AttentionRank 138 150 fuerza mayor
-T221 Term-AttentionRank 1846 1854 duración
-T222 Term-AttentionRank 1050 1065 causas técnicas
-T223 Term-AttentionRank 1687 1699 comunicación
-T224 Term-AttentionRank 1428 1437 servicios
-T225 Term-AttentionRank 1248 1256 sistemas
-T226 Term-AttentionRank 232 244 trabajadoras
-T227 Term-AttentionRank 1566 1578 trabajadoras
-T228 Term-AttentionRank 1830 1842 trabajadoras
-T229 Term-AttentionRank 112 122 producción
-T230 Term-AttentionRank 349 359 producción
-T231 Term-AttentionRank 1153 1163 producción
-T232 Term-AttentionRank 1320 1330 producción
-T233 Term-AttentionRank 1793 1813 representación legal
-T234 Term-AttentionRank 64 81 causas económicas
-T235 Term-AttentionRank 301 318 causas económicas
-T236 Term-AttentionRank 553 570 causas económicas
-T237 Term-AttentionRank 158 165 empresa
-T238 Term-AttentionRank 602 609 empresa
-T239 Term-AttentionRank 1445 1452 empresa
-T240 Term-AttentionRank 1585 1592 empresa
-T241 Term-AttentionRank 1793 1807 representación
-T242 Term-AttentionRank 363 380 carácter temporal
-T243 Term-AttentionRank 1547 1553 número
-T244 Term-AttentionRank 1598 1604 número
-T245 Term-AttentionRank 51 59 contrato
-T246 Term-AttentionRank 275 284 contratos
-T247 Term-AttentionRank 486 493 efectos
-T248 Term-AttentionRank 1086 1093 cambios
-T249 Term-AttentionRank 1206 1213 cambios
-T250 Term-AttentionRank 1373 1380 cambios
-T251 Term-AttentionRank 1282 1290 personal
-T252 Term-AttentionRank 208 215 trabajo
-T253 Term-AttentionRank 288 295 trabajo
-T254 Term-AttentionRank 1270 1277 trabajo
-T255 Term-AttentionRank 1608 1643 personas afectadas por la reducción
-T256 Term-AttentionRank 660 665 casos
-T257 Term-AttentionRank 807 811 caso
-T258 Term-LabourLaw 197 215 jornada de trabajo
-T259 Term-LabourLaw 1765 1785 periodo de consultas
-T260 Term-LabourLaw 36 59 suspensión del contrato
-T261 Term-LabourLaw 197 215 jornada de trabajo
-T262 Term-LabourLaw 1793 1813 representación legal
-T263 Term-LabourLaw 1705 1722 autoridad laboral
-T264 Term-LabourLaw 26 33 jornada
-T265 Term-LabourLaw 197 204 jornada
-T266 Term-LabourLaw 26 33 jornada
-T267 Term-LabourLaw 197 204 jornada
-T268 Term-LabourLaw 208 215 trabajo
-T269 Term-LabourLaw 288 295 trabajo
-T270 Term-LabourLaw 1270 1277 trabajo
-T271 Term-LabourLaw 51 59 contrato
-T272 Term-LabourLaw 275 283 contrato
-T273 Term-LabourLaw 1401 1408 demanda
-T274 Term-LabourLaw 232 242 trabajador
-T275 Term-LabourLaw 1566 1576 trabajador
-T276 Term-LabourLaw 1830 1840 trabajador
-T277 Term-LabourLaw 1114 1120 ámbito
-T278 Term-LabourLaw 1234 1240 ámbito
-T279 Term-LabourLaw 39 46 pensión
-T280 Term-LabourLaw 1656 1663 pensión
-T281 Term-LabourLaw 1705 1714 autoridad
-T282 Term-LabourLaw 1428 1436 servicio
-T283 Term-LabourLaw 158 165 empresa
-T284 Term-LabourLaw 602 609 empresa
-T285 Term-LabourLaw 1445 1452 empresa
-T286 Term-LabourLaw 1585 1592 empresa
-T287 Term-LabourLaw 1846 1854 duración
-T288 Term-LabourLaw 430 443 procedimiento
-T289 Term-LabourLaw 1491 1504 procedimiento
-T290 Term-LabourLaw 36 46 suspensión
-T291 Term-LabourLaw 1653 1663 suspensión
-T292 Term-LabourLaw 1282 1290 personal
-T293 Term-LabourLaw 1765 1772 periodo
-T294 Term-LabourLaw 223 230 persona
-T295 Term-LabourLaw 1282 1289 persona
-T296 Term-LabourLaw 1557 1564 persona
-T297 Term-LabourLaw 1608 1615 persona
-T298 Term-LabourLaw 1821 1828 persona
-T299 Term-IATE 0 8 Artículo
-T300 Term-IATE 416 424 artículo
-T301 Term-IATE 517 525 artículo
-T302 Term-IATE 760 765 nivel
-T303 Term-IATE 902 907 nivel
-T304 Term-IATE 158 165 empresa
-T305 Term-IATE 602 609 empresa
-T306 Term-IATE 1445 1452 empresa
-T307 Term-IATE 1585 1592 empresa
-T308 Term-IATE 13 22 Reducción
-T309 Term-IATE 1634 1643 reducción
-T310 Term-IATE 627 636 situación
-T311 Term-IATE 36 46 suspensión
-T312 Term-IATE 1653 1663 suspensión
-T313 Term-IATE 1776 1785 consultas
-T314 Term-IATE 430 443 procedimiento
-T315 Term-IATE 1491 1504 procedimiento
-T316 Term-IATE 363 371 carácter
-T317 Term-IATE 51 59 contrato
-T318 Term-IATE 275 284 contratos
-T319 Term-IATE 486 493 efectos
-T320 Term-IATE 1248 1256 sistemas
-T321 Term-IATE 1846 1854 duración
+T1	Term-DPEJ 660 665	casos
+T2	Term-DPEJ 807 811	caso
+T3	Term-DPEJ 1299 1303	modo
+T4	Term-DPEJ 1114 1120	ámbito
+T5	Term-DPEJ 1234 1240	ámbito
+T6	Term-DPEJ 760 765	nivel
+T7	Term-DPEJ 902 907	nivel
+T8	Term-DPEJ 208 215	trabajo
+T9	Term-DPEJ 288 295	trabajo
+T10	Term-DPEJ 1270 1277	trabajo
+T11	Term-DPEJ 158 165	empresa
+T12	Term-DPEJ 602 609	empresa
+T13	Term-DPEJ 1445 1452	empresa
+T14	Term-DPEJ 1585 1592	empresa
+T15	Term-DPEJ 1476 1483	mercado
+T16	Term-DPEJ 1248 1256	sistemas
+T17	Term-DPEJ 51 59	contrato
+T18	Term-DPEJ 275 284	contratos
+T19	Term-DPEJ 1401 1408	demanda
+T20	Term-DPEJ 64 70	causas
+T21	Term-DPEJ 301 307	causas
+T22	Term-DPEJ 553 559	causas
+T23	Term-DPEJ 1050 1056	causas
+T24	Term-DPEJ 1165 1171	causas
+T25	Term-DPEJ 1334 1340	causas
+T26	Term-DPEJ 36 46	suspensión
+T27	Term-DPEJ 1653 1663	suspensión
+T28	Term-DPEJ 1086 1093	cambios
+T29	Term-DPEJ 1206 1213	cambios
+T30	Term-DPEJ 1373 1380	cambios
+T31	Term-DPEJ 1282 1290	personal
+T32	Term-DPEJ 26 33	jornada
+T33	Term-DPEJ 197 204	jornada
+T34	Term-DPEJ 1428 1437	servicios
+T35	Term-DPEJ 1010 1013	año
+T36	Term-DPEJ 13 22	Reducción
+T37	Term-DPEJ 1634 1643	reducción
+T38	Term-DPEJ 0 8	Artículo
+T39	Term-DPEJ 416 424	artículo
+T40	Term-DPEJ 517 525	artículo
+T41	Term-DPEJ 585 595	resultados
+T42	Term-DPEJ 430 443	procedimiento
+T43	Term-DPEJ 1491 1504	procedimiento
+T44	Term-DPEJ 1547 1553	número
+T45	Term-DPEJ 1598 1604	número
+T46	Term-Termcat 1705 1714	autoridad
+T47	Term-Termcat 1401 1408	demanda
+T48	Term-Termcat 1299 1303	modo
+T49	Term-Termcat 902 907	nivel
+T50	Term-Termcat 760 765	nivel
+T51	Term-Termcat 1428 1437	servicios
+T52	Term-Termcat 51 59	contrato
+T53	Term-Termcat 275 284	contratos
+T54	Term-Termcat 138 150	fuerza mayor
+T55	Term-Termcat 1793 1807	representación
+T56	Term-Termcat 0 8	Artículo
+T57	Term-Termcat 416 424	artículo
+T58	Term-Termcat 517 525	artículo
+T59	Term-Termcat 1687 1699	comunicación
+T60	Term-Termcat 1248 1256	sistemas
+T61	Term-Termcat 1705 1722	autoridad laboral
+T62	Term-Termcat 1445 1452	empresa
+T63	Term-Termcat 158 165	empresa
+T64	Term-Termcat 1585 1592	empresa
+T65	Term-Termcat 602 609	empresa
+T66	Term-Termcat 288 295	trabajo
+T67	Term-Termcat 1270 1277	trabajo
+T68	Term-Termcat 769 777	ingresos
+T69	Term-Termcat 911 919	ingresos
+T70	Term-Termcat 197 215	jornada de trabajo
+T71	Term-Termcat 1282 1290	personal
+T72	Term-Termcat 13 33	Reducción de jornada
+T73	Term-Termcat 1846 1854	duración
+T74	Term-Termcat 1608 1616	personas
+T75	Term-Termcat 1557 1565	personas
+T76	Term-Termcat 1821 1829	personas
+T77	Term-Termcat 223 231	personas
+T78	Term-Termcat 1128 1134	medios
+T79	Term-Termcat 36 46	suspensión
+T80	Term-Termcat 1653 1663	suspensión
+T81	Term-Termcat 1086 1093	cambios
+T82	Term-Termcat 1206 1213	cambios
+T83	Term-Termcat 1373 1380	cambios
+T84	Term-Termcat 1165 1171	causas
+T85	Term-Termcat 301 318	causas económicas
+T86	Term-Termcat 64 81	causas económicas
+T87	Term-Termcat 553 570	causas económicas
+T88	Term-Termcat 1334 1352	causas productivas
+T89	Term-Termcat 1050 1065	causas técnicas
+T90	Term-Termcat 486 493	efectos
+T91	Term-Termcat 1137 1149	instrumentos
+T92	Term-Termcat 1808 1813	legal
+T93	Term-Termcat 1476 1483	mercado
+T94	Term-Termcat 1259 1266	métodos
+T95	Term-Termcat 778 788	ordinarios
+T96	Term-Termcat 920 930	ordinarios
+T97	Term-Termcat 694 702	pérdidas
+T98	Term-Termcat 430 443	procedimiento
+T99	Term-Termcat 1491 1504	procedimiento
+T100	Term-Termcat 349 359	producción
+T101	Term-Termcat 1153 1163	producción
+T102	Term-Termcat 1320 1330	producción
+T103	Term-Termcat 112 122	producción
+T104	Term-Termcat 1858 1866	superior
+T105	Term-Termcat 372 380	temporal
+T106	Term-Termcat 933 939	ventas
+T107	Term-Termcat 791 797	ventas
+T108	Term-Termcat 1723 1733	competente
+T109	Term-Termcat 172 179	reducir
+T110	Term-Termcat 585 595	resultados
+T111	Term-DV 197 215	jornada de trabajo
+T112	Term-DV 138 150	fuerza mayor
+T113	Term-DV 235 239	baja
+T114	Term-DV 1569 1573	baja
+T115	Term-DV 1833 1837	baja
+T116	Term-DV 64 69	causa
+T117	Term-DV 301 306	causa
+T118	Term-DV 553 558	causa
+T119	Term-DV 1050 1055	causa
+T120	Term-DV 1165 1170	causa
+T121	Term-DV 1334 1339	causa
+T122	Term-DV 1687 1699	comunicación
+T123	Term-DV 1401 1408	demanda
+T124	Term-DV 1876 1879	día
+T125	Term-DV 1130 1134	dios
+T126	Term-DV 486 493	efectos
+T127	Term-DV 158 165	empresa
+T128	Term-DV 602 609	empresa
+T129	Term-DV 1445 1452	empresa
+T130	Term-DV 1585 1592	empresa
+T131	Term-DV 487 489	fe
+T132	Term-DV 963 965	fe
+T133	Term-DV 1618 1620	fe
+T134	Term-DV 138 144	fuerza
+T135	Term-DV 1715 1722	laboral
+T136	Term-DV 1808 1813	legal
+T137	Term-DV 1403 1408	manda
+T138	Term-DV 778 787	ordinario
+T139	Term-DV 920 929	ordinario
+T140	Term-DV 39 46	pensión
+T141	Term-DV 1656 1663	pensión
+T142	Term-DV 223 230	persona
+T143	Term-DV 1282 1289	persona
+T144	Term-DV 1557 1564	persona
+T145	Term-DV 1608 1615	persona
+T146	Term-DV 1821 1828	persona
+T147	Term-DV 1282 1290	personal
+T148	Term-DV 1516 1521	plica
+T149	Term-DV 616 622	prenda
+T150	Term-DV 1795 1807	presentación
+T151	Term-DV 430 443	procedimiento
+T152	Term-DV 1491 1504	procedimiento
+T153	Term-DV 55 59	rato
+T154	Term-DV 279 283	rato
+T155	Term-DV 1634 1643	reducción
+T156	Term-DV 461 472	reglamentar
+T157	Term-DV 1793 1807	representación
+T158	Term-DV 1428 1436	servicio
+T159	Term-DV 1248 1255	sistema
+T160	Term-DV 36 46	suspensión
+T161	Term-DV 1653 1663	suspensión
+T162	Term-DV 818 824	tender
+T163	Term-DV 232 242	trabajador
+T164	Term-DV 1566 1576	trabajador
+T165	Term-DV 1830 1840	trabajador
+T166	Term-DV 791 796	venta
+T167	Term-DV 933 938	venta
+T168	Term-DV 402 405	vis
+T169	Term-DV 503 506	vis
+T170	Term-DV 717 720	vis
+T171	Term-DV 717 722	vista
+T172	Term-DV 681 682	x
+T173	Term-AttentionRank 627 636	situación
+T174	Term-AttentionRank 1846 1868	duración no superior a
+T175	Term-AttentionRank 1705 1714	autoridad
+T176	Term-AttentionRank 585 595	resultados
+T177	Term-AttentionRank 1010 1013	año
+T178	Term-AttentionRank 1876 1880	días
+T179	Term-AttentionRank 769 788	ingresos ordinarios
+T180	Term-AttentionRank 911 930	ingresos ordinarios
+T181	Term-AttentionRank 64 70	causas
+T182	Term-AttentionRank 301 307	causas
+T183	Term-AttentionRank 553 559	causas
+T184	Term-AttentionRank 1050 1056	causas
+T185	Term-AttentionRank 1165 1171	causas
+T186	Term-AttentionRank 1334 1340	causas
+T187	Term-AttentionRank 26 33	jornada
+T188	Term-AttentionRank 197 204	jornada
+T189	Term-AttentionRank 1776 1785	consultas
+T190	Term-AttentionRank 1846 1866	duración no superior
+T191	Term-AttentionRank 1765 1772	periodo
+T192	Term-AttentionRank 363 371	carácter
+T193	Term-AttentionRank 486 496	efectos de
+T194	Term-AttentionRank 0 8	Artículo
+T195	Term-AttentionRank 416 424	artículo
+T196	Term-AttentionRank 517 525	artículo
+T197	Term-AttentionRank 1476 1483	mercado
+T198	Term-AttentionRank 430 443	procedimiento
+T199	Term-AttentionRank 1491 1504	procedimiento
+T200	Term-AttentionRank 1705 1722	autoridad laboral
+T201	Term-AttentionRank 13 22	Reducción
+T202	Term-AttentionRank 1634 1643	reducción
+T203	Term-AttentionRank 223 231	personas
+T204	Term-AttentionRank 1557 1565	personas
+T205	Term-AttentionRank 1608 1616	personas
+T206	Term-AttentionRank 1821 1829	personas
+T207	Term-AttentionRank 1114 1120	ámbito
+T208	Term-AttentionRank 1234 1240	ámbito
+T209	Term-AttentionRank 223 244	personas trabajadoras
+T210	Term-AttentionRank 1557 1578	personas trabajadoras
+T211	Term-AttentionRank 1821 1842	personas trabajadoras
+T212	Term-AttentionRank 223 244	personas trabajadoras
+T213	Term-AttentionRank 1557 1578	personas trabajadoras
+T214	Term-AttentionRank 1821 1842	personas trabajadoras
+T215	Term-AttentionRank 666 671	tales
+T216	Term-AttentionRank 36 46	suspensión
+T217	Term-AttentionRank 1653 1663	suspensión
+T218	Term-AttentionRank 760 765	nivel
+T219	Term-AttentionRank 902 907	nivel
+T220	Term-AttentionRank 138 150	fuerza mayor
+T221	Term-AttentionRank 1846 1854	duración
+T222	Term-AttentionRank 1050 1065	causas técnicas
+T223	Term-AttentionRank 1687 1699	comunicación
+T224	Term-AttentionRank 1428 1437	servicios
+T225	Term-AttentionRank 1248 1256	sistemas
+T226	Term-AttentionRank 232 244	trabajadoras
+T227	Term-AttentionRank 1566 1578	trabajadoras
+T228	Term-AttentionRank 1830 1842	trabajadoras
+T229	Term-AttentionRank 112 122	producción
+T230	Term-AttentionRank 349 359	producción
+T231	Term-AttentionRank 1153 1163	producción
+T232	Term-AttentionRank 1320 1330	producción
+T233	Term-AttentionRank 1793 1813	representación legal
+T234	Term-AttentionRank 64 81	causas económicas
+T235	Term-AttentionRank 301 318	causas económicas
+T236	Term-AttentionRank 553 570	causas económicas
+T237	Term-AttentionRank 158 165	empresa
+T238	Term-AttentionRank 602 609	empresa
+T239	Term-AttentionRank 1445 1452	empresa
+T240	Term-AttentionRank 1585 1592	empresa
+T241	Term-AttentionRank 1793 1807	representación
+T242	Term-AttentionRank 363 380	carácter temporal
+T243	Term-AttentionRank 1547 1553	número
+T244	Term-AttentionRank 1598 1604	número
+T245	Term-AttentionRank 51 59	contrato
+T246	Term-AttentionRank 275 284	contratos
+T247	Term-AttentionRank 486 493	efectos
+T248	Term-AttentionRank 1086 1093	cambios
+T249	Term-AttentionRank 1206 1213	cambios
+T250	Term-AttentionRank 1373 1380	cambios
+T251	Term-AttentionRank 1282 1290	personal
+T252	Term-AttentionRank 208 215	trabajo
+T253	Term-AttentionRank 288 295	trabajo
+T254	Term-AttentionRank 1270 1277	trabajo
+T255	Term-AttentionRank 1608 1643	personas afectadas por la reducción
+T256	Term-AttentionRank 660 665	casos
+T257	Term-AttentionRank 807 811	caso
+T258	Term-LabourLaw 197 215	jornada de trabajo
+T259	Term-LabourLaw 1765 1785	periodo de consultas
+T260	Term-LabourLaw 36 59	suspensión del contrato
+T261	Term-LabourLaw 197 215	jornada de trabajo
+T262	Term-LabourLaw 1793 1813	representación legal
+T263	Term-LabourLaw 1705 1722	autoridad laboral
+T264	Term-LabourLaw 26 33	jornada
+T265	Term-LabourLaw 197 204	jornada
+T266	Term-LabourLaw 26 33	jornada
+T267	Term-LabourLaw 197 204	jornada
+T268	Term-LabourLaw 208 215	trabajo
+T269	Term-LabourLaw 288 295	trabajo
+T270	Term-LabourLaw 1270 1277	trabajo
+T271	Term-LabourLaw 51 59	contrato
+T272	Term-LabourLaw 275 283	contrato
+T273	Term-LabourLaw 1401 1408	demanda
+T274	Term-LabourLaw 232 242	trabajador
+T275	Term-LabourLaw 1566 1576	trabajador
+T276	Term-LabourLaw 1830 1840	trabajador
+T277	Term-LabourLaw 1114 1120	ámbito
+T278	Term-LabourLaw 1234 1240	ámbito
+T279	Term-LabourLaw 39 46	pensión
+T280	Term-LabourLaw 1656 1663	pensión
+T281	Term-LabourLaw 1705 1714	autoridad
+T282	Term-LabourLaw 1428 1436	servicio
+T283	Term-LabourLaw 158 165	empresa
+T284	Term-LabourLaw 602 609	empresa
+T285	Term-LabourLaw 1445 1452	empresa
+T286	Term-LabourLaw 1585 1592	empresa
+T287	Term-LabourLaw 1846 1854	duración
+T288	Term-LabourLaw 430 443	procedimiento
+T289	Term-LabourLaw 1491 1504	procedimiento
+T290	Term-LabourLaw 36 46	suspensión
+T291	Term-LabourLaw 1653 1663	suspensión
+T292	Term-LabourLaw 1282 1290	personal
+T293	Term-LabourLaw 1765 1772	periodo
+T294	Term-LabourLaw 223 230	persona
+T295	Term-LabourLaw 1282 1289	persona
+T296	Term-LabourLaw 1557 1564	persona
+T297	Term-LabourLaw 1608 1615	persona
+T298	Term-LabourLaw 1821 1828	persona
+T299	Term-IATE 0 8	Artículo
+T300	Term-IATE 416 424	artículo
+T301	Term-IATE 517 525	artículo
+T302	Term-IATE 760 765	nivel
+T303	Term-IATE 902 907	nivel
+T304	Term-IATE 158 165	empresa
+T305	Term-IATE 602 609	empresa
+T306	Term-IATE 1445 1452	empresa
+T307	Term-IATE 1585 1592	empresa
+T308	Term-IATE 13 22	Reducción
+T309	Term-IATE 1634 1643	reducción
+T310	Term-IATE 627 636	situación
+T311	Term-IATE 36 46	suspensión
+T312	Term-IATE 1653 1663	suspensión
+T313	Term-IATE 1776 1785	consultas
+T314	Term-IATE 430 443	procedimiento
+T315	Term-IATE 1491 1504	procedimiento
+T316	Term-IATE 363 371	carácter
+T317	Term-IATE 51 59	contrato
+T318	Term-IATE 275 284	contratos
+T319	Term-IATE 486 493	efectos
+T320	Term-IATE 1248 1256	sistemas
+T321	Term-IATE 1846 1854	duración

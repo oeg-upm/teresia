@@ -1,249 +1,249 @@
-T1 Term-DPEJ 633 638 casos
-T2 Term-DPEJ 1717 1721 caso
-T3 Term-DPEJ 16 23 acuerdo
-T4 Term-DPEJ 838 852 consanguinidad
-T5 Term-DPEJ 1557 1579 procedimiento arbitral
-T6 Term-DPEJ 1320 1325 letra
-T7 Term-DPEJ 1095 1104 arbitraje
-T8 Term-DPEJ 308 315 mandato
-T9 Term-DPEJ 1219 1226 mandato
-T10 Term-DPEJ 1508 1512 tipo
-T11 Term-DPEJ 1544 1549 lugar
-T12 Term-DPEJ 240 253 participación
-T13 Term-DPEJ 125 130 forma
-T14 Term-DPEJ 1697 1707 elecciones
-T15 Term-DPEJ 1768 1778 elecciones
-T16 Term-DPEJ 742 749 entidad
-T17 Term-DPEJ 973 982 entidades
-T18 Term-DPEJ 1528 1541 circunstancia
-T19 Term-DPEJ 452 462 personales
-T20 Term-DPEJ 668 676 personal
-T21 Term-DPEJ 199 207 árbitros
-T22 Term-DPEJ 323 331 árbitros
-T23 Term-DPEJ 484 492 árbitros
-T24 Term-DPEJ 565 573 árbitros
-T25 Term-DPEJ 1339 1347 relación
-T26 Term-DPEJ 499 505 medida
-T27 Term-DPEJ 1351 1359 servicio
-T28 Term-DPEJ 1471 1480 servicios
-T29 Term-DPEJ 346 350 años
-T30 Term-DPEJ 1466 1470 años
-T31 Term-DPEJ 1557 1570 procedimiento
-T32 Term-Termcat 1657 1666 autoridad
-T33 Term-Termcat 81 90 autoridad
-T34 Term-Termcat 742 749 entidad
-T35 Term-Termcat 973 982 entidades
-T36 Term-Termcat 278 290 nombramiento
-T37 Term-Termcat 1339 1359 relación de servicio
-T38 Term-Termcat 1471 1480 servicios
-T39 Term-Termcat 882 890 afinidad
-T40 Term-Termcat 838 852 consanguinidad
-T41 Term-Termcat 308 315 mandato
-T42 Term-Termcat 1219 1226 mandato
-T43 Term-Termcat 731 739 sociedad
-T44 Term-Termcat 985 995 sociedades
-T45 Term-Termcat 125 130 forma
-T46 Term-Termcat 871 876 grado
-T47 Term-Termcat 660 667 interés
-T48 Term-Termcat 824 834 parentesco
-T49 Term-Termcat 1199 1213 representación
-T50 Term-Termcat 1036 1050 representantes
-T51 Term-Termcat 1095 1104 arbitraje
-T52 Term-Termcat 807 813 partes
-T53 Term-Termcat 389 403 Administración
-T54 Term-Termcat 81 98 autoridad laboral
-T55 Term-Termcat 1657 1674 autoridad laboral
-T56 Term-Termcat 261 271 sindicatos
-T57 Term-Termcat 42 52 sindicatos
-T58 Term-Termcat 452 462 personales
-T59 Term-Termcat 668 676 personal
-T60 Term-Termcat 295 303 duración
-T61 Term-Termcat 1293 1301 personas
-T62 Term-Termcat 1364 1371 persona
-T63 Term-Termcat 445 451 medios
-T64 Term-Termcat 933 944 interesados
-T65 Term-Termcat 714 727 administrador
-T66 Term-Termcat 954 969 administradores
-T67 Term-Termcat 1061 1072 mandatarios
-T68 Term-Termcat 16 23 acuerdo
-T69 Term-Termcat 1528 1541 circunstancia
-T70 Term-Termcat 1125 1133 despacho
-T71 Term-Termcat 1768 1778 elecciones
-T72 Term-Termcat 1697 1707 elecciones
-T73 Term-Termcat 1508 1512 tipo
-T74 Term-Termcat 178 191 imparcialidad
-T75 Term-Termcat 1789 1800 impugnación
-T76 Term-Termcat 1051 1058 legales
-T77 Term-Termcat 240 253 participación
-T78 Term-Termcat 1364 1379 persona natural
-T79 Term-Termcat 164 174 principios
-T80 Term-Termcat 1557 1570 procedimiento
-T81 Term-Termcat 1351 1359 servicio
-T82 Term-Termcat 582 592 abstenerse
-T83 Term-Termcat 99 109 competente
-T84 Term-Termcat 1036 1058 representantes legales
-T85 Term-DV 1364 1379 persona natural
-T86 Term-DV 574 578 debe
-T87 Term-DV 602 609 defecto
-T88 Term-DV 447 451 dios
-T89 Term-DV 735 739 edad
-T90 Term-DV 989 993 edad
-T91 Term-DV 1697 1707 elecciones
-T92 Term-DV 1768 1778 elecciones
-T93 Term-DV 604 606 fe
-T94 Term-DV 1137 1139 fe
-T95 Term-DV 1484 1486 fe
-T96 Term-DV 125 130 forma
-T97 Term-DV 1430 1435 haber
-T98 Term-DV 178 191 imparcialidad
-T99 Term-DV 91 98 laboral
-T100 Term-DV 404 411 laboral
-T101 Term-DV 1667 1674 laboral
-T102 Term-DV 1051 1056 legal
-T103 Term-DV 779 786 litigio
-T104 Term-DV 308 313 manda
-T105 Term-DV 1061 1066 manda
-T106 Term-DV 1219 1224 manda
-T107 Term-DV 1061 1071 mandatario
-T108 Term-DV 308 315 mandato
-T109 Term-DV 1219 1226 mandato
-T110 Term-DV 139 145 nación
-T111 Term-DV 1794 1800 nación
-T112 Term-DV 278 290 nombramiento
-T113 Term-DV 376 384 novación
-T114 Term-DV 1779 1785 objeto
-T115 Term-DV 180 187 parcial
-T116 Term-DV 180 191 parcialidad
-T117 Term-DV 824 834 parentesco
-T118 Term-DV 516 520 para
-T119 Term-DV 1173 1177 para
-T120 Term-DV 807 812 parte
-T121 Term-DV 240 253 participación
-T122 Term-DV 452 459 persona
-T123 Term-DV 668 675 persona
-T124 Term-DV 1293 1300 persona
-T125 Term-DV 1364 1371 persona
-T126 Term-DV 452 460 personal
-T127 Term-DV 668 676 personal
-T128 Term-DV 209 220 posibilidad
-T129 Term-DV 1201 1213 presentación
-T130 Term-DV 164 173 principio
-T131 Term-DV 1557 1570 procedimiento
-T132 Term-DV 1134 1145 profesional
-T133 Term-DV 1481 1492 profesional
-T134 Term-DV 228 236 recusado
-T135 Term-DV 615 623 recusado
-T136 Term-DV 1199 1213 representación
-T137 Term-DV 53 57 seña
-T138 Term-DV 1351 1359 servicio
-T139 Term-DV 1471 1479 servicio
-T140 Term-DV 42 51 sindicato
-T141 Term-DV 261 270 sindicato
-T142 Term-DV 731 739 sociedad
-T143 Term-DV 985 993 sociedad
-T144 Term-DV 7 8 x
-T145 Term-AttentionRank 1036 1050 representantes
-T146 Term-AttentionRank 1364 1379 persona natural
-T147 Term-AttentionRank 807 813 partes
-T148 Term-AttentionRank 1036 1058 representantes legales
-T149 Term-AttentionRank 1036 1058 representantes legales
-T150 Term-AttentionRank 838 852 consanguinidad
-T151 Term-AttentionRank 16 23 acuerdo
-T152 Term-AttentionRank 81 90 autoridad
-T153 Term-AttentionRank 1657 1666 autoridad
-T154 Term-AttentionRank 346 350 años
-T155 Term-AttentionRank 1466 1470 años
-T156 Term-AttentionRank 1623 1638 oficina pública
-T157 Term-AttentionRank 1125 1145 despacho profesional
-T158 Term-AttentionRank 308 315 mandato
-T159 Term-AttentionRank 1219 1226 mandato
-T160 Term-AttentionRank 1339 1347 relación
-T161 Term-AttentionRank 499 505 medida
-T162 Term-AttentionRank 1106 1109 así
-T163 Term-AttentionRank 1471 1494 servicios profesionales
-T164 Term-AttentionRank 42 52 sindicatos
-T165 Term-AttentionRank 261 271 sindicatos
-T166 Term-AttentionRank 1557 1570 procedimiento
-T167 Term-AttentionRank 81 98 autoridad laboral
-T168 Term-AttentionRank 1657 1674 autoridad laboral
-T169 Term-AttentionRank 864 876 cuarto grado
-T170 Term-AttentionRank 1293 1301 personas
-T171 Term-AttentionRank 1364 1371 persona
-T172 Term-AttentionRank 1237 1251 amistad íntima
-T173 Term-AttentionRank 742 749 entidad
-T174 Term-AttentionRank 973 982 entidades
-T175 Term-AttentionRank 240 253 participación
-T176 Term-AttentionRank 1544 1549 lugar
-T177 Term-AttentionRank 1293 1327 personas mencionadas en la letra c
-T178 Term-AttentionRank 295 303 duración
-T179 Term-AttentionRank 1351 1359 servicio
-T180 Term-AttentionRank 1471 1480 servicios
-T181 Term-AttentionRank 445 462 medios personales
-T182 Term-AttentionRank 770 788 cuestión litigiosa
-T183 Term-AttentionRank 1528 1541 circunstancia
-T184 Term-AttentionRank 1751 1761 candidatos
-T185 Term-AttentionRank 1199 1213 representación
-T186 Term-AttentionRank 125 130 forma
-T187 Term-AttentionRank 16 31 acuerdo unánime
-T188 Term-AttentionRank 42 76 sindicatos señalados anteriormente
-T189 Term-AttentionRank 1320 1325 letra
-T190 Term-AttentionRank 1557 1579 procedimiento arbitral
-T191 Term-AttentionRank 452 462 personales
-T192 Term-AttentionRank 668 676 personal
-T193 Term-AttentionRank 199 207 árbitros
-T194 Term-AttentionRank 323 331 árbitros
-T195 Term-AttentionRank 484 492 árbitros
-T196 Term-AttentionRank 565 573 árbitros
-T197 Term-AttentionRank 633 638 casos
-T198 Term-AttentionRank 1717 1721 caso
-T199 Term-LabourLaw 1623 1638 oficina pública
-T200 Term-LabourLaw 81 98 autoridad laboral
-T201 Term-LabourLaw 1657 1674 autoridad laboral
-T202 Term-LabourLaw 1471 1494 servicios profesionales
-T203 Term-LabourLaw 499 505 medida
-T204 Term-LabourLaw 240 253 participación
-T205 Term-LabourLaw 1036 1049 representante
-T206 Term-LabourLaw 308 315 mandato
-T207 Term-LabourLaw 1219 1226 mandato
-T208 Term-LabourLaw 42 51 sindicato
-T209 Term-LabourLaw 261 270 sindicato
-T210 Term-LabourLaw 574 579 deber
-T211 Term-LabourLaw 81 90 autoridad
-T212 Term-LabourLaw 1657 1666 autoridad
-T213 Term-LabourLaw 602 609 defecto
-T214 Term-LabourLaw 1351 1359 servicio
-T215 Term-LabourLaw 1471 1479 servicio
-T216 Term-LabourLaw 735 739 edad
-T217 Term-LabourLaw 989 993 edad
-T218 Term-LabourLaw 164 173 principio
-T219 Term-LabourLaw 295 303 duración
-T220 Term-LabourLaw 1557 1570 procedimiento
-T221 Term-LabourLaw 882 890 afinidad
-T222 Term-LabourLaw 838 852 consanguinidad
-T223 Term-LabourLaw 452 460 personal
-T224 Term-LabourLaw 668 676 personal
-T225 Term-LabourLaw 871 876 grado
-T226 Term-LabourLaw 731 739 sociedad
-T227 Term-LabourLaw 985 993 sociedad
-T228 Term-LabourLaw 1756 1761 datos
-T229 Term-LabourLaw 452 459 persona
-T230 Term-LabourLaw 668 675 persona
-T231 Term-LabourLaw 1293 1300 persona
-T232 Term-LabourLaw 1364 1371 persona
-T233 Term-IATE 807 813 partes
-T234 Term-IATE 16 23 acuerdo
-T235 Term-IATE 199 207 árbitros
-T236 Term-IATE 323 331 árbitros
-T237 Term-IATE 484 492 árbitros
-T238 Term-IATE 565 573 árbitros
-T239 Term-IATE 308 315 mandato
-T240 Term-IATE 1219 1226 mandato
-T241 Term-IATE 1557 1570 procedimiento
-T242 Term-IATE 240 253 participación
-T243 Term-IATE 838 852 consanguinidad
-T244 Term-IATE 742 749 entidad
-T245 Term-IATE 973 982 entidades
-T246 Term-IATE 1036 1050 representantes
-T247 Term-IATE 1320 1325 letra
-T248 Term-IATE 295 303 duración
-T249 Term-IATE 1751 1761 candidatos
+T1	Term-DPEJ 633 638	casos
+T2	Term-DPEJ 1717 1721	caso
+T3	Term-DPEJ 16 23	acuerdo
+T4	Term-DPEJ 838 852	consanguinidad
+T5	Term-DPEJ 1557 1579	procedimiento arbitral
+T6	Term-DPEJ 1320 1325	letra
+T7	Term-DPEJ 1095 1104	arbitraje
+T8	Term-DPEJ 308 315	mandato
+T9	Term-DPEJ 1219 1226	mandato
+T10	Term-DPEJ 1508 1512	tipo
+T11	Term-DPEJ 1544 1549	lugar
+T12	Term-DPEJ 240 253	participación
+T13	Term-DPEJ 125 130	forma
+T14	Term-DPEJ 1697 1707	elecciones
+T15	Term-DPEJ 1768 1778	elecciones
+T16	Term-DPEJ 742 749	entidad
+T17	Term-DPEJ 973 982	entidades
+T18	Term-DPEJ 1528 1541	circunstancia
+T19	Term-DPEJ 452 462	personales
+T20	Term-DPEJ 668 676	personal
+T21	Term-DPEJ 199 207	árbitros
+T22	Term-DPEJ 323 331	árbitros
+T23	Term-DPEJ 484 492	árbitros
+T24	Term-DPEJ 565 573	árbitros
+T25	Term-DPEJ 1339 1347	relación
+T26	Term-DPEJ 499 505	medida
+T27	Term-DPEJ 1351 1359	servicio
+T28	Term-DPEJ 1471 1480	servicios
+T29	Term-DPEJ 346 350	años
+T30	Term-DPEJ 1466 1470	años
+T31	Term-DPEJ 1557 1570	procedimiento
+T32	Term-Termcat 1657 1666	autoridad
+T33	Term-Termcat 81 90	autoridad
+T34	Term-Termcat 742 749	entidad
+T35	Term-Termcat 973 982	entidades
+T36	Term-Termcat 278 290	nombramiento
+T37	Term-Termcat 1339 1359	relación de servicio
+T38	Term-Termcat 1471 1480	servicios
+T39	Term-Termcat 882 890	afinidad
+T40	Term-Termcat 838 852	consanguinidad
+T41	Term-Termcat 308 315	mandato
+T42	Term-Termcat 1219 1226	mandato
+T43	Term-Termcat 731 739	sociedad
+T44	Term-Termcat 985 995	sociedades
+T45	Term-Termcat 125 130	forma
+T46	Term-Termcat 871 876	grado
+T47	Term-Termcat 660 667	interés
+T48	Term-Termcat 824 834	parentesco
+T49	Term-Termcat 1199 1213	representación
+T50	Term-Termcat 1036 1050	representantes
+T51	Term-Termcat 1095 1104	arbitraje
+T52	Term-Termcat 807 813	partes
+T53	Term-Termcat 389 403	Administración
+T54	Term-Termcat 81 98	autoridad laboral
+T55	Term-Termcat 1657 1674	autoridad laboral
+T56	Term-Termcat 261 271	sindicatos
+T57	Term-Termcat 42 52	sindicatos
+T58	Term-Termcat 452 462	personales
+T59	Term-Termcat 668 676	personal
+T60	Term-Termcat 295 303	duración
+T61	Term-Termcat 1293 1301	personas
+T62	Term-Termcat 1364 1371	persona
+T63	Term-Termcat 445 451	medios
+T64	Term-Termcat 933 944	interesados
+T65	Term-Termcat 714 727	administrador
+T66	Term-Termcat 954 969	administradores
+T67	Term-Termcat 1061 1072	mandatarios
+T68	Term-Termcat 16 23	acuerdo
+T69	Term-Termcat 1528 1541	circunstancia
+T70	Term-Termcat 1125 1133	despacho
+T71	Term-Termcat 1768 1778	elecciones
+T72	Term-Termcat 1697 1707	elecciones
+T73	Term-Termcat 1508 1512	tipo
+T74	Term-Termcat 178 191	imparcialidad
+T75	Term-Termcat 1789 1800	impugnación
+T76	Term-Termcat 1051 1058	legales
+T77	Term-Termcat 240 253	participación
+T78	Term-Termcat 1364 1379	persona natural
+T79	Term-Termcat 164 174	principios
+T80	Term-Termcat 1557 1570	procedimiento
+T81	Term-Termcat 1351 1359	servicio
+T82	Term-Termcat 582 592	abstenerse
+T83	Term-Termcat 99 109	competente
+T84	Term-Termcat 1036 1058	representantes legales
+T85	Term-DV 1364 1379	persona natural
+T86	Term-DV 574 578	debe
+T87	Term-DV 602 609	defecto
+T88	Term-DV 447 451	dios
+T89	Term-DV 735 739	edad
+T90	Term-DV 989 993	edad
+T91	Term-DV 1697 1707	elecciones
+T92	Term-DV 1768 1778	elecciones
+T93	Term-DV 604 606	fe
+T94	Term-DV 1137 1139	fe
+T95	Term-DV 1484 1486	fe
+T96	Term-DV 125 130	forma
+T97	Term-DV 1430 1435	haber
+T98	Term-DV 178 191	imparcialidad
+T99	Term-DV 91 98	laboral
+T100	Term-DV 404 411	laboral
+T101	Term-DV 1667 1674	laboral
+T102	Term-DV 1051 1056	legal
+T103	Term-DV 779 786	litigio
+T104	Term-DV 308 313	manda
+T105	Term-DV 1061 1066	manda
+T106	Term-DV 1219 1224	manda
+T107	Term-DV 1061 1071	mandatario
+T108	Term-DV 308 315	mandato
+T109	Term-DV 1219 1226	mandato
+T110	Term-DV 139 145	nación
+T111	Term-DV 1794 1800	nación
+T112	Term-DV 278 290	nombramiento
+T113	Term-DV 376 384	novación
+T114	Term-DV 1779 1785	objeto
+T115	Term-DV 180 187	parcial
+T116	Term-DV 180 191	parcialidad
+T117	Term-DV 824 834	parentesco
+T118	Term-DV 516 520	para
+T119	Term-DV 1173 1177	para
+T120	Term-DV 807 812	parte
+T121	Term-DV 240 253	participación
+T122	Term-DV 452 459	persona
+T123	Term-DV 668 675	persona
+T124	Term-DV 1293 1300	persona
+T125	Term-DV 1364 1371	persona
+T126	Term-DV 452 460	personal
+T127	Term-DV 668 676	personal
+T128	Term-DV 209 220	posibilidad
+T129	Term-DV 1201 1213	presentación
+T130	Term-DV 164 173	principio
+T131	Term-DV 1557 1570	procedimiento
+T132	Term-DV 1134 1145	profesional
+T133	Term-DV 1481 1492	profesional
+T134	Term-DV 228 236	recusado
+T135	Term-DV 615 623	recusado
+T136	Term-DV 1199 1213	representación
+T137	Term-DV 53 57	seña
+T138	Term-DV 1351 1359	servicio
+T139	Term-DV 1471 1479	servicio
+T140	Term-DV 42 51	sindicato
+T141	Term-DV 261 270	sindicato
+T142	Term-DV 731 739	sociedad
+T143	Term-DV 985 993	sociedad
+T144	Term-DV 7 8	x
+T145	Term-AttentionRank 1036 1050	representantes
+T146	Term-AttentionRank 1364 1379	persona natural
+T147	Term-AttentionRank 807 813	partes
+T148	Term-AttentionRank 1036 1058	representantes legales
+T149	Term-AttentionRank 1036 1058	representantes legales
+T150	Term-AttentionRank 838 852	consanguinidad
+T151	Term-AttentionRank 16 23	acuerdo
+T152	Term-AttentionRank 81 90	autoridad
+T153	Term-AttentionRank 1657 1666	autoridad
+T154	Term-AttentionRank 346 350	años
+T155	Term-AttentionRank 1466 1470	años
+T156	Term-AttentionRank 1623 1638	oficina pública
+T157	Term-AttentionRank 1125 1145	despacho profesional
+T158	Term-AttentionRank 308 315	mandato
+T159	Term-AttentionRank 1219 1226	mandato
+T160	Term-AttentionRank 1339 1347	relación
+T161	Term-AttentionRank 499 505	medida
+T162	Term-AttentionRank 1106 1109	así
+T163	Term-AttentionRank 1471 1494	servicios profesionales
+T164	Term-AttentionRank 42 52	sindicatos
+T165	Term-AttentionRank 261 271	sindicatos
+T166	Term-AttentionRank 1557 1570	procedimiento
+T167	Term-AttentionRank 81 98	autoridad laboral
+T168	Term-AttentionRank 1657 1674	autoridad laboral
+T169	Term-AttentionRank 864 876	cuarto grado
+T170	Term-AttentionRank 1293 1301	personas
+T171	Term-AttentionRank 1364 1371	persona
+T172	Term-AttentionRank 1237 1251	amistad íntima
+T173	Term-AttentionRank 742 749	entidad
+T174	Term-AttentionRank 973 982	entidades
+T175	Term-AttentionRank 240 253	participación
+T176	Term-AttentionRank 1544 1549	lugar
+T177	Term-AttentionRank 1293 1327	personas mencionadas en la letra c
+T178	Term-AttentionRank 295 303	duración
+T179	Term-AttentionRank 1351 1359	servicio
+T180	Term-AttentionRank 1471 1480	servicios
+T181	Term-AttentionRank 445 462	medios personales
+T182	Term-AttentionRank 770 788	cuestión litigiosa
+T183	Term-AttentionRank 1528 1541	circunstancia
+T184	Term-AttentionRank 1751 1761	candidatos
+T185	Term-AttentionRank 1199 1213	representación
+T186	Term-AttentionRank 125 130	forma
+T187	Term-AttentionRank 16 31	acuerdo unánime
+T188	Term-AttentionRank 42 76	sindicatos señalados anteriormente
+T189	Term-AttentionRank 1320 1325	letra
+T190	Term-AttentionRank 1557 1579	procedimiento arbitral
+T191	Term-AttentionRank 452 462	personales
+T192	Term-AttentionRank 668 676	personal
+T193	Term-AttentionRank 199 207	árbitros
+T194	Term-AttentionRank 323 331	árbitros
+T195	Term-AttentionRank 484 492	árbitros
+T196	Term-AttentionRank 565 573	árbitros
+T197	Term-AttentionRank 633 638	casos
+T198	Term-AttentionRank 1717 1721	caso
+T199	Term-LabourLaw 1623 1638	oficina pública
+T200	Term-LabourLaw 81 98	autoridad laboral
+T201	Term-LabourLaw 1657 1674	autoridad laboral
+T202	Term-LabourLaw 1471 1494	servicios profesionales
+T203	Term-LabourLaw 499 505	medida
+T204	Term-LabourLaw 240 253	participación
+T205	Term-LabourLaw 1036 1049	representante
+T206	Term-LabourLaw 308 315	mandato
+T207	Term-LabourLaw 1219 1226	mandato
+T208	Term-LabourLaw 42 51	sindicato
+T209	Term-LabourLaw 261 270	sindicato
+T210	Term-LabourLaw 574 579	deber
+T211	Term-LabourLaw 81 90	autoridad
+T212	Term-LabourLaw 1657 1666	autoridad
+T213	Term-LabourLaw 602 609	defecto
+T214	Term-LabourLaw 1351 1359	servicio
+T215	Term-LabourLaw 1471 1479	servicio
+T216	Term-LabourLaw 735 739	edad
+T217	Term-LabourLaw 989 993	edad
+T218	Term-LabourLaw 164 173	principio
+T219	Term-LabourLaw 295 303	duración
+T220	Term-LabourLaw 1557 1570	procedimiento
+T221	Term-LabourLaw 882 890	afinidad
+T222	Term-LabourLaw 838 852	consanguinidad
+T223	Term-LabourLaw 452 460	personal
+T224	Term-LabourLaw 668 676	personal
+T225	Term-LabourLaw 871 876	grado
+T226	Term-LabourLaw 731 739	sociedad
+T227	Term-LabourLaw 985 993	sociedad
+T228	Term-LabourLaw 1756 1761	datos
+T229	Term-LabourLaw 452 459	persona
+T230	Term-LabourLaw 668 675	persona
+T231	Term-LabourLaw 1293 1300	persona
+T232	Term-LabourLaw 1364 1371	persona
+T233	Term-IATE 807 813	partes
+T234	Term-IATE 16 23	acuerdo
+T235	Term-IATE 199 207	árbitros
+T236	Term-IATE 323 331	árbitros
+T237	Term-IATE 484 492	árbitros
+T238	Term-IATE 565 573	árbitros
+T239	Term-IATE 308 315	mandato
+T240	Term-IATE 1219 1226	mandato
+T241	Term-IATE 1557 1570	procedimiento
+T242	Term-IATE 240 253	participación
+T243	Term-IATE 838 852	consanguinidad
+T244	Term-IATE 742 749	entidad
+T245	Term-IATE 973 982	entidades
+T246	Term-IATE 1036 1050	representantes
+T247	Term-IATE 1320 1325	letra
+T248	Term-IATE 295 303	duración
+T249	Term-IATE 1751 1761	candidatos

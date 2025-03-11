@@ -1,329 +1,329 @@
-T1 Term-DPEJ 1644 1648 caso
-T2 Term-DPEJ 1829 1835 reglas
-T3 Term-DPEJ 553 564 negociación
-T4 Term-DPEJ 1878 1895 centro de trabajo
-T5 Term-DPEJ 153 160 trabajo
-T6 Term-DPEJ 633 640 trabajo
-T7 Term-DPEJ 1124 1131 trabajo
-T8 Term-DPEJ 1617 1624 trabajo
-T9 Term-DPEJ 1888 1895 trabajo
-T10 Term-DPEJ 84 91 empresa
-T11 Term-DPEJ 1378 1385 empresa
-T12 Term-DPEJ 1557 1564 empresa
-T13 Term-DPEJ 1924 1931 empresa
-T14 Term-DPEJ 1914 1920 comité
-T15 Term-DPEJ 1362 1371 dirección
-T16 Term-DPEJ 974 987 consecuencias
-T17 Term-DPEJ 315 321 causas
-T18 Term-DPEJ 823 829 causas
-T19 Term-DPEJ 591 603 modificación
-T20 Term-DPEJ 1914 1931 comité de empresa
-T21 Term-DPEJ 429 432 ley
-T22 Term-DPEJ 553 574 negociación colectiva
-T23 Term-DPEJ 1590 1598 personal
-T24 Term-DPEJ 1953 1961 personal
-T25 Term-DPEJ 61 69 apartado
-T26 Term-DPEJ 250 258 apartado
-T27 Term-DPEJ 579 587 decisión
-T28 Term-DPEJ 848 856 decisión
-T29 Term-DPEJ 938 945 medidas
-T30 Term-DPEJ 496 510 procedimientos
-T31 Term-DPEJ 1185 1198 procedimiento
-T32 Term-DPEJ 1392 1405 procedimiento
-T33 Term-DPEJ 1846 1859 procedimiento
-T34 Term-DPEJ 1113 1120 centros
-T35 Term-DPEJ 1160 1167 centros
-T36 Term-DPEJ 1606 1613 centros
-T37 Term-DPEJ 1695 1702 centros
-T38 Term-DPEJ 1878 1884 centro
-T39 Term-DPEJ 202 208 número
-T40 Term-Termcat 553 574 negociación colectiva
-T41 Term-Termcat 1089 1093 bien
-T42 Term-Termcat 419 432 fraude de ley
-T43 Term-Termcat 1512 1526 representación
-T44 Term-Termcat 1276 1290 representación
-T45 Term-Termcat 718 732 representantes
-T46 Term-Termcat 1767 1779 intervención
-T47 Term-Termcat 1321 1333 intervención
-T48 Term-Termcat 429 432 ley
-T49 Term-Termcat 1310 1316 partes
-T50 Term-Termcat 1878 1895 centro de trabajo
-T51 Term-Termcat 1064 1084 comisión negociadora
-T52 Term-Termcat 1203 1223 comisión negociadora
-T53 Term-Termcat 1914 1931 comité de empresa
-T54 Term-Termcat 138 160 condiciones de trabajo
-T55 Term-Termcat 618 640 condiciones de trabajo
-T56 Term-Termcat 1362 1371 dirección
-T57 Term-Termcat 84 91 empresa
-T58 Term-Termcat 1557 1564 empresa
-T59 Term-Termcat 1378 1385 empresa
-T60 Term-Termcat 1124 1131 trabajo
-T61 Term-Termcat 1617 1624 trabajo
-T62 Term-Termcat 1590 1598 personal
-T63 Term-Termcat 1953 1961 personal
-T64 Term-Termcat 765 773 duración
-T65 Term-Termcat 579 587 decisión
-T66 Term-Termcat 848 856 decisión
-T67 Term-Termcat 591 603 modificación
-T68 Term-Termcat 553 564 negociación
-T69 Term-Termcat 349 358 actuación
-T70 Term-Termcat 823 829 causas
-T71 Term-Termcat 315 321 causas
-T72 Term-Termcat 653 662 colectivo
-T73 Term-Termcat 464 470 efecto
-T74 Term-Termcat 910 917 efectos
-T75 Term-Termcat 857 868 empresarial
-T76 Term-Termcat 733 740 legales
-T77 Term-Termcat 479 488 perjuicio
-T78 Term-Termcat 496 510 procedimientos
-T79 Term-Termcat 1846 1859 procedimiento
-T80 Term-Termcat 1185 1198 procedimiento
-T81 Term-Termcat 1392 1405 procedimiento
-T82 Term-Termcat 1829 1835 reglas
-T83 Term-Termcat 777 785 superior
-T84 Term-Termcat 1064 1072 comisión
-T85 Term-Termcat 1203 1211 comisión
-T86 Term-Termcat 419 425 fraude
-T87 Term-Termcat 898 905 reducir
-T88 Term-Termcat 718 740 representantes legales
-T89 Term-DV 751 755 baja
-T90 Term-DV 1000 1004 baja
-T91 Term-DV 1678 1682 baja
-T92 Term-DV 1089 1093 bien
-T93 Term-DV 315 320 causa
-T94 Term-DV 823 828 causa
-T95 Term-DV 1064 1072 comisión
-T96 Term-DV 1203 1211 comisión
-T97 Term-DV 1136 1139 dar
-T98 Term-DV 663 667 debe
-T99 Term-DV 579 587 decisión
-T100 Term-DV 848 856 decisión
-T101 Term-DV 1717 1724 defecto
-T102 Term-DV 194 197 día
-T103 Term-DV 795 798 día
-T104 Term-DV 1362 1371 dirección
-T105 Term-DV 910 917 efectos
-T106 Term-DV 84 91 empresa
-T107 Term-DV 857 864 empresa
-T108 Term-DV 1378 1385 empresa
-T109 Term-DV 1557 1564 empresa
-T110 Term-DV 1924 1931 empresa
-T111 Term-DV 211 213 fe
-T112 Term-DV 406 408 fe
-T113 Term-DV 465 467 fe
-T114 Term-DV 911 913 fe
-T115 Term-DV 1011 1013 fe
-T116 Term-DV 1169 1171 fe
-T117 Term-DV 1626 1628 fe
-T118 Term-DV 1704 1706 fe
-T119 Term-DV 1719 1721 fe
-T120 Term-DV 1861 1863 fe
-T121 Term-DV 419 425 fraude
-T122 Term-DV 482 488 juicio
-T123 Term-DV 655 662 lectivo
-T124 Term-DV 1579 1585 legado
-T125 Term-DV 1942 1948 legado
-T126 Term-DV 733 738 legal
-T127 Term-DV 429 432 ley
-T128 Term-DV 553 564 negociación
-T129 Term-DV 1073 1082 negociado
-T130 Term-DV 1212 1221 negociado
-T131 Term-DV 11 17 objeto
-T132 Term-DV 1065 1072 omisión
-T133 Term-DV 1204 1211 omisión
-T134 Term-DV 261 265 para
-T135 Term-DV 957 961 para
-T136 Term-DV 988 992 para
-T137 Term-DV 1310 1315 parte
-T138 Term-DV 479 488 perjuicio
-T139 Term-DV 1590 1597 persona
-T140 Term-DV 1953 1960 persona
-T141 Term-DV 1590 1598 personal
-T142 Term-DV 1953 1961 personal
-T143 Term-DV 874 885 posibilidad
-T144 Term-DV 1278 1290 presentación
-T145 Term-DV 1514 1526 presentación
-T146 Term-DV 32 41 prevision
-T147 Term-DV 496 509 procedimiento
-T148 Term-DV 1185 1198 procedimiento
-T149 Term-DV 1392 1405 procedimiento
-T150 Term-DV 1846 1859 procedimiento
-T151 Term-DV 92 96 real
-T152 Term-DV 1276 1290 representación
-T153 Term-DV 1512 1526 representación
-T154 Term-DV 748 758 trabajador
-T155 Term-DV 997 1007 trabajador
-T156 Term-DV 1675 1685 trabajador
-T157 Term-DV 188 193 venta
-T158 Term-DV 35 38 vis
-T159 Term-DV 1734 1737 vis
-T160 Term-DV 1099 1100 x
-T161 Term-DV 1250 1251 x
-T162 Term-AttentionRank 718 732 representantes
-T163 Term-AttentionRank 765 787 duración no superior a
-T164 Term-AttentionRank 1141 1153 circunscrita
-T165 Term-AttentionRank 974 987 consecuencias
-T166 Term-AttentionRank 1310 1316 partes
-T167 Term-AttentionRank 718 740 representantes legales
-T168 Term-AttentionRank 718 740 representantes legales
-T169 Term-AttentionRank 553 574 negociación colectiva
-T170 Term-AttentionRank 194 198 días
-T171 Term-AttentionRank 795 799 días
-T172 Term-AttentionRank 1362 1371 dirección
-T173 Term-AttentionRank 315 321 causas
-T174 Term-AttentionRank 823 829 causas
-T175 Term-AttentionRank 997 1019 trabajadores afectados
-T176 Term-AttentionRank 700 709 consultas
-T177 Term-AttentionRank 1409 1418 consultas
-T178 Term-AttentionRank 1024 1032 consulta
-T179 Term-AttentionRank 1829 1835 reglas
-T180 Term-AttentionRank 765 785 duración no superior
-T181 Term-AttentionRank 164 172 periodos
-T182 Term-AttentionRank 689 696 periodo
-T183 Term-AttentionRank 938 945 medidas
-T184 Term-AttentionRank 644 652 carácter
-T185 Term-AttentionRank 1064 1084 comisión negociadora
-T186 Term-AttentionRank 1203 1223 comisión negociadora
-T187 Term-AttentionRank 919 922 así
-T188 Term-AttentionRank 1473 1476 así
-T189 Term-AttentionRank 479 522 perjuicio de los procedimientos específicos
-T190 Term-AttentionRank 1914 1920 comité
-T191 Term-AttentionRank 579 587 decisión
-T192 Term-AttentionRank 848 856 decisión
-T193 Term-AttentionRank 496 510 procedimientos
-T194 Term-AttentionRank 1185 1198 procedimiento
-T195 Term-AttentionRank 1392 1405 procedimiento
-T196 Term-AttentionRank 1846 1859 procedimiento
-T197 Term-AttentionRank 848 868 decisión empresarial
-T198 Term-AttentionRank 345 348 tal
-T199 Term-AttentionRank 591 603 modificación
-T200 Term-AttentionRank 823 841 causas motivadoras
-T201 Term-AttentionRank 1264 1272 miembros
-T202 Term-AttentionRank 591 614 modificación sustancial
-T203 Term-AttentionRank 1577 1586 delegados
-T204 Term-AttentionRank 1940 1949 delegados
-T205 Term-AttentionRank 765 773 duración
-T206 Term-AttentionRank 553 564 negociación
-T207 Term-AttentionRank 748 760 trabajadores
-T208 Term-AttentionRank 997 1009 trabajadores
-T209 Term-AttentionRank 1675 1687 trabajadores
-T210 Term-AttentionRank 1064 1072 comisión
-T211 Term-AttentionRank 1203 1211 comisión
-T212 Term-AttentionRank 84 91 empresa
-T213 Term-AttentionRank 1378 1385 empresa
-T214 Term-AttentionRank 1557 1564 empresa
-T215 Term-AttentionRank 1924 1931 empresa
-T216 Term-AttentionRank 1160 1177 centros afectados
-T217 Term-AttentionRank 1695 1712 centros afectados
-T218 Term-AttentionRank 1276 1290 representación
-T219 Term-AttentionRank 1512 1526 representación
-T220 Term-AttentionRank 121 130 tanciales
-T221 Term-AttentionRank 429 432 ley
-T222 Term-AttentionRank 1113 1120 centros
-T223 Term-AttentionRank 1160 1167 centros
-T224 Term-AttentionRank 1606 1613 centros
-T225 Term-AttentionRank 1695 1702 centros
-T226 Term-AttentionRank 1878 1884 centro
-T227 Term-AttentionRank 315 328 causas nuevas
-T228 Term-AttentionRank 202 208 número
-T229 Term-AttentionRank 164 185 periodos sucesivos de
-T230 Term-AttentionRank 464 470 efecto
-T231 Term-AttentionRank 910 917 efectos
-T232 Term-AttentionRank 1160 1198 centros afectados por el procedimiento
-T233 Term-AttentionRank 202 232 número inferior a los umbrales
-T234 Term-AttentionRank 1577 1598 delegados de personal
-T235 Term-AttentionRank 1940 1961 delegados de personal
-T236 Term-AttentionRank 1590 1598 personal
-T237 Term-AttentionRank 1953 1961 personal
-T238 Term-AttentionRank 153 160 trabajo
-T239 Term-AttentionRank 633 640 trabajo
-T240 Term-AttentionRank 1124 1131 trabajo
-T241 Term-AttentionRank 1617 1624 trabajo
-T242 Term-AttentionRank 1888 1895 trabajo
-T243 Term-AttentionRank 1439 1459 secciones sindicales
-T244 Term-AttentionRank 1644 1648 caso
-T245 Term-AttentionRank 61 69 apartado
-T246 Term-AttentionRank 250 258 apartado
-T247 Term-LabourLaw 1577 1598 delegados de personal
-T248 Term-LabourLaw 1940 1961 delegados de personal
-T249 Term-LabourLaw 1914 1931 comité de empresa
-T250 Term-LabourLaw 138 160 condiciones de trabajo
-T251 Term-LabourLaw 618 640 condiciones de trabajo
-T252 Term-LabourLaw 1878 1895 centro de trabajo
-T253 Term-LabourLaw 689 709 periodo de consultas
-T254 Term-LabourLaw 553 574 negociación colectiva
-T255 Term-LabourLaw 591 614 modificación sustancial
-T256 Term-LabourLaw 1064 1084 comisión negociadora
-T257 Term-LabourLaw 1203 1223 comisión negociadora
-T258 Term-LabourLaw 591 603 modificación
-T259 Term-LabourLaw 153 160 trabajo
-T260 Term-LabourLaw 633 640 trabajo
-T261 Term-LabourLaw 1124 1131 trabajo
-T262 Term-LabourLaw 1617 1624 trabajo
-T263 Term-LabourLaw 1888 1895 trabajo
-T264 Term-LabourLaw 938 944 medida
-T265 Term-LabourLaw 1362 1371 dirección
-T266 Term-LabourLaw 1064 1072 comisión
-T267 Term-LabourLaw 1203 1211 comisión
-T268 Term-LabourLaw 718 731 representante
-T269 Term-LabourLaw 748 758 trabajador
-T270 Term-LabourLaw 997 1007 trabajador
-T271 Term-LabourLaw 1675 1685 trabajador
-T272 Term-LabourLaw 429 432 ley
-T273 Term-LabourLaw 663 668 deber
-T274 Term-LabourLaw 1577 1585 delegado
-T275 Term-LabourLaw 1940 1948 delegado
-T276 Term-LabourLaw 1717 1724 defecto
-T277 Term-LabourLaw 84 91 empresa
-T278 Term-LabourLaw 857 864 empresa
-T279 Term-LabourLaw 1378 1385 empresa
-T280 Term-LabourLaw 1557 1564 empresa
-T281 Term-LabourLaw 1924 1931 empresa
-T282 Term-LabourLaw 765 773 duración
-T283 Term-LabourLaw 496 509 procedimiento
-T284 Term-LabourLaw 1185 1198 procedimiento
-T285 Term-LabourLaw 1392 1405 procedimiento
-T286 Term-LabourLaw 1846 1859 procedimiento
-T287 Term-LabourLaw 1546 1552 comité
-T288 Term-LabourLaw 1914 1920 comité
-T289 Term-LabourLaw 479 488 perjuicio
-T290 Term-LabourLaw 653 662 colectivo
-T291 Term-LabourLaw 1590 1598 personal
-T292 Term-LabourLaw 1953 1961 personal
-T293 Term-LabourLaw 164 171 periodo
-T294 Term-LabourLaw 689 696 periodo
-T295 Term-LabourLaw 1590 1597 persona
-T296 Term-LabourLaw 1953 1960 persona
-T297 Term-IATE 579 587 decisión
-T298 Term-IATE 848 856 decisión
-T299 Term-IATE 1310 1316 partes
-T300 Term-IATE 591 603 modificación
-T301 Term-IATE 84 91 empresa
-T302 Term-IATE 1378 1385 empresa
-T303 Term-IATE 1557 1564 empresa
-T304 Term-IATE 1924 1931 empresa
-T305 Term-IATE 1577 1586 delegados
-T306 Term-IATE 1940 1949 delegados
-T307 Term-IATE 700 709 consultas
-T308 Term-IATE 1409 1418 consultas
-T309 Term-IATE 1024 1032 consulta
-T310 Term-IATE 496 510 procedimientos
-T311 Term-IATE 1185 1198 procedimiento
-T312 Term-IATE 1392 1405 procedimiento
-T313 Term-IATE 1846 1859 procedimiento
-T314 Term-IATE 61 69 apartado
-T315 Term-IATE 250 258 apartado
-T316 Term-IATE 748 760 trabajadores
-T317 Term-IATE 997 1009 trabajadores
-T318 Term-IATE 1675 1687 trabajadores
-T319 Term-IATE 1264 1272 miembros
-T320 Term-IATE 644 652 carácter
-T321 Term-IATE 1914 1920 comité
-T322 Term-IATE 464 470 efecto
-T323 Term-IATE 910 917 efectos
-T324 Term-IATE 553 564 negociación
-T325 Term-IATE 1064 1072 comisión
-T326 Term-IATE 1203 1211 comisión
-T327 Term-IATE 718 732 representantes
-T328 Term-IATE 1362 1371 dirección
-T329 Term-IATE 765 773 duración
+T1	Term-DPEJ 1644 1648	caso
+T2	Term-DPEJ 1829 1835	reglas
+T3	Term-DPEJ 553 564	negociación
+T4	Term-DPEJ 1878 1895	centro de trabajo
+T5	Term-DPEJ 153 160	trabajo
+T6	Term-DPEJ 633 640	trabajo
+T7	Term-DPEJ 1124 1131	trabajo
+T8	Term-DPEJ 1617 1624	trabajo
+T9	Term-DPEJ 1888 1895	trabajo
+T10	Term-DPEJ 84 91	empresa
+T11	Term-DPEJ 1378 1385	empresa
+T12	Term-DPEJ 1557 1564	empresa
+T13	Term-DPEJ 1924 1931	empresa
+T14	Term-DPEJ 1914 1920	comité
+T15	Term-DPEJ 1362 1371	dirección
+T16	Term-DPEJ 974 987	consecuencias
+T17	Term-DPEJ 315 321	causas
+T18	Term-DPEJ 823 829	causas
+T19	Term-DPEJ 591 603	modificación
+T20	Term-DPEJ 1914 1931	comité de empresa
+T21	Term-DPEJ 429 432	ley
+T22	Term-DPEJ 553 574	negociación colectiva
+T23	Term-DPEJ 1590 1598	personal
+T24	Term-DPEJ 1953 1961	personal
+T25	Term-DPEJ 61 69	apartado
+T26	Term-DPEJ 250 258	apartado
+T27	Term-DPEJ 579 587	decisión
+T28	Term-DPEJ 848 856	decisión
+T29	Term-DPEJ 938 945	medidas
+T30	Term-DPEJ 496 510	procedimientos
+T31	Term-DPEJ 1185 1198	procedimiento
+T32	Term-DPEJ 1392 1405	procedimiento
+T33	Term-DPEJ 1846 1859	procedimiento
+T34	Term-DPEJ 1113 1120	centros
+T35	Term-DPEJ 1160 1167	centros
+T36	Term-DPEJ 1606 1613	centros
+T37	Term-DPEJ 1695 1702	centros
+T38	Term-DPEJ 1878 1884	centro
+T39	Term-DPEJ 202 208	número
+T40	Term-Termcat 553 574	negociación colectiva
+T41	Term-Termcat 1089 1093	bien
+T42	Term-Termcat 419 432	fraude de ley
+T43	Term-Termcat 1512 1526	representación
+T44	Term-Termcat 1276 1290	representación
+T45	Term-Termcat 718 732	representantes
+T46	Term-Termcat 1767 1779	intervención
+T47	Term-Termcat 1321 1333	intervención
+T48	Term-Termcat 429 432	ley
+T49	Term-Termcat 1310 1316	partes
+T50	Term-Termcat 1878 1895	centro de trabajo
+T51	Term-Termcat 1064 1084	comisión negociadora
+T52	Term-Termcat 1203 1223	comisión negociadora
+T53	Term-Termcat 1914 1931	comité de empresa
+T54	Term-Termcat 138 160	condiciones de trabajo
+T55	Term-Termcat 618 640	condiciones de trabajo
+T56	Term-Termcat 1362 1371	dirección
+T57	Term-Termcat 84 91	empresa
+T58	Term-Termcat 1557 1564	empresa
+T59	Term-Termcat 1378 1385	empresa
+T60	Term-Termcat 1124 1131	trabajo
+T61	Term-Termcat 1617 1624	trabajo
+T62	Term-Termcat 1590 1598	personal
+T63	Term-Termcat 1953 1961	personal
+T64	Term-Termcat 765 773	duración
+T65	Term-Termcat 579 587	decisión
+T66	Term-Termcat 848 856	decisión
+T67	Term-Termcat 591 603	modificación
+T68	Term-Termcat 553 564	negociación
+T69	Term-Termcat 349 358	actuación
+T70	Term-Termcat 823 829	causas
+T71	Term-Termcat 315 321	causas
+T72	Term-Termcat 653 662	colectivo
+T73	Term-Termcat 464 470	efecto
+T74	Term-Termcat 910 917	efectos
+T75	Term-Termcat 857 868	empresarial
+T76	Term-Termcat 733 740	legales
+T77	Term-Termcat 479 488	perjuicio
+T78	Term-Termcat 496 510	procedimientos
+T79	Term-Termcat 1846 1859	procedimiento
+T80	Term-Termcat 1185 1198	procedimiento
+T81	Term-Termcat 1392 1405	procedimiento
+T82	Term-Termcat 1829 1835	reglas
+T83	Term-Termcat 777 785	superior
+T84	Term-Termcat 1064 1072	comisión
+T85	Term-Termcat 1203 1211	comisión
+T86	Term-Termcat 419 425	fraude
+T87	Term-Termcat 898 905	reducir
+T88	Term-Termcat 718 740	representantes legales
+T89	Term-DV 751 755	baja
+T90	Term-DV 1000 1004	baja
+T91	Term-DV 1678 1682	baja
+T92	Term-DV 1089 1093	bien
+T93	Term-DV 315 320	causa
+T94	Term-DV 823 828	causa
+T95	Term-DV 1064 1072	comisión
+T96	Term-DV 1203 1211	comisión
+T97	Term-DV 1136 1139	dar
+T98	Term-DV 663 667	debe
+T99	Term-DV 579 587	decisión
+T100	Term-DV 848 856	decisión
+T101	Term-DV 1717 1724	defecto
+T102	Term-DV 194 197	día
+T103	Term-DV 795 798	día
+T104	Term-DV 1362 1371	dirección
+T105	Term-DV 910 917	efectos
+T106	Term-DV 84 91	empresa
+T107	Term-DV 857 864	empresa
+T108	Term-DV 1378 1385	empresa
+T109	Term-DV 1557 1564	empresa
+T110	Term-DV 1924 1931	empresa
+T111	Term-DV 211 213	fe
+T112	Term-DV 406 408	fe
+T113	Term-DV 465 467	fe
+T114	Term-DV 911 913	fe
+T115	Term-DV 1011 1013	fe
+T116	Term-DV 1169 1171	fe
+T117	Term-DV 1626 1628	fe
+T118	Term-DV 1704 1706	fe
+T119	Term-DV 1719 1721	fe
+T120	Term-DV 1861 1863	fe
+T121	Term-DV 419 425	fraude
+T122	Term-DV 482 488	juicio
+T123	Term-DV 655 662	lectivo
+T124	Term-DV 1579 1585	legado
+T125	Term-DV 1942 1948	legado
+T126	Term-DV 733 738	legal
+T127	Term-DV 429 432	ley
+T128	Term-DV 553 564	negociación
+T129	Term-DV 1073 1082	negociado
+T130	Term-DV 1212 1221	negociado
+T131	Term-DV 11 17	objeto
+T132	Term-DV 1065 1072	omisión
+T133	Term-DV 1204 1211	omisión
+T134	Term-DV 261 265	para
+T135	Term-DV 957 961	para
+T136	Term-DV 988 992	para
+T137	Term-DV 1310 1315	parte
+T138	Term-DV 479 488	perjuicio
+T139	Term-DV 1590 1597	persona
+T140	Term-DV 1953 1960	persona
+T141	Term-DV 1590 1598	personal
+T142	Term-DV 1953 1961	personal
+T143	Term-DV 874 885	posibilidad
+T144	Term-DV 1278 1290	presentación
+T145	Term-DV 1514 1526	presentación
+T146	Term-DV 32 41	prevision
+T147	Term-DV 496 509	procedimiento
+T148	Term-DV 1185 1198	procedimiento
+T149	Term-DV 1392 1405	procedimiento
+T150	Term-DV 1846 1859	procedimiento
+T151	Term-DV 92 96	real
+T152	Term-DV 1276 1290	representación
+T153	Term-DV 1512 1526	representación
+T154	Term-DV 748 758	trabajador
+T155	Term-DV 997 1007	trabajador
+T156	Term-DV 1675 1685	trabajador
+T157	Term-DV 188 193	venta
+T158	Term-DV 35 38	vis
+T159	Term-DV 1734 1737	vis
+T160	Term-DV 1099 1100	x
+T161	Term-DV 1250 1251	x
+T162	Term-AttentionRank 718 732	representantes
+T163	Term-AttentionRank 765 787	duración no superior a
+T164	Term-AttentionRank 1141 1153	circunscrita
+T165	Term-AttentionRank 974 987	consecuencias
+T166	Term-AttentionRank 1310 1316	partes
+T167	Term-AttentionRank 718 740	representantes legales
+T168	Term-AttentionRank 718 740	representantes legales
+T169	Term-AttentionRank 553 574	negociación colectiva
+T170	Term-AttentionRank 194 198	días
+T171	Term-AttentionRank 795 799	días
+T172	Term-AttentionRank 1362 1371	dirección
+T173	Term-AttentionRank 315 321	causas
+T174	Term-AttentionRank 823 829	causas
+T175	Term-AttentionRank 997 1019	trabajadores afectados
+T176	Term-AttentionRank 700 709	consultas
+T177	Term-AttentionRank 1409 1418	consultas
+T178	Term-AttentionRank 1024 1032	consulta
+T179	Term-AttentionRank 1829 1835	reglas
+T180	Term-AttentionRank 765 785	duración no superior
+T181	Term-AttentionRank 164 172	periodos
+T182	Term-AttentionRank 689 696	periodo
+T183	Term-AttentionRank 938 945	medidas
+T184	Term-AttentionRank 644 652	carácter
+T185	Term-AttentionRank 1064 1084	comisión negociadora
+T186	Term-AttentionRank 1203 1223	comisión negociadora
+T187	Term-AttentionRank 919 922	así
+T188	Term-AttentionRank 1473 1476	así
+T189	Term-AttentionRank 479 522	perjuicio de los procedimientos específicos
+T190	Term-AttentionRank 1914 1920	comité
+T191	Term-AttentionRank 579 587	decisión
+T192	Term-AttentionRank 848 856	decisión
+T193	Term-AttentionRank 496 510	procedimientos
+T194	Term-AttentionRank 1185 1198	procedimiento
+T195	Term-AttentionRank 1392 1405	procedimiento
+T196	Term-AttentionRank 1846 1859	procedimiento
+T197	Term-AttentionRank 848 868	decisión empresarial
+T198	Term-AttentionRank 345 348	tal
+T199	Term-AttentionRank 591 603	modificación
+T200	Term-AttentionRank 823 841	causas motivadoras
+T201	Term-AttentionRank 1264 1272	miembros
+T202	Term-AttentionRank 591 614	modificación sustancial
+T203	Term-AttentionRank 1577 1586	delegados
+T204	Term-AttentionRank 1940 1949	delegados
+T205	Term-AttentionRank 765 773	duración
+T206	Term-AttentionRank 553 564	negociación
+T207	Term-AttentionRank 748 760	trabajadores
+T208	Term-AttentionRank 997 1009	trabajadores
+T209	Term-AttentionRank 1675 1687	trabajadores
+T210	Term-AttentionRank 1064 1072	comisión
+T211	Term-AttentionRank 1203 1211	comisión
+T212	Term-AttentionRank 84 91	empresa
+T213	Term-AttentionRank 1378 1385	empresa
+T214	Term-AttentionRank 1557 1564	empresa
+T215	Term-AttentionRank 1924 1931	empresa
+T216	Term-AttentionRank 1160 1177	centros afectados
+T217	Term-AttentionRank 1695 1712	centros afectados
+T218	Term-AttentionRank 1276 1290	representación
+T219	Term-AttentionRank 1512 1526	representación
+T220	Term-AttentionRank 121 130	tanciales
+T221	Term-AttentionRank 429 432	ley
+T222	Term-AttentionRank 1113 1120	centros
+T223	Term-AttentionRank 1160 1167	centros
+T224	Term-AttentionRank 1606 1613	centros
+T225	Term-AttentionRank 1695 1702	centros
+T226	Term-AttentionRank 1878 1884	centro
+T227	Term-AttentionRank 315 328	causas nuevas
+T228	Term-AttentionRank 202 208	número
+T229	Term-AttentionRank 164 185	periodos sucesivos de
+T230	Term-AttentionRank 464 470	efecto
+T231	Term-AttentionRank 910 917	efectos
+T232	Term-AttentionRank 1160 1198	centros afectados por el procedimiento
+T233	Term-AttentionRank 202 232	número inferior a los umbrales
+T234	Term-AttentionRank 1577 1598	delegados de personal
+T235	Term-AttentionRank 1940 1961	delegados de personal
+T236	Term-AttentionRank 1590 1598	personal
+T237	Term-AttentionRank 1953 1961	personal
+T238	Term-AttentionRank 153 160	trabajo
+T239	Term-AttentionRank 633 640	trabajo
+T240	Term-AttentionRank 1124 1131	trabajo
+T241	Term-AttentionRank 1617 1624	trabajo
+T242	Term-AttentionRank 1888 1895	trabajo
+T243	Term-AttentionRank 1439 1459	secciones sindicales
+T244	Term-AttentionRank 1644 1648	caso
+T245	Term-AttentionRank 61 69	apartado
+T246	Term-AttentionRank 250 258	apartado
+T247	Term-LabourLaw 1577 1598	delegados de personal
+T248	Term-LabourLaw 1940 1961	delegados de personal
+T249	Term-LabourLaw 1914 1931	comité de empresa
+T250	Term-LabourLaw 138 160	condiciones de trabajo
+T251	Term-LabourLaw 618 640	condiciones de trabajo
+T252	Term-LabourLaw 1878 1895	centro de trabajo
+T253	Term-LabourLaw 689 709	periodo de consultas
+T254	Term-LabourLaw 553 574	negociación colectiva
+T255	Term-LabourLaw 591 614	modificación sustancial
+T256	Term-LabourLaw 1064 1084	comisión negociadora
+T257	Term-LabourLaw 1203 1223	comisión negociadora
+T258	Term-LabourLaw 591 603	modificación
+T259	Term-LabourLaw 153 160	trabajo
+T260	Term-LabourLaw 633 640	trabajo
+T261	Term-LabourLaw 1124 1131	trabajo
+T262	Term-LabourLaw 1617 1624	trabajo
+T263	Term-LabourLaw 1888 1895	trabajo
+T264	Term-LabourLaw 938 944	medida
+T265	Term-LabourLaw 1362 1371	dirección
+T266	Term-LabourLaw 1064 1072	comisión
+T267	Term-LabourLaw 1203 1211	comisión
+T268	Term-LabourLaw 718 731	representante
+T269	Term-LabourLaw 748 758	trabajador
+T270	Term-LabourLaw 997 1007	trabajador
+T271	Term-LabourLaw 1675 1685	trabajador
+T272	Term-LabourLaw 429 432	ley
+T273	Term-LabourLaw 663 668	deber
+T274	Term-LabourLaw 1577 1585	delegado
+T275	Term-LabourLaw 1940 1948	delegado
+T276	Term-LabourLaw 1717 1724	defecto
+T277	Term-LabourLaw 84 91	empresa
+T278	Term-LabourLaw 857 864	empresa
+T279	Term-LabourLaw 1378 1385	empresa
+T280	Term-LabourLaw 1557 1564	empresa
+T281	Term-LabourLaw 1924 1931	empresa
+T282	Term-LabourLaw 765 773	duración
+T283	Term-LabourLaw 496 509	procedimiento
+T284	Term-LabourLaw 1185 1198	procedimiento
+T285	Term-LabourLaw 1392 1405	procedimiento
+T286	Term-LabourLaw 1846 1859	procedimiento
+T287	Term-LabourLaw 1546 1552	comité
+T288	Term-LabourLaw 1914 1920	comité
+T289	Term-LabourLaw 479 488	perjuicio
+T290	Term-LabourLaw 653 662	colectivo
+T291	Term-LabourLaw 1590 1598	personal
+T292	Term-LabourLaw 1953 1961	personal
+T293	Term-LabourLaw 164 171	periodo
+T294	Term-LabourLaw 689 696	periodo
+T295	Term-LabourLaw 1590 1597	persona
+T296	Term-LabourLaw 1953 1960	persona
+T297	Term-IATE 579 587	decisión
+T298	Term-IATE 848 856	decisión
+T299	Term-IATE 1310 1316	partes
+T300	Term-IATE 591 603	modificación
+T301	Term-IATE 84 91	empresa
+T302	Term-IATE 1378 1385	empresa
+T303	Term-IATE 1557 1564	empresa
+T304	Term-IATE 1924 1931	empresa
+T305	Term-IATE 1577 1586	delegados
+T306	Term-IATE 1940 1949	delegados
+T307	Term-IATE 700 709	consultas
+T308	Term-IATE 1409 1418	consultas
+T309	Term-IATE 1024 1032	consulta
+T310	Term-IATE 496 510	procedimientos
+T311	Term-IATE 1185 1198	procedimiento
+T312	Term-IATE 1392 1405	procedimiento
+T313	Term-IATE 1846 1859	procedimiento
+T314	Term-IATE 61 69	apartado
+T315	Term-IATE 250 258	apartado
+T316	Term-IATE 748 760	trabajadores
+T317	Term-IATE 997 1009	trabajadores
+T318	Term-IATE 1675 1687	trabajadores
+T319	Term-IATE 1264 1272	miembros
+T320	Term-IATE 644 652	carácter
+T321	Term-IATE 1914 1920	comité
+T322	Term-IATE 464 470	efecto
+T323	Term-IATE 910 917	efectos
+T324	Term-IATE 553 564	negociación
+T325	Term-IATE 1064 1072	comisión
+T326	Term-IATE 1203 1211	comisión
+T327	Term-IATE 718 732	representantes
+T328	Term-IATE 1362 1371	dirección
+T329	Term-IATE 765 773	duración

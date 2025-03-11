@@ -1,318 +1,318 @@
-T1 Term-DPEJ 242 246 caso
-T2 Term-DPEJ 117 124 proceso
-T3 Term-DPEJ 950 958 solución
-T4 Term-DPEJ 1550 1558 solución
-T5 Term-DPEJ 646 655 Seguridad
-T6 Term-DPEJ 98 105 trabajo
-T7 Term-DPEJ 1011 1018 trabajo
-T8 Term-DPEJ 1198 1205 trabajo
-T9 Term-DPEJ 1508 1515 trabajo
-T10 Term-DPEJ 1773 1780 trabajo
-T11 Term-DPEJ 1032 1039 empresa
-T12 Term-DPEJ 1051 1059 empresas
-T13 Term-DPEJ 1186 1194 empresas
-T14 Term-DPEJ 1761 1769 empresas
-T15 Term-DPEJ 302 310 convenio
-T16 Term-DPEJ 3 11 contrato
-T17 Term-DPEJ 188 196 contrato
-T18 Term-DPEJ 351 359 contrato
-T19 Term-DPEJ 1080 1089 contratos
-T20 Term-DPEJ 1651 1660 contratos
-T21 Term-DPEJ 1712 1721 contratos
-T22 Term-DPEJ 140 149 promoción
-T23 Term-DPEJ 507 516 condición
-T24 Term-DPEJ 549 558 condición
-T25 Term-DPEJ 1230 1239 condición
-T26 Term-DPEJ 1456 1465 condición
-T27 Term-DPEJ 1198 1214 trabajo temporal
-T28 Term-DPEJ 1773 1789 trabajo temporal
-T29 Term-DPEJ 1170 1181 disposición
-T30 Term-DPEJ 1734 1745 disposición
-T31 Term-DPEJ 302 320 convenio colectivo
-T32 Term-DPEJ 1042 1059 grupo de empresas
-T33 Term-DPEJ 1094 1108 circunstancias
-T34 Term-DPEJ 1665 1679 circunstancias
-T35 Term-DPEJ 88 94 puesto
-T36 Term-DPEJ 1001 1007 puesto
-T37 Term-DPEJ 1498 1504 puesto
-T38 Term-DPEJ 1303 1313 aplicación
-T39 Term-DPEJ 484 492 artículo
-T40 Term-DPEJ 1042 1047 grupo
-T41 Term-Termcat 1230 1239 condición
-T42 Term-Termcat 549 558 condición
-T43 Term-Termcat 507 516 condición
-T44 Term-Termcat 1456 1465 condición
-T45 Term-Termcat 302 310 convenio
-T46 Term-Termcat 876 882 estado
-T47 Term-Termcat 1525 1531 estado
-T48 Term-Termcat 1042 1047 grupo
-T49 Term-Termcat 760 766 prueba
-T50 Term-Termcat 906 911 plazo
-T51 Term-Termcat 687 692 plazo
-T52 Term-Termcat 275 280 plazo
-T53 Term-Termcat 351 359 contrato
-T54 Term-Termcat 188 196 contrato
-T55 Term-Termcat 3 11 contrato
-T56 Term-Termcat 1651 1660 contratos
-T57 Term-Termcat 1080 1089 contratos
-T58 Term-Termcat 1712 1721 contratos
-T59 Term-Termcat 1347 1355 sucesión
-T60 Term-Termcat 484 492 artículo
-T61 Term-Termcat 635 639 alta
-T62 Term-Termcat 140 149 promoción
-T63 Term-Termcat 188 201 contrato fijo
-T64 Term-Termcat 302 320 convenio colectivo
-T65 Term-Termcat 1032 1039 empresa
-T66 Term-Termcat 1186 1194 empresas
-T67 Term-Termcat 1051 1059 empresas
-T68 Term-Termcat 1761 1769 empresas
-T69 Term-Termcat 1001 1018 puesto de trabajo
-T70 Term-Termcat 1498 1515 puesto de trabajo
-T71 Term-Termcat 88 105 puesto de trabajo
-T72 Term-Termcat 646 662 Seguridad Social
-T73 Term-Termcat 1358 1381 subrogación empresarial
-T74 Term-Termcat 15 26 sustitución
-T75 Term-Termcat 1198 1214 trabajo temporal
-T76 Term-Termcat 1773 1789 trabajo temporal
-T77 Term-Termcat 214 222 duración
-T78 Term-Termcat 403 411 duración
-T79 Term-Termcat 1243 1251 personas
-T80 Term-Termcat 427 435 personas
-T81 Term-Termcat 572 580 personas
-T82 Term-Termcat 805 813 personas
-T83 Term-Termcat 1477 1484 persona
-T84 Term-Termcat 646 655 Seguridad
-T85 Term-Termcat 117 124 proceso
-T86 Term-Termcat 1734 1745 disposición
-T87 Term-Termcat 1170 1181 disposición
-T88 Term-Termcat 1358 1369 subrogación
-T89 Term-Termcat 1303 1313 aplicación
-T90 Term-Termcat 1665 1679 circunstancias
-T91 Term-Termcat 1094 1108 circunstancias
-T92 Term-Termcat 1382 1390 conforme
-T93 Term-Termcat 1198 1205 trabajo
-T94 Term-Termcat 1773 1780 trabajo
-T95 Term-Termcat 1406 1411 legal
-T96 Term-Termcat 749 766 periodo de prueba
-T97 Term-Termcat 775 784 perjuicio
-T98 Term-Termcat 1686 1696 producción
-T99 Term-Termcat 1115 1125 producción
-T100 Term-Termcat 247 255 superior
-T101 Term-Termcat 912 920 superior
-T102 Term-Termcat 73 81 temporal
-T103 Term-Termcat 1781 1789 temporal
-T104 Term-Termcat 1206 1214 temporal
-T105 Term-Termcat 594 604 temporales
-T106 Term-DV 584 588 baja
-T107 Term-DV 817 821 baja
-T108 Term-DV 1255 1259 baja
-T109 Term-DV 1349 1355 cesión
-T110 Term-DV 63 72 cobertura
-T111 Term-DV 158 167 cobertura
-T112 Term-DV 507 516 condición
-T113 Term-DV 549 558 condición
-T114 Term-DV 1230 1239 condición
-T115 Term-DV 1456 1465 condición
-T116 Term-DV 1170 1181 disposición
-T117 Term-DV 1734 1745 disposición
-T118 Term-DV 129 137 elección
-T119 Term-DV 1032 1039 empresa
-T120 Term-DV 1051 1058 empresa
-T121 Term-DV 1186 1193 empresa
-T122 Term-DV 1370 1377 empresa
-T123 Term-DV 1761 1768 empresa
-T124 Term-DV 283 285 fe
-T125 Term-DV 993 995 fe
-T126 Term-DV 778 784 juicio
-T127 Term-DV 313 320 lectivo
-T128 Term-DV 706 711 legal
-T129 Term-DV 1406 1411 legal
-T130 Term-DV 373 379 objeto
-T131 Term-DV 55 59 para
-T132 Term-DV 150 154 para
-T133 Term-DV 741 745 para
-T134 Term-DV 975 979 para
-T135 Term-DV 775 784 perjuicio
-T136 Term-DV 427 434 persona
-T137 Term-DV 572 579 persona
-T138 Term-DV 805 812 persona
-T139 Term-DV 1243 1250 persona
-T140 Term-DV 1477 1484 persona
-T141 Term-DV 275 280 plazo
-T142 Term-DV 687 692 plazo
-T143 Term-DV 906 911 plazo
-T144 Term-DV 1304 1309 plica
-T145 Term-DV 117 124 proceso
-T146 Term-DV 140 149 promoción
-T147 Term-DV 760 766 prueba
-T148 Term-DV 7 11 rato
-T149 Term-DV 192 196 rato
-T150 Term-DV 355 359 rato
-T151 Term-DV 1084 1088 rato
-T152 Term-DV 1655 1659 rato
-T153 Term-DV 1716 1720 rato
-T154 Term-DV 1746 1750 real
-T155 Term-DV 1358 1369 subrogación
-T156 Term-DV 1347 1355 sucesión
-T157 Term-DV 581 591 trabajador
-T158 Term-DV 814 824 trabajador
-T159 Term-DV 1252 1262 trabajador
-T160 Term-DV 1280 1283 vis
-T161 Term-DV 414 415 x
-T162 Term-AttentionRank 1042 1047 grupo
-T163 Term-AttentionRank 1170 1181 disposición
-T164 Term-AttentionRank 1734 1745 disposición
-T165 Term-AttentionRank 749 756 periodo
-T166 Term-AttentionRank 837 844 periodo
-T167 Term-AttentionRank 1612 1619 periodo
-T168 Term-AttentionRank 906 922 plazo superior a
-T169 Term-AttentionRank 140 149 promoción
-T170 Term-AttentionRank 1198 1214 trabajo temporal
-T171 Term-AttentionRank 1773 1789 trabajo temporal
-T172 Term-AttentionRank 646 655 Seguridad
-T173 Term-AttentionRank 1303 1313 aplicación
-T174 Term-AttentionRank 484 492 artículo
-T175 Term-AttentionRank 1334 1343 supuestos
-T176 Term-AttentionRank 1148 1157 través de
-T177 Term-AttentionRank 427 435 personas
-T178 Term-AttentionRank 572 580 personas
-T179 Term-AttentionRank 805 813 personas
-T180 Term-AttentionRank 1243 1251 personas
-T181 Term-AttentionRank 1477 1484 persona
-T182 Term-AttentionRank 263 268 meses
-T183 Term-AttentionRank 861 866 meses
-T184 Term-AttentionRank 933 938 meses
-T185 Term-AttentionRank 1600 1605 meses
-T186 Term-AttentionRank 1636 1641 meses
-T187 Term-AttentionRank 572 593 personas trabajadoras
-T188 Term-AttentionRank 805 826 personas trabajadoras
-T189 Term-AttentionRank 1243 1264 personas trabajadoras
-T190 Term-AttentionRank 572 593 personas trabajadoras
-T191 Term-AttentionRank 805 826 personas trabajadoras
-T192 Term-AttentionRank 1243 1264 personas trabajadoras
-T193 Term-AttentionRank 302 310 convenio
-T194 Term-AttentionRank 242 257 caso superior a
-T195 Term-AttentionRank 1347 1355 sucesión
-T196 Term-AttentionRank 403 418 duración máxima
-T197 Term-AttentionRank 214 222 duración
-T198 Term-AttentionRank 403 411 duración
-T199 Term-AttentionRank 188 201 contrato fijo
-T200 Term-AttentionRank 581 593 trabajadoras
-T201 Term-AttentionRank 814 826 trabajadoras
-T202 Term-AttentionRank 1252 1264 trabajadoras
-T203 Term-AttentionRank 1115 1125 producción
-T204 Term-AttentionRank 1686 1696 producción
-T205 Term-AttentionRank 88 94 puesto
-T206 Term-AttentionRank 1001 1007 puesto
-T207 Term-AttentionRank 1498 1504 puesto
-T208 Term-AttentionRank 1094 1108 circunstancias
-T209 Term-AttentionRank 1665 1679 circunstancias
-T210 Term-AttentionRank 275 280 plazo
-T211 Term-AttentionRank 687 692 plazo
-T212 Term-AttentionRank 906 911 plazo
-T213 Term-AttentionRank 1032 1039 empresa
-T214 Term-AttentionRank 1051 1059 empresas
-T215 Term-AttentionRank 1186 1194 empresas
-T216 Term-AttentionRank 1761 1769 empresas
-T217 Term-AttentionRank 507 516 condición
-T218 Term-AttentionRank 549 558 condición
-T219 Term-AttentionRank 1230 1239 condición
-T220 Term-AttentionRank 1456 1465 condición
-T221 Term-AttentionRank 117 124 proceso
-T222 Term-AttentionRank 646 662 Seguridad Social
-T223 Term-AttentionRank 760 766 prueba
-T224 Term-AttentionRank 384 387 vez
-T225 Term-AttentionRank 667 670 vez
-T226 Term-AttentionRank 3 11 contrato
-T227 Term-AttentionRank 188 196 contrato
-T228 Term-AttentionRank 351 359 contrato
-T229 Term-AttentionRank 1080 1089 contratos
-T230 Term-AttentionRank 1651 1660 contratos
-T231 Term-AttentionRank 1712 1721 contratos
-T232 Term-AttentionRank 302 320 convenio colectivo
-T233 Term-AttentionRank 345 359 nuevo contrato
-T234 Term-AttentionRank 98 105 trabajo
-T235 Term-AttentionRank 1011 1018 trabajo
-T236 Term-AttentionRank 1198 1205 trabajo
-T237 Term-AttentionRank 1508 1515 trabajo
-T238 Term-AttentionRank 1773 1780 trabajo
-T239 Term-AttentionRank 950 958 solución
-T240 Term-AttentionRank 1550 1558 solución
-T241 Term-AttentionRank 242 246 caso
-T242 Term-LabourLaw 88 105 puesto de trabajo
-T243 Term-LabourLaw 1001 1018 puesto de trabajo
-T244 Term-LabourLaw 1498 1515 puesto de trabajo
-T245 Term-LabourLaw 302 320 convenio colectivo
-T246 Term-LabourLaw 98 105 trabajo
-T247 Term-LabourLaw 1011 1018 trabajo
-T248 Term-LabourLaw 1198 1205 trabajo
-T249 Term-LabourLaw 1508 1515 trabajo
-T250 Term-LabourLaw 1773 1780 trabajo
-T251 Term-LabourLaw 1303 1313 aplicación
-T252 Term-LabourLaw 3 11 contrato
-T253 Term-LabourLaw 188 196 contrato
-T254 Term-LabourLaw 351 359 contrato
-T255 Term-LabourLaw 1080 1088 contrato
-T256 Term-LabourLaw 1651 1659 contrato
-T257 Term-LabourLaw 1712 1720 contrato
-T258 Term-LabourLaw 581 591 trabajador
-T259 Term-LabourLaw 814 824 trabajador
-T260 Term-LabourLaw 1252 1262 trabajador
-T261 Term-LabourLaw 129 137 elección
-T262 Term-LabourLaw 507 516 condición
-T263 Term-LabourLaw 549 558 condición
-T264 Term-LabourLaw 1230 1239 condición
-T265 Term-LabourLaw 1456 1465 condición
-T266 Term-LabourLaw 140 149 promoción
-T267 Term-LabourLaw 1278 1286 revisión
-T268 Term-LabourLaw 1032 1039 empresa
-T269 Term-LabourLaw 1051 1058 empresa
-T270 Term-LabourLaw 1186 1193 empresa
-T271 Term-LabourLaw 1370 1377 empresa
-T272 Term-LabourLaw 1761 1768 empresa
-T273 Term-LabourLaw 214 222 duración
-T274 Term-LabourLaw 403 411 duración
-T275 Term-LabourLaw 775 784 perjuicio
-T276 Term-LabourLaw 1349 1355 cesión
-T277 Term-LabourLaw 311 320 colectivo
-T278 Term-LabourLaw 749 756 periodo
-T279 Term-LabourLaw 837 844 periodo
-T280 Term-LabourLaw 1612 1619 periodo
-T281 Term-LabourLaw 427 434 persona
-T282 Term-LabourLaw 572 579 persona
-T283 Term-LabourLaw 805 812 persona
-T284 Term-LabourLaw 1243 1250 persona
-T285 Term-LabourLaw 1477 1484 persona
-T286 Term-LabourLaw 140 149 promoción
-T287 Term-LabourLaw 1170 1181 disposición
-T288 Term-LabourLaw 1734 1745 disposición
-T289 Term-IATE 1303 1313 aplicación
-T290 Term-IATE 950 958 solución
-T291 Term-IATE 1550 1558 solución
-T292 Term-IATE 484 492 artículo
-T293 Term-IATE 275 280 plazo
-T294 Term-IATE 687 692 plazo
-T295 Term-IATE 906 911 plazo
-T296 Term-IATE 1042 1047 grupo
-T297 Term-IATE 1032 1039 empresa
-T298 Term-IATE 1051 1059 empresas
-T299 Term-IATE 1186 1194 empresas
-T300 Term-IATE 1761 1769 empresas
-T301 Term-IATE 760 766 prueba
-T302 Term-IATE 117 124 proceso
-T303 Term-IATE 646 655 Seguridad
-T304 Term-IATE 3 11 contrato
-T305 Term-IATE 188 196 contrato
-T306 Term-IATE 351 359 contrato
-T307 Term-IATE 1080 1089 contratos
-T308 Term-IATE 1651 1660 contratos
-T309 Term-IATE 1712 1721 contratos
-T310 Term-IATE 1347 1355 sucesión
-T311 Term-IATE 302 310 convenio
-T312 Term-IATE 263 268 meses
-T313 Term-IATE 861 866 meses
-T314 Term-IATE 933 938 meses
-T315 Term-IATE 1600 1605 meses
-T316 Term-IATE 1636 1641 meses
-T317 Term-IATE 214 222 duración
-T318 Term-IATE 403 411 duración
+T1	Term-DPEJ 242 246	caso
+T2	Term-DPEJ 117 124	proceso
+T3	Term-DPEJ 950 958	solución
+T4	Term-DPEJ 1550 1558	solución
+T5	Term-DPEJ 646 655	Seguridad
+T6	Term-DPEJ 98 105	trabajo
+T7	Term-DPEJ 1011 1018	trabajo
+T8	Term-DPEJ 1198 1205	trabajo
+T9	Term-DPEJ 1508 1515	trabajo
+T10	Term-DPEJ 1773 1780	trabajo
+T11	Term-DPEJ 1032 1039	empresa
+T12	Term-DPEJ 1051 1059	empresas
+T13	Term-DPEJ 1186 1194	empresas
+T14	Term-DPEJ 1761 1769	empresas
+T15	Term-DPEJ 302 310	convenio
+T16	Term-DPEJ 3 11	contrato
+T17	Term-DPEJ 188 196	contrato
+T18	Term-DPEJ 351 359	contrato
+T19	Term-DPEJ 1080 1089	contratos
+T20	Term-DPEJ 1651 1660	contratos
+T21	Term-DPEJ 1712 1721	contratos
+T22	Term-DPEJ 140 149	promoción
+T23	Term-DPEJ 507 516	condición
+T24	Term-DPEJ 549 558	condición
+T25	Term-DPEJ 1230 1239	condición
+T26	Term-DPEJ 1456 1465	condición
+T27	Term-DPEJ 1198 1214	trabajo temporal
+T28	Term-DPEJ 1773 1789	trabajo temporal
+T29	Term-DPEJ 1170 1181	disposición
+T30	Term-DPEJ 1734 1745	disposición
+T31	Term-DPEJ 302 320	convenio colectivo
+T32	Term-DPEJ 1042 1059	grupo de empresas
+T33	Term-DPEJ 1094 1108	circunstancias
+T34	Term-DPEJ 1665 1679	circunstancias
+T35	Term-DPEJ 88 94	puesto
+T36	Term-DPEJ 1001 1007	puesto
+T37	Term-DPEJ 1498 1504	puesto
+T38	Term-DPEJ 1303 1313	aplicación
+T39	Term-DPEJ 484 492	artículo
+T40	Term-DPEJ 1042 1047	grupo
+T41	Term-Termcat 1230 1239	condición
+T42	Term-Termcat 549 558	condición
+T43	Term-Termcat 507 516	condición
+T44	Term-Termcat 1456 1465	condición
+T45	Term-Termcat 302 310	convenio
+T46	Term-Termcat 876 882	estado
+T47	Term-Termcat 1525 1531	estado
+T48	Term-Termcat 1042 1047	grupo
+T49	Term-Termcat 760 766	prueba
+T50	Term-Termcat 906 911	plazo
+T51	Term-Termcat 687 692	plazo
+T52	Term-Termcat 275 280	plazo
+T53	Term-Termcat 351 359	contrato
+T54	Term-Termcat 188 196	contrato
+T55	Term-Termcat 3 11	contrato
+T56	Term-Termcat 1651 1660	contratos
+T57	Term-Termcat 1080 1089	contratos
+T58	Term-Termcat 1712 1721	contratos
+T59	Term-Termcat 1347 1355	sucesión
+T60	Term-Termcat 484 492	artículo
+T61	Term-Termcat 635 639	alta
+T62	Term-Termcat 140 149	promoción
+T63	Term-Termcat 188 201	contrato fijo
+T64	Term-Termcat 302 320	convenio colectivo
+T65	Term-Termcat 1032 1039	empresa
+T66	Term-Termcat 1186 1194	empresas
+T67	Term-Termcat 1051 1059	empresas
+T68	Term-Termcat 1761 1769	empresas
+T69	Term-Termcat 1001 1018	puesto de trabajo
+T70	Term-Termcat 1498 1515	puesto de trabajo
+T71	Term-Termcat 88 105	puesto de trabajo
+T72	Term-Termcat 646 662	Seguridad Social
+T73	Term-Termcat 1358 1381	subrogación empresarial
+T74	Term-Termcat 15 26	sustitución
+T75	Term-Termcat 1198 1214	trabajo temporal
+T76	Term-Termcat 1773 1789	trabajo temporal
+T77	Term-Termcat 214 222	duración
+T78	Term-Termcat 403 411	duración
+T79	Term-Termcat 1243 1251	personas
+T80	Term-Termcat 427 435	personas
+T81	Term-Termcat 572 580	personas
+T82	Term-Termcat 805 813	personas
+T83	Term-Termcat 1477 1484	persona
+T84	Term-Termcat 646 655	Seguridad
+T85	Term-Termcat 117 124	proceso
+T86	Term-Termcat 1734 1745	disposición
+T87	Term-Termcat 1170 1181	disposición
+T88	Term-Termcat 1358 1369	subrogación
+T89	Term-Termcat 1303 1313	aplicación
+T90	Term-Termcat 1665 1679	circunstancias
+T91	Term-Termcat 1094 1108	circunstancias
+T92	Term-Termcat 1382 1390	conforme
+T93	Term-Termcat 1198 1205	trabajo
+T94	Term-Termcat 1773 1780	trabajo
+T95	Term-Termcat 1406 1411	legal
+T96	Term-Termcat 749 766	periodo de prueba
+T97	Term-Termcat 775 784	perjuicio
+T98	Term-Termcat 1686 1696	producción
+T99	Term-Termcat 1115 1125	producción
+T100	Term-Termcat 247 255	superior
+T101	Term-Termcat 912 920	superior
+T102	Term-Termcat 73 81	temporal
+T103	Term-Termcat 1781 1789	temporal
+T104	Term-Termcat 1206 1214	temporal
+T105	Term-Termcat 594 604	temporales
+T106	Term-DV 584 588	baja
+T107	Term-DV 817 821	baja
+T108	Term-DV 1255 1259	baja
+T109	Term-DV 1349 1355	cesión
+T110	Term-DV 63 72	cobertura
+T111	Term-DV 158 167	cobertura
+T112	Term-DV 507 516	condición
+T113	Term-DV 549 558	condición
+T114	Term-DV 1230 1239	condición
+T115	Term-DV 1456 1465	condición
+T116	Term-DV 1170 1181	disposición
+T117	Term-DV 1734 1745	disposición
+T118	Term-DV 129 137	elección
+T119	Term-DV 1032 1039	empresa
+T120	Term-DV 1051 1058	empresa
+T121	Term-DV 1186 1193	empresa
+T122	Term-DV 1370 1377	empresa
+T123	Term-DV 1761 1768	empresa
+T124	Term-DV 283 285	fe
+T125	Term-DV 993 995	fe
+T126	Term-DV 778 784	juicio
+T127	Term-DV 313 320	lectivo
+T128	Term-DV 706 711	legal
+T129	Term-DV 1406 1411	legal
+T130	Term-DV 373 379	objeto
+T131	Term-DV 55 59	para
+T132	Term-DV 150 154	para
+T133	Term-DV 741 745	para
+T134	Term-DV 975 979	para
+T135	Term-DV 775 784	perjuicio
+T136	Term-DV 427 434	persona
+T137	Term-DV 572 579	persona
+T138	Term-DV 805 812	persona
+T139	Term-DV 1243 1250	persona
+T140	Term-DV 1477 1484	persona
+T141	Term-DV 275 280	plazo
+T142	Term-DV 687 692	plazo
+T143	Term-DV 906 911	plazo
+T144	Term-DV 1304 1309	plica
+T145	Term-DV 117 124	proceso
+T146	Term-DV 140 149	promoción
+T147	Term-DV 760 766	prueba
+T148	Term-DV 7 11	rato
+T149	Term-DV 192 196	rato
+T150	Term-DV 355 359	rato
+T151	Term-DV 1084 1088	rato
+T152	Term-DV 1655 1659	rato
+T153	Term-DV 1716 1720	rato
+T154	Term-DV 1746 1750	real
+T155	Term-DV 1358 1369	subrogación
+T156	Term-DV 1347 1355	sucesión
+T157	Term-DV 581 591	trabajador
+T158	Term-DV 814 824	trabajador
+T159	Term-DV 1252 1262	trabajador
+T160	Term-DV 1280 1283	vis
+T161	Term-DV 414 415	x
+T162	Term-AttentionRank 1042 1047	grupo
+T163	Term-AttentionRank 1170 1181	disposición
+T164	Term-AttentionRank 1734 1745	disposición
+T165	Term-AttentionRank 749 756	periodo
+T166	Term-AttentionRank 837 844	periodo
+T167	Term-AttentionRank 1612 1619	periodo
+T168	Term-AttentionRank 906 922	plazo superior a
+T169	Term-AttentionRank 140 149	promoción
+T170	Term-AttentionRank 1198 1214	trabajo temporal
+T171	Term-AttentionRank 1773 1789	trabajo temporal
+T172	Term-AttentionRank 646 655	Seguridad
+T173	Term-AttentionRank 1303 1313	aplicación
+T174	Term-AttentionRank 484 492	artículo
+T175	Term-AttentionRank 1334 1343	supuestos
+T176	Term-AttentionRank 1148 1157	través de
+T177	Term-AttentionRank 427 435	personas
+T178	Term-AttentionRank 572 580	personas
+T179	Term-AttentionRank 805 813	personas
+T180	Term-AttentionRank 1243 1251	personas
+T181	Term-AttentionRank 1477 1484	persona
+T182	Term-AttentionRank 263 268	meses
+T183	Term-AttentionRank 861 866	meses
+T184	Term-AttentionRank 933 938	meses
+T185	Term-AttentionRank 1600 1605	meses
+T186	Term-AttentionRank 1636 1641	meses
+T187	Term-AttentionRank 572 593	personas trabajadoras
+T188	Term-AttentionRank 805 826	personas trabajadoras
+T189	Term-AttentionRank 1243 1264	personas trabajadoras
+T190	Term-AttentionRank 572 593	personas trabajadoras
+T191	Term-AttentionRank 805 826	personas trabajadoras
+T192	Term-AttentionRank 1243 1264	personas trabajadoras
+T193	Term-AttentionRank 302 310	convenio
+T194	Term-AttentionRank 242 257	caso superior a
+T195	Term-AttentionRank 1347 1355	sucesión
+T196	Term-AttentionRank 403 418	duración máxima
+T197	Term-AttentionRank 214 222	duración
+T198	Term-AttentionRank 403 411	duración
+T199	Term-AttentionRank 188 201	contrato fijo
+T200	Term-AttentionRank 581 593	trabajadoras
+T201	Term-AttentionRank 814 826	trabajadoras
+T202	Term-AttentionRank 1252 1264	trabajadoras
+T203	Term-AttentionRank 1115 1125	producción
+T204	Term-AttentionRank 1686 1696	producción
+T205	Term-AttentionRank 88 94	puesto
+T206	Term-AttentionRank 1001 1007	puesto
+T207	Term-AttentionRank 1498 1504	puesto
+T208	Term-AttentionRank 1094 1108	circunstancias
+T209	Term-AttentionRank 1665 1679	circunstancias
+T210	Term-AttentionRank 275 280	plazo
+T211	Term-AttentionRank 687 692	plazo
+T212	Term-AttentionRank 906 911	plazo
+T213	Term-AttentionRank 1032 1039	empresa
+T214	Term-AttentionRank 1051 1059	empresas
+T215	Term-AttentionRank 1186 1194	empresas
+T216	Term-AttentionRank 1761 1769	empresas
+T217	Term-AttentionRank 507 516	condición
+T218	Term-AttentionRank 549 558	condición
+T219	Term-AttentionRank 1230 1239	condición
+T220	Term-AttentionRank 1456 1465	condición
+T221	Term-AttentionRank 117 124	proceso
+T222	Term-AttentionRank 646 662	Seguridad Social
+T223	Term-AttentionRank 760 766	prueba
+T224	Term-AttentionRank 384 387	vez
+T225	Term-AttentionRank 667 670	vez
+T226	Term-AttentionRank 3 11	contrato
+T227	Term-AttentionRank 188 196	contrato
+T228	Term-AttentionRank 351 359	contrato
+T229	Term-AttentionRank 1080 1089	contratos
+T230	Term-AttentionRank 1651 1660	contratos
+T231	Term-AttentionRank 1712 1721	contratos
+T232	Term-AttentionRank 302 320	convenio colectivo
+T233	Term-AttentionRank 345 359	nuevo contrato
+T234	Term-AttentionRank 98 105	trabajo
+T235	Term-AttentionRank 1011 1018	trabajo
+T236	Term-AttentionRank 1198 1205	trabajo
+T237	Term-AttentionRank 1508 1515	trabajo
+T238	Term-AttentionRank 1773 1780	trabajo
+T239	Term-AttentionRank 950 958	solución
+T240	Term-AttentionRank 1550 1558	solución
+T241	Term-AttentionRank 242 246	caso
+T242	Term-LabourLaw 88 105	puesto de trabajo
+T243	Term-LabourLaw 1001 1018	puesto de trabajo
+T244	Term-LabourLaw 1498 1515	puesto de trabajo
+T245	Term-LabourLaw 302 320	convenio colectivo
+T246	Term-LabourLaw 98 105	trabajo
+T247	Term-LabourLaw 1011 1018	trabajo
+T248	Term-LabourLaw 1198 1205	trabajo
+T249	Term-LabourLaw 1508 1515	trabajo
+T250	Term-LabourLaw 1773 1780	trabajo
+T251	Term-LabourLaw 1303 1313	aplicación
+T252	Term-LabourLaw 3 11	contrato
+T253	Term-LabourLaw 188 196	contrato
+T254	Term-LabourLaw 351 359	contrato
+T255	Term-LabourLaw 1080 1088	contrato
+T256	Term-LabourLaw 1651 1659	contrato
+T257	Term-LabourLaw 1712 1720	contrato
+T258	Term-LabourLaw 581 591	trabajador
+T259	Term-LabourLaw 814 824	trabajador
+T260	Term-LabourLaw 1252 1262	trabajador
+T261	Term-LabourLaw 129 137	elección
+T262	Term-LabourLaw 507 516	condición
+T263	Term-LabourLaw 549 558	condición
+T264	Term-LabourLaw 1230 1239	condición
+T265	Term-LabourLaw 1456 1465	condición
+T266	Term-LabourLaw 140 149	promoción
+T267	Term-LabourLaw 1278 1286	revisión
+T268	Term-LabourLaw 1032 1039	empresa
+T269	Term-LabourLaw 1051 1058	empresa
+T270	Term-LabourLaw 1186 1193	empresa
+T271	Term-LabourLaw 1370 1377	empresa
+T272	Term-LabourLaw 1761 1768	empresa
+T273	Term-LabourLaw 214 222	duración
+T274	Term-LabourLaw 403 411	duración
+T275	Term-LabourLaw 775 784	perjuicio
+T276	Term-LabourLaw 1349 1355	cesión
+T277	Term-LabourLaw 311 320	colectivo
+T278	Term-LabourLaw 749 756	periodo
+T279	Term-LabourLaw 837 844	periodo
+T280	Term-LabourLaw 1612 1619	periodo
+T281	Term-LabourLaw 427 434	persona
+T282	Term-LabourLaw 572 579	persona
+T283	Term-LabourLaw 805 812	persona
+T284	Term-LabourLaw 1243 1250	persona
+T285	Term-LabourLaw 1477 1484	persona
+T286	Term-LabourLaw 140 149	promoción
+T287	Term-LabourLaw 1170 1181	disposición
+T288	Term-LabourLaw 1734 1745	disposición
+T289	Term-IATE 1303 1313	aplicación
+T290	Term-IATE 950 958	solución
+T291	Term-IATE 1550 1558	solución
+T292	Term-IATE 484 492	artículo
+T293	Term-IATE 275 280	plazo
+T294	Term-IATE 687 692	plazo
+T295	Term-IATE 906 911	plazo
+T296	Term-IATE 1042 1047	grupo
+T297	Term-IATE 1032 1039	empresa
+T298	Term-IATE 1051 1059	empresas
+T299	Term-IATE 1186 1194	empresas
+T300	Term-IATE 1761 1769	empresas
+T301	Term-IATE 760 766	prueba
+T302	Term-IATE 117 124	proceso
+T303	Term-IATE 646 655	Seguridad
+T304	Term-IATE 3 11	contrato
+T305	Term-IATE 188 196	contrato
+T306	Term-IATE 351 359	contrato
+T307	Term-IATE 1080 1089	contratos
+T308	Term-IATE 1651 1660	contratos
+T309	Term-IATE 1712 1721	contratos
+T310	Term-IATE 1347 1355	sucesión
+T311	Term-IATE 302 310	convenio
+T312	Term-IATE 263 268	meses
+T313	Term-IATE 861 866	meses
+T314	Term-IATE 933 938	meses
+T315	Term-IATE 1600 1605	meses
+T316	Term-IATE 1636 1641	meses
+T317	Term-IATE 214 222	duración
+T318	Term-IATE 403 411	duración

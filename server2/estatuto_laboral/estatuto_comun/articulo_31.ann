@@ -1,93 +1,93 @@
-T1 Term-DPEJ 232 239 acuerdo
-T2 Term-DPEJ 207 215 convenio
-T3 Term-DPEJ 335 343 convenio
-T4 Term-DPEJ 423 431 convenio
-T5 Term-DPEJ 207 225 convenio colectivo
-T6 Term-DPEJ 335 353 convenio colectivo
-T7 Term-DPEJ 423 441 convenio colectivo
-T8 Term-DPEJ 357 364 cuantía
-T9 Term-DPEJ 115 118 año
-T10 Term-DPEJ 0 8 Artículo
-T11 Term-Termcat 335 343 convenio
-T12 Term-Termcat 423 431 convenio
-T13 Term-Termcat 207 215 convenio
-T14 Term-Termcat 266 280 representantes
-T15 Term-Termcat 0 8 Artículo
-T16 Term-Termcat 207 225 convenio colectivo
-T17 Term-Termcat 423 441 convenio colectivo
-T18 Term-Termcat 335 353 convenio colectivo
-T19 Term-Termcat 152 159 fiestas
-T20 Term-Termcat 508 521 mensualidades
-T21 Term-Termcat 66 73 derecho
-T22 Term-Termcat 232 239 acuerdo
-T23 Term-Termcat 281 288 legales
-T24 Term-Termcat 357 364 cuantía
-T25 Term-Termcat 266 288 representantes legales
-T26 Term-DV 52 56 baja
-T27 Term-DV 299 303 baja
-T28 Term-DV 414 417 dar
-T29 Term-DV 66 73 derecho
-T30 Term-DV 249 256 empresa
-T31 Term-DV 249 259 empresario
-T32 Term-DV 218 225 lectivo
-T33 Term-DV 346 353 lectivo
-T34 Term-DV 434 441 lectivo
-T35 Term-DV 281 286 legal
-T36 Term-DV 49 59 trabajador
-T37 Term-DV 296 306 trabajador
-T38 Term-DV 30 31 x
-T39 Term-DV 97 98 x
-T40 Term-DV 467 468 x
-T41 Term-AttentionRank 357 364 cuantía
-T42 Term-AttentionRank 266 280 representantes
-T43 Term-AttentionRank 266 288 representantes legales
-T44 Term-AttentionRank 266 288 representantes legales
-T45 Term-AttentionRank 232 239 acuerdo
-T46 Term-AttentionRank 115 118 año
-T47 Term-AttentionRank 232 259 acuerdo entre el empresario
-T48 Term-AttentionRank 0 8 Artículo
-T49 Term-AttentionRank 80 118 gratificaciones extraordinarias al año
-T50 Term-AttentionRank 187 190 mes
-T51 Term-AttentionRank 207 215 convenio
-T52 Term-AttentionRank 335 343 convenio
-T53 Term-AttentionRank 423 431 convenio
-T54 Term-AttentionRank 368 373 tales
-T55 Term-AttentionRank 508 521 mensualidades
-T56 Term-AttentionRank 13 44 Gratificaciones extraordinarias
-T57 Term-AttentionRank 80 111 gratificaciones extraordinarias
-T58 Term-AttentionRank 450 481 gratificaciones extraordinarias
-T59 Term-AttentionRank 49 59 trabajador
-T60 Term-AttentionRank 296 308 trabajadores
-T61 Term-AttentionRank 66 73 derecho
-T62 Term-AttentionRank 207 225 convenio colectivo
-T63 Term-AttentionRank 335 353 convenio colectivo
-T64 Term-AttentionRank 423 441 convenio colectivo
-T65 Term-AttentionRank 137 159 ocasión de las fiestas
-T66 Term-AttentionRank 152 159 fiestas
-T67 Term-AttentionRank 249 259 empresario
-T68 Term-LabourLaw 207 225 convenio colectivo
-T69 Term-LabourLaw 335 353 convenio colectivo
-T70 Term-LabourLaw 423 441 convenio colectivo
-T71 Term-LabourLaw 80 111 gratificaciones extraordinarias
-T72 Term-LabourLaw 450 481 gratificaciones extraordinarias
-T73 Term-LabourLaw 266 279 representante
-T74 Term-LabourLaw 49 59 trabajador
-T75 Term-LabourLaw 296 306 trabajador
-T76 Term-LabourLaw 249 259 empresario
-T77 Term-LabourLaw 357 364 cuantía
-T78 Term-LabourLaw 249 256 empresa
-T79 Term-LabourLaw 66 73 derecho
-T80 Term-LabourLaw 216 225 colectivo
-T81 Term-LabourLaw 344 353 colectivo
-T82 Term-LabourLaw 432 441 colectivo
-T83 Term-LabourLaw 152 159 fiestas
-T84 Term-IATE 0 8 Artículo
-T85 Term-IATE 232 239 acuerdo
-T86 Term-IATE 249 259 empresario
-T87 Term-IATE 49 59 trabajador
-T88 Term-IATE 296 308 trabajadores
-T89 Term-IATE 266 280 representantes
-T90 Term-IATE 207 215 convenio
-T91 Term-IATE 335 343 convenio
-T92 Term-IATE 423 431 convenio
-T93 Term-IATE 187 190 mes
+T1	Term-DPEJ 232 239	acuerdo
+T2	Term-DPEJ 207 215	convenio
+T3	Term-DPEJ 335 343	convenio
+T4	Term-DPEJ 423 431	convenio
+T5	Term-DPEJ 207 225	convenio colectivo
+T6	Term-DPEJ 335 353	convenio colectivo
+T7	Term-DPEJ 423 441	convenio colectivo
+T8	Term-DPEJ 357 364	cuantía
+T9	Term-DPEJ 115 118	año
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-Termcat 335 343	convenio
+T12	Term-Termcat 423 431	convenio
+T13	Term-Termcat 207 215	convenio
+T14	Term-Termcat 266 280	representantes
+T15	Term-Termcat 0 8	Artículo
+T16	Term-Termcat 207 225	convenio colectivo
+T17	Term-Termcat 423 441	convenio colectivo
+T18	Term-Termcat 335 353	convenio colectivo
+T19	Term-Termcat 152 159	fiestas
+T20	Term-Termcat 508 521	mensualidades
+T21	Term-Termcat 66 73	derecho
+T22	Term-Termcat 232 239	acuerdo
+T23	Term-Termcat 281 288	legales
+T24	Term-Termcat 357 364	cuantía
+T25	Term-Termcat 266 288	representantes legales
+T26	Term-DV 52 56	baja
+T27	Term-DV 299 303	baja
+T28	Term-DV 414 417	dar
+T29	Term-DV 66 73	derecho
+T30	Term-DV 249 256	empresa
+T31	Term-DV 249 259	empresario
+T32	Term-DV 218 225	lectivo
+T33	Term-DV 346 353	lectivo
+T34	Term-DV 434 441	lectivo
+T35	Term-DV 281 286	legal
+T36	Term-DV 49 59	trabajador
+T37	Term-DV 296 306	trabajador
+T38	Term-DV 30 31	x
+T39	Term-DV 97 98	x
+T40	Term-DV 467 468	x
+T41	Term-AttentionRank 357 364	cuantía
+T42	Term-AttentionRank 266 280	representantes
+T43	Term-AttentionRank 266 288	representantes legales
+T44	Term-AttentionRank 266 288	representantes legales
+T45	Term-AttentionRank 232 239	acuerdo
+T46	Term-AttentionRank 115 118	año
+T47	Term-AttentionRank 232 259	acuerdo entre el empresario
+T48	Term-AttentionRank 0 8	Artículo
+T49	Term-AttentionRank 80 118	gratificaciones extraordinarias al año
+T50	Term-AttentionRank 187 190	mes
+T51	Term-AttentionRank 207 215	convenio
+T52	Term-AttentionRank 335 343	convenio
+T53	Term-AttentionRank 423 431	convenio
+T54	Term-AttentionRank 368 373	tales
+T55	Term-AttentionRank 508 521	mensualidades
+T56	Term-AttentionRank 13 44	Gratificaciones extraordinarias
+T57	Term-AttentionRank 80 111	gratificaciones extraordinarias
+T58	Term-AttentionRank 450 481	gratificaciones extraordinarias
+T59	Term-AttentionRank 49 59	trabajador
+T60	Term-AttentionRank 296 308	trabajadores
+T61	Term-AttentionRank 66 73	derecho
+T62	Term-AttentionRank 207 225	convenio colectivo
+T63	Term-AttentionRank 335 353	convenio colectivo
+T64	Term-AttentionRank 423 441	convenio colectivo
+T65	Term-AttentionRank 137 159	ocasión de las fiestas
+T66	Term-AttentionRank 152 159	fiestas
+T67	Term-AttentionRank 249 259	empresario
+T68	Term-LabourLaw 207 225	convenio colectivo
+T69	Term-LabourLaw 335 353	convenio colectivo
+T70	Term-LabourLaw 423 441	convenio colectivo
+T71	Term-LabourLaw 80 111	gratificaciones extraordinarias
+T72	Term-LabourLaw 450 481	gratificaciones extraordinarias
+T73	Term-LabourLaw 266 279	representante
+T74	Term-LabourLaw 49 59	trabajador
+T75	Term-LabourLaw 296 306	trabajador
+T76	Term-LabourLaw 249 259	empresario
+T77	Term-LabourLaw 357 364	cuantía
+T78	Term-LabourLaw 249 256	empresa
+T79	Term-LabourLaw 66 73	derecho
+T80	Term-LabourLaw 216 225	colectivo
+T81	Term-LabourLaw 344 353	colectivo
+T82	Term-LabourLaw 432 441	colectivo
+T83	Term-LabourLaw 152 159	fiestas
+T84	Term-IATE 0 8	Artículo
+T85	Term-IATE 232 239	acuerdo
+T86	Term-IATE 249 259	empresario
+T87	Term-IATE 49 59	trabajador
+T88	Term-IATE 296 308	trabajadores
+T89	Term-IATE 266 280	representantes
+T90	Term-IATE 207 215	convenio
+T91	Term-IATE 335 343	convenio
+T92	Term-IATE 423 431	convenio
+T93	Term-IATE 187 190	mes

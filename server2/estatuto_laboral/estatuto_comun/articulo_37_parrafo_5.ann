@@ -1,238 +1,238 @@
-T1 Term-DPEJ 1337 1353 servicio público
-T2 Term-DPEJ 1073 1078 cargo
-T3 Term-DPEJ 564 578 consanguinidad
-T4 Term-DPEJ 1365 1371 órgano
-T5 Term-DPEJ 1357 1362 salud
-T6 Term-DPEJ 285 292 trabajo
-T7 Term-DPEJ 885 892 trabajo
-T8 Term-DPEJ 338 345 salario
-T9 Term-DPEJ 930 937 salario
-T10 Term-DPEJ 1365 1386 órgano administrativo
-T11 Term-DPEJ 216 225 actividad
-T12 Term-DPEJ 746 755 actividad
-T13 Term-DPEJ 1403 1421 comunidad autónoma
-T14 Term-DPEJ 1509 1520 acogimiento
-T15 Term-DPEJ 63 71 apartado
-T16 Term-DPEJ 274 281 jornada
-T17 Term-DPEJ 874 881 jornada
-T18 Term-DPEJ 667 671 edad
-T19 Term-DPEJ 1337 1345 servicio
-T20 Term-DPEJ 25 32 permiso
-T21 Term-DPEJ 1403 1412 comunidad
-T22 Term-DPEJ 159 163 años
-T23 Term-DPEJ 1588 1592 años
-T24 Term-DPEJ 258 267 reducción
-T25 Term-DPEJ 858 867 reducción
-T26 Term-Termcat 1403 1421 comunidad autónoma
-T27 Term-Termcat 1325 1332 informe
-T28 Term-Termcat 1365 1386 órgano administrativo
-T29 Term-Termcat 25 32 permiso
-T30 Term-Termcat 1337 1353 servicio público
-T31 Term-Termcat 806 814 adopción
-T32 Term-Termcat 1557 1565 adopción
-T33 Term-Termcat 581 589 afinidad
-T34 Term-Termcat 1403 1412 comunidad
-T35 Term-Termcat 564 578 consanguinidad
-T36 Term-Termcat 182 194 discapacidad
-T37 Term-Termcat 667 671 edad
-T38 Term-Termcat 8 16 disfrute
-T39 Term-Termcat 555 560 grado
-T40 Term-Termcat 99 105 guarda
-T41 Term-Termcat 1537 1543 guarda
-T42 Term-Termcat 631 646 pareja de hecho
-T43 Term-Termcat 507 522 pareja de hecho
-T44 Term-Termcat 1251 1260 necesidad
-T45 Term-Termcat 673 682 accidente
-T46 Term-Termcat 123 130 cuidado
-T47 Term-Termcat 477 484 cuidado
-T48 Term-Termcat 1267 1274 cuidado
-T49 Term-Termcat 996 1003 cuidado
-T50 Term-Termcat 1073 1078 cargo
-T51 Term-Termcat 99 111 guarda legal
-T52 Term-Termcat 1198 1205 ingreso
-T53 Term-Termcat 874 892 jornada de trabajo
-T54 Term-Termcat 274 292 jornada de trabajo
-T55 Term-Termcat 930 937 salario
-T56 Term-Termcat 338 345 salario
-T57 Term-Termcat 403 411 duración
-T58 Term-Termcat 967 975 duración
-T59 Term-Termcat 1228 1236 duración
-T60 Term-Termcat 440 447 derecho
-T61 Term-Termcat 244 251 derecho
-T62 Term-Termcat 844 851 derecho
-T63 Term-Termcat 1474 1481 persona
-T64 Term-Termcat 170 177 persona
-T65 Term-Termcat 1509 1520 acogimiento
-T66 Term-Termcat 216 225 actividad
-T67 Term-Termcat 746 755 actividad
-T68 Term-Termcat 497 504 cónyuge
-T69 Term-Termcat 106 111 legal
-T70 Term-Termcat 1062 1067 menor
-T71 Term-Termcat 145 150 menor
-T72 Term-Termcat 1365 1371 órgano
-T73 Term-Termcat 517 522 hecho
-T74 Term-Termcat 641 646 hecho
-T75 Term-DV 274 292 jornada de trabajo
-T76 Term-DV 874 892 jornada de trabajo
-T77 Term-DV 1337 1353 servicio público
-T78 Term-DV 673 682 accidente
-T79 Term-DV 1092 1098 cáncer
-T80 Term-DV 185 189 capa
-T81 Term-DV 185 194 capacidad
-T82 Term-DV 464 469 carga
-T83 Term-DV 1073 1078 cargo
-T84 Term-DV 1403 1412 comunidad
-T85 Term-DV 244 251 derecho
-T86 Term-DV 440 447 derecho
-T87 Term-DV 844 851 derecho
-T88 Term-DV 667 671 edad
-T89 Term-DV 691 695 edad
-T90 Term-DV 1170 1174 edad
-T91 Term-DV 529 536 familia
-T92 Term-DV 603 610 familia
-T93 Term-DV 687 689 fe
-T94 Term-DV 1080 1082 fe
-T95 Term-DV 1166 1168 fe
-T96 Term-DV 517 522 hecho
-T97 Term-DV 641 646 hecho
-T98 Term-DV 1467 1471 hijo
-T99 Term-DV 106 111 legal
-T100 Term-DV 1251 1260 necesidad
-T101 Term-DV 1499 1505 objeto
-T102 Term-DV 988 992 para
-T103 Term-DV 25 32 permiso
-T104 Term-DV 170 177 persona
-T105 Term-DV 1474 1481 persona
-T106 Term-DV 1346 1353 público
-T107 Term-DV 258 267 reducción
-T108 Term-DV 858 867 reducción
-T109 Term-DV 338 342 sala
-T110 Term-DV 930 934 sala
-T111 Term-DV 338 345 salario
-T112 Term-DV 930 937 salario
-T113 Term-DV 1337 1345 servicio
-T114 Term-DV 705 709 vale
-T115 Term-DV 51 54 vis
-T116 Term-DV 380 381 x
-T117 Term-DV 1448 1449 x
-T118 Term-AttentionRank 1337 1353 servicio público
-T119 Term-AttentionRank 309 333 disminución proporcional
-T120 Term-AttentionRank 901 925 disminución proporcional
-T121 Term-AttentionRank 564 578 consanguinidad
-T122 Term-AttentionRank 1509 1531 acogimiento permanente
-T123 Term-AttentionRank 159 163 años
-T124 Term-AttentionRank 1588 1592 años
-T125 Term-AttentionRank 1073 1078 cargo
-T126 Term-AttentionRank 391 396 mitad
-T127 Term-AttentionRank 955 960 mitad
-T128 Term-AttentionRank 274 281 jornada
-T129 Term-AttentionRank 874 881 jornada
-T130 Term-AttentionRank 1403 1412 comunidad
-T131 Term-AttentionRank 1467 1471 hijo
-T132 Term-AttentionRank 1357 1362 salud
-T133 Term-AttentionRank 1509 1520 acogimiento
-T134 Term-AttentionRank 797 802 fines
-T135 Term-AttentionRank 1548 1553 fines
-T136 Term-AttentionRank 123 138 cuidado directo
-T137 Term-AttentionRank 477 492 cuidado directo
-T138 Term-AttentionRank 1267 1282 cuidado directo
-T139 Term-AttentionRank 1100 1116 tumores malignos
-T140 Term-AttentionRank 258 267 reducción
-T141 Term-AttentionRank 858 867 reducción
-T142 Term-AttentionRank 170 177 persona
-T143 Term-AttentionRank 1474 1481 persona
-T144 Term-AttentionRank 216 225 actividad
-T145 Term-AttentionRank 746 755 actividad
-T146 Term-AttentionRank 1034 1045 tratamiento
-T147 Term-AttentionRank 1325 1332 informe
-T148 Term-AttentionRank 403 411 duración
-T149 Term-AttentionRank 967 975 duración
-T150 Term-AttentionRank 1228 1236 duración
-T151 Term-AttentionRank 1337 1345 servicio
-T152 Term-AttentionRank 25 32 permiso
-T153 Term-AttentionRank 1577 1587 veintitrés
-T154 Term-AttentionRank 1365 1371 órgano
-T155 Term-AttentionRank 123 130 cuidado
-T156 Term-AttentionRank 477 484 cuidado
-T157 Term-AttentionRank 996 1003 cuidado
-T158 Term-AttentionRank 1267 1274 cuidado
-T159 Term-AttentionRank 338 351 salario entre
-T160 Term-AttentionRank 507 513 pareja
-T161 Term-AttentionRank 631 637 pareja
-T162 Term-AttentionRank 338 345 salario
-T163 Term-AttentionRank 930 937 salario
-T164 Term-AttentionRank 216 236 actividad retribuida
-T165 Term-AttentionRank 746 766 actividad retribuida
-T166 Term-AttentionRank 244 251 derecho
-T167 Term-AttentionRank 440 447 derecho
-T168 Term-AttentionRank 844 851 derecho
-T169 Term-AttentionRank 771 781 progenitor
-T170 Term-AttentionRank 806 814 adopción
-T171 Term-AttentionRank 1557 1565 adopción
-T172 Term-AttentionRank 547 560 segundo grado
-T173 Term-AttentionRank 667 671 edad
-T174 Term-AttentionRank 1403 1421 comunidad autónoma
-T175 Term-AttentionRank 285 292 trabajo
-T176 Term-AttentionRank 885 892 trabajo
-T177 Term-AttentionRank 1251 1260 necesidad
-T178 Term-AttentionRank 63 71 apartado
-T179 Term-LabourLaw 274 292 jornada de trabajo
-T180 Term-LabourLaw 874 892 jornada de trabajo
-T181 Term-LabourLaw 274 292 jornada de trabajo
-T182 Term-LabourLaw 874 892 jornada de trabajo
-T183 Term-LabourLaw 806 814 adopción
-T184 Term-LabourLaw 1557 1565 adopción
-T185 Term-LabourLaw 274 281 jornada
-T186 Term-LabourLaw 874 881 jornada
-T187 Term-LabourLaw 274 281 jornada
-T188 Term-LabourLaw 874 881 jornada
-T189 Term-LabourLaw 285 292 trabajo
-T190 Term-LabourLaw 885 892 trabajo
-T191 Term-LabourLaw 338 345 salario
-T192 Term-LabourLaw 930 937 salario
-T193 Term-LabourLaw 145 150 menor
-T194 Term-LabourLaw 1062 1067 menor
-T195 Term-LabourLaw 673 682 accidente
-T196 Term-LabourLaw 182 194 discapacidad
-T197 Term-LabourLaw 497 504 cónyuge
-T198 Term-LabourLaw 1365 1371 órgano
-T199 Term-LabourLaw 1073 1078 cargo
-T200 Term-LabourLaw 1337 1345 servicio
-T201 Term-LabourLaw 667 671 edad
-T202 Term-LabourLaw 691 695 edad
-T203 Term-LabourLaw 1170 1174 edad
-T204 Term-LabourLaw 403 411 duración
-T205 Term-LabourLaw 967 975 duración
-T206 Term-LabourLaw 1228 1236 duración
-T207 Term-LabourLaw 244 251 derecho
-T208 Term-LabourLaw 440 447 derecho
-T209 Term-LabourLaw 844 851 derecho
-T210 Term-LabourLaw 581 589 afinidad
-T211 Term-LabourLaw 564 578 consanguinidad
-T212 Term-LabourLaw 1403 1412 comunidad
-T213 Term-LabourLaw 555 560 grado
-T214 Term-LabourLaw 25 32 permiso
-T215 Term-LabourLaw 170 177 persona
-T216 Term-LabourLaw 1474 1481 persona
-T217 Term-LabourLaw 25 32 permiso
-T218 Term-LabourLaw 25 32 permiso
-T219 Term-IATE 1073 1078 cargo
-T220 Term-IATE 1034 1045 tratamiento
-T221 Term-IATE 1325 1332 informe
-T222 Term-IATE 771 781 progenitor
-T223 Term-IATE 258 267 reducción
-T224 Term-IATE 858 867 reducción
-T225 Term-IATE 338 345 salario
-T226 Term-IATE 930 937 salario
-T227 Term-IATE 1403 1412 comunidad
-T228 Term-IATE 806 814 adopción
-T229 Term-IATE 1557 1565 adopción
-T230 Term-IATE 25 32 permiso
-T231 Term-IATE 63 71 apartado
-T232 Term-IATE 564 578 consanguinidad
-T233 Term-IATE 216 225 actividad
-T234 Term-IATE 746 755 actividad
-T235 Term-IATE 1467 1471 hijo
-T236 Term-IATE 403 411 duración
-T237 Term-IATE 967 975 duración
-T238 Term-IATE 1228 1236 duración
+T1	Term-DPEJ 1337 1353	servicio público
+T2	Term-DPEJ 1073 1078	cargo
+T3	Term-DPEJ 564 578	consanguinidad
+T4	Term-DPEJ 1365 1371	órgano
+T5	Term-DPEJ 1357 1362	salud
+T6	Term-DPEJ 285 292	trabajo
+T7	Term-DPEJ 885 892	trabajo
+T8	Term-DPEJ 338 345	salario
+T9	Term-DPEJ 930 937	salario
+T10	Term-DPEJ 1365 1386	órgano administrativo
+T11	Term-DPEJ 216 225	actividad
+T12	Term-DPEJ 746 755	actividad
+T13	Term-DPEJ 1403 1421	comunidad autónoma
+T14	Term-DPEJ 1509 1520	acogimiento
+T15	Term-DPEJ 63 71	apartado
+T16	Term-DPEJ 274 281	jornada
+T17	Term-DPEJ 874 881	jornada
+T18	Term-DPEJ 667 671	edad
+T19	Term-DPEJ 1337 1345	servicio
+T20	Term-DPEJ 25 32	permiso
+T21	Term-DPEJ 1403 1412	comunidad
+T22	Term-DPEJ 159 163	años
+T23	Term-DPEJ 1588 1592	años
+T24	Term-DPEJ 258 267	reducción
+T25	Term-DPEJ 858 867	reducción
+T26	Term-Termcat 1403 1421	comunidad autónoma
+T27	Term-Termcat 1325 1332	informe
+T28	Term-Termcat 1365 1386	órgano administrativo
+T29	Term-Termcat 25 32	permiso
+T30	Term-Termcat 1337 1353	servicio público
+T31	Term-Termcat 806 814	adopción
+T32	Term-Termcat 1557 1565	adopción
+T33	Term-Termcat 581 589	afinidad
+T34	Term-Termcat 1403 1412	comunidad
+T35	Term-Termcat 564 578	consanguinidad
+T36	Term-Termcat 182 194	discapacidad
+T37	Term-Termcat 667 671	edad
+T38	Term-Termcat 8 16	disfrute
+T39	Term-Termcat 555 560	grado
+T40	Term-Termcat 99 105	guarda
+T41	Term-Termcat 1537 1543	guarda
+T42	Term-Termcat 631 646	pareja de hecho
+T43	Term-Termcat 507 522	pareja de hecho
+T44	Term-Termcat 1251 1260	necesidad
+T45	Term-Termcat 673 682	accidente
+T46	Term-Termcat 123 130	cuidado
+T47	Term-Termcat 477 484	cuidado
+T48	Term-Termcat 1267 1274	cuidado
+T49	Term-Termcat 996 1003	cuidado
+T50	Term-Termcat 1073 1078	cargo
+T51	Term-Termcat 99 111	guarda legal
+T52	Term-Termcat 1198 1205	ingreso
+T53	Term-Termcat 874 892	jornada de trabajo
+T54	Term-Termcat 274 292	jornada de trabajo
+T55	Term-Termcat 930 937	salario
+T56	Term-Termcat 338 345	salario
+T57	Term-Termcat 403 411	duración
+T58	Term-Termcat 967 975	duración
+T59	Term-Termcat 1228 1236	duración
+T60	Term-Termcat 440 447	derecho
+T61	Term-Termcat 244 251	derecho
+T62	Term-Termcat 844 851	derecho
+T63	Term-Termcat 1474 1481	persona
+T64	Term-Termcat 170 177	persona
+T65	Term-Termcat 1509 1520	acogimiento
+T66	Term-Termcat 216 225	actividad
+T67	Term-Termcat 746 755	actividad
+T68	Term-Termcat 497 504	cónyuge
+T69	Term-Termcat 106 111	legal
+T70	Term-Termcat 1062 1067	menor
+T71	Term-Termcat 145 150	menor
+T72	Term-Termcat 1365 1371	órgano
+T73	Term-Termcat 517 522	hecho
+T74	Term-Termcat 641 646	hecho
+T75	Term-DV 274 292	jornada de trabajo
+T76	Term-DV 874 892	jornada de trabajo
+T77	Term-DV 1337 1353	servicio público
+T78	Term-DV 673 682	accidente
+T79	Term-DV 1092 1098	cáncer
+T80	Term-DV 185 189	capa
+T81	Term-DV 185 194	capacidad
+T82	Term-DV 464 469	carga
+T83	Term-DV 1073 1078	cargo
+T84	Term-DV 1403 1412	comunidad
+T85	Term-DV 244 251	derecho
+T86	Term-DV 440 447	derecho
+T87	Term-DV 844 851	derecho
+T88	Term-DV 667 671	edad
+T89	Term-DV 691 695	edad
+T90	Term-DV 1170 1174	edad
+T91	Term-DV 529 536	familia
+T92	Term-DV 603 610	familia
+T93	Term-DV 687 689	fe
+T94	Term-DV 1080 1082	fe
+T95	Term-DV 1166 1168	fe
+T96	Term-DV 517 522	hecho
+T97	Term-DV 641 646	hecho
+T98	Term-DV 1467 1471	hijo
+T99	Term-DV 106 111	legal
+T100	Term-DV 1251 1260	necesidad
+T101	Term-DV 1499 1505	objeto
+T102	Term-DV 988 992	para
+T103	Term-DV 25 32	permiso
+T104	Term-DV 170 177	persona
+T105	Term-DV 1474 1481	persona
+T106	Term-DV 1346 1353	público
+T107	Term-DV 258 267	reducción
+T108	Term-DV 858 867	reducción
+T109	Term-DV 338 342	sala
+T110	Term-DV 930 934	sala
+T111	Term-DV 338 345	salario
+T112	Term-DV 930 937	salario
+T113	Term-DV 1337 1345	servicio
+T114	Term-DV 705 709	vale
+T115	Term-DV 51 54	vis
+T116	Term-DV 380 381	x
+T117	Term-DV 1448 1449	x
+T118	Term-AttentionRank 1337 1353	servicio público
+T119	Term-AttentionRank 309 333	disminución proporcional
+T120	Term-AttentionRank 901 925	disminución proporcional
+T121	Term-AttentionRank 564 578	consanguinidad
+T122	Term-AttentionRank 1509 1531	acogimiento permanente
+T123	Term-AttentionRank 159 163	años
+T124	Term-AttentionRank 1588 1592	años
+T125	Term-AttentionRank 1073 1078	cargo
+T126	Term-AttentionRank 391 396	mitad
+T127	Term-AttentionRank 955 960	mitad
+T128	Term-AttentionRank 274 281	jornada
+T129	Term-AttentionRank 874 881	jornada
+T130	Term-AttentionRank 1403 1412	comunidad
+T131	Term-AttentionRank 1467 1471	hijo
+T132	Term-AttentionRank 1357 1362	salud
+T133	Term-AttentionRank 1509 1520	acogimiento
+T134	Term-AttentionRank 797 802	fines
+T135	Term-AttentionRank 1548 1553	fines
+T136	Term-AttentionRank 123 138	cuidado directo
+T137	Term-AttentionRank 477 492	cuidado directo
+T138	Term-AttentionRank 1267 1282	cuidado directo
+T139	Term-AttentionRank 1100 1116	tumores malignos
+T140	Term-AttentionRank 258 267	reducción
+T141	Term-AttentionRank 858 867	reducción
+T142	Term-AttentionRank 170 177	persona
+T143	Term-AttentionRank 1474 1481	persona
+T144	Term-AttentionRank 216 225	actividad
+T145	Term-AttentionRank 746 755	actividad
+T146	Term-AttentionRank 1034 1045	tratamiento
+T147	Term-AttentionRank 1325 1332	informe
+T148	Term-AttentionRank 403 411	duración
+T149	Term-AttentionRank 967 975	duración
+T150	Term-AttentionRank 1228 1236	duración
+T151	Term-AttentionRank 1337 1345	servicio
+T152	Term-AttentionRank 25 32	permiso
+T153	Term-AttentionRank 1577 1587	veintitrés
+T154	Term-AttentionRank 1365 1371	órgano
+T155	Term-AttentionRank 123 130	cuidado
+T156	Term-AttentionRank 477 484	cuidado
+T157	Term-AttentionRank 996 1003	cuidado
+T158	Term-AttentionRank 1267 1274	cuidado
+T159	Term-AttentionRank 338 351	salario entre
+T160	Term-AttentionRank 507 513	pareja
+T161	Term-AttentionRank 631 637	pareja
+T162	Term-AttentionRank 338 345	salario
+T163	Term-AttentionRank 930 937	salario
+T164	Term-AttentionRank 216 236	actividad retribuida
+T165	Term-AttentionRank 746 766	actividad retribuida
+T166	Term-AttentionRank 244 251	derecho
+T167	Term-AttentionRank 440 447	derecho
+T168	Term-AttentionRank 844 851	derecho
+T169	Term-AttentionRank 771 781	progenitor
+T170	Term-AttentionRank 806 814	adopción
+T171	Term-AttentionRank 1557 1565	adopción
+T172	Term-AttentionRank 547 560	segundo grado
+T173	Term-AttentionRank 667 671	edad
+T174	Term-AttentionRank 1403 1421	comunidad autónoma
+T175	Term-AttentionRank 285 292	trabajo
+T176	Term-AttentionRank 885 892	trabajo
+T177	Term-AttentionRank 1251 1260	necesidad
+T178	Term-AttentionRank 63 71	apartado
+T179	Term-LabourLaw 274 292	jornada de trabajo
+T180	Term-LabourLaw 874 892	jornada de trabajo
+T181	Term-LabourLaw 274 292	jornada de trabajo
+T182	Term-LabourLaw 874 892	jornada de trabajo
+T183	Term-LabourLaw 806 814	adopción
+T184	Term-LabourLaw 1557 1565	adopción
+T185	Term-LabourLaw 274 281	jornada
+T186	Term-LabourLaw 874 881	jornada
+T187	Term-LabourLaw 274 281	jornada
+T188	Term-LabourLaw 874 881	jornada
+T189	Term-LabourLaw 285 292	trabajo
+T190	Term-LabourLaw 885 892	trabajo
+T191	Term-LabourLaw 338 345	salario
+T192	Term-LabourLaw 930 937	salario
+T193	Term-LabourLaw 145 150	menor
+T194	Term-LabourLaw 1062 1067	menor
+T195	Term-LabourLaw 673 682	accidente
+T196	Term-LabourLaw 182 194	discapacidad
+T197	Term-LabourLaw 497 504	cónyuge
+T198	Term-LabourLaw 1365 1371	órgano
+T199	Term-LabourLaw 1073 1078	cargo
+T200	Term-LabourLaw 1337 1345	servicio
+T201	Term-LabourLaw 667 671	edad
+T202	Term-LabourLaw 691 695	edad
+T203	Term-LabourLaw 1170 1174	edad
+T204	Term-LabourLaw 403 411	duración
+T205	Term-LabourLaw 967 975	duración
+T206	Term-LabourLaw 1228 1236	duración
+T207	Term-LabourLaw 244 251	derecho
+T208	Term-LabourLaw 440 447	derecho
+T209	Term-LabourLaw 844 851	derecho
+T210	Term-LabourLaw 581 589	afinidad
+T211	Term-LabourLaw 564 578	consanguinidad
+T212	Term-LabourLaw 1403 1412	comunidad
+T213	Term-LabourLaw 555 560	grado
+T214	Term-LabourLaw 25 32	permiso
+T215	Term-LabourLaw 170 177	persona
+T216	Term-LabourLaw 1474 1481	persona
+T217	Term-LabourLaw 25 32	permiso
+T218	Term-LabourLaw 25 32	permiso
+T219	Term-IATE 1073 1078	cargo
+T220	Term-IATE 1034 1045	tratamiento
+T221	Term-IATE 1325 1332	informe
+T222	Term-IATE 771 781	progenitor
+T223	Term-IATE 258 267	reducción
+T224	Term-IATE 858 867	reducción
+T225	Term-IATE 338 345	salario
+T226	Term-IATE 930 937	salario
+T227	Term-IATE 1403 1412	comunidad
+T228	Term-IATE 806 814	adopción
+T229	Term-IATE 1557 1565	adopción
+T230	Term-IATE 25 32	permiso
+T231	Term-IATE 63 71	apartado
+T232	Term-IATE 564 578	consanguinidad
+T233	Term-IATE 216 225	actividad
+T234	Term-IATE 746 755	actividad
+T235	Term-IATE 1467 1471	hijo
+T236	Term-IATE 403 411	duración
+T237	Term-IATE 967 975	duración
+T238	Term-IATE 1228 1236	duración

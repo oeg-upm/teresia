@@ -1,301 +1,301 @@
-T1 Term-DPEJ 360 364 caso
-T2 Term-DPEJ 126 143 jornada ordinaria
-T3 Term-DPEJ 1591 1608 jornada ordinaria
-T4 Term-DPEJ 166 173 acuerdo
-T5 Term-DPEJ 482 490 ausencia
-T6 Term-DPEJ 1407 1414 ámbitos
-T7 Term-DPEJ 494 499 pacto
-T8 Term-DPEJ 71 78 trabajo
-T9 Term-DPEJ 147 154 trabajo
-T10 Term-DPEJ 924 931 empresa
-T11 Term-DPEJ 209 217 convenio
-T12 Term-DPEJ 246 254 contrato
-T13 Term-DPEJ 839 847 contrato
-T14 Term-DPEJ 1395 1404 actividad
-T15 Term-DPEJ 209 227 convenio colectivo
-T16 Term-DPEJ 434 441 tiempos
-T17 Term-DPEJ 1330 1336 tiempo
-T18 Term-DPEJ 767 775 apartado
-T19 Term-DPEJ 325 332 cuantía
-T20 Term-DPEJ 126 133 jornada
-T21 Term-DPEJ 863 870 jornada
-T22 Term-DPEJ 902 909 jornada
-T23 Term-DPEJ 1591 1598 jornada
-T24 Term-DPEJ 1039 1047 jornadas
-T25 Term-DPEJ 738 741 año
-T26 Term-DPEJ 181 189 artículo
-T27 Term-DPEJ 1386 1391 ramas
-T28 Term-DPEJ 671 677 número
-T29 Term-DPEJ 936 942 número
-T30 Term-DPEJ 1287 1293 número
-T31 Term-DPEJ 1641 1647 número
-T32 Term-Termcat 209 217 convenio
-T33 Term-Termcat 482 490 ausencia
-T34 Term-Termcat 1822 1834 compensación
-T35 Term-Termcat 839 847 contrato
-T36 Term-Termcat 246 254 contrato
-T37 Term-Termcat 494 499 pacto
-T38 Term-Termcat 1768 1773 daños
-T39 Term-Termcat 181 189 artículo
-T40 Term-Termcat 1407 1428 ámbitos territoriales
-T41 Term-Termcat 1515 1524 desempleo
-T42 Term-Termcat 246 265 contrato individual
-T43 Term-Termcat 209 227 convenio colectivo
-T44 Term-Termcat 458 466 descanso
-T45 Term-Termcat 1182 1190 descanso
-T46 Term-Termcat 600 608 descanso
-T47 Term-Termcat 924 931 empresa
-T48 Term-Termcat 147 154 trabajo
-T49 Term-Termcat 71 78 trabajo
-T50 Term-Termcat 1840 1861 horas extraordinarias
-T51 Term-Termcat 959 980 horas extraordinarias
-T52 Term-Termcat 31 52 horas extraordinarias
-T53 Term-Termcat 1662 1683 horas extraordinarias
-T54 Term-Termcat 1124 1145 horas extraordinarias
-T55 Term-Termcat 534 555 horas extraordinarias
-T56 Term-Termcat 681 702 horas extraordinarias
-T57 Term-Termcat 1304 1325 horas extraordinarias
-T58 Term-Termcat 126 143 jornada ordinaria
-T59 Term-Termcat 1591 1608 jornada ordinaria
-T60 Term-Termcat 104 112 duración
-T61 Term-Termcat 824 832 duración
-T62 Term-Termcat 1569 1577 duración
-T63 Term-Termcat 1250 1258 Gobierno
-T64 Term-Termcat 166 173 acuerdo
-T65 Term-Termcat 1395 1404 actividad
-T66 Term-Termcat 1468 1478 colocación
-T67 Term-Termcat 1545 1551 cuenta
-T68 Term-Termcat 874 881 cómputo
-T69 Term-Termcat 1629 1636 cómputo
-T70 Term-Termcat 1055 1062 efectos
-T71 Term-Termcat 1555 1562 efectos
-T72 Term-Termcat 255 265 individual
-T73 Term-Termcat 1806 1815 perjuicio
-T74 Term-Termcat 325 332 cuantía
-T75 Term-Termcat 1749 1759 siniestros
-T76 Term-Termcat 716 724 superior
-T77 Term-Termcat 1700 1706 exceso
-T78 Term-Termcat 1451 1464 oportunidades
-T79 Term-Termcat 1276 1283 reducir
-T80 Term-DV 283 289 abonar
-T81 Term-DV 791 795 baja
-T82 Term-DV 1489 1493 baja
-T83 Term-DV 1717 1721 baja
-T84 Term-DV 1468 1478 colocación
-T85 Term-DV 1822 1834 compensación
-T86 Term-DV 1109 1117 computar
-T87 Term-DV 1768 1772 daño
-T88 Term-DV 567 571 debe
-T89 Term-DV 237 244 defecto
-T90 Term-DV 1055 1062 efectos
-T91 Term-DV 1555 1562 efectos
-T92 Term-DV 924 931 empresa
-T93 Term-DV 239 241 fe
-T94 Term-DV 377 379 fe
-T95 Term-DV 890 892 fe
-T96 Term-DV 1056 1058 fe
-T97 Term-DV 1556 1558 fe
-T98 Term-DV 1794 1800 gentes
-T99 Term-DV 1809 1815 juicio
-T100 Term-DV 1609 1616 laboral
-T101 Term-DV 220 227 lectivo
-T102 Term-DV 1470 1478 locación
-T103 Term-DV 1779 1788 ordinario
-T104 Term-DV 494 499 pacto
-T105 Term-DV 1373 1377 para
-T106 Term-DV 1430 1434 para
-T107 Term-DV 1621 1625 para
-T108 Term-DV 1725 1729 para
-T109 Term-DV 1743 1747 para
-T110 Term-DV 1806 1815 perjuicio
-T111 Term-DV 1386 1390 rama
-T112 Term-DV 250 254 rato
-T113 Term-DV 843 847 rato
-T114 Term-DV 86 90 real
-T115 Term-DV 556 560 real
-T116 Term-DV 652 656 real
-T117 Term-DV 848 852 real
-T118 Term-DV 1234 1238 real
-T119 Term-DV 1749 1758 siniestro
-T120 Term-DV 518 524 tender
-T121 Term-DV 788 798 trabajador
-T122 Term-DV 1486 1496 trabajador
-T123 Term-DV 446 450 vale
-T124 Term-DV 387 392 valor
-T125 Term-DV 259 265 vidual
-T126 Term-DV 755 758 vis
-T127 Term-DV 38 39 x
-T128 Term-DV 115 116 x
-T129 Term-DV 301 302 x
-T130 Term-DV 541 542 x
-T131 Term-DV 688 689 x
-T132 Term-DV 945 946 x
-T133 Term-DV 966 967 x
-T134 Term-DV 1021 1022 x
-T135 Term-DV 1131 1132 x
-T136 Term-DV 1296 1297 x
-T137 Term-DV 1311 1312 x
-T138 Term-DV 1580 1581 x
-T139 Term-DV 1650 1651 x
-T140 Term-DV 1669 1670 x
-T141 Term-DV 1701 1702 x
-T142 Term-DV 1775 1776 x
-T143 Term-DV 1847 1848 x
-T144 Term-AttentionRank 1502 1511 situación
-T145 Term-AttentionRank 325 332 cuantía
-T146 Term-AttentionRank 181 198 artículo anterior
-T147 Term-AttentionRank 434 441 tiempos
-T148 Term-AttentionRank 1330 1336 tiempo
-T149 Term-AttentionRank 494 499 pacto
-T150 Term-AttentionRank 936 949 número máximo
-T151 Term-AttentionRank 1287 1300 número máximo
-T152 Term-AttentionRank 1641 1654 número máximo
-T153 Term-AttentionRank 166 189 acuerdo con el artículo
-T154 Term-AttentionRank 166 173 acuerdo
-T155 Term-AttentionRank 738 741 año
-T156 Term-AttentionRank 1768 1773 daños
-T157 Term-AttentionRank 126 133 jornada
-T158 Term-AttentionRank 863 870 jornada
-T159 Term-AttentionRank 902 909 jornada
-T160 Term-AttentionRank 1591 1598 jornada
-T161 Term-AttentionRank 1039 1047 jornadas
-T162 Term-AttentionRank 1354 1362 carácter
-T163 Term-AttentionRank 1055 1065 efectos de
-T164 Term-AttentionRank 1555 1565 efectos de
-T165 Term-AttentionRank 1386 1391 ramas
-T166 Term-AttentionRank 181 189 artículo
-T167 Term-AttentionRank 630 663 meses siguientes a su realización
-T168 Term-AttentionRank 1212 1245 meses siguientes a su realización
-T169 Term-AttentionRank 1407 1428 ámbitos territoriales
-T170 Term-AttentionRank 1407 1414 ámbitos
-T171 Term-AttentionRank 630 635 meses
-T172 Term-AttentionRank 1212 1217 meses
-T173 Term-AttentionRank 209 217 convenio
-T174 Term-AttentionRank 126 143 jornada ordinaria
-T175 Term-AttentionRank 1591 1608 jornada ordinaria
-T176 Term-AttentionRank 1033 1038 tales
-T177 Term-AttentionRank 1395 1404 actividad
-T178 Term-AttentionRank 1662 1695 horas extraordinarias autorizadas
-T179 Term-AttentionRank 104 119 duración máxima
-T180 Term-AttentionRank 1569 1584 duración máxima
-T181 Term-AttentionRank 104 112 duración
-T182 Term-AttentionRank 824 832 duración
-T183 Term-AttentionRank 1569 1577 duración
-T184 Term-AttentionRank 812 821 modalidad
-T185 Term-AttentionRank 788 800 trabajadores
-T186 Term-AttentionRank 1486 1498 trabajadores
-T187 Term-AttentionRank 294 307 horas extraor
-T188 Term-AttentionRank 924 931 empresa
-T189 Term-AttentionRank 31 52 horas extraordinarias
-T190 Term-AttentionRank 534 555 horas extraordinarias
-T191 Term-AttentionRank 681 702 horas extraordinarias
-T192 Term-AttentionRank 959 980 horas extraordinarias
-T193 Term-AttentionRank 1124 1145 horas extraordinarias
-T194 Term-AttentionRank 1304 1325 horas extraordinarias
-T195 Term-AttentionRank 1662 1683 horas extraordinarias
-T196 Term-AttentionRank 1840 1861 horas extraordinarias
-T197 Term-AttentionRank 31 36 horas
-T198 Term-AttentionRank 62 67 horas
-T199 Term-AttentionRank 294 299 horas
-T200 Term-AttentionRank 534 539 horas
-T201 Term-AttentionRank 681 686 horas
-T202 Term-AttentionRank 959 964 horas
-T203 Term-AttentionRank 1124 1129 horas
-T204 Term-AttentionRank 1304 1309 horas
-T205 Term-AttentionRank 1662 1667 horas
-T206 Term-AttentionRank 1840 1845 horas
-T207 Term-AttentionRank 399 403 hora
-T208 Term-AttentionRank 458 466 descanso
-T209 Term-AttentionRank 600 608 descanso
-T210 Term-AttentionRank 1182 1190 descanso
-T211 Term-AttentionRank 1515 1524 desempleo
-T212 Term-AttentionRank 1304 1348 horas extraordinarias por tiempo determinado
-T213 Term-AttentionRank 652 663 realización
-T214 Term-AttentionRank 1234 1245 realización
-T215 Term-AttentionRank 1005 1015 proporción
-T216 Term-AttentionRank 874 887 cómputo anual
-T217 Term-AttentionRank 874 881 cómputo
-T218 Term-AttentionRank 1629 1636 cómputo
-T219 Term-AttentionRank 671 677 número
-T220 Term-AttentionRank 936 942 número
-T221 Term-AttentionRank 1287 1293 número
-T222 Term-AttentionRank 1641 1647 número
-T223 Term-AttentionRank 482 490 ausencia
-T224 Term-AttentionRank 246 254 contrato
-T225 Term-AttentionRank 839 847 contrato
-T226 Term-AttentionRank 1055 1062 efectos
-T227 Term-AttentionRank 1555 1562 efectos
-T228 Term-AttentionRank 209 227 convenio colectivo
-T229 Term-AttentionRank 14 27 consideración
-T230 Term-AttentionRank 71 78 trabajo
-T231 Term-AttentionRank 147 154 trabajo
-T232 Term-AttentionRank 458 477 descanso retribuido
-T233 Term-AttentionRank 360 364 caso
-T234 Term-AttentionRank 767 775 apartado
-T235 Term-LabourLaw 209 227 convenio colectivo
-T236 Term-LabourLaw 874 887 cómputo anual
-T237 Term-LabourLaw 126 143 jornada ordinaria
-T238 Term-LabourLaw 1591 1608 jornada ordinaria
-T239 Term-LabourLaw 399 413 hora ordinaria
-T240 Term-LabourLaw 126 133 jornada
-T241 Term-LabourLaw 863 870 jornada
-T242 Term-LabourLaw 902 909 jornada
-T243 Term-LabourLaw 1039 1046 jornada
-T244 Term-LabourLaw 1591 1598 jornada
-T245 Term-LabourLaw 126 133 jornada
-T246 Term-LabourLaw 863 870 jornada
-T247 Term-LabourLaw 902 909 jornada
-T248 Term-LabourLaw 1039 1046 jornada
-T249 Term-LabourLaw 1591 1598 jornada
-T250 Term-LabourLaw 71 78 trabajo
-T251 Term-LabourLaw 147 154 trabajo
-T252 Term-LabourLaw 246 254 contrato
-T253 Term-LabourLaw 839 847 contrato
-T254 Term-LabourLaw 494 499 pacto
-T255 Term-LabourLaw 458 466 descanso
-T256 Term-LabourLaw 600 608 descanso
-T257 Term-LabourLaw 1182 1190 descanso
-T258 Term-LabourLaw 1515 1524 desempleo
-T259 Term-LabourLaw 788 798 trabajador
-T260 Term-LabourLaw 1486 1496 trabajador
-T261 Term-LabourLaw 1407 1413 ámbito
-T262 Term-LabourLaw 1822 1834 compensación
-T263 Term-LabourLaw 567 572 deber
-T264 Term-LabourLaw 325 332 cuantía
-T265 Term-LabourLaw 482 490 ausencia
-T266 Term-LabourLaw 237 244 defecto
-T267 Term-LabourLaw 924 931 empresa
-T268 Term-LabourLaw 104 112 duración
-T269 Term-LabourLaw 824 832 duración
-T270 Term-LabourLaw 1569 1577 duración
-T271 Term-LabourLaw 1806 1815 perjuicio
-T272 Term-LabourLaw 1109 1117 computar
-T273 Term-LabourLaw 218 227 colectivo
-T274 Term-LabourLaw 1518 1524 empleo
-T275 Term-LabourLaw 482 490 ausencia
-T276 Term-IATE 652 663 realización
-T277 Term-IATE 1234 1245 realización
-T278 Term-IATE 181 189 artículo
-T279 Term-IATE 166 173 acuerdo
-T280 Term-IATE 924 931 empresa
-T281 Term-IATE 1502 1511 situación
-T282 Term-IATE 1515 1524 desempleo
-T283 Term-IATE 767 775 apartado
-T284 Term-IATE 788 800 trabajadores
-T285 Term-IATE 1486 1498 trabajadores
-T286 Term-IATE 1768 1773 daños
-T287 Term-IATE 1395 1404 actividad
-T288 Term-IATE 1354 1362 carácter
-T289 Term-IATE 246 254 contrato
-T290 Term-IATE 839 847 contrato
-T291 Term-IATE 1055 1062 efectos
-T292 Term-IATE 1555 1562 efectos
-T293 Term-IATE 458 466 descanso
-T294 Term-IATE 600 608 descanso
-T295 Term-IATE 1182 1190 descanso
-T296 Term-IATE 209 217 convenio
-T297 Term-IATE 630 635 meses
-T298 Term-IATE 1212 1217 meses
-T299 Term-IATE 104 112 duración
-T300 Term-IATE 824 832 duración
-T301 Term-IATE 1569 1577 duración
+T1	Term-DPEJ 360 364	caso
+T2	Term-DPEJ 126 143	jornada ordinaria
+T3	Term-DPEJ 1591 1608	jornada ordinaria
+T4	Term-DPEJ 166 173	acuerdo
+T5	Term-DPEJ 482 490	ausencia
+T6	Term-DPEJ 1407 1414	ámbitos
+T7	Term-DPEJ 494 499	pacto
+T8	Term-DPEJ 71 78	trabajo
+T9	Term-DPEJ 147 154	trabajo
+T10	Term-DPEJ 924 931	empresa
+T11	Term-DPEJ 209 217	convenio
+T12	Term-DPEJ 246 254	contrato
+T13	Term-DPEJ 839 847	contrato
+T14	Term-DPEJ 1395 1404	actividad
+T15	Term-DPEJ 209 227	convenio colectivo
+T16	Term-DPEJ 434 441	tiempos
+T17	Term-DPEJ 1330 1336	tiempo
+T18	Term-DPEJ 767 775	apartado
+T19	Term-DPEJ 325 332	cuantía
+T20	Term-DPEJ 126 133	jornada
+T21	Term-DPEJ 863 870	jornada
+T22	Term-DPEJ 902 909	jornada
+T23	Term-DPEJ 1591 1598	jornada
+T24	Term-DPEJ 1039 1047	jornadas
+T25	Term-DPEJ 738 741	año
+T26	Term-DPEJ 181 189	artículo
+T27	Term-DPEJ 1386 1391	ramas
+T28	Term-DPEJ 671 677	número
+T29	Term-DPEJ 936 942	número
+T30	Term-DPEJ 1287 1293	número
+T31	Term-DPEJ 1641 1647	número
+T32	Term-Termcat 209 217	convenio
+T33	Term-Termcat 482 490	ausencia
+T34	Term-Termcat 1822 1834	compensación
+T35	Term-Termcat 839 847	contrato
+T36	Term-Termcat 246 254	contrato
+T37	Term-Termcat 494 499	pacto
+T38	Term-Termcat 1768 1773	daños
+T39	Term-Termcat 181 189	artículo
+T40	Term-Termcat 1407 1428	ámbitos territoriales
+T41	Term-Termcat 1515 1524	desempleo
+T42	Term-Termcat 246 265	contrato individual
+T43	Term-Termcat 209 227	convenio colectivo
+T44	Term-Termcat 458 466	descanso
+T45	Term-Termcat 1182 1190	descanso
+T46	Term-Termcat 600 608	descanso
+T47	Term-Termcat 924 931	empresa
+T48	Term-Termcat 147 154	trabajo
+T49	Term-Termcat 71 78	trabajo
+T50	Term-Termcat 1840 1861	horas extraordinarias
+T51	Term-Termcat 959 980	horas extraordinarias
+T52	Term-Termcat 31 52	horas extraordinarias
+T53	Term-Termcat 1662 1683	horas extraordinarias
+T54	Term-Termcat 1124 1145	horas extraordinarias
+T55	Term-Termcat 534 555	horas extraordinarias
+T56	Term-Termcat 681 702	horas extraordinarias
+T57	Term-Termcat 1304 1325	horas extraordinarias
+T58	Term-Termcat 126 143	jornada ordinaria
+T59	Term-Termcat 1591 1608	jornada ordinaria
+T60	Term-Termcat 104 112	duración
+T61	Term-Termcat 824 832	duración
+T62	Term-Termcat 1569 1577	duración
+T63	Term-Termcat 1250 1258	Gobierno
+T64	Term-Termcat 166 173	acuerdo
+T65	Term-Termcat 1395 1404	actividad
+T66	Term-Termcat 1468 1478	colocación
+T67	Term-Termcat 1545 1551	cuenta
+T68	Term-Termcat 874 881	cómputo
+T69	Term-Termcat 1629 1636	cómputo
+T70	Term-Termcat 1055 1062	efectos
+T71	Term-Termcat 1555 1562	efectos
+T72	Term-Termcat 255 265	individual
+T73	Term-Termcat 1806 1815	perjuicio
+T74	Term-Termcat 325 332	cuantía
+T75	Term-Termcat 1749 1759	siniestros
+T76	Term-Termcat 716 724	superior
+T77	Term-Termcat 1700 1706	exceso
+T78	Term-Termcat 1451 1464	oportunidades
+T79	Term-Termcat 1276 1283	reducir
+T80	Term-DV 283 289	abonar
+T81	Term-DV 791 795	baja
+T82	Term-DV 1489 1493	baja
+T83	Term-DV 1717 1721	baja
+T84	Term-DV 1468 1478	colocación
+T85	Term-DV 1822 1834	compensación
+T86	Term-DV 1109 1117	computar
+T87	Term-DV 1768 1772	daño
+T88	Term-DV 567 571	debe
+T89	Term-DV 237 244	defecto
+T90	Term-DV 1055 1062	efectos
+T91	Term-DV 1555 1562	efectos
+T92	Term-DV 924 931	empresa
+T93	Term-DV 239 241	fe
+T94	Term-DV 377 379	fe
+T95	Term-DV 890 892	fe
+T96	Term-DV 1056 1058	fe
+T97	Term-DV 1556 1558	fe
+T98	Term-DV 1794 1800	gentes
+T99	Term-DV 1809 1815	juicio
+T100	Term-DV 1609 1616	laboral
+T101	Term-DV 220 227	lectivo
+T102	Term-DV 1470 1478	locación
+T103	Term-DV 1779 1788	ordinario
+T104	Term-DV 494 499	pacto
+T105	Term-DV 1373 1377	para
+T106	Term-DV 1430 1434	para
+T107	Term-DV 1621 1625	para
+T108	Term-DV 1725 1729	para
+T109	Term-DV 1743 1747	para
+T110	Term-DV 1806 1815	perjuicio
+T111	Term-DV 1386 1390	rama
+T112	Term-DV 250 254	rato
+T113	Term-DV 843 847	rato
+T114	Term-DV 86 90	real
+T115	Term-DV 556 560	real
+T116	Term-DV 652 656	real
+T117	Term-DV 848 852	real
+T118	Term-DV 1234 1238	real
+T119	Term-DV 1749 1758	siniestro
+T120	Term-DV 518 524	tender
+T121	Term-DV 788 798	trabajador
+T122	Term-DV 1486 1496	trabajador
+T123	Term-DV 446 450	vale
+T124	Term-DV 387 392	valor
+T125	Term-DV 259 265	vidual
+T126	Term-DV 755 758	vis
+T127	Term-DV 38 39	x
+T128	Term-DV 115 116	x
+T129	Term-DV 301 302	x
+T130	Term-DV 541 542	x
+T131	Term-DV 688 689	x
+T132	Term-DV 945 946	x
+T133	Term-DV 966 967	x
+T134	Term-DV 1021 1022	x
+T135	Term-DV 1131 1132	x
+T136	Term-DV 1296 1297	x
+T137	Term-DV 1311 1312	x
+T138	Term-DV 1580 1581	x
+T139	Term-DV 1650 1651	x
+T140	Term-DV 1669 1670	x
+T141	Term-DV 1701 1702	x
+T142	Term-DV 1775 1776	x
+T143	Term-DV 1847 1848	x
+T144	Term-AttentionRank 1502 1511	situación
+T145	Term-AttentionRank 325 332	cuantía
+T146	Term-AttentionRank 181 198	artículo anterior
+T147	Term-AttentionRank 434 441	tiempos
+T148	Term-AttentionRank 1330 1336	tiempo
+T149	Term-AttentionRank 494 499	pacto
+T150	Term-AttentionRank 936 949	número máximo
+T151	Term-AttentionRank 1287 1300	número máximo
+T152	Term-AttentionRank 1641 1654	número máximo
+T153	Term-AttentionRank 166 189	acuerdo con el artículo
+T154	Term-AttentionRank 166 173	acuerdo
+T155	Term-AttentionRank 738 741	año
+T156	Term-AttentionRank 1768 1773	daños
+T157	Term-AttentionRank 126 133	jornada
+T158	Term-AttentionRank 863 870	jornada
+T159	Term-AttentionRank 902 909	jornada
+T160	Term-AttentionRank 1591 1598	jornada
+T161	Term-AttentionRank 1039 1047	jornadas
+T162	Term-AttentionRank 1354 1362	carácter
+T163	Term-AttentionRank 1055 1065	efectos de
+T164	Term-AttentionRank 1555 1565	efectos de
+T165	Term-AttentionRank 1386 1391	ramas
+T166	Term-AttentionRank 181 189	artículo
+T167	Term-AttentionRank 630 663	meses siguientes a su realización
+T168	Term-AttentionRank 1212 1245	meses siguientes a su realización
+T169	Term-AttentionRank 1407 1428	ámbitos territoriales
+T170	Term-AttentionRank 1407 1414	ámbitos
+T171	Term-AttentionRank 630 635	meses
+T172	Term-AttentionRank 1212 1217	meses
+T173	Term-AttentionRank 209 217	convenio
+T174	Term-AttentionRank 126 143	jornada ordinaria
+T175	Term-AttentionRank 1591 1608	jornada ordinaria
+T176	Term-AttentionRank 1033 1038	tales
+T177	Term-AttentionRank 1395 1404	actividad
+T178	Term-AttentionRank 1662 1695	horas extraordinarias autorizadas
+T179	Term-AttentionRank 104 119	duración máxima
+T180	Term-AttentionRank 1569 1584	duración máxima
+T181	Term-AttentionRank 104 112	duración
+T182	Term-AttentionRank 824 832	duración
+T183	Term-AttentionRank 1569 1577	duración
+T184	Term-AttentionRank 812 821	modalidad
+T185	Term-AttentionRank 788 800	trabajadores
+T186	Term-AttentionRank 1486 1498	trabajadores
+T187	Term-AttentionRank 294 307	horas extraor
+T188	Term-AttentionRank 924 931	empresa
+T189	Term-AttentionRank 31 52	horas extraordinarias
+T190	Term-AttentionRank 534 555	horas extraordinarias
+T191	Term-AttentionRank 681 702	horas extraordinarias
+T192	Term-AttentionRank 959 980	horas extraordinarias
+T193	Term-AttentionRank 1124 1145	horas extraordinarias
+T194	Term-AttentionRank 1304 1325	horas extraordinarias
+T195	Term-AttentionRank 1662 1683	horas extraordinarias
+T196	Term-AttentionRank 1840 1861	horas extraordinarias
+T197	Term-AttentionRank 31 36	horas
+T198	Term-AttentionRank 62 67	horas
+T199	Term-AttentionRank 294 299	horas
+T200	Term-AttentionRank 534 539	horas
+T201	Term-AttentionRank 681 686	horas
+T202	Term-AttentionRank 959 964	horas
+T203	Term-AttentionRank 1124 1129	horas
+T204	Term-AttentionRank 1304 1309	horas
+T205	Term-AttentionRank 1662 1667	horas
+T206	Term-AttentionRank 1840 1845	horas
+T207	Term-AttentionRank 399 403	hora
+T208	Term-AttentionRank 458 466	descanso
+T209	Term-AttentionRank 600 608	descanso
+T210	Term-AttentionRank 1182 1190	descanso
+T211	Term-AttentionRank 1515 1524	desempleo
+T212	Term-AttentionRank 1304 1348	horas extraordinarias por tiempo determinado
+T213	Term-AttentionRank 652 663	realización
+T214	Term-AttentionRank 1234 1245	realización
+T215	Term-AttentionRank 1005 1015	proporción
+T216	Term-AttentionRank 874 887	cómputo anual
+T217	Term-AttentionRank 874 881	cómputo
+T218	Term-AttentionRank 1629 1636	cómputo
+T219	Term-AttentionRank 671 677	número
+T220	Term-AttentionRank 936 942	número
+T221	Term-AttentionRank 1287 1293	número
+T222	Term-AttentionRank 1641 1647	número
+T223	Term-AttentionRank 482 490	ausencia
+T224	Term-AttentionRank 246 254	contrato
+T225	Term-AttentionRank 839 847	contrato
+T226	Term-AttentionRank 1055 1062	efectos
+T227	Term-AttentionRank 1555 1562	efectos
+T228	Term-AttentionRank 209 227	convenio colectivo
+T229	Term-AttentionRank 14 27	consideración
+T230	Term-AttentionRank 71 78	trabajo
+T231	Term-AttentionRank 147 154	trabajo
+T232	Term-AttentionRank 458 477	descanso retribuido
+T233	Term-AttentionRank 360 364	caso
+T234	Term-AttentionRank 767 775	apartado
+T235	Term-LabourLaw 209 227	convenio colectivo
+T236	Term-LabourLaw 874 887	cómputo anual
+T237	Term-LabourLaw 126 143	jornada ordinaria
+T238	Term-LabourLaw 1591 1608	jornada ordinaria
+T239	Term-LabourLaw 399 413	hora ordinaria
+T240	Term-LabourLaw 126 133	jornada
+T241	Term-LabourLaw 863 870	jornada
+T242	Term-LabourLaw 902 909	jornada
+T243	Term-LabourLaw 1039 1046	jornada
+T244	Term-LabourLaw 1591 1598	jornada
+T245	Term-LabourLaw 126 133	jornada
+T246	Term-LabourLaw 863 870	jornada
+T247	Term-LabourLaw 902 909	jornada
+T248	Term-LabourLaw 1039 1046	jornada
+T249	Term-LabourLaw 1591 1598	jornada
+T250	Term-LabourLaw 71 78	trabajo
+T251	Term-LabourLaw 147 154	trabajo
+T252	Term-LabourLaw 246 254	contrato
+T253	Term-LabourLaw 839 847	contrato
+T254	Term-LabourLaw 494 499	pacto
+T255	Term-LabourLaw 458 466	descanso
+T256	Term-LabourLaw 600 608	descanso
+T257	Term-LabourLaw 1182 1190	descanso
+T258	Term-LabourLaw 1515 1524	desempleo
+T259	Term-LabourLaw 788 798	trabajador
+T260	Term-LabourLaw 1486 1496	trabajador
+T261	Term-LabourLaw 1407 1413	ámbito
+T262	Term-LabourLaw 1822 1834	compensación
+T263	Term-LabourLaw 567 572	deber
+T264	Term-LabourLaw 325 332	cuantía
+T265	Term-LabourLaw 482 490	ausencia
+T266	Term-LabourLaw 237 244	defecto
+T267	Term-LabourLaw 924 931	empresa
+T268	Term-LabourLaw 104 112	duración
+T269	Term-LabourLaw 824 832	duración
+T270	Term-LabourLaw 1569 1577	duración
+T271	Term-LabourLaw 1806 1815	perjuicio
+T272	Term-LabourLaw 1109 1117	computar
+T273	Term-LabourLaw 218 227	colectivo
+T274	Term-LabourLaw 1518 1524	empleo
+T275	Term-LabourLaw 482 490	ausencia
+T276	Term-IATE 652 663	realización
+T277	Term-IATE 1234 1245	realización
+T278	Term-IATE 181 189	artículo
+T279	Term-IATE 166 173	acuerdo
+T280	Term-IATE 924 931	empresa
+T281	Term-IATE 1502 1511	situación
+T282	Term-IATE 1515 1524	desempleo
+T283	Term-IATE 767 775	apartado
+T284	Term-IATE 788 800	trabajadores
+T285	Term-IATE 1486 1498	trabajadores
+T286	Term-IATE 1768 1773	daños
+T287	Term-IATE 1395 1404	actividad
+T288	Term-IATE 1354 1362	carácter
+T289	Term-IATE 246 254	contrato
+T290	Term-IATE 839 847	contrato
+T291	Term-IATE 1055 1062	efectos
+T292	Term-IATE 1555 1562	efectos
+T293	Term-IATE 458 466	descanso
+T294	Term-IATE 600 608	descanso
+T295	Term-IATE 1182 1190	descanso
+T296	Term-IATE 209 217	convenio
+T297	Term-IATE 630 635	meses
+T298	Term-IATE 1212 1217	meses
+T299	Term-IATE 104 112	duración
+T300	Term-IATE 824 832	duración
+T301	Term-IATE 1569 1577	duración

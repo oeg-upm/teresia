@@ -1,292 +1,292 @@
-T1 Term-DPEJ 651 655 caso
-T2 Term-DPEJ 1329 1333 caso
-T3 Term-DPEJ 583 590 acuerdo
-T4 Term-DPEJ 260 278 edad de jubilación
-T5 Term-DPEJ 994 1012 edad de jubilación
-T6 Term-DPEJ 1400 1418 edad de jubilación
-T7 Term-DPEJ 377 386 Seguridad
-T8 Term-DPEJ 1091 1100 Seguridad
-T9 Term-DPEJ 1484 1493 Seguridad
-T10 Term-DPEJ 475 482 empresa
-T11 Term-DPEJ 1559 1566 empresa
-T12 Term-DPEJ 359 370 Ley General
-T13 Term-DPEJ 1073 1084 Ley General
-T14 Term-DPEJ 1466 1477 Ley General
-T15 Term-DPEJ 72 80 contrato
-T16 Term-DPEJ 487 495 contrato
-T17 Term-DPEJ 835 843 contrato
-T18 Term-DPEJ 1134 1142 contrato
-T19 Term-DPEJ 1251 1259 contrato
-T20 Term-DPEJ 1518 1526 contrato
-T21 Term-DPEJ 111 123 consecuencia
-T22 Term-DPEJ 201 207 tiempo
-T23 Term-DPEJ 932 938 tiempo
-T24 Term-DPEJ 1306 1312 tiempo
-T25 Term-DPEJ 359 362 Ley
-T26 Term-DPEJ 1073 1076 Ley
-T27 Term-DPEJ 1466 1469 Ley
-T28 Term-DPEJ 820 828 apartado
-T29 Term-DPEJ 1594 1601 jornada
-T30 Term-DPEJ 260 264 edad
-T31 Term-DPEJ 416 420 edad
-T32 Term-DPEJ 994 998 edad
-T33 Term-DPEJ 1400 1404 edad
-T34 Term-DPEJ 699 702 año
-T35 Term-DPEJ 924 928 años
-T36 Term-DPEJ 901 910 resultado
-T37 Term-Termcat 1274 1282 términos
-T38 Term-Termcat 487 495 contrato
-T39 Term-Termcat 835 843 contrato
-T40 Term-Termcat 1518 1526 contrato
-T41 Term-Termcat 1251 1259 contrato
-T42 Term-Termcat 72 80 contrato
-T43 Term-Termcat 1134 1142 contrato
-T44 Term-Termcat 1400 1404 edad
-T45 Term-Termcat 260 264 edad
-T46 Term-Termcat 994 998 edad
-T47 Term-Termcat 416 420 edad
-T48 Term-Termcat 1466 1469 Ley
-T49 Term-Termcat 1073 1076 Ley
-T50 Term-Termcat 359 362 Ley
-T51 Term-Termcat 1051 1066 texto refundido
-T52 Term-Termcat 1444 1459 texto refundido
-T53 Term-Termcat 337 352 texto refundido
-T54 Term-Termcat 599 605 partes
-T55 Term-Termcat 1585 1590 parte
-T56 Term-Termcat 1559 1566 empresa
-T57 Term-Termcat 475 482 empresa
-T58 Term-Termcat 728 738 jubilación
-T59 Term-Termcat 1408 1418 jubilación
-T60 Term-Termcat 268 278 jubilación
-T61 Term-Termcat 1002 1012 jubilación
-T62 Term-Termcat 131 149 jubilación parcial
-T63 Term-Termcat 1609 1616 vacante
-T64 Term-Termcat 1091 1107 Seguridad Social
-T65 Term-Termcat 377 393 Seguridad Social
-T66 Term-Termcat 1484 1500 Seguridad Social
-T67 Term-Termcat 883 891 duración
-T68 Term-Termcat 535 543 duración
-T69 Term-Termcat 1175 1183 duración
-T70 Term-Termcat 59 67 duración
-T71 Term-Termcat 1505 1513 duración
-T72 Term-Termcat 1091 1100 Seguridad
-T73 Term-Termcat 377 386 Seguridad
-T74 Term-Termcat 1484 1493 Seguridad
-T75 Term-Termcat 583 590 acuerdo
-T76 Term-Termcat 1039 1047 conforme
-T77 Term-Termcat 305 313 conforme
-T78 Term-Termcat 1505 1526 duración del contrato
-T79 Term-Termcat 59 80 duración del contrato
-T80 Term-Termcat 1382 1387 haber
-T81 Term-Termcat 131 141 jubilación
-T82 Term-Termcat 1530 1536 relevo
-T83 Term-Termcat 499 505 relevo
-T84 Term-Termcat 847 853 relevo
-T85 Term-Termcat 84 90 relevo
-T86 Term-Termcat 901 910 resultado
-T87 Term-DV 224 228 baja
-T88 Term-DV 428 432 baja
-T89 Term-DV 752 756 baja
-T90 Term-DV 958 962 baja
-T91 Term-DV 1341 1345 baja
-T92 Term-DV 854 858 debe
-T93 Term-DV 260 264 edad
-T94 Term-DV 416 420 edad
-T95 Term-DV 994 998 edad
-T96 Term-DV 1400 1404 edad
-T97 Term-DV 475 482 empresa
-T98 Term-DV 1204 1211 empresa
-T99 Term-DV 1559 1566 empresa
-T100 Term-DV 1204 1214 empresario
-T101 Term-DV 1382 1387 haber
-T102 Term-DV 131 141 jubilación
-T103 Term-DV 268 278 jubilación
-T104 Term-DV 728 738 jubilación
-T105 Term-DV 1002 1012 jubilación
-T106 Term-DV 1408 1418 jubilación
-T107 Term-DV 916 919 mar
-T108 Term-DV 1222 1230 obligado
-T109 Term-DV 142 149 parcial
-T110 Term-DV 445 452 parcial
-T111 Term-DV 1358 1365 parcial
-T112 Term-DV 243 247 para
-T113 Term-DV 977 981 para
-T114 Term-DV 1567 1571 para
-T115 Term-DV 599 604 parte
-T116 Term-DV 1585 1590 parte
-T117 Term-DV 76 80 rato
-T118 Term-DV 491 495 rato
-T119 Term-DV 839 843 rato
-T120 Term-DV 1138 1142 rato
-T121 Term-DV 1255 1259 rato
-T122 Term-DV 1522 1526 rato
-T123 Term-DV 221 231 trabajador
-T124 Term-DV 425 435 trabajador
-T125 Term-DV 749 759 trabajador
-T126 Term-DV 955 965 trabajador
-T127 Term-DV 1338 1348 trabajador
-T128 Term-DV 1609 1616 vacante
-T129 Term-DV 788 791 vis
-T130 Term-DV 1432 1435 vis
-T131 Term-DV 1432 1437 vista
-T132 Term-DV 339 340 x
-T133 Term-DV 629 630 x
-T134 Term-DV 1053 1054 x
-T135 Term-DV 1147 1148 x
-T136 Term-DV 1288 1289 x
-T137 Term-DV 1446 1447 x
-T138 Term-AttentionRank 201 207 tiempo
-T139 Term-AttentionRank 932 938 tiempo
-T140 Term-AttentionRank 1306 1312 tiempo
-T141 Term-AttentionRank 111 123 consecuencia
-T142 Term-AttentionRank 599 605 partes
-T143 Term-AttentionRank 1585 1590 parte
-T144 Term-AttentionRank 583 590 acuerdo
-T145 Term-AttentionRank 901 910 resultado
-T146 Term-AttentionRank 699 702 año
-T147 Term-AttentionRank 924 928 años
-T148 Term-AttentionRank 84 90 relevo
-T149 Term-AttentionRank 499 505 relevo
-T150 Term-AttentionRank 847 853 relevo
-T151 Term-AttentionRank 1530 1536 relevo
-T152 Term-AttentionRank 1594 1601 jornada
-T153 Term-AttentionRank 610 618 periodos
-T154 Term-AttentionRank 672 679 periodo
-T155 Term-AttentionRank 739 744 total
-T156 Term-AttentionRank 377 386 Seguridad
-T157 Term-AttentionRank 1091 1100 Seguridad
-T158 Term-AttentionRank 1484 1493 Seguridad
-T159 Term-AttentionRank 268 288 jubilación ordinaria
-T160 Term-AttentionRank 1002 1022 jubilación ordinaria
-T161 Term-AttentionRank 1408 1428 jubilación ordinaria
-T162 Term-AttentionRank 111 149 consecuencia de una jubilación parcial
-T163 Term-AttentionRank 776 784 supuesto
-T164 Term-AttentionRank 1115 1123 supuesto
-T165 Term-AttentionRank 535 555 duración determinada
-T166 Term-AttentionRank 1338 1381 trabajador jubilado parcialmente después de
-T167 Term-AttentionRank 59 67 duración
-T168 Term-AttentionRank 535 543 duración
-T169 Term-AttentionRank 883 891 duración
-T170 Term-AttentionRank 1175 1183 duración
-T171 Term-AttentionRank 1505 1513 duración
-T172 Term-AttentionRank 221 231 trabajador
-T173 Term-AttentionRank 425 435 trabajador
-T174 Term-AttentionRank 749 759 trabajador
-T175 Term-AttentionRank 955 965 trabajador
-T176 Term-AttentionRank 1338 1348 trabajador
-T177 Term-AttentionRank 583 605 acuerdo con las partes
-T178 Term-AttentionRank 475 482 empresa
-T179 Term-AttentionRank 1559 1566 empresa
-T180 Term-AttentionRank 425 444 trabajador jubilado
-T181 Term-AttentionRank 1338 1357 trabajador jubilado
-T182 Term-AttentionRank 359 362 Ley
-T183 Term-AttentionRank 1073 1076 Ley
-T184 Term-AttentionRank 1466 1469 Ley
-T185 Term-AttentionRank 377 393 Seguridad Social
-T186 Term-AttentionRank 1091 1107 Seguridad Social
-T187 Term-AttentionRank 1484 1500 Seguridad Social
-T188 Term-AttentionRank 1594 1608 jornada dejada
-T189 Term-AttentionRank 672 702 periodo correspondiente al año
-T190 Term-AttentionRank 221 242 trabajador sustituido
-T191 Term-AttentionRank 955 976 trabajador sustituido
-T192 Term-AttentionRank 72 80 contrato
-T193 Term-AttentionRank 487 495 contrato
-T194 Term-AttentionRank 835 843 contrato
-T195 Term-AttentionRank 1134 1142 contrato
-T196 Term-AttentionRank 1251 1259 contrato
-T197 Term-AttentionRank 1518 1526 contrato
-T198 Term-AttentionRank 260 264 edad
-T199 Term-AttentionRank 416 420 edad
-T200 Term-AttentionRank 994 998 edad
-T201 Term-AttentionRank 1400 1404 edad
-T202 Term-AttentionRank 1245 1259 nuevo contrato
-T203 Term-AttentionRank 749 768 trabajador relevado
-T204 Term-AttentionRank 131 149 jubilación parcial
-T205 Term-AttentionRank 651 655 caso
-T206 Term-AttentionRank 1329 1333 caso
-T207 Term-AttentionRank 1204 1214 empresario
-T208 Term-AttentionRank 337 352 texto refundido
-T209 Term-AttentionRank 1051 1066 texto refundido
-T210 Term-AttentionRank 1444 1459 texto refundido
-T211 Term-AttentionRank 820 828 apartado
-T212 Term-LabourLaw 72 90 contrato de relevo
-T213 Term-LabourLaw 487 505 contrato de relevo
-T214 Term-LabourLaw 835 853 contrato de relevo
-T215 Term-LabourLaw 1518 1536 contrato de relevo
-T216 Term-LabourLaw 59 80 duración del contrato
-T217 Term-LabourLaw 1505 1526 duración del contrato
-T218 Term-LabourLaw 260 278 edad de jubilación
-T219 Term-LabourLaw 994 1012 edad de jubilación
-T220 Term-LabourLaw 1400 1418 edad de jubilación
-T221 Term-LabourLaw 131 149 jubilación parcial
-T222 Term-LabourLaw 337 352 texto refundido
-T223 Term-LabourLaw 1051 1066 texto refundido
-T224 Term-LabourLaw 1444 1459 texto refundido
-T225 Term-LabourLaw 672 695 periodo correspondiente
-T226 Term-LabourLaw 1594 1601 jornada
-T227 Term-LabourLaw 1594 1601 jornada
-T228 Term-LabourLaw 343 352 refundido
-T229 Term-LabourLaw 1057 1066 refundido
-T230 Term-LabourLaw 1450 1459 refundido
-T231 Term-LabourLaw 72 80 contrato
-T232 Term-LabourLaw 487 495 contrato
-T233 Term-LabourLaw 835 843 contrato
-T234 Term-LabourLaw 1134 1142 contrato
-T235 Term-LabourLaw 1251 1259 contrato
-T236 Term-LabourLaw 1518 1526 contrato
-T237 Term-LabourLaw 221 231 trabajador
-T238 Term-LabourLaw 425 435 trabajador
-T239 Term-LabourLaw 749 759 trabajador
-T240 Term-LabourLaw 955 965 trabajador
-T241 Term-LabourLaw 1338 1348 trabajador
-T242 Term-LabourLaw 436 444 jubilado
-T243 Term-LabourLaw 1349 1357 jubilado
-T244 Term-LabourLaw 854 859 deber
-T245 Term-LabourLaw 1204 1214 empresario
-T246 Term-LabourLaw 260 264 edad
-T247 Term-LabourLaw 416 420 edad
-T248 Term-LabourLaw 994 998 edad
-T249 Term-LabourLaw 1400 1404 edad
-T250 Term-LabourLaw 475 482 empresa
-T251 Term-LabourLaw 1204 1211 empresa
-T252 Term-LabourLaw 1559 1566 empresa
-T253 Term-LabourLaw 59 67 duración
-T254 Term-LabourLaw 535 543 duración
-T255 Term-LabourLaw 883 891 duración
-T256 Term-LabourLaw 1175 1183 duración
-T257 Term-LabourLaw 1505 1513 duración
-T258 Term-LabourLaw 1274 1281 término
-T259 Term-LabourLaw 131 141 jubilación
-T260 Term-LabourLaw 268 278 jubilación
-T261 Term-LabourLaw 728 738 jubilación
-T262 Term-LabourLaw 1002 1012 jubilación
-T263 Term-LabourLaw 1408 1418 jubilación
-T264 Term-LabourLaw 562 571 prorrogar
-T265 Term-LabourLaw 610 617 periodo
-T266 Term-LabourLaw 672 679 periodo
-T267 Term-IATE 599 605 partes
-T268 Term-IATE 1585 1590 parte
-T269 Term-IATE 583 590 acuerdo
-T270 Term-IATE 475 482 empresa
-T271 Term-IATE 1559 1566 empresa
-T272 Term-IATE 1204 1214 empresario
-T273 Term-IATE 820 828 apartado
-T274 Term-IATE 221 231 trabajador
-T275 Term-IATE 425 435 trabajador
-T276 Term-IATE 749 759 trabajador
-T277 Term-IATE 955 965 trabajador
-T278 Term-IATE 1338 1348 trabajador
-T279 Term-IATE 377 386 Seguridad
-T280 Term-IATE 1091 1100 Seguridad
-T281 Term-IATE 1484 1493 Seguridad
-T282 Term-IATE 72 80 contrato
-T283 Term-IATE 487 495 contrato
-T284 Term-IATE 835 843 contrato
-T285 Term-IATE 1134 1142 contrato
-T286 Term-IATE 1251 1259 contrato
-T287 Term-IATE 1518 1526 contrato
-T288 Term-IATE 59 67 duración
-T289 Term-IATE 535 543 duración
-T290 Term-IATE 883 891 duración
-T291 Term-IATE 1175 1183 duración
-T292 Term-IATE 1505 1513 duración
+T1	Term-DPEJ 651 655	caso
+T2	Term-DPEJ 1329 1333	caso
+T3	Term-DPEJ 583 590	acuerdo
+T4	Term-DPEJ 260 278	edad de jubilación
+T5	Term-DPEJ 994 1012	edad de jubilación
+T6	Term-DPEJ 1400 1418	edad de jubilación
+T7	Term-DPEJ 377 386	Seguridad
+T8	Term-DPEJ 1091 1100	Seguridad
+T9	Term-DPEJ 1484 1493	Seguridad
+T10	Term-DPEJ 475 482	empresa
+T11	Term-DPEJ 1559 1566	empresa
+T12	Term-DPEJ 359 370	Ley General
+T13	Term-DPEJ 1073 1084	Ley General
+T14	Term-DPEJ 1466 1477	Ley General
+T15	Term-DPEJ 72 80	contrato
+T16	Term-DPEJ 487 495	contrato
+T17	Term-DPEJ 835 843	contrato
+T18	Term-DPEJ 1134 1142	contrato
+T19	Term-DPEJ 1251 1259	contrato
+T20	Term-DPEJ 1518 1526	contrato
+T21	Term-DPEJ 111 123	consecuencia
+T22	Term-DPEJ 201 207	tiempo
+T23	Term-DPEJ 932 938	tiempo
+T24	Term-DPEJ 1306 1312	tiempo
+T25	Term-DPEJ 359 362	Ley
+T26	Term-DPEJ 1073 1076	Ley
+T27	Term-DPEJ 1466 1469	Ley
+T28	Term-DPEJ 820 828	apartado
+T29	Term-DPEJ 1594 1601	jornada
+T30	Term-DPEJ 260 264	edad
+T31	Term-DPEJ 416 420	edad
+T32	Term-DPEJ 994 998	edad
+T33	Term-DPEJ 1400 1404	edad
+T34	Term-DPEJ 699 702	año
+T35	Term-DPEJ 924 928	años
+T36	Term-DPEJ 901 910	resultado
+T37	Term-Termcat 1274 1282	términos
+T38	Term-Termcat 487 495	contrato
+T39	Term-Termcat 835 843	contrato
+T40	Term-Termcat 1518 1526	contrato
+T41	Term-Termcat 1251 1259	contrato
+T42	Term-Termcat 72 80	contrato
+T43	Term-Termcat 1134 1142	contrato
+T44	Term-Termcat 1400 1404	edad
+T45	Term-Termcat 260 264	edad
+T46	Term-Termcat 994 998	edad
+T47	Term-Termcat 416 420	edad
+T48	Term-Termcat 1466 1469	Ley
+T49	Term-Termcat 1073 1076	Ley
+T50	Term-Termcat 359 362	Ley
+T51	Term-Termcat 1051 1066	texto refundido
+T52	Term-Termcat 1444 1459	texto refundido
+T53	Term-Termcat 337 352	texto refundido
+T54	Term-Termcat 599 605	partes
+T55	Term-Termcat 1585 1590	parte
+T56	Term-Termcat 1559 1566	empresa
+T57	Term-Termcat 475 482	empresa
+T58	Term-Termcat 728 738	jubilación
+T59	Term-Termcat 1408 1418	jubilación
+T60	Term-Termcat 268 278	jubilación
+T61	Term-Termcat 1002 1012	jubilación
+T62	Term-Termcat 131 149	jubilación parcial
+T63	Term-Termcat 1609 1616	vacante
+T64	Term-Termcat 1091 1107	Seguridad Social
+T65	Term-Termcat 377 393	Seguridad Social
+T66	Term-Termcat 1484 1500	Seguridad Social
+T67	Term-Termcat 883 891	duración
+T68	Term-Termcat 535 543	duración
+T69	Term-Termcat 1175 1183	duración
+T70	Term-Termcat 59 67	duración
+T71	Term-Termcat 1505 1513	duración
+T72	Term-Termcat 1091 1100	Seguridad
+T73	Term-Termcat 377 386	Seguridad
+T74	Term-Termcat 1484 1493	Seguridad
+T75	Term-Termcat 583 590	acuerdo
+T76	Term-Termcat 1039 1047	conforme
+T77	Term-Termcat 305 313	conforme
+T78	Term-Termcat 1505 1526	duración del contrato
+T79	Term-Termcat 59 80	duración del contrato
+T80	Term-Termcat 1382 1387	haber
+T81	Term-Termcat 131 141	jubilación
+T82	Term-Termcat 1530 1536	relevo
+T83	Term-Termcat 499 505	relevo
+T84	Term-Termcat 847 853	relevo
+T85	Term-Termcat 84 90	relevo
+T86	Term-Termcat 901 910	resultado
+T87	Term-DV 224 228	baja
+T88	Term-DV 428 432	baja
+T89	Term-DV 752 756	baja
+T90	Term-DV 958 962	baja
+T91	Term-DV 1341 1345	baja
+T92	Term-DV 854 858	debe
+T93	Term-DV 260 264	edad
+T94	Term-DV 416 420	edad
+T95	Term-DV 994 998	edad
+T96	Term-DV 1400 1404	edad
+T97	Term-DV 475 482	empresa
+T98	Term-DV 1204 1211	empresa
+T99	Term-DV 1559 1566	empresa
+T100	Term-DV 1204 1214	empresario
+T101	Term-DV 1382 1387	haber
+T102	Term-DV 131 141	jubilación
+T103	Term-DV 268 278	jubilación
+T104	Term-DV 728 738	jubilación
+T105	Term-DV 1002 1012	jubilación
+T106	Term-DV 1408 1418	jubilación
+T107	Term-DV 916 919	mar
+T108	Term-DV 1222 1230	obligado
+T109	Term-DV 142 149	parcial
+T110	Term-DV 445 452	parcial
+T111	Term-DV 1358 1365	parcial
+T112	Term-DV 243 247	para
+T113	Term-DV 977 981	para
+T114	Term-DV 1567 1571	para
+T115	Term-DV 599 604	parte
+T116	Term-DV 1585 1590	parte
+T117	Term-DV 76 80	rato
+T118	Term-DV 491 495	rato
+T119	Term-DV 839 843	rato
+T120	Term-DV 1138 1142	rato
+T121	Term-DV 1255 1259	rato
+T122	Term-DV 1522 1526	rato
+T123	Term-DV 221 231	trabajador
+T124	Term-DV 425 435	trabajador
+T125	Term-DV 749 759	trabajador
+T126	Term-DV 955 965	trabajador
+T127	Term-DV 1338 1348	trabajador
+T128	Term-DV 1609 1616	vacante
+T129	Term-DV 788 791	vis
+T130	Term-DV 1432 1435	vis
+T131	Term-DV 1432 1437	vista
+T132	Term-DV 339 340	x
+T133	Term-DV 629 630	x
+T134	Term-DV 1053 1054	x
+T135	Term-DV 1147 1148	x
+T136	Term-DV 1288 1289	x
+T137	Term-DV 1446 1447	x
+T138	Term-AttentionRank 201 207	tiempo
+T139	Term-AttentionRank 932 938	tiempo
+T140	Term-AttentionRank 1306 1312	tiempo
+T141	Term-AttentionRank 111 123	consecuencia
+T142	Term-AttentionRank 599 605	partes
+T143	Term-AttentionRank 1585 1590	parte
+T144	Term-AttentionRank 583 590	acuerdo
+T145	Term-AttentionRank 901 910	resultado
+T146	Term-AttentionRank 699 702	año
+T147	Term-AttentionRank 924 928	años
+T148	Term-AttentionRank 84 90	relevo
+T149	Term-AttentionRank 499 505	relevo
+T150	Term-AttentionRank 847 853	relevo
+T151	Term-AttentionRank 1530 1536	relevo
+T152	Term-AttentionRank 1594 1601	jornada
+T153	Term-AttentionRank 610 618	periodos
+T154	Term-AttentionRank 672 679	periodo
+T155	Term-AttentionRank 739 744	total
+T156	Term-AttentionRank 377 386	Seguridad
+T157	Term-AttentionRank 1091 1100	Seguridad
+T158	Term-AttentionRank 1484 1493	Seguridad
+T159	Term-AttentionRank 268 288	jubilación ordinaria
+T160	Term-AttentionRank 1002 1022	jubilación ordinaria
+T161	Term-AttentionRank 1408 1428	jubilación ordinaria
+T162	Term-AttentionRank 111 149	consecuencia de una jubilación parcial
+T163	Term-AttentionRank 776 784	supuesto
+T164	Term-AttentionRank 1115 1123	supuesto
+T165	Term-AttentionRank 535 555	duración determinada
+T166	Term-AttentionRank 1338 1381	trabajador jubilado parcialmente después de
+T167	Term-AttentionRank 59 67	duración
+T168	Term-AttentionRank 535 543	duración
+T169	Term-AttentionRank 883 891	duración
+T170	Term-AttentionRank 1175 1183	duración
+T171	Term-AttentionRank 1505 1513	duración
+T172	Term-AttentionRank 221 231	trabajador
+T173	Term-AttentionRank 425 435	trabajador
+T174	Term-AttentionRank 749 759	trabajador
+T175	Term-AttentionRank 955 965	trabajador
+T176	Term-AttentionRank 1338 1348	trabajador
+T177	Term-AttentionRank 583 605	acuerdo con las partes
+T178	Term-AttentionRank 475 482	empresa
+T179	Term-AttentionRank 1559 1566	empresa
+T180	Term-AttentionRank 425 444	trabajador jubilado
+T181	Term-AttentionRank 1338 1357	trabajador jubilado
+T182	Term-AttentionRank 359 362	Ley
+T183	Term-AttentionRank 1073 1076	Ley
+T184	Term-AttentionRank 1466 1469	Ley
+T185	Term-AttentionRank 377 393	Seguridad Social
+T186	Term-AttentionRank 1091 1107	Seguridad Social
+T187	Term-AttentionRank 1484 1500	Seguridad Social
+T188	Term-AttentionRank 1594 1608	jornada dejada
+T189	Term-AttentionRank 672 702	periodo correspondiente al año
+T190	Term-AttentionRank 221 242	trabajador sustituido
+T191	Term-AttentionRank 955 976	trabajador sustituido
+T192	Term-AttentionRank 72 80	contrato
+T193	Term-AttentionRank 487 495	contrato
+T194	Term-AttentionRank 835 843	contrato
+T195	Term-AttentionRank 1134 1142	contrato
+T196	Term-AttentionRank 1251 1259	contrato
+T197	Term-AttentionRank 1518 1526	contrato
+T198	Term-AttentionRank 260 264	edad
+T199	Term-AttentionRank 416 420	edad
+T200	Term-AttentionRank 994 998	edad
+T201	Term-AttentionRank 1400 1404	edad
+T202	Term-AttentionRank 1245 1259	nuevo contrato
+T203	Term-AttentionRank 749 768	trabajador relevado
+T204	Term-AttentionRank 131 149	jubilación parcial
+T205	Term-AttentionRank 651 655	caso
+T206	Term-AttentionRank 1329 1333	caso
+T207	Term-AttentionRank 1204 1214	empresario
+T208	Term-AttentionRank 337 352	texto refundido
+T209	Term-AttentionRank 1051 1066	texto refundido
+T210	Term-AttentionRank 1444 1459	texto refundido
+T211	Term-AttentionRank 820 828	apartado
+T212	Term-LabourLaw 72 90	contrato de relevo
+T213	Term-LabourLaw 487 505	contrato de relevo
+T214	Term-LabourLaw 835 853	contrato de relevo
+T215	Term-LabourLaw 1518 1536	contrato de relevo
+T216	Term-LabourLaw 59 80	duración del contrato
+T217	Term-LabourLaw 1505 1526	duración del contrato
+T218	Term-LabourLaw 260 278	edad de jubilación
+T219	Term-LabourLaw 994 1012	edad de jubilación
+T220	Term-LabourLaw 1400 1418	edad de jubilación
+T221	Term-LabourLaw 131 149	jubilación parcial
+T222	Term-LabourLaw 337 352	texto refundido
+T223	Term-LabourLaw 1051 1066	texto refundido
+T224	Term-LabourLaw 1444 1459	texto refundido
+T225	Term-LabourLaw 672 695	periodo correspondiente
+T226	Term-LabourLaw 1594 1601	jornada
+T227	Term-LabourLaw 1594 1601	jornada
+T228	Term-LabourLaw 343 352	refundido
+T229	Term-LabourLaw 1057 1066	refundido
+T230	Term-LabourLaw 1450 1459	refundido
+T231	Term-LabourLaw 72 80	contrato
+T232	Term-LabourLaw 487 495	contrato
+T233	Term-LabourLaw 835 843	contrato
+T234	Term-LabourLaw 1134 1142	contrato
+T235	Term-LabourLaw 1251 1259	contrato
+T236	Term-LabourLaw 1518 1526	contrato
+T237	Term-LabourLaw 221 231	trabajador
+T238	Term-LabourLaw 425 435	trabajador
+T239	Term-LabourLaw 749 759	trabajador
+T240	Term-LabourLaw 955 965	trabajador
+T241	Term-LabourLaw 1338 1348	trabajador
+T242	Term-LabourLaw 436 444	jubilado
+T243	Term-LabourLaw 1349 1357	jubilado
+T244	Term-LabourLaw 854 859	deber
+T245	Term-LabourLaw 1204 1214	empresario
+T246	Term-LabourLaw 260 264	edad
+T247	Term-LabourLaw 416 420	edad
+T248	Term-LabourLaw 994 998	edad
+T249	Term-LabourLaw 1400 1404	edad
+T250	Term-LabourLaw 475 482	empresa
+T251	Term-LabourLaw 1204 1211	empresa
+T252	Term-LabourLaw 1559 1566	empresa
+T253	Term-LabourLaw 59 67	duración
+T254	Term-LabourLaw 535 543	duración
+T255	Term-LabourLaw 883 891	duración
+T256	Term-LabourLaw 1175 1183	duración
+T257	Term-LabourLaw 1505 1513	duración
+T258	Term-LabourLaw 1274 1281	término
+T259	Term-LabourLaw 131 141	jubilación
+T260	Term-LabourLaw 268 278	jubilación
+T261	Term-LabourLaw 728 738	jubilación
+T262	Term-LabourLaw 1002 1012	jubilación
+T263	Term-LabourLaw 1408 1418	jubilación
+T264	Term-LabourLaw 562 571	prorrogar
+T265	Term-LabourLaw 610 617	periodo
+T266	Term-LabourLaw 672 679	periodo
+T267	Term-IATE 599 605	partes
+T268	Term-IATE 1585 1590	parte
+T269	Term-IATE 583 590	acuerdo
+T270	Term-IATE 475 482	empresa
+T271	Term-IATE 1559 1566	empresa
+T272	Term-IATE 1204 1214	empresario
+T273	Term-IATE 820 828	apartado
+T274	Term-IATE 221 231	trabajador
+T275	Term-IATE 425 435	trabajador
+T276	Term-IATE 749 759	trabajador
+T277	Term-IATE 955 965	trabajador
+T278	Term-IATE 1338 1348	trabajador
+T279	Term-IATE 377 386	Seguridad
+T280	Term-IATE 1091 1100	Seguridad
+T281	Term-IATE 1484 1493	Seguridad
+T282	Term-IATE 72 80	contrato
+T283	Term-IATE 487 495	contrato
+T284	Term-IATE 835 843	contrato
+T285	Term-IATE 1134 1142	contrato
+T286	Term-IATE 1251 1259	contrato
+T287	Term-IATE 1518 1526	contrato
+T288	Term-IATE 59 67	duración
+T289	Term-IATE 535 543	duración
+T290	Term-IATE 883 891	duración
+T291	Term-IATE 1175 1183	duración
+T292	Term-IATE 1505 1513	duración

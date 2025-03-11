@@ -1,268 +1,268 @@
-T1 Term-DPEJ 127 131 caso
-T2 Term-DPEJ 599 603 caso
-T3 Term-DPEJ 871 875 modo
-T4 Term-DPEJ 1119 1136 centro de trabajo
-T5 Term-DPEJ 1229 1238 Seguridad
-T6 Term-DPEJ 91 98 trabajo
-T7 Term-DPEJ 486 493 trabajo
-T8 Term-DPEJ 584 591 trabajo
-T9 Term-DPEJ 847 854 trabajo
-T10 Term-DPEJ 976 983 trabajo
-T11 Term-DPEJ 1129 1136 trabajo
-T12 Term-DPEJ 1424 1431 trabajo
-T13 Term-DPEJ 1206 1213 Trabajo
-T14 Term-DPEJ 1544 1552 trabajos
-T15 Term-DPEJ 1019 1026 empresa
-T16 Term-DPEJ 551 559 convenio
-T17 Term-DPEJ 1555 1565 categorías
-T18 Term-DPEJ 91 107 trabajo efectivo
-T19 Term-DPEJ 486 502 trabajo efectivo
-T20 Term-DPEJ 1097 1102 lugar
-T21 Term-DPEJ 572 580 contrato
-T22 Term-DPEJ 551 569 convenio colectivo
-T23 Term-DPEJ 136 142 tiempo
-T24 Term-DPEJ 476 482 tiempo
-T25 Term-DPEJ 837 843 tiempo
-T26 Term-DPEJ 476 502 tiempo de trabajo efectivo
-T27 Term-DPEJ 966 972 puesto
-T28 Term-DPEJ 286 293 jornada
-T29 Term-DPEJ 773 780 jornada
-T30 Term-DPEJ 918 925 jornada
-T31 Term-DPEJ 1413 1420 jornada
-T32 Term-DPEJ 1511 1518 jornada
-T33 Term-DPEJ 38 42 años
-T34 Term-DPEJ 645 649 años
-T35 Term-DPEJ 1119 1125 centro
-T36 Term-Termcat 551 559 convenio
-T37 Term-Termcat 1192 1202 Ministerio
-T38 Term-Termcat 871 875 modo
-T39 Term-Termcat 572 580 contrato
-T40 Term-Termcat 1180 1187 titular
-T41 Term-Termcat 1030 1048 calendario laboral
-T42 Term-Termcat 1555 1579 categorías profesionales
-T43 Term-Termcat 1119 1136 centro de trabajo
-T44 Term-Termcat 572 591 contrato de trabajo
-T45 Term-Termcat 551 569 convenio colectivo
-T46 Term-Termcat 452 460 descanso
-T47 Term-Termcat 368 376 descanso
-T48 Term-Termcat 665 673 descanso
-T49 Term-Termcat 1441 1450 descansos
-T50 Term-Termcat 1019 1026 empresa
-T51 Term-Termcat 1206 1213 Trabajo
-T52 Term-Termcat 1544 1552 trabajos
-T53 Term-Termcat 157 166 formación
-T54 Term-Termcat 1413 1431 jornada de trabajo
-T55 Term-Termcat 773 787 jornada diaria
-T56 Term-Termcat 286 300 jornada diaria
-T57 Term-Termcat 918 932 jornada diaria
-T58 Term-Termcat 966 983 puesto de trabajo
-T59 Term-Termcat 1229 1245 Seguridad Social
-T60 Term-Termcat 837 854 tiempo de trabajo
-T61 Term-Termcat 476 493 tiempo de trabajo
-T62 Term-Termcat 486 502 trabajo efectivo
-T63 Term-Termcat 91 107 trabajo efectivo
-T64 Term-Termcat 758 766 duración
-T65 Term-Termcat 397 405 duración
-T66 Term-Termcat 271 279 duración
-T67 Term-Termcat 685 693 duración
-T68 Term-Termcat 1398 1406 duración
-T69 Term-Termcat 1144 1152 Gobierno
-T70 Term-Termcat 1172 1179 persona
-T71 Term-Termcat 1229 1238 Seguridad
-T72 Term-Termcat 1103 1110 visible
-T73 Term-Termcat 1299 1312 empresariales
-T74 Term-Termcat 1499 1507 registro
-T75 Term-Termcat 847 854 trabajo
-T76 Term-Termcat 91 98 trabajo
-T77 Term-Termcat 17 24 menores
-T78 Term-Termcat 624 631 menores
-T79 Term-Termcat 476 502 tiempo de trabajo efectivo
-T80 Term-Termcat 1340 1350 establecer
-T81 Term-Termcat 1461 1475 especialidades
-T82 Term-DV 1413 1431 jornada de trabajo
-T83 Term-DV 7 11 baja
-T84 Term-DV 176 180 baja
-T85 Term-DV 614 618 baja
-T86 Term-DV 939 943 baja
-T87 Term-DV 1052 1056 bien
-T88 Term-DV 1030 1040 calendario
-T89 Term-DV 858 866 computar
-T90 Term-DV 1035 1038 dar
-T91 Term-DV 334 338 debe
-T92 Term-DV 723 727 debe
-T93 Term-DV 196 205 empleador
-T94 Term-DV 1019 1026 empresa
-T95 Term-DV 1299 1306 empresa
-T96 Term-DV 100 102 fe
-T97 Term-DV 411 413 fe
-T98 Term-DV 495 497 fe
-T99 Term-DV 1569 1571 fe
-T100 Term-DV 157 162 forma
-T101 Term-DV 1041 1048 laboral
-T102 Term-DV 562 569 lectivo
-T103 Term-DV 1389 1395 nación
-T104 Term-DV 1385 1390 orden
-T105 Term-DV 1385 1395 ordenación
-T106 Term-DV 184 188 para
-T107 Term-DV 1520 1524 para
-T108 Term-DV 1172 1179 persona
-T109 Term-DV 1566 1577 profesional
-T110 Term-DV 1156 1165 propuesta
-T111 Term-DV 576 580 rato
-T112 Term-DV 53 57 real
-T113 Term-DV 219 223 real
-T114 Term-DV 1499 1507 registro
-T115 Term-DV 4 14 trabajador
-T116 Term-DV 611 621 trabajador
-T117 Term-DV 936 946 trabajador
-T118 Term-DV 1103 1106 vis
-T119 Term-DV 313 314 x
-T120 Term-DV 800 801 x
-T121 Term-DV 1060 1061 x
-T122 Term-AttentionRank 136 142 tiempo
-T123 Term-AttentionRank 476 482 tiempo
-T124 Term-AttentionRank 837 843 tiempo
-T125 Term-AttentionRank 1499 1507 registro
-T126 Term-AttentionRank 1555 1565 categorías
-T127 Term-AttentionRank 38 42 años
-T128 Term-AttentionRank 645 649 años
-T129 Term-AttentionRank 286 293 jornada
-T130 Term-AttentionRank 773 780 jornada
-T131 Term-AttentionRank 918 925 jornada
-T132 Term-AttentionRank 1413 1420 jornada
-T133 Term-AttentionRank 1511 1518 jornada
-T134 Term-AttentionRank 1255 1263 consulta
-T135 Term-AttentionRank 357 364 periodo
-T136 Term-AttentionRank 441 448 periodo
-T137 Term-AttentionRank 654 661 periodo
-T138 Term-AttentionRank 427 434 minutos
-T139 Term-AttentionRank 712 719 minutos
-T140 Term-AttentionRank 1229 1238 Seguridad
-T141 Term-AttentionRank 510 513 así
-T142 Term-AttentionRank 1452 1455 así
-T143 Term-AttentionRank 1607 1610 así
-T144 Term-AttentionRank 286 300 jornada diaria
-T145 Term-AttentionRank 773 787 jornada diaria
-T146 Term-AttentionRank 918 932 jornada diaria
-T147 Term-AttentionRank 4 24 trabajadores menores
-T148 Term-AttentionRank 611 631 trabajadores menores
-T149 Term-AttentionRank 157 166 formación
-T150 Term-AttentionRank 1271 1296 organizaciones sindicales
-T151 Term-AttentionRank 1172 1179 persona
-T152 Term-AttentionRank 551 559 convenio
-T153 Term-AttentionRank 1097 1102 lugar
-T154 Term-AttentionRank 271 279 duración
-T155 Term-AttentionRank 397 405 duración
-T156 Term-AttentionRank 685 693 duración
-T157 Term-AttentionRank 758 766 duración
-T158 Term-AttentionRank 1398 1406 duración
-T159 Term-AttentionRank 397 419 duración no inferior a
-T160 Term-AttentionRank 4 16 trabajadores
-T161 Term-AttentionRank 611 623 trabajadores
-T162 Term-AttentionRank 936 946 trabajador
-T163 Term-AttentionRank 966 972 puesto
-T164 Term-AttentionRank 136 166 tiempo dedicado a la formación
-T165 Term-AttentionRank 1019 1026 empresa
-T166 Term-AttentionRank 74 79 horas
-T167 Term-AttentionRank 213 218 horas
-T168 Term-AttentionRank 327 332 horas
-T169 Term-AttentionRank 816 821 horas
-T170 Term-AttentionRank 368 376 descanso
-T171 Term-AttentionRank 452 460 descanso
-T172 Term-AttentionRank 665 673 descanso
-T173 Term-AttentionRank 1441 1450 descansos
-T174 Term-AttentionRank 74 87 horas diarias
-T175 Term-AttentionRank 1119 1125 centro
-T176 Term-AttentionRank 1229 1245 Seguridad Social
-T177 Term-AttentionRank 4 27 trabajadores menores de
-T178 Term-AttentionRank 611 634 trabajadores menores de
-T179 Term-AttentionRank 572 580 contrato
-T180 Term-AttentionRank 551 569 convenio colectivo
-T181 Term-AttentionRank 91 107 trabajo efectivo
-T182 Term-AttentionRank 486 502 trabajo efectivo
-T183 Term-AttentionRank 91 98 trabajo
-T184 Term-AttentionRank 486 493 trabajo
-T185 Term-AttentionRank 584 591 trabajo
-T186 Term-AttentionRank 847 854 trabajo
-T187 Term-AttentionRank 976 983 trabajo
-T188 Term-AttentionRank 1129 1136 trabajo
-T189 Term-AttentionRank 1424 1431 trabajo
-T190 Term-AttentionRank 1206 1213 Trabajo
-T191 Term-AttentionRank 1544 1552 trabajos
-T192 Term-AttentionRank 127 131 caso
-T193 Term-AttentionRank 599 603 caso
-T194 Term-LabourLaw 1413 1431 jornada de trabajo
-T195 Term-LabourLaw 966 983 puesto de trabajo
-T196 Term-LabourLaw 572 591 contrato de trabajo
-T197 Term-LabourLaw 1119 1136 centro de trabajo
-T198 Term-LabourLaw 1413 1431 jornada de trabajo
-T199 Term-LabourLaw 551 569 convenio colectivo
-T200 Term-LabourLaw 1030 1048 calendario laboral
-T201 Term-LabourLaw 91 107 trabajo efectivo
-T202 Term-LabourLaw 486 502 trabajo efectivo
-T203 Term-LabourLaw 286 293 jornada
-T204 Term-LabourLaw 773 780 jornada
-T205 Term-LabourLaw 918 925 jornada
-T206 Term-LabourLaw 1413 1420 jornada
-T207 Term-LabourLaw 1511 1518 jornada
-T208 Term-LabourLaw 286 293 jornada
-T209 Term-LabourLaw 773 780 jornada
-T210 Term-LabourLaw 918 925 jornada
-T211 Term-LabourLaw 1413 1420 jornada
-T212 Term-LabourLaw 1511 1518 jornada
-T213 Term-LabourLaw 91 98 trabajo
-T214 Term-LabourLaw 486 493 trabajo
-T215 Term-LabourLaw 584 591 trabajo
-T216 Term-LabourLaw 847 854 trabajo
-T217 Term-LabourLaw 976 983 trabajo
-T218 Term-LabourLaw 1129 1136 trabajo
-T219 Term-LabourLaw 1424 1431 trabajo
-T220 Term-LabourLaw 1544 1551 trabajo
-T221 Term-LabourLaw 572 580 contrato
-T222 Term-LabourLaw 368 376 descanso
-T223 Term-LabourLaw 452 460 descanso
-T224 Term-LabourLaw 665 673 descanso
-T225 Term-LabourLaw 1441 1449 descanso
-T226 Term-LabourLaw 17 22 menor
-T227 Term-LabourLaw 624 629 menor
-T228 Term-LabourLaw 4 14 trabajador
-T229 Term-LabourLaw 611 621 trabajador
-T230 Term-LabourLaw 936 946 trabajador
-T231 Term-LabourLaw 1180 1187 titular
-T232 Term-LabourLaw 157 166 formación
-T233 Term-LabourLaw 334 339 deber
-T234 Term-LabourLaw 723 728 deber
-T235 Term-LabourLaw 1019 1026 empresa
-T236 Term-LabourLaw 1299 1306 empresa
-T237 Term-LabourLaw 271 279 duración
-T238 Term-LabourLaw 397 405 duración
-T239 Term-LabourLaw 685 693 duración
-T240 Term-LabourLaw 758 766 duración
-T241 Term-LabourLaw 1398 1406 duración
-T242 Term-LabourLaw 858 866 computar
-T243 Term-LabourLaw 560 569 colectivo
-T244 Term-LabourLaw 357 364 periodo
-T245 Term-LabourLaw 441 448 periodo
-T246 Term-LabourLaw 654 661 periodo
-T247 Term-LabourLaw 196 204 empleado
-T248 Term-LabourLaw 1172 1179 persona
-T249 Term-IATE 1019 1026 empresa
-T250 Term-IATE 1255 1263 consulta
-T251 Term-IATE 1555 1565 categorías
-T252 Term-IATE 1499 1507 registro
-T253 Term-IATE 4 16 trabajadores
-T254 Term-IATE 611 623 trabajadores
-T255 Term-IATE 936 946 trabajador
-T256 Term-IATE 1229 1238 Seguridad
-T257 Term-IATE 572 580 contrato
-T258 Term-IATE 368 376 descanso
-T259 Term-IATE 452 460 descanso
-T260 Term-IATE 665 673 descanso
-T261 Term-IATE 1441 1450 descansos
-T262 Term-IATE 551 559 convenio
-T263 Term-IATE 271 279 duración
-T264 Term-IATE 397 405 duración
-T265 Term-IATE 685 693 duración
-T266 Term-IATE 758 766 duración
-T267 Term-IATE 1398 1406 duración
-T268 Term-IATE 157 166 formación
+T1	Term-DPEJ 127 131	caso
+T2	Term-DPEJ 599 603	caso
+T3	Term-DPEJ 871 875	modo
+T4	Term-DPEJ 1119 1136	centro de trabajo
+T5	Term-DPEJ 1229 1238	Seguridad
+T6	Term-DPEJ 91 98	trabajo
+T7	Term-DPEJ 486 493	trabajo
+T8	Term-DPEJ 584 591	trabajo
+T9	Term-DPEJ 847 854	trabajo
+T10	Term-DPEJ 976 983	trabajo
+T11	Term-DPEJ 1129 1136	trabajo
+T12	Term-DPEJ 1424 1431	trabajo
+T13	Term-DPEJ 1206 1213	Trabajo
+T14	Term-DPEJ 1544 1552	trabajos
+T15	Term-DPEJ 1019 1026	empresa
+T16	Term-DPEJ 551 559	convenio
+T17	Term-DPEJ 1555 1565	categorías
+T18	Term-DPEJ 91 107	trabajo efectivo
+T19	Term-DPEJ 486 502	trabajo efectivo
+T20	Term-DPEJ 1097 1102	lugar
+T21	Term-DPEJ 572 580	contrato
+T22	Term-DPEJ 551 569	convenio colectivo
+T23	Term-DPEJ 136 142	tiempo
+T24	Term-DPEJ 476 482	tiempo
+T25	Term-DPEJ 837 843	tiempo
+T26	Term-DPEJ 476 502	tiempo de trabajo efectivo
+T27	Term-DPEJ 966 972	puesto
+T28	Term-DPEJ 286 293	jornada
+T29	Term-DPEJ 773 780	jornada
+T30	Term-DPEJ 918 925	jornada
+T31	Term-DPEJ 1413 1420	jornada
+T32	Term-DPEJ 1511 1518	jornada
+T33	Term-DPEJ 38 42	años
+T34	Term-DPEJ 645 649	años
+T35	Term-DPEJ 1119 1125	centro
+T36	Term-Termcat 551 559	convenio
+T37	Term-Termcat 1192 1202	Ministerio
+T38	Term-Termcat 871 875	modo
+T39	Term-Termcat 572 580	contrato
+T40	Term-Termcat 1180 1187	titular
+T41	Term-Termcat 1030 1048	calendario laboral
+T42	Term-Termcat 1555 1579	categorías profesionales
+T43	Term-Termcat 1119 1136	centro de trabajo
+T44	Term-Termcat 572 591	contrato de trabajo
+T45	Term-Termcat 551 569	convenio colectivo
+T46	Term-Termcat 452 460	descanso
+T47	Term-Termcat 368 376	descanso
+T48	Term-Termcat 665 673	descanso
+T49	Term-Termcat 1441 1450	descansos
+T50	Term-Termcat 1019 1026	empresa
+T51	Term-Termcat 1206 1213	Trabajo
+T52	Term-Termcat 1544 1552	trabajos
+T53	Term-Termcat 157 166	formación
+T54	Term-Termcat 1413 1431	jornada de trabajo
+T55	Term-Termcat 773 787	jornada diaria
+T56	Term-Termcat 286 300	jornada diaria
+T57	Term-Termcat 918 932	jornada diaria
+T58	Term-Termcat 966 983	puesto de trabajo
+T59	Term-Termcat 1229 1245	Seguridad Social
+T60	Term-Termcat 837 854	tiempo de trabajo
+T61	Term-Termcat 476 493	tiempo de trabajo
+T62	Term-Termcat 486 502	trabajo efectivo
+T63	Term-Termcat 91 107	trabajo efectivo
+T64	Term-Termcat 758 766	duración
+T65	Term-Termcat 397 405	duración
+T66	Term-Termcat 271 279	duración
+T67	Term-Termcat 685 693	duración
+T68	Term-Termcat 1398 1406	duración
+T69	Term-Termcat 1144 1152	Gobierno
+T70	Term-Termcat 1172 1179	persona
+T71	Term-Termcat 1229 1238	Seguridad
+T72	Term-Termcat 1103 1110	visible
+T73	Term-Termcat 1299 1312	empresariales
+T74	Term-Termcat 1499 1507	registro
+T75	Term-Termcat 847 854	trabajo
+T76	Term-Termcat 91 98	trabajo
+T77	Term-Termcat 17 24	menores
+T78	Term-Termcat 624 631	menores
+T79	Term-Termcat 476 502	tiempo de trabajo efectivo
+T80	Term-Termcat 1340 1350	establecer
+T81	Term-Termcat 1461 1475	especialidades
+T82	Term-DV 1413 1431	jornada de trabajo
+T83	Term-DV 7 11	baja
+T84	Term-DV 176 180	baja
+T85	Term-DV 614 618	baja
+T86	Term-DV 939 943	baja
+T87	Term-DV 1052 1056	bien
+T88	Term-DV 1030 1040	calendario
+T89	Term-DV 858 866	computar
+T90	Term-DV 1035 1038	dar
+T91	Term-DV 334 338	debe
+T92	Term-DV 723 727	debe
+T93	Term-DV 196 205	empleador
+T94	Term-DV 1019 1026	empresa
+T95	Term-DV 1299 1306	empresa
+T96	Term-DV 100 102	fe
+T97	Term-DV 411 413	fe
+T98	Term-DV 495 497	fe
+T99	Term-DV 1569 1571	fe
+T100	Term-DV 157 162	forma
+T101	Term-DV 1041 1048	laboral
+T102	Term-DV 562 569	lectivo
+T103	Term-DV 1389 1395	nación
+T104	Term-DV 1385 1390	orden
+T105	Term-DV 1385 1395	ordenación
+T106	Term-DV 184 188	para
+T107	Term-DV 1520 1524	para
+T108	Term-DV 1172 1179	persona
+T109	Term-DV 1566 1577	profesional
+T110	Term-DV 1156 1165	propuesta
+T111	Term-DV 576 580	rato
+T112	Term-DV 53 57	real
+T113	Term-DV 219 223	real
+T114	Term-DV 1499 1507	registro
+T115	Term-DV 4 14	trabajador
+T116	Term-DV 611 621	trabajador
+T117	Term-DV 936 946	trabajador
+T118	Term-DV 1103 1106	vis
+T119	Term-DV 313 314	x
+T120	Term-DV 800 801	x
+T121	Term-DV 1060 1061	x
+T122	Term-AttentionRank 136 142	tiempo
+T123	Term-AttentionRank 476 482	tiempo
+T124	Term-AttentionRank 837 843	tiempo
+T125	Term-AttentionRank 1499 1507	registro
+T126	Term-AttentionRank 1555 1565	categorías
+T127	Term-AttentionRank 38 42	años
+T128	Term-AttentionRank 645 649	años
+T129	Term-AttentionRank 286 293	jornada
+T130	Term-AttentionRank 773 780	jornada
+T131	Term-AttentionRank 918 925	jornada
+T132	Term-AttentionRank 1413 1420	jornada
+T133	Term-AttentionRank 1511 1518	jornada
+T134	Term-AttentionRank 1255 1263	consulta
+T135	Term-AttentionRank 357 364	periodo
+T136	Term-AttentionRank 441 448	periodo
+T137	Term-AttentionRank 654 661	periodo
+T138	Term-AttentionRank 427 434	minutos
+T139	Term-AttentionRank 712 719	minutos
+T140	Term-AttentionRank 1229 1238	Seguridad
+T141	Term-AttentionRank 510 513	así
+T142	Term-AttentionRank 1452 1455	así
+T143	Term-AttentionRank 1607 1610	así
+T144	Term-AttentionRank 286 300	jornada diaria
+T145	Term-AttentionRank 773 787	jornada diaria
+T146	Term-AttentionRank 918 932	jornada diaria
+T147	Term-AttentionRank 4 24	trabajadores menores
+T148	Term-AttentionRank 611 631	trabajadores menores
+T149	Term-AttentionRank 157 166	formación
+T150	Term-AttentionRank 1271 1296	organizaciones sindicales
+T151	Term-AttentionRank 1172 1179	persona
+T152	Term-AttentionRank 551 559	convenio
+T153	Term-AttentionRank 1097 1102	lugar
+T154	Term-AttentionRank 271 279	duración
+T155	Term-AttentionRank 397 405	duración
+T156	Term-AttentionRank 685 693	duración
+T157	Term-AttentionRank 758 766	duración
+T158	Term-AttentionRank 1398 1406	duración
+T159	Term-AttentionRank 397 419	duración no inferior a
+T160	Term-AttentionRank 4 16	trabajadores
+T161	Term-AttentionRank 611 623	trabajadores
+T162	Term-AttentionRank 936 946	trabajador
+T163	Term-AttentionRank 966 972	puesto
+T164	Term-AttentionRank 136 166	tiempo dedicado a la formación
+T165	Term-AttentionRank 1019 1026	empresa
+T166	Term-AttentionRank 74 79	horas
+T167	Term-AttentionRank 213 218	horas
+T168	Term-AttentionRank 327 332	horas
+T169	Term-AttentionRank 816 821	horas
+T170	Term-AttentionRank 368 376	descanso
+T171	Term-AttentionRank 452 460	descanso
+T172	Term-AttentionRank 665 673	descanso
+T173	Term-AttentionRank 1441 1450	descansos
+T174	Term-AttentionRank 74 87	horas diarias
+T175	Term-AttentionRank 1119 1125	centro
+T176	Term-AttentionRank 1229 1245	Seguridad Social
+T177	Term-AttentionRank 4 27	trabajadores menores de
+T178	Term-AttentionRank 611 634	trabajadores menores de
+T179	Term-AttentionRank 572 580	contrato
+T180	Term-AttentionRank 551 569	convenio colectivo
+T181	Term-AttentionRank 91 107	trabajo efectivo
+T182	Term-AttentionRank 486 502	trabajo efectivo
+T183	Term-AttentionRank 91 98	trabajo
+T184	Term-AttentionRank 486 493	trabajo
+T185	Term-AttentionRank 584 591	trabajo
+T186	Term-AttentionRank 847 854	trabajo
+T187	Term-AttentionRank 976 983	trabajo
+T188	Term-AttentionRank 1129 1136	trabajo
+T189	Term-AttentionRank 1424 1431	trabajo
+T190	Term-AttentionRank 1206 1213	Trabajo
+T191	Term-AttentionRank 1544 1552	trabajos
+T192	Term-AttentionRank 127 131	caso
+T193	Term-AttentionRank 599 603	caso
+T194	Term-LabourLaw 1413 1431	jornada de trabajo
+T195	Term-LabourLaw 966 983	puesto de trabajo
+T196	Term-LabourLaw 572 591	contrato de trabajo
+T197	Term-LabourLaw 1119 1136	centro de trabajo
+T198	Term-LabourLaw 1413 1431	jornada de trabajo
+T199	Term-LabourLaw 551 569	convenio colectivo
+T200	Term-LabourLaw 1030 1048	calendario laboral
+T201	Term-LabourLaw 91 107	trabajo efectivo
+T202	Term-LabourLaw 486 502	trabajo efectivo
+T203	Term-LabourLaw 286 293	jornada
+T204	Term-LabourLaw 773 780	jornada
+T205	Term-LabourLaw 918 925	jornada
+T206	Term-LabourLaw 1413 1420	jornada
+T207	Term-LabourLaw 1511 1518	jornada
+T208	Term-LabourLaw 286 293	jornada
+T209	Term-LabourLaw 773 780	jornada
+T210	Term-LabourLaw 918 925	jornada
+T211	Term-LabourLaw 1413 1420	jornada
+T212	Term-LabourLaw 1511 1518	jornada
+T213	Term-LabourLaw 91 98	trabajo
+T214	Term-LabourLaw 486 493	trabajo
+T215	Term-LabourLaw 584 591	trabajo
+T216	Term-LabourLaw 847 854	trabajo
+T217	Term-LabourLaw 976 983	trabajo
+T218	Term-LabourLaw 1129 1136	trabajo
+T219	Term-LabourLaw 1424 1431	trabajo
+T220	Term-LabourLaw 1544 1551	trabajo
+T221	Term-LabourLaw 572 580	contrato
+T222	Term-LabourLaw 368 376	descanso
+T223	Term-LabourLaw 452 460	descanso
+T224	Term-LabourLaw 665 673	descanso
+T225	Term-LabourLaw 1441 1449	descanso
+T226	Term-LabourLaw 17 22	menor
+T227	Term-LabourLaw 624 629	menor
+T228	Term-LabourLaw 4 14	trabajador
+T229	Term-LabourLaw 611 621	trabajador
+T230	Term-LabourLaw 936 946	trabajador
+T231	Term-LabourLaw 1180 1187	titular
+T232	Term-LabourLaw 157 166	formación
+T233	Term-LabourLaw 334 339	deber
+T234	Term-LabourLaw 723 728	deber
+T235	Term-LabourLaw 1019 1026	empresa
+T236	Term-LabourLaw 1299 1306	empresa
+T237	Term-LabourLaw 271 279	duración
+T238	Term-LabourLaw 397 405	duración
+T239	Term-LabourLaw 685 693	duración
+T240	Term-LabourLaw 758 766	duración
+T241	Term-LabourLaw 1398 1406	duración
+T242	Term-LabourLaw 858 866	computar
+T243	Term-LabourLaw 560 569	colectivo
+T244	Term-LabourLaw 357 364	periodo
+T245	Term-LabourLaw 441 448	periodo
+T246	Term-LabourLaw 654 661	periodo
+T247	Term-LabourLaw 196 204	empleado
+T248	Term-LabourLaw 1172 1179	persona
+T249	Term-IATE 1019 1026	empresa
+T250	Term-IATE 1255 1263	consulta
+T251	Term-IATE 1555 1565	categorías
+T252	Term-IATE 1499 1507	registro
+T253	Term-IATE 4 16	trabajadores
+T254	Term-IATE 611 623	trabajadores
+T255	Term-IATE 936 946	trabajador
+T256	Term-IATE 1229 1238	Seguridad
+T257	Term-IATE 572 580	contrato
+T258	Term-IATE 368 376	descanso
+T259	Term-IATE 452 460	descanso
+T260	Term-IATE 665 673	descanso
+T261	Term-IATE 1441 1450	descansos
+T262	Term-IATE 551 559	convenio
+T263	Term-IATE 271 279	duración
+T264	Term-IATE 397 405	duración
+T265	Term-IATE 685 693	duración
+T266	Term-IATE 758 766	duración
+T267	Term-IATE 1398 1406	duración
+T268	Term-IATE 157 166	formación

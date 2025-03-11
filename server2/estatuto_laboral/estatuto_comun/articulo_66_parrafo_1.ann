@@ -1,281 +1,281 @@
-T1 Term-DPEJ 291 295 caso
-T2 Term-DPEJ 546 550 caso
-T3 Term-DPEJ 36 45 capacidad
-T4 Term-DPEJ 1276 1282 empleo
-T5 Term-DPEJ 52 58 órgano
-T6 Term-DPEJ 789 796 mandato
-T7 Term-DPEJ 1490 1497 proceso
-T8 Term-DPEJ 1700 1707 proceso
-T9 Term-DPEJ 144 150 ámbito
-T10 Term-DPEJ 651 657 ámbito
-T11 Term-DPEJ 454 471 centro de trabajo
-T12 Term-DPEJ 1121 1138 centro de trabajo
-T13 Term-DPEJ 559 563 tipo
-T14 Term-DPEJ 52 68 órgano colegiado
-T15 Term-DPEJ 464 471 trabajo
-T16 Term-DPEJ 1131 1138 trabajo
-T17 Term-DPEJ 28 35 empresa
-T18 Term-DPEJ 244 251 empresa
-T19 Term-DPEJ 440 447 empresa
-T20 Term-DPEJ 594 601 empresa
-T21 Term-DPEJ 874 881 empresa
-T22 Term-DPEJ 1107 1114 empresa
-T23 Term-DPEJ 1289 1296 empresa
-T24 Term-DPEJ 1340 1347 empresa
-T25 Term-DPEJ 1734 1746 cumplimiento
-T26 Term-DPEJ 18 24 comité
-T27 Term-DPEJ 234 240 comité
-T28 Term-DPEJ 605 611 comité
-T29 Term-DPEJ 822 827 lugar
-T30 Term-DPEJ 1490 1522 proceso de conflictos colectivos
-T31 Term-DPEJ 18 35 comité de empresa
-T32 Term-DPEJ 234 251 comité de empresa
-T33 Term-DPEJ 1591 1594 Ley
-T34 Term-DPEJ 1232 1237 datos
-T35 Term-DPEJ 265 273 conjunto
-T36 Term-DPEJ 347 352 deber
-T37 Term-DPEJ 729 734 deber
-T38 Term-DPEJ 1556 1562 título
-T39 Term-DPEJ 1249 1257 relación
-T40 Term-DPEJ 347 362 deber de sigilo
-T41 Term-DPEJ 729 744 deber de sigilo
-T42 Term-DPEJ 176 184 decisión
-T43 Term-DPEJ 386 397 información
-T44 Term-DPEJ 454 460 centro
-T45 Term-DPEJ 1121 1127 centro
-T46 Term-Termcat 52 68 órgano colegiado
-T47 Term-Termcat 789 796 mandato
-T48 Term-Termcat 347 352 deber
-T49 Term-Termcat 729 734 deber
-T50 Term-Termcat 426 433 interés
-T51 Term-Termcat 1591 1594 Ley
-T52 Term-Termcat 1831 1841 obligación
-T53 Term-Termcat 1430 1444 representantes
-T54 Term-Termcat 1755 1769 representantes
-T55 Term-Termcat 1556 1562 título
-T56 Term-Termcat 1538 1546 capítulo
-T57 Term-Termcat 1571 1576 libro
-T58 Term-Termcat 1501 1511 conflictos
-T59 Term-Termcat 1712 1720 litigios
-T60 Term-Termcat 36 45 capacidad
-T61 Term-Termcat 454 471 centro de trabajo
-T62 Term-Termcat 1121 1138 centro de trabajo
-T63 Term-Termcat 18 35 comité de empresa
-T64 Term-Termcat 234 251 comité de empresa
-T65 Term-Termcat 158 170 competencias
-T66 Term-Termcat 1501 1522 conflictos colectivos
-T67 Term-Termcat 1289 1296 empresa
-T68 Term-Termcat 874 881 empresa
-T69 Term-Termcat 440 447 empresa
-T70 Term-Termcat 594 601 empresa
-T71 Term-Termcat 1107 1114 empresa
-T72 Term-Termcat 1340 1347 empresa
-T73 Term-Termcat 772 782 expiración
-T74 Term-Termcat 1276 1282 empleo
-T75 Term-Termcat 176 184 decisión
-T76 Term-Termcat 1639 1651 Jurisdicción
-T77 Term-Termcat 1700 1707 proceso
-T78 Term-Termcat 1490 1497 proceso
-T79 Term-Termcat 605 611 comité
-T80 Term-Termcat 1734 1746 cumplimiento
-T81 Term-Termcat 1478 1486 conforme
-T82 Term-Termcat 1684 1692 conforme
-T83 Term-Termcat 567 576 documento
-T84 Term-Termcat 1175 1186 estabilidad
-T85 Term-Termcat 1203 1212 excepción
-T86 Term-Termcat 559 563 tipo
-T87 Term-Termcat 1304 1315 impugnación
-T88 Term-Termcat 386 397 información
-T89 Term-Termcat 1639 1658 Jurisdicción Social
-T90 Term-Termcat 717 724 entrega
-T91 Term-Termcat 417 425 objetivo
-T92 Term-Termcat 1059 1068 objetivos
-T93 Term-Termcat 1158 1168 perjuicios
-T94 Term-Termcat 965 973 secretos
-T95 Term-Termcat 1387 1396 comunicar
-T96 Term-Termcat 903 912 comunicar
-T97 Term-Termcat 110 120 judiciales
-T98 Term-Termcat 1265 1272 volumen
-T99 Term-DV 1455 1459 baja
-T100 Term-DV 1780 1784 baja
-T101 Term-DV 36 40 capa
-T102 Term-DV 36 45 capacidad
-T103 Term-DV 1538 1546 capítulo
-T104 Term-DV 59 68 colegiado
-T105 Term-DV 158 169 competencia
-T106 Term-DV 327 331 debe
-T107 Term-DV 347 351 debe
-T108 Term-DV 729 733 debe
-T109 Term-DV 176 184 decisión
-T110 Term-DV 567 576 documento
-T111 Term-DV 28 35 empresa
-T112 Term-DV 244 251 empresa
-T113 Term-DV 440 447 empresa
-T114 Term-DV 594 601 empresa
-T115 Term-DV 874 881 empresa
-T116 Term-DV 1107 1114 empresa
-T117 Term-DV 1289 1296 empresa
-T118 Term-DV 1340 1347 empresa
-T119 Term-DV 388 393 forma
-T120 Term-DV 924 929 forma
-T121 Term-DV 1412 1417 forma
-T122 Term-DV 110 118 judicial
-T123 Term-DV 1161 1167 juicio
-T124 Term-DV 1514 1521 lectivo
-T125 Term-DV 406 414 legítimo
-T126 Term-DV 1712 1719 litigio
-T127 Term-DV 789 794 manda
-T128 Term-DV 789 796 mandato
-T129 Term-DV 1309 1315 nación
-T130 Term-DV 1831 1841 obligación
-T131 Term-DV 70 74 para
-T132 Term-DV 672 676 para
-T133 Term-DV 1158 1167 perjuicio
-T134 Term-DV 1490 1497 proceso
-T135 Term-DV 1700 1707 proceso
-T136 Term-DV 356 362 sigilo
-T137 Term-DV 738 744 sigilo
-T138 Term-DV 1845 1851 sigilo
-T139 Term-DV 1452 1462 trabajador
-T140 Term-DV 1777 1787 trabajador
-T141 Term-DV 302 303 x
-T142 Term-DV 488 489 x
-T143 Term-DV 773 774 x
-T144 Term-DV 854 855 x
-T145 Term-DV 1204 1205 x
-T146 Term-DV 1801 1802 x
-T147 Term-AttentionRank 367 397 respecto a aquella información
-T148 Term-AttentionRank 1276 1282 empleo
-T149 Term-AttentionRank 1430 1444 representantes
-T150 Term-AttentionRank 1755 1769 representantes
-T151 Term-AttentionRank 1712 1746 litigios relativos al cumplimiento
-T152 Term-AttentionRank 1831 1841 obligación
-T153 Term-AttentionRank 1684 1707 conforme a este proceso
-T154 Term-AttentionRank 1639 1658 Jurisdicción Social
-T155 Term-AttentionRank 417 425 objetivo
-T156 Term-AttentionRank 1059 1068 objetivos
-T157 Term-AttentionRank 515 533 carácter reservado
-T158 Term-AttentionRank 1360 1378 carácter reservado
-T159 Term-AttentionRank 789 796 mandato
-T160 Term-AttentionRank 1249 1257 relación
-T161 Term-AttentionRank 515 523 carácter
-T162 Term-AttentionRank 1360 1368 carácter
-T163 Term-AttentionRank 1086 1100 funcionamiento
-T164 Term-AttentionRank 677 682 fines
-T165 Term-AttentionRank 1734 1746 cumplimiento
-T166 Term-AttentionRank 275 278 así
-T167 Term-AttentionRank 36 45 capacidad
-T168 Term-AttentionRank 1049 1068 criterios objetivos
-T169 Term-AttentionRank 18 24 comité
-T170 Term-AttentionRank 234 240 comité
-T171 Term-AttentionRank 605 611 comité
-T172 Term-AttentionRank 176 184 decisión
-T173 Term-AttentionRank 1556 1562 título
-T174 Term-AttentionRank 1478 1497 conforme al proceso
-T175 Term-AttentionRank 386 397 información
-T176 Term-AttentionRank 144 150 ámbito
-T177 Term-AttentionRank 651 657 ámbito
-T178 Term-AttentionRank 822 827 lugar
-T179 Term-AttentionRank 1049 1058 criterios
-T180 Term-AttentionRank 1232 1237 datos
-T181 Term-AttentionRank 204 212 miembros
-T182 Term-AttentionRank 221 229 miembros
-T183 Term-AttentionRank 356 362 sigilo
-T184 Term-AttentionRank 738 744 sigilo
-T185 Term-AttentionRank 1845 1851 sigilo
-T186 Term-AttentionRank 1452 1464 trabajadores
-T187 Term-AttentionRank 1777 1789 trabajadores
-T188 Term-AttentionRank 52 58 órgano
-T189 Term-AttentionRank 28 35 empresa
-T190 Term-AttentionRank 244 251 empresa
-T191 Term-AttentionRank 440 447 empresa
-T192 Term-AttentionRank 594 601 empresa
-T193 Term-AttentionRank 874 881 empresa
-T194 Term-AttentionRank 1107 1114 empresa
-T195 Term-AttentionRank 1289 1296 empresa
-T196 Term-AttentionRank 1340 1347 empresa
-T197 Term-AttentionRank 1501 1522 conflictos colectivos
-T198 Term-AttentionRank 265 273 conjunto
-T199 Term-AttentionRank 1490 1497 proceso
-T200 Term-AttentionRank 1700 1707 proceso
-T201 Term-AttentionRank 1591 1594 Ley
-T202 Term-AttentionRank 454 460 centro
-T203 Term-AttentionRank 1121 1127 centro
-T204 Term-AttentionRank 1029 1033 ción
-T205 Term-AttentionRank 1175 1186 estabilidad
-T206 Term-AttentionRank 347 352 deber
-T207 Term-AttentionRank 729 734 deber
-T208 Term-AttentionRank 464 471 trabajo
-T209 Term-AttentionRank 1131 1138 trabajo
-T210 Term-AttentionRank 291 295 caso
-T211 Term-AttentionRank 546 550 caso
-T212 Term-LabourLaw 18 35 comité de empresa
-T213 Term-LabourLaw 234 251 comité de empresa
-T214 Term-LabourLaw 454 471 centro de trabajo
-T215 Term-LabourLaw 1121 1138 centro de trabajo
-T216 Term-LabourLaw 464 471 trabajo
-T217 Term-LabourLaw 1131 1138 trabajo
-T218 Term-LabourLaw 386 397 información
-T219 Term-LabourLaw 1430 1443 representante
-T220 Term-LabourLaw 1755 1768 representante
-T221 Term-LabourLaw 1452 1462 trabajador
-T222 Term-LabourLaw 1777 1787 trabajador
-T223 Term-LabourLaw 144 150 ámbito
-T224 Term-LabourLaw 651 657 ámbito
-T225 Term-LabourLaw 1734 1746 cumplimiento
-T226 Term-LabourLaw 1049 1057 criterio
-T227 Term-LabourLaw 789 796 mandato
-T228 Term-LabourLaw 388 397 formación
-T229 Term-LabourLaw 327 332 deber
-T230 Term-LabourLaw 347 352 deber
-T231 Term-LabourLaw 729 734 deber
-T232 Term-LabourLaw 52 58 órgano
-T233 Term-LabourLaw 28 35 empresa
-T234 Term-LabourLaw 244 251 empresa
-T235 Term-LabourLaw 440 447 empresa
-T236 Term-LabourLaw 594 601 empresa
-T237 Term-LabourLaw 874 881 empresa
-T238 Term-LabourLaw 1107 1114 empresa
-T239 Term-LabourLaw 1289 1296 empresa
-T240 Term-LabourLaw 1340 1347 empresa
-T241 Term-LabourLaw 18 24 comité
-T242 Term-LabourLaw 234 240 comité
-T243 Term-LabourLaw 605 611 comité
-T244 Term-LabourLaw 1158 1167 perjuicio
-T245 Term-LabourLaw 1831 1841 obligación
-T246 Term-LabourLaw 158 169 competencia
-T247 Term-LabourLaw 1501 1510 conflicto
-T248 Term-LabourLaw 1512 1521 colectivo
-T249 Term-LabourLaw 1276 1282 empleo
-T250 Term-LabourLaw 1232 1237 datos
-T251 Term-IATE 176 184 decisión
-T252 Term-IATE 1232 1237 datos
-T253 Term-IATE 1556 1562 título
-T254 Term-IATE 265 273 conjunto
-T255 Term-IATE 28 35 empresa
-T256 Term-IATE 244 251 empresa
-T257 Term-IATE 440 447 empresa
-T258 Term-IATE 594 601 empresa
-T259 Term-IATE 874 881 empresa
-T260 Term-IATE 1107 1114 empresa
-T261 Term-IATE 1289 1296 empresa
-T262 Term-IATE 1340 1347 empresa
-T263 Term-IATE 789 796 mandato
-T264 Term-IATE 1175 1186 estabilidad
-T265 Term-IATE 1452 1464 trabajadores
-T266 Term-IATE 1777 1789 trabajadores
-T267 Term-IATE 1490 1497 proceso
-T268 Term-IATE 1700 1707 proceso
-T269 Term-IATE 36 45 capacidad
-T270 Term-IATE 1276 1282 empleo
-T271 Term-IATE 204 212 miembros
-T272 Term-IATE 221 229 miembros
-T273 Term-IATE 515 523 carácter
-T274 Term-IATE 1360 1368 carácter
-T275 Term-IATE 1831 1841 obligación
-T276 Term-IATE 18 24 comité
-T277 Term-IATE 234 240 comité
-T278 Term-IATE 605 611 comité
-T279 Term-IATE 1430 1444 representantes
-T280 Term-IATE 1755 1769 representantes
-T281 Term-IATE 386 397 información
+T1	Term-DPEJ 291 295	caso
+T2	Term-DPEJ 546 550	caso
+T3	Term-DPEJ 36 45	capacidad
+T4	Term-DPEJ 1276 1282	empleo
+T5	Term-DPEJ 52 58	órgano
+T6	Term-DPEJ 789 796	mandato
+T7	Term-DPEJ 1490 1497	proceso
+T8	Term-DPEJ 1700 1707	proceso
+T9	Term-DPEJ 144 150	ámbito
+T10	Term-DPEJ 651 657	ámbito
+T11	Term-DPEJ 454 471	centro de trabajo
+T12	Term-DPEJ 1121 1138	centro de trabajo
+T13	Term-DPEJ 559 563	tipo
+T14	Term-DPEJ 52 68	órgano colegiado
+T15	Term-DPEJ 464 471	trabajo
+T16	Term-DPEJ 1131 1138	trabajo
+T17	Term-DPEJ 28 35	empresa
+T18	Term-DPEJ 244 251	empresa
+T19	Term-DPEJ 440 447	empresa
+T20	Term-DPEJ 594 601	empresa
+T21	Term-DPEJ 874 881	empresa
+T22	Term-DPEJ 1107 1114	empresa
+T23	Term-DPEJ 1289 1296	empresa
+T24	Term-DPEJ 1340 1347	empresa
+T25	Term-DPEJ 1734 1746	cumplimiento
+T26	Term-DPEJ 18 24	comité
+T27	Term-DPEJ 234 240	comité
+T28	Term-DPEJ 605 611	comité
+T29	Term-DPEJ 822 827	lugar
+T30	Term-DPEJ 1490 1522	proceso de conflictos colectivos
+T31	Term-DPEJ 18 35	comité de empresa
+T32	Term-DPEJ 234 251	comité de empresa
+T33	Term-DPEJ 1591 1594	Ley
+T34	Term-DPEJ 1232 1237	datos
+T35	Term-DPEJ 265 273	conjunto
+T36	Term-DPEJ 347 352	deber
+T37	Term-DPEJ 729 734	deber
+T38	Term-DPEJ 1556 1562	título
+T39	Term-DPEJ 1249 1257	relación
+T40	Term-DPEJ 347 362	deber de sigilo
+T41	Term-DPEJ 729 744	deber de sigilo
+T42	Term-DPEJ 176 184	decisión
+T43	Term-DPEJ 386 397	información
+T44	Term-DPEJ 454 460	centro
+T45	Term-DPEJ 1121 1127	centro
+T46	Term-Termcat 52 68	órgano colegiado
+T47	Term-Termcat 789 796	mandato
+T48	Term-Termcat 347 352	deber
+T49	Term-Termcat 729 734	deber
+T50	Term-Termcat 426 433	interés
+T51	Term-Termcat 1591 1594	Ley
+T52	Term-Termcat 1831 1841	obligación
+T53	Term-Termcat 1430 1444	representantes
+T54	Term-Termcat 1755 1769	representantes
+T55	Term-Termcat 1556 1562	título
+T56	Term-Termcat 1538 1546	capítulo
+T57	Term-Termcat 1571 1576	libro
+T58	Term-Termcat 1501 1511	conflictos
+T59	Term-Termcat 1712 1720	litigios
+T60	Term-Termcat 36 45	capacidad
+T61	Term-Termcat 454 471	centro de trabajo
+T62	Term-Termcat 1121 1138	centro de trabajo
+T63	Term-Termcat 18 35	comité de empresa
+T64	Term-Termcat 234 251	comité de empresa
+T65	Term-Termcat 158 170	competencias
+T66	Term-Termcat 1501 1522	conflictos colectivos
+T67	Term-Termcat 1289 1296	empresa
+T68	Term-Termcat 874 881	empresa
+T69	Term-Termcat 440 447	empresa
+T70	Term-Termcat 594 601	empresa
+T71	Term-Termcat 1107 1114	empresa
+T72	Term-Termcat 1340 1347	empresa
+T73	Term-Termcat 772 782	expiración
+T74	Term-Termcat 1276 1282	empleo
+T75	Term-Termcat 176 184	decisión
+T76	Term-Termcat 1639 1651	Jurisdicción
+T77	Term-Termcat 1700 1707	proceso
+T78	Term-Termcat 1490 1497	proceso
+T79	Term-Termcat 605 611	comité
+T80	Term-Termcat 1734 1746	cumplimiento
+T81	Term-Termcat 1478 1486	conforme
+T82	Term-Termcat 1684 1692	conforme
+T83	Term-Termcat 567 576	documento
+T84	Term-Termcat 1175 1186	estabilidad
+T85	Term-Termcat 1203 1212	excepción
+T86	Term-Termcat 559 563	tipo
+T87	Term-Termcat 1304 1315	impugnación
+T88	Term-Termcat 386 397	información
+T89	Term-Termcat 1639 1658	Jurisdicción Social
+T90	Term-Termcat 717 724	entrega
+T91	Term-Termcat 417 425	objetivo
+T92	Term-Termcat 1059 1068	objetivos
+T93	Term-Termcat 1158 1168	perjuicios
+T94	Term-Termcat 965 973	secretos
+T95	Term-Termcat 1387 1396	comunicar
+T96	Term-Termcat 903 912	comunicar
+T97	Term-Termcat 110 120	judiciales
+T98	Term-Termcat 1265 1272	volumen
+T99	Term-DV 1455 1459	baja
+T100	Term-DV 1780 1784	baja
+T101	Term-DV 36 40	capa
+T102	Term-DV 36 45	capacidad
+T103	Term-DV 1538 1546	capítulo
+T104	Term-DV 59 68	colegiado
+T105	Term-DV 158 169	competencia
+T106	Term-DV 327 331	debe
+T107	Term-DV 347 351	debe
+T108	Term-DV 729 733	debe
+T109	Term-DV 176 184	decisión
+T110	Term-DV 567 576	documento
+T111	Term-DV 28 35	empresa
+T112	Term-DV 244 251	empresa
+T113	Term-DV 440 447	empresa
+T114	Term-DV 594 601	empresa
+T115	Term-DV 874 881	empresa
+T116	Term-DV 1107 1114	empresa
+T117	Term-DV 1289 1296	empresa
+T118	Term-DV 1340 1347	empresa
+T119	Term-DV 388 393	forma
+T120	Term-DV 924 929	forma
+T121	Term-DV 1412 1417	forma
+T122	Term-DV 110 118	judicial
+T123	Term-DV 1161 1167	juicio
+T124	Term-DV 1514 1521	lectivo
+T125	Term-DV 406 414	legítimo
+T126	Term-DV 1712 1719	litigio
+T127	Term-DV 789 794	manda
+T128	Term-DV 789 796	mandato
+T129	Term-DV 1309 1315	nación
+T130	Term-DV 1831 1841	obligación
+T131	Term-DV 70 74	para
+T132	Term-DV 672 676	para
+T133	Term-DV 1158 1167	perjuicio
+T134	Term-DV 1490 1497	proceso
+T135	Term-DV 1700 1707	proceso
+T136	Term-DV 356 362	sigilo
+T137	Term-DV 738 744	sigilo
+T138	Term-DV 1845 1851	sigilo
+T139	Term-DV 1452 1462	trabajador
+T140	Term-DV 1777 1787	trabajador
+T141	Term-DV 302 303	x
+T142	Term-DV 488 489	x
+T143	Term-DV 773 774	x
+T144	Term-DV 854 855	x
+T145	Term-DV 1204 1205	x
+T146	Term-DV 1801 1802	x
+T147	Term-AttentionRank 367 397	respecto a aquella información
+T148	Term-AttentionRank 1276 1282	empleo
+T149	Term-AttentionRank 1430 1444	representantes
+T150	Term-AttentionRank 1755 1769	representantes
+T151	Term-AttentionRank 1712 1746	litigios relativos al cumplimiento
+T152	Term-AttentionRank 1831 1841	obligación
+T153	Term-AttentionRank 1684 1707	conforme a este proceso
+T154	Term-AttentionRank 1639 1658	Jurisdicción Social
+T155	Term-AttentionRank 417 425	objetivo
+T156	Term-AttentionRank 1059 1068	objetivos
+T157	Term-AttentionRank 515 533	carácter reservado
+T158	Term-AttentionRank 1360 1378	carácter reservado
+T159	Term-AttentionRank 789 796	mandato
+T160	Term-AttentionRank 1249 1257	relación
+T161	Term-AttentionRank 515 523	carácter
+T162	Term-AttentionRank 1360 1368	carácter
+T163	Term-AttentionRank 1086 1100	funcionamiento
+T164	Term-AttentionRank 677 682	fines
+T165	Term-AttentionRank 1734 1746	cumplimiento
+T166	Term-AttentionRank 275 278	así
+T167	Term-AttentionRank 36 45	capacidad
+T168	Term-AttentionRank 1049 1068	criterios objetivos
+T169	Term-AttentionRank 18 24	comité
+T170	Term-AttentionRank 234 240	comité
+T171	Term-AttentionRank 605 611	comité
+T172	Term-AttentionRank 176 184	decisión
+T173	Term-AttentionRank 1556 1562	título
+T174	Term-AttentionRank 1478 1497	conforme al proceso
+T175	Term-AttentionRank 386 397	información
+T176	Term-AttentionRank 144 150	ámbito
+T177	Term-AttentionRank 651 657	ámbito
+T178	Term-AttentionRank 822 827	lugar
+T179	Term-AttentionRank 1049 1058	criterios
+T180	Term-AttentionRank 1232 1237	datos
+T181	Term-AttentionRank 204 212	miembros
+T182	Term-AttentionRank 221 229	miembros
+T183	Term-AttentionRank 356 362	sigilo
+T184	Term-AttentionRank 738 744	sigilo
+T185	Term-AttentionRank 1845 1851	sigilo
+T186	Term-AttentionRank 1452 1464	trabajadores
+T187	Term-AttentionRank 1777 1789	trabajadores
+T188	Term-AttentionRank 52 58	órgano
+T189	Term-AttentionRank 28 35	empresa
+T190	Term-AttentionRank 244 251	empresa
+T191	Term-AttentionRank 440 447	empresa
+T192	Term-AttentionRank 594 601	empresa
+T193	Term-AttentionRank 874 881	empresa
+T194	Term-AttentionRank 1107 1114	empresa
+T195	Term-AttentionRank 1289 1296	empresa
+T196	Term-AttentionRank 1340 1347	empresa
+T197	Term-AttentionRank 1501 1522	conflictos colectivos
+T198	Term-AttentionRank 265 273	conjunto
+T199	Term-AttentionRank 1490 1497	proceso
+T200	Term-AttentionRank 1700 1707	proceso
+T201	Term-AttentionRank 1591 1594	Ley
+T202	Term-AttentionRank 454 460	centro
+T203	Term-AttentionRank 1121 1127	centro
+T204	Term-AttentionRank 1029 1033	ción
+T205	Term-AttentionRank 1175 1186	estabilidad
+T206	Term-AttentionRank 347 352	deber
+T207	Term-AttentionRank 729 734	deber
+T208	Term-AttentionRank 464 471	trabajo
+T209	Term-AttentionRank 1131 1138	trabajo
+T210	Term-AttentionRank 291 295	caso
+T211	Term-AttentionRank 546 550	caso
+T212	Term-LabourLaw 18 35	comité de empresa
+T213	Term-LabourLaw 234 251	comité de empresa
+T214	Term-LabourLaw 454 471	centro de trabajo
+T215	Term-LabourLaw 1121 1138	centro de trabajo
+T216	Term-LabourLaw 464 471	trabajo
+T217	Term-LabourLaw 1131 1138	trabajo
+T218	Term-LabourLaw 386 397	información
+T219	Term-LabourLaw 1430 1443	representante
+T220	Term-LabourLaw 1755 1768	representante
+T221	Term-LabourLaw 1452 1462	trabajador
+T222	Term-LabourLaw 1777 1787	trabajador
+T223	Term-LabourLaw 144 150	ámbito
+T224	Term-LabourLaw 651 657	ámbito
+T225	Term-LabourLaw 1734 1746	cumplimiento
+T226	Term-LabourLaw 1049 1057	criterio
+T227	Term-LabourLaw 789 796	mandato
+T228	Term-LabourLaw 388 397	formación
+T229	Term-LabourLaw 327 332	deber
+T230	Term-LabourLaw 347 352	deber
+T231	Term-LabourLaw 729 734	deber
+T232	Term-LabourLaw 52 58	órgano
+T233	Term-LabourLaw 28 35	empresa
+T234	Term-LabourLaw 244 251	empresa
+T235	Term-LabourLaw 440 447	empresa
+T236	Term-LabourLaw 594 601	empresa
+T237	Term-LabourLaw 874 881	empresa
+T238	Term-LabourLaw 1107 1114	empresa
+T239	Term-LabourLaw 1289 1296	empresa
+T240	Term-LabourLaw 1340 1347	empresa
+T241	Term-LabourLaw 18 24	comité
+T242	Term-LabourLaw 234 240	comité
+T243	Term-LabourLaw 605 611	comité
+T244	Term-LabourLaw 1158 1167	perjuicio
+T245	Term-LabourLaw 1831 1841	obligación
+T246	Term-LabourLaw 158 169	competencia
+T247	Term-LabourLaw 1501 1510	conflicto
+T248	Term-LabourLaw 1512 1521	colectivo
+T249	Term-LabourLaw 1276 1282	empleo
+T250	Term-LabourLaw 1232 1237	datos
+T251	Term-IATE 176 184	decisión
+T252	Term-IATE 1232 1237	datos
+T253	Term-IATE 1556 1562	título
+T254	Term-IATE 265 273	conjunto
+T255	Term-IATE 28 35	empresa
+T256	Term-IATE 244 251	empresa
+T257	Term-IATE 440 447	empresa
+T258	Term-IATE 594 601	empresa
+T259	Term-IATE 874 881	empresa
+T260	Term-IATE 1107 1114	empresa
+T261	Term-IATE 1289 1296	empresa
+T262	Term-IATE 1340 1347	empresa
+T263	Term-IATE 789 796	mandato
+T264	Term-IATE 1175 1186	estabilidad
+T265	Term-IATE 1452 1464	trabajadores
+T266	Term-IATE 1777 1789	trabajadores
+T267	Term-IATE 1490 1497	proceso
+T268	Term-IATE 1700 1707	proceso
+T269	Term-IATE 36 45	capacidad
+T270	Term-IATE 1276 1282	empleo
+T271	Term-IATE 204 212	miembros
+T272	Term-IATE 221 229	miembros
+T273	Term-IATE 515 523	carácter
+T274	Term-IATE 1360 1368	carácter
+T275	Term-IATE 1831 1841	obligación
+T276	Term-IATE 18 24	comité
+T277	Term-IATE 234 240	comité
+T278	Term-IATE 605 611	comité
+T279	Term-IATE 1430 1444	representantes
+T280	Term-IATE 1755 1769	representantes
+T281	Term-IATE 386 397	información

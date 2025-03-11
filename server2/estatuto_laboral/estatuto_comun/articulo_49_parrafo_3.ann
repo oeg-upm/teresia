@@ -1,304 +1,304 @@
-T1 Term-DPEJ 168 172 caso
-T2 Term-DPEJ 849 853 caso
-T3 Term-DPEJ 593 600 acuerdo
-T4 Term-DPEJ 1520 1527 acuerdo
-T5 Term-DPEJ 429 436 trabajo
-T6 Term-DPEJ 236 243 empresa
-T7 Term-DPEJ 610 617 empresa
-T8 Term-DPEJ 733 740 empresa
-T9 Term-DPEJ 960 967 empresa
-T10 Term-DPEJ 862 871 convenios
-T11 Term-DPEJ 972 981 dirección
-T12 Term-DPEJ 417 425 contrato
-T13 Term-DPEJ 1706 1711 forma
-T14 Term-DPEJ 1618 1627 adoptante
-T15 Term-DPEJ 1770 1789 resolución judicial
-T16 Term-DPEJ 402 412 suspensión
-T17 Term-DPEJ 1556 1566 suspensión
-T18 Term-DPEJ 862 882 convenios colectivos
-T19 Term-DPEJ 1504 1515 acogimiento
-T20 Term-DPEJ 1901 1912 acogimiento
-T21 Term-DPEJ 1135 1143 apartado
-T22 Term-DPEJ 1284 1292 apartado
-T23 Term-DPEJ 1770 1780 resolución
-T24 Term-DPEJ 547 554 jornada
-T25 Term-DPEJ 569 576 jornada
-T26 Term-DPEJ 1686 1693 jornada
-T27 Term-DPEJ 1840 1848 decisión
-T28 Term-DPEJ 1535 1543 artículo
-T29 Term-DPEJ 95 100 fecha
-T30 Term-DPEJ 1322 1329 nulidad
-T31 Term-Termcat 862 871 convenios
-T32 Term-Termcat 1770 1780 resolución
-T33 Term-Termcat 820 828 términos
-T34 Term-Termcat 1148 1155 término
-T35 Term-Termcat 1490 1498 adopción
-T36 Term-Termcat 1887 1895 adopción
-T37 Term-Termcat 1818 1826 adopción
-T38 Term-Termcat 1457 1465 adopción
-T39 Term-Termcat 1618 1627 adoptante
-T40 Term-Termcat 1829 1833 bien
-T41 Term-Termcat 417 425 contrato
-T42 Term-Termcat 1706 1711 forma
-T43 Term-Termcat 126 134 disfrute
-T44 Term-Termcat 1867 1873 guarda
-T45 Term-Termcat 1470 1476 guarda
-T46 Term-Termcat 1322 1329 nulidad
-T47 Term-Termcat 1535 1543 artículo
-T48 Term-Termcat 1388 1397 Sentencia
-T49 Term-Termcat 417 436 contrato de trabajo
-T50 Term-Termcat 862 882 convenios colectivos
-T51 Term-Termcat 972 981 dirección
-T52 Term-Termcat 610 617 empresa
-T53 Term-Termcat 733 740 empresa
-T54 Term-Termcat 960 967 empresa
-T55 Term-Termcat 236 243 empresa
-T56 Term-Termcat 1686 1702 jornada completa
-T57 Term-Termcat 547 563 jornada completa
-T58 Term-Termcat 75 82 semanas
-T59 Term-Termcat 1656 1663 semanas
-T60 Term-Termcat 470 477 semanas
-T61 Term-Termcat 1600 1607 semanas
-T62 Term-Termcat 1578 1586 duración
-T63 Term-Termcat 1840 1848 decisión
-T64 Term-Termcat 291 298 derecho
-T65 Term-Termcat 929 936 derecho
-T66 Term-Termcat 805 812 derecho
-T67 Term-Termcat 623 630 persona
-T68 Term-Termcat 319 326 persona
-T69 Term-Termcat 691 698 persona
-T70 Term-Termcat 1197 1205 personas
-T71 Term-Termcat 402 412 suspensión
-T72 Term-Termcat 1556 1566 suspensión
-T73 Term-Termcat 1770 1789 resolución judicial
-T74 Term-Termcat 1504 1515 acogimiento
-T75 Term-Termcat 1901 1912 acogimiento
-T76 Term-Termcat 1520 1527 acuerdo
-T77 Term-Termcat 593 600 acuerdo
-T78 Term-Termcat 1234 1240 cuenta
-T79 Term-Termcat 646 654 conforme
-T80 Term-Termcat 1103 1110 efectos
-T81 Term-Termcat 982 993 empresarial
-T82 Term-Termcat 787 796 ejercicio
-T83 Term-Termcat 1011 1020 ejercicio
-T84 Term-Termcat 52 61 ejercicio
-T85 Term-Termcat 369 378 ejercicio
-T86 Term-Termcat 1361 1380 fundamento jurídico
-T87 Term-Termcat 1259 1279 inconstitucionalidad
-T88 Term-Termcat 302 312 individual
-T89 Term-Termcat 1159 1174 madre biológica
-T90 Term-Termcat 17 32 madre biológica
-T91 Term-Termcat 536 543 régimen
-T92 Term-Termcat 718 727 comunicar
-T93 Term-DV 1361 1380 fundamento jurídico
-T94 Term-DV 330 334 baja
-T95 Term-DV 634 638 baja
-T96 Term-DV 702 706 baja
-T97 Term-DV 1068 1071 bid
-T98 Term-DV 1068 1071 bid
-T99 Term-DV 1829 1833 bien
-T100 Term-DV 212 216 debe
-T101 Term-DV 711 715 debe
-T102 Term-DV 1664 1668 debe
-T103 Term-DV 1840 1848 decisión
-T104 Term-DV 291 298 derecho
-T105 Term-DV 805 812 derecho
-T106 Term-DV 929 936 derecho
-T107 Term-DV 280 283 día
-T108 Term-DV 778 781 día
-T109 Term-DV 195 200 dicho
-T110 Term-DV 972 981 dirección
-T111 Term-DV 1103 1110 efectos
-T112 Term-DV 236 243 empresa
-T113 Term-DV 610 617 empresa
-T114 Term-DV 733 740 empresa
-T115 Term-DV 960 967 empresa
-T116 Term-DV 982 989 empresa
-T117 Term-DV 95 97 fe
-T118 Term-DV 358 360 fe
-T119 Term-DV 1104 1106 fe
-T120 Term-DV 1706 1711 forma
-T121 Term-DV 1361 1371 fundamento
-T122 Term-DV 1781 1789 judicial
-T123 Term-DV 1372 1380 jurídico
-T124 Term-DV 874 881 lectivo
-T125 Term-DV 26 32 lógica
-T126 Term-DV 1168 1174 lógica
-T127 Term-DV 17 22 madre
-T128 Term-DV 1159 1164 madre
-T129 Term-DV 1322 1329 nulidad
-T130 Term-DV 577 584 parcial
-T131 Term-DV 946 950 para
-T132 Term-DV 1608 1612 para
-T133 Term-DV 116 121 parto
-T134 Term-DV 508 513 parto
-T135 Term-DV 405 412 pensión
-T136 Term-DV 1559 1566 pensión
-T137 Term-DV 319 326 persona
-T138 Term-DV 623 630 persona
-T139 Term-DV 691 698 persona
-T140 Term-DV 1197 1204 persona
-T141 Term-DV 101 111 previsible
-T142 Term-DV 421 425 rato
-T143 Term-DV 536 543 régimen
-T144 Term-DV 668 679 reglamentar
-T145 Term-DV 1346 1350 seña
-T146 Term-DV 402 412 suspensión
-T147 Term-DV 1556 1566 suspensión
-T148 Term-DV 327 337 trabajador
-T149 Term-DV 631 641 trabajador
-T150 Term-DV 699 709 trabajador
-T151 Term-DV 306 312 vidual
-T152 Term-DV 104 107 vis
-T153 Term-AttentionRank 593 617 acuerdo entre la empresa
-T154 Term-AttentionRank 52 61 ejercicio
-T155 Term-AttentionRank 369 378 ejercicio
-T156 Term-AttentionRank 787 796 ejercicio
-T157 Term-AttentionRank 1011 1020 ejercicio
-T158 Term-AttentionRank 1770 1780 resolución
-T159 Term-AttentionRank 1520 1543 acuerdo con el artículo
-T160 Term-AttentionRank 593 600 acuerdo
-T161 Term-AttentionRank 1520 1527 acuerdo
-T162 Term-AttentionRank 280 284 días
-T163 Term-AttentionRank 778 782 días
-T164 Term-AttentionRank 972 981 dirección
-T165 Term-AttentionRank 547 554 jornada
-T166 Term-AttentionRank 569 576 jornada
-T167 Term-AttentionRank 1686 1693 jornada
-T168 Term-AttentionRank 1103 1113 efectos de
-T169 Term-AttentionRank 1504 1515 acogimiento
-T170 Term-AttentionRank 1901 1912 acogimiento
-T171 Term-AttentionRank 1481 1486 fines
-T172 Term-AttentionRank 1878 1883 fines
-T173 Term-AttentionRank 95 100 fecha
-T174 Term-AttentionRank 1535 1543 artículo
-T175 Term-AttentionRank 1840 1848 decisión
-T176 Term-AttentionRank 1444 1453 supuestos
-T177 Term-AttentionRank 470 513 semanas inmediatamente posteriores al parto
-T178 Term-AttentionRank 319 326 persona
-T179 Term-AttentionRank 623 630 persona
-T180 Term-AttentionRank 691 698 persona
-T181 Term-AttentionRank 1197 1205 personas
-T182 Term-AttentionRank 862 871 convenios
-T183 Term-AttentionRank 402 412 suspensión
-T184 Term-AttentionRank 1556 1566 suspensión
-T185 Term-AttentionRank 75 82 semanas
-T186 Term-AttentionRank 470 477 semanas
-T187 Term-AttentionRank 1600 1607 semanas
-T188 Term-AttentionRank 1656 1663 semanas
-T189 Term-AttentionRank 1578 1586 duración
-T190 Term-AttentionRank 862 882 convenios colectivos
-T191 Term-AttentionRank 862 882 convenios colectivos
-T192 Term-AttentionRank 1036 1052 razones fundadas
-T193 Term-AttentionRank 327 338 trabajadora
-T194 Term-AttentionRank 631 642 trabajadora
-T195 Term-AttentionRank 699 710 trabajadora
-T196 Term-AttentionRank 17 32 madre biológica
-T197 Term-AttentionRank 1159 1174 madre biológica
-T198 Term-AttentionRank 252 262 antelación
-T199 Term-AttentionRank 750 760 antelación
-T200 Term-AttentionRank 236 243 empresa
-T201 Term-AttentionRank 610 617 empresa
-T202 Term-AttentionRank 733 740 empresa
-T203 Term-AttentionRank 960 967 empresa
-T204 Term-AttentionRank 1706 1711 forma
-T205 Term-AttentionRank 1322 1329 nulidad
-T206 Term-AttentionRank 291 298 derecho
-T207 Term-AttentionRank 805 812 derecho
-T208 Term-AttentionRank 929 936 derecho
-T209 Term-AttentionRank 387 397 progenitor
-T210 Term-AttentionRank 899 911 progenitores
-T211 Term-AttentionRank 1457 1465 adopción
-T212 Term-AttentionRank 1490 1498 adopción
-T213 Term-AttentionRank 1818 1826 adopción
-T214 Term-AttentionRank 1887 1895 adopción
-T215 Term-AttentionRank 319 338 persona trabajadora
-T216 Term-AttentionRank 623 642 persona trabajadora
-T217 Term-AttentionRank 691 710 persona trabajadora
-T218 Term-AttentionRank 1618 1627 adoptante
-T219 Term-AttentionRank 417 425 contrato
-T220 Term-AttentionRank 1103 1110 efectos
-T221 Term-AttentionRank 429 436 trabajo
-T222 Term-AttentionRank 1011 1031 ejercicio simultáneo
-T223 Term-AttentionRank 252 269 antelación mínima
-T224 Term-AttentionRank 750 767 antelación mínima
-T225 Term-AttentionRank 168 172 caso
-T226 Term-AttentionRank 849 853 caso
-T227 Term-AttentionRank 1135 1143 apartado
-T228 Term-AttentionRank 1284 1292 apartado
-T229 Term-LabourLaw 417 436 contrato de trabajo
-T230 Term-LabourLaw 402 425 suspensión del contrato
-T231 Term-LabourLaw 547 563 jornada completa
-T232 Term-LabourLaw 1686 1702 jornada completa
-T233 Term-LabourLaw 1457 1465 adopción
-T234 Term-LabourLaw 1490 1498 adopción
-T235 Term-LabourLaw 1818 1826 adopción
-T236 Term-LabourLaw 1887 1895 adopción
-T237 Term-LabourLaw 547 554 jornada
-T238 Term-LabourLaw 569 576 jornada
-T239 Term-LabourLaw 1686 1693 jornada
-T240 Term-LabourLaw 547 554 jornada
-T241 Term-LabourLaw 569 576 jornada
-T242 Term-LabourLaw 1686 1693 jornada
-T243 Term-LabourLaw 429 436 trabajo
-T244 Term-LabourLaw 417 425 contrato
-T245 Term-LabourLaw 1261 1279 constitucionalidad
-T246 Term-LabourLaw 972 981 dirección
-T247 Term-LabourLaw 327 337 trabajador
-T248 Term-LabourLaw 631 641 trabajador
-T249 Term-LabourLaw 699 709 trabajador
-T250 Term-LabourLaw 405 412 pensión
-T251 Term-LabourLaw 1559 1566 pensión
-T252 Term-LabourLaw 536 543 régimen
-T253 Term-LabourLaw 212 217 deber
-T254 Term-LabourLaw 711 716 deber
-T255 Term-LabourLaw 1664 1669 deber
-T256 Term-LabourLaw 236 243 empresa
-T257 Term-LabourLaw 610 617 empresa
-T258 Term-LabourLaw 733 740 empresa
-T259 Term-LabourLaw 960 967 empresa
-T260 Term-LabourLaw 982 989 empresa
-T261 Term-LabourLaw 1578 1586 duración
-T262 Term-LabourLaw 291 298 derecho
-T263 Term-LabourLaw 805 812 derecho
-T264 Term-LabourLaw 929 936 derecho
-T265 Term-LabourLaw 820 827 término
-T266 Term-LabourLaw 1148 1155 término
-T267 Term-LabourLaw 872 881 colectivo
-T268 Term-LabourLaw 402 412 suspensión
-T269 Term-LabourLaw 1556 1566 suspensión
-T270 Term-LabourLaw 319 326 persona
-T271 Term-LabourLaw 623 630 persona
-T272 Term-LabourLaw 691 698 persona
-T273 Term-LabourLaw 1197 1204 persona
-T274 Term-LabourLaw 116 121 parto
-T275 Term-LabourLaw 508 513 parto
-T276 Term-IATE 1322 1329 nulidad
-T277 Term-IATE 1840 1848 decisión
-T278 Term-IATE 1535 1543 artículo
-T279 Term-IATE 593 600 acuerdo
-T280 Term-IATE 1520 1527 acuerdo
-T281 Term-IATE 1770 1780 resolución
-T282 Term-IATE 236 243 empresa
-T283 Term-IATE 610 617 empresa
-T284 Term-IATE 733 740 empresa
-T285 Term-IATE 960 967 empresa
-T286 Term-IATE 387 397 progenitor
-T287 Term-IATE 899 911 progenitores
-T288 Term-IATE 402 412 suspensión
-T289 Term-IATE 1556 1566 suspensión
-T290 Term-IATE 1457 1465 adopción
-T291 Term-IATE 1490 1498 adopción
-T292 Term-IATE 1818 1826 adopción
-T293 Term-IATE 1887 1895 adopción
-T294 Term-IATE 1135 1143 apartado
-T295 Term-IATE 1284 1292 apartado
-T296 Term-IATE 417 425 contrato
-T297 Term-IATE 1103 1110 efectos
-T298 Term-IATE 972 981 dirección
-T299 Term-IATE 862 871 convenios
-T300 Term-IATE 52 61 ejercicio
-T301 Term-IATE 369 378 ejercicio
-T302 Term-IATE 787 796 ejercicio
-T303 Term-IATE 1011 1020 ejercicio
-T304 Term-IATE 1578 1586 duración
+T1	Term-DPEJ 168 172	caso
+T2	Term-DPEJ 849 853	caso
+T3	Term-DPEJ 593 600	acuerdo
+T4	Term-DPEJ 1520 1527	acuerdo
+T5	Term-DPEJ 429 436	trabajo
+T6	Term-DPEJ 236 243	empresa
+T7	Term-DPEJ 610 617	empresa
+T8	Term-DPEJ 733 740	empresa
+T9	Term-DPEJ 960 967	empresa
+T10	Term-DPEJ 862 871	convenios
+T11	Term-DPEJ 972 981	dirección
+T12	Term-DPEJ 417 425	contrato
+T13	Term-DPEJ 1706 1711	forma
+T14	Term-DPEJ 1618 1627	adoptante
+T15	Term-DPEJ 1770 1789	resolución judicial
+T16	Term-DPEJ 402 412	suspensión
+T17	Term-DPEJ 1556 1566	suspensión
+T18	Term-DPEJ 862 882	convenios colectivos
+T19	Term-DPEJ 1504 1515	acogimiento
+T20	Term-DPEJ 1901 1912	acogimiento
+T21	Term-DPEJ 1135 1143	apartado
+T22	Term-DPEJ 1284 1292	apartado
+T23	Term-DPEJ 1770 1780	resolución
+T24	Term-DPEJ 547 554	jornada
+T25	Term-DPEJ 569 576	jornada
+T26	Term-DPEJ 1686 1693	jornada
+T27	Term-DPEJ 1840 1848	decisión
+T28	Term-DPEJ 1535 1543	artículo
+T29	Term-DPEJ 95 100	fecha
+T30	Term-DPEJ 1322 1329	nulidad
+T31	Term-Termcat 862 871	convenios
+T32	Term-Termcat 1770 1780	resolución
+T33	Term-Termcat 820 828	términos
+T34	Term-Termcat 1148 1155	término
+T35	Term-Termcat 1490 1498	adopción
+T36	Term-Termcat 1887 1895	adopción
+T37	Term-Termcat 1818 1826	adopción
+T38	Term-Termcat 1457 1465	adopción
+T39	Term-Termcat 1618 1627	adoptante
+T40	Term-Termcat 1829 1833	bien
+T41	Term-Termcat 417 425	contrato
+T42	Term-Termcat 1706 1711	forma
+T43	Term-Termcat 126 134	disfrute
+T44	Term-Termcat 1867 1873	guarda
+T45	Term-Termcat 1470 1476	guarda
+T46	Term-Termcat 1322 1329	nulidad
+T47	Term-Termcat 1535 1543	artículo
+T48	Term-Termcat 1388 1397	Sentencia
+T49	Term-Termcat 417 436	contrato de trabajo
+T50	Term-Termcat 862 882	convenios colectivos
+T51	Term-Termcat 972 981	dirección
+T52	Term-Termcat 610 617	empresa
+T53	Term-Termcat 733 740	empresa
+T54	Term-Termcat 960 967	empresa
+T55	Term-Termcat 236 243	empresa
+T56	Term-Termcat 1686 1702	jornada completa
+T57	Term-Termcat 547 563	jornada completa
+T58	Term-Termcat 75 82	semanas
+T59	Term-Termcat 1656 1663	semanas
+T60	Term-Termcat 470 477	semanas
+T61	Term-Termcat 1600 1607	semanas
+T62	Term-Termcat 1578 1586	duración
+T63	Term-Termcat 1840 1848	decisión
+T64	Term-Termcat 291 298	derecho
+T65	Term-Termcat 929 936	derecho
+T66	Term-Termcat 805 812	derecho
+T67	Term-Termcat 623 630	persona
+T68	Term-Termcat 319 326	persona
+T69	Term-Termcat 691 698	persona
+T70	Term-Termcat 1197 1205	personas
+T71	Term-Termcat 402 412	suspensión
+T72	Term-Termcat 1556 1566	suspensión
+T73	Term-Termcat 1770 1789	resolución judicial
+T74	Term-Termcat 1504 1515	acogimiento
+T75	Term-Termcat 1901 1912	acogimiento
+T76	Term-Termcat 1520 1527	acuerdo
+T77	Term-Termcat 593 600	acuerdo
+T78	Term-Termcat 1234 1240	cuenta
+T79	Term-Termcat 646 654	conforme
+T80	Term-Termcat 1103 1110	efectos
+T81	Term-Termcat 982 993	empresarial
+T82	Term-Termcat 787 796	ejercicio
+T83	Term-Termcat 1011 1020	ejercicio
+T84	Term-Termcat 52 61	ejercicio
+T85	Term-Termcat 369 378	ejercicio
+T86	Term-Termcat 1361 1380	fundamento jurídico
+T87	Term-Termcat 1259 1279	inconstitucionalidad
+T88	Term-Termcat 302 312	individual
+T89	Term-Termcat 1159 1174	madre biológica
+T90	Term-Termcat 17 32	madre biológica
+T91	Term-Termcat 536 543	régimen
+T92	Term-Termcat 718 727	comunicar
+T93	Term-DV 1361 1380	fundamento jurídico
+T94	Term-DV 330 334	baja
+T95	Term-DV 634 638	baja
+T96	Term-DV 702 706	baja
+T97	Term-DV 1068 1071	bid
+T98	Term-DV 1068 1071	bid
+T99	Term-DV 1829 1833	bien
+T100	Term-DV 212 216	debe
+T101	Term-DV 711 715	debe
+T102	Term-DV 1664 1668	debe
+T103	Term-DV 1840 1848	decisión
+T104	Term-DV 291 298	derecho
+T105	Term-DV 805 812	derecho
+T106	Term-DV 929 936	derecho
+T107	Term-DV 280 283	día
+T108	Term-DV 778 781	día
+T109	Term-DV 195 200	dicho
+T110	Term-DV 972 981	dirección
+T111	Term-DV 1103 1110	efectos
+T112	Term-DV 236 243	empresa
+T113	Term-DV 610 617	empresa
+T114	Term-DV 733 740	empresa
+T115	Term-DV 960 967	empresa
+T116	Term-DV 982 989	empresa
+T117	Term-DV 95 97	fe
+T118	Term-DV 358 360	fe
+T119	Term-DV 1104 1106	fe
+T120	Term-DV 1706 1711	forma
+T121	Term-DV 1361 1371	fundamento
+T122	Term-DV 1781 1789	judicial
+T123	Term-DV 1372 1380	jurídico
+T124	Term-DV 874 881	lectivo
+T125	Term-DV 26 32	lógica
+T126	Term-DV 1168 1174	lógica
+T127	Term-DV 17 22	madre
+T128	Term-DV 1159 1164	madre
+T129	Term-DV 1322 1329	nulidad
+T130	Term-DV 577 584	parcial
+T131	Term-DV 946 950	para
+T132	Term-DV 1608 1612	para
+T133	Term-DV 116 121	parto
+T134	Term-DV 508 513	parto
+T135	Term-DV 405 412	pensión
+T136	Term-DV 1559 1566	pensión
+T137	Term-DV 319 326	persona
+T138	Term-DV 623 630	persona
+T139	Term-DV 691 698	persona
+T140	Term-DV 1197 1204	persona
+T141	Term-DV 101 111	previsible
+T142	Term-DV 421 425	rato
+T143	Term-DV 536 543	régimen
+T144	Term-DV 668 679	reglamentar
+T145	Term-DV 1346 1350	seña
+T146	Term-DV 402 412	suspensión
+T147	Term-DV 1556 1566	suspensión
+T148	Term-DV 327 337	trabajador
+T149	Term-DV 631 641	trabajador
+T150	Term-DV 699 709	trabajador
+T151	Term-DV 306 312	vidual
+T152	Term-DV 104 107	vis
+T153	Term-AttentionRank 593 617	acuerdo entre la empresa
+T154	Term-AttentionRank 52 61	ejercicio
+T155	Term-AttentionRank 369 378	ejercicio
+T156	Term-AttentionRank 787 796	ejercicio
+T157	Term-AttentionRank 1011 1020	ejercicio
+T158	Term-AttentionRank 1770 1780	resolución
+T159	Term-AttentionRank 1520 1543	acuerdo con el artículo
+T160	Term-AttentionRank 593 600	acuerdo
+T161	Term-AttentionRank 1520 1527	acuerdo
+T162	Term-AttentionRank 280 284	días
+T163	Term-AttentionRank 778 782	días
+T164	Term-AttentionRank 972 981	dirección
+T165	Term-AttentionRank 547 554	jornada
+T166	Term-AttentionRank 569 576	jornada
+T167	Term-AttentionRank 1686 1693	jornada
+T168	Term-AttentionRank 1103 1113	efectos de
+T169	Term-AttentionRank 1504 1515	acogimiento
+T170	Term-AttentionRank 1901 1912	acogimiento
+T171	Term-AttentionRank 1481 1486	fines
+T172	Term-AttentionRank 1878 1883	fines
+T173	Term-AttentionRank 95 100	fecha
+T174	Term-AttentionRank 1535 1543	artículo
+T175	Term-AttentionRank 1840 1848	decisión
+T176	Term-AttentionRank 1444 1453	supuestos
+T177	Term-AttentionRank 470 513	semanas inmediatamente posteriores al parto
+T178	Term-AttentionRank 319 326	persona
+T179	Term-AttentionRank 623 630	persona
+T180	Term-AttentionRank 691 698	persona
+T181	Term-AttentionRank 1197 1205	personas
+T182	Term-AttentionRank 862 871	convenios
+T183	Term-AttentionRank 402 412	suspensión
+T184	Term-AttentionRank 1556 1566	suspensión
+T185	Term-AttentionRank 75 82	semanas
+T186	Term-AttentionRank 470 477	semanas
+T187	Term-AttentionRank 1600 1607	semanas
+T188	Term-AttentionRank 1656 1663	semanas
+T189	Term-AttentionRank 1578 1586	duración
+T190	Term-AttentionRank 862 882	convenios colectivos
+T191	Term-AttentionRank 862 882	convenios colectivos
+T192	Term-AttentionRank 1036 1052	razones fundadas
+T193	Term-AttentionRank 327 338	trabajadora
+T194	Term-AttentionRank 631 642	trabajadora
+T195	Term-AttentionRank 699 710	trabajadora
+T196	Term-AttentionRank 17 32	madre biológica
+T197	Term-AttentionRank 1159 1174	madre biológica
+T198	Term-AttentionRank 252 262	antelación
+T199	Term-AttentionRank 750 760	antelación
+T200	Term-AttentionRank 236 243	empresa
+T201	Term-AttentionRank 610 617	empresa
+T202	Term-AttentionRank 733 740	empresa
+T203	Term-AttentionRank 960 967	empresa
+T204	Term-AttentionRank 1706 1711	forma
+T205	Term-AttentionRank 1322 1329	nulidad
+T206	Term-AttentionRank 291 298	derecho
+T207	Term-AttentionRank 805 812	derecho
+T208	Term-AttentionRank 929 936	derecho
+T209	Term-AttentionRank 387 397	progenitor
+T210	Term-AttentionRank 899 911	progenitores
+T211	Term-AttentionRank 1457 1465	adopción
+T212	Term-AttentionRank 1490 1498	adopción
+T213	Term-AttentionRank 1818 1826	adopción
+T214	Term-AttentionRank 1887 1895	adopción
+T215	Term-AttentionRank 319 338	persona trabajadora
+T216	Term-AttentionRank 623 642	persona trabajadora
+T217	Term-AttentionRank 691 710	persona trabajadora
+T218	Term-AttentionRank 1618 1627	adoptante
+T219	Term-AttentionRank 417 425	contrato
+T220	Term-AttentionRank 1103 1110	efectos
+T221	Term-AttentionRank 429 436	trabajo
+T222	Term-AttentionRank 1011 1031	ejercicio simultáneo
+T223	Term-AttentionRank 252 269	antelación mínima
+T224	Term-AttentionRank 750 767	antelación mínima
+T225	Term-AttentionRank 168 172	caso
+T226	Term-AttentionRank 849 853	caso
+T227	Term-AttentionRank 1135 1143	apartado
+T228	Term-AttentionRank 1284 1292	apartado
+T229	Term-LabourLaw 417 436	contrato de trabajo
+T230	Term-LabourLaw 402 425	suspensión del contrato
+T231	Term-LabourLaw 547 563	jornada completa
+T232	Term-LabourLaw 1686 1702	jornada completa
+T233	Term-LabourLaw 1457 1465	adopción
+T234	Term-LabourLaw 1490 1498	adopción
+T235	Term-LabourLaw 1818 1826	adopción
+T236	Term-LabourLaw 1887 1895	adopción
+T237	Term-LabourLaw 547 554	jornada
+T238	Term-LabourLaw 569 576	jornada
+T239	Term-LabourLaw 1686 1693	jornada
+T240	Term-LabourLaw 547 554	jornada
+T241	Term-LabourLaw 569 576	jornada
+T242	Term-LabourLaw 1686 1693	jornada
+T243	Term-LabourLaw 429 436	trabajo
+T244	Term-LabourLaw 417 425	contrato
+T245	Term-LabourLaw 1261 1279	constitucionalidad
+T246	Term-LabourLaw 972 981	dirección
+T247	Term-LabourLaw 327 337	trabajador
+T248	Term-LabourLaw 631 641	trabajador
+T249	Term-LabourLaw 699 709	trabajador
+T250	Term-LabourLaw 405 412	pensión
+T251	Term-LabourLaw 1559 1566	pensión
+T252	Term-LabourLaw 536 543	régimen
+T253	Term-LabourLaw 212 217	deber
+T254	Term-LabourLaw 711 716	deber
+T255	Term-LabourLaw 1664 1669	deber
+T256	Term-LabourLaw 236 243	empresa
+T257	Term-LabourLaw 610 617	empresa
+T258	Term-LabourLaw 733 740	empresa
+T259	Term-LabourLaw 960 967	empresa
+T260	Term-LabourLaw 982 989	empresa
+T261	Term-LabourLaw 1578 1586	duración
+T262	Term-LabourLaw 291 298	derecho
+T263	Term-LabourLaw 805 812	derecho
+T264	Term-LabourLaw 929 936	derecho
+T265	Term-LabourLaw 820 827	término
+T266	Term-LabourLaw 1148 1155	término
+T267	Term-LabourLaw 872 881	colectivo
+T268	Term-LabourLaw 402 412	suspensión
+T269	Term-LabourLaw 1556 1566	suspensión
+T270	Term-LabourLaw 319 326	persona
+T271	Term-LabourLaw 623 630	persona
+T272	Term-LabourLaw 691 698	persona
+T273	Term-LabourLaw 1197 1204	persona
+T274	Term-LabourLaw 116 121	parto
+T275	Term-LabourLaw 508 513	parto
+T276	Term-IATE 1322 1329	nulidad
+T277	Term-IATE 1840 1848	decisión
+T278	Term-IATE 1535 1543	artículo
+T279	Term-IATE 593 600	acuerdo
+T280	Term-IATE 1520 1527	acuerdo
+T281	Term-IATE 1770 1780	resolución
+T282	Term-IATE 236 243	empresa
+T283	Term-IATE 610 617	empresa
+T284	Term-IATE 733 740	empresa
+T285	Term-IATE 960 967	empresa
+T286	Term-IATE 387 397	progenitor
+T287	Term-IATE 899 911	progenitores
+T288	Term-IATE 402 412	suspensión
+T289	Term-IATE 1556 1566	suspensión
+T290	Term-IATE 1457 1465	adopción
+T291	Term-IATE 1490 1498	adopción
+T292	Term-IATE 1818 1826	adopción
+T293	Term-IATE 1887 1895	adopción
+T294	Term-IATE 1135 1143	apartado
+T295	Term-IATE 1284 1292	apartado
+T296	Term-IATE 417 425	contrato
+T297	Term-IATE 1103 1110	efectos
+T298	Term-IATE 972 981	dirección
+T299	Term-IATE 862 871	convenios
+T300	Term-IATE 52 61	ejercicio
+T301	Term-IATE 369 378	ejercicio
+T302	Term-IATE 787 796	ejercicio
+T303	Term-IATE 1011 1020	ejercicio
+T304	Term-IATE 1578 1586	duración

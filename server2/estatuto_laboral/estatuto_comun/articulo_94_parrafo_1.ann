@@ -1,381 +1,381 @@
-T1 Term-DPEJ 1138 1147 capacidad
-T2 Term-DPEJ 111 118 acuerdo
-T3 Term-DPEJ 307 313 Empleo
-T4 Term-DPEJ 1927 1933 Empleo
-T5 Term-DPEJ 1860 1866 empleo
-T6 Term-DPEJ 787 795 ausencia
-T7 Term-DPEJ 1034 1042 ausencia
-T8 Term-DPEJ 1744 1750 letras
-T9 Term-DPEJ 339 345 órgano
-T10 Term-DPEJ 34 45 negociación
-T11 Term-DPEJ 1238 1249 negociación
-T12 Term-DPEJ 709 715 ámbito
-T13 Term-DPEJ 1266 1272 ámbito
-T14 Term-DPEJ 316 325 Seguridad
-T15 Term-DPEJ 1369 1376 Trabajo
-T16 Term-DPEJ 1399 1406 trabajo
-T17 Term-DPEJ 558 566 empresas
-T18 Term-DPEJ 141 149 convenio
-T19 Term-DPEJ 510 518 convenio
-T20 Term-DPEJ 719 727 convenio
-T21 Term-DPEJ 1838 1847 programas
-T22 Term-DPEJ 1589 1598 Contratos
-T23 Term-DPEJ 1679 1688 contratos
-T24 Term-DPEJ 1622 1633 aprendizaje
-T25 Term-DPEJ 1712 1723 aprendizaje
-T26 Term-DPEJ 1338 1349 Disposición
-T27 Term-DPEJ 1558 1569 Disposición
-T28 Term-DPEJ 876 885 instancia
-T29 Term-DPEJ 611 620 actividad
-T30 Term-DPEJ 369 390 comunidades autónomas
-T31 Term-DPEJ 141 159 convenio colectivo
-T32 Term-DPEJ 510 528 convenio colectivo
-T33 Term-DPEJ 719 737 convenio colectivo
-T34 Term-DPEJ 1920 1923 Ley
-T35 Term-DPEJ 763 769 título
-T36 Term-DPEJ 1238 1259 negociación colectiva
-T37 Term-DPEJ 1046 1056 resolución
-T38 Term-DPEJ 1641 1647 límite
-T39 Term-DPEJ 832 840 decisión
-T40 Term-DPEJ 1651 1655 edad
-T41 Term-DPEJ 1788 1798 aplicación
-T42 Term-DPEJ 369 380 comunidades
-T43 Term-DPEJ 471 479 artículo
-T44 Term-DPEJ 1319 1327 artículo
-T45 Term-DPEJ 1763 1771 artículo
-T46 Term-DPEJ 925 938 procedimiento
-T47 Term-DPEJ 1164 1177 procedimiento
-T48 Term-Termcat 235 244 autoridad
-T49 Term-Termcat 369 390 comunidades autónomas
-T50 Term-Termcat 141 149 convenio
-T51 Term-Termcat 510 518 convenio
-T52 Term-Termcat 719 727 convenio
-T53 Term-Termcat 876 885 instancia
-T54 Term-Termcat 1119 1128 solicitud
-T55 Term-Termcat 293 303 Ministerio
-T56 Term-Termcat 1238 1259 negociación colectiva
-T57 Term-Termcat 1046 1056 resolución
-T58 Term-Termcat 1071 1076 plazo
-T59 Term-Termcat 909 920 tramitación
-T60 Term-Termcat 1034 1042 ausencia
-T61 Term-Termcat 787 795 ausencia
-T62 Term-Termcat 369 380 comunidades
-T63 Term-Termcat 1589 1598 Contratos
-T64 Term-Termcat 1679 1688 contratos
-T65 Term-Termcat 1651 1655 edad
-T66 Term-Termcat 1920 1923 Ley
-T67 Term-Termcat 763 769 título
-T68 Term-Termcat 471 479 artículo
-T69 Term-Termcat 1319 1327 artículo
-T70 Term-Termcat 1763 1771 artículo
-T71 Term-Termcat 1338 1359 Disposición adicional
-T72 Term-Termcat 1558 1579 Disposición adicional
-T73 Term-Termcat 1898 1913 texto refundido
-T74 Term-Termcat 1622 1633 aprendizaje
-T75 Term-Termcat 1712 1723 aprendizaje
-T76 Term-Termcat 34 45 negociación
-T77 Term-Termcat 799 805 partes
-T78 Term-Termcat 51 57 partes
-T79 Term-Termcat 889 894 parte
-T80 Term-Termcat 235 252 autoridad laboral
-T81 Term-Termcat 1138 1147 capacidad
-T82 Term-Termcat 395 406 competencia
-T83 Term-Termcat 141 159 convenio colectivo
-T84 Term-Termcat 510 528 convenio colectivo
-T85 Term-Termcat 719 737 convenio colectivo
-T86 Term-Termcat 558 566 empresas
-T87 Term-Termcat 529 537 en vigor
-T88 Term-Termcat 160 168 en vigor
-T89 Term-Termcat 844 853 extensión
-T90 Term-Termcat 1181 1190 extensión
-T91 Term-Termcat 1369 1376 Trabajo
-T92 Term-Termcat 1399 1406 trabajo
-T93 Term-Termcat 1927 1933 Empleo
-T94 Term-Termcat 307 313 Empleo
-T95 Term-Termcat 1860 1866 empleo
-T96 Term-Termcat 1607 1616 formación
-T97 Term-Termcat 1697 1706 formación
-T98 Term-Termcat 1869 1878 formación
-T99 Term-Termcat 1417 1434 por cuenta propia
-T100 Term-Termcat 1377 1394 por cuenta propia
-T101 Term-Termcat 316 332 Seguridad Social
-T102 Term-Termcat 981 989 duración
-T103 Term-Termcat 1661 1669 duración
-T104 Term-Termcat 832 840 decisión
-T105 Term-Termcat 1238 1249 negociación
-T106 Term-Termcat 316 325 Seguridad
-T107 Term-Termcat 1338 1349 Disposición
-T108 Term-Termcat 1558 1569 Disposición
-T109 Term-Termcat 111 118 acuerdo
-T110 Term-Termcat 611 620 actividad
-T111 Term-Termcat 1788 1798 aplicación
-T112 Term-Termcat 1421 1427 cuenta
-T113 Term-Termcat 1289 1297 conforme
-T114 Term-Termcat 266 273 efectos
-T115 Term-Termcat 1089 1096 efectos
-T116 Term-Termcat 447 454 efectos
-T117 Term-Termcat 277 285 registro
-T118 Term-Termcat 1526 1531 legal
-T119 Term-Termcat 1459 1470 legislación
-T120 Term-Termcat 413 420 materia
-T121 Term-Termcat 339 345 órgano
-T122 Term-Termcat 630 640 perjuicios
-T123 Term-Termcat 925 938 procedimiento
-T124 Term-Termcat 1164 1177 procedimiento
-T125 Term-Termcat 1838 1847 programas
-T126 Term-Termcat 1369 1394 Trabajo por cuenta propia
-T127 Term-Termcat 874 894 a instancia de parte
-T128 Term-Termcat 253 263 competente
-T129 Term-Termcat 1226 1234 promover
-T130 Term-Termcat 22 30 unidades
-T131 Term-DV 1641 1655 límite de edad
-T132 Term-DV 572 576 baja
-T133 Term-DV 777 780 bid
-T134 Term-DV 777 780 bid
-T135 Term-DV 1138 1142 capa
-T136 Term-DV 1138 1147 capacidad
-T137 Term-DV 395 406 competencia
-T138 Term-DV 369 378 comunidad
-T139 Term-DV 832 840 decisión
-T140 Term-DV 703 708 dicho
-T141 Term-DV 225 229 dolo
-T142 Term-DV 1651 1655 edad
-T143 Term-DV 266 273 efectos
-T144 Term-DV 447 454 efectos
-T145 Term-DV 1089 1096 efectos
-T146 Term-DV 558 565 empresa
-T147 Term-DV 197 199 fe
-T148 Term-DV 267 269 fe
-T149 Term-DV 448 450 fe
-T150 Term-DV 1090 1092 fe
-T151 Term-DV 1607 1612 forma
-T152 Term-DV 1697 1702 forma
-T153 Term-DV 1869 1874 forma
-T154 Term-DV 633 639 juicio
-T155 Term-DV 245 252 laboral
-T156 Term-DV 1471 1478 laboral
-T157 Term-DV 152 159 lectivo
-T158 Term-DV 521 528 lectivo
-T159 Term-DV 730 737 lectivo
-T160 Term-DV 1526 1531 legal
-T161 Term-DV 1459 1470 legislación
-T162 Term-DV 1825 1828 mar
-T163 Term-DV 34 45 negociación
-T164 Term-DV 1238 1249 negociación
-T165 Term-DV 70 74 para
-T166 Term-DV 651 655 para
-T167 Term-DV 818 822 para
-T168 Term-DV 1148 1152 para
-T169 Term-DV 1221 1225 para
-T170 Term-DV 1599 1603 para
-T171 Term-DV 1670 1674 para
-T172 Term-DV 1689 1693 para
-T173 Term-DV 51 56 parte
-T174 Term-DV 799 804 parte
-T175 Term-DV 889 894 parte
-T176 Term-DV 630 639 perjuicio
-T177 Term-DV 1071 1076 plazo
-T178 Term-DV 1789 1794 plica
-T179 Term-DV 675 686 posibilidad
-T180 Term-DV 493 503 posiciones
-T181 Term-DV 1517 1525 precepto
-T182 Term-DV 925 938 procedimiento
-T183 Term-DV 1164 1177 procedimiento
-T184 Term-DV 1848 1855 público
-T185 Term-DV 1842 1846 rama
-T186 Term-DV 1593 1597 rato
-T187 Term-DV 1683 1687 rato
-T188 Term-DV 1407 1411 real
-T189 Term-DV 277 285 registro
-T190 Term-DV 943 954 reglamentar
-T191 Term-DV 1119 1128 solicitud
-T192 Term-DV 431 437 tender
-T193 Term-DV 569 579 trabajador
-T194 Term-DV 458 461 vis
-T195 Term-DV 748 751 vis
-T196 Term-DV 430 431 x
-T197 Term-DV 845 846 x
-T198 Term-DV 1000 1001 x
-T199 Term-DV 1058 1059 x
-T200 Term-DV 1182 1183 x
-T201 Term-DV 1481 1482 x
-T202 Term-DV 1545 1546 x
-T203 Term-DV 1900 1901 x
-T204 Term-AttentionRank 1641 1647 límite
-T205 Term-AttentionRank 307 313 Empleo
-T206 Term-AttentionRank 1927 1933 Empleo
-T207 Term-AttentionRank 1860 1866 empleo
-T208 Term-AttentionRank 277 285 registro
-T209 Term-AttentionRank 51 57 partes
-T210 Term-AttentionRank 799 805 partes
-T211 Term-AttentionRank 889 894 parte
-T212 Term-AttentionRank 1046 1056 resolución
-T213 Term-AttentionRank 51 69 partes legitimadas
-T214 Term-AttentionRank 799 817 partes legitimadas
-T215 Term-AttentionRank 111 118 acuerdo
-T216 Term-AttentionRank 235 244 autoridad
-T217 Term-AttentionRank 1238 1259 negociación colectiva
-T218 Term-AttentionRank 909 920 tramitación
-T219 Term-AttentionRank 1338 1349 Disposición
-T220 Term-AttentionRank 1558 1569 Disposición
-T221 Term-AttentionRank 369 380 comunidades
-T222 Term-AttentionRank 1399 1434 trabajo realizado por cuenta propia
-T223 Term-AttentionRank 316 325 Seguridad
-T224 Term-AttentionRank 266 276 efectos de
-T225 Term-AttentionRank 1788 1798 aplicación
-T226 Term-AttentionRank 1138 1147 capacidad
-T227 Term-AttentionRank 1607 1616 formación
-T228 Term-AttentionRank 1697 1706 formación
-T229 Term-AttentionRank 1869 1878 formación
-T230 Term-AttentionRank 471 479 artículo
-T231 Term-AttentionRank 1319 1327 artículo
-T232 Term-AttentionRank 1763 1771 artículo
-T233 Term-AttentionRank 832 840 decisión
-T234 Term-AttentionRank 1338 1359 Disposición adicional
-T235 Term-AttentionRank 1558 1579 Disposición adicional
-T236 Term-AttentionRank 763 769 título
-T237 Term-AttentionRank 925 938 procedimiento
-T238 Term-AttentionRank 1164 1177 procedimiento
-T239 Term-AttentionRank 235 252 autoridad laboral
-T240 Term-AttentionRank 709 715 ámbito
-T241 Term-AttentionRank 1266 1272 ámbito
-T242 Term-AttentionRank 1015 1020 meses
-T243 Term-AttentionRank 630 659 perjuicios derivados para los
-T244 Term-AttentionRank 141 149 convenio
-T245 Term-AttentionRank 510 518 convenio
-T246 Term-AttentionRank 719 727 convenio
-T247 Term-AttentionRank 163 168 vigor
-T248 Term-AttentionRank 532 537 vigor
-T249 Term-AttentionRank 22 30 unidades
-T250 Term-AttentionRank 1622 1633 aprendizaje
-T251 Term-AttentionRank 1712 1723 aprendizaje
-T252 Term-AttentionRank 611 620 actividad
-T253 Term-AttentionRank 981 989 duración
-T254 Term-AttentionRank 1661 1669 duración
-T255 Term-AttentionRank 34 45 negociación
-T256 Term-AttentionRank 1238 1249 negociación
-T257 Term-AttentionRank 569 581 trabajadores
-T258 Term-AttentionRank 1071 1076 plazo
-T259 Term-AttentionRank 339 345 órgano
-T260 Term-AttentionRank 558 566 empresas
-T261 Term-AttentionRank 413 420 materia
-T262 Term-AttentionRank 1046 1064 resolución expresa
-T263 Term-AttentionRank 1920 1923 Ley
-T264 Term-AttentionRank 1266 1299 ámbito correspondiente conforme a
-T265 Term-AttentionRank 316 332 Seguridad Social
-T266 Term-AttentionRank 1744 1750 letras
-T267 Term-AttentionRank 787 795 ausencia
-T268 Term-AttentionRank 1034 1042 ausencia
-T269 Term-AttentionRank 1589 1598 Contratos
-T270 Term-AttentionRank 1679 1688 contratos
-T271 Term-AttentionRank 1838 1847 programas
-T272 Term-AttentionRank 266 273 efectos
-T273 Term-AttentionRank 447 454 efectos
-T274 Term-AttentionRank 1089 1096 efectos
-T275 Term-AttentionRank 141 159 convenio colectivo
-T276 Term-AttentionRank 510 528 convenio colectivo
-T277 Term-AttentionRank 719 737 convenio colectivo
-T278 Term-AttentionRank 1651 1655 edad
-T279 Term-AttentionRank 369 390 comunidades autónomas
-T280 Term-AttentionRank 1089 1112 efectos desestimatorios
-T281 Term-AttentionRank 876 885 instancia
-T282 Term-AttentionRank 1369 1376 Trabajo
-T283 Term-AttentionRank 1399 1406 trabajo
-T284 Term-AttentionRank 1381 1394 cuenta propia
-T285 Term-AttentionRank 1421 1434 cuenta propia
-T286 Term-AttentionRank 1119 1128 solicitud
-T287 Term-AttentionRank 447 479 efectos previstos en el artículo
-T288 Term-AttentionRank 1898 1913 texto refundido
-T289 Term-LabourLaw 141 159 convenio colectivo
-T290 Term-LabourLaw 510 528 convenio colectivo
-T291 Term-LabourLaw 719 737 convenio colectivo
-T292 Term-LabourLaw 1898 1913 texto refundido
-T293 Term-LabourLaw 235 252 autoridad laboral
-T294 Term-LabourLaw 1459 1478 legislación laboral
-T295 Term-LabourLaw 1238 1259 negociación colectiva
-T296 Term-LabourLaw 999 1006 exceder
-T297 Term-LabourLaw 1904 1913 refundido
-T298 Term-LabourLaw 1399 1406 trabajo
-T299 Term-LabourLaw 1788 1798 aplicación
-T300 Term-LabourLaw 1679 1687 contrato
-T301 Term-LabourLaw 1622 1633 aprendizaje
-T302 Term-LabourLaw 1712 1723 aprendizaje
-T303 Term-LabourLaw 1825 1830 marco
-T304 Term-LabourLaw 569 579 trabajador
-T305 Term-LabourLaw 709 715 ámbito
-T306 Term-LabourLaw 1266 1272 ámbito
-T307 Term-LabourLaw 1517 1525 precepto
-T308 Term-LabourLaw 1607 1616 formación
-T309 Term-LabourLaw 1697 1706 formación
-T310 Term-LabourLaw 1869 1878 formación
-T311 Term-LabourLaw 339 345 órgano
-T312 Term-LabourLaw 235 244 autoridad
-T313 Term-LabourLaw 909 920 tramitación
-T314 Term-LabourLaw 787 795 ausencia
-T315 Term-LabourLaw 1034 1042 ausencia
-T316 Term-LabourLaw 1651 1655 edad
-T317 Term-LabourLaw 558 565 empresa
-T318 Term-LabourLaw 981 989 duración
-T319 Term-LabourLaw 1661 1669 duración
-T320 Term-LabourLaw 925 938 procedimiento
-T321 Term-LabourLaw 1164 1177 procedimiento
-T322 Term-LabourLaw 630 639 perjuicio
-T323 Term-LabourLaw 1459 1470 legislación
-T324 Term-LabourLaw 395 406 competencia
-T325 Term-LabourLaw 369 378 comunidad
-T326 Term-LabourLaw 150 159 colectivo
-T327 Term-LabourLaw 519 528 colectivo
-T328 Term-LabourLaw 728 737 colectivo
-T329 Term-LabourLaw 1860 1866 empleo
-T330 Term-LabourLaw 787 795 ausencia
-T331 Term-LabourLaw 1034 1042 ausencia
-T332 Term-IATE 1119 1128 solicitud
-T333 Term-IATE 832 840 decisión
-T334 Term-IATE 763 769 título
-T335 Term-IATE 1788 1798 aplicación
-T336 Term-IATE 51 57 partes
-T337 Term-IATE 799 805 partes
-T338 Term-IATE 889 894 parte
-T339 Term-IATE 471 479 artículo
-T340 Term-IATE 1319 1327 artículo
-T341 Term-IATE 1763 1771 artículo
-T342 Term-IATE 1071 1076 plazo
-T343 Term-IATE 111 118 acuerdo
-T344 Term-IATE 1046 1056 resolución
-T345 Term-IATE 22 30 unidades
-T346 Term-IATE 558 566 empresas
-T347 Term-IATE 369 380 comunidades
-T348 Term-IATE 876 885 instancia
-T349 Term-IATE 925 938 procedimiento
-T350 Term-IATE 1164 1177 procedimiento
-T351 Term-IATE 277 285 registro
-T352 Term-IATE 569 581 trabajadores
-T353 Term-IATE 413 420 materia
-T354 Term-IATE 1138 1147 capacidad
-T355 Term-IATE 307 313 Empleo
-T356 Term-IATE 1927 1933 Empleo
-T357 Term-IATE 1860 1866 empleo
-T358 Term-IATE 316 325 Seguridad
-T359 Term-IATE 611 620 actividad
-T360 Term-IATE 1589 1598 Contratos
-T361 Term-IATE 1679 1688 contratos
-T362 Term-IATE 266 273 efectos
-T363 Term-IATE 447 454 efectos
-T364 Term-IATE 1089 1096 efectos
-T365 Term-IATE 34 45 negociación
-T366 Term-IATE 1238 1249 negociación
-T367 Term-IATE 163 168 vigor
-T368 Term-IATE 532 537 vigor
-T369 Term-IATE 141 149 convenio
-T370 Term-IATE 510 518 convenio
-T371 Term-IATE 719 727 convenio
-T372 Term-IATE 1622 1633 aprendizaje
-T373 Term-IATE 1712 1723 aprendizaje
-T374 Term-IATE 1015 1020 meses
-T375 Term-IATE 1744 1750 letras
-T376 Term-IATE 1838 1847 programas
-T377 Term-IATE 981 989 duración
-T378 Term-IATE 1661 1669 duración
-T379 Term-IATE 1607 1616 formación
-T380 Term-IATE 1697 1706 formación
-T381 Term-IATE 1869 1878 formación
+T1	Term-DPEJ 1138 1147	capacidad
+T2	Term-DPEJ 111 118	acuerdo
+T3	Term-DPEJ 307 313	Empleo
+T4	Term-DPEJ 1927 1933	Empleo
+T5	Term-DPEJ 1860 1866	empleo
+T6	Term-DPEJ 787 795	ausencia
+T7	Term-DPEJ 1034 1042	ausencia
+T8	Term-DPEJ 1744 1750	letras
+T9	Term-DPEJ 339 345	órgano
+T10	Term-DPEJ 34 45	negociación
+T11	Term-DPEJ 1238 1249	negociación
+T12	Term-DPEJ 709 715	ámbito
+T13	Term-DPEJ 1266 1272	ámbito
+T14	Term-DPEJ 316 325	Seguridad
+T15	Term-DPEJ 1369 1376	Trabajo
+T16	Term-DPEJ 1399 1406	trabajo
+T17	Term-DPEJ 558 566	empresas
+T18	Term-DPEJ 141 149	convenio
+T19	Term-DPEJ 510 518	convenio
+T20	Term-DPEJ 719 727	convenio
+T21	Term-DPEJ 1838 1847	programas
+T22	Term-DPEJ 1589 1598	Contratos
+T23	Term-DPEJ 1679 1688	contratos
+T24	Term-DPEJ 1622 1633	aprendizaje
+T25	Term-DPEJ 1712 1723	aprendizaje
+T26	Term-DPEJ 1338 1349	Disposición
+T27	Term-DPEJ 1558 1569	Disposición
+T28	Term-DPEJ 876 885	instancia
+T29	Term-DPEJ 611 620	actividad
+T30	Term-DPEJ 369 390	comunidades autónomas
+T31	Term-DPEJ 141 159	convenio colectivo
+T32	Term-DPEJ 510 528	convenio colectivo
+T33	Term-DPEJ 719 737	convenio colectivo
+T34	Term-DPEJ 1920 1923	Ley
+T35	Term-DPEJ 763 769	título
+T36	Term-DPEJ 1238 1259	negociación colectiva
+T37	Term-DPEJ 1046 1056	resolución
+T38	Term-DPEJ 1641 1647	límite
+T39	Term-DPEJ 832 840	decisión
+T40	Term-DPEJ 1651 1655	edad
+T41	Term-DPEJ 1788 1798	aplicación
+T42	Term-DPEJ 369 380	comunidades
+T43	Term-DPEJ 471 479	artículo
+T44	Term-DPEJ 1319 1327	artículo
+T45	Term-DPEJ 1763 1771	artículo
+T46	Term-DPEJ 925 938	procedimiento
+T47	Term-DPEJ 1164 1177	procedimiento
+T48	Term-Termcat 235 244	autoridad
+T49	Term-Termcat 369 390	comunidades autónomas
+T50	Term-Termcat 141 149	convenio
+T51	Term-Termcat 510 518	convenio
+T52	Term-Termcat 719 727	convenio
+T53	Term-Termcat 876 885	instancia
+T54	Term-Termcat 1119 1128	solicitud
+T55	Term-Termcat 293 303	Ministerio
+T56	Term-Termcat 1238 1259	negociación colectiva
+T57	Term-Termcat 1046 1056	resolución
+T58	Term-Termcat 1071 1076	plazo
+T59	Term-Termcat 909 920	tramitación
+T60	Term-Termcat 1034 1042	ausencia
+T61	Term-Termcat 787 795	ausencia
+T62	Term-Termcat 369 380	comunidades
+T63	Term-Termcat 1589 1598	Contratos
+T64	Term-Termcat 1679 1688	contratos
+T65	Term-Termcat 1651 1655	edad
+T66	Term-Termcat 1920 1923	Ley
+T67	Term-Termcat 763 769	título
+T68	Term-Termcat 471 479	artículo
+T69	Term-Termcat 1319 1327	artículo
+T70	Term-Termcat 1763 1771	artículo
+T71	Term-Termcat 1338 1359	Disposición adicional
+T72	Term-Termcat 1558 1579	Disposición adicional
+T73	Term-Termcat 1898 1913	texto refundido
+T74	Term-Termcat 1622 1633	aprendizaje
+T75	Term-Termcat 1712 1723	aprendizaje
+T76	Term-Termcat 34 45	negociación
+T77	Term-Termcat 799 805	partes
+T78	Term-Termcat 51 57	partes
+T79	Term-Termcat 889 894	parte
+T80	Term-Termcat 235 252	autoridad laboral
+T81	Term-Termcat 1138 1147	capacidad
+T82	Term-Termcat 395 406	competencia
+T83	Term-Termcat 141 159	convenio colectivo
+T84	Term-Termcat 510 528	convenio colectivo
+T85	Term-Termcat 719 737	convenio colectivo
+T86	Term-Termcat 558 566	empresas
+T87	Term-Termcat 529 537	en vigor
+T88	Term-Termcat 160 168	en vigor
+T89	Term-Termcat 844 853	extensión
+T90	Term-Termcat 1181 1190	extensión
+T91	Term-Termcat 1369 1376	Trabajo
+T92	Term-Termcat 1399 1406	trabajo
+T93	Term-Termcat 1927 1933	Empleo
+T94	Term-Termcat 307 313	Empleo
+T95	Term-Termcat 1860 1866	empleo
+T96	Term-Termcat 1607 1616	formación
+T97	Term-Termcat 1697 1706	formación
+T98	Term-Termcat 1869 1878	formación
+T99	Term-Termcat 1417 1434	por cuenta propia
+T100	Term-Termcat 1377 1394	por cuenta propia
+T101	Term-Termcat 316 332	Seguridad Social
+T102	Term-Termcat 981 989	duración
+T103	Term-Termcat 1661 1669	duración
+T104	Term-Termcat 832 840	decisión
+T105	Term-Termcat 1238 1249	negociación
+T106	Term-Termcat 316 325	Seguridad
+T107	Term-Termcat 1338 1349	Disposición
+T108	Term-Termcat 1558 1569	Disposición
+T109	Term-Termcat 111 118	acuerdo
+T110	Term-Termcat 611 620	actividad
+T111	Term-Termcat 1788 1798	aplicación
+T112	Term-Termcat 1421 1427	cuenta
+T113	Term-Termcat 1289 1297	conforme
+T114	Term-Termcat 266 273	efectos
+T115	Term-Termcat 1089 1096	efectos
+T116	Term-Termcat 447 454	efectos
+T117	Term-Termcat 277 285	registro
+T118	Term-Termcat 1526 1531	legal
+T119	Term-Termcat 1459 1470	legislación
+T120	Term-Termcat 413 420	materia
+T121	Term-Termcat 339 345	órgano
+T122	Term-Termcat 630 640	perjuicios
+T123	Term-Termcat 925 938	procedimiento
+T124	Term-Termcat 1164 1177	procedimiento
+T125	Term-Termcat 1838 1847	programas
+T126	Term-Termcat 1369 1394	Trabajo por cuenta propia
+T127	Term-Termcat 874 894	a instancia de parte
+T128	Term-Termcat 253 263	competente
+T129	Term-Termcat 1226 1234	promover
+T130	Term-Termcat 22 30	unidades
+T131	Term-DV 1641 1655	límite de edad
+T132	Term-DV 572 576	baja
+T133	Term-DV 777 780	bid
+T134	Term-DV 777 780	bid
+T135	Term-DV 1138 1142	capa
+T136	Term-DV 1138 1147	capacidad
+T137	Term-DV 395 406	competencia
+T138	Term-DV 369 378	comunidad
+T139	Term-DV 832 840	decisión
+T140	Term-DV 703 708	dicho
+T141	Term-DV 225 229	dolo
+T142	Term-DV 1651 1655	edad
+T143	Term-DV 266 273	efectos
+T144	Term-DV 447 454	efectos
+T145	Term-DV 1089 1096	efectos
+T146	Term-DV 558 565	empresa
+T147	Term-DV 197 199	fe
+T148	Term-DV 267 269	fe
+T149	Term-DV 448 450	fe
+T150	Term-DV 1090 1092	fe
+T151	Term-DV 1607 1612	forma
+T152	Term-DV 1697 1702	forma
+T153	Term-DV 1869 1874	forma
+T154	Term-DV 633 639	juicio
+T155	Term-DV 245 252	laboral
+T156	Term-DV 1471 1478	laboral
+T157	Term-DV 152 159	lectivo
+T158	Term-DV 521 528	lectivo
+T159	Term-DV 730 737	lectivo
+T160	Term-DV 1526 1531	legal
+T161	Term-DV 1459 1470	legislación
+T162	Term-DV 1825 1828	mar
+T163	Term-DV 34 45	negociación
+T164	Term-DV 1238 1249	negociación
+T165	Term-DV 70 74	para
+T166	Term-DV 651 655	para
+T167	Term-DV 818 822	para
+T168	Term-DV 1148 1152	para
+T169	Term-DV 1221 1225	para
+T170	Term-DV 1599 1603	para
+T171	Term-DV 1670 1674	para
+T172	Term-DV 1689 1693	para
+T173	Term-DV 51 56	parte
+T174	Term-DV 799 804	parte
+T175	Term-DV 889 894	parte
+T176	Term-DV 630 639	perjuicio
+T177	Term-DV 1071 1076	plazo
+T178	Term-DV 1789 1794	plica
+T179	Term-DV 675 686	posibilidad
+T180	Term-DV 493 503	posiciones
+T181	Term-DV 1517 1525	precepto
+T182	Term-DV 925 938	procedimiento
+T183	Term-DV 1164 1177	procedimiento
+T184	Term-DV 1848 1855	público
+T185	Term-DV 1842 1846	rama
+T186	Term-DV 1593 1597	rato
+T187	Term-DV 1683 1687	rato
+T188	Term-DV 1407 1411	real
+T189	Term-DV 277 285	registro
+T190	Term-DV 943 954	reglamentar
+T191	Term-DV 1119 1128	solicitud
+T192	Term-DV 431 437	tender
+T193	Term-DV 569 579	trabajador
+T194	Term-DV 458 461	vis
+T195	Term-DV 748 751	vis
+T196	Term-DV 430 431	x
+T197	Term-DV 845 846	x
+T198	Term-DV 1000 1001	x
+T199	Term-DV 1058 1059	x
+T200	Term-DV 1182 1183	x
+T201	Term-DV 1481 1482	x
+T202	Term-DV 1545 1546	x
+T203	Term-DV 1900 1901	x
+T204	Term-AttentionRank 1641 1647	límite
+T205	Term-AttentionRank 307 313	Empleo
+T206	Term-AttentionRank 1927 1933	Empleo
+T207	Term-AttentionRank 1860 1866	empleo
+T208	Term-AttentionRank 277 285	registro
+T209	Term-AttentionRank 51 57	partes
+T210	Term-AttentionRank 799 805	partes
+T211	Term-AttentionRank 889 894	parte
+T212	Term-AttentionRank 1046 1056	resolución
+T213	Term-AttentionRank 51 69	partes legitimadas
+T214	Term-AttentionRank 799 817	partes legitimadas
+T215	Term-AttentionRank 111 118	acuerdo
+T216	Term-AttentionRank 235 244	autoridad
+T217	Term-AttentionRank 1238 1259	negociación colectiva
+T218	Term-AttentionRank 909 920	tramitación
+T219	Term-AttentionRank 1338 1349	Disposición
+T220	Term-AttentionRank 1558 1569	Disposición
+T221	Term-AttentionRank 369 380	comunidades
+T222	Term-AttentionRank 1399 1434	trabajo realizado por cuenta propia
+T223	Term-AttentionRank 316 325	Seguridad
+T224	Term-AttentionRank 266 276	efectos de
+T225	Term-AttentionRank 1788 1798	aplicación
+T226	Term-AttentionRank 1138 1147	capacidad
+T227	Term-AttentionRank 1607 1616	formación
+T228	Term-AttentionRank 1697 1706	formación
+T229	Term-AttentionRank 1869 1878	formación
+T230	Term-AttentionRank 471 479	artículo
+T231	Term-AttentionRank 1319 1327	artículo
+T232	Term-AttentionRank 1763 1771	artículo
+T233	Term-AttentionRank 832 840	decisión
+T234	Term-AttentionRank 1338 1359	Disposición adicional
+T235	Term-AttentionRank 1558 1579	Disposición adicional
+T236	Term-AttentionRank 763 769	título
+T237	Term-AttentionRank 925 938	procedimiento
+T238	Term-AttentionRank 1164 1177	procedimiento
+T239	Term-AttentionRank 235 252	autoridad laboral
+T240	Term-AttentionRank 709 715	ámbito
+T241	Term-AttentionRank 1266 1272	ámbito
+T242	Term-AttentionRank 1015 1020	meses
+T243	Term-AttentionRank 630 659	perjuicios derivados para los
+T244	Term-AttentionRank 141 149	convenio
+T245	Term-AttentionRank 510 518	convenio
+T246	Term-AttentionRank 719 727	convenio
+T247	Term-AttentionRank 163 168	vigor
+T248	Term-AttentionRank 532 537	vigor
+T249	Term-AttentionRank 22 30	unidades
+T250	Term-AttentionRank 1622 1633	aprendizaje
+T251	Term-AttentionRank 1712 1723	aprendizaje
+T252	Term-AttentionRank 611 620	actividad
+T253	Term-AttentionRank 981 989	duración
+T254	Term-AttentionRank 1661 1669	duración
+T255	Term-AttentionRank 34 45	negociación
+T256	Term-AttentionRank 1238 1249	negociación
+T257	Term-AttentionRank 569 581	trabajadores
+T258	Term-AttentionRank 1071 1076	plazo
+T259	Term-AttentionRank 339 345	órgano
+T260	Term-AttentionRank 558 566	empresas
+T261	Term-AttentionRank 413 420	materia
+T262	Term-AttentionRank 1046 1064	resolución expresa
+T263	Term-AttentionRank 1920 1923	Ley
+T264	Term-AttentionRank 1266 1299	ámbito correspondiente conforme a
+T265	Term-AttentionRank 316 332	Seguridad Social
+T266	Term-AttentionRank 1744 1750	letras
+T267	Term-AttentionRank 787 795	ausencia
+T268	Term-AttentionRank 1034 1042	ausencia
+T269	Term-AttentionRank 1589 1598	Contratos
+T270	Term-AttentionRank 1679 1688	contratos
+T271	Term-AttentionRank 1838 1847	programas
+T272	Term-AttentionRank 266 273	efectos
+T273	Term-AttentionRank 447 454	efectos
+T274	Term-AttentionRank 1089 1096	efectos
+T275	Term-AttentionRank 141 159	convenio colectivo
+T276	Term-AttentionRank 510 528	convenio colectivo
+T277	Term-AttentionRank 719 737	convenio colectivo
+T278	Term-AttentionRank 1651 1655	edad
+T279	Term-AttentionRank 369 390	comunidades autónomas
+T280	Term-AttentionRank 1089 1112	efectos desestimatorios
+T281	Term-AttentionRank 876 885	instancia
+T282	Term-AttentionRank 1369 1376	Trabajo
+T283	Term-AttentionRank 1399 1406	trabajo
+T284	Term-AttentionRank 1381 1394	cuenta propia
+T285	Term-AttentionRank 1421 1434	cuenta propia
+T286	Term-AttentionRank 1119 1128	solicitud
+T287	Term-AttentionRank 447 479	efectos previstos en el artículo
+T288	Term-AttentionRank 1898 1913	texto refundido
+T289	Term-LabourLaw 141 159	convenio colectivo
+T290	Term-LabourLaw 510 528	convenio colectivo
+T291	Term-LabourLaw 719 737	convenio colectivo
+T292	Term-LabourLaw 1898 1913	texto refundido
+T293	Term-LabourLaw 235 252	autoridad laboral
+T294	Term-LabourLaw 1459 1478	legislación laboral
+T295	Term-LabourLaw 1238 1259	negociación colectiva
+T296	Term-LabourLaw 999 1006	exceder
+T297	Term-LabourLaw 1904 1913	refundido
+T298	Term-LabourLaw 1399 1406	trabajo
+T299	Term-LabourLaw 1788 1798	aplicación
+T300	Term-LabourLaw 1679 1687	contrato
+T301	Term-LabourLaw 1622 1633	aprendizaje
+T302	Term-LabourLaw 1712 1723	aprendizaje
+T303	Term-LabourLaw 1825 1830	marco
+T304	Term-LabourLaw 569 579	trabajador
+T305	Term-LabourLaw 709 715	ámbito
+T306	Term-LabourLaw 1266 1272	ámbito
+T307	Term-LabourLaw 1517 1525	precepto
+T308	Term-LabourLaw 1607 1616	formación
+T309	Term-LabourLaw 1697 1706	formación
+T310	Term-LabourLaw 1869 1878	formación
+T311	Term-LabourLaw 339 345	órgano
+T312	Term-LabourLaw 235 244	autoridad
+T313	Term-LabourLaw 909 920	tramitación
+T314	Term-LabourLaw 787 795	ausencia
+T315	Term-LabourLaw 1034 1042	ausencia
+T316	Term-LabourLaw 1651 1655	edad
+T317	Term-LabourLaw 558 565	empresa
+T318	Term-LabourLaw 981 989	duración
+T319	Term-LabourLaw 1661 1669	duración
+T320	Term-LabourLaw 925 938	procedimiento
+T321	Term-LabourLaw 1164 1177	procedimiento
+T322	Term-LabourLaw 630 639	perjuicio
+T323	Term-LabourLaw 1459 1470	legislación
+T324	Term-LabourLaw 395 406	competencia
+T325	Term-LabourLaw 369 378	comunidad
+T326	Term-LabourLaw 150 159	colectivo
+T327	Term-LabourLaw 519 528	colectivo
+T328	Term-LabourLaw 728 737	colectivo
+T329	Term-LabourLaw 1860 1866	empleo
+T330	Term-LabourLaw 787 795	ausencia
+T331	Term-LabourLaw 1034 1042	ausencia
+T332	Term-IATE 1119 1128	solicitud
+T333	Term-IATE 832 840	decisión
+T334	Term-IATE 763 769	título
+T335	Term-IATE 1788 1798	aplicación
+T336	Term-IATE 51 57	partes
+T337	Term-IATE 799 805	partes
+T338	Term-IATE 889 894	parte
+T339	Term-IATE 471 479	artículo
+T340	Term-IATE 1319 1327	artículo
+T341	Term-IATE 1763 1771	artículo
+T342	Term-IATE 1071 1076	plazo
+T343	Term-IATE 111 118	acuerdo
+T344	Term-IATE 1046 1056	resolución
+T345	Term-IATE 22 30	unidades
+T346	Term-IATE 558 566	empresas
+T347	Term-IATE 369 380	comunidades
+T348	Term-IATE 876 885	instancia
+T349	Term-IATE 925 938	procedimiento
+T350	Term-IATE 1164 1177	procedimiento
+T351	Term-IATE 277 285	registro
+T352	Term-IATE 569 581	trabajadores
+T353	Term-IATE 413 420	materia
+T354	Term-IATE 1138 1147	capacidad
+T355	Term-IATE 307 313	Empleo
+T356	Term-IATE 1927 1933	Empleo
+T357	Term-IATE 1860 1866	empleo
+T358	Term-IATE 316 325	Seguridad
+T359	Term-IATE 611 620	actividad
+T360	Term-IATE 1589 1598	Contratos
+T361	Term-IATE 1679 1688	contratos
+T362	Term-IATE 266 273	efectos
+T363	Term-IATE 447 454	efectos
+T364	Term-IATE 1089 1096	efectos
+T365	Term-IATE 34 45	negociación
+T366	Term-IATE 1238 1249	negociación
+T367	Term-IATE 163 168	vigor
+T368	Term-IATE 532 537	vigor
+T369	Term-IATE 141 149	convenio
+T370	Term-IATE 510 518	convenio
+T371	Term-IATE 719 727	convenio
+T372	Term-IATE 1622 1633	aprendizaje
+T373	Term-IATE 1712 1723	aprendizaje
+T374	Term-IATE 1015 1020	meses
+T375	Term-IATE 1744 1750	letras
+T376	Term-IATE 1838 1847	programas
+T377	Term-IATE 981 989	duración
+T378	Term-IATE 1661 1669	duración
+T379	Term-IATE 1607 1616	formación
+T380	Term-IATE 1697 1706	formación
+T381	Term-IATE 1869 1878	formación

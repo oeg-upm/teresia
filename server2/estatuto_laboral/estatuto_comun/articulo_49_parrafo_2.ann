@@ -1,253 +1,253 @@
-T1 Term-DPEJ 363 368 casos
-T2 Term-DPEJ 784 789 casos
-T3 Term-DPEJ 40 47 trabajo
-T4 Term-DPEJ 1394 1401 trabajo
-T5 Term-DPEJ 271 283 cumplimiento
-T6 Term-DPEJ 28 36 contrato
-T7 Term-DPEJ 745 753 contrato
-T8 Term-DPEJ 1421 1429 contrato
-T9 Term-DPEJ 1652 1657 forma
-T10 Term-DPEJ 885 894 condición
-T11 Term-DPEJ 429 434 causa
-T12 Term-DPEJ 548 557 instancia
-T13 Term-DPEJ 517 527 suspensión
-T14 Term-DPEJ 718 728 suspensión
-T15 Term-DPEJ 998 1008 suspensión
-T16 Term-DPEJ 1245 1255 suspensión
-T17 Term-DPEJ 1406 1416 suspensión
-T18 Term-DPEJ 1725 1735 suspensión
-T19 Term-DPEJ 3 13 nacimiento
-T20 Term-DPEJ 291 298 deberes
-T21 Term-DPEJ 1384 1390 puesto
-T22 Term-DPEJ 245 252 jornada
-T23 Term-DPEJ 326 334 artículo
-T24 Term-DPEJ 618 623 fecha
-T25 Term-Termcat 885 894 condición
-T26 Term-Termcat 548 557 instancia
-T27 Term-Termcat 1132 1140 términos
-T28 Term-Termcat 745 753 contrato
-T29 Term-Termcat 1421 1429 contrato
-T30 Term-Termcat 28 36 contrato
-T31 Term-Termcat 291 298 deberes
-T32 Term-Termcat 1652 1657 forma
-T33 Term-Termcat 3 13 nacimiento
-T34 Term-Termcat 326 334 artículo
-T35 Term-Termcat 342 348 Código
-T36 Term-Termcat 628 632 alta
-T37 Term-Termcat 1469 1476 cuidado
-T38 Term-Termcat 302 309 cuidado
-T39 Term-Termcat 28 47 contrato de trabajo
-T40 Term-Termcat 1328 1348 descanso obligatorio
-T41 Term-Termcat 813 818 falta
-T42 Term-Termcat 245 261 jornada completa
-T43 Term-Termcat 1384 1401 puesto de trabajo
-T44 Term-Termcat 1365 1380 reincorporación
-T45 Term-Termcat 685 692 semanas
-T46 Term-Termcat 1102 1109 semanas
-T47 Term-Termcat 1317 1324 semanas
-T48 Term-Termcat 105 112 semanas
-T49 Term-Termcat 1527 1534 semanas
-T50 Term-Termcat 156 163 semanas
-T51 Term-Termcat 349 354 Civil
-T52 Term-Termcat 1406 1416 suspensión
-T53 Term-Termcat 1245 1255 suspensión
-T54 Term-Termcat 1725 1735 suspensión
-T55 Term-Termcat 517 527 suspensión
-T56 Term-Termcat 998 1008 suspensión
-T57 Term-Termcat 718 728 suspensión
-T58 Term-Termcat 429 434 causa
-T59 Term-Termcat 271 283 cumplimiento
-T60 Term-Termcat 668 675 cómputo
-T61 Term-Termcat 1328 1336 descanso
-T62 Term-Termcat 78 93 madre biológica
-T63 Term-Termcat 564 579 madre biológica
-T64 Term-Termcat 760 775 madre biológica
-T65 Term-Termcat 1480 1485 menor
-T66 Term-Termcat 961 969 superior
-T67 Term-Termcat 1593 1601 voluntad
-T68 Term-DV 429 434 causa
-T69 Term-DV 534 542 computar
-T70 Term-DV 885 894 condición
-T71 Term-DV 291 295 debe
-T72 Term-DV 978 981 día
-T73 Term-DV 1031 1034 día
-T74 Term-DV 662 667 dicho
-T75 Term-DV 813 818 falta
-T76 Term-DV 618 620 fe
-T77 Term-DV 1652 1657 forma
-T78 Term-DV 1218 1222 hijo
-T79 Term-DV 1780 1784 hijo
-T80 Term-DV 87 93 lógica
-T81 Term-DV 573 579 lógica
-T82 Term-DV 769 775 lógica
-T83 Term-DV 78 83 madre
-T84 Term-DV 564 569 madre
-T85 Term-DV 760 765 madre
-T86 Term-DV 3 13 nacimiento
-T87 Term-DV 442 446 nato
-T88 Term-DV 860 864 nato
-T89 Term-DV 263 267 para
-T90 Term-DV 210 215 parto
-T91 Term-DV 372 377 parto
-T92 Term-DV 496 501 parto
-T93 Term-DV 708 713 parto
-T94 Term-DV 793 798 parto
-T95 Term-DV 939 944 parto
-T96 Term-DV 1565 1570 parto
-T97 Term-DV 1761 1766 parto
-T98 Term-DV 520 527 pensión
-T99 Term-DV 721 728 pensión
-T100 Term-DV 1001 1008 pensión
-T101 Term-DV 1248 1255 pensión
-T102 Term-DV 1409 1416 pensión
-T103 Term-DV 1728 1735 pensión
-T104 Term-DV 32 36 rato
-T105 Term-DV 749 753 rato
-T106 Term-DV 1425 1429 rato
-T107 Term-DV 1148 1159 reglamentar
-T108 Term-DV 517 527 suspensión
-T109 Term-DV 718 728 suspensión
-T110 Term-DV 998 1008 suspensión
-T111 Term-DV 1245 1255 suspensión
-T112 Term-DV 1406 1416 suspensión
-T113 Term-DV 1725 1735 suspensión
-T114 Term-DV 351 354 vil
-T115 Term-DV 313 316 vis
-T116 Term-DV 1593 1601 voluntad
-T117 Term-DV 651 652 x
-T118 Term-DV 1088 1089 x
-T119 Term-AttentionRank 372 387 parto prematuro
-T120 Term-AttentionRank 793 808 parto prematuro
-T121 Term-AttentionRank 1365 1380 reincorporación
-T122 Term-AttentionRank 548 579 instancia de la madre biológica
-T123 Term-AttentionRank 1639 1648 disfrutar
-T124 Term-AttentionRank 978 982 días
-T125 Term-AttentionRank 1031 1035 días
-T126 Term-AttentionRank 429 434 causa
-T127 Term-AttentionRank 245 252 jornada
-T128 Term-AttentionRank 3 13 nacimiento
-T129 Term-AttentionRank 1218 1222 hijo
-T130 Term-AttentionRank 1780 1784 hijo
-T131 Term-AttentionRank 506 513 periodo
-T132 Term-AttentionRank 953 960 periodo
-T133 Term-AttentionRank 987 994 periodo
-T134 Term-AttentionRank 1234 1241 periodo
-T135 Term-AttentionRank 271 283 cumplimiento
-T136 Term-AttentionRank 618 623 fecha
-T137 Term-AttentionRank 605 611 partir
-T138 Term-AttentionRank 326 334 artículo
-T139 Term-AttentionRank 857 872 neonato precise
-T140 Term-AttentionRank 1188 1196 supuesto
-T141 Term-AttentionRank 1527 1570 semanas inmediatamente posteriores al parto
-T142 Term-AttentionRank 953 971 periodo superior a
-T143 Term-AttentionRank 813 818 falta
-T144 Term-AttentionRank 1807 1812 meses
-T145 Term-AttentionRank 685 713 semanas posteriores al parto
-T146 Term-AttentionRank 517 527 suspensión
-T147 Term-AttentionRank 718 728 suspensión
-T148 Term-AttentionRank 998 1008 suspensión
-T149 Term-AttentionRank 1245 1255 suspensión
-T150 Term-AttentionRank 1406 1416 suspensión
-T151 Term-AttentionRank 1725 1735 suspensión
-T152 Term-AttentionRank 105 112 semanas
-T153 Term-AttentionRank 156 163 semanas
-T154 Term-AttentionRank 685 692 semanas
-T155 Term-AttentionRank 1102 1109 semanas
-T156 Term-AttentionRank 1317 1324 semanas
-T157 Term-AttentionRank 1527 1534 semanas
-T158 Term-AttentionRank 605 623 partir de la fecha
-T159 Term-AttentionRank 78 93 madre biológica
-T160 Term-AttentionRank 564 579 madre biológica
-T161 Term-AttentionRank 760 775 madre biológica
-T162 Term-AttentionRank 1384 1390 puesto
-T163 Term-AttentionRank 302 309 cuidado
-T164 Term-AttentionRank 1469 1476 cuidado
-T165 Term-AttentionRank 885 894 condición
-T166 Term-AttentionRank 1328 1336 descanso
-T167 Term-AttentionRank 1652 1657 forma
-T168 Term-AttentionRank 52 62 progenitor
-T169 Term-AttentionRank 591 601 progenitor
-T170 Term-AttentionRank 1449 1461 progenitores
-T171 Term-AttentionRank 668 675 cómputo
-T172 Term-AttentionRank 1292 1295 vez
-T173 Term-AttentionRank 1491 1494 vez
-T174 Term-AttentionRank 28 36 contrato
-T175 Term-AttentionRank 745 753 contrato
-T176 Term-AttentionRank 1421 1429 contrato
-T177 Term-AttentionRank 291 298 deberes
-T178 Term-AttentionRank 548 557 instancia
-T179 Term-AttentionRank 40 47 trabajo
-T180 Term-AttentionRank 1394 1401 trabajo
-T181 Term-AttentionRank 718 740 suspensión obligatoria
-T182 Term-AttentionRank 1725 1747 suspensión obligatoria
-T183 Term-AttentionRank 156 179 semanas ininterrumpidas
-T184 Term-AttentionRank 439 446 neonato
-T185 Term-AttentionRank 857 864 neonato
-T186 Term-AttentionRank 363 368 casos
-T187 Term-AttentionRank 784 789 casos
-T188 Term-LabourLaw 1384 1401 puesto de trabajo
-T189 Term-LabourLaw 28 47 contrato de trabajo
-T190 Term-LabourLaw 1406 1429 suspensión del contrato
-T191 Term-LabourLaw 245 261 jornada completa
-T192 Term-LabourLaw 245 252 jornada
-T193 Term-LabourLaw 245 252 jornada
-T194 Term-LabourLaw 40 47 trabajo
-T195 Term-LabourLaw 1394 1401 trabajo
-T196 Term-LabourLaw 28 36 contrato
-T197 Term-LabourLaw 745 753 contrato
-T198 Term-LabourLaw 1421 1429 contrato
-T199 Term-LabourLaw 1328 1336 descanso
-T200 Term-LabourLaw 1480 1485 menor
-T201 Term-LabourLaw 520 527 pensión
-T202 Term-LabourLaw 721 728 pensión
-T203 Term-LabourLaw 1001 1008 pensión
-T204 Term-LabourLaw 1248 1255 pensión
-T205 Term-LabourLaw 1409 1416 pensión
-T206 Term-LabourLaw 1728 1735 pensión
-T207 Term-LabourLaw 271 283 cumplimiento
-T208 Term-LabourLaw 1200 1213 fallecimiento
-T209 Term-LabourLaw 885 894 condición
-T210 Term-LabourLaw 291 296 deber
-T211 Term-LabourLaw 1132 1139 término
-T212 Term-LabourLaw 534 542 computar
-T213 Term-LabourLaw 517 527 suspensión
-T214 Term-LabourLaw 718 728 suspensión
-T215 Term-LabourLaw 998 1008 suspensión
-T216 Term-LabourLaw 1245 1255 suspensión
-T217 Term-LabourLaw 1406 1416 suspensión
-T218 Term-LabourLaw 1725 1735 suspensión
-T219 Term-LabourLaw 506 513 periodo
-T220 Term-LabourLaw 953 960 periodo
-T221 Term-LabourLaw 987 994 periodo
-T222 Term-LabourLaw 1234 1241 periodo
-T223 Term-LabourLaw 479 491 continuación
-T224 Term-LabourLaw 922 934 continuación
-T225 Term-LabourLaw 210 215 parto
-T226 Term-LabourLaw 372 377 parto
-T227 Term-LabourLaw 496 501 parto
-T228 Term-LabourLaw 708 713 parto
-T229 Term-LabourLaw 793 798 parto
-T230 Term-LabourLaw 939 944 parto
-T231 Term-LabourLaw 1565 1570 parto
-T232 Term-LabourLaw 1761 1766 parto
-T233 Term-IATE 326 334 artículo
-T234 Term-IATE 52 62 progenitor
-T235 Term-IATE 591 601 progenitor
-T236 Term-IATE 1449 1461 progenitores
-T237 Term-IATE 813 818 falta
-T238 Term-IATE 517 527 suspensión
-T239 Term-IATE 718 728 suspensión
-T240 Term-IATE 998 1008 suspensión
-T241 Term-IATE 1245 1255 suspensión
-T242 Term-IATE 1406 1416 suspensión
-T243 Term-IATE 1725 1735 suspensión
-T244 Term-IATE 548 557 instancia
-T245 Term-IATE 1365 1380 reincorporación
-T246 Term-IATE 28 36 contrato
-T247 Term-IATE 745 753 contrato
-T248 Term-IATE 1421 1429 contrato
-T249 Term-IATE 3 13 nacimiento
-T250 Term-IATE 1328 1336 descanso
-T251 Term-IATE 1218 1222 hijo
-T252 Term-IATE 1780 1784 hijo
-T253 Term-IATE 1807 1812 meses
+T1	Term-DPEJ 363 368	casos
+T2	Term-DPEJ 784 789	casos
+T3	Term-DPEJ 40 47	trabajo
+T4	Term-DPEJ 1394 1401	trabajo
+T5	Term-DPEJ 271 283	cumplimiento
+T6	Term-DPEJ 28 36	contrato
+T7	Term-DPEJ 745 753	contrato
+T8	Term-DPEJ 1421 1429	contrato
+T9	Term-DPEJ 1652 1657	forma
+T10	Term-DPEJ 885 894	condición
+T11	Term-DPEJ 429 434	causa
+T12	Term-DPEJ 548 557	instancia
+T13	Term-DPEJ 517 527	suspensión
+T14	Term-DPEJ 718 728	suspensión
+T15	Term-DPEJ 998 1008	suspensión
+T16	Term-DPEJ 1245 1255	suspensión
+T17	Term-DPEJ 1406 1416	suspensión
+T18	Term-DPEJ 1725 1735	suspensión
+T19	Term-DPEJ 3 13	nacimiento
+T20	Term-DPEJ 291 298	deberes
+T21	Term-DPEJ 1384 1390	puesto
+T22	Term-DPEJ 245 252	jornada
+T23	Term-DPEJ 326 334	artículo
+T24	Term-DPEJ 618 623	fecha
+T25	Term-Termcat 885 894	condición
+T26	Term-Termcat 548 557	instancia
+T27	Term-Termcat 1132 1140	términos
+T28	Term-Termcat 745 753	contrato
+T29	Term-Termcat 1421 1429	contrato
+T30	Term-Termcat 28 36	contrato
+T31	Term-Termcat 291 298	deberes
+T32	Term-Termcat 1652 1657	forma
+T33	Term-Termcat 3 13	nacimiento
+T34	Term-Termcat 326 334	artículo
+T35	Term-Termcat 342 348	Código
+T36	Term-Termcat 628 632	alta
+T37	Term-Termcat 1469 1476	cuidado
+T38	Term-Termcat 302 309	cuidado
+T39	Term-Termcat 28 47	contrato de trabajo
+T40	Term-Termcat 1328 1348	descanso obligatorio
+T41	Term-Termcat 813 818	falta
+T42	Term-Termcat 245 261	jornada completa
+T43	Term-Termcat 1384 1401	puesto de trabajo
+T44	Term-Termcat 1365 1380	reincorporación
+T45	Term-Termcat 685 692	semanas
+T46	Term-Termcat 1102 1109	semanas
+T47	Term-Termcat 1317 1324	semanas
+T48	Term-Termcat 105 112	semanas
+T49	Term-Termcat 1527 1534	semanas
+T50	Term-Termcat 156 163	semanas
+T51	Term-Termcat 349 354	Civil
+T52	Term-Termcat 1406 1416	suspensión
+T53	Term-Termcat 1245 1255	suspensión
+T54	Term-Termcat 1725 1735	suspensión
+T55	Term-Termcat 517 527	suspensión
+T56	Term-Termcat 998 1008	suspensión
+T57	Term-Termcat 718 728	suspensión
+T58	Term-Termcat 429 434	causa
+T59	Term-Termcat 271 283	cumplimiento
+T60	Term-Termcat 668 675	cómputo
+T61	Term-Termcat 1328 1336	descanso
+T62	Term-Termcat 78 93	madre biológica
+T63	Term-Termcat 564 579	madre biológica
+T64	Term-Termcat 760 775	madre biológica
+T65	Term-Termcat 1480 1485	menor
+T66	Term-Termcat 961 969	superior
+T67	Term-Termcat 1593 1601	voluntad
+T68	Term-DV 429 434	causa
+T69	Term-DV 534 542	computar
+T70	Term-DV 885 894	condición
+T71	Term-DV 291 295	debe
+T72	Term-DV 978 981	día
+T73	Term-DV 1031 1034	día
+T74	Term-DV 662 667	dicho
+T75	Term-DV 813 818	falta
+T76	Term-DV 618 620	fe
+T77	Term-DV 1652 1657	forma
+T78	Term-DV 1218 1222	hijo
+T79	Term-DV 1780 1784	hijo
+T80	Term-DV 87 93	lógica
+T81	Term-DV 573 579	lógica
+T82	Term-DV 769 775	lógica
+T83	Term-DV 78 83	madre
+T84	Term-DV 564 569	madre
+T85	Term-DV 760 765	madre
+T86	Term-DV 3 13	nacimiento
+T87	Term-DV 442 446	nato
+T88	Term-DV 860 864	nato
+T89	Term-DV 263 267	para
+T90	Term-DV 210 215	parto
+T91	Term-DV 372 377	parto
+T92	Term-DV 496 501	parto
+T93	Term-DV 708 713	parto
+T94	Term-DV 793 798	parto
+T95	Term-DV 939 944	parto
+T96	Term-DV 1565 1570	parto
+T97	Term-DV 1761 1766	parto
+T98	Term-DV 520 527	pensión
+T99	Term-DV 721 728	pensión
+T100	Term-DV 1001 1008	pensión
+T101	Term-DV 1248 1255	pensión
+T102	Term-DV 1409 1416	pensión
+T103	Term-DV 1728 1735	pensión
+T104	Term-DV 32 36	rato
+T105	Term-DV 749 753	rato
+T106	Term-DV 1425 1429	rato
+T107	Term-DV 1148 1159	reglamentar
+T108	Term-DV 517 527	suspensión
+T109	Term-DV 718 728	suspensión
+T110	Term-DV 998 1008	suspensión
+T111	Term-DV 1245 1255	suspensión
+T112	Term-DV 1406 1416	suspensión
+T113	Term-DV 1725 1735	suspensión
+T114	Term-DV 351 354	vil
+T115	Term-DV 313 316	vis
+T116	Term-DV 1593 1601	voluntad
+T117	Term-DV 651 652	x
+T118	Term-DV 1088 1089	x
+T119	Term-AttentionRank 372 387	parto prematuro
+T120	Term-AttentionRank 793 808	parto prematuro
+T121	Term-AttentionRank 1365 1380	reincorporación
+T122	Term-AttentionRank 548 579	instancia de la madre biológica
+T123	Term-AttentionRank 1639 1648	disfrutar
+T124	Term-AttentionRank 978 982	días
+T125	Term-AttentionRank 1031 1035	días
+T126	Term-AttentionRank 429 434	causa
+T127	Term-AttentionRank 245 252	jornada
+T128	Term-AttentionRank 3 13	nacimiento
+T129	Term-AttentionRank 1218 1222	hijo
+T130	Term-AttentionRank 1780 1784	hijo
+T131	Term-AttentionRank 506 513	periodo
+T132	Term-AttentionRank 953 960	periodo
+T133	Term-AttentionRank 987 994	periodo
+T134	Term-AttentionRank 1234 1241	periodo
+T135	Term-AttentionRank 271 283	cumplimiento
+T136	Term-AttentionRank 618 623	fecha
+T137	Term-AttentionRank 605 611	partir
+T138	Term-AttentionRank 326 334	artículo
+T139	Term-AttentionRank 857 872	neonato precise
+T140	Term-AttentionRank 1188 1196	supuesto
+T141	Term-AttentionRank 1527 1570	semanas inmediatamente posteriores al parto
+T142	Term-AttentionRank 953 971	periodo superior a
+T143	Term-AttentionRank 813 818	falta
+T144	Term-AttentionRank 1807 1812	meses
+T145	Term-AttentionRank 685 713	semanas posteriores al parto
+T146	Term-AttentionRank 517 527	suspensión
+T147	Term-AttentionRank 718 728	suspensión
+T148	Term-AttentionRank 998 1008	suspensión
+T149	Term-AttentionRank 1245 1255	suspensión
+T150	Term-AttentionRank 1406 1416	suspensión
+T151	Term-AttentionRank 1725 1735	suspensión
+T152	Term-AttentionRank 105 112	semanas
+T153	Term-AttentionRank 156 163	semanas
+T154	Term-AttentionRank 685 692	semanas
+T155	Term-AttentionRank 1102 1109	semanas
+T156	Term-AttentionRank 1317 1324	semanas
+T157	Term-AttentionRank 1527 1534	semanas
+T158	Term-AttentionRank 605 623	partir de la fecha
+T159	Term-AttentionRank 78 93	madre biológica
+T160	Term-AttentionRank 564 579	madre biológica
+T161	Term-AttentionRank 760 775	madre biológica
+T162	Term-AttentionRank 1384 1390	puesto
+T163	Term-AttentionRank 302 309	cuidado
+T164	Term-AttentionRank 1469 1476	cuidado
+T165	Term-AttentionRank 885 894	condición
+T166	Term-AttentionRank 1328 1336	descanso
+T167	Term-AttentionRank 1652 1657	forma
+T168	Term-AttentionRank 52 62	progenitor
+T169	Term-AttentionRank 591 601	progenitor
+T170	Term-AttentionRank 1449 1461	progenitores
+T171	Term-AttentionRank 668 675	cómputo
+T172	Term-AttentionRank 1292 1295	vez
+T173	Term-AttentionRank 1491 1494	vez
+T174	Term-AttentionRank 28 36	contrato
+T175	Term-AttentionRank 745 753	contrato
+T176	Term-AttentionRank 1421 1429	contrato
+T177	Term-AttentionRank 291 298	deberes
+T178	Term-AttentionRank 548 557	instancia
+T179	Term-AttentionRank 40 47	trabajo
+T180	Term-AttentionRank 1394 1401	trabajo
+T181	Term-AttentionRank 718 740	suspensión obligatoria
+T182	Term-AttentionRank 1725 1747	suspensión obligatoria
+T183	Term-AttentionRank 156 179	semanas ininterrumpidas
+T184	Term-AttentionRank 439 446	neonato
+T185	Term-AttentionRank 857 864	neonato
+T186	Term-AttentionRank 363 368	casos
+T187	Term-AttentionRank 784 789	casos
+T188	Term-LabourLaw 1384 1401	puesto de trabajo
+T189	Term-LabourLaw 28 47	contrato de trabajo
+T190	Term-LabourLaw 1406 1429	suspensión del contrato
+T191	Term-LabourLaw 245 261	jornada completa
+T192	Term-LabourLaw 245 252	jornada
+T193	Term-LabourLaw 245 252	jornada
+T194	Term-LabourLaw 40 47	trabajo
+T195	Term-LabourLaw 1394 1401	trabajo
+T196	Term-LabourLaw 28 36	contrato
+T197	Term-LabourLaw 745 753	contrato
+T198	Term-LabourLaw 1421 1429	contrato
+T199	Term-LabourLaw 1328 1336	descanso
+T200	Term-LabourLaw 1480 1485	menor
+T201	Term-LabourLaw 520 527	pensión
+T202	Term-LabourLaw 721 728	pensión
+T203	Term-LabourLaw 1001 1008	pensión
+T204	Term-LabourLaw 1248 1255	pensión
+T205	Term-LabourLaw 1409 1416	pensión
+T206	Term-LabourLaw 1728 1735	pensión
+T207	Term-LabourLaw 271 283	cumplimiento
+T208	Term-LabourLaw 1200 1213	fallecimiento
+T209	Term-LabourLaw 885 894	condición
+T210	Term-LabourLaw 291 296	deber
+T211	Term-LabourLaw 1132 1139	término
+T212	Term-LabourLaw 534 542	computar
+T213	Term-LabourLaw 517 527	suspensión
+T214	Term-LabourLaw 718 728	suspensión
+T215	Term-LabourLaw 998 1008	suspensión
+T216	Term-LabourLaw 1245 1255	suspensión
+T217	Term-LabourLaw 1406 1416	suspensión
+T218	Term-LabourLaw 1725 1735	suspensión
+T219	Term-LabourLaw 506 513	periodo
+T220	Term-LabourLaw 953 960	periodo
+T221	Term-LabourLaw 987 994	periodo
+T222	Term-LabourLaw 1234 1241	periodo
+T223	Term-LabourLaw 479 491	continuación
+T224	Term-LabourLaw 922 934	continuación
+T225	Term-LabourLaw 210 215	parto
+T226	Term-LabourLaw 372 377	parto
+T227	Term-LabourLaw 496 501	parto
+T228	Term-LabourLaw 708 713	parto
+T229	Term-LabourLaw 793 798	parto
+T230	Term-LabourLaw 939 944	parto
+T231	Term-LabourLaw 1565 1570	parto
+T232	Term-LabourLaw 1761 1766	parto
+T233	Term-IATE 326 334	artículo
+T234	Term-IATE 52 62	progenitor
+T235	Term-IATE 591 601	progenitor
+T236	Term-IATE 1449 1461	progenitores
+T237	Term-IATE 813 818	falta
+T238	Term-IATE 517 527	suspensión
+T239	Term-IATE 718 728	suspensión
+T240	Term-IATE 998 1008	suspensión
+T241	Term-IATE 1245 1255	suspensión
+T242	Term-IATE 1406 1416	suspensión
+T243	Term-IATE 1725 1735	suspensión
+T244	Term-IATE 548 557	instancia
+T245	Term-IATE 1365 1380	reincorporación
+T246	Term-IATE 28 36	contrato
+T247	Term-IATE 745 753	contrato
+T248	Term-IATE 1421 1429	contrato
+T249	Term-IATE 3 13	nacimiento
+T250	Term-IATE 1328 1336	descanso
+T251	Term-IATE 1218 1222	hijo
+T252	Term-IATE 1780 1784	hijo
+T253	Term-IATE 1807 1812	meses

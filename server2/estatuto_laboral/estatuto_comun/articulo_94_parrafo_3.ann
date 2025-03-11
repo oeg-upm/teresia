@@ -1,267 +1,267 @@
-T1 Term-DPEJ 269 278 capacidad
-T2 Term-DPEJ 886 895 capacidad
-T3 Term-DPEJ 1338 1344 Empleo
-T4 Term-DPEJ 1609 1615 Empleo
-T5 Term-DPEJ 1051 1061 Regulación
-T6 Term-DPEJ 1103 1113 regulación
-T7 Term-DPEJ 403 409 ámbito
-T8 Term-DPEJ 738 744 ámbito
-T9 Term-DPEJ 1347 1356 Seguridad
-T10 Term-DPEJ 1618 1627 Seguridad
-T11 Term-DPEJ 1132 1139 trabajo
-T12 Term-DPEJ 1684 1691 Trabajo
-T13 Term-DPEJ 373 381 empresas
-T14 Term-DPEJ 1255 1263 convenio
-T15 Term-DPEJ 801 810 condición
-T16 Term-DPEJ 853 864 disposición
-T17 Term-DPEJ 1020 1031 Disposición
-T18 Term-DPEJ 1089 1098 actividad
-T19 Term-DPEJ 1152 1161 actividad
-T20 Term-DPEJ 195 213 comunidad autónoma
-T21 Term-DPEJ 498 516 comunidad autónoma
-T22 Term-DPEJ 147 156 entidades
-T23 Term-DPEJ 1255 1273 convenio colectivo
-T24 Term-DPEJ 1707 1712 leyes
-T25 Term-DPEJ 1840 1843 ley
-T26 Term-DPEJ 758 786 organizaciones empresariales
-T27 Term-DPEJ 1812 1819 títulos
-T28 Term-DPEJ 195 204 comunidad
-T29 Term-DPEJ 498 507 comunidad
-T30 Term-DPEJ 1509 1517 artículo
-T31 Term-DPEJ 1539 1552 procedimiento
-T32 Term-DPEJ 1707 1722 leyes orgánicas
-T33 Term-DPEJ 1081 1085 rama
-T34 Term-DPEJ 1144 1148 rama
-T35 Term-Termcat 195 213 comunidad autónoma
-T36 Term-Termcat 498 516 comunidad autónoma
-T37 Term-Termcat 801 810 condición
-T38 Term-Termcat 1255 1263 convenio
-T39 Term-Termcat 147 156 entidades
-T40 Term-Termcat 1707 1722 leyes orgánicas
-T41 Term-Termcat 1595 1605 Ministerio
-T42 Term-Termcat 1324 1334 Ministerio
-T43 Term-Termcat 980 988 términos
-T44 Term-Termcat 498 507 comunidad
-T45 Term-Termcat 195 204 comunidad
-T46 Term-Termcat 1707 1712 leyes
-T47 Term-Termcat 1840 1843 ley
-T48 Term-Termcat 22 36 representación
-T49 Term-Termcat 1812 1819 títulos
-T50 Term-Termcat 933 936 uso
-T51 Term-Termcat 1509 1517 artículo
-T52 Term-Termcat 1674 1680 Código
-T53 Term-Termcat 853 874 disposición adicional
-T54 Term-Termcat 1020 1041 Disposición adicional
-T55 Term-Termcat 886 895 capacidad
-T56 Term-Termcat 269 278 capacidad
-T57 Term-Termcat 1117 1139 condiciones de trabajo
-T58 Term-Termcat 1255 1273 convenio colectivo
-T59 Term-Termcat 373 381 empresas
-T60 Term-Termcat 1684 1691 Trabajo
-T61 Term-Termcat 1609 1615 Empleo
-T62 Term-Termcat 1338 1344 Empleo
-T63 Term-Termcat 1347 1363 Seguridad Social
-T64 Term-Termcat 1618 1634 Seguridad Social
-T65 Term-Termcat 1569 1577 Gobierno
-T66 Term-Termcat 1298 1306 Gobierno
-T67 Term-Termcat 1347 1356 Seguridad
-T68 Term-Termcat 1618 1627 Seguridad
-T69 Term-Termcat 853 864 disposición
-T70 Term-Termcat 1020 1031 Disposición
-T71 Term-Termcat 1089 1098 actividad
-T72 Term-Termcat 1152 1161 actividad
-T73 Term-Termcat 2 9 efectos
-T74 Term-Termcat 666 679 empresariales
-T75 Term-Termcat 1430 1443 empresariales
-T76 Term-Termcat 311 324 empresariales
-T77 Term-Termcat 773 786 empresariales
-T78 Term-Termcat 481 494 empresariales
-T79 Term-Termcat 1776 1784 materias
-T80 Term-Termcat 1477 1486 perjuicio
-T81 Term-Termcat 1539 1552 procedimiento
-T82 Term-Termcat 1197 1207 producción
-T83 Term-Termcat 1051 1061 Regulación
-T84 Term-Termcat 1103 1113 regulación
-T85 Term-Termcat 918 928 temporales
-T86 Term-Termcat 1224 1237 territoriales
-T87 Term-Termcat 54 61 defensa
-T88 Term-DV 387 391 baja
-T89 Term-DV 597 601 baja
-T90 Term-DV 269 273 capa
-T91 Term-DV 886 890 capa
-T92 Term-DV 269 278 capacidad
-T93 Term-DV 886 895 capacidad
-T94 Term-DV 195 204 comunidad
-T95 Term-DV 498 507 comunidad
-T96 Term-DV 801 810 condición
-T97 Term-DV 54 61 defensa
-T98 Term-DV 853 864 disposición
-T99 Term-DV 2 9 efectos
-T100 Term-DV 92 99 empresa
-T101 Term-DV 311 318 empresa
-T102 Term-DV 373 380 empresa
-T103 Term-DV 481 488 empresa
-T104 Term-DV 580 587 empresa
-T105 Term-DV 666 673 empresa
-T106 Term-DV 773 780 empresa
-T107 Term-DV 1430 1437 empresa
-T108 Term-DV 92 102 empresario
-T109 Term-DV 580 590 empresario
-T110 Term-DV 3 5 fe
-T111 Term-DV 56 58 fe
-T112 Term-DV 704 706 fe
-T113 Term-DV 722 724 fe
-T114 Term-DV 1480 1486 juicio
-T115 Term-DV 1785 1792 laboral
-T116 Term-DV 1266 1273 lectivo
-T117 Term-DV 1008 1013 legal
-T118 Term-DV 1707 1710 ley
-T119 Term-DV 1840 1843 ley
-T120 Term-DV 1906 1913 literal
-T121 Term-DV 1212 1215 mar
-T122 Term-DV 1212 1217 marca
-T123 Term-DV 1796 1801 orden
-T124 Term-DV 896 900 para
-T125 Term-DV 1162 1166 para
-T126 Term-DV 1823 1827 para
-T127 Term-DV 1477 1486 perjuicio
-T128 Term-DV 24 36 presentación
-T129 Term-DV 1539 1552 procedimiento
-T130 Term-DV 1310 1319 propuesta
-T131 Term-DV 1581 1590 propuesta
-T132 Term-DV 964 971 público
-T133 Term-DV 1081 1085 rama
-T134 Term-DV 1144 1148 rama
-T135 Term-DV 1280 1284 real
-T136 Term-DV 1103 1113 regulación
-T137 Term-DV 22 36 representación
-T138 Term-DV 243 249 tender
-T139 Term-DV 384 394 trabajador
-T140 Term-DV 594 604 trabajador
-T141 Term-DV 231 234 vis
-T142 Term-DV 231 236 vista
-T143 Term-DV 1249 1250 x
-T144 Term-DV 1653 1654 x
-T145 Term-DV 1902 1903 x
-T146 Term-AttentionRank 1338 1344 Empleo
-T147 Term-AttentionRank 1609 1615 Empleo
-T148 Term-AttentionRank 1171 1190 sectores económicos
-T149 Term-AttentionRank 65 84 intereses generales
-T150 Term-AttentionRank 853 864 disposición
-T151 Term-AttentionRank 1020 1031 Disposición
-T152 Term-AttentionRank 195 204 comunidad
-T153 Term-AttentionRank 498 507 comunidad
-T154 Term-AttentionRank 1377 1386 consultas
-T155 Term-AttentionRank 933 936 uso
-T156 Term-AttentionRank 1347 1356 Seguridad
-T157 Term-AttentionRank 1618 1627 Seguridad
-T158 Term-AttentionRank 173 181 carácter
-T159 Term-AttentionRank 2 12 efectos de
-T160 Term-AttentionRank 1081 1085 rama
-T161 Term-AttentionRank 1144 1148 rama
-T162 Term-AttentionRank 54 61 defensa
-T163 Term-AttentionRank 269 278 capacidad
-T164 Term-AttentionRank 886 895 capacidad
-T165 Term-AttentionRank 758 786 organizaciones empresariales
-T166 Term-AttentionRank 1509 1517 artículo
-T167 Term-AttentionRank 640 648 supuesto
-T168 Term-AttentionRank 1446 1471 organizaciones sindicales
-T169 Term-AttentionRank 853 874 disposición adicional
-T170 Term-AttentionRank 1020 1041 Disposición adicional
-T171 Term-AttentionRank 1812 1819 títulos
-T172 Term-AttentionRank 1051 1061 Regulación
-T173 Term-AttentionRank 1103 1113 regulación
-T174 Term-AttentionRank 1539 1552 procedimiento
-T175 Term-AttentionRank 403 409 ámbito
-T176 Term-AttentionRank 738 744 ámbito
-T177 Term-AttentionRank 1255 1263 convenio
-T178 Term-AttentionRank 147 156 entidades
-T179 Term-AttentionRank 269 293 capacidad representativa
-T180 Term-AttentionRank 1089 1098 actividad
-T181 Term-AttentionRank 1152 1161 actividad
-T182 Term-AttentionRank 1197 1207 producción
-T183 Term-AttentionRank 384 396 trabajadores
-T184 Term-AttentionRank 594 606 trabajadores
-T185 Term-AttentionRank 373 381 empresas
-T186 Term-AttentionRank 801 810 condición
-T187 Term-AttentionRank 22 36 representación
-T188 Term-AttentionRank 1776 1784 materias
-T189 Term-AttentionRank 1849 1871 numeración correlativa
-T190 Term-AttentionRank 1707 1712 leyes
-T191 Term-AttentionRank 1840 1843 ley
-T192 Term-AttentionRank 1347 1363 Seguridad Social
-T193 Term-AttentionRank 1618 1634 Seguridad Social
-T194 Term-AttentionRank 298 324 asociaciones empresariales
-T195 Term-AttentionRank 468 494 asociaciones empresariales
-T196 Term-AttentionRank 653 679 asociaciones empresariales
-T197 Term-AttentionRank 1417 1443 asociaciones empresariales
-T198 Term-AttentionRank 801 845 condición de más representativas con arreglo
-T199 Term-AttentionRank 2 9 efectos
-T200 Term-AttentionRank 1255 1273 convenio colectivo
-T201 Term-AttentionRank 195 213 comunidad autónoma
-T202 Term-AttentionRank 498 516 comunidad autónoma
-T203 Term-AttentionRank 403 417 ámbito estatal
-T204 Term-AttentionRank 738 752 ámbito estatal
-T205 Term-AttentionRank 1697 1722 distintas leyes orgánicas
-T206 Term-AttentionRank 1132 1139 trabajo
-T207 Term-AttentionRank 1684 1691 Trabajo
-T208 Term-AttentionRank 173 189 carácter estatal
-T209 Term-AttentionRank 92 103 empresarios
-T210 Term-AttentionRank 580 591 empresarios
-T211 Term-LabourLaw 1117 1139 condiciones de trabajo
-T212 Term-LabourLaw 1255 1273 convenio colectivo
-T213 Term-LabourLaw 403 417 ámbito estatal
-T214 Term-LabourLaw 738 752 ámbito estatal
-T215 Term-LabourLaw 1132 1139 trabajo
-T216 Term-LabourLaw 384 394 trabajador
-T217 Term-LabourLaw 594 604 trabajador
-T218 Term-LabourLaw 403 409 ámbito
-T219 Term-LabourLaw 738 744 ámbito
-T220 Term-LabourLaw 1707 1710 ley
-T221 Term-LabourLaw 1840 1843 ley
-T222 Term-LabourLaw 801 810 condición
-T223 Term-LabourLaw 159 168 organismo
-T224 Term-LabourLaw 92 102 empresario
-T225 Term-LabourLaw 580 590 empresario
-T226 Term-LabourLaw 92 99 empresa
-T227 Term-LabourLaw 311 318 empresa
-T228 Term-LabourLaw 373 380 empresa
-T229 Term-LabourLaw 481 488 empresa
-T230 Term-LabourLaw 580 587 empresa
-T231 Term-LabourLaw 666 673 empresa
-T232 Term-LabourLaw 773 780 empresa
-T233 Term-LabourLaw 1430 1437 empresa
-T234 Term-LabourLaw 1539 1552 procedimiento
-T235 Term-LabourLaw 1477 1486 perjuicio
-T236 Term-LabourLaw 980 987 término
-T237 Term-LabourLaw 195 204 comunidad
-T238 Term-LabourLaw 498 507 comunidad
-T239 Term-LabourLaw 1264 1273 colectivo
-T240 Term-LabourLaw 853 864 disposición
-T241 Term-IATE 1812 1819 títulos
-T242 Term-IATE 1509 1517 artículo
-T243 Term-IATE 373 381 empresas
-T244 Term-IATE 54 61 defensa
-T245 Term-IATE 92 103 empresarios
-T246 Term-IATE 580 591 empresarios
-T247 Term-IATE 195 204 comunidad
-T248 Term-IATE 498 507 comunidad
-T249 Term-IATE 1377 1386 consultas
-T250 Term-IATE 1539 1552 procedimiento
-T251 Term-IATE 384 396 trabajadores
-T252 Term-IATE 594 606 trabajadores
-T253 Term-IATE 1776 1784 materias
-T254 Term-IATE 269 278 capacidad
-T255 Term-IATE 886 895 capacidad
-T256 Term-IATE 1338 1344 Empleo
-T257 Term-IATE 1609 1615 Empleo
-T258 Term-IATE 1347 1356 Seguridad
-T259 Term-IATE 1618 1627 Seguridad
-T260 Term-IATE 1089 1098 actividad
-T261 Term-IATE 1152 1161 actividad
-T262 Term-IATE 173 181 carácter
-T263 Term-IATE 147 156 entidades
-T264 Term-IATE 2 9 efectos
-T265 Term-IATE 1255 1263 convenio
-T266 Term-IATE 1051 1061 Regulación
-T267 Term-IATE 1103 1113 regulación
+T1	Term-DPEJ 269 278	capacidad
+T2	Term-DPEJ 886 895	capacidad
+T3	Term-DPEJ 1338 1344	Empleo
+T4	Term-DPEJ 1609 1615	Empleo
+T5	Term-DPEJ 1051 1061	Regulación
+T6	Term-DPEJ 1103 1113	regulación
+T7	Term-DPEJ 403 409	ámbito
+T8	Term-DPEJ 738 744	ámbito
+T9	Term-DPEJ 1347 1356	Seguridad
+T10	Term-DPEJ 1618 1627	Seguridad
+T11	Term-DPEJ 1132 1139	trabajo
+T12	Term-DPEJ 1684 1691	Trabajo
+T13	Term-DPEJ 373 381	empresas
+T14	Term-DPEJ 1255 1263	convenio
+T15	Term-DPEJ 801 810	condición
+T16	Term-DPEJ 853 864	disposición
+T17	Term-DPEJ 1020 1031	Disposición
+T18	Term-DPEJ 1089 1098	actividad
+T19	Term-DPEJ 1152 1161	actividad
+T20	Term-DPEJ 195 213	comunidad autónoma
+T21	Term-DPEJ 498 516	comunidad autónoma
+T22	Term-DPEJ 147 156	entidades
+T23	Term-DPEJ 1255 1273	convenio colectivo
+T24	Term-DPEJ 1707 1712	leyes
+T25	Term-DPEJ 1840 1843	ley
+T26	Term-DPEJ 758 786	organizaciones empresariales
+T27	Term-DPEJ 1812 1819	títulos
+T28	Term-DPEJ 195 204	comunidad
+T29	Term-DPEJ 498 507	comunidad
+T30	Term-DPEJ 1509 1517	artículo
+T31	Term-DPEJ 1539 1552	procedimiento
+T32	Term-DPEJ 1707 1722	leyes orgánicas
+T33	Term-DPEJ 1081 1085	rama
+T34	Term-DPEJ 1144 1148	rama
+T35	Term-Termcat 195 213	comunidad autónoma
+T36	Term-Termcat 498 516	comunidad autónoma
+T37	Term-Termcat 801 810	condición
+T38	Term-Termcat 1255 1263	convenio
+T39	Term-Termcat 147 156	entidades
+T40	Term-Termcat 1707 1722	leyes orgánicas
+T41	Term-Termcat 1595 1605	Ministerio
+T42	Term-Termcat 1324 1334	Ministerio
+T43	Term-Termcat 980 988	términos
+T44	Term-Termcat 498 507	comunidad
+T45	Term-Termcat 195 204	comunidad
+T46	Term-Termcat 1707 1712	leyes
+T47	Term-Termcat 1840 1843	ley
+T48	Term-Termcat 22 36	representación
+T49	Term-Termcat 1812 1819	títulos
+T50	Term-Termcat 933 936	uso
+T51	Term-Termcat 1509 1517	artículo
+T52	Term-Termcat 1674 1680	Código
+T53	Term-Termcat 853 874	disposición adicional
+T54	Term-Termcat 1020 1041	Disposición adicional
+T55	Term-Termcat 886 895	capacidad
+T56	Term-Termcat 269 278	capacidad
+T57	Term-Termcat 1117 1139	condiciones de trabajo
+T58	Term-Termcat 1255 1273	convenio colectivo
+T59	Term-Termcat 373 381	empresas
+T60	Term-Termcat 1684 1691	Trabajo
+T61	Term-Termcat 1609 1615	Empleo
+T62	Term-Termcat 1338 1344	Empleo
+T63	Term-Termcat 1347 1363	Seguridad Social
+T64	Term-Termcat 1618 1634	Seguridad Social
+T65	Term-Termcat 1569 1577	Gobierno
+T66	Term-Termcat 1298 1306	Gobierno
+T67	Term-Termcat 1347 1356	Seguridad
+T68	Term-Termcat 1618 1627	Seguridad
+T69	Term-Termcat 853 864	disposición
+T70	Term-Termcat 1020 1031	Disposición
+T71	Term-Termcat 1089 1098	actividad
+T72	Term-Termcat 1152 1161	actividad
+T73	Term-Termcat 2 9	efectos
+T74	Term-Termcat 666 679	empresariales
+T75	Term-Termcat 1430 1443	empresariales
+T76	Term-Termcat 311 324	empresariales
+T77	Term-Termcat 773 786	empresariales
+T78	Term-Termcat 481 494	empresariales
+T79	Term-Termcat 1776 1784	materias
+T80	Term-Termcat 1477 1486	perjuicio
+T81	Term-Termcat 1539 1552	procedimiento
+T82	Term-Termcat 1197 1207	producción
+T83	Term-Termcat 1051 1061	Regulación
+T84	Term-Termcat 1103 1113	regulación
+T85	Term-Termcat 918 928	temporales
+T86	Term-Termcat 1224 1237	territoriales
+T87	Term-Termcat 54 61	defensa
+T88	Term-DV 387 391	baja
+T89	Term-DV 597 601	baja
+T90	Term-DV 269 273	capa
+T91	Term-DV 886 890	capa
+T92	Term-DV 269 278	capacidad
+T93	Term-DV 886 895	capacidad
+T94	Term-DV 195 204	comunidad
+T95	Term-DV 498 507	comunidad
+T96	Term-DV 801 810	condición
+T97	Term-DV 54 61	defensa
+T98	Term-DV 853 864	disposición
+T99	Term-DV 2 9	efectos
+T100	Term-DV 92 99	empresa
+T101	Term-DV 311 318	empresa
+T102	Term-DV 373 380	empresa
+T103	Term-DV 481 488	empresa
+T104	Term-DV 580 587	empresa
+T105	Term-DV 666 673	empresa
+T106	Term-DV 773 780	empresa
+T107	Term-DV 1430 1437	empresa
+T108	Term-DV 92 102	empresario
+T109	Term-DV 580 590	empresario
+T110	Term-DV 3 5	fe
+T111	Term-DV 56 58	fe
+T112	Term-DV 704 706	fe
+T113	Term-DV 722 724	fe
+T114	Term-DV 1480 1486	juicio
+T115	Term-DV 1785 1792	laboral
+T116	Term-DV 1266 1273	lectivo
+T117	Term-DV 1008 1013	legal
+T118	Term-DV 1707 1710	ley
+T119	Term-DV 1840 1843	ley
+T120	Term-DV 1906 1913	literal
+T121	Term-DV 1212 1215	mar
+T122	Term-DV 1212 1217	marca
+T123	Term-DV 1796 1801	orden
+T124	Term-DV 896 900	para
+T125	Term-DV 1162 1166	para
+T126	Term-DV 1823 1827	para
+T127	Term-DV 1477 1486	perjuicio
+T128	Term-DV 24 36	presentación
+T129	Term-DV 1539 1552	procedimiento
+T130	Term-DV 1310 1319	propuesta
+T131	Term-DV 1581 1590	propuesta
+T132	Term-DV 964 971	público
+T133	Term-DV 1081 1085	rama
+T134	Term-DV 1144 1148	rama
+T135	Term-DV 1280 1284	real
+T136	Term-DV 1103 1113	regulación
+T137	Term-DV 22 36	representación
+T138	Term-DV 243 249	tender
+T139	Term-DV 384 394	trabajador
+T140	Term-DV 594 604	trabajador
+T141	Term-DV 231 234	vis
+T142	Term-DV 231 236	vista
+T143	Term-DV 1249 1250	x
+T144	Term-DV 1653 1654	x
+T145	Term-DV 1902 1903	x
+T146	Term-AttentionRank 1338 1344	Empleo
+T147	Term-AttentionRank 1609 1615	Empleo
+T148	Term-AttentionRank 1171 1190	sectores económicos
+T149	Term-AttentionRank 65 84	intereses generales
+T150	Term-AttentionRank 853 864	disposición
+T151	Term-AttentionRank 1020 1031	Disposición
+T152	Term-AttentionRank 195 204	comunidad
+T153	Term-AttentionRank 498 507	comunidad
+T154	Term-AttentionRank 1377 1386	consultas
+T155	Term-AttentionRank 933 936	uso
+T156	Term-AttentionRank 1347 1356	Seguridad
+T157	Term-AttentionRank 1618 1627	Seguridad
+T158	Term-AttentionRank 173 181	carácter
+T159	Term-AttentionRank 2 12	efectos de
+T160	Term-AttentionRank 1081 1085	rama
+T161	Term-AttentionRank 1144 1148	rama
+T162	Term-AttentionRank 54 61	defensa
+T163	Term-AttentionRank 269 278	capacidad
+T164	Term-AttentionRank 886 895	capacidad
+T165	Term-AttentionRank 758 786	organizaciones empresariales
+T166	Term-AttentionRank 1509 1517	artículo
+T167	Term-AttentionRank 640 648	supuesto
+T168	Term-AttentionRank 1446 1471	organizaciones sindicales
+T169	Term-AttentionRank 853 874	disposición adicional
+T170	Term-AttentionRank 1020 1041	Disposición adicional
+T171	Term-AttentionRank 1812 1819	títulos
+T172	Term-AttentionRank 1051 1061	Regulación
+T173	Term-AttentionRank 1103 1113	regulación
+T174	Term-AttentionRank 1539 1552	procedimiento
+T175	Term-AttentionRank 403 409	ámbito
+T176	Term-AttentionRank 738 744	ámbito
+T177	Term-AttentionRank 1255 1263	convenio
+T178	Term-AttentionRank 147 156	entidades
+T179	Term-AttentionRank 269 293	capacidad representativa
+T180	Term-AttentionRank 1089 1098	actividad
+T181	Term-AttentionRank 1152 1161	actividad
+T182	Term-AttentionRank 1197 1207	producción
+T183	Term-AttentionRank 384 396	trabajadores
+T184	Term-AttentionRank 594 606	trabajadores
+T185	Term-AttentionRank 373 381	empresas
+T186	Term-AttentionRank 801 810	condición
+T187	Term-AttentionRank 22 36	representación
+T188	Term-AttentionRank 1776 1784	materias
+T189	Term-AttentionRank 1849 1871	numeración correlativa
+T190	Term-AttentionRank 1707 1712	leyes
+T191	Term-AttentionRank 1840 1843	ley
+T192	Term-AttentionRank 1347 1363	Seguridad Social
+T193	Term-AttentionRank 1618 1634	Seguridad Social
+T194	Term-AttentionRank 298 324	asociaciones empresariales
+T195	Term-AttentionRank 468 494	asociaciones empresariales
+T196	Term-AttentionRank 653 679	asociaciones empresariales
+T197	Term-AttentionRank 1417 1443	asociaciones empresariales
+T198	Term-AttentionRank 801 845	condición de más representativas con arreglo
+T199	Term-AttentionRank 2 9	efectos
+T200	Term-AttentionRank 1255 1273	convenio colectivo
+T201	Term-AttentionRank 195 213	comunidad autónoma
+T202	Term-AttentionRank 498 516	comunidad autónoma
+T203	Term-AttentionRank 403 417	ámbito estatal
+T204	Term-AttentionRank 738 752	ámbito estatal
+T205	Term-AttentionRank 1697 1722	distintas leyes orgánicas
+T206	Term-AttentionRank 1132 1139	trabajo
+T207	Term-AttentionRank 1684 1691	Trabajo
+T208	Term-AttentionRank 173 189	carácter estatal
+T209	Term-AttentionRank 92 103	empresarios
+T210	Term-AttentionRank 580 591	empresarios
+T211	Term-LabourLaw 1117 1139	condiciones de trabajo
+T212	Term-LabourLaw 1255 1273	convenio colectivo
+T213	Term-LabourLaw 403 417	ámbito estatal
+T214	Term-LabourLaw 738 752	ámbito estatal
+T215	Term-LabourLaw 1132 1139	trabajo
+T216	Term-LabourLaw 384 394	trabajador
+T217	Term-LabourLaw 594 604	trabajador
+T218	Term-LabourLaw 403 409	ámbito
+T219	Term-LabourLaw 738 744	ámbito
+T220	Term-LabourLaw 1707 1710	ley
+T221	Term-LabourLaw 1840 1843	ley
+T222	Term-LabourLaw 801 810	condición
+T223	Term-LabourLaw 159 168	organismo
+T224	Term-LabourLaw 92 102	empresario
+T225	Term-LabourLaw 580 590	empresario
+T226	Term-LabourLaw 92 99	empresa
+T227	Term-LabourLaw 311 318	empresa
+T228	Term-LabourLaw 373 380	empresa
+T229	Term-LabourLaw 481 488	empresa
+T230	Term-LabourLaw 580 587	empresa
+T231	Term-LabourLaw 666 673	empresa
+T232	Term-LabourLaw 773 780	empresa
+T233	Term-LabourLaw 1430 1437	empresa
+T234	Term-LabourLaw 1539 1552	procedimiento
+T235	Term-LabourLaw 1477 1486	perjuicio
+T236	Term-LabourLaw 980 987	término
+T237	Term-LabourLaw 195 204	comunidad
+T238	Term-LabourLaw 498 507	comunidad
+T239	Term-LabourLaw 1264 1273	colectivo
+T240	Term-LabourLaw 853 864	disposición
+T241	Term-IATE 1812 1819	títulos
+T242	Term-IATE 1509 1517	artículo
+T243	Term-IATE 373 381	empresas
+T244	Term-IATE 54 61	defensa
+T245	Term-IATE 92 103	empresarios
+T246	Term-IATE 580 591	empresarios
+T247	Term-IATE 195 204	comunidad
+T248	Term-IATE 498 507	comunidad
+T249	Term-IATE 1377 1386	consultas
+T250	Term-IATE 1539 1552	procedimiento
+T251	Term-IATE 384 396	trabajadores
+T252	Term-IATE 594 606	trabajadores
+T253	Term-IATE 1776 1784	materias
+T254	Term-IATE 269 278	capacidad
+T255	Term-IATE 886 895	capacidad
+T256	Term-IATE 1338 1344	Empleo
+T257	Term-IATE 1609 1615	Empleo
+T258	Term-IATE 1347 1356	Seguridad
+T259	Term-IATE 1618 1627	Seguridad
+T260	Term-IATE 1089 1098	actividad
+T261	Term-IATE 1152 1161	actividad
+T262	Term-IATE 173 181	carácter
+T263	Term-IATE 147 156	entidades
+T264	Term-IATE 2 9	efectos
+T265	Term-IATE 1255 1263	convenio
+T266	Term-IATE 1051 1061	Regulación
+T267	Term-IATE 1103 1113	regulación

@@ -1,128 +1,128 @@
-T1 Term-DPEJ 547 551 caso
-T2 Term-DPEJ 167 173 reglas
-T3 Term-DPEJ 135 142 trabajo
-T4 Term-DPEJ 585 592 trabajo
-T5 Term-DPEJ 644 651 trabajo
-T6 Term-DPEJ 425 432 empresa
-T7 Term-DPEJ 180 188 buena fe
-T8 Term-DPEJ 147 158 conformidad
-T9 Term-DPEJ 572 581 contratos
-T10 Term-DPEJ 632 640 contrato
-T11 Term-DPEJ 244 251 riesgos
-T12 Term-DPEJ 409 418 actividad
-T13 Term-DPEJ 244 261 riesgos laborales
-T14 Term-DPEJ 466 469 ley
-T15 Term-DPEJ 12 19 Deberes
-T16 Term-DPEJ 60 67 deberes
-T17 Term-DPEJ 125 131 puesto
-T18 Term-DPEJ 293 300 órdenes
-T19 Term-DPEJ 219 226 medidas
-T20 Term-DPEJ 0 8 Artículo
-T21 Term-Termcat 594 601 Sección
-T22 Term-Termcat 441 449 términos
-T23 Term-Termcat 180 188 buena fe
-T24 Term-Termcat 572 581 contratos
-T25 Term-Termcat 632 640 contrato
-T26 Term-Termcat 12 19 Deberes
-T27 Term-Termcat 60 67 deberes
-T28 Term-Termcat 363 373 facultades
-T29 Term-Termcat 466 469 ley
-T30 Term-Termcat 0 8 Artículo
-T31 Term-Termcat 632 651 contrato de trabajo
-T32 Term-Termcat 425 432 empresa
-T33 Term-Termcat 585 592 trabajo
-T34 Term-Termcat 125 142 puesto de trabajo
-T35 Term-Termcat 230 261 prevención de riesgos laborales
-T36 Term-Termcat 503 516 productividad
-T37 Term-Termcat 374 384 directivas
-T38 Term-Termcat 147 158 conformidad
-T39 Term-Termcat 619 627 eficacia
-T40 Term-Termcat 191 201 diligencia
-T41 Term-Termcat 409 418 actividad
-T42 Term-Termcat 338 347 ejercicio
-T43 Term-Termcat 490 496 mejora
-T44 Term-Termcat 167 173 reglas
-T45 Term-Termcat 244 251 riesgos
-T46 Term-Termcat 230 240 prevención
-T47 Term-DV 38 42 baja
-T48 Term-DV 68 74 básico
-T49 Term-DV 60 64 debe
-T50 Term-DV 191 201 diligencia
-T51 Term-DV 321 328 empresa
-T52 Term-DV 425 432 empresa
-T53 Term-DV 321 331 empresario
-T54 Term-DV 363 371 facultad
-T55 Term-DV 186 188 fe
-T56 Term-DV 20 27 laboral
-T57 Term-DV 252 259 laboral
-T58 Term-DV 466 469 ley
-T59 Term-DV 230 240 prevención
-T60 Term-DV 576 580 rato
-T61 Term-DV 636 640 rato
-T62 Term-DV 35 45 trabajador
-T63 Term-AttentionRank 338 347 ejercicio
-T64 Term-AttentionRank 180 188 buena fe
-T65 Term-AttentionRank 167 173 reglas
-T66 Term-AttentionRank 244 251 riesgos
-T67 Term-AttentionRank 219 226 medidas
-T68 Term-AttentionRank 147 173 conformidad con las reglas
-T69 Term-AttentionRank 0 8 Artículo
-T70 Term-AttentionRank 96 118 obligaciones concretas
-T71 Term-AttentionRank 594 601 Sección
-T72 Term-AttentionRank 60 75 deberes básicos
-T73 Term-AttentionRank 409 418 actividad
-T74 Term-AttentionRank 35 47 trabajadores
-T75 Term-AttentionRank 125 131 puesto
-T76 Term-AttentionRank 425 432 empresa
-T77 Term-AttentionRank 466 469 ley
-T78 Term-AttentionRank 244 261 riesgos laborales
-T79 Term-AttentionRank 560 581 respectivos contratos
-T80 Term-AttentionRank 338 355 ejercicio regular
-T81 Term-AttentionRank 147 158 conformidad
-T82 Term-AttentionRank 293 300 órdenes
-T83 Term-AttentionRank 572 581 contratos
-T84 Term-AttentionRank 632 640 contrato
-T85 Term-AttentionRank 12 19 Deberes
-T86 Term-AttentionRank 60 67 deberes
-T87 Term-AttentionRank 503 516 productividad
-T88 Term-AttentionRank 135 142 trabajo
-T89 Term-AttentionRank 585 592 trabajo
-T90 Term-AttentionRank 644 651 trabajo
-T91 Term-AttentionRank 547 551 caso
-T92 Term-AttentionRank 321 331 empresario
-T93 Term-LabourLaw 125 142 puesto de trabajo
-T94 Term-LabourLaw 632 651 contrato de trabajo
-T95 Term-LabourLaw 180 188 buena fe
-T96 Term-LabourLaw 392 401 concurrir
-T97 Term-LabourLaw 503 516 productividad
-T98 Term-LabourLaw 135 142 trabajo
-T99 Term-LabourLaw 585 592 trabajo
-T100 Term-LabourLaw 644 651 trabajo
-T101 Term-LabourLaw 230 240 prevención
-T102 Term-LabourLaw 244 250 riesgo
-T103 Term-LabourLaw 572 580 contrato
-T104 Term-LabourLaw 632 640 contrato
-T105 Term-LabourLaw 219 225 medida
-T106 Term-LabourLaw 35 45 trabajador
-T107 Term-LabourLaw 466 469 ley
-T108 Term-LabourLaw 60 65 deber
-T109 Term-LabourLaw 321 331 empresario
-T110 Term-LabourLaw 147 158 conformidad
-T111 Term-LabourLaw 321 328 empresa
-T112 Term-LabourLaw 425 432 empresa
-T113 Term-LabourLaw 441 448 término
-T114 Term-LabourLaw 191 201 diligencia
-T115 Term-LabourLaw 363 371 facultad
-T116 Term-IATE 503 516 productividad
-T117 Term-IATE 0 8 Artículo
-T118 Term-IATE 244 251 riesgos
-T119 Term-IATE 425 432 empresa
-T120 Term-IATE 147 158 conformidad
-T121 Term-IATE 321 331 empresario
-T122 Term-IATE 35 47 trabajadores
-T123 Term-IATE 293 300 órdenes
-T124 Term-IATE 594 601 Sección
-T125 Term-IATE 409 418 actividad
-T126 Term-IATE 572 581 contratos
-T127 Term-IATE 632 640 contrato
-T128 Term-IATE 338 347 ejercicio
+T1	Term-DPEJ 547 551	caso
+T2	Term-DPEJ 167 173	reglas
+T3	Term-DPEJ 135 142	trabajo
+T4	Term-DPEJ 585 592	trabajo
+T5	Term-DPEJ 644 651	trabajo
+T6	Term-DPEJ 425 432	empresa
+T7	Term-DPEJ 180 188	buena fe
+T8	Term-DPEJ 147 158	conformidad
+T9	Term-DPEJ 572 581	contratos
+T10	Term-DPEJ 632 640	contrato
+T11	Term-DPEJ 244 251	riesgos
+T12	Term-DPEJ 409 418	actividad
+T13	Term-DPEJ 244 261	riesgos laborales
+T14	Term-DPEJ 466 469	ley
+T15	Term-DPEJ 12 19	Deberes
+T16	Term-DPEJ 60 67	deberes
+T17	Term-DPEJ 125 131	puesto
+T18	Term-DPEJ 293 300	órdenes
+T19	Term-DPEJ 219 226	medidas
+T20	Term-DPEJ 0 8	Artículo
+T21	Term-Termcat 594 601	Sección
+T22	Term-Termcat 441 449	términos
+T23	Term-Termcat 180 188	buena fe
+T24	Term-Termcat 572 581	contratos
+T25	Term-Termcat 632 640	contrato
+T26	Term-Termcat 12 19	Deberes
+T27	Term-Termcat 60 67	deberes
+T28	Term-Termcat 363 373	facultades
+T29	Term-Termcat 466 469	ley
+T30	Term-Termcat 0 8	Artículo
+T31	Term-Termcat 632 651	contrato de trabajo
+T32	Term-Termcat 425 432	empresa
+T33	Term-Termcat 585 592	trabajo
+T34	Term-Termcat 125 142	puesto de trabajo
+T35	Term-Termcat 230 261	prevención de riesgos laborales
+T36	Term-Termcat 503 516	productividad
+T37	Term-Termcat 374 384	directivas
+T38	Term-Termcat 147 158	conformidad
+T39	Term-Termcat 619 627	eficacia
+T40	Term-Termcat 191 201	diligencia
+T41	Term-Termcat 409 418	actividad
+T42	Term-Termcat 338 347	ejercicio
+T43	Term-Termcat 490 496	mejora
+T44	Term-Termcat 167 173	reglas
+T45	Term-Termcat 244 251	riesgos
+T46	Term-Termcat 230 240	prevención
+T47	Term-DV 38 42	baja
+T48	Term-DV 68 74	básico
+T49	Term-DV 60 64	debe
+T50	Term-DV 191 201	diligencia
+T51	Term-DV 321 328	empresa
+T52	Term-DV 425 432	empresa
+T53	Term-DV 321 331	empresario
+T54	Term-DV 363 371	facultad
+T55	Term-DV 186 188	fe
+T56	Term-DV 20 27	laboral
+T57	Term-DV 252 259	laboral
+T58	Term-DV 466 469	ley
+T59	Term-DV 230 240	prevención
+T60	Term-DV 576 580	rato
+T61	Term-DV 636 640	rato
+T62	Term-DV 35 45	trabajador
+T63	Term-AttentionRank 338 347	ejercicio
+T64	Term-AttentionRank 180 188	buena fe
+T65	Term-AttentionRank 167 173	reglas
+T66	Term-AttentionRank 244 251	riesgos
+T67	Term-AttentionRank 219 226	medidas
+T68	Term-AttentionRank 147 173	conformidad con las reglas
+T69	Term-AttentionRank 0 8	Artículo
+T70	Term-AttentionRank 96 118	obligaciones concretas
+T71	Term-AttentionRank 594 601	Sección
+T72	Term-AttentionRank 60 75	deberes básicos
+T73	Term-AttentionRank 409 418	actividad
+T74	Term-AttentionRank 35 47	trabajadores
+T75	Term-AttentionRank 125 131	puesto
+T76	Term-AttentionRank 425 432	empresa
+T77	Term-AttentionRank 466 469	ley
+T78	Term-AttentionRank 244 261	riesgos laborales
+T79	Term-AttentionRank 560 581	respectivos contratos
+T80	Term-AttentionRank 338 355	ejercicio regular
+T81	Term-AttentionRank 147 158	conformidad
+T82	Term-AttentionRank 293 300	órdenes
+T83	Term-AttentionRank 572 581	contratos
+T84	Term-AttentionRank 632 640	contrato
+T85	Term-AttentionRank 12 19	Deberes
+T86	Term-AttentionRank 60 67	deberes
+T87	Term-AttentionRank 503 516	productividad
+T88	Term-AttentionRank 135 142	trabajo
+T89	Term-AttentionRank 585 592	trabajo
+T90	Term-AttentionRank 644 651	trabajo
+T91	Term-AttentionRank 547 551	caso
+T92	Term-AttentionRank 321 331	empresario
+T93	Term-LabourLaw 125 142	puesto de trabajo
+T94	Term-LabourLaw 632 651	contrato de trabajo
+T95	Term-LabourLaw 180 188	buena fe
+T96	Term-LabourLaw 392 401	concurrir
+T97	Term-LabourLaw 503 516	productividad
+T98	Term-LabourLaw 135 142	trabajo
+T99	Term-LabourLaw 585 592	trabajo
+T100	Term-LabourLaw 644 651	trabajo
+T101	Term-LabourLaw 230 240	prevención
+T102	Term-LabourLaw 244 250	riesgo
+T103	Term-LabourLaw 572 580	contrato
+T104	Term-LabourLaw 632 640	contrato
+T105	Term-LabourLaw 219 225	medida
+T106	Term-LabourLaw 35 45	trabajador
+T107	Term-LabourLaw 466 469	ley
+T108	Term-LabourLaw 60 65	deber
+T109	Term-LabourLaw 321 331	empresario
+T110	Term-LabourLaw 147 158	conformidad
+T111	Term-LabourLaw 321 328	empresa
+T112	Term-LabourLaw 425 432	empresa
+T113	Term-LabourLaw 441 448	término
+T114	Term-LabourLaw 191 201	diligencia
+T115	Term-LabourLaw 363 371	facultad
+T116	Term-IATE 503 516	productividad
+T117	Term-IATE 0 8	Artículo
+T118	Term-IATE 244 251	riesgos
+T119	Term-IATE 425 432	empresa
+T120	Term-IATE 147 158	conformidad
+T121	Term-IATE 321 331	empresario
+T122	Term-IATE 35 47	trabajadores
+T123	Term-IATE 293 300	órdenes
+T124	Term-IATE 594 601	Sección
+T125	Term-IATE 409 418	actividad
+T126	Term-IATE 572 581	contratos
+T127	Term-IATE 632 640	contrato
+T128	Term-IATE 338 347	ejercicio

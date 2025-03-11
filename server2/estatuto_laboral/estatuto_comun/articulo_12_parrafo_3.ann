@@ -1,288 +1,288 @@
-T1 Term-DPEJ 365 369 tipo
-T2 Term-DPEJ 23 30 trabajo
-T3 Term-DPEJ 55 62 trabajo
-T4 Term-DPEJ 248 255 trabajo
-T5 Term-DPEJ 671 678 trabajo
-T6 Term-DPEJ 794 801 trabajo
-T7 Term-DPEJ 894 901 trabajo
-T8 Term-DPEJ 926 933 trabajo
-T9 Term-DPEJ 999 1006 trabajo
-T10 Term-DPEJ 752 759 empresa
-T11 Term-DPEJ 1115 1123 convenio
-T12 Term-DPEJ 1420 1429 convenios
-T13 Term-DPEJ 481 492 conformidad
-T14 Term-DPEJ 1058 1069 conformidad
-T15 Term-DPEJ 186 198 consecuencia
-T16 Term-DPEJ 162 167 forma
-T17 Term-DPEJ 560 566 causas
-T18 Term-DPEJ 206 218 modificación
-T19 Term-DPEJ 1115 1133 convenio colectivo
-T20 Term-DPEJ 1420 1440 convenios colectivos
-T21 Term-DPEJ 33 39 tiempo
-T22 Term-DPEJ 681 687 tiempo
-T23 Term-DPEJ 904 910 tiempo
-T24 Term-DPEJ 936 942 tiempo
-T25 Term-DPEJ 989 995 tiempo
-T26 Term-DPEJ 1029 1035 tiempo
-T27 Term-DPEJ 1518 1524 tiempo
-T28 Term-DPEJ 783 790 puestos
-T29 Term-DPEJ 373 380 sanción
-T30 Term-DPEJ 1298 1308 denegación
-T31 Term-DPEJ 465 472 medidas
-T32 Term-DPEJ 1454 1461 medidas
-T33 Term-DPEJ 1254 1260 medida
-T34 Term-DPEJ 288 296 artículo
-T35 Term-DPEJ 517 526 artículos
-T36 Term-DPEJ 1078 1092 procedimientos
-T37 Term-Termcat 1115 1123 convenio
-T38 Term-Termcat 1420 1429 convenios
-T39 Term-Termcat 432 442 conversión
-T40 Term-Termcat 866 876 conversión
-T41 Term-Termcat 6 16 conversión
-T42 Term-Termcat 851 862 solicitudes
-T43 Term-Termcat 1161 1172 solicitudes
-T44 Term-Termcat 1315 1324 solicitud
-T45 Term-Termcat 162 167 forma
-T46 Term-Termcat 373 380 sanción
-T47 Term-Termcat 288 296 artículo
-T48 Term-Termcat 517 526 artículos
-T49 Term-Termcat 233 255 condiciones de trabajo
-T50 Term-Termcat 1115 1133 convenio colectivo
-T51 Term-Termcat 1420 1440 convenios colectivos
-T52 Term-Termcat 752 759 empresa
-T53 Term-Termcat 794 801 trabajo
-T54 Term-Termcat 55 62 trabajo
-T55 Term-Termcat 1538 1568 formación profesional continua
-T56 Term-Termcat 802 810 vacantes
-T57 Term-Termcat 989 1006 tiempo de trabajo
-T58 Term-Termcat 894 919 trabajo a tiempo completo
-T59 Term-Termcat 23 48 trabajo a tiempo completo
-T60 Term-Termcat 671 695 trabajo a tiempo parcial
-T61 Term-Termcat 926 950 trabajo a tiempo parcial
-T62 Term-Termcat 206 218 modificación
-T63 Term-Termcat 481 492 conformidad
-T64 Term-Termcat 1058 1069 conformidad
-T65 Term-Termcat 1480 1486 acceso
-T66 Term-Termcat 560 577 causas económicas
-T67 Term-Termcat 383 389 efecto
-T68 Term-Termcat 999 1006 trabajo
-T69 Term-Termcat 409 414 hecho
-T70 Term-Termcat 365 369 tipo
-T71 Term-Termcat 448 457 perjuicio
-T72 Term-Termcat 1078 1092 procedimientos
-T73 Term-Termcat 608 618 producción
-T74 Term-Termcat 168 178 unilateral
-T75 Term-Termcat 259 265 amparo
-T76 Term-Termcat 842 850 formular
-T77 Term-Termcat 1592 1602 progresión
-T78 Term-DV 129 133 baja
-T79 Term-DV 312 316 baja
-T80 Term-DV 736 740 baja
-T81 Term-DV 1017 1021 baja
-T82 Term-DV 1371 1375 baja
-T83 Term-DV 1506 1510 baja
-T84 Term-DV 560 565 causa
-T85 Term-DV 711 715 debe
-T86 Term-DV 1210 1214 debe
-T87 Term-DV 1325 1329 debe
-T88 Term-DV 700 707 empresa
-T89 Term-DV 752 759 empresa
-T90 Term-DV 1283 1290 empresa
-T91 Term-DV 1354 1361 empresa
-T92 Term-DV 700 710 empresario
-T93 Term-DV 1283 1293 empresario
-T94 Term-DV 1354 1364 empresario
-T95 Term-DV 384 386 fe
-T96 Term-DV 1488 1490 fe
-T97 Term-DV 1551 1553 fe
-T98 Term-DV 1618 1620 fe
-T99 Term-DV 162 167 forma
-T100 Term-DV 720 725 forma
-T101 Term-DV 1538 1543 forma
-T102 Term-DV 409 414 hecho
-T103 Term-DV 393 401 judicial
-T104 Term-DV 451 457 juicio
-T105 Term-DV 1126 1133 lectivo
-T106 Term-DV 1432 1439 lectivo
-T107 Term-DV 723 726 mar
-T108 Term-DV 1300 1308 negación
-T109 Term-DV 169 172 nil
-T110 Term-DV 63 70 parcial
-T111 Term-DV 688 695 parcial
-T112 Term-DV 943 950 parcial
-T113 Term-DV 1036 1043 parcial
-T114 Term-DV 1525 1532 parcial
-T115 Term-DV 118 122 para
-T116 Term-DV 966 970 para
-T117 Term-DV 1462 1466 para
-T118 Term-DV 448 457 perjuicio
-T119 Term-DV 1267 1274 posible
-T120 Term-DV 1078 1091 procedimiento
-T121 Term-DV 1548 1559 profesional
-T122 Term-DV 1615 1626 profesional
-T123 Term-DV 373 380 sanción
-T124 Term-DV 851 860 solicitud
-T125 Term-DV 1161 1170 solicitud
-T126 Term-DV 1315 1324 solicitud
-T127 Term-DV 126 136 trabajador
-T128 Term-DV 309 319 trabajador
-T129 Term-DV 733 743 trabajador
-T130 Term-DV 1014 1024 trabajador
-T131 Term-DV 1368 1378 trabajador
-T132 Term-DV 1503 1513 trabajador
-T133 Term-DV 802 809 vacante
-T134 Term-DV 73 77 vice
-T135 Term-DV 953 957 vice
-T136 Term-DV 646 649 vil
-T137 Term-DV 1607 1610 vil
-T138 Term-DV 770 771 x
-T139 Term-AttentionRank 33 39 tiempo
-T140 Term-AttentionRank 681 687 tiempo
-T141 Term-AttentionRank 904 910 tiempo
-T142 Term-AttentionRank 936 942 tiempo
-T143 Term-AttentionRank 989 995 tiempo
-T144 Term-AttentionRank 1029 1035 tiempo
-T145 Term-AttentionRank 1518 1524 tiempo
-T146 Term-AttentionRank 33 48 tiempo completo
-T147 Term-AttentionRank 904 919 tiempo completo
-T148 Term-AttentionRank 186 198 consecuencia
-T149 Term-AttentionRank 560 566 causas
-T150 Term-AttentionRank 815 821 manera
-T151 Term-AttentionRank 1396 1402 manera
-T152 Term-AttentionRank 465 472 medidas
-T153 Term-AttentionRank 1454 1461 medidas
-T154 Term-AttentionRank 1254 1260 medida
-T155 Term-AttentionRank 98 106 carácter
-T156 Term-AttentionRank 1139 1147 carácter
-T157 Term-AttentionRank 622 625 fin
-T158 Term-AttentionRank 1572 1575 fin
-T159 Term-AttentionRank 6 16 conversión
-T160 Term-AttentionRank 432 442 conversión
-T161 Term-AttentionRank 866 876 conversión
-T162 Term-AttentionRank 1538 1547 formación
-T163 Term-AttentionRank 288 296 artículo
-T164 Term-AttentionRank 517 526 artículos
-T165 Term-AttentionRank 1298 1308 denegación
-T166 Term-AttentionRank 1078 1092 procedimientos
-T167 Term-AttentionRank 1115 1123 convenio
-T168 Term-AttentionRank 1420 1429 convenios
-T169 Term-AttentionRank 206 218 modificación
-T170 Term-AttentionRank 55 70 trabajo parcial
-T171 Term-AttentionRank 1480 1495 acceso efectivo
-T172 Term-AttentionRank 373 380 sanción
-T173 Term-AttentionRank 206 229 modificación sustancial
-T174 Term-AttentionRank 1420 1440 convenios colectivos
-T175 Term-AttentionRank 1420 1440 convenios colectivos
-T176 Term-AttentionRank 608 618 producción
-T177 Term-AttentionRank 126 136 trabajador
-T178 Term-AttentionRank 309 319 trabajador
-T179 Term-AttentionRank 1368 1378 trabajador
-T180 Term-AttentionRank 733 745 trabajadores
-T181 Term-AttentionRank 1014 1026 trabajadores
-T182 Term-AttentionRank 1503 1515 trabajadores
-T183 Term-AttentionRank 448 472 perjuicio de las medidas
-T184 Term-AttentionRank 783 790 puestos
-T185 Term-AttentionRank 560 577 causas económicas
-T186 Term-AttentionRank 752 759 empresa
-T187 Term-AttentionRank 162 167 forma
-T188 Term-AttentionRank 481 492 conformidad
-T189 Term-AttentionRank 1058 1069 conformidad
-T190 Term-AttentionRank 383 389 efecto
-T191 Term-AttentionRank 1115 1133 convenio colectivo
-T192 Term-AttentionRank 681 695 tiempo parcial
-T193 Term-AttentionRank 936 950 tiempo parcial
-T194 Term-AttentionRank 1029 1043 tiempo parcial
-T195 Term-AttentionRank 1518 1532 tiempo parcial
-T196 Term-AttentionRank 1233 1246 consideración
-T197 Term-AttentionRank 23 30 trabajo
-T198 Term-AttentionRank 55 62 trabajo
-T199 Term-AttentionRank 248 255 trabajo
-T200 Term-AttentionRank 671 678 trabajo
-T201 Term-AttentionRank 794 801 trabajo
-T202 Term-AttentionRank 894 901 trabajo
-T203 Term-AttentionRank 926 933 trabajo
-T204 Term-AttentionRank 999 1006 trabajo
-T205 Term-AttentionRank 1538 1559 formación profesional
-T206 Term-AttentionRank 851 862 solicitudes
-T207 Term-AttentionRank 1161 1172 solicitudes
-T208 Term-AttentionRank 1315 1324 solicitud
-T209 Term-AttentionRank 700 710 empresario
-T210 Term-AttentionRank 1283 1293 empresario
-T211 Term-AttentionRank 1354 1364 empresario
-T212 Term-LabourLaw 233 255 condiciones de trabajo
-T213 Term-LabourLaw 1538 1568 formación profesional continua
-T214 Term-LabourLaw 1115 1133 convenio colectivo
-T215 Term-LabourLaw 1538 1559 formación profesional
-T216 Term-LabourLaw 681 695 tiempo parcial
-T217 Term-LabourLaw 936 950 tiempo parcial
-T218 Term-LabourLaw 1029 1043 tiempo parcial
-T219 Term-LabourLaw 1518 1532 tiempo parcial
-T220 Term-LabourLaw 206 229 modificación sustancial
-T221 Term-LabourLaw 206 218 modificación
-T222 Term-LabourLaw 23 30 trabajo
-T223 Term-LabourLaw 55 62 trabajo
-T224 Term-LabourLaw 248 255 trabajo
-T225 Term-LabourLaw 671 678 trabajo
-T226 Term-LabourLaw 794 801 trabajo
-T227 Term-LabourLaw 894 901 trabajo
-T228 Term-LabourLaw 926 933 trabajo
-T229 Term-LabourLaw 999 1006 trabajo
-T230 Term-LabourLaw 261 265 paro
-T231 Term-LabourLaw 465 471 medida
-T232 Term-LabourLaw 1254 1260 medida
-T233 Term-LabourLaw 1454 1460 medida
-T234 Term-LabourLaw 126 136 trabajador
-T235 Term-LabourLaw 309 319 trabajador
-T236 Term-LabourLaw 733 743 trabajador
-T237 Term-LabourLaw 1014 1024 trabajador
-T238 Term-LabourLaw 1368 1378 trabajador
-T239 Term-LabourLaw 1503 1513 trabajador
-T240 Term-LabourLaw 1538 1547 formación
-T241 Term-LabourLaw 168 178 unilateral
-T242 Term-LabourLaw 711 716 deber
-T243 Term-LabourLaw 1210 1215 deber
-T244 Term-LabourLaw 1325 1330 deber
-T245 Term-LabourLaw 700 710 empresario
-T246 Term-LabourLaw 1283 1293 empresario
-T247 Term-LabourLaw 1354 1364 empresario
-T248 Term-LabourLaw 373 380 sanción
-T249 Term-LabourLaw 259 265 amparo
-T250 Term-LabourLaw 481 492 conformidad
-T251 Term-LabourLaw 1058 1069 conformidad
-T252 Term-LabourLaw 700 707 empresa
-T253 Term-LabourLaw 752 759 empresa
-T254 Term-LabourLaw 1283 1290 empresa
-T255 Term-LabourLaw 1354 1361 empresa
-T256 Term-LabourLaw 1078 1091 procedimiento
-T257 Term-LabourLaw 448 457 perjuicio
-T258 Term-LabourLaw 1124 1133 colectivo
-T259 Term-LabourLaw 1430 1439 colectivo
-T260 Term-IATE 851 862 solicitudes
-T261 Term-IATE 1161 1172 solicitudes
-T262 Term-IATE 1315 1324 solicitud
-T263 Term-IATE 206 218 modificación
-T264 Term-IATE 288 296 artículo
-T265 Term-IATE 517 526 artículos
-T266 Term-IATE 752 759 empresa
-T267 Term-IATE 481 492 conformidad
-T268 Term-IATE 1058 1069 conformidad
-T269 Term-IATE 700 710 empresario
-T270 Term-IATE 1283 1293 empresario
-T271 Term-IATE 1354 1364 empresario
-T272 Term-IATE 373 380 sanción
-T273 Term-IATE 1078 1092 procedimientos
-T274 Term-IATE 126 136 trabajador
-T275 Term-IATE 309 319 trabajador
-T276 Term-IATE 1368 1378 trabajador
-T277 Term-IATE 733 745 trabajadores
-T278 Term-IATE 1014 1026 trabajadores
-T279 Term-IATE 1503 1515 trabajadores
-T280 Term-IATE 6 16 conversión
-T281 Term-IATE 432 442 conversión
-T282 Term-IATE 866 876 conversión
-T283 Term-IATE 98 106 carácter
-T284 Term-IATE 1139 1147 carácter
-T285 Term-IATE 383 389 efecto
-T286 Term-IATE 1115 1123 convenio
-T287 Term-IATE 1420 1429 convenios
-T288 Term-IATE 1538 1547 formación
+T1	Term-DPEJ 365 369	tipo
+T2	Term-DPEJ 23 30	trabajo
+T3	Term-DPEJ 55 62	trabajo
+T4	Term-DPEJ 248 255	trabajo
+T5	Term-DPEJ 671 678	trabajo
+T6	Term-DPEJ 794 801	trabajo
+T7	Term-DPEJ 894 901	trabajo
+T8	Term-DPEJ 926 933	trabajo
+T9	Term-DPEJ 999 1006	trabajo
+T10	Term-DPEJ 752 759	empresa
+T11	Term-DPEJ 1115 1123	convenio
+T12	Term-DPEJ 1420 1429	convenios
+T13	Term-DPEJ 481 492	conformidad
+T14	Term-DPEJ 1058 1069	conformidad
+T15	Term-DPEJ 186 198	consecuencia
+T16	Term-DPEJ 162 167	forma
+T17	Term-DPEJ 560 566	causas
+T18	Term-DPEJ 206 218	modificación
+T19	Term-DPEJ 1115 1133	convenio colectivo
+T20	Term-DPEJ 1420 1440	convenios colectivos
+T21	Term-DPEJ 33 39	tiempo
+T22	Term-DPEJ 681 687	tiempo
+T23	Term-DPEJ 904 910	tiempo
+T24	Term-DPEJ 936 942	tiempo
+T25	Term-DPEJ 989 995	tiempo
+T26	Term-DPEJ 1029 1035	tiempo
+T27	Term-DPEJ 1518 1524	tiempo
+T28	Term-DPEJ 783 790	puestos
+T29	Term-DPEJ 373 380	sanción
+T30	Term-DPEJ 1298 1308	denegación
+T31	Term-DPEJ 465 472	medidas
+T32	Term-DPEJ 1454 1461	medidas
+T33	Term-DPEJ 1254 1260	medida
+T34	Term-DPEJ 288 296	artículo
+T35	Term-DPEJ 517 526	artículos
+T36	Term-DPEJ 1078 1092	procedimientos
+T37	Term-Termcat 1115 1123	convenio
+T38	Term-Termcat 1420 1429	convenios
+T39	Term-Termcat 432 442	conversión
+T40	Term-Termcat 866 876	conversión
+T41	Term-Termcat 6 16	conversión
+T42	Term-Termcat 851 862	solicitudes
+T43	Term-Termcat 1161 1172	solicitudes
+T44	Term-Termcat 1315 1324	solicitud
+T45	Term-Termcat 162 167	forma
+T46	Term-Termcat 373 380	sanción
+T47	Term-Termcat 288 296	artículo
+T48	Term-Termcat 517 526	artículos
+T49	Term-Termcat 233 255	condiciones de trabajo
+T50	Term-Termcat 1115 1133	convenio colectivo
+T51	Term-Termcat 1420 1440	convenios colectivos
+T52	Term-Termcat 752 759	empresa
+T53	Term-Termcat 794 801	trabajo
+T54	Term-Termcat 55 62	trabajo
+T55	Term-Termcat 1538 1568	formación profesional continua
+T56	Term-Termcat 802 810	vacantes
+T57	Term-Termcat 989 1006	tiempo de trabajo
+T58	Term-Termcat 894 919	trabajo a tiempo completo
+T59	Term-Termcat 23 48	trabajo a tiempo completo
+T60	Term-Termcat 671 695	trabajo a tiempo parcial
+T61	Term-Termcat 926 950	trabajo a tiempo parcial
+T62	Term-Termcat 206 218	modificación
+T63	Term-Termcat 481 492	conformidad
+T64	Term-Termcat 1058 1069	conformidad
+T65	Term-Termcat 1480 1486	acceso
+T66	Term-Termcat 560 577	causas económicas
+T67	Term-Termcat 383 389	efecto
+T68	Term-Termcat 999 1006	trabajo
+T69	Term-Termcat 409 414	hecho
+T70	Term-Termcat 365 369	tipo
+T71	Term-Termcat 448 457	perjuicio
+T72	Term-Termcat 1078 1092	procedimientos
+T73	Term-Termcat 608 618	producción
+T74	Term-Termcat 168 178	unilateral
+T75	Term-Termcat 259 265	amparo
+T76	Term-Termcat 842 850	formular
+T77	Term-Termcat 1592 1602	progresión
+T78	Term-DV 129 133	baja
+T79	Term-DV 312 316	baja
+T80	Term-DV 736 740	baja
+T81	Term-DV 1017 1021	baja
+T82	Term-DV 1371 1375	baja
+T83	Term-DV 1506 1510	baja
+T84	Term-DV 560 565	causa
+T85	Term-DV 711 715	debe
+T86	Term-DV 1210 1214	debe
+T87	Term-DV 1325 1329	debe
+T88	Term-DV 700 707	empresa
+T89	Term-DV 752 759	empresa
+T90	Term-DV 1283 1290	empresa
+T91	Term-DV 1354 1361	empresa
+T92	Term-DV 700 710	empresario
+T93	Term-DV 1283 1293	empresario
+T94	Term-DV 1354 1364	empresario
+T95	Term-DV 384 386	fe
+T96	Term-DV 1488 1490	fe
+T97	Term-DV 1551 1553	fe
+T98	Term-DV 1618 1620	fe
+T99	Term-DV 162 167	forma
+T100	Term-DV 720 725	forma
+T101	Term-DV 1538 1543	forma
+T102	Term-DV 409 414	hecho
+T103	Term-DV 393 401	judicial
+T104	Term-DV 451 457	juicio
+T105	Term-DV 1126 1133	lectivo
+T106	Term-DV 1432 1439	lectivo
+T107	Term-DV 723 726	mar
+T108	Term-DV 1300 1308	negación
+T109	Term-DV 169 172	nil
+T110	Term-DV 63 70	parcial
+T111	Term-DV 688 695	parcial
+T112	Term-DV 943 950	parcial
+T113	Term-DV 1036 1043	parcial
+T114	Term-DV 1525 1532	parcial
+T115	Term-DV 118 122	para
+T116	Term-DV 966 970	para
+T117	Term-DV 1462 1466	para
+T118	Term-DV 448 457	perjuicio
+T119	Term-DV 1267 1274	posible
+T120	Term-DV 1078 1091	procedimiento
+T121	Term-DV 1548 1559	profesional
+T122	Term-DV 1615 1626	profesional
+T123	Term-DV 373 380	sanción
+T124	Term-DV 851 860	solicitud
+T125	Term-DV 1161 1170	solicitud
+T126	Term-DV 1315 1324	solicitud
+T127	Term-DV 126 136	trabajador
+T128	Term-DV 309 319	trabajador
+T129	Term-DV 733 743	trabajador
+T130	Term-DV 1014 1024	trabajador
+T131	Term-DV 1368 1378	trabajador
+T132	Term-DV 1503 1513	trabajador
+T133	Term-DV 802 809	vacante
+T134	Term-DV 73 77	vice
+T135	Term-DV 953 957	vice
+T136	Term-DV 646 649	vil
+T137	Term-DV 1607 1610	vil
+T138	Term-DV 770 771	x
+T139	Term-AttentionRank 33 39	tiempo
+T140	Term-AttentionRank 681 687	tiempo
+T141	Term-AttentionRank 904 910	tiempo
+T142	Term-AttentionRank 936 942	tiempo
+T143	Term-AttentionRank 989 995	tiempo
+T144	Term-AttentionRank 1029 1035	tiempo
+T145	Term-AttentionRank 1518 1524	tiempo
+T146	Term-AttentionRank 33 48	tiempo completo
+T147	Term-AttentionRank 904 919	tiempo completo
+T148	Term-AttentionRank 186 198	consecuencia
+T149	Term-AttentionRank 560 566	causas
+T150	Term-AttentionRank 815 821	manera
+T151	Term-AttentionRank 1396 1402	manera
+T152	Term-AttentionRank 465 472	medidas
+T153	Term-AttentionRank 1454 1461	medidas
+T154	Term-AttentionRank 1254 1260	medida
+T155	Term-AttentionRank 98 106	carácter
+T156	Term-AttentionRank 1139 1147	carácter
+T157	Term-AttentionRank 622 625	fin
+T158	Term-AttentionRank 1572 1575	fin
+T159	Term-AttentionRank 6 16	conversión
+T160	Term-AttentionRank 432 442	conversión
+T161	Term-AttentionRank 866 876	conversión
+T162	Term-AttentionRank 1538 1547	formación
+T163	Term-AttentionRank 288 296	artículo
+T164	Term-AttentionRank 517 526	artículos
+T165	Term-AttentionRank 1298 1308	denegación
+T166	Term-AttentionRank 1078 1092	procedimientos
+T167	Term-AttentionRank 1115 1123	convenio
+T168	Term-AttentionRank 1420 1429	convenios
+T169	Term-AttentionRank 206 218	modificación
+T170	Term-AttentionRank 55 70	trabajo parcial
+T171	Term-AttentionRank 1480 1495	acceso efectivo
+T172	Term-AttentionRank 373 380	sanción
+T173	Term-AttentionRank 206 229	modificación sustancial
+T174	Term-AttentionRank 1420 1440	convenios colectivos
+T175	Term-AttentionRank 1420 1440	convenios colectivos
+T176	Term-AttentionRank 608 618	producción
+T177	Term-AttentionRank 126 136	trabajador
+T178	Term-AttentionRank 309 319	trabajador
+T179	Term-AttentionRank 1368 1378	trabajador
+T180	Term-AttentionRank 733 745	trabajadores
+T181	Term-AttentionRank 1014 1026	trabajadores
+T182	Term-AttentionRank 1503 1515	trabajadores
+T183	Term-AttentionRank 448 472	perjuicio de las medidas
+T184	Term-AttentionRank 783 790	puestos
+T185	Term-AttentionRank 560 577	causas económicas
+T186	Term-AttentionRank 752 759	empresa
+T187	Term-AttentionRank 162 167	forma
+T188	Term-AttentionRank 481 492	conformidad
+T189	Term-AttentionRank 1058 1069	conformidad
+T190	Term-AttentionRank 383 389	efecto
+T191	Term-AttentionRank 1115 1133	convenio colectivo
+T192	Term-AttentionRank 681 695	tiempo parcial
+T193	Term-AttentionRank 936 950	tiempo parcial
+T194	Term-AttentionRank 1029 1043	tiempo parcial
+T195	Term-AttentionRank 1518 1532	tiempo parcial
+T196	Term-AttentionRank 1233 1246	consideración
+T197	Term-AttentionRank 23 30	trabajo
+T198	Term-AttentionRank 55 62	trabajo
+T199	Term-AttentionRank 248 255	trabajo
+T200	Term-AttentionRank 671 678	trabajo
+T201	Term-AttentionRank 794 801	trabajo
+T202	Term-AttentionRank 894 901	trabajo
+T203	Term-AttentionRank 926 933	trabajo
+T204	Term-AttentionRank 999 1006	trabajo
+T205	Term-AttentionRank 1538 1559	formación profesional
+T206	Term-AttentionRank 851 862	solicitudes
+T207	Term-AttentionRank 1161 1172	solicitudes
+T208	Term-AttentionRank 1315 1324	solicitud
+T209	Term-AttentionRank 700 710	empresario
+T210	Term-AttentionRank 1283 1293	empresario
+T211	Term-AttentionRank 1354 1364	empresario
+T212	Term-LabourLaw 233 255	condiciones de trabajo
+T213	Term-LabourLaw 1538 1568	formación profesional continua
+T214	Term-LabourLaw 1115 1133	convenio colectivo
+T215	Term-LabourLaw 1538 1559	formación profesional
+T216	Term-LabourLaw 681 695	tiempo parcial
+T217	Term-LabourLaw 936 950	tiempo parcial
+T218	Term-LabourLaw 1029 1043	tiempo parcial
+T219	Term-LabourLaw 1518 1532	tiempo parcial
+T220	Term-LabourLaw 206 229	modificación sustancial
+T221	Term-LabourLaw 206 218	modificación
+T222	Term-LabourLaw 23 30	trabajo
+T223	Term-LabourLaw 55 62	trabajo
+T224	Term-LabourLaw 248 255	trabajo
+T225	Term-LabourLaw 671 678	trabajo
+T226	Term-LabourLaw 794 801	trabajo
+T227	Term-LabourLaw 894 901	trabajo
+T228	Term-LabourLaw 926 933	trabajo
+T229	Term-LabourLaw 999 1006	trabajo
+T230	Term-LabourLaw 261 265	paro
+T231	Term-LabourLaw 465 471	medida
+T232	Term-LabourLaw 1254 1260	medida
+T233	Term-LabourLaw 1454 1460	medida
+T234	Term-LabourLaw 126 136	trabajador
+T235	Term-LabourLaw 309 319	trabajador
+T236	Term-LabourLaw 733 743	trabajador
+T237	Term-LabourLaw 1014 1024	trabajador
+T238	Term-LabourLaw 1368 1378	trabajador
+T239	Term-LabourLaw 1503 1513	trabajador
+T240	Term-LabourLaw 1538 1547	formación
+T241	Term-LabourLaw 168 178	unilateral
+T242	Term-LabourLaw 711 716	deber
+T243	Term-LabourLaw 1210 1215	deber
+T244	Term-LabourLaw 1325 1330	deber
+T245	Term-LabourLaw 700 710	empresario
+T246	Term-LabourLaw 1283 1293	empresario
+T247	Term-LabourLaw 1354 1364	empresario
+T248	Term-LabourLaw 373 380	sanción
+T249	Term-LabourLaw 259 265	amparo
+T250	Term-LabourLaw 481 492	conformidad
+T251	Term-LabourLaw 1058 1069	conformidad
+T252	Term-LabourLaw 700 707	empresa
+T253	Term-LabourLaw 752 759	empresa
+T254	Term-LabourLaw 1283 1290	empresa
+T255	Term-LabourLaw 1354 1361	empresa
+T256	Term-LabourLaw 1078 1091	procedimiento
+T257	Term-LabourLaw 448 457	perjuicio
+T258	Term-LabourLaw 1124 1133	colectivo
+T259	Term-LabourLaw 1430 1439	colectivo
+T260	Term-IATE 851 862	solicitudes
+T261	Term-IATE 1161 1172	solicitudes
+T262	Term-IATE 1315 1324	solicitud
+T263	Term-IATE 206 218	modificación
+T264	Term-IATE 288 296	artículo
+T265	Term-IATE 517 526	artículos
+T266	Term-IATE 752 759	empresa
+T267	Term-IATE 481 492	conformidad
+T268	Term-IATE 1058 1069	conformidad
+T269	Term-IATE 700 710	empresario
+T270	Term-IATE 1283 1293	empresario
+T271	Term-IATE 1354 1364	empresario
+T272	Term-IATE 373 380	sanción
+T273	Term-IATE 1078 1092	procedimientos
+T274	Term-IATE 126 136	trabajador
+T275	Term-IATE 309 319	trabajador
+T276	Term-IATE 1368 1378	trabajador
+T277	Term-IATE 733 745	trabajadores
+T278	Term-IATE 1014 1026	trabajadores
+T279	Term-IATE 1503 1515	trabajadores
+T280	Term-IATE 6 16	conversión
+T281	Term-IATE 432 442	conversión
+T282	Term-IATE 866 876	conversión
+T283	Term-IATE 98 106	carácter
+T284	Term-IATE 1139 1147	carácter
+T285	Term-IATE 383 389	efecto
+T286	Term-IATE 1115 1123	convenio
+T287	Term-IATE 1420 1429	convenios
+T288	Term-IATE 1538 1547	formación

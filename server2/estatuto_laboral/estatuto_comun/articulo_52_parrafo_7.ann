@@ -1,335 +1,335 @@
-T1 Term-DPEJ 1343 1347 caso
-T2 Term-DPEJ 40 48 acuerdos
-T3 Term-DPEJ 629 636 trabajo
-T4 Term-DPEJ 924 931 empresa
-T5 Term-DPEJ 1409 1416 empresa
-T6 Term-DPEJ 1567 1574 empresa
-T7 Term-DPEJ 144 148 dolo
-T8 Term-DPEJ 616 625 contratos
-T9 Term-DPEJ 1479 1488 contratos
-T10 Term-DPEJ 1088 1097 condición
-T11 Term-DPEJ 484 489 causa
-T12 Term-DPEJ 576 581 causa
-T13 Term-DPEJ 1586 1594 traslado
-T14 Term-DPEJ 245 252 entidad
-T15 Term-DPEJ 245 260 entidad gestora
-T16 Term-DPEJ 809 817 apartado
-T17 Term-DPEJ 1174 1184 resolución
-T18 Term-DPEJ 599 608 extinción
-T19 Term-DPEJ 1462 1471 extinción
-T20 Term-DPEJ 323 331 decisión
-T21 Term-DPEJ 1444 1452 decisión
-T22 Term-DPEJ 1604 1612 decisión
-T23 Term-DPEJ 753 766 procedimiento
-T24 Term-DPEJ 873 886 procedimiento
-T25 Term-DPEJ 1156 1169 procedimiento
-T26 Term-DPEJ 1519 1524 fecha
-T27 Term-DPEJ 217 224 nulidad
-T28 Term-DPEJ 708 714 número
-T29 Term-Termcat 3 12 autoridad
-T30 Term-Termcat 1191 1200 autoridad
-T31 Term-Termcat 1661 1670 autoridad
-T32 Term-Termcat 667 676 autoridad
-T33 Term-Termcat 1088 1097 condición
-T34 Term-Termcat 202 224 declaración de nulidad
-T35 Term-Termcat 1247 1255 informes
-T36 Term-Termcat 245 252 entidad
-T37 Term-Termcat 908 917 solicitud
-T38 Term-Termcat 1307 1316 solicitud
-T39 Term-Termcat 961 967 prueba
-T40 Term-Termcat 1174 1184 resolución
-T41 Term-Termcat 1278 1283 plazo
-T42 Term-Termcat 1140 1151 tramitación
-T43 Term-Termcat 161 177 abuso de derecho
-T44 Term-Termcat 1535 1543 causante
-T45 Term-Termcat 1479 1488 contratos
-T46 Term-Termcat 616 625 contratos
-T47 Term-Termcat 144 148 dolo
-T48 Term-Termcat 557 569 fuerza mayor
-T49 Term-Termcat 1381 1393 fuerza mayor
-T50 Term-Termcat 1550 1562 fuerza mayor
-T51 Term-Termcat 136 142 fraude
-T52 Term-Termcat 217 224 nulidad
-T53 Term-Termcat 1022 1036 representantes
-T54 Term-Termcat 1619 1633 representantes
-T55 Term-Termcat 1003 1015 comunicación
-T56 Term-Termcat 1101 1106 parte
-T57 Term-Termcat 425 430 parte
-T58 Term-Termcat 526 535 desempleo
-T59 Term-Termcat 285 294 desempleo
-T60 Term-Termcat 667 684 autoridad laboral
-T61 Term-Termcat 3 20 autoridad laboral
-T62 Term-Termcat 1191 1208 autoridad laboral
-T63 Term-Termcat 1661 1678 autoridad laboral
-T64 Term-Termcat 1409 1416 empresa
-T65 Term-Termcat 924 931 empresa
-T66 Term-Termcat 1567 1574 empresa
-T67 Term-Termcat 629 636 trabajo
-T68 Term-Termcat 1101 1117 parte interesada
-T69 Term-Termcat 1586 1594 traslado
-T70 Term-Termcat 1604 1612 decisión
-T71 Term-Termcat 323 331 decisión
-T72 Term-Termcat 1444 1452 decisión
-T73 Term-Termcat 844 854 desarrollo
-T74 Term-Termcat 170 177 derecho
-T75 Term-Termcat 599 608 extinción
-T76 Term-Termcat 1462 1471 extinción
-T77 Term-Termcat 951 957 medios
-T78 Term-Termcat 40 48 acuerdos
-T79 Term-Termcat 1233 1244 actuaciones
-T80 Term-Termcat 484 489 causa
-T81 Term-Termcat 576 581 causa
-T82 Term-Termcat 150 158 coacción
-T83 Term-Termcat 777 785 conforme
-T84 Term-Termcat 202 213 declaración
-T85 Term-Termcat 1502 1509 efectos
-T86 Term-Termcat 180 187 efectos
-T87 Term-Termcat 342 353 empresarial
-T88 Term-Termcat 245 260 entidad gestora
-T89 Term-Termcat 1529 1534 hecho
-T90 Term-Termcat 517 522 legal
-T91 Term-Termcat 1037 1044 legales
-T92 Term-Termcat 873 886 procedimiento
-T93 Term-Termcat 753 766 procedimiento
-T94 Term-Termcat 1156 1169 procedimiento
-T95 Term-Termcat 27 35 impugnar
-T96 Term-Termcat 1022 1044 representantes legales
-T97 Term-Termcat 1582 1594 dar traslado
-T98 Term-DV 557 569 fuerza mayor
-T99 Term-DV 1381 1393 fuerza mayor
-T100 Term-DV 1550 1562 fuerza mayor
-T101 Term-DV 1101 1117 parte interesada
-T102 Term-DV 161 166 abuso
-T103 Term-DV 152 158 acción
-T104 Term-DV 441 445 baja
-T105 Term-DV 725 729 baja
-T106 Term-DV 1055 1059 baja
-T107 Term-DV 1644 1648 baja
-T108 Term-DV 396 399 bid
-T109 Term-DV 396 399 bid
-T110 Term-DV 484 489 causa
-T111 Term-DV 576 581 causa
-T112 Term-DV 1535 1540 causa
-T113 Term-DV 1535 1543 causante
-T114 Term-DV 150 158 coacción
-T115 Term-DV 1003 1015 comunicación
-T116 Term-DV 1088 1097 condición
-T117 Term-DV 1582 1585 dar
-T118 Term-DV 638 642 debe
-T119 Term-DV 1319 1323 debe
-T120 Term-DV 1575 1579 debe
-T121 Term-DV 323 331 decisión
-T122 Term-DV 1444 1452 decisión
-T123 Term-DV 1604 1612 decisión
-T124 Term-DV 202 213 declaración
-T125 Term-DV 170 177 derecho
-T126 Term-DV 1293 1296 día
-T127 Term-DV 1212 1218 dictar
-T128 Term-DV 953 957 dios
-T129 Term-DV 1258 1266 dispensa
-T130 Term-DV 144 148 dolo
-T131 Term-DV 180 187 efectos
-T132 Term-DV 1502 1509 efectos
-T133 Term-DV 342 349 empresa
-T134 Term-DV 924 931 empresa
-T135 Term-DV 1409 1416 empresa
-T136 Term-DV 1567 1574 empresa
-T137 Term-DV 181 183 fe
-T138 Term-DV 452 454 fe
-T139 Term-DV 736 738 fe
-T140 Term-DV 1503 1505 fe
-T141 Term-DV 1519 1521 fe
-T142 Term-DV 305 310 forma
-T143 Term-DV 136 142 fraude
-T144 Term-DV 557 563 fuerza
-T145 Term-DV 1381 1387 fuerza
-T146 Term-DV 1550 1556 fuerza
-T147 Term-DV 1529 1534 hecho
-T148 Term-DV 13 20 laboral
-T149 Term-DV 677 684 laboral
-T150 Term-DV 1201 1208 laboral
-T151 Term-DV 1671 1678 laboral
-T152 Term-DV 517 522 legal
-T153 Term-DV 1037 1042 legal
-T154 Term-DV 217 224 nulidad
-T155 Term-DV 372 378 objeto
-T156 Term-DV 425 430 parte
-T157 Term-DV 1101 1106 parte
-T158 Term-DV 1278 1283 plazo
-T159 Term-DV 194 201 posible
-T160 Term-DV 830 840 posiciones
-T161 Term-DV 753 766 procedimiento
-T162 Term-DV 873 886 procedimiento
-T163 Term-DV 1156 1169 procedimiento
-T164 Term-DV 961 967 prueba
-T165 Term-DV 620 624 rato
-T166 Term-DV 1483 1487 rato
-T167 Term-DV 855 866 reglamentar
-T168 Term-DV 908 917 solicitud
-T169 Term-DV 1307 1316 solicitud
-T170 Term-DV 438 448 trabajador
-T171 Term-DV 722 732 trabajador
-T172 Term-DV 1052 1062 trabajador
-T173 Term-DV 1641 1651 trabajador
-T174 Term-DV 1586 1594 traslado
-T175 Term-DV 333 334 x
-T176 Term-DV 468 469 x
-T177 Term-DV 544 545 x
-T178 Term-DV 600 601 x
-T179 Term-DV 1365 1366 x
-T180 Term-DV 1463 1464 x
-T181 Term-AttentionRank 507 516 situación
-T182 Term-AttentionRank 844 854 desarrollo
-T183 Term-AttentionRank 1022 1036 representantes
-T184 Term-AttentionRank 1619 1633 representantes
-T185 Term-AttentionRank 425 430 parte
-T186 Term-AttentionRank 1101 1106 parte
-T187 Term-AttentionRank 1022 1044 representantes legales
-T188 Term-AttentionRank 1022 1044 representantes legales
-T189 Term-AttentionRank 1174 1184 resolución
-T190 Term-AttentionRank 40 48 acuerdos
-T191 Term-AttentionRank 3 12 autoridad
-T192 Term-AttentionRank 667 676 autoridad
-T193 Term-AttentionRank 1191 1200 autoridad
-T194 Term-AttentionRank 1661 1670 autoridad
-T195 Term-AttentionRank 1293 1297 días
-T196 Term-AttentionRank 1140 1151 tramitación
-T197 Term-AttentionRank 484 489 causa
-T198 Term-AttentionRank 576 581 causa
-T199 Term-AttentionRank 438 460 trabajadores afectados
-T200 Term-AttentionRank 722 744 trabajadores afectados
-T201 Term-AttentionRank 76 85 consultas
-T202 Term-AttentionRank 753 776 procedimiento tramitado
-T203 Term-AttentionRank 65 72 periodo
-T204 Term-AttentionRank 1586 1594 traslado
-T205 Term-AttentionRank 180 190 efectos de
-T206 Term-AttentionRank 226 229 así
-T207 Term-AttentionRank 1519 1524 fecha
-T208 Term-AttentionRank 323 331 decisión
-T209 Term-AttentionRank 1444 1452 decisión
-T210 Term-AttentionRank 1604 1612 decisión
-T211 Term-AttentionRank 576 636 causa motivadora de la extinción de los contratos de trabajo
-T212 Term-AttentionRank 753 766 procedimiento
-T213 Term-AttentionRank 873 886 procedimiento
-T214 Term-AttentionRank 1156 1169 procedimiento
-T215 Term-AttentionRank 3 20 autoridad laboral
-T216 Term-AttentionRank 667 684 autoridad laboral
-T217 Term-AttentionRank 1191 1208 autoridad laboral
-T218 Term-AttentionRank 1661 1678 autoridad laboral
-T219 Term-AttentionRank 599 608 extinción
-T220 Term-AttentionRank 1462 1471 extinción
-T221 Term-AttentionRank 245 252 entidad
-T222 Term-AttentionRank 382 400 obtención indebida
-T223 Term-AttentionRank 484 500 causa motivadora
-T224 Term-AttentionRank 576 592 causa motivadora
-T225 Term-AttentionRank 1247 1255 informes
-T226 Term-AttentionRank 557 569 fuerza mayor
-T227 Term-AttentionRank 1381 1393 fuerza mayor
-T228 Term-AttentionRank 1550 1562 fuerza mayor
-T229 Term-AttentionRank 1003 1015 comunicación
-T230 Term-AttentionRank 438 450 trabajadores
-T231 Term-AttentionRank 722 734 trabajadores
-T232 Term-AttentionRank 1052 1064 trabajadores
-T233 Term-AttentionRank 1641 1653 trabajadores
-T234 Term-AttentionRank 1278 1283 plazo
-T235 Term-AttentionRank 924 931 empresa
-T236 Term-AttentionRank 1409 1416 empresa
-T237 Term-AttentionRank 1567 1574 empresa
-T238 Term-AttentionRank 844 868 desarrollo reglamentario
-T239 Term-AttentionRank 1088 1097 condición
-T240 Term-AttentionRank 40 85 acuerdos adoptados en el periodo de consultas
-T241 Term-AttentionRank 285 294 desempleo
-T242 Term-AttentionRank 526 535 desempleo
-T243 Term-AttentionRank 217 224 nulidad
-T244 Term-AttentionRank 323 341 decisión extintiva
-T245 Term-AttentionRank 961 967 prueba
-T246 Term-AttentionRank 170 177 derecho
-T247 Term-AttentionRank 708 714 número
-T248 Term-AttentionRank 616 625 contratos
-T249 Term-AttentionRank 1479 1488 contratos
-T250 Term-AttentionRank 180 187 efectos
-T251 Term-AttentionRank 1502 1509 efectos
-T252 Term-AttentionRank 629 636 trabajo
-T253 Term-AttentionRank 908 917 solicitud
-T254 Term-AttentionRank 1307 1316 solicitud
-T255 Term-AttentionRank 1343 1347 caso
-T256 Term-AttentionRank 809 817 apartado
-T257 Term-LabourLaw 202 224 declaración de nulidad
-T258 Term-LabourLaw 65 85 periodo de consultas
-T259 Term-LabourLaw 3 20 autoridad laboral
-T260 Term-LabourLaw 667 684 autoridad laboral
-T261 Term-LabourLaw 1191 1208 autoridad laboral
-T262 Term-LabourLaw 1661 1678 autoridad laboral
-T263 Term-LabourLaw 1101 1117 parte interesada
-T264 Term-LabourLaw 629 636 trabajo
-T265 Term-LabourLaw 152 158 acción
-T266 Term-LabourLaw 1586 1594 traslado
-T267 Term-LabourLaw 616 624 contrato
-T268 Term-LabourLaw 1479 1487 contrato
-T269 Term-LabourLaw 285 294 desempleo
-T270 Term-LabourLaw 526 535 desempleo
-T271 Term-LabourLaw 1022 1035 representante
-T272 Term-LabourLaw 1619 1632 representante
-T273 Term-LabourLaw 438 448 trabajador
-T274 Term-LabourLaw 722 732 trabajador
-T275 Term-LabourLaw 1052 1062 trabajador
-T276 Term-LabourLaw 1641 1651 trabajador
-T277 Term-LabourLaw 161 166 abuso
-T278 Term-LabourLaw 1088 1097 condición
-T279 Term-LabourLaw 638 643 deber
-T280 Term-LabourLaw 1319 1324 deber
-T281 Term-LabourLaw 1575 1580 deber
-T282 Term-LabourLaw 3 12 autoridad
-T283 Term-LabourLaw 667 676 autoridad
-T284 Term-LabourLaw 1191 1200 autoridad
-T285 Term-LabourLaw 1661 1670 autoridad
-T286 Term-LabourLaw 1140 1151 tramitación
-T287 Term-LabourLaw 342 349 empresa
-T288 Term-LabourLaw 924 931 empresa
-T289 Term-LabourLaw 1409 1416 empresa
-T290 Term-LabourLaw 1567 1574 empresa
-T291 Term-LabourLaw 753 766 procedimiento
-T292 Term-LabourLaw 873 886 procedimiento
-T293 Term-LabourLaw 1156 1169 procedimiento
-T294 Term-LabourLaw 170 177 derecho
-T295 Term-LabourLaw 253 259 gestor
-T296 Term-LabourLaw 65 72 periodo
-T297 Term-LabourLaw 288 294 empleo
-T298 Term-LabourLaw 529 535 empleo
-T299 Term-IATE 217 224 nulidad
-T300 Term-IATE 599 608 extinción
-T301 Term-IATE 1462 1471 extinción
-T302 Term-IATE 908 917 solicitud
-T303 Term-IATE 1307 1316 solicitud
-T304 Term-IATE 323 331 decisión
-T305 Term-IATE 1444 1452 decisión
-T306 Term-IATE 1604 1612 decisión
-T307 Term-IATE 425 430 parte
-T308 Term-IATE 1101 1106 parte
-T309 Term-IATE 1278 1283 plazo
-T310 Term-IATE 40 48 acuerdos
-T311 Term-IATE 1174 1184 resolución
-T312 Term-IATE 924 931 empresa
-T313 Term-IATE 1409 1416 empresa
-T314 Term-IATE 1567 1574 empresa
-T315 Term-IATE 1247 1255 informes
-T316 Term-IATE 507 516 situación
-T317 Term-IATE 76 85 consultas
-T318 Term-IATE 753 766 procedimiento
-T319 Term-IATE 873 886 procedimiento
-T320 Term-IATE 1156 1169 procedimiento
-T321 Term-IATE 285 294 desempleo
-T322 Term-IATE 526 535 desempleo
-T323 Term-IATE 809 817 apartado
-T324 Term-IATE 961 967 prueba
-T325 Term-IATE 438 450 trabajadores
-T326 Term-IATE 722 734 trabajadores
-T327 Term-IATE 1052 1064 trabajadores
-T328 Term-IATE 1641 1653 trabajadores
-T329 Term-IATE 245 252 entidad
-T330 Term-IATE 616 625 contratos
-T331 Term-IATE 1479 1488 contratos
-T332 Term-IATE 180 187 efectos
-T333 Term-IATE 1502 1509 efectos
-T334 Term-IATE 1022 1036 representantes
-T335 Term-IATE 1619 1633 representantes
+T1	Term-DPEJ 1343 1347	caso
+T2	Term-DPEJ 40 48	acuerdos
+T3	Term-DPEJ 629 636	trabajo
+T4	Term-DPEJ 924 931	empresa
+T5	Term-DPEJ 1409 1416	empresa
+T6	Term-DPEJ 1567 1574	empresa
+T7	Term-DPEJ 144 148	dolo
+T8	Term-DPEJ 616 625	contratos
+T9	Term-DPEJ 1479 1488	contratos
+T10	Term-DPEJ 1088 1097	condición
+T11	Term-DPEJ 484 489	causa
+T12	Term-DPEJ 576 581	causa
+T13	Term-DPEJ 1586 1594	traslado
+T14	Term-DPEJ 245 252	entidad
+T15	Term-DPEJ 245 260	entidad gestora
+T16	Term-DPEJ 809 817	apartado
+T17	Term-DPEJ 1174 1184	resolución
+T18	Term-DPEJ 599 608	extinción
+T19	Term-DPEJ 1462 1471	extinción
+T20	Term-DPEJ 323 331	decisión
+T21	Term-DPEJ 1444 1452	decisión
+T22	Term-DPEJ 1604 1612	decisión
+T23	Term-DPEJ 753 766	procedimiento
+T24	Term-DPEJ 873 886	procedimiento
+T25	Term-DPEJ 1156 1169	procedimiento
+T26	Term-DPEJ 1519 1524	fecha
+T27	Term-DPEJ 217 224	nulidad
+T28	Term-DPEJ 708 714	número
+T29	Term-Termcat 3 12	autoridad
+T30	Term-Termcat 1191 1200	autoridad
+T31	Term-Termcat 1661 1670	autoridad
+T32	Term-Termcat 667 676	autoridad
+T33	Term-Termcat 1088 1097	condición
+T34	Term-Termcat 202 224	declaración de nulidad
+T35	Term-Termcat 1247 1255	informes
+T36	Term-Termcat 245 252	entidad
+T37	Term-Termcat 908 917	solicitud
+T38	Term-Termcat 1307 1316	solicitud
+T39	Term-Termcat 961 967	prueba
+T40	Term-Termcat 1174 1184	resolución
+T41	Term-Termcat 1278 1283	plazo
+T42	Term-Termcat 1140 1151	tramitación
+T43	Term-Termcat 161 177	abuso de derecho
+T44	Term-Termcat 1535 1543	causante
+T45	Term-Termcat 1479 1488	contratos
+T46	Term-Termcat 616 625	contratos
+T47	Term-Termcat 144 148	dolo
+T48	Term-Termcat 557 569	fuerza mayor
+T49	Term-Termcat 1381 1393	fuerza mayor
+T50	Term-Termcat 1550 1562	fuerza mayor
+T51	Term-Termcat 136 142	fraude
+T52	Term-Termcat 217 224	nulidad
+T53	Term-Termcat 1022 1036	representantes
+T54	Term-Termcat 1619 1633	representantes
+T55	Term-Termcat 1003 1015	comunicación
+T56	Term-Termcat 1101 1106	parte
+T57	Term-Termcat 425 430	parte
+T58	Term-Termcat 526 535	desempleo
+T59	Term-Termcat 285 294	desempleo
+T60	Term-Termcat 667 684	autoridad laboral
+T61	Term-Termcat 3 20	autoridad laboral
+T62	Term-Termcat 1191 1208	autoridad laboral
+T63	Term-Termcat 1661 1678	autoridad laboral
+T64	Term-Termcat 1409 1416	empresa
+T65	Term-Termcat 924 931	empresa
+T66	Term-Termcat 1567 1574	empresa
+T67	Term-Termcat 629 636	trabajo
+T68	Term-Termcat 1101 1117	parte interesada
+T69	Term-Termcat 1586 1594	traslado
+T70	Term-Termcat 1604 1612	decisión
+T71	Term-Termcat 323 331	decisión
+T72	Term-Termcat 1444 1452	decisión
+T73	Term-Termcat 844 854	desarrollo
+T74	Term-Termcat 170 177	derecho
+T75	Term-Termcat 599 608	extinción
+T76	Term-Termcat 1462 1471	extinción
+T77	Term-Termcat 951 957	medios
+T78	Term-Termcat 40 48	acuerdos
+T79	Term-Termcat 1233 1244	actuaciones
+T80	Term-Termcat 484 489	causa
+T81	Term-Termcat 576 581	causa
+T82	Term-Termcat 150 158	coacción
+T83	Term-Termcat 777 785	conforme
+T84	Term-Termcat 202 213	declaración
+T85	Term-Termcat 1502 1509	efectos
+T86	Term-Termcat 180 187	efectos
+T87	Term-Termcat 342 353	empresarial
+T88	Term-Termcat 245 260	entidad gestora
+T89	Term-Termcat 1529 1534	hecho
+T90	Term-Termcat 517 522	legal
+T91	Term-Termcat 1037 1044	legales
+T92	Term-Termcat 873 886	procedimiento
+T93	Term-Termcat 753 766	procedimiento
+T94	Term-Termcat 1156 1169	procedimiento
+T95	Term-Termcat 27 35	impugnar
+T96	Term-Termcat 1022 1044	representantes legales
+T97	Term-Termcat 1582 1594	dar traslado
+T98	Term-DV 557 569	fuerza mayor
+T99	Term-DV 1381 1393	fuerza mayor
+T100	Term-DV 1550 1562	fuerza mayor
+T101	Term-DV 1101 1117	parte interesada
+T102	Term-DV 161 166	abuso
+T103	Term-DV 152 158	acción
+T104	Term-DV 441 445	baja
+T105	Term-DV 725 729	baja
+T106	Term-DV 1055 1059	baja
+T107	Term-DV 1644 1648	baja
+T108	Term-DV 396 399	bid
+T109	Term-DV 396 399	bid
+T110	Term-DV 484 489	causa
+T111	Term-DV 576 581	causa
+T112	Term-DV 1535 1540	causa
+T113	Term-DV 1535 1543	causante
+T114	Term-DV 150 158	coacción
+T115	Term-DV 1003 1015	comunicación
+T116	Term-DV 1088 1097	condición
+T117	Term-DV 1582 1585	dar
+T118	Term-DV 638 642	debe
+T119	Term-DV 1319 1323	debe
+T120	Term-DV 1575 1579	debe
+T121	Term-DV 323 331	decisión
+T122	Term-DV 1444 1452	decisión
+T123	Term-DV 1604 1612	decisión
+T124	Term-DV 202 213	declaración
+T125	Term-DV 170 177	derecho
+T126	Term-DV 1293 1296	día
+T127	Term-DV 1212 1218	dictar
+T128	Term-DV 953 957	dios
+T129	Term-DV 1258 1266	dispensa
+T130	Term-DV 144 148	dolo
+T131	Term-DV 180 187	efectos
+T132	Term-DV 1502 1509	efectos
+T133	Term-DV 342 349	empresa
+T134	Term-DV 924 931	empresa
+T135	Term-DV 1409 1416	empresa
+T136	Term-DV 1567 1574	empresa
+T137	Term-DV 181 183	fe
+T138	Term-DV 452 454	fe
+T139	Term-DV 736 738	fe
+T140	Term-DV 1503 1505	fe
+T141	Term-DV 1519 1521	fe
+T142	Term-DV 305 310	forma
+T143	Term-DV 136 142	fraude
+T144	Term-DV 557 563	fuerza
+T145	Term-DV 1381 1387	fuerza
+T146	Term-DV 1550 1556	fuerza
+T147	Term-DV 1529 1534	hecho
+T148	Term-DV 13 20	laboral
+T149	Term-DV 677 684	laboral
+T150	Term-DV 1201 1208	laboral
+T151	Term-DV 1671 1678	laboral
+T152	Term-DV 517 522	legal
+T153	Term-DV 1037 1042	legal
+T154	Term-DV 217 224	nulidad
+T155	Term-DV 372 378	objeto
+T156	Term-DV 425 430	parte
+T157	Term-DV 1101 1106	parte
+T158	Term-DV 1278 1283	plazo
+T159	Term-DV 194 201	posible
+T160	Term-DV 830 840	posiciones
+T161	Term-DV 753 766	procedimiento
+T162	Term-DV 873 886	procedimiento
+T163	Term-DV 1156 1169	procedimiento
+T164	Term-DV 961 967	prueba
+T165	Term-DV 620 624	rato
+T166	Term-DV 1483 1487	rato
+T167	Term-DV 855 866	reglamentar
+T168	Term-DV 908 917	solicitud
+T169	Term-DV 1307 1316	solicitud
+T170	Term-DV 438 448	trabajador
+T171	Term-DV 722 732	trabajador
+T172	Term-DV 1052 1062	trabajador
+T173	Term-DV 1641 1651	trabajador
+T174	Term-DV 1586 1594	traslado
+T175	Term-DV 333 334	x
+T176	Term-DV 468 469	x
+T177	Term-DV 544 545	x
+T178	Term-DV 600 601	x
+T179	Term-DV 1365 1366	x
+T180	Term-DV 1463 1464	x
+T181	Term-AttentionRank 507 516	situación
+T182	Term-AttentionRank 844 854	desarrollo
+T183	Term-AttentionRank 1022 1036	representantes
+T184	Term-AttentionRank 1619 1633	representantes
+T185	Term-AttentionRank 425 430	parte
+T186	Term-AttentionRank 1101 1106	parte
+T187	Term-AttentionRank 1022 1044	representantes legales
+T188	Term-AttentionRank 1022 1044	representantes legales
+T189	Term-AttentionRank 1174 1184	resolución
+T190	Term-AttentionRank 40 48	acuerdos
+T191	Term-AttentionRank 3 12	autoridad
+T192	Term-AttentionRank 667 676	autoridad
+T193	Term-AttentionRank 1191 1200	autoridad
+T194	Term-AttentionRank 1661 1670	autoridad
+T195	Term-AttentionRank 1293 1297	días
+T196	Term-AttentionRank 1140 1151	tramitación
+T197	Term-AttentionRank 484 489	causa
+T198	Term-AttentionRank 576 581	causa
+T199	Term-AttentionRank 438 460	trabajadores afectados
+T200	Term-AttentionRank 722 744	trabajadores afectados
+T201	Term-AttentionRank 76 85	consultas
+T202	Term-AttentionRank 753 776	procedimiento tramitado
+T203	Term-AttentionRank 65 72	periodo
+T204	Term-AttentionRank 1586 1594	traslado
+T205	Term-AttentionRank 180 190	efectos de
+T206	Term-AttentionRank 226 229	así
+T207	Term-AttentionRank 1519 1524	fecha
+T208	Term-AttentionRank 323 331	decisión
+T209	Term-AttentionRank 1444 1452	decisión
+T210	Term-AttentionRank 1604 1612	decisión
+T211	Term-AttentionRank 576 636	causa motivadora de la extinción de los contratos de trabajo
+T212	Term-AttentionRank 753 766	procedimiento
+T213	Term-AttentionRank 873 886	procedimiento
+T214	Term-AttentionRank 1156 1169	procedimiento
+T215	Term-AttentionRank 3 20	autoridad laboral
+T216	Term-AttentionRank 667 684	autoridad laboral
+T217	Term-AttentionRank 1191 1208	autoridad laboral
+T218	Term-AttentionRank 1661 1678	autoridad laboral
+T219	Term-AttentionRank 599 608	extinción
+T220	Term-AttentionRank 1462 1471	extinción
+T221	Term-AttentionRank 245 252	entidad
+T222	Term-AttentionRank 382 400	obtención indebida
+T223	Term-AttentionRank 484 500	causa motivadora
+T224	Term-AttentionRank 576 592	causa motivadora
+T225	Term-AttentionRank 1247 1255	informes
+T226	Term-AttentionRank 557 569	fuerza mayor
+T227	Term-AttentionRank 1381 1393	fuerza mayor
+T228	Term-AttentionRank 1550 1562	fuerza mayor
+T229	Term-AttentionRank 1003 1015	comunicación
+T230	Term-AttentionRank 438 450	trabajadores
+T231	Term-AttentionRank 722 734	trabajadores
+T232	Term-AttentionRank 1052 1064	trabajadores
+T233	Term-AttentionRank 1641 1653	trabajadores
+T234	Term-AttentionRank 1278 1283	plazo
+T235	Term-AttentionRank 924 931	empresa
+T236	Term-AttentionRank 1409 1416	empresa
+T237	Term-AttentionRank 1567 1574	empresa
+T238	Term-AttentionRank 844 868	desarrollo reglamentario
+T239	Term-AttentionRank 1088 1097	condición
+T240	Term-AttentionRank 40 85	acuerdos adoptados en el periodo de consultas
+T241	Term-AttentionRank 285 294	desempleo
+T242	Term-AttentionRank 526 535	desempleo
+T243	Term-AttentionRank 217 224	nulidad
+T244	Term-AttentionRank 323 341	decisión extintiva
+T245	Term-AttentionRank 961 967	prueba
+T246	Term-AttentionRank 170 177	derecho
+T247	Term-AttentionRank 708 714	número
+T248	Term-AttentionRank 616 625	contratos
+T249	Term-AttentionRank 1479 1488	contratos
+T250	Term-AttentionRank 180 187	efectos
+T251	Term-AttentionRank 1502 1509	efectos
+T252	Term-AttentionRank 629 636	trabajo
+T253	Term-AttentionRank 908 917	solicitud
+T254	Term-AttentionRank 1307 1316	solicitud
+T255	Term-AttentionRank 1343 1347	caso
+T256	Term-AttentionRank 809 817	apartado
+T257	Term-LabourLaw 202 224	declaración de nulidad
+T258	Term-LabourLaw 65 85	periodo de consultas
+T259	Term-LabourLaw 3 20	autoridad laboral
+T260	Term-LabourLaw 667 684	autoridad laboral
+T261	Term-LabourLaw 1191 1208	autoridad laboral
+T262	Term-LabourLaw 1661 1678	autoridad laboral
+T263	Term-LabourLaw 1101 1117	parte interesada
+T264	Term-LabourLaw 629 636	trabajo
+T265	Term-LabourLaw 152 158	acción
+T266	Term-LabourLaw 1586 1594	traslado
+T267	Term-LabourLaw 616 624	contrato
+T268	Term-LabourLaw 1479 1487	contrato
+T269	Term-LabourLaw 285 294	desempleo
+T270	Term-LabourLaw 526 535	desempleo
+T271	Term-LabourLaw 1022 1035	representante
+T272	Term-LabourLaw 1619 1632	representante
+T273	Term-LabourLaw 438 448	trabajador
+T274	Term-LabourLaw 722 732	trabajador
+T275	Term-LabourLaw 1052 1062	trabajador
+T276	Term-LabourLaw 1641 1651	trabajador
+T277	Term-LabourLaw 161 166	abuso
+T278	Term-LabourLaw 1088 1097	condición
+T279	Term-LabourLaw 638 643	deber
+T280	Term-LabourLaw 1319 1324	deber
+T281	Term-LabourLaw 1575 1580	deber
+T282	Term-LabourLaw 3 12	autoridad
+T283	Term-LabourLaw 667 676	autoridad
+T284	Term-LabourLaw 1191 1200	autoridad
+T285	Term-LabourLaw 1661 1670	autoridad
+T286	Term-LabourLaw 1140 1151	tramitación
+T287	Term-LabourLaw 342 349	empresa
+T288	Term-LabourLaw 924 931	empresa
+T289	Term-LabourLaw 1409 1416	empresa
+T290	Term-LabourLaw 1567 1574	empresa
+T291	Term-LabourLaw 753 766	procedimiento
+T292	Term-LabourLaw 873 886	procedimiento
+T293	Term-LabourLaw 1156 1169	procedimiento
+T294	Term-LabourLaw 170 177	derecho
+T295	Term-LabourLaw 253 259	gestor
+T296	Term-LabourLaw 65 72	periodo
+T297	Term-LabourLaw 288 294	empleo
+T298	Term-LabourLaw 529 535	empleo
+T299	Term-IATE 217 224	nulidad
+T300	Term-IATE 599 608	extinción
+T301	Term-IATE 1462 1471	extinción
+T302	Term-IATE 908 917	solicitud
+T303	Term-IATE 1307 1316	solicitud
+T304	Term-IATE 323 331	decisión
+T305	Term-IATE 1444 1452	decisión
+T306	Term-IATE 1604 1612	decisión
+T307	Term-IATE 425 430	parte
+T308	Term-IATE 1101 1106	parte
+T309	Term-IATE 1278 1283	plazo
+T310	Term-IATE 40 48	acuerdos
+T311	Term-IATE 1174 1184	resolución
+T312	Term-IATE 924 931	empresa
+T313	Term-IATE 1409 1416	empresa
+T314	Term-IATE 1567 1574	empresa
+T315	Term-IATE 1247 1255	informes
+T316	Term-IATE 507 516	situación
+T317	Term-IATE 76 85	consultas
+T318	Term-IATE 753 766	procedimiento
+T319	Term-IATE 873 886	procedimiento
+T320	Term-IATE 1156 1169	procedimiento
+T321	Term-IATE 285 294	desempleo
+T322	Term-IATE 526 535	desempleo
+T323	Term-IATE 809 817	apartado
+T324	Term-IATE 961 967	prueba
+T325	Term-IATE 438 450	trabajadores
+T326	Term-IATE 722 734	trabajadores
+T327	Term-IATE 1052 1064	trabajadores
+T328	Term-IATE 1641 1653	trabajadores
+T329	Term-IATE 245 252	entidad
+T330	Term-IATE 616 625	contratos
+T331	Term-IATE 1479 1488	contratos
+T332	Term-IATE 180 187	efectos
+T333	Term-IATE 1502 1509	efectos
+T334	Term-IATE 1022 1036	representantes
+T335	Term-IATE 1619 1633	representantes

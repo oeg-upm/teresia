@@ -1,319 +1,319 @@
-T1 Term-DPEJ 800 807 despido
-T2 Term-DPEJ 729 733 caso
-T3 Term-DPEJ 1594 1601 acuerdo
-T4 Term-DPEJ 711 718 mandato
-T5 Term-DPEJ 454 471 centro de trabajo
-T6 Term-DPEJ 1518 1535 centro de trabajo
-T7 Term-DPEJ 222 232 expediente
-T8 Term-DPEJ 464 471 trabajo
-T9 Term-DPEJ 1310 1317 trabajo
-T10 Term-DPEJ 1528 1535 trabajo
-T11 Term-DPEJ 27 34 empresa
-T12 Term-DPEJ 367 374 empresa
-T13 Term-DPEJ 444 451 empresa
-T14 Term-DPEJ 1385 1392 empresa
-T15 Term-DPEJ 159 168 convenios
-T16 Term-DPEJ 996 1015 promoción económica
-T17 Term-DPEJ 17 23 comité
-T18 Term-DPEJ 357 363 comité
-T19 Term-DPEJ 1134 1140 comité
-T20 Term-DPEJ 1480 1486 comité
-T21 Term-DPEJ 996 1005 promoción
-T22 Term-DPEJ 196 205 garantías
-T23 Term-DPEJ 555 561 causas
-T24 Term-DPEJ 528 538 suspensión
-T25 Term-DPEJ 17 34 comité de empresa
-T26 Term-DPEJ 357 374 comité de empresa
-T27 Term-DPEJ 159 179 convenios colectivos
-T28 Term-DPEJ 821 825 base
-T29 Term-DPEJ 54 62 personal
-T30 Term-DPEJ 400 408 personal
-T31 Term-DPEJ 1501 1509 personal
-T32 Term-DPEJ 810 817 sanción
-T33 Term-DPEJ 541 550 extinción
-T34 Term-DPEJ 675 678 año
-T35 Term-DPEJ 942 950 artículo
-T36 Term-DPEJ 454 460 centro
-T37 Term-DPEJ 1518 1524 centro
-T38 Term-DPEJ 762 772 revocación
-T39 Term-Termcat 832 838 acción
-T40 Term-Termcat 159 168 convenios
-T41 Term-Termcat 1619 1625 escala
-T42 Term-Termcat 762 772 revocación
-T43 Term-Termcat 711 718 mandato
-T44 Term-Termcat 1412 1419 crédito
-T45 Term-Termcat 196 205 garantías
-T46 Term-Termcat 1340 1347 interés
-T47 Term-Termcat 1575 1589 representación
-T48 Term-Termcat 1074 1088 representación
-T49 Term-Termcat 876 890 representación
-T50 Term-Termcat 1217 1231 representación
-T51 Term-Termcat 69 83 representantes
-T52 Term-Termcat 810 817 sanción
-T53 Term-Termcat 942 950 artículo
-T54 Term-Termcat 800 807 despido
-T55 Term-Termcat 996 1005 promoción
-T56 Term-Termcat 775 783 dimisión
-T57 Term-Termcat 1518 1535 centro de trabajo
-T58 Term-Termcat 454 471 centro de trabajo
-T59 Term-Termcat 17 34 comité de empresa
-T60 Term-Termcat 357 374 comité de empresa
-T61 Term-Termcat 159 179 convenios colectivos
-T62 Term-Termcat 1412 1428 crédito de horas
-T63 Term-Termcat 444 451 empresa
-T64 Term-Termcat 1385 1392 empresa
-T65 Term-Termcat 694 704 expiración
-T66 Term-Termcat 280 293 faltas graves
-T67 Term-Termcat 1310 1317 trabajo
-T68 Term-Termcat 400 408 personal
-T69 Term-Termcat 54 62 personal
-T70 Term-Termcat 1501 1509 personal
-T71 Term-Termcat 821 825 base
-T72 Term-Termcat 541 550 extinción
-T73 Term-Termcat 1146 1154 libertad
-T74 Term-Termcat 528 538 suspensión
-T75 Term-Termcat 342 352 interesado
-T76 Term-Termcat 1594 1601 acuerdo
-T77 Term-Termcat 555 561 causas
-T78 Term-Termcat 1480 1486 comité
-T79 Term-Termcat 1134 1140 comité
-T80 Term-Termcat 860 869 ejercicio
-T81 Term-Termcat 1545 1554 ejercicio
-T82 Term-Termcat 634 643 ejercicio
-T83 Term-Termcat 222 232 expediente
-T84 Term-Termcat 84 91 legales
-T85 Term-Termcat 1176 1184 materias
-T86 Term-Termcat 896 905 perjuicio
-T87 Term-Termcat 426 437 permanencia
-T88 Term-Termcat 1033 1038 razón
-T89 Term-Termcat 1397 1405 Disponer
-T90 Term-Termcat 69 91 representantes legales
-T91 Term-DV 832 838 acción
-T92 Term-DV 102 106 baja
-T93 Term-DV 497 501 baja
-T94 Term-DV 846 850 baja
-T95 Term-DV 1671 1675 baja
-T96 Term-DV 1746 1750 baja
-T97 Term-DV 1821 1825 baja
-T98 Term-DV 821 825 base
-T99 Term-DV 555 560 causa
-T100 Term-DV 800 807 despido
-T101 Term-DV 775 783 dimisión
-T102 Term-DV 1375 1379 dolo
-T103 Term-DV 27 34 empresa
-T104 Term-DV 367 374 empresa
-T105 Term-DV 444 451 empresa
-T106 Term-DV 1385 1392 empresa
-T107 Term-DV 280 285 falta
-T108 Term-DV 1021 1023 fe
-T109 Term-DV 1206 1208 fe
-T110 Term-DV 196 204 garantía
-T111 Term-DV 899 905 juicio
-T112 Term-DV 1348 1355 laboral
-T113 Term-DV 171 178 lectivo
-T114 Term-DV 43 49 legado
-T115 Term-DV 389 395 legado
-T116 Term-DV 1491 1497 legado
-T117 Term-DV 84 89 legal
-T118 Term-DV 1146 1154 libertad
-T119 Term-DV 567 573 lógica
-T120 Term-DV 711 716 manda
-T121 Term-DV 711 718 mandato
-T122 Term-DV 1282 1287 norma
-T123 Term-DV 1537 1541 para
-T124 Term-DV 332 337 parte
-T125 Term-DV 531 538 pensión
-T126 Term-DV 1063 1067 peño
-T127 Term-DV 896 905 perjuicio
-T128 Term-DV 54 61 persona
-T129 Term-DV 400 407 persona
-T130 Term-DV 1501 1508 persona
-T131 Term-DV 54 62 personal
-T132 Term-DV 400 408 personal
-T133 Term-DV 1501 1509 personal
-T134 Term-DV 878 890 presentación
-T135 Term-DV 1076 1088 presentación
-T136 Term-DV 1219 1231 presentación
-T137 Term-DV 1577 1589 presentación
-T138 Term-DV 1018 1029 profesional
-T139 Term-DV 996 1005 promoción
-T140 Term-DV 1413 1419 rédito
-T141 Term-DV 876 890 representación
-T142 Term-DV 1074 1088 representación
-T143 Term-DV 1217 1231 representación
-T144 Term-DV 1575 1589 representación
-T145 Term-DV 810 817 sanción
-T146 Term-DV 528 538 suspensión
-T147 Term-DV 99 109 trabajador
-T148 Term-DV 494 504 trabajador
-T149 Term-DV 843 853 trabajador
-T150 Term-DV 1668 1678 trabajador
-T151 Term-DV 1743 1753 trabajador
-T152 Term-DV 1818 1828 trabajador
-T153 Term-DV 223 224 x
-T154 Term-DV 542 543 x
-T155 Term-DV 695 696 x
-T156 Term-DV 1094 1095 x
-T157 Term-AttentionRank 69 83 representantes
-T158 Term-AttentionRank 1033 1038 razón
-T159 Term-AttentionRank 222 232 expediente
-T160 Term-AttentionRank 634 643 ejercicio
-T161 Term-AttentionRank 860 869 ejercicio
-T162 Term-AttentionRank 1545 1554 ejercicio
-T163 Term-AttentionRank 69 91 representantes legales
-T164 Term-AttentionRank 69 91 representantes legales
-T165 Term-AttentionRank 1594 1601 acuerdo
-T166 Term-AttentionRank 1282 1305 normal desenvolvimiento
-T167 Term-AttentionRank 675 678 año
-T168 Term-AttentionRank 555 561 causas
-T169 Term-AttentionRank 675 718 año siguiente a la expiración de su mandato
-T170 Term-AttentionRank 1796 1807 setecientos
-T171 Term-AttentionRank 711 718 mandato
-T172 Term-AttentionRank 996 1005 promoción
-T173 Term-AttentionRank 222 247 expediente contradictorio
-T174 Term-AttentionRank 996 1015 promoción económica
-T175 Term-AttentionRank 17 23 comité
-T176 Term-AttentionRank 357 363 comité
-T177 Term-AttentionRank 1134 1140 comité
-T178 Term-AttentionRank 1480 1486 comité
-T179 Term-AttentionRank 942 950 artículo
-T180 Term-AttentionRank 254 262 supuesto
-T181 Term-AttentionRank 515 524 supuestos
-T182 Term-AttentionRank 832 838 acción
-T183 Term-AttentionRank 280 286 faltas
-T184 Term-AttentionRank 541 550 extinción
-T185 Term-AttentionRank 159 168 convenios
-T186 Term-AttentionRank 528 538 suspensión
-T187 Term-AttentionRank 4 12 miembros
-T188 Term-AttentionRank 1467 1475 miembros
-T189 Term-AttentionRank 426 437 permanencia
-T190 Term-AttentionRank 810 817 sanción
-T191 Term-AttentionRank 196 205 garantías
-T192 Term-AttentionRank 41 50 delegados
-T193 Term-AttentionRank 387 396 delegados
-T194 Term-AttentionRank 1489 1497 delegado
-T195 Term-AttentionRank 1412 1419 crédito
-T196 Term-AttentionRank 472 506 respecto de los demás trabajadores
-T197 Term-AttentionRank 159 179 convenios colectivos
-T198 Term-AttentionRank 159 179 convenios colectivos
-T199 Term-AttentionRank 99 111 trabajadores
-T200 Term-AttentionRank 494 506 trabajadores
-T201 Term-AttentionRank 1668 1680 trabajadores
-T202 Term-AttentionRank 1743 1755 trabajadores
-T203 Term-AttentionRank 1818 1830 trabajadores
-T204 Term-AttentionRank 843 853 trabajador
-T205 Term-AttentionRank 27 34 empresa
-T206 Term-AttentionRank 367 374 empresa
-T207 Term-AttentionRank 444 451 empresa
-T208 Term-AttentionRank 1385 1392 empresa
-T209 Term-AttentionRank 1423 1428 horas
-T210 Term-AttentionRank 1689 1694 horas
-T211 Term-AttentionRank 1765 1770 horas
-T212 Term-AttentionRank 1848 1853 horas
-T213 Term-AttentionRank 876 890 representación
-T214 Term-AttentionRank 1074 1088 representación
-T215 Term-AttentionRank 1217 1231 representación
-T216 Term-AttentionRank 1575 1589 representación
-T217 Term-AttentionRank 1176 1184 materias
-T218 Term-AttentionRank 1176 1198 materias concernientes
-T219 Term-AttentionRank 800 807 despido
-T220 Term-AttentionRank 454 460 centro
-T221 Term-AttentionRank 1518 1524 centro
-T222 Term-AttentionRank 762 772 revocación
-T223 Term-AttentionRank 1594 1625 acuerdo con la siguiente escala
-T224 Term-AttentionRank 280 293 faltas graves
-T225 Term-AttentionRank 41 62 delegados de personal
-T226 Term-AttentionRank 387 408 delegados de personal
-T227 Term-AttentionRank 54 62 personal
-T228 Term-AttentionRank 400 408 personal
-T229 Term-AttentionRank 1501 1509 personal
-T230 Term-AttentionRank 464 471 trabajo
-T231 Term-AttentionRank 1310 1317 trabajo
-T232 Term-AttentionRank 1528 1535 trabajo
-T233 Term-AttentionRank 821 825 base
-T234 Term-AttentionRank 729 733 caso
-T235 Term-LabourLaw 41 62 delegados de personal
-T236 Term-LabourLaw 387 408 delegados de personal
-T237 Term-LabourLaw 17 34 comité de empresa
-T238 Term-LabourLaw 357 374 comité de empresa
-T239 Term-LabourLaw 454 471 centro de trabajo
-T240 Term-LabourLaw 1518 1535 centro de trabajo
-T241 Term-LabourLaw 996 1015 promoción económica
-T242 Term-LabourLaw 800 807 despido
-T243 Term-LabourLaw 464 471 trabajo
-T244 Term-LabourLaw 1310 1317 trabajo
-T245 Term-LabourLaw 1528 1535 trabajo
-T246 Term-LabourLaw 832 838 acción
-T247 Term-LabourLaw 69 82 representante
-T248 Term-LabourLaw 99 109 trabajador
-T249 Term-LabourLaw 494 504 trabajador
-T250 Term-LabourLaw 843 853 trabajador
-T251 Term-LabourLaw 1668 1678 trabajador
-T252 Term-LabourLaw 1743 1753 trabajador
-T253 Term-LabourLaw 1818 1828 trabajador
-T254 Term-LabourLaw 531 538 pensión
-T255 Term-LabourLaw 711 718 mandato
-T256 Term-LabourLaw 1412 1419 crédito
-T257 Term-LabourLaw 810 817 sanción
-T258 Term-LabourLaw 41 49 delegado
-T259 Term-LabourLaw 387 395 delegado
-T260 Term-LabourLaw 1489 1497 delegado
-T261 Term-LabourLaw 996 1005 promoción
-T262 Term-LabourLaw 27 34 empresa
-T263 Term-LabourLaw 367 374 empresa
-T264 Term-LabourLaw 444 451 empresa
-T265 Term-LabourLaw 1385 1392 empresa
-T266 Term-LabourLaw 775 783 dimisión
-T267 Term-LabourLaw 17 23 comité
-T268 Term-LabourLaw 357 363 comité
-T269 Term-LabourLaw 1134 1140 comité
-T270 Term-LabourLaw 1480 1486 comité
-T271 Term-LabourLaw 896 905 perjuicio
-T272 Term-LabourLaw 169 178 colectivo
-T273 Term-LabourLaw 528 538 suspensión
-T274 Term-LabourLaw 54 62 personal
-T275 Term-LabourLaw 400 408 personal
-T276 Term-LabourLaw 1501 1509 personal
-T277 Term-LabourLaw 54 61 persona
-T278 Term-LabourLaw 400 407 persona
-T279 Term-LabourLaw 1501 1508 persona
-T280 Term-LabourLaw 996 1005 promoción
-T281 Term-IATE 541 550 extinción
-T282 Term-IATE 942 950 artículo
-T283 Term-IATE 1594 1601 acuerdo
-T284 Term-IATE 27 34 empresa
-T285 Term-IATE 367 374 empresa
-T286 Term-IATE 444 451 empresa
-T287 Term-IATE 1385 1392 empresa
-T288 Term-IATE 1033 1038 razón
-T289 Term-IATE 280 286 faltas
-T290 Term-IATE 832 838 acción
-T291 Term-IATE 426 437 permanencia
-T292 Term-IATE 711 718 mandato
-T293 Term-IATE 41 50 delegados
-T294 Term-IATE 387 396 delegados
-T295 Term-IATE 1489 1497 delegado
-T296 Term-IATE 762 772 revocación
-T297 Term-IATE 196 205 garantías
-T298 Term-IATE 528 538 suspensión
-T299 Term-IATE 810 817 sanción
-T300 Term-IATE 1412 1419 crédito
-T301 Term-IATE 99 111 trabajadores
-T302 Term-IATE 494 506 trabajadores
-T303 Term-IATE 1668 1680 trabajadores
-T304 Term-IATE 1743 1755 trabajadores
-T305 Term-IATE 1818 1830 trabajadores
-T306 Term-IATE 843 853 trabajador
-T307 Term-IATE 1176 1184 materias
-T308 Term-IATE 4 12 miembros
-T309 Term-IATE 1467 1475 miembros
-T310 Term-IATE 17 23 comité
-T311 Term-IATE 357 363 comité
-T312 Term-IATE 1134 1140 comité
-T313 Term-IATE 1480 1486 comité
-T314 Term-IATE 69 83 representantes
-T315 Term-IATE 159 168 convenios
-T316 Term-IATE 634 643 ejercicio
-T317 Term-IATE 860 869 ejercicio
-T318 Term-IATE 1545 1554 ejercicio
-T319 Term-IATE 222 232 expediente
+T1	Term-DPEJ 800 807	despido
+T2	Term-DPEJ 729 733	caso
+T3	Term-DPEJ 1594 1601	acuerdo
+T4	Term-DPEJ 711 718	mandato
+T5	Term-DPEJ 454 471	centro de trabajo
+T6	Term-DPEJ 1518 1535	centro de trabajo
+T7	Term-DPEJ 222 232	expediente
+T8	Term-DPEJ 464 471	trabajo
+T9	Term-DPEJ 1310 1317	trabajo
+T10	Term-DPEJ 1528 1535	trabajo
+T11	Term-DPEJ 27 34	empresa
+T12	Term-DPEJ 367 374	empresa
+T13	Term-DPEJ 444 451	empresa
+T14	Term-DPEJ 1385 1392	empresa
+T15	Term-DPEJ 159 168	convenios
+T16	Term-DPEJ 996 1015	promoción económica
+T17	Term-DPEJ 17 23	comité
+T18	Term-DPEJ 357 363	comité
+T19	Term-DPEJ 1134 1140	comité
+T20	Term-DPEJ 1480 1486	comité
+T21	Term-DPEJ 996 1005	promoción
+T22	Term-DPEJ 196 205	garantías
+T23	Term-DPEJ 555 561	causas
+T24	Term-DPEJ 528 538	suspensión
+T25	Term-DPEJ 17 34	comité de empresa
+T26	Term-DPEJ 357 374	comité de empresa
+T27	Term-DPEJ 159 179	convenios colectivos
+T28	Term-DPEJ 821 825	base
+T29	Term-DPEJ 54 62	personal
+T30	Term-DPEJ 400 408	personal
+T31	Term-DPEJ 1501 1509	personal
+T32	Term-DPEJ 810 817	sanción
+T33	Term-DPEJ 541 550	extinción
+T34	Term-DPEJ 675 678	año
+T35	Term-DPEJ 942 950	artículo
+T36	Term-DPEJ 454 460	centro
+T37	Term-DPEJ 1518 1524	centro
+T38	Term-DPEJ 762 772	revocación
+T39	Term-Termcat 832 838	acción
+T40	Term-Termcat 159 168	convenios
+T41	Term-Termcat 1619 1625	escala
+T42	Term-Termcat 762 772	revocación
+T43	Term-Termcat 711 718	mandato
+T44	Term-Termcat 1412 1419	crédito
+T45	Term-Termcat 196 205	garantías
+T46	Term-Termcat 1340 1347	interés
+T47	Term-Termcat 1575 1589	representación
+T48	Term-Termcat 1074 1088	representación
+T49	Term-Termcat 876 890	representación
+T50	Term-Termcat 1217 1231	representación
+T51	Term-Termcat 69 83	representantes
+T52	Term-Termcat 810 817	sanción
+T53	Term-Termcat 942 950	artículo
+T54	Term-Termcat 800 807	despido
+T55	Term-Termcat 996 1005	promoción
+T56	Term-Termcat 775 783	dimisión
+T57	Term-Termcat 1518 1535	centro de trabajo
+T58	Term-Termcat 454 471	centro de trabajo
+T59	Term-Termcat 17 34	comité de empresa
+T60	Term-Termcat 357 374	comité de empresa
+T61	Term-Termcat 159 179	convenios colectivos
+T62	Term-Termcat 1412 1428	crédito de horas
+T63	Term-Termcat 444 451	empresa
+T64	Term-Termcat 1385 1392	empresa
+T65	Term-Termcat 694 704	expiración
+T66	Term-Termcat 280 293	faltas graves
+T67	Term-Termcat 1310 1317	trabajo
+T68	Term-Termcat 400 408	personal
+T69	Term-Termcat 54 62	personal
+T70	Term-Termcat 1501 1509	personal
+T71	Term-Termcat 821 825	base
+T72	Term-Termcat 541 550	extinción
+T73	Term-Termcat 1146 1154	libertad
+T74	Term-Termcat 528 538	suspensión
+T75	Term-Termcat 342 352	interesado
+T76	Term-Termcat 1594 1601	acuerdo
+T77	Term-Termcat 555 561	causas
+T78	Term-Termcat 1480 1486	comité
+T79	Term-Termcat 1134 1140	comité
+T80	Term-Termcat 860 869	ejercicio
+T81	Term-Termcat 1545 1554	ejercicio
+T82	Term-Termcat 634 643	ejercicio
+T83	Term-Termcat 222 232	expediente
+T84	Term-Termcat 84 91	legales
+T85	Term-Termcat 1176 1184	materias
+T86	Term-Termcat 896 905	perjuicio
+T87	Term-Termcat 426 437	permanencia
+T88	Term-Termcat 1033 1038	razón
+T89	Term-Termcat 1397 1405	Disponer
+T90	Term-Termcat 69 91	representantes legales
+T91	Term-DV 832 838	acción
+T92	Term-DV 102 106	baja
+T93	Term-DV 497 501	baja
+T94	Term-DV 846 850	baja
+T95	Term-DV 1671 1675	baja
+T96	Term-DV 1746 1750	baja
+T97	Term-DV 1821 1825	baja
+T98	Term-DV 821 825	base
+T99	Term-DV 555 560	causa
+T100	Term-DV 800 807	despido
+T101	Term-DV 775 783	dimisión
+T102	Term-DV 1375 1379	dolo
+T103	Term-DV 27 34	empresa
+T104	Term-DV 367 374	empresa
+T105	Term-DV 444 451	empresa
+T106	Term-DV 1385 1392	empresa
+T107	Term-DV 280 285	falta
+T108	Term-DV 1021 1023	fe
+T109	Term-DV 1206 1208	fe
+T110	Term-DV 196 204	garantía
+T111	Term-DV 899 905	juicio
+T112	Term-DV 1348 1355	laboral
+T113	Term-DV 171 178	lectivo
+T114	Term-DV 43 49	legado
+T115	Term-DV 389 395	legado
+T116	Term-DV 1491 1497	legado
+T117	Term-DV 84 89	legal
+T118	Term-DV 1146 1154	libertad
+T119	Term-DV 567 573	lógica
+T120	Term-DV 711 716	manda
+T121	Term-DV 711 718	mandato
+T122	Term-DV 1282 1287	norma
+T123	Term-DV 1537 1541	para
+T124	Term-DV 332 337	parte
+T125	Term-DV 531 538	pensión
+T126	Term-DV 1063 1067	peño
+T127	Term-DV 896 905	perjuicio
+T128	Term-DV 54 61	persona
+T129	Term-DV 400 407	persona
+T130	Term-DV 1501 1508	persona
+T131	Term-DV 54 62	personal
+T132	Term-DV 400 408	personal
+T133	Term-DV 1501 1509	personal
+T134	Term-DV 878 890	presentación
+T135	Term-DV 1076 1088	presentación
+T136	Term-DV 1219 1231	presentación
+T137	Term-DV 1577 1589	presentación
+T138	Term-DV 1018 1029	profesional
+T139	Term-DV 996 1005	promoción
+T140	Term-DV 1413 1419	rédito
+T141	Term-DV 876 890	representación
+T142	Term-DV 1074 1088	representación
+T143	Term-DV 1217 1231	representación
+T144	Term-DV 1575 1589	representación
+T145	Term-DV 810 817	sanción
+T146	Term-DV 528 538	suspensión
+T147	Term-DV 99 109	trabajador
+T148	Term-DV 494 504	trabajador
+T149	Term-DV 843 853	trabajador
+T150	Term-DV 1668 1678	trabajador
+T151	Term-DV 1743 1753	trabajador
+T152	Term-DV 1818 1828	trabajador
+T153	Term-DV 223 224	x
+T154	Term-DV 542 543	x
+T155	Term-DV 695 696	x
+T156	Term-DV 1094 1095	x
+T157	Term-AttentionRank 69 83	representantes
+T158	Term-AttentionRank 1033 1038	razón
+T159	Term-AttentionRank 222 232	expediente
+T160	Term-AttentionRank 634 643	ejercicio
+T161	Term-AttentionRank 860 869	ejercicio
+T162	Term-AttentionRank 1545 1554	ejercicio
+T163	Term-AttentionRank 69 91	representantes legales
+T164	Term-AttentionRank 69 91	representantes legales
+T165	Term-AttentionRank 1594 1601	acuerdo
+T166	Term-AttentionRank 1282 1305	normal desenvolvimiento
+T167	Term-AttentionRank 675 678	año
+T168	Term-AttentionRank 555 561	causas
+T169	Term-AttentionRank 675 718	año siguiente a la expiración de su mandato
+T170	Term-AttentionRank 1796 1807	setecientos
+T171	Term-AttentionRank 711 718	mandato
+T172	Term-AttentionRank 996 1005	promoción
+T173	Term-AttentionRank 222 247	expediente contradictorio
+T174	Term-AttentionRank 996 1015	promoción económica
+T175	Term-AttentionRank 17 23	comité
+T176	Term-AttentionRank 357 363	comité
+T177	Term-AttentionRank 1134 1140	comité
+T178	Term-AttentionRank 1480 1486	comité
+T179	Term-AttentionRank 942 950	artículo
+T180	Term-AttentionRank 254 262	supuesto
+T181	Term-AttentionRank 515 524	supuestos
+T182	Term-AttentionRank 832 838	acción
+T183	Term-AttentionRank 280 286	faltas
+T184	Term-AttentionRank 541 550	extinción
+T185	Term-AttentionRank 159 168	convenios
+T186	Term-AttentionRank 528 538	suspensión
+T187	Term-AttentionRank 4 12	miembros
+T188	Term-AttentionRank 1467 1475	miembros
+T189	Term-AttentionRank 426 437	permanencia
+T190	Term-AttentionRank 810 817	sanción
+T191	Term-AttentionRank 196 205	garantías
+T192	Term-AttentionRank 41 50	delegados
+T193	Term-AttentionRank 387 396	delegados
+T194	Term-AttentionRank 1489 1497	delegado
+T195	Term-AttentionRank 1412 1419	crédito
+T196	Term-AttentionRank 472 506	respecto de los demás trabajadores
+T197	Term-AttentionRank 159 179	convenios colectivos
+T198	Term-AttentionRank 159 179	convenios colectivos
+T199	Term-AttentionRank 99 111	trabajadores
+T200	Term-AttentionRank 494 506	trabajadores
+T201	Term-AttentionRank 1668 1680	trabajadores
+T202	Term-AttentionRank 1743 1755	trabajadores
+T203	Term-AttentionRank 1818 1830	trabajadores
+T204	Term-AttentionRank 843 853	trabajador
+T205	Term-AttentionRank 27 34	empresa
+T206	Term-AttentionRank 367 374	empresa
+T207	Term-AttentionRank 444 451	empresa
+T208	Term-AttentionRank 1385 1392	empresa
+T209	Term-AttentionRank 1423 1428	horas
+T210	Term-AttentionRank 1689 1694	horas
+T211	Term-AttentionRank 1765 1770	horas
+T212	Term-AttentionRank 1848 1853	horas
+T213	Term-AttentionRank 876 890	representación
+T214	Term-AttentionRank 1074 1088	representación
+T215	Term-AttentionRank 1217 1231	representación
+T216	Term-AttentionRank 1575 1589	representación
+T217	Term-AttentionRank 1176 1184	materias
+T218	Term-AttentionRank 1176 1198	materias concernientes
+T219	Term-AttentionRank 800 807	despido
+T220	Term-AttentionRank 454 460	centro
+T221	Term-AttentionRank 1518 1524	centro
+T222	Term-AttentionRank 762 772	revocación
+T223	Term-AttentionRank 1594 1625	acuerdo con la siguiente escala
+T224	Term-AttentionRank 280 293	faltas graves
+T225	Term-AttentionRank 41 62	delegados de personal
+T226	Term-AttentionRank 387 408	delegados de personal
+T227	Term-AttentionRank 54 62	personal
+T228	Term-AttentionRank 400 408	personal
+T229	Term-AttentionRank 1501 1509	personal
+T230	Term-AttentionRank 464 471	trabajo
+T231	Term-AttentionRank 1310 1317	trabajo
+T232	Term-AttentionRank 1528 1535	trabajo
+T233	Term-AttentionRank 821 825	base
+T234	Term-AttentionRank 729 733	caso
+T235	Term-LabourLaw 41 62	delegados de personal
+T236	Term-LabourLaw 387 408	delegados de personal
+T237	Term-LabourLaw 17 34	comité de empresa
+T238	Term-LabourLaw 357 374	comité de empresa
+T239	Term-LabourLaw 454 471	centro de trabajo
+T240	Term-LabourLaw 1518 1535	centro de trabajo
+T241	Term-LabourLaw 996 1015	promoción económica
+T242	Term-LabourLaw 800 807	despido
+T243	Term-LabourLaw 464 471	trabajo
+T244	Term-LabourLaw 1310 1317	trabajo
+T245	Term-LabourLaw 1528 1535	trabajo
+T246	Term-LabourLaw 832 838	acción
+T247	Term-LabourLaw 69 82	representante
+T248	Term-LabourLaw 99 109	trabajador
+T249	Term-LabourLaw 494 504	trabajador
+T250	Term-LabourLaw 843 853	trabajador
+T251	Term-LabourLaw 1668 1678	trabajador
+T252	Term-LabourLaw 1743 1753	trabajador
+T253	Term-LabourLaw 1818 1828	trabajador
+T254	Term-LabourLaw 531 538	pensión
+T255	Term-LabourLaw 711 718	mandato
+T256	Term-LabourLaw 1412 1419	crédito
+T257	Term-LabourLaw 810 817	sanción
+T258	Term-LabourLaw 41 49	delegado
+T259	Term-LabourLaw 387 395	delegado
+T260	Term-LabourLaw 1489 1497	delegado
+T261	Term-LabourLaw 996 1005	promoción
+T262	Term-LabourLaw 27 34	empresa
+T263	Term-LabourLaw 367 374	empresa
+T264	Term-LabourLaw 444 451	empresa
+T265	Term-LabourLaw 1385 1392	empresa
+T266	Term-LabourLaw 775 783	dimisión
+T267	Term-LabourLaw 17 23	comité
+T268	Term-LabourLaw 357 363	comité
+T269	Term-LabourLaw 1134 1140	comité
+T270	Term-LabourLaw 1480 1486	comité
+T271	Term-LabourLaw 896 905	perjuicio
+T272	Term-LabourLaw 169 178	colectivo
+T273	Term-LabourLaw 528 538	suspensión
+T274	Term-LabourLaw 54 62	personal
+T275	Term-LabourLaw 400 408	personal
+T276	Term-LabourLaw 1501 1509	personal
+T277	Term-LabourLaw 54 61	persona
+T278	Term-LabourLaw 400 407	persona
+T279	Term-LabourLaw 1501 1508	persona
+T280	Term-LabourLaw 996 1005	promoción
+T281	Term-IATE 541 550	extinción
+T282	Term-IATE 942 950	artículo
+T283	Term-IATE 1594 1601	acuerdo
+T284	Term-IATE 27 34	empresa
+T285	Term-IATE 367 374	empresa
+T286	Term-IATE 444 451	empresa
+T287	Term-IATE 1385 1392	empresa
+T288	Term-IATE 1033 1038	razón
+T289	Term-IATE 280 286	faltas
+T290	Term-IATE 832 838	acción
+T291	Term-IATE 426 437	permanencia
+T292	Term-IATE 711 718	mandato
+T293	Term-IATE 41 50	delegados
+T294	Term-IATE 387 396	delegados
+T295	Term-IATE 1489 1497	delegado
+T296	Term-IATE 762 772	revocación
+T297	Term-IATE 196 205	garantías
+T298	Term-IATE 528 538	suspensión
+T299	Term-IATE 810 817	sanción
+T300	Term-IATE 1412 1419	crédito
+T301	Term-IATE 99 111	trabajadores
+T302	Term-IATE 494 506	trabajadores
+T303	Term-IATE 1668 1680	trabajadores
+T304	Term-IATE 1743 1755	trabajadores
+T305	Term-IATE 1818 1830	trabajadores
+T306	Term-IATE 843 853	trabajador
+T307	Term-IATE 1176 1184	materias
+T308	Term-IATE 4 12	miembros
+T309	Term-IATE 1467 1475	miembros
+T310	Term-IATE 17 23	comité
+T311	Term-IATE 357 363	comité
+T312	Term-IATE 1134 1140	comité
+T313	Term-IATE 1480 1486	comité
+T314	Term-IATE 69 83	representantes
+T315	Term-IATE 159 168	convenios
+T316	Term-IATE 634 643	ejercicio
+T317	Term-IATE 860 869	ejercicio
+T318	Term-IATE 1545 1554	ejercicio
+T319	Term-IATE 222 232	expediente
