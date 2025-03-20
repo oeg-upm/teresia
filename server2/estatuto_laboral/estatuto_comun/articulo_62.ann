@@ -1,71 +1,95 @@
-T1	Term-DPEJ 202 209	órganos
-T2	Term-DPEJ 267 274	Órganos
-T3	Term-DPEJ 178 185	empresa
-T4	Term-DPEJ 31 42	conformidad
-T5	Term-DPEJ 13 26	Participación
-T6	Term-DPEJ 112 125	participación
-T7	Term-DPEJ 102 108	formas
-T8	Term-DPEJ 246 252	título
-T9	Term-DPEJ 0 8	Artículo
-T10	Term-DPEJ 66 74	artículo
-T11	Term-Termcat 254 261	Sección
-T12	Term-Termcat 102 108	formas
-T13	Term-Termcat 278 292	representación
-T14	Term-Termcat 213 227	representación
-T15	Term-Termcat 246 252	título
-T16	Term-Termcat 0 8	Artículo
-T17	Term-Termcat 66 74	artículo
-T18	Term-Termcat 178 185	empresa
-T19	Term-Termcat 151 158	derecho
-T20	Term-Termcat 31 42	conformidad
-T21	Term-Termcat 202 209	órganos
-T22	Term-Termcat 267 274	Órganos
-T23	Term-Termcat 13 26	Participación
-T24	Term-Termcat 112 125	participación
-T25	Term-Termcat 83 92	perjuicio
-T26	Term-DV 134 138	baja
-T27	Term-DV 151 158	derecho
-T28	Term-DV 178 185	empresa
-T29	Term-DV 102 107	forma
-T30	Term-DV 86 92	juicio
-T31	Term-DV 112 125	participación
-T32	Term-DV 83 92	perjuicio
-T33	Term-DV 215 227	presentación
-T34	Term-DV 280 292	presentación
-T35	Term-DV 213 227	representación
-T36	Term-DV 278 292	representación
-T37	Term-DV 131 141	trabajador
-T38	Term-AttentionRank 188 209	través de los órganos
-T39	Term-AttentionRank 0 8	Artículo
-T40	Term-AttentionRank 66 74	artículo
-T41	Term-AttentionRank 254 261	Sección
-T42	Term-AttentionRank 188 197	través de
-T43	Term-AttentionRank 246 252	título
-T44	Term-AttentionRank 13 26	Participación
-T45	Term-AttentionRank 112 125	participación
-T46	Term-AttentionRank 131 143	trabajadores
-T47	Term-AttentionRank 202 209	órganos
-T48	Term-AttentionRank 267 274	Órganos
-T49	Term-AttentionRank 178 185	empresa
-T50	Term-AttentionRank 213 227	representación
-T51	Term-AttentionRank 278 292	representación
-T52	Term-AttentionRank 102 108	formas
-T53	Term-AttentionRank 83 108	perjuicio de otras formas
-T54	Term-AttentionRank 151 158	derecho
-T55	Term-AttentionRank 31 42	conformidad
-T56	Term-LabourLaw 112 125	participación
-T57	Term-LabourLaw 131 141	trabajador
-T58	Term-LabourLaw 202 208	órgano
-T59	Term-LabourLaw 31 42	conformidad
-T60	Term-LabourLaw 178 185	empresa
-T61	Term-LabourLaw 151 158	derecho
-T62	Term-LabourLaw 83 92	perjuicio
-T63	Term-IATE 246 252	título
-T64	Term-IATE 0 8	Artículo
-T65	Term-IATE 66 74	artículo
-T66	Term-IATE 178 185	empresa
-T67	Term-IATE 31 42	conformidad
-T68	Term-IATE 13 26	Participación
-T69	Term-IATE 112 125	participación
-T70	Term-IATE 131 143	trabajadores
-T71	Term-IATE 254 261	Sección
+T1	Term-diccionario 202 209	órganos
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 267 274	Órganos
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 178 185	empresa
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 31 42	conformidad
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 13 26	Participación
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 112 125	participación
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 102 108	formas
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 246 252	título
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 0 8	Artículo
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 66 74	artículo
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 254 261	Sección
+#11	AnnotatorNotes T11 "Termcat"
+#12	AnnotatorNotes T7 "Termcat"
+T12	Term-diccionario 278 292	representación
+#13	AnnotatorNotes T12 "Termcat"
+T13	Term-diccionario 213 227	representación
+#14	AnnotatorNotes T13 "Termcat"
+#15	AnnotatorNotes T8 "Termcat"
+#16	AnnotatorNotes T9 "Termcat"
+#17	AnnotatorNotes T10 "Termcat"
+#18	AnnotatorNotes T3 "Termcat"
+T14	Term-diccionario 151 158	derecho
+#19	AnnotatorNotes T14 "Termcat"
+#20	AnnotatorNotes T4 "Termcat"
+#21	AnnotatorNotes T1 "Termcat"
+#22	AnnotatorNotes T2 "Termcat"
+#23	AnnotatorNotes T5 "Termcat"
+#24	AnnotatorNotes T6 "Termcat"
+T15	Term-diccionario 83 92	perjuicio
+#25	AnnotatorNotes T15 "Termcat"
+T16	Term-automatico 188 209	través de los órganos
+#26	AnnotatorNotes T16 "AttentionRank"
+T17	Term-automatico 0 8	Artículo
+#27	AnnotatorNotes T17 "AttentionRank"
+T18	Term-automatico 66 74	artículo
+#28	AnnotatorNotes T18 "AttentionRank"
+T19	Term-automatico 254 261	Sección
+#29	AnnotatorNotes T19 "AttentionRank"
+T20	Term-automatico 188 197	través de
+#30	AnnotatorNotes T20 "AttentionRank"
+T21	Term-automatico 246 252	título
+#31	AnnotatorNotes T21 "AttentionRank"
+T22	Term-automatico 13 26	Participación
+#32	AnnotatorNotes T22 "AttentionRank"
+T23	Term-automatico 112 125	participación
+#33	AnnotatorNotes T23 "AttentionRank"
+T24	Term-automatico 131 143	trabajadores
+#34	AnnotatorNotes T24 "AttentionRank"
+T25	Term-automatico 202 209	órganos
+#35	AnnotatorNotes T25 "AttentionRank"
+T26	Term-automatico 267 274	Órganos
+#36	AnnotatorNotes T26 "AttentionRank"
+T27	Term-automatico 178 185	empresa
+#37	AnnotatorNotes T27 "AttentionRank"
+T28	Term-automatico 213 227	representación
+#38	AnnotatorNotes T28 "AttentionRank"
+T29	Term-automatico 278 292	representación
+#39	AnnotatorNotes T29 "AttentionRank"
+T30	Term-automatico 102 108	formas
+#40	AnnotatorNotes T30 "AttentionRank"
+T31	Term-automatico 83 108	perjuicio de otras formas
+#41	AnnotatorNotes T31 "AttentionRank"
+T32	Term-automatico 151 158	derecho
+#42	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 31 42	conformidad
+#43	AnnotatorNotes T33 "AttentionRank"
+#44	AnnotatorNotes T6 "LabourLaw"
+T34	Term-diccionario 131 141	trabajador
+#45	AnnotatorNotes T34 "LabourLaw"
+T35	Term-diccionario 202 208	órgano
+#46	AnnotatorNotes T35 "LabourLaw"
+#47	AnnotatorNotes T4 "LabourLaw"
+#48	AnnotatorNotes T3 "LabourLaw"
+#49	AnnotatorNotes T14 "LabourLaw"
+#50	AnnotatorNotes T15 "LabourLaw"
+#51	AnnotatorNotes T8 "IATE"
+#52	AnnotatorNotes T9 "IATE"
+#53	AnnotatorNotes T10 "IATE"
+#54	AnnotatorNotes T3 "IATE"
+#55	AnnotatorNotes T4 "IATE"
+#56	AnnotatorNotes T5 "IATE"
+#57	AnnotatorNotes T6 "IATE"
+T36	Term-diccionario 131 143	trabajadores
+#58	AnnotatorNotes T36 "IATE"
+#59	AnnotatorNotes T11 "IATE"

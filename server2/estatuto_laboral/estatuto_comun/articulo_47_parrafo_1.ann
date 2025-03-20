@@ -1,315 +1,421 @@
-T1	Term-DPEJ 1042 1046	caso
-T2	Term-DPEJ 204 209	cargo
-T3	Term-DPEJ 335 340	cargo
-T4	Term-DPEJ 1365 1379	consanguinidad
-T5	Term-DPEJ 1227 1238	negociación
-T6	Term-DPEJ 252 259	trabajo
-T7	Term-DPEJ 401 408	empresa
-T8	Term-DPEJ 6 16	excedencia
-T9	Term-DPEJ 485 495	excedencia
-T10	Term-DPEJ 703 713	excedencia
-T11	Term-DPEJ 778 788	excedencia
-T12	Term-DPEJ 1132 1142	excedencia
-T13	Term-DPEJ 1587 1597	excedencia
-T14	Term-DPEJ 1681 1686	forma
-T15	Term-DPEJ 1054 1073	resolución judicial
-T16	Term-DPEJ 1562 1571	actividad
-T17	Term-DPEJ 1022 1032	nacimiento
-T18	Term-DPEJ 971 982	acogimiento
-T19	Term-DPEJ 485 506	excedencia voluntaria
-T20	Term-DPEJ 703 724	excedencia voluntaria
-T21	Term-DPEJ 1227 1248	negociación colectiva
-T22	Term-DPEJ 1625 1633	apartado
-T23	Term-DPEJ 100 106	puesto
-T24	Term-DPEJ 1054 1064	resolución
-T25	Term-DPEJ 187 195	elección
-T26	Term-DPEJ 1472 1476	edad
-T27	Term-DPEJ 415 418	año
-T28	Term-DPEJ 563 567	años
-T29	Term-DPEJ 668 672	años
-T30	Term-DPEJ 820 824	años
-T31	Term-DPEJ 1174 1178	años
-T32	Term-DPEJ 1013 1018	fecha
-T33	Term-Termcat 204 217	cargo público
-T34	Term-Termcat 335 348	cargo público
-T35	Term-Termcat 324 328	cese
-T36	Term-Termcat 83 95	conservación
-T37	Term-Termcat 1587 1597	excedencia
-T38	Term-Termcat 485 495	excedencia
-T39	Term-Termcat 778 788	excedencia
-T40	Term-Termcat 703 713	excedencia
-T41	Term-Termcat 6 16	excedencia
-T42	Term-Termcat 1132 1142	excedencia
-T43	Term-Termcat 1227 1248	negociación colectiva
-T44	Term-Termcat 264 273	reingreso
-T45	Term-Termcat 1054 1064	resolución
-T46	Term-Termcat 514 519	plazo
-T47	Term-Termcat 908 916	adopción
-T48	Term-Termcat 960 968	adopción
-T49	Term-Termcat 1386 1394	afinidad
-T50	Term-Termcat 1365 1379	consanguinidad
-T51	Term-Termcat 1503 1515	discapacidad
-T52	Term-Termcat 1472 1476	edad
-T53	Term-Termcat 1681 1686	forma
-T54	Term-Termcat 1356 1361	grado
-T55	Term-Termcat 940 946	guarda
-T56	Term-Termcat 1022 1032	nacimiento
-T57	Term-Termcat 1305 1320	pareja de hecho
-T58	Term-Termcat 1436 1451	pareja de hecho
-T59	Term-Termcat 1478 1487	accidente
-T60	Term-Termcat 126 136	antigüedad
-T61	Term-Termcat 384 394	antigüedad
-T62	Term-Termcat 238 248	asistencia
-T63	Term-Termcat 841 848	cuidado
-T64	Term-Termcat 1283 1290	cuidado
-T65	Term-Termcat 204 209	cargo
-T66	Term-Termcat 335 340	cargo
-T67	Term-Termcat 401 408	empresa
-T68	Term-Termcat 703 724	excedencia voluntaria
-T69	Term-Termcat 485 506	excedencia voluntaria
-T70	Term-Termcat 252 259	trabajo
-T71	Term-Termcat 1651 1659	duración
-T72	Term-Termcat 1147 1155	duración
-T73	Term-Termcat 792 800	duración
-T74	Term-Termcat 1208 1216	duración
-T75	Term-Termcat 143 151	vigencia
-T76	Term-Termcat 425 432	derecho
-T77	Term-Termcat 70 77	derecho
-T78	Term-Termcat 1108 1115	derecho
-T79	Term-Termcat 754 761	derecho
-T80	Term-Termcat 1714 1721	derecho
-T81	Term-Termcat 574 581	derecho
-T82	Term-Termcat 1227 1238	negociación
-T83	Term-Termcat 1054 1073	resolución judicial
-T84	Term-Termcat 971 982	acogimiento
-T85	Term-Termcat 1562 1571	actividad
-T86	Term-Termcat 112 119	cómputo
-T87	Term-Termcat 1295 1302	cónyuge
-T88	Term-Termcat 1714 1732	derecho individual
-T89	Term-Termcat 187 195	elección
-T90	Term-Termcat 523 528	menor
-T91	Term-Termcat 1159 1167	superior
-T92	Term-Termcat 804 812	superior
-T93	Term-Termcat 1446 1451	hecho
-T94	Term-Termcat 1315 1320	hecho
-T95	Term-DV 204 217	cargo público
-T96	Term-DV 335 348	cargo público
-T97	Term-DV 1478 1487	accidente
-T98	Term-DV 359 363	baja
-T99	Term-DV 633 637	baja
-T100	Term-DV 736 740	baja
-T101	Term-DV 1257 1261	baja
-T102	Term-DV 1743 1747	baja
-T103	Term-DV 1758 1762	baja
-T104	Term-DV 1506 1510	capa
-T105	Term-DV 1506 1515	capacidad
-T106	Term-DV 204 209	cargo
-T107	Term-DV 335 340	cargo
-T108	Term-DV 156 164	conceder
-T109	Term-DV 65 68	dar
-T110	Term-DV 274 278	debe
-T111	Term-DV 70 77	derecho
-T112	Term-DV 425 432	derecho
-T113	Term-DV 574 581	derecho
-T114	Term-DV 754 761	derecho
-T115	Term-DV 1108 1115	derecho
-T116	Term-DV 1714 1721	derecho
-T117	Term-DV 132 136	edad
-T118	Term-DV 390 394	edad
-T119	Term-DV 1472 1476	edad
-T120	Term-DV 1496 1500	edad
-T121	Term-DV 187 195	elección
-T122	Term-DV 401 408	empresa
-T123	Term-DV 1330 1337	familia
-T124	Term-DV 1408 1415	familia
-T125	Term-DV 1013 1015	fe
-T126	Term-DV 1492 1494	fe
-T127	Term-DV 1681 1686	forma
-T128	Term-DV 1315 1320	hecho
-T129	Term-DV 1446 1451	hecho
-T130	Term-DV 857 861	hijo
-T131	Term-DV 1065 1073	judicial
-T132	Term-DV 1022 1032	nacimiento
-T133	Term-DV 178 184	nación
-T134	Term-DV 1227 1238	negociación
-T135	Term-DV 196 200	para
-T136	Term-DV 825 829	para
-T137	Term-DV 1267 1271	para
-T138	Term-DV 514 519	plazo
-T139	Term-DV 458 469	posibilidad
-T140	Term-DV 210 217	público
-T141	Term-DV 341 348	público
-T142	Term-DV 831 837	tender
-T143	Term-DV 1273 1279	tender
-T144	Term-DV 356 366	trabajador
-T145	Term-DV 630 640	trabajador
-T146	Term-DV 733 743	trabajador
-T147	Term-DV 1254 1264	trabajador
-T148	Term-DV 1740 1750	trabajador
-T149	Term-DV 1755 1765	trabajador
-T150	Term-DV 1525 1529	vale
-T151	Term-DV 1726 1732	vidual
-T152	Term-DV 7 8	x
-T153	Term-DV 486 487	x
-T154	Term-DV 704 705	x
-T155	Term-DV 779 780	x
-T156	Term-DV 1133 1134	x
-T157	Term-DV 1588 1589	x
-T158	Term-AttentionRank 792 814	duración no superior a
-T159	Term-AttentionRank 1147 1169	duración no superior a
-T160	Term-AttentionRank 6 16	excedencia
-T161	Term-AttentionRank 485 495	excedencia
-T162	Term-AttentionRank 703 713	excedencia
-T163	Term-AttentionRank 778 788	excedencia
-T164	Term-AttentionRank 1132 1142	excedencia
-T165	Term-AttentionRank 1587 1597	excedencia
-T166	Term-AttentionRank 1054 1064	resolución
-T167	Term-AttentionRank 1365 1379	consanguinidad
-T168	Term-AttentionRank 1227 1248	negociación colectiva
-T169	Term-AttentionRank 971 993	acogimiento permanente
-T170	Term-AttentionRank 415 418	año
-T171	Term-AttentionRank 563 567	años
-T172	Term-AttentionRank 668 672	años
-T173	Term-AttentionRank 820 824	años
-T174	Term-AttentionRank 1174 1178	años
-T175	Term-AttentionRank 204 209	cargo
-T176	Term-AttentionRank 335 340	cargo
-T177	Term-AttentionRank 1022 1032	nacimiento
-T178	Term-AttentionRank 792 812	duración no superior
-T179	Term-AttentionRank 1147 1167	duración no superior
-T180	Term-AttentionRank 857 861	hijo
-T181	Term-AttentionRank 767 774	periodo
-T182	Term-AttentionRank 1121 1128	periodo
-T183	Term-AttentionRank 1640 1647	periodo
-T184	Term-AttentionRank 971 982	acogimiento
-T185	Term-AttentionRank 951 956	fines
-T186	Term-AttentionRank 1013 1018	fecha
-T187	Term-AttentionRank 927 936	supuestos
-T188	Term-AttentionRank 238 248	asistencia
-T189	Term-AttentionRank 307 310	mes
-T190	Term-AttentionRank 538 543	meses
-T191	Term-AttentionRank 514 530	plazo no menor a
-T192	Term-AttentionRank 307 348	mes siguiente al cese en el cargo público
-T193	Term-AttentionRank 1562 1571	actividad
-T194	Term-AttentionRank 204 217	cargo público
-T195	Term-AttentionRank 335 348	cargo público
-T196	Term-AttentionRank 792 800	duración
-T197	Term-AttentionRank 1147 1155	duración
-T198	Term-AttentionRank 1208 1216	duración
-T199	Term-AttentionRank 1651 1659	duración
-T200	Term-AttentionRank 1587 1633	excedencia contemplada en el presente apartado
-T201	Term-AttentionRank 485 506	excedencia voluntaria
-T202	Term-AttentionRank 703 724	excedencia voluntaria
-T203	Term-AttentionRank 997 1003	contar
-T204	Term-AttentionRank 1755 1767	trabajadoras
-T205	Term-AttentionRank 1227 1238	negociación
-T206	Term-AttentionRank 356 366	trabajador
-T207	Term-AttentionRank 630 640	trabajador
-T208	Term-AttentionRank 733 745	trabajadores
-T209	Term-AttentionRank 1254 1266	trabajadores
-T210	Term-AttentionRank 1740 1752	trabajadores
-T211	Term-AttentionRank 100 106	puesto
-T212	Term-AttentionRank 514 519	plazo
-T213	Term-AttentionRank 841 848	cuidado
-T214	Term-AttentionRank 1283 1290	cuidado
-T215	Term-AttentionRank 401 408	empresa
-T216	Term-AttentionRank 1681 1686	forma
-T217	Term-AttentionRank 1305 1311	pareja
-T218	Term-AttentionRank 1436 1442	pareja
-T219	Term-AttentionRank 1562 1582	actividad retribuida
-T220	Term-AttentionRank 70 77	derecho
-T221	Term-AttentionRank 425 432	derecho
-T222	Term-AttentionRank 574 581	derecho
-T223	Term-AttentionRank 754 761	derecho
-T224	Term-AttentionRank 1108 1115	derecho
-T225	Term-AttentionRank 1714 1721	derecho
-T226	Term-AttentionRank 908 916	adopción
-T227	Term-AttentionRank 960 968	adopción
-T228	Term-AttentionRank 112 119	cómputo
-T229	Term-AttentionRank 613 616	vez
-T230	Term-AttentionRank 1348 1361	segundo grado
-T231	Term-AttentionRank 187 195	elección
-T232	Term-AttentionRank 1472 1476	edad
-T233	Term-AttentionRank 252 259	trabajo
-T234	Term-AttentionRank 143 151	vigencia
-T235	Term-AttentionRank 1042 1046	caso
-T236	Term-AttentionRank 1625 1633	apartado
-T237	Term-LabourLaw 1227 1248	negociación colectiva
-T238	Term-LabourLaw 908 916	adopción
-T239	Term-LabourLaw 960 968	adopción
-T240	Term-LabourLaw 252 259	trabajo
-T241	Term-LabourLaw 523 528	menor
-T242	Term-LabourLaw 1478 1487	accidente
-T243	Term-LabourLaw 1503 1515	discapacidad
-T244	Term-LabourLaw 356 366	trabajador
-T245	Term-LabourLaw 630 640	trabajador
-T246	Term-LabourLaw 733 743	trabajador
-T247	Term-LabourLaw 1254 1264	trabajador
-T248	Term-LabourLaw 1740 1750	trabajador
-T249	Term-LabourLaw 1755 1765	trabajador
-T250	Term-LabourLaw 6 16	excedencia
-T251	Term-LabourLaw 485 495	excedencia
-T252	Term-LabourLaw 703 713	excedencia
-T253	Term-LabourLaw 778 788	excedencia
-T254	Term-LabourLaw 1132 1142	excedencia
-T255	Term-LabourLaw 1587 1597	excedencia
-T256	Term-LabourLaw 187 195	elección
-T257	Term-LabourLaw 126 136	antigüedad
-T258	Term-LabourLaw 384 394	antigüedad
-T259	Term-LabourLaw 1295 1302	cónyuge
-T260	Term-LabourLaw 274 279	deber
-T261	Term-LabourLaw 143 151	vigencia
-T262	Term-LabourLaw 204 209	cargo
-T263	Term-LabourLaw 335 340	cargo
-T264	Term-LabourLaw 132 136	edad
-T265	Term-LabourLaw 390 394	edad
-T266	Term-LabourLaw 1472 1476	edad
-T267	Term-LabourLaw 1496 1500	edad
-T268	Term-LabourLaw 401 408	empresa
-T269	Term-LabourLaw 792 800	duración
-T270	Term-LabourLaw 1147 1155	duración
-T271	Term-LabourLaw 1208 1216	duración
-T272	Term-LabourLaw 1651 1659	duración
-T273	Term-LabourLaw 70 77	derecho
-T274	Term-LabourLaw 425 432	derecho
-T275	Term-LabourLaw 574 581	derecho
-T276	Term-LabourLaw 754 761	derecho
-T277	Term-LabourLaw 1108 1115	derecho
-T278	Term-LabourLaw 1714 1721	derecho
-T279	Term-LabourLaw 1386 1394	afinidad
-T280	Term-LabourLaw 1365 1379	consanguinidad
-T281	Term-LabourLaw 1356 1361	grado
-T282	Term-LabourLaw 767 774	periodo
-T283	Term-LabourLaw 1121 1128	periodo
-T284	Term-LabourLaw 1640 1647	periodo
-T285	Term-LabourLaw 143 151	vigencia
-T286	Term-LabourLaw 6 16	excedencia
-T287	Term-LabourLaw 485 495	excedencia
-T288	Term-LabourLaw 703 713	excedencia
-T289	Term-LabourLaw 778 788	excedencia
-T290	Term-LabourLaw 1132 1142	excedencia
-T291	Term-LabourLaw 1587 1597	excedencia
-T292	Term-IATE 204 209	cargo
-T293	Term-IATE 335 340	cargo
-T294	Term-IATE 514 519	plazo
-T295	Term-IATE 1054 1064	resolución
-T296	Term-IATE 401 408	empresa
-T297	Term-IATE 908 916	adopción
-T298	Term-IATE 960 968	adopción
-T299	Term-IATE 1625 1633	apartado
-T300	Term-IATE 356 366	trabajador
-T301	Term-IATE 630 640	trabajador
-T302	Term-IATE 733 745	trabajadores
-T303	Term-IATE 1254 1266	trabajadores
-T304	Term-IATE 1740 1752	trabajadores
-T305	Term-IATE 1365 1379	consanguinidad
-T306	Term-IATE 1562 1571	actividad
-T307	Term-IATE 1022 1032	nacimiento
-T308	Term-IATE 1227 1238	negociación
-T309	Term-IATE 857 861	hijo
-T310	Term-IATE 307 310	mes
-T311	Term-IATE 538 543	meses
-T312	Term-IATE 792 800	duración
-T313	Term-IATE 1147 1155	duración
-T314	Term-IATE 1208 1216	duración
-T315	Term-IATE 1651 1659	duración
+T1	Term-diccionario 1042 1046	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 204 209	cargo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 335 340	cargo
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1365 1379	consanguinidad
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 1227 1238	negociación
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 252 259	trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 401 408	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 6 16	excedencia
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 485 495	excedencia
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 703 713	excedencia
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 778 788	excedencia
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 1132 1142	excedencia
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1587 1597	excedencia
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 1681 1686	forma
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1054 1073	resolución judicial
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1562 1571	actividad
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1022 1032	nacimiento
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 971 982	acogimiento
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 485 506	excedencia voluntaria
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 703 724	excedencia voluntaria
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 1227 1248	negociación colectiva
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 1625 1633	apartado
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 100 106	puesto
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 1054 1064	resolución
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 187 195	elección
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 1472 1476	edad
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 415 418	año
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 563 567	años
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 668 672	años
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 820 824	años
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 1174 1178	años
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 1013 1018	fecha
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 204 217	cargo público
+#33	AnnotatorNotes T33 "Termcat"
+T34	Term-diccionario 335 348	cargo público
+#34	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 324 328	cese
+#35	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 83 95	conservación
+#36	AnnotatorNotes T36 "Termcat"
+#37	AnnotatorNotes T13 "Termcat"
+#38	AnnotatorNotes T9 "Termcat"
+#39	AnnotatorNotes T11 "Termcat"
+#40	AnnotatorNotes T10 "Termcat"
+#41	AnnotatorNotes T8 "Termcat"
+#42	AnnotatorNotes T12 "Termcat"
+#43	AnnotatorNotes T21 "Termcat"
+T37	Term-diccionario 264 273	reingreso
+#44	AnnotatorNotes T37 "Termcat"
+#45	AnnotatorNotes T24 "Termcat"
+T38	Term-diccionario 514 519	plazo
+#46	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 908 916	adopción
+#47	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 960 968	adopción
+#48	AnnotatorNotes T40 "Termcat"
+T41	Term-diccionario 1386 1394	afinidad
+#49	AnnotatorNotes T41 "Termcat"
+#50	AnnotatorNotes T4 "Termcat"
+T42	Term-diccionario 1503 1515	discapacidad
+#51	AnnotatorNotes T42 "Termcat"
+#52	AnnotatorNotes T26 "Termcat"
+#53	AnnotatorNotes T14 "Termcat"
+T43	Term-diccionario 1356 1361	grado
+#54	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 940 946	guarda
+#55	AnnotatorNotes T44 "Termcat"
+#56	AnnotatorNotes T17 "Termcat"
+T45	Term-diccionario 1305 1320	pareja de hecho
+#57	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1436 1451	pareja de hecho
+#58	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 1478 1487	accidente
+#59	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 126 136	antigüedad
+#60	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 384 394	antigüedad
+#61	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 238 248	asistencia
+#62	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 841 848	cuidado
+#63	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 1283 1290	cuidado
+#64	AnnotatorNotes T52 "Termcat"
+#65	AnnotatorNotes T2 "Termcat"
+#66	AnnotatorNotes T3 "Termcat"
+#67	AnnotatorNotes T7 "Termcat"
+#68	AnnotatorNotes T20 "Termcat"
+#69	AnnotatorNotes T19 "Termcat"
+#70	AnnotatorNotes T6 "Termcat"
+T53	Term-diccionario 1651 1659	duración
+#71	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 1147 1155	duración
+#72	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 792 800	duración
+#73	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 1208 1216	duración
+#74	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 143 151	vigencia
+#75	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 425 432	derecho
+#76	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 70 77	derecho
+#77	AnnotatorNotes T59 "Termcat"
+T60	Term-diccionario 1108 1115	derecho
+#78	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 754 761	derecho
+#79	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 1714 1721	derecho
+#80	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 574 581	derecho
+#81	AnnotatorNotes T63 "Termcat"
+#82	AnnotatorNotes T5 "Termcat"
+#83	AnnotatorNotes T15 "Termcat"
+#84	AnnotatorNotes T18 "Termcat"
+#85	AnnotatorNotes T16 "Termcat"
+T64	Term-diccionario 112 119	cómputo
+#86	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 1295 1302	cónyuge
+#87	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 1714 1732	derecho individual
+#88	AnnotatorNotes T66 "Termcat"
+#89	AnnotatorNotes T25 "Termcat"
+T67	Term-diccionario 523 528	menor
+#90	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 1159 1167	superior
+#91	AnnotatorNotes T68 "Termcat"
+T69	Term-diccionario 804 812	superior
+#92	AnnotatorNotes T69 "Termcat"
+T70	Term-diccionario 1446 1451	hecho
+#93	AnnotatorNotes T70 "Termcat"
+T71	Term-diccionario 1315 1320	hecho
+#94	AnnotatorNotes T71 "Termcat"
+T72	Term-automatico 792 814	duración no superior a
+#95	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 1147 1169	duración no superior a
+#96	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 6 16	excedencia
+#97	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 485 495	excedencia
+#98	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 703 713	excedencia
+#99	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 778 788	excedencia
+#100	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 1132 1142	excedencia
+#101	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 1587 1597	excedencia
+#102	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 1054 1064	resolución
+#103	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 1365 1379	consanguinidad
+#104	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1227 1248	negociación colectiva
+#105	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 971 993	acogimiento permanente
+#106	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 415 418	año
+#107	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 563 567	años
+#108	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 668 672	años
+#109	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 820 824	años
+#110	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 1174 1178	años
+#111	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 204 209	cargo
+#112	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 335 340	cargo
+#113	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1022 1032	nacimiento
+#114	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 792 812	duración no superior
+#115	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1147 1167	duración no superior
+#116	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 857 861	hijo
+#117	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 767 774	periodo
+#118	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 1121 1128	periodo
+#119	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 1640 1647	periodo
+#120	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 971 982	acogimiento
+#121	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 951 956	fines
+#122	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1013 1018	fecha
+#123	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 927 936	supuestos
+#124	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 238 248	asistencia
+#125	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 307 310	mes
+#126	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 538 543	meses
+#127	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 514 530	plazo no menor a
+#128	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 307 348	mes siguiente al cese en el cargo público
+#129	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1562 1571	actividad
+#130	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 204 217	cargo público
+#131	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 335 348	cargo público
+#132	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 792 800	duración
+#133	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 1147 1155	duración
+#134	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 1208 1216	duración
+#135	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 1651 1659	duración
+#136	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 1587 1633	excedencia contemplada en el presente apartado
+#137	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 485 506	excedencia voluntaria
+#138	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 703 724	excedencia voluntaria
+#139	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 997 1003	contar
+#140	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1755 1767	trabajadoras
+#141	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 1227 1238	negociación
+#142	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 356 366	trabajador
+#143	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 630 640	trabajador
+#144	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 733 745	trabajadores
+#145	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 1254 1266	trabajadores
+#146	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 1740 1752	trabajadores
+#147	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 100 106	puesto
+#148	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 514 519	plazo
+#149	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 841 848	cuidado
+#150	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 1283 1290	cuidado
+#151	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 401 408	empresa
+#152	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 1681 1686	forma
+#153	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 1305 1311	pareja
+#154	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 1436 1442	pareja
+#155	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 1562 1582	actividad retribuida
+#156	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 70 77	derecho
+#157	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 425 432	derecho
+#158	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 574 581	derecho
+#159	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 754 761	derecho
+#160	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 1108 1115	derecho
+#161	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 1714 1721	derecho
+#162	AnnotatorNotes T139 "AttentionRank"
+T140	Term-automatico 908 916	adopción
+#163	AnnotatorNotes T140 "AttentionRank"
+T141	Term-automatico 960 968	adopción
+#164	AnnotatorNotes T141 "AttentionRank"
+T142	Term-automatico 112 119	cómputo
+#165	AnnotatorNotes T142 "AttentionRank"
+T143	Term-automatico 613 616	vez
+#166	AnnotatorNotes T143 "AttentionRank"
+T144	Term-automatico 1348 1361	segundo grado
+#167	AnnotatorNotes T144 "AttentionRank"
+T145	Term-automatico 187 195	elección
+#168	AnnotatorNotes T145 "AttentionRank"
+T146	Term-automatico 1472 1476	edad
+#169	AnnotatorNotes T146 "AttentionRank"
+T147	Term-automatico 252 259	trabajo
+#170	AnnotatorNotes T147 "AttentionRank"
+T148	Term-automatico 143 151	vigencia
+#171	AnnotatorNotes T148 "AttentionRank"
+T149	Term-automatico 1042 1046	caso
+#172	AnnotatorNotes T149 "AttentionRank"
+T150	Term-automatico 1625 1633	apartado
+#173	AnnotatorNotes T150 "AttentionRank"
+#174	AnnotatorNotes T21 "LabourLaw"
+#175	AnnotatorNotes T39 "LabourLaw"
+#176	AnnotatorNotes T40 "LabourLaw"
+#177	AnnotatorNotes T6 "LabourLaw"
+#178	AnnotatorNotes T67 "LabourLaw"
+#179	AnnotatorNotes T47 "LabourLaw"
+#180	AnnotatorNotes T42 "LabourLaw"
+T151	Term-diccionario 356 366	trabajador
+#181	AnnotatorNotes T151 "LabourLaw"
+T152	Term-diccionario 630 640	trabajador
+#182	AnnotatorNotes T152 "LabourLaw"
+T153	Term-diccionario 733 743	trabajador
+#183	AnnotatorNotes T153 "LabourLaw"
+T154	Term-diccionario 1254 1264	trabajador
+#184	AnnotatorNotes T154 "LabourLaw"
+T155	Term-diccionario 1740 1750	trabajador
+#185	AnnotatorNotes T155 "LabourLaw"
+T156	Term-diccionario 1755 1765	trabajador
+#186	AnnotatorNotes T156 "LabourLaw"
+#187	AnnotatorNotes T8 "LabourLaw"
+#188	AnnotatorNotes T9 "LabourLaw"
+#189	AnnotatorNotes T10 "LabourLaw"
+#190	AnnotatorNotes T11 "LabourLaw"
+#191	AnnotatorNotes T12 "LabourLaw"
+#192	AnnotatorNotes T13 "LabourLaw"
+#193	AnnotatorNotes T25 "LabourLaw"
+#194	AnnotatorNotes T48 "LabourLaw"
+#195	AnnotatorNotes T49 "LabourLaw"
+#196	AnnotatorNotes T65 "LabourLaw"
+T157	Term-diccionario 274 279	deber
+#197	AnnotatorNotes T157 "LabourLaw"
+#198	AnnotatorNotes T57 "LabourLaw"
+#199	AnnotatorNotes T2 "LabourLaw"
+#200	AnnotatorNotes T3 "LabourLaw"
+T158	Term-diccionario 132 136	edad
+#201	AnnotatorNotes T158 "LabourLaw"
+T159	Term-diccionario 390 394	edad
+#202	AnnotatorNotes T159 "LabourLaw"
+#203	AnnotatorNotes T26 "LabourLaw"
+T160	Term-diccionario 1496 1500	edad
+#204	AnnotatorNotes T160 "LabourLaw"
+#205	AnnotatorNotes T7 "LabourLaw"
+#206	AnnotatorNotes T55 "LabourLaw"
+#207	AnnotatorNotes T54 "LabourLaw"
+#208	AnnotatorNotes T56 "LabourLaw"
+#209	AnnotatorNotes T53 "LabourLaw"
+#210	AnnotatorNotes T59 "LabourLaw"
+#211	AnnotatorNotes T58 "LabourLaw"
+#212	AnnotatorNotes T63 "LabourLaw"
+#213	AnnotatorNotes T61 "LabourLaw"
+#214	AnnotatorNotes T60 "LabourLaw"
+#215	AnnotatorNotes T62 "LabourLaw"
+#216	AnnotatorNotes T41 "LabourLaw"
+#217	AnnotatorNotes T4 "LabourLaw"
+#218	AnnotatorNotes T43 "LabourLaw"
+T161	Term-diccionario 767 774	periodo
+#219	AnnotatorNotes T161 "LabourLaw"
+T162	Term-diccionario 1121 1128	periodo
+#220	AnnotatorNotes T162 "LabourLaw"
+T163	Term-diccionario 1640 1647	periodo
+#221	AnnotatorNotes T163 "LabourLaw"
+#222	AnnotatorNotes T57 "LabourLaw"
+#223	AnnotatorNotes T8 "LabourLaw"
+#224	AnnotatorNotes T9 "LabourLaw"
+#225	AnnotatorNotes T10 "LabourLaw"
+#226	AnnotatorNotes T11 "LabourLaw"
+#227	AnnotatorNotes T12 "LabourLaw"
+#228	AnnotatorNotes T13 "LabourLaw"
+#229	AnnotatorNotes T2 "IATE"
+#230	AnnotatorNotes T3 "IATE"
+#231	AnnotatorNotes T38 "IATE"
+#232	AnnotatorNotes T24 "IATE"
+#233	AnnotatorNotes T7 "IATE"
+#234	AnnotatorNotes T39 "IATE"
+#235	AnnotatorNotes T40 "IATE"
+#236	AnnotatorNotes T22 "IATE"
+#237	AnnotatorNotes T151 "IATE"
+#238	AnnotatorNotes T152 "IATE"
+T164	Term-diccionario 733 745	trabajadores
+#239	AnnotatorNotes T164 "IATE"
+T165	Term-diccionario 1254 1266	trabajadores
+#240	AnnotatorNotes T165 "IATE"
+T166	Term-diccionario 1740 1752	trabajadores
+#241	AnnotatorNotes T166 "IATE"
+#242	AnnotatorNotes T4 "IATE"
+#243	AnnotatorNotes T16 "IATE"
+#244	AnnotatorNotes T17 "IATE"
+#245	AnnotatorNotes T5 "IATE"
+T167	Term-diccionario 857 861	hijo
+#246	AnnotatorNotes T167 "IATE"
+T168	Term-diccionario 307 310	mes
+#247	AnnotatorNotes T168 "IATE"
+T169	Term-diccionario 538 543	meses
+#248	AnnotatorNotes T169 "IATE"
+#249	AnnotatorNotes T55 "IATE"
+#250	AnnotatorNotes T54 "IATE"
+#251	AnnotatorNotes T56 "IATE"
+#252	AnnotatorNotes T53 "IATE"

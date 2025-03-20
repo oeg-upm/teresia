@@ -1,314 +1,407 @@
-T1	Term-DPEJ 331 338	acuerdo
-T2	Term-DPEJ 644 652	acuerdos
-T3	Term-DPEJ 331 353	acuerdo de cooperación
-T4	Term-DPEJ 127 134	empresa
-T5	Term-DPEJ 298 305	empresa
-T6	Term-DPEJ 496 503	empresa
-T7	Term-DPEJ 720 727	empresa
-T8	Term-DPEJ 1042 1049	empresa
-T9	Term-DPEJ 1138 1145	empresa
-T10	Term-DPEJ 655 664	convenios
-T11	Term-DPEJ 883 895	cumplimiento
-T12	Term-DPEJ 342 353	cooperación
-T13	Term-DPEJ 668 679	cooperación
-T14	Term-DPEJ 1416 1424	programa
-T15	Term-DPEJ 1667 1675	programa
-T16	Term-DPEJ 1198 1205	sistema
-T17	Term-DPEJ 946 954	contrato
-T18	Term-DPEJ 1361 1369	contrato
-T19	Term-DPEJ 1532 1540	contrato
-T20	Term-DPEJ 700 713	participación
-T21	Term-DPEJ 1544 1549	forma
-T22	Term-DPEJ 835 846	actividades
-T23	Term-DPEJ 1321 1330	actividad
-T24	Term-DPEJ 82 89	entidad
-T25	Term-DPEJ 381 388	entidad
-T26	Term-DPEJ 415 422	entidad
-T27	Term-DPEJ 1009 1016	entidad
-T28	Term-DPEJ 550 559	entidades
-T29	Term-DPEJ 266 270	plan
-T30	Term-DPEJ 1409 1413	plan
-T31	Term-DPEJ 1660 1664	plan
-T32	Term-DPEJ 733 739	planes
-T33	Term-DPEJ 788 797	contenido
-T34	Term-DPEJ 1483 1487	años
-T35	Term-DPEJ 73 79	centro
-T36	Term-DPEJ 372 378	centro
-T37	Term-DPEJ 406 412	centro
-T38	Term-DPEJ 1000 1006	centro
-T39	Term-DPEJ 1151 1157	centro
-T40	Term-DPEJ 512 519	centros
-T41	Term-DPEJ 601 608	centros
-T42	Term-Termcat 655 664	convenios
-T43	Term-Termcat 342 353	cooperación
-T44	Term-Termcat 668 679	cooperación
-T45	Term-Termcat 381 388	entidad
-T46	Term-Termcat 1009 1016	entidad
-T47	Term-Termcat 415 422	entidad
-T48	Term-Termcat 82 89	entidad
-T49	Term-Termcat 550 559	entidades
-T50	Term-Termcat 1361 1369	contrato
-T51	Term-Termcat 946 954	contrato
-T52	Term-Termcat 1532 1540	contrato
-T53	Term-Termcat 1544 1549	forma
-T54	Term-Termcat 921 926	parte
-T55	Term-Termcat 251 262	seguimiento
-T56	Term-Termcat 1198 1205	sistema
-T57	Term-Termcat 818 828	calendario
-T58	Term-Termcat 1042 1049	empresa
-T59	Term-Termcat 720 727	empresa
-T60	Term-Termcat 1138 1145	empresa
-T61	Term-Termcat 298 305	empresa
-T62	Term-Termcat 127 134	empresa
-T63	Term-Termcat 496 503	empresa
-T64	Term-Termcat 93 102	formación
-T65	Term-Termcat 1020 1029	formación
-T66	Term-Termcat 964 973	formación
-T67	Term-Termcat 174 183	formación
-T68	Term-Termcat 804 813	formación
-T69	Term-Termcat 1249 1258	formación
-T70	Term-Termcat 1101 1110	formación
-T71	Term-Termcat 523 544	formación profesional
-T72	Term-Termcat 239 246	función
-T73	Term-Termcat 853 863	requisitos
-T74	Term-Termcat 219 225	tareas
-T75	Term-Termcat 1348 1356	duración
-T76	Term-Termcat 331 353	acuerdo de cooperación
-T77	Term-Termcat 6 13	persona
-T78	Term-Termcat 41 48	persona
-T79	Term-Termcat 475 482	persona
-T80	Term-Termcat 644 652	acuerdos
-T81	Term-Termcat 835 846	actividades
-T82	Term-Termcat 1321 1330	actividad
-T83	Term-Termcat 883 895	cumplimiento
-T84	Term-Termcat 455 467	coordinación
-T85	Term-Termcat 1348 1369	duración del contrato
-T86	Term-Termcat 1302 1314	financiación
-T87	Term-Termcat 441 451	garantizar
-T88	Term-Termcat 281 291	individual
-T89	Term-Termcat 751 763	individuales
-T90	Term-Termcat 903 912	objetivos
-T91	Term-Termcat 700 713	participación
-T92	Term-Termcat 1660 1664	plan
-T93	Term-Termcat 266 270	plan
-T94	Term-Termcat 1409 1413	plan
-T95	Term-Termcat 733 739	planes
-T96	Term-Termcat 1667 1675	programa
-T97	Term-Termcat 1416 1424	programa
-T98	Term-Termcat 331 338	acuerdo
-T99	Term-Termcat 1514 1520	amparo
-T100	Term-Termcat 1111 1119	práctica
-T101	Term-DV 818 828	calendario
-T102	Term-DV 1227 1231	cara
-T103	Term-DV 777 780	cif
-T104	Term-DV 247 250	dar
-T105	Term-DV 823 826	dar
-T106	Term-DV 153 157	debe
-T107	Term-DV 423 427	debe
-T108	Term-DV 1630 1634	dios
-T109	Term-DV 982 990	dispensa
-T110	Term-DV 1120 1128	dispensa
-T111	Term-DV 127 134	empresa
-T112	Term-DV 298 305	empresa
-T113	Term-DV 496 503	empresa
-T114	Term-DV 720 727	empresa
-T115	Term-DV 1042 1049	empresa
-T116	Term-DV 1138 1145	empresa
-T117	Term-DV 536 538	fe
-T118	Term-DV 1302 1314	financiación
-T119	Term-DV 93 98	forma
-T120	Term-DV 174 179	forma
-T121	Term-DV 271 276	forma
-T122	Term-DV 389 394	forma
-T123	Term-DV 523 528	forma
-T124	Term-DV 560 565	forma
-T125	Term-DV 740 745	forma
-T126	Term-DV 804 809	forma
-T127	Term-DV 964 969	forma
-T128	Term-DV 1020 1025	forma
-T129	Term-DV 1101 1106	forma
-T130	Term-DV 1249 1254	forma
-T131	Term-DV 1331 1336	forma
-T132	Term-DV 1425 1430	forma
-T133	Term-DV 1544 1549	forma
-T134	Term-DV 1676 1681	forma
-T135	Term-DV 631 634	mar
-T136	Term-DV 461 467	nación
-T137	Term-DV 344 353	operación
-T138	Term-DV 670 679	operación
-T139	Term-DV 208 212	para
-T140	Term-DV 875 879	para
-T141	Term-DV 921 926	parte
-T142	Term-DV 1211 1220	partición
-T143	Term-DV 700 713	participación
-T144	Term-DV 6 13	persona
-T145	Term-DV 41 48	persona
-T146	Term-DV 475 482	persona
-T147	Term-DV 533 544	profesional
-T148	Term-DV 1420 1424	rama
-T149	Term-DV 1671 1675	rama
-T150	Term-DV 950 954	rato
-T151	Term-DV 1365 1369	rato
-T152	Term-DV 1536 1540	rato
-T153	Term-DV 1198 1205	sistema
-T154	Term-DV 285 291	vidual
-T155	Term-DV 755 761	vidual
-T156	Term-DV 319 322	vis
-T157	Term-DV 1381 1384	vis
-T158	Term-DV 1648 1651	vis
-T159	Term-DV 1381 1386	vista
-T160	Term-DV 187 188	x
-T161	Term-DV 1471 1472	x
-T162	Term-AttentionRank 788 797	contenido
-T163	Term-AttentionRank 921 926	parte
-T164	Term-AttentionRank 1626 1634	estudios
-T165	Term-AttentionRank 331 338	acuerdo
-T166	Term-AttentionRank 644 652	acuerdos
-T167	Term-AttentionRank 266 270	plan
-T168	Term-AttentionRank 1409 1413	plan
-T169	Term-AttentionRank 1660 1664	plan
-T170	Term-AttentionRank 733 739	planes
-T171	Term-AttentionRank 903 912	objetivos
-T172	Term-AttentionRank 1483 1487	años
-T173	Term-AttentionRank 41 55	persona tutora
-T174	Term-AttentionRank 475 489	persona tutora
-T175	Term-AttentionRank 1588 1596	periodos
-T176	Term-AttentionRank 883 895	cumplimiento
-T177	Term-AttentionRank 1058 1061	así
-T178	Term-AttentionRank 1260 1263	así
-T179	Term-AttentionRank 93 102	formación
-T180	Term-AttentionRank 174 183	formación
-T181	Term-AttentionRank 523 532	formación
-T182	Term-AttentionRank 804 813	formación
-T183	Term-AttentionRank 964 973	formación
-T184	Term-AttentionRank 1020 1029	formación
-T185	Term-AttentionRank 1101 1110	formación
-T186	Term-AttentionRank 1249 1258	formación
-T187	Term-AttentionRank 867 874	tutoría
-T188	Term-AttentionRank 1570 1604	largo de diversos periodos anuales
-T189	Term-AttentionRank 6 13	persona
-T190	Term-AttentionRank 41 48	persona
-T191	Term-AttentionRank 475 482	persona
-T192	Term-AttentionRank 1458 1463	meses
-T193	Term-AttentionRank 655 664	convenios
-T194	Term-AttentionRank 82 89	entidad
-T195	Term-AttentionRank 381 388	entidad
-T196	Term-AttentionRank 415 422	entidad
-T197	Term-AttentionRank 1009 1016	entidad
-T198	Term-AttentionRank 550 559	entidades
-T199	Term-AttentionRank 700 713	participación
-T200	Term-AttentionRank 213 218	tales
-T201	Term-AttentionRank 964 981	formación teórica
-T202	Term-AttentionRank 835 846	actividades
-T203	Term-AttentionRank 1321 1330	actividad
-T204	Term-AttentionRank 266 280	plan formativo
-T205	Term-AttentionRank 733 750	planes formativos
-T206	Term-AttentionRank 733 750	planes formativos
-T207	Term-AttentionRank 1348 1356	duración
-T208	Term-AttentionRank 1544 1563	forma no continuada
-T209	Term-AttentionRank 1198 1205	sistema
-T210	Term-AttentionRank 160 166	contar
-T211	Term-AttentionRank 1085 1119	correspondiente formación práctica
-T212	Term-AttentionRank 127 134	empresa
-T213	Term-AttentionRank 298 305	empresa
-T214	Term-AttentionRank 496 503	empresa
-T215	Term-AttentionRank 720 727	empresa
-T216	Term-AttentionRank 1042 1049	empresa
-T217	Term-AttentionRank 1138 1145	empresa
-T218	Term-AttentionRank 1544 1549	forma
-T219	Term-AttentionRank 73 79	centro
-T220	Term-AttentionRank 372 378	centro
-T221	Term-AttentionRank 406 412	centro
-T222	Term-AttentionRank 1000 1006	centro
-T223	Term-AttentionRank 1151 1157	centro
-T224	Term-AttentionRank 512 519	centros
-T225	Term-AttentionRank 601 608	centros
-T226	Term-AttentionRank 436 439	vez
-T227	Term-AttentionRank 239 246	función
-T228	Term-AttentionRank 946 954	contrato
-T229	Term-AttentionRank 1361 1369	contrato
-T230	Term-AttentionRank 1532 1540	contrato
-T231	Term-AttentionRank 1416 1424	programa
-T232	Term-AttentionRank 1667 1675	programa
-T233	Term-AttentionRank 523 544	formación profesional
-T234	Term-LabourLaw 1348 1369	duración del contrato
-T235	Term-LabourLaw 964 981	formación teórica
-T236	Term-LabourLaw 523 544	formación profesional
-T237	Term-LabourLaw 1101 1119	formación práctica
-T238	Term-LabourLaw 6 24	persona contratada
-T239	Term-LabourLaw 1516 1520	paro
-T240	Term-LabourLaw 946 954	contrato
-T241	Term-LabourLaw 1361 1369	contrato
-T242	Term-LabourLaw 1532 1540	contrato
-T243	Term-LabourLaw 631 636	marco
-T244	Term-LabourLaw 700 713	participación
-T245	Term-LabourLaw 883 895	cumplimiento
-T246	Term-LabourLaw 93 102	formación
-T247	Term-LabourLaw 174 183	formación
-T248	Term-LabourLaw 523 532	formación
-T249	Term-LabourLaw 804 813	formación
-T250	Term-LabourLaw 964 973	formación
-T251	Term-LabourLaw 1020 1029	formación
-T252	Term-LabourLaw 1101 1110	formación
-T253	Term-LabourLaw 1249 1258	formación
-T254	Term-LabourLaw 153 158	deber
-T255	Term-LabourLaw 423 428	deber
-T256	Term-LabourLaw 1514 1520	amparo
-T257	Term-LabourLaw 788 797	contenido
-T258	Term-LabourLaw 127 134	empresa
-T259	Term-LabourLaw 298 305	empresa
-T260	Term-LabourLaw 496 503	empresa
-T261	Term-LabourLaw 720 727	empresa
-T262	Term-LabourLaw 1042 1049	empresa
-T263	Term-LabourLaw 1138 1145	empresa
-T264	Term-LabourLaw 1348 1356	duración
-T265	Term-LabourLaw 853 862	requisito
-T266	Term-LabourLaw 342 353	cooperación
-T267	Term-LabourLaw 668 679	cooperación
-T268	Term-LabourLaw 344 353	operación
-T269	Term-LabourLaw 670 679	operación
-T270	Term-LabourLaw 1588 1595	periodo
-T271	Term-LabourLaw 6 13	persona
-T272	Term-LabourLaw 41 48	persona
-T273	Term-LabourLaw 475 482	persona
-T274	Term-IATE 921 926	parte
-T275	Term-IATE 331 338	acuerdo
-T276	Term-IATE 644 652	acuerdos
-T277	Term-IATE 127 134	empresa
-T278	Term-IATE 298 305	empresa
-T279	Term-IATE 496 503	empresa
-T280	Term-IATE 720 727	empresa
-T281	Term-IATE 1042 1049	empresa
-T282	Term-IATE 1138 1145	empresa
-T283	Term-IATE 239 246	función
-T284	Term-IATE 1626 1634	estudios
-T285	Term-IATE 266 270	plan
-T286	Term-IATE 1409 1413	plan
-T287	Term-IATE 1660 1664	plan
-T288	Term-IATE 733 739	planes
-T289	Term-IATE 700 713	participación
-T290	Term-IATE 867 874	tutoría
-T291	Term-IATE 835 846	actividades
-T292	Term-IATE 1321 1330	actividad
-T293	Term-IATE 82 89	entidad
-T294	Term-IATE 381 388	entidad
-T295	Term-IATE 415 422	entidad
-T296	Term-IATE 1009 1016	entidad
-T297	Term-IATE 550 559	entidades
-T298	Term-IATE 946 954	contrato
-T299	Term-IATE 1361 1369	contrato
-T300	Term-IATE 1532 1540	contrato
-T301	Term-IATE 1198 1205	sistema
-T302	Term-IATE 655 664	convenios
-T303	Term-IATE 1458 1463	meses
-T304	Term-IATE 1416 1424	programa
-T305	Term-IATE 1667 1675	programa
-T306	Term-IATE 1348 1356	duración
-T307	Term-IATE 93 102	formación
-T308	Term-IATE 174 183	formación
-T309	Term-IATE 523 532	formación
-T310	Term-IATE 804 813	formación
-T311	Term-IATE 964 973	formación
-T312	Term-IATE 1020 1029	formación
-T313	Term-IATE 1101 1110	formación
-T314	Term-IATE 1249 1258	formación
+T1	Term-diccionario 331 338	acuerdo
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 644 652	acuerdos
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 331 353	acuerdo de cooperación
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 127 134	empresa
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 298 305	empresa
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 496 503	empresa
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 720 727	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 1042 1049	empresa
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 1138 1145	empresa
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 655 664	convenios
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 883 895	cumplimiento
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 342 353	cooperación
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 668 679	cooperación
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 1416 1424	programa
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1667 1675	programa
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1198 1205	sistema
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 946 954	contrato
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 1361 1369	contrato
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 1532 1540	contrato
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 700 713	participación
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 1544 1549	forma
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 835 846	actividades
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 1321 1330	actividad
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 82 89	entidad
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 381 388	entidad
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 415 422	entidad
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1009 1016	entidad
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 550 559	entidades
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 266 270	plan
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 1409 1413	plan
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 1660 1664	plan
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 733 739	planes
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 788 797	contenido
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 1483 1487	años
+#34	AnnotatorNotes T34 "DPEJ"
+T35	Term-diccionario 73 79	centro
+#35	AnnotatorNotes T35 "DPEJ"
+T36	Term-diccionario 372 378	centro
+#36	AnnotatorNotes T36 "DPEJ"
+T37	Term-diccionario 406 412	centro
+#37	AnnotatorNotes T37 "DPEJ"
+T38	Term-diccionario 1000 1006	centro
+#38	AnnotatorNotes T38 "DPEJ"
+T39	Term-diccionario 1151 1157	centro
+#39	AnnotatorNotes T39 "DPEJ"
+T40	Term-diccionario 512 519	centros
+#40	AnnotatorNotes T40 "DPEJ"
+T41	Term-diccionario 601 608	centros
+#41	AnnotatorNotes T41 "DPEJ"
+#42	AnnotatorNotes T10 "Termcat"
+#43	AnnotatorNotes T12 "Termcat"
+#44	AnnotatorNotes T13 "Termcat"
+#45	AnnotatorNotes T25 "Termcat"
+#46	AnnotatorNotes T27 "Termcat"
+#47	AnnotatorNotes T26 "Termcat"
+#48	AnnotatorNotes T24 "Termcat"
+#49	AnnotatorNotes T28 "Termcat"
+#50	AnnotatorNotes T18 "Termcat"
+#51	AnnotatorNotes T17 "Termcat"
+#52	AnnotatorNotes T19 "Termcat"
+#53	AnnotatorNotes T21 "Termcat"
+T42	Term-diccionario 921 926	parte
+#54	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 251 262	seguimiento
+#55	AnnotatorNotes T43 "Termcat"
+#56	AnnotatorNotes T16 "Termcat"
+T44	Term-diccionario 818 828	calendario
+#57	AnnotatorNotes T44 "Termcat"
+#58	AnnotatorNotes T8 "Termcat"
+#59	AnnotatorNotes T7 "Termcat"
+#60	AnnotatorNotes T9 "Termcat"
+#61	AnnotatorNotes T5 "Termcat"
+#62	AnnotatorNotes T4 "Termcat"
+#63	AnnotatorNotes T6 "Termcat"
+T45	Term-diccionario 93 102	formación
+#64	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1020 1029	formación
+#65	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 964 973	formación
+#66	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 174 183	formación
+#67	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 804 813	formación
+#68	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 1249 1258	formación
+#69	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 1101 1110	formación
+#70	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 523 544	formación profesional
+#71	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 239 246	función
+#72	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 853 863	requisitos
+#73	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 219 225	tareas
+#74	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 1348 1356	duración
+#75	AnnotatorNotes T56 "Termcat"
+#76	AnnotatorNotes T3 "Termcat"
+T57	Term-diccionario 6 13	persona
+#77	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 41 48	persona
+#78	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 475 482	persona
+#79	AnnotatorNotes T59 "Termcat"
+#80	AnnotatorNotes T2 "Termcat"
+#81	AnnotatorNotes T22 "Termcat"
+#82	AnnotatorNotes T23 "Termcat"
+#83	AnnotatorNotes T11 "Termcat"
+T60	Term-diccionario 455 467	coordinación
+#84	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 1348 1369	duración del contrato
+#85	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 1302 1314	financiación
+#86	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 441 451	garantizar
+#87	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 281 291	individual
+#88	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 751 763	individuales
+#89	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 903 912	objetivos
+#90	AnnotatorNotes T66 "Termcat"
+#91	AnnotatorNotes T20 "Termcat"
+#92	AnnotatorNotes T31 "Termcat"
+#93	AnnotatorNotes T29 "Termcat"
+#94	AnnotatorNotes T30 "Termcat"
+#95	AnnotatorNotes T32 "Termcat"
+#96	AnnotatorNotes T15 "Termcat"
+#97	AnnotatorNotes T14 "Termcat"
+#98	AnnotatorNotes T1 "Termcat"
+T67	Term-diccionario 1514 1520	amparo
+#99	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 1111 1119	práctica
+#100	AnnotatorNotes T68 "Termcat"
+T69	Term-automatico 788 797	contenido
+#101	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 921 926	parte
+#102	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 1626 1634	estudios
+#103	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 331 338	acuerdo
+#104	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 644 652	acuerdos
+#105	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 266 270	plan
+#106	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 1409 1413	plan
+#107	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 1660 1664	plan
+#108	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 733 739	planes
+#109	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 903 912	objetivos
+#110	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 1483 1487	años
+#111	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 41 55	persona tutora
+#112	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 475 489	persona tutora
+#113	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1588 1596	periodos
+#114	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 883 895	cumplimiento
+#115	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 1058 1061	así
+#116	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 1260 1263	así
+#117	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 93 102	formación
+#118	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 174 183	formación
+#119	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 523 532	formación
+#120	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 804 813	formación
+#121	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 964 973	formación
+#122	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1020 1029	formación
+#123	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 1101 1110	formación
+#124	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1249 1258	formación
+#125	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 867 874	tutoría
+#126	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1570 1604	largo de diversos periodos anuales
+#127	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 6 13	persona
+#128	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 41 48	persona
+#129	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 475 482	persona
+#130	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1458 1463	meses
+#131	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 655 664	convenios
+#132	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 82 89	entidad
+#133	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 381 388	entidad
+#134	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 415 422	entidad
+#135	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1009 1016	entidad
+#136	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 550 559	entidades
+#137	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 700 713	participación
+#138	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 213 218	tales
+#139	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 964 981	formación teórica
+#140	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 835 846	actividades
+#141	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 1321 1330	actividad
+#142	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 266 280	plan formativo
+#143	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 733 750	planes formativos
+#144	AnnotatorNotes T112 "AttentionRank"
+#145	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 1348 1356	duración
+#146	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 1544 1563	forma no continuada
+#147	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 1198 1205	sistema
+#148	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 160 166	contar
+#149	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1085 1119	correspondiente formación práctica
+#150	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 127 134	empresa
+#151	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 298 305	empresa
+#152	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 496 503	empresa
+#153	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 720 727	empresa
+#154	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 1042 1049	empresa
+#155	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 1138 1145	empresa
+#156	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 1544 1549	forma
+#157	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 73 79	centro
+#158	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 372 378	centro
+#159	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 406 412	centro
+#160	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 1000 1006	centro
+#161	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 1151 1157	centro
+#162	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 512 519	centros
+#163	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 601 608	centros
+#164	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 436 439	vez
+#165	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 239 246	función
+#166	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 946 954	contrato
+#167	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 1361 1369	contrato
+#168	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 1532 1540	contrato
+#169	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 1416 1424	programa
+#170	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 1667 1675	programa
+#171	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 523 544	formación profesional
+#172	AnnotatorNotes T139 "AttentionRank"
+#173	AnnotatorNotes T61 "LabourLaw"
+T140	Term-diccionario 964 981	formación teórica
+#174	AnnotatorNotes T140 "LabourLaw"
+#175	AnnotatorNotes T52 "LabourLaw"
+T141	Term-diccionario 1101 1119	formación práctica
+#176	AnnotatorNotes T141 "LabourLaw"
+T142	Term-diccionario 6 24	persona contratada
+#177	AnnotatorNotes T142 "LabourLaw"
+T143	Term-diccionario 1516 1520	paro
+#178	AnnotatorNotes T143 "LabourLaw"
+#179	AnnotatorNotes T17 "LabourLaw"
+#180	AnnotatorNotes T18 "LabourLaw"
+#181	AnnotatorNotes T19 "LabourLaw"
+T144	Term-diccionario 631 636	marco
+#182	AnnotatorNotes T144 "LabourLaw"
+#183	AnnotatorNotes T20 "LabourLaw"
+#184	AnnotatorNotes T11 "LabourLaw"
+#185	AnnotatorNotes T45 "LabourLaw"
+#186	AnnotatorNotes T48 "LabourLaw"
+T145	Term-diccionario 523 532	formación
+#187	AnnotatorNotes T145 "LabourLaw"
+#188	AnnotatorNotes T49 "LabourLaw"
+#189	AnnotatorNotes T47 "LabourLaw"
+#190	AnnotatorNotes T46 "LabourLaw"
+#191	AnnotatorNotes T51 "LabourLaw"
+#192	AnnotatorNotes T50 "LabourLaw"
+T146	Term-diccionario 153 158	deber
+#193	AnnotatorNotes T146 "LabourLaw"
+T147	Term-diccionario 423 428	deber
+#194	AnnotatorNotes T147 "LabourLaw"
+#195	AnnotatorNotes T67 "LabourLaw"
+#196	AnnotatorNotes T33 "LabourLaw"
+#197	AnnotatorNotes T4 "LabourLaw"
+#198	AnnotatorNotes T5 "LabourLaw"
+#199	AnnotatorNotes T6 "LabourLaw"
+#200	AnnotatorNotes T7 "LabourLaw"
+#201	AnnotatorNotes T8 "LabourLaw"
+#202	AnnotatorNotes T9 "LabourLaw"
+#203	AnnotatorNotes T56 "LabourLaw"
+T148	Term-diccionario 853 862	requisito
+#204	AnnotatorNotes T148 "LabourLaw"
+#205	AnnotatorNotes T12 "LabourLaw"
+#206	AnnotatorNotes T13 "LabourLaw"
+T149	Term-diccionario 344 353	operación
+#207	AnnotatorNotes T149 "LabourLaw"
+T150	Term-diccionario 670 679	operación
+#208	AnnotatorNotes T150 "LabourLaw"
+T151	Term-diccionario 1588 1595	periodo
+#209	AnnotatorNotes T151 "LabourLaw"
+#210	AnnotatorNotes T57 "LabourLaw"
+#211	AnnotatorNotes T58 "LabourLaw"
+#212	AnnotatorNotes T59 "LabourLaw"
+#213	AnnotatorNotes T42 "IATE"
+#214	AnnotatorNotes T1 "IATE"
+#215	AnnotatorNotes T2 "IATE"
+#216	AnnotatorNotes T4 "IATE"
+#217	AnnotatorNotes T5 "IATE"
+#218	AnnotatorNotes T6 "IATE"
+#219	AnnotatorNotes T7 "IATE"
+#220	AnnotatorNotes T8 "IATE"
+#221	AnnotatorNotes T9 "IATE"
+#222	AnnotatorNotes T53 "IATE"
+T152	Term-diccionario 1626 1634	estudios
+#223	AnnotatorNotes T152 "IATE"
+#224	AnnotatorNotes T29 "IATE"
+#225	AnnotatorNotes T30 "IATE"
+#226	AnnotatorNotes T31 "IATE"
+#227	AnnotatorNotes T32 "IATE"
+#228	AnnotatorNotes T20 "IATE"
+T153	Term-diccionario 867 874	tutoría
+#229	AnnotatorNotes T153 "IATE"
+#230	AnnotatorNotes T22 "IATE"
+#231	AnnotatorNotes T23 "IATE"
+#232	AnnotatorNotes T24 "IATE"
+#233	AnnotatorNotes T25 "IATE"
+#234	AnnotatorNotes T26 "IATE"
+#235	AnnotatorNotes T27 "IATE"
+#236	AnnotatorNotes T28 "IATE"
+#237	AnnotatorNotes T17 "IATE"
+#238	AnnotatorNotes T18 "IATE"
+#239	AnnotatorNotes T19 "IATE"
+#240	AnnotatorNotes T16 "IATE"
+#241	AnnotatorNotes T10 "IATE"
+T154	Term-diccionario 1458 1463	meses
+#242	AnnotatorNotes T154 "IATE"
+#243	AnnotatorNotes T14 "IATE"
+#244	AnnotatorNotes T15 "IATE"
+#245	AnnotatorNotes T56 "IATE"
+#246	AnnotatorNotes T45 "IATE"
+#247	AnnotatorNotes T48 "IATE"
+#248	AnnotatorNotes T145 "IATE"
+#249	AnnotatorNotes T49 "IATE"
+#250	AnnotatorNotes T47 "IATE"
+#251	AnnotatorNotes T46 "IATE"
+#252	AnnotatorNotes T51 "IATE"
+#253	AnnotatorNotes T50 "IATE"

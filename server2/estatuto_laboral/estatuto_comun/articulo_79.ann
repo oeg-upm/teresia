@@ -1,125 +1,179 @@
-T1	Term-DPEJ 326 331	casos
-T2	Term-DPEJ 184 191	acuerdo
-T3	Term-DPEJ 766 771	letra
-T4	Term-DPEJ 62 79	centro de trabajo
-T5	Term-DPEJ 248 265	centro de trabajo
-T6	Term-DPEJ 72 79	trabajo
-T7	Term-DPEJ 169 176	trabajo
-T8	Term-DPEJ 258 265	trabajo
-T9	Term-DPEJ 630 637	empresa
-T10	Term-DPEJ 672 681	convenios
-T11	Term-DPEJ 13 18	Lugar
-T12	Term-DPEJ 37 42	lugar
-T13	Term-DPEJ 141 146	lugar
-T14	Term-DPEJ 672 692	convenios colectivos
-T15	Term-DPEJ 292 300	asamblea
-T16	Term-DPEJ 379 382	ley
-T17	Term-DPEJ 515 528	resarcimiento
-T18	Term-DPEJ 709 719	aplicación
-T19	Term-DPEJ 0 8	Artículo
-T20	Term-DPEJ 62 68	centro
-T21	Term-DPEJ 248 254	centro
-T22	Term-Termcat 672 681	convenios
-T23	Term-Termcat 537 542	daños
-T24	Term-Termcat 379 382	ley
-T25	Term-Termcat 515 528	resarcimiento
-T26	Term-Termcat 0 8	Artículo
-T27	Term-Termcat 590 597	reunión
-T28	Term-Termcat 46 53	reunión
-T29	Term-Termcat 447 454	reunión
-T30	Term-Termcat 22 29	reunión
-T31	Term-Termcat 248 265	centro de trabajo
-T32	Term-Termcat 62 79	centro de trabajo
-T33	Term-Termcat 672 692	convenios colectivos
-T34	Term-Termcat 630 637	empresa
-T35	Term-Termcat 169 176	trabajo
-T36	Term-Termcat 611 617	Cierre
-T37	Term-Termcat 184 191	acuerdo
-T38	Term-Termcat 709 719	aplicación
-T39	Term-Termcat 292 300	asamblea
-T40	Term-Termcat 274 285	celebración
-T41	Term-Termcat 618 623	legal
-T42	Term-DV 537 541	daño
-T43	Term-DV 228 232	debe
-T44	Term-DV 199 206	empresa
-T45	Term-DV 217 224	empresa
-T46	Term-DV 630 637	empresa
-T47	Term-DV 199 209	empresario
-T48	Term-DV 217 227	empresario
-T49	Term-DV 732 734	fe
-T50	Term-DV 503 509	fianza
-T51	Term-DV 655 660	forma
-T52	Term-DV 684 691	lectivo
-T53	Term-DV 618 623	legal
-T54	Term-DV 379 382	ley
-T55	Term-DV 266 270	para
-T56	Term-DV 710 715	plica
-T57	Term-DV 360 370	posiciones
-T58	Term-AttentionRank 22 29	reunión
-T59	Term-AttentionRank 46 53	reunión
-T60	Term-AttentionRank 447 454	reunión
-T61	Term-AttentionRank 590 597	reunión
-T62	Term-AttentionRank 515 528	resarcimiento
-T63	Term-AttentionRank 184 191	acuerdo
-T64	Term-AttentionRank 537 542	daños
-T65	Term-AttentionRank 292 300	asamblea
-T66	Term-AttentionRank 709 719	aplicación
-T67	Term-AttentionRank 0 8	Artículo
-T68	Term-AttentionRank 425 430	meses
-T69	Term-AttentionRank 672 681	convenios
-T70	Term-AttentionRank 13 18	Lugar
-T71	Term-AttentionRank 37 42	lugar
-T72	Term-AttentionRank 141 146	lugar
-T73	Term-AttentionRank 184 209	acuerdo con el empresario
-T74	Term-AttentionRank 315 331	siguientes casos
-T75	Term-AttentionRank 672 692	convenios colectivos
-T76	Term-AttentionRank 672 692	convenios colectivos
-T77	Term-AttentionRank 630 637	empresa
-T78	Term-AttentionRank 160 165	horas
-T79	Term-AttentionRank 379 382	ley
-T80	Term-AttentionRank 62 68	centro
-T81	Term-AttentionRank 248 254	centro
-T82	Term-AttentionRank 643 665	reuniones informativas
-T83	Term-AttentionRank 766 771	letra
-T84	Term-AttentionRank 72 79	trabajo
-T85	Term-AttentionRank 169 176	trabajo
-T86	Term-AttentionRank 258 265	trabajo
-T87	Term-AttentionRank 326 331	casos
-T88	Term-AttentionRank 199 209	empresario
-T89	Term-AttentionRank 217 227	empresario
-T90	Term-LabourLaw 37 53	lugar de reunión
-T91	Term-LabourLaw 62 79	centro de trabajo
-T92	Term-LabourLaw 248 265	centro de trabajo
-T93	Term-LabourLaw 72 79	trabajo
-T94	Term-LabourLaw 169 176	trabajo
-T95	Term-LabourLaw 258 265	trabajo
-T96	Term-LabourLaw 709 719	aplicación
-T97	Term-LabourLaw 379 382	ley
-T98	Term-LabourLaw 228 233	deber
-T99	Term-LabourLaw 199 209	empresario
-T100	Term-LabourLaw 217 227	empresario
-T101	Term-LabourLaw 199 206	empresa
-T102	Term-LabourLaw 217 224	empresa
-T103	Term-LabourLaw 630 637	empresa
-T104	Term-LabourLaw 22 29	reunión
-T105	Term-LabourLaw 46 53	reunión
-T106	Term-LabourLaw 447 454	reunión
-T107	Term-LabourLaw 590 597	reunión
-T108	Term-LabourLaw 682 691	colectivo
-T109	Term-LabourLaw 503 509	fianza
-T110	Term-LabourLaw 643 650	reunion
-T111	Term-IATE 709 719	aplicación
-T112	Term-IATE 0 8	Artículo
-T113	Term-IATE 184 191	acuerdo
-T114	Term-IATE 630 637	empresa
-T115	Term-IATE 22 29	reunión
-T116	Term-IATE 46 53	reunión
-T117	Term-IATE 447 454	reunión
-T118	Term-IATE 590 597	reunión
-T119	Term-IATE 199 209	empresario
-T120	Term-IATE 217 227	empresario
-T121	Term-IATE 292 300	asamblea
-T122	Term-IATE 537 542	daños
-T123	Term-IATE 672 681	convenios
-T124	Term-IATE 425 430	meses
-T125	Term-IATE 766 771	letra
+T1	Term-diccionario 326 331	casos
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 184 191	acuerdo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 766 771	letra
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 62 79	centro de trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 248 265	centro de trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 72 79	trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 169 176	trabajo
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 258 265	trabajo
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 630 637	empresa
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 672 681	convenios
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 13 18	Lugar
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 37 42	lugar
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 141 146	lugar
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 672 692	convenios colectivos
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 292 300	asamblea
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 379 382	ley
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 515 528	resarcimiento
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 709 719	aplicación
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 0 8	Artículo
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 62 68	centro
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 248 254	centro
+#21	AnnotatorNotes T21 "DPEJ"
+#22	AnnotatorNotes T10 "Termcat"
+T22	Term-diccionario 537 542	daños
+#23	AnnotatorNotes T22 "Termcat"
+#24	AnnotatorNotes T16 "Termcat"
+#25	AnnotatorNotes T17 "Termcat"
+#26	AnnotatorNotes T19 "Termcat"
+T23	Term-diccionario 590 597	reunión
+#27	AnnotatorNotes T23 "Termcat"
+T24	Term-diccionario 46 53	reunión
+#28	AnnotatorNotes T24 "Termcat"
+T25	Term-diccionario 447 454	reunión
+#29	AnnotatorNotes T25 "Termcat"
+T26	Term-diccionario 22 29	reunión
+#30	AnnotatorNotes T26 "Termcat"
+#31	AnnotatorNotes T5 "Termcat"
+#32	AnnotatorNotes T4 "Termcat"
+#33	AnnotatorNotes T14 "Termcat"
+#34	AnnotatorNotes T9 "Termcat"
+#35	AnnotatorNotes T7 "Termcat"
+T27	Term-diccionario 611 617	Cierre
+#36	AnnotatorNotes T27 "Termcat"
+#37	AnnotatorNotes T2 "Termcat"
+#38	AnnotatorNotes T18 "Termcat"
+#39	AnnotatorNotes T15 "Termcat"
+T28	Term-diccionario 274 285	celebración
+#40	AnnotatorNotes T28 "Termcat"
+T29	Term-diccionario 618 623	legal
+#41	AnnotatorNotes T29 "Termcat"
+T30	Term-automatico 22 29	reunión
+#42	AnnotatorNotes T30 "AttentionRank"
+T31	Term-automatico 46 53	reunión
+#43	AnnotatorNotes T31 "AttentionRank"
+T32	Term-automatico 447 454	reunión
+#44	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 590 597	reunión
+#45	AnnotatorNotes T33 "AttentionRank"
+T34	Term-automatico 515 528	resarcimiento
+#46	AnnotatorNotes T34 "AttentionRank"
+T35	Term-automatico 184 191	acuerdo
+#47	AnnotatorNotes T35 "AttentionRank"
+T36	Term-automatico 537 542	daños
+#48	AnnotatorNotes T36 "AttentionRank"
+T37	Term-automatico 292 300	asamblea
+#49	AnnotatorNotes T37 "AttentionRank"
+T38	Term-automatico 709 719	aplicación
+#50	AnnotatorNotes T38 "AttentionRank"
+T39	Term-automatico 0 8	Artículo
+#51	AnnotatorNotes T39 "AttentionRank"
+T40	Term-automatico 425 430	meses
+#52	AnnotatorNotes T40 "AttentionRank"
+T41	Term-automatico 672 681	convenios
+#53	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 13 18	Lugar
+#54	AnnotatorNotes T42 "AttentionRank"
+T43	Term-automatico 37 42	lugar
+#55	AnnotatorNotes T43 "AttentionRank"
+T44	Term-automatico 141 146	lugar
+#56	AnnotatorNotes T44 "AttentionRank"
+T45	Term-automatico 184 209	acuerdo con el empresario
+#57	AnnotatorNotes T45 "AttentionRank"
+T46	Term-automatico 315 331	siguientes casos
+#58	AnnotatorNotes T46 "AttentionRank"
+T47	Term-automatico 672 692	convenios colectivos
+#59	AnnotatorNotes T47 "AttentionRank"
+#60	AnnotatorNotes T47 "AttentionRank"
+T48	Term-automatico 630 637	empresa
+#61	AnnotatorNotes T48 "AttentionRank"
+T49	Term-automatico 160 165	horas
+#62	AnnotatorNotes T49 "AttentionRank"
+T50	Term-automatico 379 382	ley
+#63	AnnotatorNotes T50 "AttentionRank"
+T51	Term-automatico 62 68	centro
+#64	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 248 254	centro
+#65	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 643 665	reuniones informativas
+#66	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 766 771	letra
+#67	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 72 79	trabajo
+#68	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 169 176	trabajo
+#69	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 258 265	trabajo
+#70	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 326 331	casos
+#71	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 199 209	empresario
+#72	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 217 227	empresario
+#73	AnnotatorNotes T60 "AttentionRank"
+T61	Term-diccionario 37 53	lugar de reunión
+#74	AnnotatorNotes T61 "LabourLaw"
+#75	AnnotatorNotes T4 "LabourLaw"
+#76	AnnotatorNotes T5 "LabourLaw"
+#77	AnnotatorNotes T6 "LabourLaw"
+#78	AnnotatorNotes T7 "LabourLaw"
+#79	AnnotatorNotes T8 "LabourLaw"
+#80	AnnotatorNotes T18 "LabourLaw"
+#81	AnnotatorNotes T16 "LabourLaw"
+T62	Term-diccionario 228 233	deber
+#82	AnnotatorNotes T62 "LabourLaw"
+T63	Term-diccionario 199 209	empresario
+#83	AnnotatorNotes T63 "LabourLaw"
+T64	Term-diccionario 217 227	empresario
+#84	AnnotatorNotes T64 "LabourLaw"
+T65	Term-diccionario 199 206	empresa
+#85	AnnotatorNotes T65 "LabourLaw"
+T66	Term-diccionario 217 224	empresa
+#86	AnnotatorNotes T66 "LabourLaw"
+#87	AnnotatorNotes T9 "LabourLaw"
+#88	AnnotatorNotes T26 "LabourLaw"
+#89	AnnotatorNotes T24 "LabourLaw"
+#90	AnnotatorNotes T25 "LabourLaw"
+#91	AnnotatorNotes T23 "LabourLaw"
+T67	Term-diccionario 682 691	colectivo
+#92	AnnotatorNotes T67 "LabourLaw"
+T68	Term-diccionario 503 509	fianza
+#93	AnnotatorNotes T68 "LabourLaw"
+T69	Term-diccionario 643 650	reunion
+#94	AnnotatorNotes T69 "LabourLaw"
+#95	AnnotatorNotes T18 "IATE"
+#96	AnnotatorNotes T19 "IATE"
+#97	AnnotatorNotes T2 "IATE"
+#98	AnnotatorNotes T9 "IATE"
+#99	AnnotatorNotes T26 "IATE"
+#100	AnnotatorNotes T24 "IATE"
+#101	AnnotatorNotes T25 "IATE"
+#102	AnnotatorNotes T23 "IATE"
+#103	AnnotatorNotes T63 "IATE"
+#104	AnnotatorNotes T64 "IATE"
+#105	AnnotatorNotes T15 "IATE"
+#106	AnnotatorNotes T22 "IATE"
+#107	AnnotatorNotes T10 "IATE"
+T70	Term-diccionario 425 430	meses
+#108	AnnotatorNotes T70 "IATE"
+#109	AnnotatorNotes T3 "IATE"

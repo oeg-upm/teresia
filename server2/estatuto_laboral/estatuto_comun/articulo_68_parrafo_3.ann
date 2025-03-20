@@ -1,264 +1,343 @@
-T1	Term-DPEJ 972 976	caso
-T2	Term-DPEJ 200 207	mandato
-T3	Term-DPEJ 556 563	mandato
-T4	Term-DPEJ 1438 1445	mandato
-T5	Term-DPEJ 1511 1518	mandato
-T6	Term-DPEJ 1061 1068	trabajo
-T7	Term-DPEJ 269 276	empresa
-T8	Term-DPEJ 1037 1044	empresa
-T9	Term-DPEJ 880 888	convenio
-T10	Term-DPEJ 259 265	comité
-T11	Term-DPEJ 538 544	comité
-T12	Term-DPEJ 27 36	promoción
-T13	Term-DPEJ 97 106	promoción
-T14	Term-DPEJ 388 397	garantías
-T15	Term-DPEJ 1013 1018	causa
-T16	Term-DPEJ 110 120	elecciones
-T17	Term-DPEJ 454 464	elecciones
-T18	Term-DPEJ 661 670	instancia
-T19	Term-DPEJ 259 276	comité de empresa
-T20	Term-DPEJ 880 898	convenio colectivo
-T21	Term-DPEJ 630 638	asamblea
-T22	Term-DPEJ 1417 1423	tiempo
-T23	Term-DPEJ 228 236	personal
-T24	Term-DPEJ 514 522	personal
-T25	Term-DPEJ 766 774	personal
-T26	Term-DPEJ 1228 1236	personal
-T27	Term-DPEJ 569 577	decisión
-T28	Term-DPEJ 1310 1318	votación
-T29	Term-DPEJ 292 296	años
-T30	Term-DPEJ 1050 1057	centros
-T31	Term-DPEJ 820 830	revocación
-T32	Term-DPEJ 1322 1328	número
-T33	Term-Termcat 1573 1582	autoridad
-T34	Term-Termcat 880 888	convenio
-T35	Term-Termcat 661 670	instancia
-T36	Term-Termcat 820 830	revocación
-T37	Term-Termcat 862 873	tramitación
-T38	Term-Termcat 1438 1445	mandato
-T39	Term-Termcat 200 207	mandato
-T40	Term-Termcat 1511 1518	mandato
-T41	Term-Termcat 556 563	mandato
-T42	Term-Termcat 77 87	fehaciente
-T43	Term-Termcat 388 397	garantías
-T44	Term-Termcat 721 737	mayoría absoluta
-T45	Term-Termcat 757 765	sufragio
-T46	Term-Termcat 1332 1337	votos
-T47	Term-Termcat 1310 1318	votación
-T48	Term-Termcat 64 76	comunicación
-T49	Term-Termcat 27 36	promoción
-T50	Term-Termcat 97 106	promoción
-T51	Term-Termcat 1573 1590	autoridad laboral
-T52	Term-Termcat 259 276	comité de empresa
-T53	Term-Termcat 366 378	competencias
-T54	Term-Termcat 880 898	convenio colectivo
-T55	Term-Termcat 1037 1044	empresa
-T56	Term-Termcat 1061 1068	trabajo
-T57	Term-Termcat 514 522	personal
-T58	Term-Termcat 766 774	personal
-T59	Term-Termcat 228 236	personal
-T60	Term-Termcat 1228 1236	personal
-T61	Term-Termcat 991 998	vacante
-T62	Term-Termcat 1190 1197	vacante
-T63	Term-Termcat 1636 1654	tablón de anuncios
-T64	Term-Termcat 187 195	duración
-T65	Term-Termcat 569 577	decisión
-T66	Term-Termcat 721 728	mayoría
-T67	Term-Termcat 630 638	asamblea
-T68	Term-Termcat 1013 1018	causa
-T69	Term-Termcat 538 544	comité
-T70	Term-Termcat 652 658	efecto
-T71	Term-Termcat 110 120	elecciones
-T72	Term-Termcat 454 464	elecciones
-T73	Term-Termcat 349 358	ejercicio
-T74	Term-Termcat 793 800	secreto
-T75	Term-DV 717 726	por mayor
-T76	Term-DV 588 592	baja
-T77	Term-DV 1115 1119	baja
-T78	Term-DV 1275 1279	baja
-T79	Term-DV 1013 1018	causa
-T80	Term-DV 366 377	competencia
-T81	Term-DV 64 76	comunicación
-T82	Term-DV 37 41	debe
-T83	Term-DV 569 577	decisión
-T84	Term-DV 110 120	elecciones
-T85	Term-DV 454 464	elecciones
-T86	Term-DV 269 276	empresa
-T87	Term-DV 1037 1044	empresa
-T88	Term-DV 1596 1603	empresa
-T89	Term-DV 1596 1606	empresario
-T90	Term-DV 77 79	fe
-T91	Term-DV 653 655	fe
-T92	Term-DV 841 843	fe
-T93	Term-DV 1355 1357	fe
-T94	Term-DV 77 87	fehaciente
-T95	Term-DV 388 396	garantía
-T96	Term-DV 1583 1590	laboral
-T97	Term-DV 891 898	lectivo
-T98	Term-DV 706 712	lector
-T99	Term-DV 217 223	legado
-T100	Term-DV 503 509	legado
-T101	Term-DV 1217 1223	legado
-T102	Term-DV 776 781	libre
-T103	Term-DV 200 205	manda
-T104	Term-DV 556 561	manda
-T105	Term-DV 1438 1443	manda
-T106	Term-DV 1511 1516	manda
-T107	Term-DV 200 207	mandato
-T108	Term-DV 556 563	mandato
-T109	Term-DV 1438 1445	mandato
-T110	Term-DV 1511 1518	mandato
-T111	Term-DV 1647 1653	nuncio
-T112	Term-DV 228 235	persona
-T113	Term-DV 514 521	persona
-T114	Term-DV 766 773	persona
-T115	Term-DV 1228 1235	persona
-T116	Term-DV 228 236	personal
-T117	Term-DV 514 522	personal
-T118	Term-DV 766 774	personal
-T119	Term-DV 1228 1236	personal
-T120	Term-DV 905 911	plante
-T121	Term-DV 27 36	promoción
-T122	Term-DV 97 106	promoción
-T123	Term-DV 140 144	real
-T124	Term-DV 757 765	sufragio
-T125	Term-DV 585 595	trabajador
-T126	Term-DV 1112 1122	trabajador
-T127	Term-DV 1272 1282	trabajador
-T128	Term-DV 991 998	vacante
-T129	Term-DV 1190 1197	vacante
-T130	Term-DV 1332 1336	voto
-T131	Term-DV 1497 1498	x
-T132	Term-AttentionRank 1417 1423	tiempo
-T133	Term-AttentionRank 349 358	ejercicio
-T134	Term-AttentionRank 1573 1582	autoridad
-T135	Term-AttentionRank 292 296	años
-T136	Term-AttentionRank 1539 1554	oficina pública
-T137	Term-AttentionRank 630 638	asamblea
-T138	Term-AttentionRank 862 873	tramitación
-T139	Term-AttentionRank 1013 1018	causa
-T140	Term-AttentionRank 200 207	mandato
-T141	Term-AttentionRank 556 563	mandato
-T142	Term-AttentionRank 1438 1445	mandato
-T143	Term-AttentionRank 1511 1518	mandato
-T144	Term-AttentionRank 27 36	promoción
-T145	Term-AttentionRank 97 106	promoción
-T146	Term-AttentionRank 259 265	comité
-T147	Term-AttentionRank 538 544	comité
-T148	Term-AttentionRank 569 577	decisión
-T149	Term-AttentionRank 15 23	supuesto
-T150	Term-AttentionRank 447 464	nuevas elecciones
-T151	Term-AttentionRank 757 774	sufragio personal
-T152	Term-AttentionRank 1573 1590	autoridad laboral
-T153	Term-AttentionRank 956 961	meses
-T154	Term-AttentionRank 880 888	convenio
-T155	Term-AttentionRank 246 254	miembros
-T156	Term-AttentionRank 525 533	miembros
-T157	Term-AttentionRank 388 397	garantías
-T158	Term-AttentionRank 215 224	delegados
-T159	Term-AttentionRank 501 510	delegados
-T160	Term-AttentionRank 1215 1224	delegados
-T161	Term-AttentionRank 187 195	duración
-T162	Term-AttentionRank 64 76	comunicación
-T163	Term-AttentionRank 585 597	trabajadores
-T164	Term-AttentionRank 1112 1122	trabajador
-T165	Term-AttentionRank 1272 1282	trabajador
-T166	Term-AttentionRank 269 276	empresa
-T167	Term-AttentionRank 1037 1044	empresa
-T168	Term-AttentionRank 64 87	comunicación fehaciente
-T169	Term-AttentionRank 1050 1057	centros
-T170	Term-AttentionRank 820 830	revocación
-T171	Term-AttentionRank 1636 1642	tablón
-T172	Term-AttentionRank 1332 1337	votos
-T173	Term-AttentionRank 1112 1149	trabajador siguiente en la lista a la
-T174	Term-AttentionRank 630 683	asamblea convocada al efecto a instancia de un tercio
-T175	Term-AttentionRank 1322 1328	número
-T176	Term-AttentionRank 1310 1318	votación
-T177	Term-AttentionRank 652 658	efecto
-T178	Term-AttentionRank 880 898	convenio colectivo
-T179	Term-AttentionRank 705 714	electores
-T180	Term-AttentionRank 215 236	delegados de personal
-T181	Term-AttentionRank 501 522	delegados de personal
-T182	Term-AttentionRank 1215 1236	delegados de personal
-T183	Term-AttentionRank 661 670	instancia
-T184	Term-AttentionRank 228 236	personal
-T185	Term-AttentionRank 514 522	personal
-T186	Term-AttentionRank 766 774	personal
-T187	Term-AttentionRank 1228 1236	personal
-T188	Term-AttentionRank 1061 1068	trabajo
-T189	Term-AttentionRank 972 976	caso
-T190	Term-AttentionRank 1596 1606	empresario
-T191	Term-AttentionRank 1332 1387	votos inmediatamente inferior al último de los elegidos
-T192	Term-LabourLaw 215 236	delegados de personal
-T193	Term-LabourLaw 501 522	delegados de personal
-T194	Term-LabourLaw 1215 1236	delegados de personal
-T195	Term-LabourLaw 259 276	comité de empresa
-T196	Term-LabourLaw 1636 1654	tablón de anuncios
-T197	Term-LabourLaw 880 898	convenio colectivo
-T198	Term-LabourLaw 1539 1554	oficina pública
-T199	Term-LabourLaw 1573 1590	autoridad laboral
-T200	Term-LabourLaw 1061 1068	trabajo
-T201	Term-LabourLaw 1310 1318	votación
-T202	Term-LabourLaw 585 595	trabajador
-T203	Term-LabourLaw 1112 1122	trabajador
-T204	Term-LabourLaw 1272 1282	trabajador
-T205	Term-LabourLaw 200 207	mandato
-T206	Term-LabourLaw 556 563	mandato
-T207	Term-LabourLaw 1438 1445	mandato
-T208	Term-LabourLaw 1511 1518	mandato
-T209	Term-LabourLaw 37 42	deber
-T210	Term-LabourLaw 1596 1606	empresario
-T211	Term-LabourLaw 1573 1582	autoridad
-T212	Term-LabourLaw 862 873	tramitación
-T213	Term-LabourLaw 215 223	delegado
-T214	Term-LabourLaw 501 509	delegado
-T215	Term-LabourLaw 1215 1223	delegado
-T216	Term-LabourLaw 27 36	promoción
-T217	Term-LabourLaw 97 106	promoción
-T218	Term-LabourLaw 269 276	empresa
-T219	Term-LabourLaw 1037 1044	empresa
-T220	Term-LabourLaw 1596 1603	empresa
-T221	Term-LabourLaw 187 195	duración
-T222	Term-LabourLaw 259 265	comité
-T223	Term-LabourLaw 538 544	comité
-T224	Term-LabourLaw 1026 1032	comité
-T225	Term-LabourLaw 366 377	competencia
-T226	Term-LabourLaw 889 898	colectivo
-T227	Term-LabourLaw 228 236	personal
-T228	Term-LabourLaw 514 522	personal
-T229	Term-LabourLaw 766 774	personal
-T230	Term-LabourLaw 1228 1236	personal
-T231	Term-LabourLaw 228 235	persona
-T232	Term-LabourLaw 514 521	persona
-T233	Term-LabourLaw 766 773	persona
-T234	Term-LabourLaw 1228 1235	persona
-T235	Term-LabourLaw 27 36	promoción
-T236	Term-LabourLaw 97 106	promoción
-T237	Term-IATE 569 577	decisión
-T238	Term-IATE 269 276	empresa
-T239	Term-IATE 1037 1044	empresa
-T240	Term-IATE 1596 1606	empresario
-T241	Term-IATE 200 207	mandato
-T242	Term-IATE 556 563	mandato
-T243	Term-IATE 1438 1445	mandato
-T244	Term-IATE 1511 1518	mandato
-T245	Term-IATE 215 224	delegados
-T246	Term-IATE 501 510	delegados
-T247	Term-IATE 1215 1224	delegados
-T248	Term-IATE 820 830	revocación
-T249	Term-IATE 388 397	garantías
-T250	Term-IATE 661 670	instancia
-T251	Term-IATE 630 638	asamblea
-T252	Term-IATE 585 597	trabajadores
-T253	Term-IATE 1112 1122	trabajador
-T254	Term-IATE 1272 1282	trabajador
-T255	Term-IATE 1310 1318	votación
-T256	Term-IATE 246 254	miembros
-T257	Term-IATE 525 533	miembros
-T258	Term-IATE 259 265	comité
-T259	Term-IATE 538 544	comité
-T260	Term-IATE 652 658	efecto
-T261	Term-IATE 880 888	convenio
-T262	Term-IATE 349 358	ejercicio
-T263	Term-IATE 956 961	meses
-T264	Term-IATE 187 195	duración
+T1	Term-diccionario 972 976	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 200 207	mandato
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 556 563	mandato
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1438 1445	mandato
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 1511 1518	mandato
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1061 1068	trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 269 276	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 1037 1044	empresa
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 880 888	convenio
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 259 265	comité
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 538 544	comité
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 27 36	promoción
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 97 106	promoción
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 388 397	garantías
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1013 1018	causa
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 110 120	elecciones
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 454 464	elecciones
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 661 670	instancia
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 259 276	comité de empresa
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 880 898	convenio colectivo
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 630 638	asamblea
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 1417 1423	tiempo
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 228 236	personal
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 514 522	personal
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 766 774	personal
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 1228 1236	personal
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 569 577	decisión
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 1310 1318	votación
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 292 296	años
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 1050 1057	centros
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 820 830	revocación
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 1322 1328	número
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 1573 1582	autoridad
+#33	AnnotatorNotes T33 "Termcat"
+#34	AnnotatorNotes T9 "Termcat"
+#35	AnnotatorNotes T18 "Termcat"
+#36	AnnotatorNotes T31 "Termcat"
+T34	Term-diccionario 862 873	tramitación
+#37	AnnotatorNotes T34 "Termcat"
+#38	AnnotatorNotes T4 "Termcat"
+#39	AnnotatorNotes T2 "Termcat"
+#40	AnnotatorNotes T5 "Termcat"
+#41	AnnotatorNotes T3 "Termcat"
+T35	Term-diccionario 77 87	fehaciente
+#42	AnnotatorNotes T35 "Termcat"
+#43	AnnotatorNotes T14 "Termcat"
+T36	Term-diccionario 721 737	mayoría absoluta
+#44	AnnotatorNotes T36 "Termcat"
+T37	Term-diccionario 757 765	sufragio
+#45	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 1332 1337	votos
+#46	AnnotatorNotes T38 "Termcat"
+#47	AnnotatorNotes T28 "Termcat"
+T39	Term-diccionario 64 76	comunicación
+#48	AnnotatorNotes T39 "Termcat"
+#49	AnnotatorNotes T12 "Termcat"
+#50	AnnotatorNotes T13 "Termcat"
+T40	Term-diccionario 1573 1590	autoridad laboral
+#51	AnnotatorNotes T40 "Termcat"
+#52	AnnotatorNotes T19 "Termcat"
+T41	Term-diccionario 366 378	competencias
+#53	AnnotatorNotes T41 "Termcat"
+#54	AnnotatorNotes T20 "Termcat"
+#55	AnnotatorNotes T8 "Termcat"
+#56	AnnotatorNotes T6 "Termcat"
+#57	AnnotatorNotes T24 "Termcat"
+#58	AnnotatorNotes T25 "Termcat"
+#59	AnnotatorNotes T23 "Termcat"
+#60	AnnotatorNotes T26 "Termcat"
+T42	Term-diccionario 991 998	vacante
+#61	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 1190 1197	vacante
+#62	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 1636 1654	tablón de anuncios
+#63	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 187 195	duración
+#64	AnnotatorNotes T45 "Termcat"
+#65	AnnotatorNotes T27 "Termcat"
+T46	Term-diccionario 721 728	mayoría
+#66	AnnotatorNotes T46 "Termcat"
+#67	AnnotatorNotes T21 "Termcat"
+#68	AnnotatorNotes T15 "Termcat"
+#69	AnnotatorNotes T11 "Termcat"
+T47	Term-diccionario 652 658	efecto
+#70	AnnotatorNotes T47 "Termcat"
+#71	AnnotatorNotes T16 "Termcat"
+#72	AnnotatorNotes T17 "Termcat"
+T48	Term-diccionario 349 358	ejercicio
+#73	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 793 800	secreto
+#74	AnnotatorNotes T49 "Termcat"
+T50	Term-automatico 1417 1423	tiempo
+#75	AnnotatorNotes T50 "AttentionRank"
+T51	Term-automatico 349 358	ejercicio
+#76	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 1573 1582	autoridad
+#77	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 292 296	años
+#78	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 1539 1554	oficina pública
+#79	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 630 638	asamblea
+#80	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 862 873	tramitación
+#81	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 1013 1018	causa
+#82	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 200 207	mandato
+#83	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 556 563	mandato
+#84	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 1438 1445	mandato
+#85	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 1511 1518	mandato
+#86	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 27 36	promoción
+#87	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 97 106	promoción
+#88	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 259 265	comité
+#89	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 538 544	comité
+#90	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 569 577	decisión
+#91	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 15 23	supuesto
+#92	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 447 464	nuevas elecciones
+#93	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 757 774	sufragio personal
+#94	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 1573 1590	autoridad laboral
+#95	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 956 961	meses
+#96	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 880 888	convenio
+#97	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 246 254	miembros
+#98	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 525 533	miembros
+#99	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 388 397	garantías
+#100	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 215 224	delegados
+#101	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 501 510	delegados
+#102	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 1215 1224	delegados
+#103	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 187 195	duración
+#104	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 64 76	comunicación
+#105	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 585 597	trabajadores
+#106	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1112 1122	trabajador
+#107	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 1272 1282	trabajador
+#108	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 269 276	empresa
+#109	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 1037 1044	empresa
+#110	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 64 87	comunicación fehaciente
+#111	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 1050 1057	centros
+#112	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 820 830	revocación
+#113	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1636 1642	tablón
+#114	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1332 1337	votos
+#115	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1112 1149	trabajador siguiente en la lista a la
+#116	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 630 683	asamblea convocada al efecto a instancia de un tercio
+#117	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1322 1328	número
+#118	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 1310 1318	votación
+#119	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 652 658	efecto
+#120	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 880 898	convenio colectivo
+#121	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 705 714	electores
+#122	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 215 236	delegados de personal
+#123	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 501 522	delegados de personal
+#124	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1215 1236	delegados de personal
+#125	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 661 670	instancia
+#126	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 228 236	personal
+#127	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 514 522	personal
+#128	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 766 774	personal
+#129	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 1228 1236	personal
+#130	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 1061 1068	trabajo
+#131	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 972 976	caso
+#132	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1596 1606	empresario
+#133	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 1332 1387	votos inmediatamente inferior al último de los elegidos
+#134	AnnotatorNotes T109 "AttentionRank"
+T110	Term-diccionario 215 236	delegados de personal
+#135	AnnotatorNotes T110 "LabourLaw"
+T111	Term-diccionario 501 522	delegados de personal
+#136	AnnotatorNotes T111 "LabourLaw"
+T112	Term-diccionario 1215 1236	delegados de personal
+#137	AnnotatorNotes T112 "LabourLaw"
+#138	AnnotatorNotes T19 "LabourLaw"
+#139	AnnotatorNotes T44 "LabourLaw"
+#140	AnnotatorNotes T20 "LabourLaw"
+T113	Term-diccionario 1539 1554	oficina pública
+#141	AnnotatorNotes T113 "LabourLaw"
+#142	AnnotatorNotes T40 "LabourLaw"
+#143	AnnotatorNotes T6 "LabourLaw"
+#144	AnnotatorNotes T28 "LabourLaw"
+T114	Term-diccionario 585 595	trabajador
+#145	AnnotatorNotes T114 "LabourLaw"
+T115	Term-diccionario 1112 1122	trabajador
+#146	AnnotatorNotes T115 "LabourLaw"
+T116	Term-diccionario 1272 1282	trabajador
+#147	AnnotatorNotes T116 "LabourLaw"
+#148	AnnotatorNotes T2 "LabourLaw"
+#149	AnnotatorNotes T3 "LabourLaw"
+#150	AnnotatorNotes T4 "LabourLaw"
+#151	AnnotatorNotes T5 "LabourLaw"
+T117	Term-diccionario 37 42	deber
+#152	AnnotatorNotes T117 "LabourLaw"
+T118	Term-diccionario 1596 1606	empresario
+#153	AnnotatorNotes T118 "LabourLaw"
+#154	AnnotatorNotes T33 "LabourLaw"
+#155	AnnotatorNotes T34 "LabourLaw"
+T119	Term-diccionario 215 223	delegado
+#156	AnnotatorNotes T119 "LabourLaw"
+T120	Term-diccionario 501 509	delegado
+#157	AnnotatorNotes T120 "LabourLaw"
+T121	Term-diccionario 1215 1223	delegado
+#158	AnnotatorNotes T121 "LabourLaw"
+#159	AnnotatorNotes T12 "LabourLaw"
+#160	AnnotatorNotes T13 "LabourLaw"
+#161	AnnotatorNotes T7 "LabourLaw"
+#162	AnnotatorNotes T8 "LabourLaw"
+T122	Term-diccionario 1596 1603	empresa
+#163	AnnotatorNotes T122 "LabourLaw"
+#164	AnnotatorNotes T45 "LabourLaw"
+#165	AnnotatorNotes T10 "LabourLaw"
+#166	AnnotatorNotes T11 "LabourLaw"
+T123	Term-diccionario 1026 1032	comité
+#167	AnnotatorNotes T123 "LabourLaw"
+T124	Term-diccionario 366 377	competencia
+#168	AnnotatorNotes T124 "LabourLaw"
+T125	Term-diccionario 889 898	colectivo
+#169	AnnotatorNotes T125 "LabourLaw"
+#170	AnnotatorNotes T23 "LabourLaw"
+#171	AnnotatorNotes T24 "LabourLaw"
+#172	AnnotatorNotes T25 "LabourLaw"
+#173	AnnotatorNotes T26 "LabourLaw"
+T126	Term-diccionario 228 235	persona
+#174	AnnotatorNotes T126 "LabourLaw"
+T127	Term-diccionario 514 521	persona
+#175	AnnotatorNotes T127 "LabourLaw"
+T128	Term-diccionario 766 773	persona
+#176	AnnotatorNotes T128 "LabourLaw"
+T129	Term-diccionario 1228 1235	persona
+#177	AnnotatorNotes T129 "LabourLaw"
+#178	AnnotatorNotes T12 "LabourLaw"
+#179	AnnotatorNotes T13 "LabourLaw"
+#180	AnnotatorNotes T27 "IATE"
+#181	AnnotatorNotes T7 "IATE"
+#182	AnnotatorNotes T8 "IATE"
+#183	AnnotatorNotes T118 "IATE"
+#184	AnnotatorNotes T2 "IATE"
+#185	AnnotatorNotes T3 "IATE"
+#186	AnnotatorNotes T4 "IATE"
+#187	AnnotatorNotes T5 "IATE"
+T130	Term-diccionario 215 224	delegados
+#188	AnnotatorNotes T130 "IATE"
+T131	Term-diccionario 501 510	delegados
+#189	AnnotatorNotes T131 "IATE"
+T132	Term-diccionario 1215 1224	delegados
+#190	AnnotatorNotes T132 "IATE"
+#191	AnnotatorNotes T31 "IATE"
+#192	AnnotatorNotes T14 "IATE"
+#193	AnnotatorNotes T18 "IATE"
+#194	AnnotatorNotes T21 "IATE"
+T133	Term-diccionario 585 597	trabajadores
+#195	AnnotatorNotes T133 "IATE"
+#196	AnnotatorNotes T115 "IATE"
+#197	AnnotatorNotes T116 "IATE"
+#198	AnnotatorNotes T28 "IATE"
+T134	Term-diccionario 246 254	miembros
+#199	AnnotatorNotes T134 "IATE"
+T135	Term-diccionario 525 533	miembros
+#200	AnnotatorNotes T135 "IATE"
+#201	AnnotatorNotes T10 "IATE"
+#202	AnnotatorNotes T11 "IATE"
+#203	AnnotatorNotes T47 "IATE"
+#204	AnnotatorNotes T9 "IATE"
+#205	AnnotatorNotes T48 "IATE"
+T136	Term-diccionario 956 961	meses
+#206	AnnotatorNotes T136 "IATE"
+#207	AnnotatorNotes T45 "IATE"

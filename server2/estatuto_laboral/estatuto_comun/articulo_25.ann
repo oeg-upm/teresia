@@ -1,97 +1,139 @@
-T1	Term-DPEJ 395 405	salariales
-T2	Term-DPEJ 67 74	trabajo
-T3	Term-DPEJ 162 170	convenio
-T4	Term-DPEJ 374 382	Salarios
-T5	Term-DPEJ 13 32	Promoción económica
-T6	Term-DPEJ 115 134	promoción económica
-T7	Term-DPEJ 311 322	adquisición
-T8	Term-DPEJ 183 191	contrato
-T9	Term-DPEJ 13 22	Promoción
-T10	Term-DPEJ 115 124	promoción
-T11	Term-DPEJ 385 394	garantías
-T12	Term-DPEJ 162 180	convenio colectivo
-T13	Term-DPEJ 226 234	apartado
-T14	Term-DPEJ 0 8	Artículo
-T15	Term-Termcat 162 170	convenio
-T16	Term-Termcat 361 368	Sección
-T17	Term-Termcat 142 150	términos
-T18	Term-Termcat 311 322	adquisición
-T19	Term-Termcat 183 191	contrato
-T20	Term-Termcat 385 394	garantías
-T21	Term-Termcat 0 8	Artículo
-T22	Term-Termcat 13 22	Promoción
-T23	Term-Termcat 115 124	promoción
-T24	Term-Termcat 183 202	contrato individual
-T25	Term-Termcat 162 180	convenio colectivo
-T26	Term-Termcat 277 296	derechos adquiridos
-T27	Term-Termcat 67 74	trabajo
-T28	Term-Termcat 55 62	función
-T29	Term-Termcat 374 382	Salarios
-T30	Term-Termcat 395 405	salariales
-T31	Term-Termcat 101 108	derecho
-T32	Term-Termcat 277 285	derechos
-T33	Term-Termcat 192 202	individual
-T34	Term-Termcat 260 269	perjuicio
-T35	Term-Termcat 335 343	temporal
-T36	Term-DV 43 47	baja
-T37	Term-DV 101 108	derecho
-T38	Term-DV 277 284	derecho
-T39	Term-DV 385 393	garantía
-T40	Term-DV 263 269	juicio
-T41	Term-DV 173 180	lectivo
-T42	Term-DV 260 269	perjuicio
-T43	Term-DV 115 124	promoción
-T44	Term-DV 187 191	rato
-T45	Term-DV 395 399	sala
-T46	Term-DV 40 50	trabajador
-T47	Term-DV 196 202	vidual
-T48	Term-AttentionRank 311 322	adquisición
-T49	Term-AttentionRank 13 22	Promoción
-T50	Term-AttentionRank 115 124	promoción
-T51	Term-AttentionRank 13 32	Promoción económica
-T52	Term-AttentionRank 115 134	promoción económica
-T53	Term-AttentionRank 0 8	Artículo
-T54	Term-AttentionRank 361 368	Sección
-T55	Term-AttentionRank 226 243	apartado anterior
-T56	Term-AttentionRank 162 170	convenio
-T57	Term-AttentionRank 395 405	salariales
-T58	Term-AttentionRank 385 394	garantías
-T59	Term-AttentionRank 329 343	tramo temporal
-T60	Term-AttentionRank 55 87	función del trabajo desarrollado
-T61	Term-AttentionRank 40 50	trabajador
-T62	Term-AttentionRank 260 285	perjuicio de los derechos
-T63	Term-AttentionRank 374 382	Salarios
-T64	Term-AttentionRank 101 108	derecho
-T65	Term-AttentionRank 277 285	derechos
-T66	Term-AttentionRank 260 296	perjuicio de los derechos adquiridos
-T67	Term-AttentionRank 55 62	función
-T68	Term-AttentionRank 142 180	términos fijados en convenio colectivo
-T69	Term-AttentionRank 183 191	contrato
-T70	Term-AttentionRank 162 180	convenio colectivo
-T71	Term-AttentionRank 67 74	trabajo
-T72	Term-AttentionRank 302 307	curso
-T73	Term-AttentionRank 226 234	apartado
-T74	Term-LabourLaw 162 180	convenio colectivo
-T75	Term-LabourLaw 115 134	promoción económica
-T76	Term-LabourLaw 67 74	trabajo
-T77	Term-LabourLaw 183 191	contrato
-T78	Term-LabourLaw 40 50	trabajador
-T79	Term-LabourLaw 311 322	adquisición
-T80	Term-LabourLaw 115 124	promoción
-T81	Term-LabourLaw 101 108	derecho
-T82	Term-LabourLaw 277 284	derecho
-T83	Term-LabourLaw 260 269	perjuicio
-T84	Term-LabourLaw 142 149	término
-T85	Term-LabourLaw 171 180	colectivo
-T86	Term-LabourLaw 311 322	adquisición
-T87	Term-LabourLaw 115 124	promoción
-T88	Term-IATE 0 8	Artículo
-T89	Term-IATE 55 62	función
-T90	Term-IATE 311 322	adquisición
-T91	Term-IATE 374 382	Salarios
-T92	Term-IATE 385 394	garantías
-T93	Term-IATE 226 234	apartado
-T94	Term-IATE 40 50	trabajador
-T95	Term-IATE 361 368	Sección
-T96	Term-IATE 183 191	contrato
-T97	Term-IATE 162 170	convenio
+T1	Term-diccionario 395 405	salariales
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 67 74	trabajo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 162 170	convenio
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 374 382	Salarios
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 13 32	Promoción económica
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 115 134	promoción económica
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 311 322	adquisición
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 183 191	contrato
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 13 22	Promoción
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 115 124	promoción
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 385 394	garantías
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 162 180	convenio colectivo
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 226 234	apartado
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 0 8	Artículo
+#14	AnnotatorNotes T14 "DPEJ"
+#15	AnnotatorNotes T3 "Termcat"
+T15	Term-diccionario 361 368	Sección
+#16	AnnotatorNotes T15 "Termcat"
+T16	Term-diccionario 142 150	términos
+#17	AnnotatorNotes T16 "Termcat"
+#18	AnnotatorNotes T7 "Termcat"
+#19	AnnotatorNotes T8 "Termcat"
+#20	AnnotatorNotes T11 "Termcat"
+#21	AnnotatorNotes T14 "Termcat"
+#22	AnnotatorNotes T9 "Termcat"
+#23	AnnotatorNotes T10 "Termcat"
+T17	Term-diccionario 183 202	contrato individual
+#24	AnnotatorNotes T17 "Termcat"
+#25	AnnotatorNotes T12 "Termcat"
+T18	Term-diccionario 277 296	derechos adquiridos
+#26	AnnotatorNotes T18 "Termcat"
+#27	AnnotatorNotes T2 "Termcat"
+T19	Term-diccionario 55 62	función
+#28	AnnotatorNotes T19 "Termcat"
+#29	AnnotatorNotes T4 "Termcat"
+#30	AnnotatorNotes T1 "Termcat"
+T20	Term-diccionario 101 108	derecho
+#31	AnnotatorNotes T20 "Termcat"
+T21	Term-diccionario 277 285	derechos
+#32	AnnotatorNotes T21 "Termcat"
+T22	Term-diccionario 192 202	individual
+#33	AnnotatorNotes T22 "Termcat"
+T23	Term-diccionario 260 269	perjuicio
+#34	AnnotatorNotes T23 "Termcat"
+T24	Term-diccionario 335 343	temporal
+#35	AnnotatorNotes T24 "Termcat"
+T25	Term-automatico 311 322	adquisición
+#36	AnnotatorNotes T25 "AttentionRank"
+T26	Term-automatico 13 22	Promoción
+#37	AnnotatorNotes T26 "AttentionRank"
+T27	Term-automatico 115 124	promoción
+#38	AnnotatorNotes T27 "AttentionRank"
+T28	Term-automatico 13 32	Promoción económica
+#39	AnnotatorNotes T28 "AttentionRank"
+T29	Term-automatico 115 134	promoción económica
+#40	AnnotatorNotes T29 "AttentionRank"
+T30	Term-automatico 0 8	Artículo
+#41	AnnotatorNotes T30 "AttentionRank"
+T31	Term-automatico 361 368	Sección
+#42	AnnotatorNotes T31 "AttentionRank"
+T32	Term-automatico 226 243	apartado anterior
+#43	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 162 170	convenio
+#44	AnnotatorNotes T33 "AttentionRank"
+T34	Term-automatico 395 405	salariales
+#45	AnnotatorNotes T34 "AttentionRank"
+T35	Term-automatico 385 394	garantías
+#46	AnnotatorNotes T35 "AttentionRank"
+T36	Term-automatico 329 343	tramo temporal
+#47	AnnotatorNotes T36 "AttentionRank"
+T37	Term-automatico 55 87	función del trabajo desarrollado
+#48	AnnotatorNotes T37 "AttentionRank"
+T38	Term-automatico 40 50	trabajador
+#49	AnnotatorNotes T38 "AttentionRank"
+T39	Term-automatico 260 285	perjuicio de los derechos
+#50	AnnotatorNotes T39 "AttentionRank"
+T40	Term-automatico 374 382	Salarios
+#51	AnnotatorNotes T40 "AttentionRank"
+T41	Term-automatico 101 108	derecho
+#52	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 277 285	derechos
+#53	AnnotatorNotes T42 "AttentionRank"
+T43	Term-automatico 260 296	perjuicio de los derechos adquiridos
+#54	AnnotatorNotes T43 "AttentionRank"
+T44	Term-automatico 55 62	función
+#55	AnnotatorNotes T44 "AttentionRank"
+T45	Term-automatico 142 180	términos fijados en convenio colectivo
+#56	AnnotatorNotes T45 "AttentionRank"
+T46	Term-automatico 183 191	contrato
+#57	AnnotatorNotes T46 "AttentionRank"
+T47	Term-automatico 162 180	convenio colectivo
+#58	AnnotatorNotes T47 "AttentionRank"
+T48	Term-automatico 67 74	trabajo
+#59	AnnotatorNotes T48 "AttentionRank"
+T49	Term-automatico 302 307	curso
+#60	AnnotatorNotes T49 "AttentionRank"
+T50	Term-automatico 226 234	apartado
+#61	AnnotatorNotes T50 "AttentionRank"
+#62	AnnotatorNotes T12 "LabourLaw"
+#63	AnnotatorNotes T6 "LabourLaw"
+#64	AnnotatorNotes T2 "LabourLaw"
+#65	AnnotatorNotes T8 "LabourLaw"
+T51	Term-diccionario 40 50	trabajador
+#66	AnnotatorNotes T51 "LabourLaw"
+#67	AnnotatorNotes T7 "LabourLaw"
+#68	AnnotatorNotes T10 "LabourLaw"
+#69	AnnotatorNotes T20 "LabourLaw"
+T52	Term-diccionario 277 284	derecho
+#70	AnnotatorNotes T52 "LabourLaw"
+#71	AnnotatorNotes T23 "LabourLaw"
+T53	Term-diccionario 142 149	término
+#72	AnnotatorNotes T53 "LabourLaw"
+T54	Term-diccionario 171 180	colectivo
+#73	AnnotatorNotes T54 "LabourLaw"
+#74	AnnotatorNotes T7 "LabourLaw"
+#75	AnnotatorNotes T10 "LabourLaw"
+#76	AnnotatorNotes T14 "IATE"
+#77	AnnotatorNotes T19 "IATE"
+#78	AnnotatorNotes T7 "IATE"
+#79	AnnotatorNotes T4 "IATE"
+#80	AnnotatorNotes T11 "IATE"
+#81	AnnotatorNotes T13 "IATE"
+#82	AnnotatorNotes T51 "IATE"
+#83	AnnotatorNotes T15 "IATE"
+#84	AnnotatorNotes T8 "IATE"
+#85	AnnotatorNotes T3 "IATE"

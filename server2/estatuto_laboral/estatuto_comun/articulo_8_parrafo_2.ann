@@ -1,349 +1,461 @@
-T1	Term-DPEJ 621 628	acuerdo
-T2	Term-DPEJ 718 727	intimidad
-T3	Term-DPEJ 791 800	intimidad
-T4	Term-DPEJ 1276 1282	empleo
-T5	Term-DPEJ 1411 1417	empleo
-T6	Term-DPEJ 1630 1637	órganos
-T7	Term-DPEJ 210 219	dirección
-T8	Term-DPEJ 100 109	contratos
-T9	Term-DPEJ 163 172	contratos
-T10	Term-DPEJ 1586 1595	contratos
-T11	Term-DPEJ 375 383	contrato
-T12	Term-DPEJ 456 464	contrato
-T13	Term-DPEJ 1079 1087	contrato
-T14	Term-DPEJ 1641 1654	participación
-T15	Term-DPEJ 890 899	garantías
-T16	Term-DPEJ 674 684	protección
-T17	Term-DPEJ 950 960	protección
-T18	Term-DPEJ 950 969	protección de datos
-T19	Term-DPEJ 259 271	notificación
-T20	Term-DPEJ 636 639	Ley
-T21	Term-DPEJ 446 451	datos
-T22	Term-DPEJ 964 969	datos
-T23	Term-DPEJ 762 768	imagen
-T24	Term-DPEJ 250 255	deber
-T25	Term-DPEJ 674 690	protección civil
-T26	Term-DPEJ 728 736	personal
-T27	Term-DPEJ 801 809	personal
-T28	Term-DPEJ 176 184	relación
-T29	Term-DPEJ 361 370	contenido
-T30	Term-DPEJ 832 843	información
-T31	Term-DPEJ 636 648	Ley Orgánica
-T32	Term-DPEJ 481 487	número
-T33	Term-DPEJ 530 536	número
-T34	Term-Termcat 492 523	documento nacional de identidad
-T35	Term-Termcat 582 588	estado
-T36	Term-Termcat 636 648	Ley Orgánica
-T37	Term-Termcat 259 271	notificación
-T38	Term-Termcat 1022 1027	plazo
-T39	Term-Termcat 100 109	contratos
-T40	Term-Termcat 163 172	contratos
-T41	Term-Termcat 1586 1595	contratos
-T42	Term-Termcat 375 383	contrato
-T43	Term-Termcat 456 464	contrato
-T44	Term-Termcat 1079 1087	contrato
-T45	Term-Termcat 250 255	deber
-T46	Term-Termcat 568 577	domicilio
-T47	Term-Termcat 582 594	estado civil
-T48	Term-Termcat 1705 1715	facultades
-T49	Term-Termcat 890 899	garantías
-T50	Term-Termcat 389 398	legalidad
-T51	Term-Termcat 636 639	Ley
-T52	Term-Termcat 29 43	representación
-T53	Term-Termcat 277 291	representación
-T54	Term-Termcat 1301 1315	representación
-T55	Term-Termcat 1095 1109	representantes
-T56	Term-Termcat 1423 1437	representantes
-T57	Term-Termcat 1444 1458	Administración
-T58	Term-Termcat 205 209	alta
-T59	Term-Termcat 210 219	dirección
-T60	Term-Termcat 1411 1417	empleo
-T61	Term-Termcat 1276 1282	empleo
-T62	Term-Termcat 1641 1668	participación institucional
-T63	Term-Termcat 801 809	personal
-T64	Term-Termcat 728 736	personal
-T65	Term-Termcat 1728 1746	sigilo profesional
-T66	Term-Termcat 589 594	civil
-T67	Term-Termcat 685 690	civil
-T68	Term-Termcat 695 702	derecho
-T69	Term-Termcat 950 969	protección de datos
-T70	Term-Termcat 1554 1560	acceso
-T71	Term-Termcat 621 628	acuerdo
-T72	Term-Termcat 1834 1846	conocimiento
-T73	Term-Termcat 1566 1578	copia básica
-T74	Term-Termcat 413 425	copia básica
-T75	Term-Termcat 1370 1382	copia básica
-T76	Term-Termcat 974 986	copia básica
-T77	Term-Termcat 1236 1248	copia básica
-T78	Term-Termcat 74 86	copia básica
-T79	Term-Termcat 492 501	documento
-T80	Term-Termcat 695 711	derecho al honor
-T81	Term-Termcat 1161 1168	efectos
-T82	Term-Termcat 1528 1541	empresariales
-T83	Term-Termcat 146 155	excepción
-T84	Term-Termcat 467 476	excepción
-T85	Term-Termcat 514 523	identidad
-T86	Term-Termcat 540 549	identidad
-T87	Term-Termcat 762 768	imagen
-T88	Term-Termcat 832 843	información
-T89	Term-Termcat 292 297	legal
-T90	Term-Termcat 1316 1321	legal
-T91	Term-Termcat 44 49	legal
-T92	Term-Termcat 1110 1117	legales
-T93	Term-Termcat 1205 1212	entrega
-T94	Term-Termcat 939 946	materia
-T95	Term-Termcat 502 510	nacional
-T96	Term-Termcat 916 925	normativa
-T97	Term-Termcat 1630 1637	órganos
-T98	Term-Termcat 1641 1654	participación
-T99	Term-Termcat 1612 1623	pertenencia
-T100	Term-Termcat 877 887	principios
-T101	Term-Termcat 176 219	relación laboral especial de alta dirección
-T102	Term-Termcat 1031 1039	superior
-T103	Term-Termcat 399 406	vigente
-T104	Term-Termcat 1172 1181	acreditar
-T105	Term-Termcat 346 356	adecuación
-T106	Term-Termcat 1775 1788	documentación
-T107	Term-Termcat 1095 1117	representantes legales
-T108	Term-DV 1728 1746	sigilo profesional
-T109	Term-DV 60 64	baja
-T110	Term-DV 308 312	baja
-T111	Term-DV 1128 1132	baja
-T112	Term-DV 1332 1336	baja
-T113	Term-DV 589 594	civil
-T114	Term-DV 685 690	civil
-T115	Term-DV 250 254	debe
-T116	Term-DV 1350 1354	debe
-T117	Term-DV 695 702	derecho
-T118	Term-DV 1047 1050	día
-T119	Term-DV 210 219	dirección
-T120	Term-DV 492 501	documento
-T121	Term-DV 568 577	domicilio
-T122	Term-DV 1161 1168	efectos
-T123	Term-DV 3 10	empresa
-T124	Term-DV 1007 1014	empresa
-T125	Term-DV 1528 1535	empresa
-T126	Term-DV 3 13	empresario
-T127	Term-DV 1007 1017	empresario
-T128	Term-DV 1705 1713	facultad
-T129	Term-DV 739 746	familia
-T130	Term-DV 779 781	fe
-T131	Term-DV 1162 1164	fe
-T132	Term-DV 1738 1740	fe
-T133	Term-DV 1150 1155	firma
-T134	Term-DV 834 839	forma
-T135	Term-DV 1061 1066	forma
-T136	Term-DV 1357 1362	forma
-T137	Term-DV 890 898	garantía
-T138	Term-DV 706 711	honor
-T139	Term-DV 514 523	identidad
-T140	Term-DV 540 549	identidad
-T141	Term-DV 185 192	laboral
-T142	Term-DV 44 49	legal
-T143	Term-DV 292 297	legal
-T144	Term-DV 389 394	legal
-T145	Term-DV 1110 1115	legal
-T146	Term-DV 1316 1321	legal
-T147	Term-DV 389 398	legalidad
-T148	Term-DV 1153 1156	mar
-T149	Term-DV 916 921	norma
-T150	Term-DV 259 271	notificación
-T151	Term-DV 1789 1793	para
-T152	Term-DV 1641 1654	participación
-T153	Term-DV 728 735	persona
-T154	Term-DV 801 808	persona
-T155	Term-DV 728 736	personal
-T156	Term-DV 801 809	personal
-T157	Term-DV 1612 1623	pertenencia
-T158	Term-DV 1022 1027	plazo
-T159	Term-DV 927 932	plica
-T160	Term-DV 31 43	presentación
-T161	Term-DV 279 291	presentación
-T162	Term-DV 1303 1315	presentación
-T163	Term-DV 877 886	principio
-T164	Term-DV 1735 1746	profesional
-T165	Term-DV 104 108	rato
-T166	Term-DV 167 171	rato
-T167	Term-DV 379 383	rato
-T168	Term-DV 460 464	rato
-T169	Term-DV 1083 1087	rato
-T170	Term-DV 1590 1594	rato
-T171	Term-DV 1673 1684	reglamentar
-T172	Term-DV 29 43	representación
-T173	Term-DV 277 291	representación
-T174	Term-DV 1301 1315	representación
-T175	Term-DV 1728 1734	sigilo
-T176	Term-DV 1615 1623	tenencia
-T177	Term-DV 57 67	trabajador
-T178	Term-DV 305 315	trabajador
-T179	Term-DV 1125 1135	trabajador
-T180	Term-DV 1329 1339	trabajador
-T181	Term-DV 399 406	vigente
-T182	Term-DV 591 594	vil
-T183	Term-DV 687 690	vil
-T184	Term-DV 1599 1605	virtud
-T185	Term-DV 903 906	vis
-T186	Term-DV 147 148	x
-T187	Term-DV 468 469	x
-T188	Term-DV 554 555	x
-T189	Term-DV 1295 1296	x
-T190	Term-AttentionRank 361 370	contenido
-T191	Term-AttentionRank 176 192	relación laboral
-T192	Term-AttentionRank 1276 1282	empleo
-T193	Term-AttentionRank 1411 1417	empleo
-T194	Term-AttentionRank 1095 1109	representantes
-T195	Term-AttentionRank 1423 1437	representantes
-T196	Term-AttentionRank 1095 1117	representantes legales
-T197	Term-AttentionRank 1095 1117	representantes legales
-T198	Term-AttentionRank 1728 1746	sigilo profesional
-T199	Term-AttentionRank 621 628	acuerdo
-T200	Term-AttentionRank 1047 1051	días
-T201	Term-AttentionRank 210 219	dirección
-T202	Term-AttentionRank 1599 1605	virtud
-T203	Term-AttentionRank 176 184	relación
-T204	Term-AttentionRank 1161 1171	efectos de
-T205	Term-AttentionRank 326 329	fin
-T206	Term-AttentionRank 1794 1799	fines
-T207	Term-AttentionRank 1460 1463	así
-T208	Term-AttentionRank 1480 1505	organizaciones sindicales
-T209	Term-AttentionRank 832 843	información
-T210	Term-AttentionRank 205 219	alta dirección
-T211	Term-AttentionRank 259 271	notificación
-T212	Term-AttentionRank 1641 1654	participación
-T213	Term-AttentionRank 1699 1704	tales
-T214	Term-AttentionRank 446 451	datos
-T215	Term-AttentionRank 964 969	datos
-T216	Term-AttentionRank 814 825	tratamiento
-T217	Term-AttentionRank 890 899	garantías
-T218	Term-AttentionRank 74 86	copia básica
-T219	Term-AttentionRank 413 425	copia básica
-T220	Term-AttentionRank 974 986	copia básica
-T221	Term-AttentionRank 1236 1248	copia básica
-T222	Term-AttentionRank 1370 1382	copia básica
-T223	Term-AttentionRank 1566 1578	copia básica
-T224	Term-AttentionRank 718 736	intimidad personal
-T225	Term-AttentionRank 791 809	intimidad personal
-T226	Term-AttentionRank 1728 1734	sigilo
-T227	Term-AttentionRank 718 727	intimidad
-T228	Term-AttentionRank 791 800	intimidad
-T229	Term-AttentionRank 57 69	trabajadores
-T230	Term-AttentionRank 305 317	trabajadores
-T231	Term-AttentionRank 1125 1137	trabajadores
-T232	Term-AttentionRank 1329 1341	trabajadores
-T233	Term-AttentionRank 29 49	representación legal
-T234	Term-AttentionRank 277 297	representación legal
-T235	Term-AttentionRank 1301 1321	representación legal
-T236	Term-AttentionRank 1022 1027	plazo
-T237	Term-AttentionRank 1630 1637	órganos
-T238	Term-AttentionRank 762 768	imagen
-T239	Term-AttentionRank 29 43	representación
-T240	Term-AttentionRank 277 291	representación
-T241	Term-AttentionRank 1301 1315	representación
-T242	Term-AttentionRank 939 946	materia
-T243	Term-AttentionRank 674 684	protección
-T244	Term-AttentionRank 950 960	protección
-T245	Term-AttentionRank 636 639	Ley
-T246	Term-AttentionRank 1022 1041	plazo no superior a
-T247	Term-AttentionRank 1515 1541	asociaciones empresariales
-T248	Term-AttentionRank 146 172	excepción de los contratos
-T249	Term-AttentionRank 695 702	derecho
-T250	Term-AttentionRank 481 487	número
-T251	Term-AttentionRank 530 536	número
-T252	Term-AttentionRank 100 109	contratos
-T253	Term-AttentionRank 163 172	contratos
-T254	Term-AttentionRank 1586 1595	contratos
-T255	Term-AttentionRank 375 383	contrato
-T256	Term-AttentionRank 456 464	contrato
-T257	Term-AttentionRank 1079 1087	contrato
-T258	Term-AttentionRank 1161 1168	efectos
-T259	Term-AttentionRank 250 255	deber
-T260	Term-AttentionRank 728 736	personal
-T261	Term-AttentionRank 801 809	personal
-T262	Term-AttentionRank 553 563	extranjero
-T263	Term-AttentionRank 674 690	protección civil
-T264	Term-AttentionRank 3 13	empresario
-T265	Term-AttentionRank 1007 1017	empresario
-T266	Term-LabourLaw 176 201	relación laboral especial
-T267	Term-LabourLaw 176 192	relación laboral
-T268	Term-LabourLaw 205 219	alta dirección
-T269	Term-LabourLaw 1728 1746	sigilo profesional
-T270	Term-LabourLaw 29 49	representación legal
-T271	Term-LabourLaw 277 297	representación legal
-T272	Term-LabourLaw 1301 1321	representación legal
-T273	Term-LabourLaw 582 594	estado civil
-T274	Term-LabourLaw 553 563	extranjero
-T275	Term-LabourLaw 100 108	contrato
-T276	Term-LabourLaw 163 171	contrato
-T277	Term-LabourLaw 375 383	contrato
-T278	Term-LabourLaw 456 464	contrato
-T279	Term-LabourLaw 1079 1087	contrato
-T280	Term-LabourLaw 1586 1594	contrato
-T281	Term-LabourLaw 832 843	información
-T282	Term-LabourLaw 1641 1654	participación
-T283	Term-LabourLaw 210 219	dirección
-T284	Term-LabourLaw 1095 1108	representante
-T285	Term-LabourLaw 1423 1436	representante
-T286	Term-LabourLaw 57 67	trabajador
-T287	Term-LabourLaw 305 315	trabajador
-T288	Term-LabourLaw 1125 1135	trabajador
-T289	Term-LabourLaw 1329 1339	trabajador
-T290	Term-LabourLaw 389 398	legalidad
-T291	Term-LabourLaw 834 843	formación
-T292	Term-LabourLaw 250 255	deber
-T293	Term-LabourLaw 1350 1355	deber
-T294	Term-LabourLaw 3 13	empresario
-T295	Term-LabourLaw 1007 1017	empresario
-T296	Term-LabourLaw 1630 1636	órgano
-T297	Term-LabourLaw 674 684	protección
-T298	Term-LabourLaw 950 960	protección
-T299	Term-LabourLaw 361 370	contenido
-T300	Term-LabourLaw 877 886	principio
-T301	Term-LabourLaw 3 10	empresa
-T302	Term-LabourLaw 1007 1014	empresa
-T303	Term-LabourLaw 1528 1535	empresa
-T304	Term-LabourLaw 695 702	derecho
-T305	Term-LabourLaw 718 727	intimidad
-T306	Term-LabourLaw 791 800	intimidad
-T307	Term-LabourLaw 1705 1713	facultad
-T308	Term-LabourLaw 728 736	personal
-T309	Term-LabourLaw 801 809	personal
-T310	Term-LabourLaw 1276 1282	empleo
-T311	Term-LabourLaw 1411 1417	empleo
-T312	Term-LabourLaw 446 451	datos
-T313	Term-LabourLaw 964 969	datos
-T314	Term-LabourLaw 728 735	persona
-T315	Term-LabourLaw 801 808	persona
-T316	Term-LabourLaw 1150 1155	firma
-T317	Term-IATE 674 684	protección
-T318	Term-IATE 950 960	protección
-T319	Term-IATE 446 451	datos
-T320	Term-IATE 964 969	datos
-T321	Term-IATE 1022 1027	plazo
-T322	Term-IATE 621 628	acuerdo
-T323	Term-IATE 814 825	tratamiento
-T324	Term-IATE 718 727	intimidad
-T325	Term-IATE 791 800	intimidad
-T326	Term-IATE 3 13	empresario
-T327	Term-IATE 1007 1017	empresario
-T328	Term-IATE 890 899	garantías
-T329	Term-IATE 1641 1654	participación
-T330	Term-IATE 57 69	trabajadores
-T331	Term-IATE 305 317	trabajadores
-T332	Term-IATE 1125 1137	trabajadores
-T333	Term-IATE 1329 1341	trabajadores
-T334	Term-IATE 939 946	materia
-T335	Term-IATE 1276 1282	empleo
-T336	Term-IATE 1411 1417	empleo
-T337	Term-IATE 100 109	contratos
-T338	Term-IATE 163 172	contratos
-T339	Term-IATE 1586 1595	contratos
-T340	Term-IATE 375 383	contrato
-T341	Term-IATE 456 464	contrato
-T342	Term-IATE 1079 1087	contrato
-T343	Term-IATE 553 563	extranjero
-T344	Term-IATE 1161 1168	efectos
-T345	Term-IATE 1095 1109	representantes
-T346	Term-IATE 1423 1437	representantes
-T347	Term-IATE 210 219	dirección
-T348	Term-IATE 832 843	información
-T349	Term-IATE 259 271	notificación
+T1	Term-diccionario 621 628	acuerdo
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 718 727	intimidad
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 791 800	intimidad
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1276 1282	empleo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 1411 1417	empleo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1630 1637	órganos
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 210 219	dirección
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 100 109	contratos
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 163 172	contratos
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 1586 1595	contratos
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 375 383	contrato
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 456 464	contrato
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1079 1087	contrato
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 1641 1654	participación
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 890 899	garantías
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 674 684	protección
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 950 960	protección
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 950 969	protección de datos
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 259 271	notificación
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 636 639	Ley
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 446 451	datos
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 964 969	datos
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 762 768	imagen
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 250 255	deber
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 674 690	protección civil
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 728 736	personal
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 801 809	personal
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 176 184	relación
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 361 370	contenido
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 832 843	información
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 636 648	Ley Orgánica
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 481 487	número
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 530 536	número
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 492 523	documento nacional de identidad
+#34	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 582 588	estado
+#35	AnnotatorNotes T35 "Termcat"
+#36	AnnotatorNotes T31 "Termcat"
+#37	AnnotatorNotes T19 "Termcat"
+T36	Term-diccionario 1022 1027	plazo
+#38	AnnotatorNotes T36 "Termcat"
+#39	AnnotatorNotes T8 "Termcat"
+#40	AnnotatorNotes T9 "Termcat"
+#41	AnnotatorNotes T10 "Termcat"
+#42	AnnotatorNotes T11 "Termcat"
+#43	AnnotatorNotes T12 "Termcat"
+#44	AnnotatorNotes T13 "Termcat"
+#45	AnnotatorNotes T24 "Termcat"
+T37	Term-diccionario 568 577	domicilio
+#46	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 582 594	estado civil
+#47	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 1705 1715	facultades
+#48	AnnotatorNotes T39 "Termcat"
+#49	AnnotatorNotes T15 "Termcat"
+T40	Term-diccionario 389 398	legalidad
+#50	AnnotatorNotes T40 "Termcat"
+#51	AnnotatorNotes T20 "Termcat"
+T41	Term-diccionario 29 43	representación
+#52	AnnotatorNotes T41 "Termcat"
+T42	Term-diccionario 277 291	representación
+#53	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 1301 1315	representación
+#54	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 1095 1109	representantes
+#55	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 1423 1437	representantes
+#56	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1444 1458	Administración
+#57	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 205 209	alta
+#58	AnnotatorNotes T47 "Termcat"
+#59	AnnotatorNotes T7 "Termcat"
+#60	AnnotatorNotes T5 "Termcat"
+#61	AnnotatorNotes T4 "Termcat"
+T48	Term-diccionario 1641 1668	participación institucional
+#62	AnnotatorNotes T48 "Termcat"
+#63	AnnotatorNotes T27 "Termcat"
+#64	AnnotatorNotes T26 "Termcat"
+T49	Term-diccionario 1728 1746	sigilo profesional
+#65	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 589 594	civil
+#66	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 685 690	civil
+#67	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 695 702	derecho
+#68	AnnotatorNotes T52 "Termcat"
+#69	AnnotatorNotes T18 "Termcat"
+T53	Term-diccionario 1554 1560	acceso
+#70	AnnotatorNotes T53 "Termcat"
+#71	AnnotatorNotes T1 "Termcat"
+T54	Term-diccionario 1834 1846	conocimiento
+#72	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 1566 1578	copia básica
+#73	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 413 425	copia básica
+#74	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 1370 1382	copia básica
+#75	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 974 986	copia básica
+#76	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 1236 1248	copia básica
+#77	AnnotatorNotes T59 "Termcat"
+T60	Term-diccionario 74 86	copia básica
+#78	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 492 501	documento
+#79	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 695 711	derecho al honor
+#80	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 1161 1168	efectos
+#81	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 1528 1541	empresariales
+#82	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 146 155	excepción
+#83	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 467 476	excepción
+#84	AnnotatorNotes T66 "Termcat"
+T67	Term-diccionario 514 523	identidad
+#85	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 540 549	identidad
+#86	AnnotatorNotes T68 "Termcat"
+#87	AnnotatorNotes T23 "Termcat"
+#88	AnnotatorNotes T30 "Termcat"
+T69	Term-diccionario 292 297	legal
+#89	AnnotatorNotes T69 "Termcat"
+T70	Term-diccionario 1316 1321	legal
+#90	AnnotatorNotes T70 "Termcat"
+T71	Term-diccionario 44 49	legal
+#91	AnnotatorNotes T71 "Termcat"
+T72	Term-diccionario 1110 1117	legales
+#92	AnnotatorNotes T72 "Termcat"
+T73	Term-diccionario 1205 1212	entrega
+#93	AnnotatorNotes T73 "Termcat"
+T74	Term-diccionario 939 946	materia
+#94	AnnotatorNotes T74 "Termcat"
+T75	Term-diccionario 502 510	nacional
+#95	AnnotatorNotes T75 "Termcat"
+T76	Term-diccionario 916 925	normativa
+#96	AnnotatorNotes T76 "Termcat"
+#97	AnnotatorNotes T6 "Termcat"
+#98	AnnotatorNotes T14 "Termcat"
+T77	Term-diccionario 1612 1623	pertenencia
+#99	AnnotatorNotes T77 "Termcat"
+T78	Term-diccionario 877 887	principios
+#100	AnnotatorNotes T78 "Termcat"
+T79	Term-diccionario 176 219	relación laboral especial de alta dirección
+#101	AnnotatorNotes T79 "Termcat"
+T80	Term-diccionario 1031 1039	superior
+#102	AnnotatorNotes T80 "Termcat"
+T81	Term-diccionario 399 406	vigente
+#103	AnnotatorNotes T81 "Termcat"
+T82	Term-diccionario 1172 1181	acreditar
+#104	AnnotatorNotes T82 "Termcat"
+T83	Term-diccionario 346 356	adecuación
+#105	AnnotatorNotes T83 "Termcat"
+T84	Term-diccionario 1775 1788	documentación
+#106	AnnotatorNotes T84 "Termcat"
+T85	Term-diccionario 1095 1117	representantes legales
+#107	AnnotatorNotes T85 "Termcat"
+T86	Term-automatico 361 370	contenido
+#108	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 176 192	relación laboral
+#109	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 1276 1282	empleo
+#110	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1411 1417	empleo
+#111	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1095 1109	representantes
+#112	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1423 1437	representantes
+#113	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 1095 1117	representantes legales
+#114	AnnotatorNotes T92 "AttentionRank"
+#115	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1728 1746	sigilo profesional
+#116	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 621 628	acuerdo
+#117	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1047 1051	días
+#118	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 210 219	dirección
+#119	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 1599 1605	virtud
+#120	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 176 184	relación
+#121	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1161 1171	efectos de
+#122	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 326 329	fin
+#123	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1794 1799	fines
+#124	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 1460 1463	así
+#125	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 1480 1505	organizaciones sindicales
+#126	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 832 843	información
+#127	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 205 219	alta dirección
+#128	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 259 271	notificación
+#129	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1641 1654	participación
+#130	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1699 1704	tales
+#131	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 446 451	datos
+#132	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 964 969	datos
+#133	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 814 825	tratamiento
+#134	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 890 899	garantías
+#135	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 74 86	copia básica
+#136	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 413 425	copia básica
+#137	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 974 986	copia básica
+#138	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 1236 1248	copia básica
+#139	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1370 1382	copia básica
+#140	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1566 1578	copia básica
+#141	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 718 736	intimidad personal
+#142	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 791 809	intimidad personal
+#143	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 1728 1734	sigilo
+#144	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 718 727	intimidad
+#145	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 791 800	intimidad
+#146	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 57 69	trabajadores
+#147	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 305 317	trabajadores
+#148	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 1125 1137	trabajadores
+#149	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 1329 1341	trabajadores
+#150	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 29 49	representación legal
+#151	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 277 297	representación legal
+#152	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 1301 1321	representación legal
+#153	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 1022 1027	plazo
+#154	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 1630 1637	órganos
+#155	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 762 768	imagen
+#156	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 29 43	representación
+#157	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 277 291	representación
+#158	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 1301 1315	representación
+#159	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 939 946	materia
+#160	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 674 684	protección
+#161	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 950 960	protección
+#162	AnnotatorNotes T139 "AttentionRank"
+T140	Term-automatico 636 639	Ley
+#163	AnnotatorNotes T140 "AttentionRank"
+T141	Term-automatico 1022 1041	plazo no superior a
+#164	AnnotatorNotes T141 "AttentionRank"
+T142	Term-automatico 1515 1541	asociaciones empresariales
+#165	AnnotatorNotes T142 "AttentionRank"
+T143	Term-automatico 146 172	excepción de los contratos
+#166	AnnotatorNotes T143 "AttentionRank"
+T144	Term-automatico 695 702	derecho
+#167	AnnotatorNotes T144 "AttentionRank"
+T145	Term-automatico 481 487	número
+#168	AnnotatorNotes T145 "AttentionRank"
+T146	Term-automatico 530 536	número
+#169	AnnotatorNotes T146 "AttentionRank"
+T147	Term-automatico 100 109	contratos
+#170	AnnotatorNotes T147 "AttentionRank"
+T148	Term-automatico 163 172	contratos
+#171	AnnotatorNotes T148 "AttentionRank"
+T149	Term-automatico 1586 1595	contratos
+#172	AnnotatorNotes T149 "AttentionRank"
+T150	Term-automatico 375 383	contrato
+#173	AnnotatorNotes T150 "AttentionRank"
+T151	Term-automatico 456 464	contrato
+#174	AnnotatorNotes T151 "AttentionRank"
+T152	Term-automatico 1079 1087	contrato
+#175	AnnotatorNotes T152 "AttentionRank"
+T153	Term-automatico 1161 1168	efectos
+#176	AnnotatorNotes T153 "AttentionRank"
+T154	Term-automatico 250 255	deber
+#177	AnnotatorNotes T154 "AttentionRank"
+T155	Term-automatico 728 736	personal
+#178	AnnotatorNotes T155 "AttentionRank"
+T156	Term-automatico 801 809	personal
+#179	AnnotatorNotes T156 "AttentionRank"
+T157	Term-automatico 553 563	extranjero
+#180	AnnotatorNotes T157 "AttentionRank"
+T158	Term-automatico 674 690	protección civil
+#181	AnnotatorNotes T158 "AttentionRank"
+T159	Term-automatico 3 13	empresario
+#182	AnnotatorNotes T159 "AttentionRank"
+T160	Term-automatico 1007 1017	empresario
+#183	AnnotatorNotes T160 "AttentionRank"
+T161	Term-diccionario 176 201	relación laboral especial
+#184	AnnotatorNotes T161 "LabourLaw"
+T162	Term-diccionario 176 192	relación laboral
+#185	AnnotatorNotes T162 "LabourLaw"
+T163	Term-diccionario 205 219	alta dirección
+#186	AnnotatorNotes T163 "LabourLaw"
+#187	AnnotatorNotes T49 "LabourLaw"
+T164	Term-diccionario 29 49	representación legal
+#188	AnnotatorNotes T164 "LabourLaw"
+T165	Term-diccionario 277 297	representación legal
+#189	AnnotatorNotes T165 "LabourLaw"
+T166	Term-diccionario 1301 1321	representación legal
+#190	AnnotatorNotes T166 "LabourLaw"
+#191	AnnotatorNotes T38 "LabourLaw"
+T167	Term-diccionario 553 563	extranjero
+#192	AnnotatorNotes T167 "LabourLaw"
+T168	Term-diccionario 100 108	contrato
+#193	AnnotatorNotes T168 "LabourLaw"
+T169	Term-diccionario 163 171	contrato
+#194	AnnotatorNotes T169 "LabourLaw"
+#195	AnnotatorNotes T11 "LabourLaw"
+#196	AnnotatorNotes T12 "LabourLaw"
+#197	AnnotatorNotes T13 "LabourLaw"
+T170	Term-diccionario 1586 1594	contrato
+#198	AnnotatorNotes T170 "LabourLaw"
+#199	AnnotatorNotes T30 "LabourLaw"
+#200	AnnotatorNotes T14 "LabourLaw"
+#201	AnnotatorNotes T7 "LabourLaw"
+T171	Term-diccionario 1095 1108	representante
+#202	AnnotatorNotes T171 "LabourLaw"
+T172	Term-diccionario 1423 1436	representante
+#203	AnnotatorNotes T172 "LabourLaw"
+T173	Term-diccionario 57 67	trabajador
+#204	AnnotatorNotes T173 "LabourLaw"
+T174	Term-diccionario 305 315	trabajador
+#205	AnnotatorNotes T174 "LabourLaw"
+T175	Term-diccionario 1125 1135	trabajador
+#206	AnnotatorNotes T175 "LabourLaw"
+T176	Term-diccionario 1329 1339	trabajador
+#207	AnnotatorNotes T176 "LabourLaw"
+#208	AnnotatorNotes T40 "LabourLaw"
+T177	Term-diccionario 834 843	formación
+#209	AnnotatorNotes T177 "LabourLaw"
+#210	AnnotatorNotes T24 "LabourLaw"
+T178	Term-diccionario 1350 1355	deber
+#211	AnnotatorNotes T178 "LabourLaw"
+T179	Term-diccionario 3 13	empresario
+#212	AnnotatorNotes T179 "LabourLaw"
+T180	Term-diccionario 1007 1017	empresario
+#213	AnnotatorNotes T180 "LabourLaw"
+T181	Term-diccionario 1630 1636	órgano
+#214	AnnotatorNotes T181 "LabourLaw"
+#215	AnnotatorNotes T16 "LabourLaw"
+#216	AnnotatorNotes T17 "LabourLaw"
+#217	AnnotatorNotes T29 "LabourLaw"
+T182	Term-diccionario 877 886	principio
+#218	AnnotatorNotes T182 "LabourLaw"
+T183	Term-diccionario 3 10	empresa
+#219	AnnotatorNotes T183 "LabourLaw"
+T184	Term-diccionario 1007 1014	empresa
+#220	AnnotatorNotes T184 "LabourLaw"
+T185	Term-diccionario 1528 1535	empresa
+#221	AnnotatorNotes T185 "LabourLaw"
+#222	AnnotatorNotes T52 "LabourLaw"
+#223	AnnotatorNotes T2 "LabourLaw"
+#224	AnnotatorNotes T3 "LabourLaw"
+T186	Term-diccionario 1705 1713	facultad
+#225	AnnotatorNotes T186 "LabourLaw"
+#226	AnnotatorNotes T26 "LabourLaw"
+#227	AnnotatorNotes T27 "LabourLaw"
+#228	AnnotatorNotes T4 "LabourLaw"
+#229	AnnotatorNotes T5 "LabourLaw"
+#230	AnnotatorNotes T21 "LabourLaw"
+#231	AnnotatorNotes T22 "LabourLaw"
+T187	Term-diccionario 728 735	persona
+#232	AnnotatorNotes T187 "LabourLaw"
+T188	Term-diccionario 801 808	persona
+#233	AnnotatorNotes T188 "LabourLaw"
+T189	Term-diccionario 1150 1155	firma
+#234	AnnotatorNotes T189 "LabourLaw"
+#235	AnnotatorNotes T16 "IATE"
+#236	AnnotatorNotes T17 "IATE"
+#237	AnnotatorNotes T21 "IATE"
+#238	AnnotatorNotes T22 "IATE"
+#239	AnnotatorNotes T36 "IATE"
+#240	AnnotatorNotes T1 "IATE"
+T190	Term-diccionario 814 825	tratamiento
+#241	AnnotatorNotes T190 "IATE"
+#242	AnnotatorNotes T2 "IATE"
+#243	AnnotatorNotes T3 "IATE"
+#244	AnnotatorNotes T179 "IATE"
+#245	AnnotatorNotes T180 "IATE"
+#246	AnnotatorNotes T15 "IATE"
+#247	AnnotatorNotes T14 "IATE"
+T191	Term-diccionario 57 69	trabajadores
+#248	AnnotatorNotes T191 "IATE"
+T192	Term-diccionario 305 317	trabajadores
+#249	AnnotatorNotes T192 "IATE"
+T193	Term-diccionario 1125 1137	trabajadores
+#250	AnnotatorNotes T193 "IATE"
+T194	Term-diccionario 1329 1341	trabajadores
+#251	AnnotatorNotes T194 "IATE"
+#252	AnnotatorNotes T74 "IATE"
+#253	AnnotatorNotes T4 "IATE"
+#254	AnnotatorNotes T5 "IATE"
+#255	AnnotatorNotes T8 "IATE"
+#256	AnnotatorNotes T9 "IATE"
+#257	AnnotatorNotes T10 "IATE"
+#258	AnnotatorNotes T11 "IATE"
+#259	AnnotatorNotes T12 "IATE"
+#260	AnnotatorNotes T13 "IATE"
+#261	AnnotatorNotes T167 "IATE"
+#262	AnnotatorNotes T63 "IATE"
+#263	AnnotatorNotes T44 "IATE"
+#264	AnnotatorNotes T45 "IATE"
+#265	AnnotatorNotes T7 "IATE"
+#266	AnnotatorNotes T30 "IATE"
+#267	AnnotatorNotes T19 "IATE"

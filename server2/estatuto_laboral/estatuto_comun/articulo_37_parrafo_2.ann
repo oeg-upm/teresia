@@ -1,299 +1,391 @@
-T1	Term-DPEJ 193 197	caso
-T2	Term-DPEJ 1716 1721	cargo
-T3	Term-DPEJ 1300 1308	ausencia
-T4	Term-DPEJ 815 829	consanguinidad
-T5	Term-DPEJ 75 82	trabajo
-T6	Term-DPEJ 1434 1441	trabajo
-T7	Term-DPEJ 1540 1547	empresa
-T8	Term-DPEJ 1827 1834	empresa
-T9	Term-DPEJ 1595 1605	excedencia
-T10	Term-DPEJ 1791 1798	salario
-T11	Term-DPEJ 1052 1064	cumplimiento
-T12	Term-DPEJ 1350 1362	cumplimiento
-T13	Term-DPEJ 1677 1689	cumplimiento
-T14	Term-DPEJ 979 987	traslado
-T15	Term-DPEJ 147 153	tiempo
-T16	Term-DPEJ 1022 1028	tiempo
-T17	Term-DPEJ 1350 1372	cumplimiento del deber
-T18	Term-DPEJ 1677 1699	cumplimiento del deber
-T19	Term-DPEJ 712 715	bis
-T20	Term-DPEJ 1071 1076	deber
-T21	Term-DPEJ 1367 1372	deber
-T22	Term-DPEJ 1694 1699	deber
-T23	Term-DPEJ 1735 1748	indemnización
-T24	Term-DPEJ 1111 1119	personal
-T25	Term-DPEJ 1419 1429	prestación
-T26	Term-DPEJ 1621 1629	artículo
-T27	Term-DPEJ 1189 1194	norma
-T28	Term-Termcat 175 189	días naturales
-T29	Term-Termcat 1595 1605	excedencia
-T30	Term-Termcat 934 939	plazo
-T31	Term-Termcat 1300 1308	ausencia
-T32	Term-Termcat 472 480	afinidad
-T33	Term-Termcat 832 840	afinidad
-T34	Term-Termcat 1316 1328	compensación
-T35	Term-Termcat 815 829	consanguinidad
-T36	Term-Termcat 1367 1372	deber
-T37	Term-Termcat 1071 1076	deber
-T38	Term-Termcat 1694 1699	deber
-T39	Term-Termcat 653 662	domicilio
-T40	Term-Termcat 992 1001	domicilio
-T41	Term-Termcat 444 449	grado
-T42	Term-Termcat 806 811	grado
-T43	Term-Termcat 201 211	matrimonio
-T44	Term-Termcat 399 414	pareja de hecho
-T45	Term-Termcat 522 537	pareja de hecho
-T46	Term-Termcat 761 776	pareja de hecho
-T47	Term-Termcat 226 241	pareja de hecho
-T48	Term-Termcat 1419 1429	prestación
-T49	Term-Termcat 1621 1629	artículo
-T50	Term-Termcat 310 322	intervención
-T51	Term-Termcat 1189 1194	norma
-T52	Term-Termcat 1150 1158	sufragio
-T53	Term-Termcat 261 270	accidente
-T54	Term-Termcat 681 688	cuidado
-T55	Term-Termcat 1716 1721	cargo
-T56	Term-Termcat 1540 1547	empresa
-T57	Term-Termcat 1827 1834	empresa
-T58	Term-Termcat 1434 1441	trabajo
-T59	Term-Termcat 75 82	trabajo
-T60	Term-Termcat 1735 1748	indemnización
-T61	Term-Termcat 1111 1119	personal
-T62	Term-Termcat 98 110	remuneración
-T63	Term-Termcat 1791 1798	salario
-T64	Term-Termcat 979 987	traslado
-T65	Term-Termcat 1285 1293	duración
-T66	Term-Termcat 88 95	derecho
-T67	Term-Termcat 1813 1820	derecho
-T68	Term-Termcat 566 573	persona
-T69	Term-Termcat 621 628	persona
-T70	Term-Termcat 867 874	persona
-T71	Term-Termcat 3 10	persona
-T72	Term-Termcat 31 36	aviso
-T73	Term-Termcat 1350 1362	cumplimiento
-T74	Term-Termcat 1677 1689	cumplimiento
-T75	Term-Termcat 1052 1076	cumplimiento de un deber
-T76	Term-Termcat 390 397	cónyuge
-T77	Term-Termcat 752 759	cónyuge
-T78	Term-Termcat 905 919	desplazamiento
-T79	Term-Termcat 923 929	efecto
-T80	Term-Termcat 214 222	registro
-T81	Term-Termcat 1136 1145	ejercicio
-T82	Term-Termcat 1195 1200	legal
-T83	Term-Termcat 130 137	motivos
-T84	Term-Termcat 857 863	motivo
-T85	Term-Termcat 417 426	parientes
-T86	Term-Termcat 779 788	parientes
-T87	Term-Termcat 1150 1165	sufragio activo
-T88	Term-Termcat 409 414	hecho
-T89	Term-Termcat 532 537	hecho
-T90	Term-Termcat 236 241	hecho
-T91	Term-Termcat 771 776	hecho
-T92	Term-DV 1092 1108	carácter público
-T93	Term-DV 261 270	accidente
-T94	Term-DV 14 18	baja
-T95	Term-DV 632 636	baja
-T96	Term-DV 878 882	baja
-T97	Term-DV 1560 1564	baja
-T98	Term-DV 1664 1668	baja
-T99	Term-DV 1444 1447	bid
-T100	Term-DV 1444 1447	bid
-T101	Term-DV 1716 1721	cargo
-T102	Term-DV 1316 1328	compensación
-T103	Term-DV 1071 1075	debe
-T104	Term-DV 1367 1371	debe
-T105	Term-DV 1694 1698	debe
-T106	Term-DV 88 95	derecho
-T107	Term-DV 1813 1820	derecho
-T108	Term-DV 175 178	día
-T109	Term-DV 252 255	día
-T110	Term-DV 722 725	día
-T111	Term-DV 959 962	día
-T112	Term-DV 971 974	día
-T113	Term-DV 1031 1039	dispensa
-T114	Term-DV 653 662	domicilio
-T115	Term-DV 992 1001	domicilio
-T116	Term-DV 279 283	edad
-T117	Term-DV 1540 1547	empresa
-T118	Term-DV 1827 1834	empresa
-T119	Term-DV 494 501	familia
-T120	Term-DV 275 277	fe
-T121	Term-DV 690 692	fe
-T122	Term-DV 924 926	fe
-T123	Term-DV 1381 1383	fe
-T124	Term-DV 1569 1571	fe
-T125	Term-DV 236 241	hecho
-T126	Term-DV 409 414	hecho
-T127	Term-DV 532 537	hecho
-T128	Term-DV 771 776	hecho
-T129	Term-DV 1491 1501	laborables
-T130	Term-DV 1195 1200	legal
-T131	Term-DV 1189 1194	norma
-T132	Term-DV 417 425	pariente
-T133	Term-DV 779 787	pariente
-T134	Term-DV 1044 1048	para
-T135	Term-DV 1707 1711	peño
-T136	Term-DV 3 10	persona
-T137	Term-DV 566 573	persona
-T138	Term-DV 621 628	persona
-T139	Term-DV 867 874	persona
-T140	Term-DV 1111 1118	persona
-T141	Term-DV 1111 1119	personal
-T142	Term-DV 934 939	plazo
-T143	Term-DV 1401 1412	posibilidad
-T144	Term-DV 1419 1429	prestación
-T145	Term-DV 1101 1108	público
-T146	Term-DV 214 222	registro
-T147	Term-DV 98 110	remuneración
-T148	Term-DV 1791 1795	sala
-T149	Term-DV 1791 1798	salario
-T150	Term-DV 1150 1158	sufragio
-T151	Term-DV 11 21	trabajador
-T152	Term-DV 629 639	trabajador
-T153	Term-DV 875 885	trabajador
-T154	Term-DV 1557 1567	trabajador
-T155	Term-DV 1661 1671	trabajador
-T156	Term-DV 979 987	traslado
-T157	Term-DV 32 35	vis
-T158	Term-DV 1080 1081	x
-T159	Term-DV 1596 1597	x
-T160	Term-AttentionRank 1582 1591	situación
-T161	Term-AttentionRank 147 153	tiempo
-T162	Term-AttentionRank 1022 1028	tiempo
-T163	Term-AttentionRank 1092 1108	carácter público
-T164	Term-AttentionRank 1595 1605	excedencia
-T165	Term-AttentionRank 1136 1145	ejercicio
-T166	Term-AttentionRank 214 222	registro
-T167	Term-AttentionRank 815 829	consanguinidad
-T168	Term-AttentionRank 175 179	días
-T169	Term-AttentionRank 252 256	días
-T170	Term-AttentionRank 722 726	días
-T171	Term-AttentionRank 959 963	días
-T172	Term-AttentionRank 971 974	día
-T173	Term-AttentionRank 1716 1721	cargo
-T174	Term-AttentionRank 373 385	domiciliario
-T175	Term-AttentionRank 454 469	consanguineidad
-T176	Term-AttentionRank 1189 1194	norma
-T177	Term-AttentionRank 1219 1226	periodo
-T178	Term-AttentionRank 1508 1515	periodo
-T179	Term-AttentionRank 979 987	traslado
-T180	Term-AttentionRank 1092 1100	carácter
-T181	Term-AttentionRank 1052 1064	cumplimiento
-T182	Term-AttentionRank 1350 1362	cumplimiento
-T183	Term-AttentionRank 1677 1689	cumplimiento
-T184	Term-AttentionRank 539 542	así
-T185	Term-AttentionRank 1767 1774	importe
-T186	Term-AttentionRank 1621 1629	artículo
-T187	Term-AttentionRank 1642 1650	supuesto
-T188	Term-AttentionRank 3 10	persona
-T189	Term-AttentionRank 566 573	persona
-T190	Term-AttentionRank 621 628	persona
-T191	Term-AttentionRank 867 874	persona
-T192	Term-AttentionRank 1524 1529	meses
-T193	Term-AttentionRank 853 856	tal
-T194	Term-AttentionRank 1285 1293	duración
-T195	Term-AttentionRank 1316 1338	compensación económica
-T196	Term-AttentionRank 11 22	trabajadora
-T197	Term-AttentionRank 629 640	trabajadora
-T198	Term-AttentionRank 875 886	trabajadora
-T199	Term-AttentionRank 1557 1567	trabajador
-T200	Term-AttentionRank 1661 1671	trabajador
-T201	Term-AttentionRank 934 939	plazo
-T202	Term-AttentionRank 681 688	cuidado
-T203	Term-AttentionRank 1540 1547	empresa
-T204	Term-AttentionRank 1827 1834	empresa
-T205	Term-AttentionRank 1419 1429	prestación
-T206	Term-AttentionRank 1485 1490	horas
-T207	Term-AttentionRank 1071 1088	deber inexcusable
-T208	Term-AttentionRank 226 232	pareja
-T209	Term-AttentionRank 399 405	pareja
-T210	Term-AttentionRank 522 528	pareja
-T211	Term-AttentionRank 761 767	pareja
-T212	Term-AttentionRank 712 715	bis
-T213	Term-AttentionRank 1791 1798	salario
-T214	Term-AttentionRank 1735 1748	indemnización
-T215	Term-AttentionRank 88 95	derecho
-T216	Term-AttentionRank 1813 1820	derecho
-T217	Term-AttentionRank 1300 1308	ausencia
-T218	Term-AttentionRank 436 449	segundo grado
-T219	Term-AttentionRank 798 811	segundo grado
-T220	Term-AttentionRank 3 22	persona trabajadora
-T221	Term-AttentionRank 621 640	persona trabajadora
-T222	Term-AttentionRank 867 886	persona trabajadora
-T223	Term-AttentionRank 1557 1629	trabajador afectado a la situación de excedencia regulada en el artículo
-T224	Term-AttentionRank 923 929	efecto
-T225	Term-AttentionRank 1071 1076	deber
-T226	Term-AttentionRank 1367 1372	deber
-T227	Term-AttentionRank 1694 1699	deber
-T228	Term-AttentionRank 1111 1119	personal
-T229	Term-AttentionRank 75 82	trabajo
-T230	Term-AttentionRank 1434 1441	trabajo
-T231	Term-AttentionRank 193 197	caso
-T232	Term-LabourLaw 1316 1338	compensación económica
-T233	Term-LabourLaw 1189 1200	norma legal
-T234	Term-LabourLaw 75 82	trabajo
-T235	Term-LabourLaw 1434 1441	trabajo
-T236	Term-LabourLaw 1735 1748	indemnización
-T237	Term-LabourLaw 979 987	traslado
-T238	Term-LabourLaw 1791 1798	salario
-T239	Term-LabourLaw 261 270	accidente
-T240	Term-LabourLaw 1419 1429	prestación
-T241	Term-LabourLaw 11 21	trabajador
-T242	Term-LabourLaw 629 639	trabajador
-T243	Term-LabourLaw 875 885	trabajador
-T244	Term-LabourLaw 1557 1567	trabajador
-T245	Term-LabourLaw 1661 1671	trabajador
-T246	Term-LabourLaw 1052 1064	cumplimiento
-T247	Term-LabourLaw 1350 1362	cumplimiento
-T248	Term-LabourLaw 1677 1689	cumplimiento
-T249	Term-LabourLaw 417 425	pariente
-T250	Term-LabourLaw 779 787	pariente
-T251	Term-LabourLaw 734 747	fallecimiento
-T252	Term-LabourLaw 1595 1605	excedencia
-T253	Term-LabourLaw 98 110	remuneración
-T254	Term-LabourLaw 1316 1328	compensación
-T255	Term-LabourLaw 390 397	cónyuge
-T256	Term-LabourLaw 752 759	cónyuge
-T257	Term-LabourLaw 1071 1076	deber
-T258	Term-LabourLaw 1367 1372	deber
-T259	Term-LabourLaw 1694 1699	deber
-T260	Term-LabourLaw 1716 1721	cargo
-T261	Term-LabourLaw 1300 1308	ausencia
-T262	Term-LabourLaw 279 283	edad
-T263	Term-LabourLaw 1540 1547	empresa
-T264	Term-LabourLaw 1827 1834	empresa
-T265	Term-LabourLaw 1285 1293	duración
-T266	Term-LabourLaw 88 95	derecho
-T267	Term-LabourLaw 1813 1820	derecho
-T268	Term-LabourLaw 472 480	afinidad
-T269	Term-LabourLaw 832 840	afinidad
-T270	Term-LabourLaw 815 829	consanguinidad
-T271	Term-LabourLaw 1111 1119	personal
-T272	Term-LabourLaw 444 449	grado
-T273	Term-LabourLaw 806 811	grado
-T274	Term-LabourLaw 1219 1226	periodo
-T275	Term-LabourLaw 1508 1515	periodo
-T276	Term-LabourLaw 1300 1308	ausencia
-T277	Term-LabourLaw 3 10	persona
-T278	Term-LabourLaw 566 573	persona
-T279	Term-LabourLaw 621 628	persona
-T280	Term-LabourLaw 867 874	persona
-T281	Term-LabourLaw 1111 1118	persona
-T282	Term-LabourLaw 1595 1605	excedencia
-T283	Term-IATE 1716 1721	cargo
-T284	Term-IATE 1621 1629	artículo
-T285	Term-IATE 934 939	plazo
-T286	Term-IATE 1540 1547	empresa
-T287	Term-IATE 1827 1834	empresa
-T288	Term-IATE 1791 1798	salario
-T289	Term-IATE 1582 1591	situación
-T290	Term-IATE 214 222	registro
-T291	Term-IATE 1557 1567	trabajador
-T292	Term-IATE 1661 1671	trabajador
-T293	Term-IATE 815 829	consanguinidad
-T294	Term-IATE 1092 1100	carácter
-T295	Term-IATE 1419 1429	prestación
-T296	Term-IATE 923 929	efecto
-T297	Term-IATE 1136 1145	ejercicio
-T298	Term-IATE 1524 1529	meses
-T299	Term-IATE 1285 1293	duración
+T1	Term-diccionario 193 197	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1716 1721	cargo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 1300 1308	ausencia
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 815 829	consanguinidad
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 75 82	trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1434 1441	trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 1540 1547	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 1827 1834	empresa
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 1595 1605	excedencia
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 1791 1798	salario
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 1052 1064	cumplimiento
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 1350 1362	cumplimiento
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1677 1689	cumplimiento
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 979 987	traslado
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 147 153	tiempo
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1022 1028	tiempo
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1350 1372	cumplimiento del deber
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 1677 1699	cumplimiento del deber
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 712 715	bis
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 1071 1076	deber
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 1367 1372	deber
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 1694 1699	deber
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 1735 1748	indemnización
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 1111 1119	personal
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 1419 1429	prestación
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 1621 1629	artículo
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1189 1194	norma
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 175 189	días naturales
+#28	AnnotatorNotes T28 "Termcat"
+#29	AnnotatorNotes T9 "Termcat"
+T29	Term-diccionario 934 939	plazo
+#30	AnnotatorNotes T29 "Termcat"
+#31	AnnotatorNotes T3 "Termcat"
+T30	Term-diccionario 472 480	afinidad
+#32	AnnotatorNotes T30 "Termcat"
+T31	Term-diccionario 832 840	afinidad
+#33	AnnotatorNotes T31 "Termcat"
+T32	Term-diccionario 1316 1328	compensación
+#34	AnnotatorNotes T32 "Termcat"
+#35	AnnotatorNotes T4 "Termcat"
+#36	AnnotatorNotes T21 "Termcat"
+#37	AnnotatorNotes T20 "Termcat"
+#38	AnnotatorNotes T22 "Termcat"
+T33	Term-diccionario 653 662	domicilio
+#39	AnnotatorNotes T33 "Termcat"
+T34	Term-diccionario 992 1001	domicilio
+#40	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 444 449	grado
+#41	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 806 811	grado
+#42	AnnotatorNotes T36 "Termcat"
+T37	Term-diccionario 201 211	matrimonio
+#43	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 399 414	pareja de hecho
+#44	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 522 537	pareja de hecho
+#45	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 761 776	pareja de hecho
+#46	AnnotatorNotes T40 "Termcat"
+T41	Term-diccionario 226 241	pareja de hecho
+#47	AnnotatorNotes T41 "Termcat"
+#48	AnnotatorNotes T25 "Termcat"
+#49	AnnotatorNotes T26 "Termcat"
+T42	Term-diccionario 310 322	intervención
+#50	AnnotatorNotes T42 "Termcat"
+#51	AnnotatorNotes T27 "Termcat"
+T43	Term-diccionario 1150 1158	sufragio
+#52	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 261 270	accidente
+#53	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 681 688	cuidado
+#54	AnnotatorNotes T45 "Termcat"
+#55	AnnotatorNotes T2 "Termcat"
+#56	AnnotatorNotes T7 "Termcat"
+#57	AnnotatorNotes T8 "Termcat"
+#58	AnnotatorNotes T6 "Termcat"
+#59	AnnotatorNotes T5 "Termcat"
+#60	AnnotatorNotes T23 "Termcat"
+#61	AnnotatorNotes T24 "Termcat"
+T46	Term-diccionario 98 110	remuneración
+#62	AnnotatorNotes T46 "Termcat"
+#63	AnnotatorNotes T10 "Termcat"
+#64	AnnotatorNotes T14 "Termcat"
+T47	Term-diccionario 1285 1293	duración
+#65	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 88 95	derecho
+#66	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 1813 1820	derecho
+#67	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 566 573	persona
+#68	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 621 628	persona
+#69	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 867 874	persona
+#70	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 3 10	persona
+#71	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 31 36	aviso
+#72	AnnotatorNotes T54 "Termcat"
+#73	AnnotatorNotes T12 "Termcat"
+#74	AnnotatorNotes T13 "Termcat"
+T55	Term-diccionario 1052 1076	cumplimiento de un deber
+#75	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 390 397	cónyuge
+#76	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 752 759	cónyuge
+#77	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 905 919	desplazamiento
+#78	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 923 929	efecto
+#79	AnnotatorNotes T59 "Termcat"
+T60	Term-diccionario 214 222	registro
+#80	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 1136 1145	ejercicio
+#81	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 1195 1200	legal
+#82	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 130 137	motivos
+#83	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 857 863	motivo
+#84	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 417 426	parientes
+#85	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 779 788	parientes
+#86	AnnotatorNotes T66 "Termcat"
+T67	Term-diccionario 1150 1165	sufragio activo
+#87	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 409 414	hecho
+#88	AnnotatorNotes T68 "Termcat"
+T69	Term-diccionario 532 537	hecho
+#89	AnnotatorNotes T69 "Termcat"
+T70	Term-diccionario 236 241	hecho
+#90	AnnotatorNotes T70 "Termcat"
+T71	Term-diccionario 771 776	hecho
+#91	AnnotatorNotes T71 "Termcat"
+T72	Term-automatico 1582 1591	situación
+#92	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 147 153	tiempo
+#93	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 1022 1028	tiempo
+#94	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 1092 1108	carácter público
+#95	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 1595 1605	excedencia
+#96	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 1136 1145	ejercicio
+#97	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 214 222	registro
+#98	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 815 829	consanguinidad
+#99	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 175 179	días
+#100	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 252 256	días
+#101	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 722 726	días
+#102	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 959 963	días
+#103	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 971 974	día
+#104	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 1716 1721	cargo
+#105	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 373 385	domiciliario
+#106	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 454 469	consanguineidad
+#107	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 1189 1194	norma
+#108	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1219 1226	periodo
+#109	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1508 1515	periodo
+#110	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 979 987	traslado
+#111	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 1092 1100	carácter
+#112	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1052 1064	cumplimiento
+#113	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 1350 1362	cumplimiento
+#114	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1677 1689	cumplimiento
+#115	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 539 542	así
+#116	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 1767 1774	importe
+#117	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 1621 1629	artículo
+#118	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1642 1650	supuesto
+#119	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 3 10	persona
+#120	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 566 573	persona
+#121	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 621 628	persona
+#122	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 867 874	persona
+#123	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1524 1529	meses
+#124	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 853 856	tal
+#125	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 1285 1293	duración
+#126	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1316 1338	compensación económica
+#127	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 11 22	trabajadora
+#128	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 629 640	trabajadora
+#129	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 875 886	trabajadora
+#130	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 1557 1567	trabajador
+#131	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 1661 1671	trabajador
+#132	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 934 939	plazo
+#133	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 681 688	cuidado
+#134	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 1540 1547	empresa
+#135	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 1827 1834	empresa
+#136	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1419 1429	prestación
+#137	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1485 1490	horas
+#138	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 1071 1088	deber inexcusable
+#139	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 226 232	pareja
+#140	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 399 405	pareja
+#141	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 522 528	pareja
+#142	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 761 767	pareja
+#143	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 712 715	bis
+#144	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 1791 1798	salario
+#145	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 1735 1748	indemnización
+#146	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 88 95	derecho
+#147	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 1813 1820	derecho
+#148	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 1300 1308	ausencia
+#149	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 436 449	segundo grado
+#150	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 798 811	segundo grado
+#151	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 3 22	persona trabajadora
+#152	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 621 640	persona trabajadora
+#153	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 867 886	persona trabajadora
+#154	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 1557 1629	trabajador afectado a la situación de excedencia regulada en el artículo
+#155	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 923 929	efecto
+#156	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 1071 1076	deber
+#157	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 1367 1372	deber
+#158	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 1694 1699	deber
+#159	AnnotatorNotes T139 "AttentionRank"
+T140	Term-automatico 1111 1119	personal
+#160	AnnotatorNotes T140 "AttentionRank"
+T141	Term-automatico 75 82	trabajo
+#161	AnnotatorNotes T141 "AttentionRank"
+T142	Term-automatico 1434 1441	trabajo
+#162	AnnotatorNotes T142 "AttentionRank"
+T143	Term-automatico 193 197	caso
+#163	AnnotatorNotes T143 "AttentionRank"
+T144	Term-diccionario 1316 1338	compensación económica
+#164	AnnotatorNotes T144 "LabourLaw"
+T145	Term-diccionario 1189 1200	norma legal
+#165	AnnotatorNotes T145 "LabourLaw"
+#166	AnnotatorNotes T5 "LabourLaw"
+#167	AnnotatorNotes T6 "LabourLaw"
+#168	AnnotatorNotes T23 "LabourLaw"
+#169	AnnotatorNotes T14 "LabourLaw"
+#170	AnnotatorNotes T10 "LabourLaw"
+#171	AnnotatorNotes T44 "LabourLaw"
+#172	AnnotatorNotes T25 "LabourLaw"
+T146	Term-diccionario 11 21	trabajador
+#173	AnnotatorNotes T146 "LabourLaw"
+T147	Term-diccionario 629 639	trabajador
+#174	AnnotatorNotes T147 "LabourLaw"
+T148	Term-diccionario 875 885	trabajador
+#175	AnnotatorNotes T148 "LabourLaw"
+T149	Term-diccionario 1557 1567	trabajador
+#176	AnnotatorNotes T149 "LabourLaw"
+T150	Term-diccionario 1661 1671	trabajador
+#177	AnnotatorNotes T150 "LabourLaw"
+#178	AnnotatorNotes T11 "LabourLaw"
+#179	AnnotatorNotes T12 "LabourLaw"
+#180	AnnotatorNotes T13 "LabourLaw"
+T151	Term-diccionario 417 425	pariente
+#181	AnnotatorNotes T151 "LabourLaw"
+T152	Term-diccionario 779 787	pariente
+#182	AnnotatorNotes T152 "LabourLaw"
+T153	Term-diccionario 734 747	fallecimiento
+#183	AnnotatorNotes T153 "LabourLaw"
+#184	AnnotatorNotes T9 "LabourLaw"
+#185	AnnotatorNotes T46 "LabourLaw"
+#186	AnnotatorNotes T32 "LabourLaw"
+#187	AnnotatorNotes T56 "LabourLaw"
+#188	AnnotatorNotes T57 "LabourLaw"
+#189	AnnotatorNotes T20 "LabourLaw"
+#190	AnnotatorNotes T21 "LabourLaw"
+#191	AnnotatorNotes T22 "LabourLaw"
+#192	AnnotatorNotes T2 "LabourLaw"
+#193	AnnotatorNotes T3 "LabourLaw"
+T154	Term-diccionario 279 283	edad
+#194	AnnotatorNotes T154 "LabourLaw"
+#195	AnnotatorNotes T7 "LabourLaw"
+#196	AnnotatorNotes T8 "LabourLaw"
+#197	AnnotatorNotes T47 "LabourLaw"
+#198	AnnotatorNotes T48 "LabourLaw"
+#199	AnnotatorNotes T49 "LabourLaw"
+#200	AnnotatorNotes T30 "LabourLaw"
+#201	AnnotatorNotes T31 "LabourLaw"
+#202	AnnotatorNotes T4 "LabourLaw"
+#203	AnnotatorNotes T24 "LabourLaw"
+#204	AnnotatorNotes T35 "LabourLaw"
+#205	AnnotatorNotes T36 "LabourLaw"
+T155	Term-diccionario 1219 1226	periodo
+#206	AnnotatorNotes T155 "LabourLaw"
+T156	Term-diccionario 1508 1515	periodo
+#207	AnnotatorNotes T156 "LabourLaw"
+#208	AnnotatorNotes T3 "LabourLaw"
+#209	AnnotatorNotes T53 "LabourLaw"
+#210	AnnotatorNotes T50 "LabourLaw"
+#211	AnnotatorNotes T51 "LabourLaw"
+#212	AnnotatorNotes T52 "LabourLaw"
+T157	Term-diccionario 1111 1118	persona
+#213	AnnotatorNotes T157 "LabourLaw"
+#214	AnnotatorNotes T9 "LabourLaw"
+#215	AnnotatorNotes T2 "IATE"
+#216	AnnotatorNotes T26 "IATE"
+#217	AnnotatorNotes T29 "IATE"
+#218	AnnotatorNotes T7 "IATE"
+#219	AnnotatorNotes T8 "IATE"
+#220	AnnotatorNotes T10 "IATE"
+T158	Term-diccionario 1582 1591	situación
+#221	AnnotatorNotes T158 "IATE"
+#222	AnnotatorNotes T60 "IATE"
+#223	AnnotatorNotes T149 "IATE"
+#224	AnnotatorNotes T150 "IATE"
+#225	AnnotatorNotes T4 "IATE"
+T159	Term-diccionario 1092 1100	carácter
+#226	AnnotatorNotes T159 "IATE"
+#227	AnnotatorNotes T25 "IATE"
+#228	AnnotatorNotes T59 "IATE"
+#229	AnnotatorNotes T61 "IATE"
+T160	Term-diccionario 1524 1529	meses
+#230	AnnotatorNotes T160 "IATE"
+#231	AnnotatorNotes T47 "IATE"

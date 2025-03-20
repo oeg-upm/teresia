@@ -1,296 +1,383 @@
-T1	Term-DPEJ 1662 1669	despido
-T2	Term-DPEJ 1036 1044	salarial
-T3	Term-DPEJ 588 592	caso
-T4	Term-DPEJ 842 846	caso
-T5	Term-DPEJ 1167 1171	caso
-T6	Term-DPEJ 1539 1544	casos
-T7	Term-DPEJ 940 946	reglas
-T8	Term-DPEJ 56 63	acuerdo
-T9	Term-DPEJ 1682 1691	ineptitud
-T10	Term-DPEJ 1273 1284	negociación
-T11	Term-DPEJ 138 156	prestación laboral
-T12	Term-DPEJ 1455 1466	retribución
-T13	Term-DPEJ 1608 1619	retribución
-T14	Term-DPEJ 32 39	empresa
-T15	Term-DPEJ 987 994	empresa
-T16	Term-DPEJ 1121 1128	empresa
-T17	Term-DPEJ 812 820	convenio
-T18	Term-DPEJ 1718 1728	adaptación
-T19	Term-DPEJ 176 184	dignidad
-T20	Term-DPEJ 1151 1157	comité
-T21	Term-DPEJ 1807 1819	consecuencia
-T22	Term-DPEJ 1653 1658	causa
-T23	Term-DPEJ 768 775	ascenso
-T24	Term-DPEJ 961 969	ascensos
-T25	Term-DPEJ 812 830	convenio colectivo
-T26	Term-DPEJ 435 441	tiempo
-T27	Term-DPEJ 1273 1294	negociación colectiva
-T28	Term-DPEJ 1193 1201	personal
-T29	Term-DPEJ 138 148	prestación
-T30	Term-DPEJ 509 517	decisión
-T31	Term-DPEJ 707 710	año
-T32	Term-DPEJ 730 734	años
-T33	Term-DPEJ 1361 1369	artículo
-T34	Term-DPEJ 318 323	grupo
-T35	Term-DPEJ 641 646	grupo
-T36	Term-Termcat 812 820	convenio
-T37	Term-Termcat 1139 1146	informe
-T38	Term-Termcat 318 323	grupo
-T39	Term-Termcat 641 646	grupo
-T40	Term-Termcat 1273 1294	negociación colectiva
-T41	Term-Termcat 1608 1619	retribución
-T42	Term-Termcat 1455 1466	retribución
-T43	Term-Termcat 138 148	prestación
-T44	Term-Termcat 546 560	representantes
-T45	Term-Termcat 1361 1369	artículo
-T46	Term-Termcat 1662 1669	despido
-T47	Term-Termcat 768 775	ascenso
-T48	Term-Termcat 961 969	ascensos
-T49	Term-Termcat 465 473	atención
-T50	Term-Termcat 812 830	convenio colectivo
-T51	Term-Termcat 987 994	empresa
-T52	Term-Termcat 1121 1128	empresa
-T53	Term-Termcat 32 39	empresa
-T54	Term-Termcat 1709 1714	falta
-T55	Term-Termcat 318 335	grupo profesional
-T56	Term-Termcat 641 658	grupo profesional
-T57	Term-Termcat 207 226	movilidad funcional
-T58	Term-Termcat 1826 1845	movilidad funcional
-T59	Term-Termcat 6 25	movilidad funcional
-T60	Term-Termcat 1193 1201	personal
-T61	Term-Termcat 867 874	vacante
-T62	Term-Termcat 1408 1416	vacantes
-T63	Term-Termcat 1036 1044	salarial
-T64	Term-Termcat 509 517	decisión
-T65	Term-Termcat 176 184	dignidad
-T66	Term-Termcat 1442 1449	derecho
-T67	Term-Termcat 1240 1252	jurisdicción
-T68	Term-Termcat 1273 1284	negociación
-T69	Term-Termcat 1662 1678	despido objetivo
-T70	Term-Termcat 56 63	acuerdo
-T71	Term-Termcat 1718 1728	adaptación
-T72	Term-Termcat 1653 1669	causa de despido
-T73	Term-Termcat 1151 1157	comité
-T74	Term-Termcat 925 933	conforme
-T75	Term-Termcat 1372 1379	efectos
-T76	Term-Termcat 1240 1259	jurisdicción social
-T77	Term-Termcat 950 957	materia
-T78	Term-Termcat 1000 1009	perjuicio
-T79	Term-Termcat 940 946	reglas
-T80	Term-Termcat 620 630	superiores
-T81	Term-Termcat 267 277	superiores
-T82	Term-Termcat 674 682	superior
-T83	Term-Termcat 1305 1315	establecer
-T84	Term-Termcat 496 505	comunicar
-T85	Term-Termcat 1223 1231	reclamar
-T86	Term-Termcat 756 764	reclamar
-T87	Term-Termcat 1013 1021	reclamar
-T88	Term-Termcat 1383 1391	reclamar
-T89	Term-DV 192 196	baja
-T90	Term-DV 571 575	baja
-T91	Term-DV 742 746	baja
-T92	Term-DV 1209 1213	baja
-T93	Term-DV 1427 1431	baja
-T94	Term-DV 1653 1658	causa
-T95	Term-DV 770 775	censo
-T96	Term-DV 963 968	censo
-T97	Term-DV 851 860	cobertura
-T98	Term-DV 1395 1404	cobertura
-T99	Term-DV 489 493	debe
-T100	Term-DV 509 517	decisión
-T101	Term-DV 1442 1449	derecho
-T102	Term-DV 1662 1669	despido
-T103	Term-DV 176 184	dignidad
-T104	Term-DV 1372 1379	efectos
-T105	Term-DV 32 39	empresa
-T106	Term-DV 478 485	empresa
-T107	Term-DV 987 994	empresa
-T108	Term-DV 1121 1128	empresa
-T109	Term-DV 478 488	empresario
-T110	Term-DV 1709 1714	falta
-T111	Term-DV 44 46	fe
-T112	Term-DV 99 101	fe
-T113	Term-DV 285 287	fe
-T114	Term-DV 327 329	fe
-T115	Term-DV 650 652	fe
-T116	Term-DV 1027 1029	fe
-T117	Term-DV 1373 1375	fe
-T118	Term-DV 1504 1506	fe
-T119	Term-DV 1574 1576	fe
-T120	Term-DV 1003 1009	juicio
-T121	Term-DV 1240 1252	jurisdicción
-T122	Term-DV 149 156	laboral
-T123	Term-DV 823 830	lectivo
-T124	Term-DV 1182 1188	legado
-T125	Term-DV 761 764	mar
-T126	Term-DV 1018 1021	mar
-T127	Term-DV 1228 1231	mar
-T128	Term-DV 1388 1391	mar
-T129	Term-DV 1273 1284	negociación
-T130	Term-DV 122 126	para
-T131	Term-DV 227 231	para
-T132	Term-DV 457 461	para
-T133	Term-DV 1000 1009	perjuicio
-T134	Term-DV 1193 1200	persona
-T135	Term-DV 1193 1201	personal
-T136	Term-DV 971 976	plica
-T137	Term-DV 346 353	posible
-T138	Term-DV 138 148	prestación
-T139	Term-DV 96 107	profesional
-T140	Term-DV 324 335	profesional
-T141	Term-DV 647 658	profesional
-T142	Term-DV 235 239	real
-T143	Term-DV 914 918	real
-T144	Term-DV 1517 1521	real
-T145	Term-DV 1749 1753	real
-T146	Term-DV 1036 1040	sala
-T147	Term-DV 189 199	trabajador
-T148	Term-DV 568 578	trabajador
-T149	Term-DV 739 749	trabajador
-T150	Term-DV 1206 1216	trabajador
-T151	Term-DV 1424 1434	trabajador
-T152	Term-DV 867 874	vacante
-T153	Term-DV 1408 1415	vacante
-T154	Term-DV 8 11	vil
-T155	Term-DV 209 212	vil
-T156	Term-DV 1828 1831	vil
-T157	Term-DV 358 359	x
-T158	Term-DV 1343 1344	x
-T159	Term-AttentionRank 318 323	grupo
-T160	Term-AttentionRank 641 646	grupo
-T161	Term-AttentionRank 435 441	tiempo
-T162	Term-AttentionRank 546 560	representantes
-T163	Term-AttentionRank 1807 1819	consecuencia
-T164	Term-AttentionRank 1240 1259	jurisdicción social
-T165	Term-AttentionRank 56 63	acuerdo
-T166	Term-AttentionRank 1273 1294	negociación colectiva
-T167	Term-AttentionRank 1670 1678	objetivo
-T168	Term-AttentionRank 707 710	año
-T169	Term-AttentionRank 730 734	años
-T170	Term-AttentionRank 176 184	dignidad
-T171	Term-AttentionRank 1653 1658	causa
-T172	Term-AttentionRank 940 946	reglas
-T173	Term-AttentionRank 666 673	periodo
-T174	Term-AttentionRank 1316 1324	periodos
-T175	Term-AttentionRank 1372 1382	efectos de
-T176	Term-AttentionRank 70 93	titulaciones académicas
-T177	Term-AttentionRank 1151 1157	comité
-T178	Term-AttentionRank 1455 1498	retribución correspondiente a las funciones
-T179	Term-AttentionRank 1361 1369	artículo
-T180	Term-AttentionRank 1718 1728	adaptación
-T181	Term-AttentionRank 867 910	vacante correspondiente a las funciones por
-T182	Term-AttentionRank 509 517	decisión
-T183	Term-AttentionRank 1736 1745	supuestos
-T184	Term-AttentionRank 1132 1146	previo informe
-T185	Term-AttentionRank 666 684	periodo superior a
-T186	Term-AttentionRank 6 25	movilidad funcional
-T187	Term-AttentionRank 207 226	movilidad funcional
-T188	Term-AttentionRank 1826 1845	movilidad funcional
-T189	Term-AttentionRank 1709 1714	falta
-T190	Term-AttentionRank 690 695	meses
-T191	Term-AttentionRank 812 820	convenio
-T192	Term-AttentionRank 138 156	prestación laboral
-T193	Term-AttentionRank 1036 1044	salarial
-T194	Term-AttentionRank 1139 1146	informe
-T195	Term-AttentionRank 1180 1189	delegados
-T196	Term-AttentionRank 1682 1703	ineptitud sobrevenida
-T197	Term-AttentionRank 1682 1691	ineptitud
-T198	Term-AttentionRank 1273 1284	negociación
-T199	Term-AttentionRank 189 199	trabajador
-T200	Term-AttentionRank 739 749	trabajador
-T201	Term-AttentionRank 1206 1216	trabajador
-T202	Term-AttentionRank 1424 1434	trabajador
-T203	Term-AttentionRank 568 580	trabajadores
-T204	Term-AttentionRank 610 658	funciones superiores a las del grupo profesional
-T205	Term-AttentionRank 32 39	empresa
-T206	Term-AttentionRank 987 994	empresa
-T207	Term-AttentionRank 1121 1128	empresa
-T208	Term-AttentionRank 138 148	prestación
-T209	Term-AttentionRank 950 957	materia
-T210	Term-AttentionRank 318 335	grupo profesional
-T211	Term-AttentionRank 641 658	grupo profesional
-T212	Term-AttentionRank 1662 1669	despido
-T213	Term-AttentionRank 235 246	realización
-T214	Term-AttentionRank 1749 1760	realización
-T215	Term-AttentionRank 1442 1449	derecho
-T216	Term-AttentionRank 1807 1845	consecuencia de la movilidad funcional
-T217	Term-AttentionRank 768 775	ascenso
-T218	Term-AttentionRank 961 969	ascensos
-T219	Term-AttentionRank 1372 1379	efectos
-T220	Term-AttentionRank 812 830	convenio colectivo
-T221	Term-AttentionRank 1180 1201	delegados de personal
-T222	Term-AttentionRank 1193 1201	personal
-T223	Term-AttentionRank 1455 1466	retribución
-T224	Term-AttentionRank 1608 1619	retribución
-T225	Term-AttentionRank 588 592	caso
-T226	Term-AttentionRank 842 846	caso
-T227	Term-AttentionRank 1167 1171	caso
-T228	Term-AttentionRank 1539 1544	casos
-T229	Term-AttentionRank 478 488	empresario
-T230	Term-LabourLaw 1180 1201	delegados de personal
-T231	Term-LabourLaw 318 335	grupo profesional
-T232	Term-LabourLaw 641 658	grupo profesional
-T233	Term-LabourLaw 812 830	convenio colectivo
-T234	Term-LabourLaw 1240 1259	jurisdicción social
-T235	Term-LabourLaw 6 25	movilidad funcional
-T236	Term-LabourLaw 207 226	movilidad funcional
-T237	Term-LabourLaw 1826 1845	movilidad funcional
-T238	Term-LabourLaw 1273 1294	negociación colectiva
-T239	Term-LabourLaw 1662 1678	despido objetivo
-T240	Term-LabourLaw 1662 1669	despido
-T241	Term-LabourLaw 1240 1252	jurisdicción
-T242	Term-LabourLaw 1623 1629	origen
-T243	Term-LabourLaw 138 148	prestación
-T244	Term-LabourLaw 546 559	representante
-T245	Term-LabourLaw 189 199	trabajador
-T246	Term-LabourLaw 568 578	trabajador
-T247	Term-LabourLaw 739 749	trabajador
-T248	Term-LabourLaw 1206 1216	trabajador
-T249	Term-LabourLaw 1424 1434	trabajador
-T250	Term-LabourLaw 489 494	deber
-T251	Term-LabourLaw 478 488	empresario
-T252	Term-LabourLaw 1180 1188	delegado
-T253	Term-LabourLaw 32 39	empresa
-T254	Term-LabourLaw 478 485	empresa
-T255	Term-LabourLaw 987 994	empresa
-T256	Term-LabourLaw 1121 1128	empresa
-T257	Term-LabourLaw 1151 1157	comité
-T258	Term-LabourLaw 1442 1449	derecho
-T259	Term-LabourLaw 1000 1009	perjuicio
-T260	Term-LabourLaw 768 775	ascenso
-T261	Term-LabourLaw 961 968	ascenso
-T262	Term-LabourLaw 176 184	dignidad
-T263	Term-LabourLaw 821 830	colectivo
-T264	Term-LabourLaw 1193 1201	personal
-T265	Term-LabourLaw 666 673	periodo
-T266	Term-LabourLaw 1316 1323	periodo
-T267	Term-LabourLaw 1193 1200	persona
-T268	Term-IATE 235 246	realización
-T269	Term-IATE 1749 1760	realización
-T270	Term-IATE 509 517	decisión
-T271	Term-IATE 1361 1369	artículo
-T272	Term-IATE 56 63	acuerdo
-T273	Term-IATE 318 323	grupo
-T274	Term-IATE 641 646	grupo
-T275	Term-IATE 32 39	empresa
-T276	Term-IATE 987 994	empresa
-T277	Term-IATE 1121 1128	empresa
-T278	Term-IATE 1139 1146	informe
-T279	Term-IATE 478 488	empresario
-T280	Term-IATE 1709 1714	falta
-T281	Term-IATE 1180 1189	delegados
-T282	Term-IATE 189 199	trabajador
-T283	Term-IATE 739 749	trabajador
-T284	Term-IATE 1206 1216	trabajador
-T285	Term-IATE 1424 1434	trabajador
-T286	Term-IATE 568 580	trabajadores
-T287	Term-IATE 950 957	materia
-T288	Term-IATE 138 148	prestación
-T289	Term-IATE 1151 1157	comité
-T290	Term-IATE 1372 1379	efectos
-T291	Term-IATE 1273 1284	negociación
-T292	Term-IATE 546 560	representantes
-T293	Term-IATE 1455 1466	retribución
-T294	Term-IATE 1608 1619	retribución
-T295	Term-IATE 812 820	convenio
-T296	Term-IATE 690 695	meses
+T1	Term-diccionario 1662 1669	despido
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1036 1044	salarial
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 588 592	caso
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 842 846	caso
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 1167 1171	caso
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1539 1544	casos
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 940 946	reglas
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 56 63	acuerdo
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 1682 1691	ineptitud
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 1273 1284	negociación
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 138 156	prestación laboral
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 1455 1466	retribución
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1608 1619	retribución
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 32 39	empresa
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 987 994	empresa
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1121 1128	empresa
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 812 820	convenio
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 1718 1728	adaptación
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 176 184	dignidad
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 1151 1157	comité
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 1807 1819	consecuencia
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 1653 1658	causa
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 768 775	ascenso
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 961 969	ascensos
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 812 830	convenio colectivo
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 435 441	tiempo
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1273 1294	negociación colectiva
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 1193 1201	personal
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 138 148	prestación
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 509 517	decisión
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 707 710	año
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 730 734	años
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 1361 1369	artículo
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 318 323	grupo
+#34	AnnotatorNotes T34 "DPEJ"
+T35	Term-diccionario 641 646	grupo
+#35	AnnotatorNotes T35 "DPEJ"
+#36	AnnotatorNotes T17 "Termcat"
+T36	Term-diccionario 1139 1146	informe
+#37	AnnotatorNotes T36 "Termcat"
+#38	AnnotatorNotes T34 "Termcat"
+#39	AnnotatorNotes T35 "Termcat"
+#40	AnnotatorNotes T27 "Termcat"
+#41	AnnotatorNotes T13 "Termcat"
+#42	AnnotatorNotes T12 "Termcat"
+#43	AnnotatorNotes T29 "Termcat"
+T37	Term-diccionario 546 560	representantes
+#44	AnnotatorNotes T37 "Termcat"
+#45	AnnotatorNotes T33 "Termcat"
+#46	AnnotatorNotes T1 "Termcat"
+#47	AnnotatorNotes T23 "Termcat"
+#48	AnnotatorNotes T24 "Termcat"
+T38	Term-diccionario 465 473	atención
+#49	AnnotatorNotes T38 "Termcat"
+#50	AnnotatorNotes T25 "Termcat"
+#51	AnnotatorNotes T15 "Termcat"
+#52	AnnotatorNotes T16 "Termcat"
+#53	AnnotatorNotes T14 "Termcat"
+T39	Term-diccionario 1709 1714	falta
+#54	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 318 335	grupo profesional
+#55	AnnotatorNotes T40 "Termcat"
+T41	Term-diccionario 641 658	grupo profesional
+#56	AnnotatorNotes T41 "Termcat"
+T42	Term-diccionario 207 226	movilidad funcional
+#57	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 1826 1845	movilidad funcional
+#58	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 6 25	movilidad funcional
+#59	AnnotatorNotes T44 "Termcat"
+#60	AnnotatorNotes T28 "Termcat"
+T45	Term-diccionario 867 874	vacante
+#61	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1408 1416	vacantes
+#62	AnnotatorNotes T46 "Termcat"
+#63	AnnotatorNotes T2 "Termcat"
+#64	AnnotatorNotes T30 "Termcat"
+#65	AnnotatorNotes T19 "Termcat"
+T47	Term-diccionario 1442 1449	derecho
+#66	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 1240 1252	jurisdicción
+#67	AnnotatorNotes T48 "Termcat"
+#68	AnnotatorNotes T10 "Termcat"
+T49	Term-diccionario 1662 1678	despido objetivo
+#69	AnnotatorNotes T49 "Termcat"
+#70	AnnotatorNotes T8 "Termcat"
+#71	AnnotatorNotes T18 "Termcat"
+T50	Term-diccionario 1653 1669	causa de despido
+#72	AnnotatorNotes T50 "Termcat"
+#73	AnnotatorNotes T20 "Termcat"
+T51	Term-diccionario 925 933	conforme
+#74	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 1372 1379	efectos
+#75	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 1240 1259	jurisdicción social
+#76	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 950 957	materia
+#77	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 1000 1009	perjuicio
+#78	AnnotatorNotes T55 "Termcat"
+#79	AnnotatorNotes T7 "Termcat"
+T56	Term-diccionario 620 630	superiores
+#80	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 267 277	superiores
+#81	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 674 682	superior
+#82	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 1305 1315	establecer
+#83	AnnotatorNotes T59 "Termcat"
+T60	Term-diccionario 496 505	comunicar
+#84	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 1223 1231	reclamar
+#85	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 756 764	reclamar
+#86	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 1013 1021	reclamar
+#87	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 1383 1391	reclamar
+#88	AnnotatorNotes T64 "Termcat"
+T65	Term-automatico 318 323	grupo
+#89	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 641 646	grupo
+#90	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 435 441	tiempo
+#91	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 546 560	representantes
+#92	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 1807 1819	consecuencia
+#93	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 1240 1259	jurisdicción social
+#94	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 56 63	acuerdo
+#95	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 1273 1294	negociación colectiva
+#96	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 1670 1678	objetivo
+#97	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 707 710	año
+#98	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 730 734	años
+#99	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 176 184	dignidad
+#100	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 1653 1658	causa
+#101	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 940 946	reglas
+#102	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 666 673	periodo
+#103	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 1316 1324	periodos
+#104	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 1372 1382	efectos de
+#105	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 70 93	titulaciones académicas
+#106	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 1151 1157	comité
+#107	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 1455 1498	retribución correspondiente a las funciones
+#108	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 1361 1369	artículo
+#109	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 1718 1728	adaptación
+#110	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 867 910	vacante correspondiente a las funciones por
+#111	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 509 517	decisión
+#112	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1736 1745	supuestos
+#113	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1132 1146	previo informe
+#114	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 666 684	periodo superior a
+#115	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 6 25	movilidad funcional
+#116	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 207 226	movilidad funcional
+#117	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 1826 1845	movilidad funcional
+#118	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1709 1714	falta
+#119	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 690 695	meses
+#120	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 812 820	convenio
+#121	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 138 156	prestación laboral
+#122	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1036 1044	salarial
+#123	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1139 1146	informe
+#124	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1180 1189	delegados
+#125	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 1682 1703	ineptitud sobrevenida
+#126	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 1682 1691	ineptitud
+#127	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1273 1284	negociación
+#128	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 189 199	trabajador
+#129	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 739 749	trabajador
+#130	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1206 1216	trabajador
+#131	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1424 1434	trabajador
+#132	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 568 580	trabajadores
+#133	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 610 658	funciones superiores a las del grupo profesional
+#134	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 32 39	empresa
+#135	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 987 994	empresa
+#136	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 1121 1128	empresa
+#137	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 138 148	prestación
+#138	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 950 957	materia
+#139	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 318 335	grupo profesional
+#140	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 641 658	grupo profesional
+#141	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1662 1669	despido
+#142	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 235 246	realización
+#143	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 1749 1760	realización
+#144	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 1442 1449	derecho
+#145	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 1807 1845	consecuencia de la movilidad funcional
+#146	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 768 775	ascenso
+#147	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 961 969	ascensos
+#148	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 1372 1379	efectos
+#149	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 812 830	convenio colectivo
+#150	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 1180 1201	delegados de personal
+#151	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 1193 1201	personal
+#152	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 1455 1466	retribución
+#153	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 1608 1619	retribución
+#154	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 588 592	caso
+#155	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 842 846	caso
+#156	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 1167 1171	caso
+#157	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 1539 1544	casos
+#158	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 478 488	empresario
+#159	AnnotatorNotes T135 "AttentionRank"
+T136	Term-diccionario 1180 1201	delegados de personal
+#160	AnnotatorNotes T136 "LabourLaw"
+#161	AnnotatorNotes T40 "LabourLaw"
+#162	AnnotatorNotes T41 "LabourLaw"
+#163	AnnotatorNotes T25 "LabourLaw"
+#164	AnnotatorNotes T53 "LabourLaw"
+#165	AnnotatorNotes T44 "LabourLaw"
+#166	AnnotatorNotes T42 "LabourLaw"
+#167	AnnotatorNotes T43 "LabourLaw"
+#168	AnnotatorNotes T27 "LabourLaw"
+#169	AnnotatorNotes T49 "LabourLaw"
+#170	AnnotatorNotes T1 "LabourLaw"
+#171	AnnotatorNotes T48 "LabourLaw"
+T137	Term-diccionario 1623 1629	origen
+#172	AnnotatorNotes T137 "LabourLaw"
+#173	AnnotatorNotes T29 "LabourLaw"
+T138	Term-diccionario 546 559	representante
+#174	AnnotatorNotes T138 "LabourLaw"
+T139	Term-diccionario 189 199	trabajador
+#175	AnnotatorNotes T139 "LabourLaw"
+T140	Term-diccionario 568 578	trabajador
+#176	AnnotatorNotes T140 "LabourLaw"
+T141	Term-diccionario 739 749	trabajador
+#177	AnnotatorNotes T141 "LabourLaw"
+T142	Term-diccionario 1206 1216	trabajador
+#178	AnnotatorNotes T142 "LabourLaw"
+T143	Term-diccionario 1424 1434	trabajador
+#179	AnnotatorNotes T143 "LabourLaw"
+T144	Term-diccionario 489 494	deber
+#180	AnnotatorNotes T144 "LabourLaw"
+T145	Term-diccionario 478 488	empresario
+#181	AnnotatorNotes T145 "LabourLaw"
+T146	Term-diccionario 1180 1188	delegado
+#182	AnnotatorNotes T146 "LabourLaw"
+#183	AnnotatorNotes T14 "LabourLaw"
+T147	Term-diccionario 478 485	empresa
+#184	AnnotatorNotes T147 "LabourLaw"
+#185	AnnotatorNotes T15 "LabourLaw"
+#186	AnnotatorNotes T16 "LabourLaw"
+#187	AnnotatorNotes T20 "LabourLaw"
+#188	AnnotatorNotes T47 "LabourLaw"
+#189	AnnotatorNotes T55 "LabourLaw"
+#190	AnnotatorNotes T23 "LabourLaw"
+T148	Term-diccionario 961 968	ascenso
+#191	AnnotatorNotes T148 "LabourLaw"
+#192	AnnotatorNotes T19 "LabourLaw"
+T149	Term-diccionario 821 830	colectivo
+#193	AnnotatorNotes T149 "LabourLaw"
+#194	AnnotatorNotes T28 "LabourLaw"
+T150	Term-diccionario 666 673	periodo
+#195	AnnotatorNotes T150 "LabourLaw"
+T151	Term-diccionario 1316 1323	periodo
+#196	AnnotatorNotes T151 "LabourLaw"
+T152	Term-diccionario 1193 1200	persona
+#197	AnnotatorNotes T152 "LabourLaw"
+T153	Term-diccionario 235 246	realización
+#198	AnnotatorNotes T153 "IATE"
+T154	Term-diccionario 1749 1760	realización
+#199	AnnotatorNotes T154 "IATE"
+#200	AnnotatorNotes T30 "IATE"
+#201	AnnotatorNotes T33 "IATE"
+#202	AnnotatorNotes T8 "IATE"
+#203	AnnotatorNotes T34 "IATE"
+#204	AnnotatorNotes T35 "IATE"
+#205	AnnotatorNotes T14 "IATE"
+#206	AnnotatorNotes T15 "IATE"
+#207	AnnotatorNotes T16 "IATE"
+#208	AnnotatorNotes T36 "IATE"
+#209	AnnotatorNotes T145 "IATE"
+#210	AnnotatorNotes T39 "IATE"
+T155	Term-diccionario 1180 1189	delegados
+#211	AnnotatorNotes T155 "IATE"
+#212	AnnotatorNotes T139 "IATE"
+#213	AnnotatorNotes T141 "IATE"
+#214	AnnotatorNotes T142 "IATE"
+#215	AnnotatorNotes T143 "IATE"
+T156	Term-diccionario 568 580	trabajadores
+#216	AnnotatorNotes T156 "IATE"
+#217	AnnotatorNotes T54 "IATE"
+#218	AnnotatorNotes T29 "IATE"
+#219	AnnotatorNotes T20 "IATE"
+#220	AnnotatorNotes T52 "IATE"
+#221	AnnotatorNotes T10 "IATE"
+#222	AnnotatorNotes T37 "IATE"
+#223	AnnotatorNotes T12 "IATE"
+#224	AnnotatorNotes T13 "IATE"
+#225	AnnotatorNotes T17 "IATE"
+T157	Term-diccionario 690 695	meses
+#226	AnnotatorNotes T157 "IATE"

@@ -1,68 +1,84 @@
-T1	Term-DPEJ 166 173	trabajo
-T2	Term-DPEJ 329 336	trabajo
-T3	Term-DPEJ 263 270	salario
-T4	Term-DPEJ 114 122	contrato
-T5	Term-DPEJ 355 361	tiempo
-T6	Term-DPEJ 33 43	prestación
-T7	Term-DPEJ 85 94	servicios
-T8	Term-DPEJ 0 8	Artículo
-T9	Term-Termcat 85 94	servicios
-T10	Term-Termcat 114 122	contrato
-T11	Term-Termcat 178 190	impedimentos
-T12	Term-Termcat 33 43	prestación
-T13	Term-Termcat 0 8	Artículo
-T14	Term-Termcat 329 336	trabajo
-T15	Term-Termcat 166 173	trabajo
-T16	Term-Termcat 263 270	salario
-T17	Term-Termcat 250 257	derecho
-T18	Term-Termcat 103 110	vigente
-T19	Term-Termcat 191 201	imputables
-T20	Term-DV 54 58	baja
-T21	Term-DV 222 226	baja
-T22	Term-DV 160 163	dar
-T23	Term-DV 250 257	derecho
-T24	Term-DV 133 140	empresa
-T25	Term-DV 133 143	empresario
-T26	Term-DV 15 26	posibilidad
-T27	Term-DV 33 43	prestación
-T28	Term-DV 118 122	rato
-T29	Term-DV 337 341	real
-T30	Term-DV 263 267	sala
-T31	Term-DV 263 270	salario
-T32	Term-DV 85 93	servicio
-T33	Term-DV 51 61	trabajador
-T34	Term-DV 219 229	trabajador
-T35	Term-DV 103 110	vigente
-T36	Term-AttentionRank 329 361	trabajo realizado en otro tiempo
-T37	Term-AttentionRank 355 361	tiempo
-T38	Term-AttentionRank 178 201	impedimentos imputables
-T39	Term-AttentionRank 0 8	Artículo
-T40	Term-AttentionRank 85 94	servicios
-T41	Term-AttentionRank 51 61	trabajador
-T42	Term-AttentionRank 219 229	trabajador
-T43	Term-AttentionRank 33 43	prestación
-T44	Term-AttentionRank 263 270	salario
-T45	Term-AttentionRank 250 257	derecho
-T46	Term-AttentionRank 99 102	vez
-T47	Term-AttentionRank 114 122	contrato
-T48	Term-AttentionRank 166 173	trabajo
-T49	Term-AttentionRank 329 336	trabajo
-T50	Term-AttentionRank 133 143	empresario
-T51	Term-LabourLaw 166 173	trabajo
-T52	Term-LabourLaw 329 336	trabajo
-T53	Term-LabourLaw 114 122	contrato
-T54	Term-LabourLaw 263 270	salario
-T55	Term-LabourLaw 33 43	prestación
-T56	Term-LabourLaw 51 61	trabajador
-T57	Term-LabourLaw 219 229	trabajador
-T58	Term-LabourLaw 133 143	empresario
-T59	Term-LabourLaw 85 93	servicio
-T60	Term-LabourLaw 133 140	empresa
-T61	Term-LabourLaw 250 257	derecho
-T62	Term-IATE 0 8	Artículo
-T63	Term-IATE 133 143	empresario
-T64	Term-IATE 263 270	salario
-T65	Term-IATE 51 61	trabajador
-T66	Term-IATE 219 229	trabajador
-T67	Term-IATE 33 43	prestación
-T68	Term-IATE 114 122	contrato
+T1	Term-diccionario 166 173	trabajo
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 329 336	trabajo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 263 270	salario
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 114 122	contrato
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 355 361	tiempo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 33 43	prestación
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 85 94	servicios
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 0 8	Artículo
+#8	AnnotatorNotes T8 "DPEJ"
+#9	AnnotatorNotes T7 "Termcat"
+#10	AnnotatorNotes T4 "Termcat"
+T9	Term-diccionario 178 190	impedimentos
+#11	AnnotatorNotes T9 "Termcat"
+#12	AnnotatorNotes T6 "Termcat"
+#13	AnnotatorNotes T8 "Termcat"
+#14	AnnotatorNotes T2 "Termcat"
+#15	AnnotatorNotes T1 "Termcat"
+#16	AnnotatorNotes T3 "Termcat"
+T10	Term-diccionario 250 257	derecho
+#17	AnnotatorNotes T10 "Termcat"
+T11	Term-diccionario 103 110	vigente
+#18	AnnotatorNotes T11 "Termcat"
+T12	Term-diccionario 191 201	imputables
+#19	AnnotatorNotes T12 "Termcat"
+T13	Term-automatico 329 361	trabajo realizado en otro tiempo
+#20	AnnotatorNotes T13 "AttentionRank"
+T14	Term-automatico 355 361	tiempo
+#21	AnnotatorNotes T14 "AttentionRank"
+T15	Term-automatico 178 201	impedimentos imputables
+#22	AnnotatorNotes T15 "AttentionRank"
+T16	Term-automatico 0 8	Artículo
+#23	AnnotatorNotes T16 "AttentionRank"
+T17	Term-automatico 85 94	servicios
+#24	AnnotatorNotes T17 "AttentionRank"
+T18	Term-automatico 51 61	trabajador
+#25	AnnotatorNotes T18 "AttentionRank"
+T19	Term-automatico 219 229	trabajador
+#26	AnnotatorNotes T19 "AttentionRank"
+T20	Term-automatico 33 43	prestación
+#27	AnnotatorNotes T20 "AttentionRank"
+T21	Term-automatico 263 270	salario
+#28	AnnotatorNotes T21 "AttentionRank"
+T22	Term-automatico 250 257	derecho
+#29	AnnotatorNotes T22 "AttentionRank"
+T23	Term-automatico 99 102	vez
+#30	AnnotatorNotes T23 "AttentionRank"
+T24	Term-automatico 114 122	contrato
+#31	AnnotatorNotes T24 "AttentionRank"
+T25	Term-automatico 166 173	trabajo
+#32	AnnotatorNotes T25 "AttentionRank"
+T26	Term-automatico 329 336	trabajo
+#33	AnnotatorNotes T26 "AttentionRank"
+T27	Term-automatico 133 143	empresario
+#34	AnnotatorNotes T27 "AttentionRank"
+#35	AnnotatorNotes T1 "LabourLaw"
+#36	AnnotatorNotes T2 "LabourLaw"
+#37	AnnotatorNotes T4 "LabourLaw"
+#38	AnnotatorNotes T3 "LabourLaw"
+#39	AnnotatorNotes T6 "LabourLaw"
+T28	Term-diccionario 51 61	trabajador
+#40	AnnotatorNotes T28 "LabourLaw"
+T29	Term-diccionario 219 229	trabajador
+#41	AnnotatorNotes T29 "LabourLaw"
+T30	Term-diccionario 133 143	empresario
+#42	AnnotatorNotes T30 "LabourLaw"
+T31	Term-diccionario 85 93	servicio
+#43	AnnotatorNotes T31 "LabourLaw"
+T32	Term-diccionario 133 140	empresa
+#44	AnnotatorNotes T32 "LabourLaw"
+#45	AnnotatorNotes T10 "LabourLaw"
+#46	AnnotatorNotes T8 "IATE"
+#47	AnnotatorNotes T30 "IATE"
+#48	AnnotatorNotes T3 "IATE"
+#49	AnnotatorNotes T28 "IATE"
+#50	AnnotatorNotes T29 "IATE"
+#51	AnnotatorNotes T6 "IATE"
+#52	AnnotatorNotes T4 "IATE"

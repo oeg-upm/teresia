@@ -1,93 +1,132 @@
-T1	Term-DPEJ 232 239	acuerdo
-T2	Term-DPEJ 207 215	convenio
-T3	Term-DPEJ 335 343	convenio
-T4	Term-DPEJ 423 431	convenio
-T5	Term-DPEJ 207 225	convenio colectivo
-T6	Term-DPEJ 335 353	convenio colectivo
-T7	Term-DPEJ 423 441	convenio colectivo
-T8	Term-DPEJ 357 364	cuantía
-T9	Term-DPEJ 115 118	año
-T10	Term-DPEJ 0 8	Artículo
-T11	Term-Termcat 335 343	convenio
-T12	Term-Termcat 423 431	convenio
-T13	Term-Termcat 207 215	convenio
-T14	Term-Termcat 266 280	representantes
-T15	Term-Termcat 0 8	Artículo
-T16	Term-Termcat 207 225	convenio colectivo
-T17	Term-Termcat 423 441	convenio colectivo
-T18	Term-Termcat 335 353	convenio colectivo
-T19	Term-Termcat 152 159	fiestas
-T20	Term-Termcat 508 521	mensualidades
-T21	Term-Termcat 66 73	derecho
-T22	Term-Termcat 232 239	acuerdo
-T23	Term-Termcat 281 288	legales
-T24	Term-Termcat 357 364	cuantía
-T25	Term-Termcat 266 288	representantes legales
-T26	Term-DV 52 56	baja
-T27	Term-DV 299 303	baja
-T28	Term-DV 414 417	dar
-T29	Term-DV 66 73	derecho
-T30	Term-DV 249 256	empresa
-T31	Term-DV 249 259	empresario
-T32	Term-DV 218 225	lectivo
-T33	Term-DV 346 353	lectivo
-T34	Term-DV 434 441	lectivo
-T35	Term-DV 281 286	legal
-T36	Term-DV 49 59	trabajador
-T37	Term-DV 296 306	trabajador
-T38	Term-DV 30 31	x
-T39	Term-DV 97 98	x
-T40	Term-DV 467 468	x
-T41	Term-AttentionRank 357 364	cuantía
-T42	Term-AttentionRank 266 280	representantes
-T43	Term-AttentionRank 266 288	representantes legales
-T44	Term-AttentionRank 266 288	representantes legales
-T45	Term-AttentionRank 232 239	acuerdo
-T46	Term-AttentionRank 115 118	año
-T47	Term-AttentionRank 232 259	acuerdo entre el empresario
-T48	Term-AttentionRank 0 8	Artículo
-T49	Term-AttentionRank 80 118	gratificaciones extraordinarias al año
-T50	Term-AttentionRank 187 190	mes
-T51	Term-AttentionRank 207 215	convenio
-T52	Term-AttentionRank 335 343	convenio
-T53	Term-AttentionRank 423 431	convenio
-T54	Term-AttentionRank 368 373	tales
-T55	Term-AttentionRank 508 521	mensualidades
-T56	Term-AttentionRank 13 44	Gratificaciones extraordinarias
-T57	Term-AttentionRank 80 111	gratificaciones extraordinarias
-T58	Term-AttentionRank 450 481	gratificaciones extraordinarias
-T59	Term-AttentionRank 49 59	trabajador
-T60	Term-AttentionRank 296 308	trabajadores
-T61	Term-AttentionRank 66 73	derecho
-T62	Term-AttentionRank 207 225	convenio colectivo
-T63	Term-AttentionRank 335 353	convenio colectivo
-T64	Term-AttentionRank 423 441	convenio colectivo
-T65	Term-AttentionRank 137 159	ocasión de las fiestas
-T66	Term-AttentionRank 152 159	fiestas
-T67	Term-AttentionRank 249 259	empresario
-T68	Term-LabourLaw 207 225	convenio colectivo
-T69	Term-LabourLaw 335 353	convenio colectivo
-T70	Term-LabourLaw 423 441	convenio colectivo
-T71	Term-LabourLaw 80 111	gratificaciones extraordinarias
-T72	Term-LabourLaw 450 481	gratificaciones extraordinarias
-T73	Term-LabourLaw 266 279	representante
-T74	Term-LabourLaw 49 59	trabajador
-T75	Term-LabourLaw 296 306	trabajador
-T76	Term-LabourLaw 249 259	empresario
-T77	Term-LabourLaw 357 364	cuantía
-T78	Term-LabourLaw 249 256	empresa
-T79	Term-LabourLaw 66 73	derecho
-T80	Term-LabourLaw 216 225	colectivo
-T81	Term-LabourLaw 344 353	colectivo
-T82	Term-LabourLaw 432 441	colectivo
-T83	Term-LabourLaw 152 159	fiestas
-T84	Term-IATE 0 8	Artículo
-T85	Term-IATE 232 239	acuerdo
-T86	Term-IATE 249 259	empresario
-T87	Term-IATE 49 59	trabajador
-T88	Term-IATE 296 308	trabajadores
-T89	Term-IATE 266 280	representantes
-T90	Term-IATE 207 215	convenio
-T91	Term-IATE 335 343	convenio
-T92	Term-IATE 423 431	convenio
-T93	Term-IATE 187 190	mes
+T1	Term-diccionario 232 239	acuerdo
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 207 215	convenio
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 335 343	convenio
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 423 431	convenio
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 207 225	convenio colectivo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 335 353	convenio colectivo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 423 441	convenio colectivo
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 357 364	cuantía
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 115 118	año
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 0 8	Artículo
+#10	AnnotatorNotes T10 "DPEJ"
+#11	AnnotatorNotes T3 "Termcat"
+#12	AnnotatorNotes T4 "Termcat"
+#13	AnnotatorNotes T2 "Termcat"
+T11	Term-diccionario 266 280	representantes
+#14	AnnotatorNotes T11 "Termcat"
+#15	AnnotatorNotes T10 "Termcat"
+#16	AnnotatorNotes T5 "Termcat"
+#17	AnnotatorNotes T7 "Termcat"
+#18	AnnotatorNotes T6 "Termcat"
+T12	Term-diccionario 152 159	fiestas
+#19	AnnotatorNotes T12 "Termcat"
+T13	Term-diccionario 508 521	mensualidades
+#20	AnnotatorNotes T13 "Termcat"
+T14	Term-diccionario 66 73	derecho
+#21	AnnotatorNotes T14 "Termcat"
+#22	AnnotatorNotes T1 "Termcat"
+T15	Term-diccionario 281 288	legales
+#23	AnnotatorNotes T15 "Termcat"
+#24	AnnotatorNotes T8 "Termcat"
+T16	Term-diccionario 266 288	representantes legales
+#25	AnnotatorNotes T16 "Termcat"
+T17	Term-automatico 357 364	cuantía
+#26	AnnotatorNotes T17 "AttentionRank"
+T18	Term-automatico 266 280	representantes
+#27	AnnotatorNotes T18 "AttentionRank"
+T19	Term-automatico 266 288	representantes legales
+#28	AnnotatorNotes T19 "AttentionRank"
+#29	AnnotatorNotes T19 "AttentionRank"
+T20	Term-automatico 232 239	acuerdo
+#30	AnnotatorNotes T20 "AttentionRank"
+T21	Term-automatico 115 118	año
+#31	AnnotatorNotes T21 "AttentionRank"
+T22	Term-automatico 232 259	acuerdo entre el empresario
+#32	AnnotatorNotes T22 "AttentionRank"
+T23	Term-automatico 0 8	Artículo
+#33	AnnotatorNotes T23 "AttentionRank"
+T24	Term-automatico 80 118	gratificaciones extraordinarias al año
+#34	AnnotatorNotes T24 "AttentionRank"
+T25	Term-automatico 187 190	mes
+#35	AnnotatorNotes T25 "AttentionRank"
+T26	Term-automatico 207 215	convenio
+#36	AnnotatorNotes T26 "AttentionRank"
+T27	Term-automatico 335 343	convenio
+#37	AnnotatorNotes T27 "AttentionRank"
+T28	Term-automatico 423 431	convenio
+#38	AnnotatorNotes T28 "AttentionRank"
+T29	Term-automatico 368 373	tales
+#39	AnnotatorNotes T29 "AttentionRank"
+T30	Term-automatico 508 521	mensualidades
+#40	AnnotatorNotes T30 "AttentionRank"
+T31	Term-automatico 13 44	Gratificaciones extraordinarias
+#41	AnnotatorNotes T31 "AttentionRank"
+T32	Term-automatico 80 111	gratificaciones extraordinarias
+#42	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 450 481	gratificaciones extraordinarias
+#43	AnnotatorNotes T33 "AttentionRank"
+T34	Term-automatico 49 59	trabajador
+#44	AnnotatorNotes T34 "AttentionRank"
+T35	Term-automatico 296 308	trabajadores
+#45	AnnotatorNotes T35 "AttentionRank"
+T36	Term-automatico 66 73	derecho
+#46	AnnotatorNotes T36 "AttentionRank"
+T37	Term-automatico 207 225	convenio colectivo
+#47	AnnotatorNotes T37 "AttentionRank"
+T38	Term-automatico 335 353	convenio colectivo
+#48	AnnotatorNotes T38 "AttentionRank"
+T39	Term-automatico 423 441	convenio colectivo
+#49	AnnotatorNotes T39 "AttentionRank"
+T40	Term-automatico 137 159	ocasión de las fiestas
+#50	AnnotatorNotes T40 "AttentionRank"
+T41	Term-automatico 152 159	fiestas
+#51	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 249 259	empresario
+#52	AnnotatorNotes T42 "AttentionRank"
+#53	AnnotatorNotes T5 "LabourLaw"
+#54	AnnotatorNotes T6 "LabourLaw"
+#55	AnnotatorNotes T7 "LabourLaw"
+T43	Term-diccionario 80 111	gratificaciones extraordinarias
+#56	AnnotatorNotes T43 "LabourLaw"
+T44	Term-diccionario 450 481	gratificaciones extraordinarias
+#57	AnnotatorNotes T44 "LabourLaw"
+T45	Term-diccionario 266 279	representante
+#58	AnnotatorNotes T45 "LabourLaw"
+T46	Term-diccionario 49 59	trabajador
+#59	AnnotatorNotes T46 "LabourLaw"
+T47	Term-diccionario 296 306	trabajador
+#60	AnnotatorNotes T47 "LabourLaw"
+T48	Term-diccionario 249 259	empresario
+#61	AnnotatorNotes T48 "LabourLaw"
+#62	AnnotatorNotes T8 "LabourLaw"
+T49	Term-diccionario 249 256	empresa
+#63	AnnotatorNotes T49 "LabourLaw"
+#64	AnnotatorNotes T14 "LabourLaw"
+T50	Term-diccionario 216 225	colectivo
+#65	AnnotatorNotes T50 "LabourLaw"
+T51	Term-diccionario 344 353	colectivo
+#66	AnnotatorNotes T51 "LabourLaw"
+T52	Term-diccionario 432 441	colectivo
+#67	AnnotatorNotes T52 "LabourLaw"
+#68	AnnotatorNotes T12 "LabourLaw"
+#69	AnnotatorNotes T10 "IATE"
+#70	AnnotatorNotes T1 "IATE"
+#71	AnnotatorNotes T48 "IATE"
+#72	AnnotatorNotes T46 "IATE"
+T53	Term-diccionario 296 308	trabajadores
+#73	AnnotatorNotes T53 "IATE"
+#74	AnnotatorNotes T11 "IATE"
+#75	AnnotatorNotes T2 "IATE"
+#76	AnnotatorNotes T3 "IATE"
+#77	AnnotatorNotes T4 "IATE"
+T54	Term-diccionario 187 190	mes
+#78	AnnotatorNotes T54 "IATE"
