@@ -1,167 +1,131 @@
-T1	Term-diccionario 388 397	intimidad
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 499 507	ausencia
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 292 309	centro de trabajo
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 512 529	centro de trabajo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 302 309	trabajo
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 324 331	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 522 529	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 272 279	empresa
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 556 563	empresa
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 377 385	dignidad
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 196 206	protección
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 0 8	Artículo
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 292 298	centro
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 512 518	centro
-#14	AnnotatorNotes T14 "DPEJ"
-#15	AnnotatorNotes T2 "Termcat"
-T15	Term-diccionario 151 163	particulares
-#16	AnnotatorNotes T15 "Termcat"
-T16	Term-diccionario 211 221	patrimonio
-#17	AnnotatorNotes T16 "Termcat"
-T17	Term-diccionario 450 463	representante
-#18	AnnotatorNotes T17 "Termcat"
-#19	AnnotatorNotes T12 "Termcat"
-T18	Term-diccionario 433 443	asistencia
-#20	AnnotatorNotes T18 "Termcat"
-#21	AnnotatorNotes T3 "Termcat"
-#22	AnnotatorNotes T4 "Termcat"
-#23	AnnotatorNotes T8 "Termcat"
-#24	AnnotatorNotes T9 "Termcat"
-#25	AnnotatorNotes T6 "Termcat"
-#26	AnnotatorNotes T10 "Termcat"
-T19	Term-diccionario 100 107	persona
-#27	AnnotatorNotes T19 "Termcat"
-T20	Term-diccionario 34 41	persona
-#28	AnnotatorNotes T20 "Termcat"
-T21	Term-diccionario 143 150	efectos
-#29	AnnotatorNotes T21 "Termcat"
-T22	Term-diccionario 222 233	empresarial
-#30	AnnotatorNotes T22 "Termcat"
-T23	Term-diccionario 81 90	registros
-#31	AnnotatorNotes T23 "Termcat"
-T24	Term-diccionario 13 27	Inviolabilidad
-#32	AnnotatorNotes T24 "Termcat"
-T25	Term-diccionario 464 469	legal
-#33	AnnotatorNotes T25 "Termcat"
-T26	Term-diccionario 450 469	representante legal
-#34	AnnotatorNotes T26 "Termcat"
-T27	Term-automatico 450 463	representante
-#35	AnnotatorNotes T27 "AttentionRank"
-T28	Term-automatico 81 90	registros
-#36	AnnotatorNotes T28 "AttentionRank"
-T29	Term-automatico 450 469	representante legal
-#37	AnnotatorNotes T29 "AttentionRank"
-T30	Term-automatico 377 385	dignidad
-#38	AnnotatorNotes T30 "AttentionRank"
-T31	Term-automatico 0 8	Artículo
-#39	AnnotatorNotes T31 "AttentionRank"
-T32	Term-automatico 433 443	asistencia
-#40	AnnotatorNotes T32 "AttentionRank"
-T33	Term-automatico 34 41	persona
-#41	AnnotatorNotes T33 "AttentionRank"
-T34	Term-automatico 100 107	persona
-#42	AnnotatorNotes T34 "AttentionRank"
-T35	Term-automatico 388 397	intimidad
-#43	AnnotatorNotes T35 "AttentionRank"
-T36	Term-automatico 46 56	trabajador
-#44	AnnotatorNotes T36 "AttentionRank"
-T37	Term-automatico 112 122	trabajador
-#45	AnnotatorNotes T37 "AttentionRank"
-T38	Term-automatico 402 412	trabajador
-#46	AnnotatorNotes T38 "AttentionRank"
-T39	Term-automatico 539 549	trabajador
-#47	AnnotatorNotes T39 "AttentionRank"
-T40	Term-automatico 253 265	trabajadores
-#48	AnnotatorNotes T40 "AttentionRank"
-T41	Term-automatico 477 489	trabajadores
-#49	AnnotatorNotes T41 "AttentionRank"
-T42	Term-automatico 211 233	patrimonio empresarial
-#50	AnnotatorNotes T42 "AttentionRank"
-T43	Term-automatico 272 279	empresa
-#51	AnnotatorNotes T43 "AttentionRank"
-T44	Term-automatico 556 563	empresa
-#52	AnnotatorNotes T44 "AttentionRank"
-T45	Term-automatico 315 320	horas
-#53	AnnotatorNotes T45 "AttentionRank"
-T46	Term-automatico 196 206	protección
-#54	AnnotatorNotes T46 "AttentionRank"
-T47	Term-automatico 292 298	centro
-#55	AnnotatorNotes T47 "AttentionRank"
-T48	Term-automatico 512 518	centro
-#56	AnnotatorNotes T48 "AttentionRank"
-T49	Term-automatico 339 350	realización
-#57	AnnotatorNotes T49 "AttentionRank"
-T50	Term-automatico 499 507	ausencia
-#58	AnnotatorNotes T50 "AttentionRank"
-T51	Term-automatico 143 150	efectos
-#59	AnnotatorNotes T51 "AttentionRank"
-T52	Term-automatico 302 309	trabajo
-#60	AnnotatorNotes T52 "AttentionRank"
-T53	Term-automatico 324 331	trabajo
-#61	AnnotatorNotes T53 "AttentionRank"
-T54	Term-automatico 522 529	trabajo
-#62	AnnotatorNotes T54 "AttentionRank"
-#63	AnnotatorNotes T3 "LabourLaw"
-#64	AnnotatorNotes T4 "LabourLaw"
-T55	Term-diccionario 211 233	patrimonio empresarial
-#65	AnnotatorNotes T55 "LabourLaw"
-#66	AnnotatorNotes T26 "LabourLaw"
-#67	AnnotatorNotes T16 "LabourLaw"
-#68	AnnotatorNotes T5 "LabourLaw"
-#69	AnnotatorNotes T6 "LabourLaw"
-#70	AnnotatorNotes T7 "LabourLaw"
-#71	AnnotatorNotes T17 "LabourLaw"
-T56	Term-diccionario 46 56	trabajador
-#72	AnnotatorNotes T56 "LabourLaw"
-T57	Term-diccionario 112 122	trabajador
-#73	AnnotatorNotes T57 "LabourLaw"
-T58	Term-diccionario 253 263	trabajador
-#74	AnnotatorNotes T58 "LabourLaw"
-T59	Term-diccionario 402 412	trabajador
-#75	AnnotatorNotes T59 "LabourLaw"
-T60	Term-diccionario 477 487	trabajador
-#76	AnnotatorNotes T60 "LabourLaw"
-T61	Term-diccionario 539 549	trabajador
-#77	AnnotatorNotes T61 "LabourLaw"
-#78	AnnotatorNotes T11 "LabourLaw"
-#79	AnnotatorNotes T2 "LabourLaw"
-T62	Term-diccionario 222 229	empresa
-#80	AnnotatorNotes T62 "LabourLaw"
-#81	AnnotatorNotes T8 "LabourLaw"
-#82	AnnotatorNotes T9 "LabourLaw"
-#83	AnnotatorNotes T1 "LabourLaw"
-#84	AnnotatorNotes T10 "LabourLaw"
-#85	AnnotatorNotes T2 "LabourLaw"
-#86	AnnotatorNotes T20 "LabourLaw"
-#87	AnnotatorNotes T19 "LabourLaw"
-#88	AnnotatorNotes T11 "IATE"
-T63	Term-diccionario 339 350	realización
-#89	AnnotatorNotes T63 "IATE"
-#90	AnnotatorNotes T12 "IATE"
-#91	AnnotatorNotes T8 "IATE"
-#92	AnnotatorNotes T9 "IATE"
-#93	AnnotatorNotes T1 "IATE"
-#94	AnnotatorNotes T23 "IATE"
-#95	AnnotatorNotes T56 "IATE"
-#96	AnnotatorNotes T57 "IATE"
-#97	AnnotatorNotes T59 "IATE"
-#98	AnnotatorNotes T61 "IATE"
-T64	Term-diccionario 253 265	trabajadores
-#99	AnnotatorNotes T64 "IATE"
-T65	Term-diccionario 477 489	trabajadores
-#100	AnnotatorNotes T65 "IATE"
-#101	AnnotatorNotes T21 "IATE"
-#102	AnnotatorNotes T17 "IATE"
+T1	Term-DPEJ 388 397	intimidad
+T2	Term-DPEJ 499 507	ausencia
+T3	Term-DPEJ 292 309	centro de trabajo
+T4	Term-DPEJ 512 529	centro de trabajo
+T5	Term-DPEJ 302 309	trabajo
+T6	Term-DPEJ 324 331	trabajo
+T7	Term-DPEJ 522 529	trabajo
+T8	Term-DPEJ 272 279	empresa
+T9	Term-DPEJ 556 563	empresa
+T10	Term-DPEJ 377 385	dignidad
+T11	Term-DPEJ 196 206	protección
+T12	Term-DPEJ 0 8	Artículo
+T13	Term-DPEJ 292 298	centro
+T14	Term-DPEJ 512 518	centro
+T15	Term-Termcat 499 507	ausencia
+T16	Term-Termcat 151 163	particulares
+T17	Term-Termcat 211 221	patrimonio
+T18	Term-Termcat 450 463	representante
+T19	Term-Termcat 0 8	Artículo
+T20	Term-Termcat 433 443	asistencia
+T21	Term-Termcat 292 309	centro de trabajo
+T22	Term-Termcat 512 529	centro de trabajo
+T23	Term-Termcat 272 279	empresa
+T24	Term-Termcat 556 563	empresa
+T25	Term-Termcat 324 331	trabajo
+T26	Term-Termcat 377 385	dignidad
+T27	Term-Termcat 100 107	persona
+T28	Term-Termcat 34 41	persona
+T29	Term-Termcat 143 150	efectos
+T30	Term-Termcat 222 233	empresarial
+T31	Term-Termcat 81 90	registros
+T32	Term-Termcat 13 27	Inviolabilidad
+T33	Term-Termcat 464 469	legal
+T34	Term-Termcat 450 469	representante legal
+T35	Term-DV 49 53	baja
+T36	Term-DV 115 119	baja
+T37	Term-DV 256 260	baja
+T38	Term-DV 405 409	baja
+T39	Term-DV 480 484	baja
+T40	Term-DV 542 546	baja
+T41	Term-DV 377 385	dignidad
+T42	Term-DV 143 150	efectos
+T43	Term-DV 222 229	empresa
+T44	Term-DV 272 279	empresa
+T45	Term-DV 556 563	empresa
+T46	Term-DV 144 146	fe
+T47	Term-DV 158 163	lares
+T48	Term-DV 464 469	legal
+T49	Term-DV 188 192	para
+T50	Term-DV 211 221	patrimonio
+T51	Term-DV 34 41	persona
+T52	Term-DV 100 107	persona
+T53	Term-DV 588 595	posible
+T54	Term-DV 70 74	real
+T55	Term-DV 339 343	real
+T56	Term-DV 81 89	registro
+T57	Term-DV 46 56	trabajador
+T58	Term-DV 112 122	trabajador
+T59	Term-DV 253 263	trabajador
+T60	Term-DV 402 412	trabajador
+T61	Term-DV 477 487	trabajador
+T62	Term-DV 539 549	trabajador
+T63	Term-DV 369 370	x
+T64	Term-AttentionRank 450 463	representante
+T65	Term-AttentionRank 81 90	registros
+T66	Term-AttentionRank 450 469	representante legal
+T67	Term-AttentionRank 377 385	dignidad
+T68	Term-AttentionRank 0 8	Artículo
+T69	Term-AttentionRank 433 443	asistencia
+T70	Term-AttentionRank 34 41	persona
+T71	Term-AttentionRank 100 107	persona
+T72	Term-AttentionRank 388 397	intimidad
+T73	Term-AttentionRank 46 56	trabajador
+T74	Term-AttentionRank 112 122	trabajador
+T75	Term-AttentionRank 402 412	trabajador
+T76	Term-AttentionRank 539 549	trabajador
+T77	Term-AttentionRank 253 265	trabajadores
+T78	Term-AttentionRank 477 489	trabajadores
+T79	Term-AttentionRank 211 233	patrimonio empresarial
+T80	Term-AttentionRank 272 279	empresa
+T81	Term-AttentionRank 556 563	empresa
+T82	Term-AttentionRank 315 320	horas
+T83	Term-AttentionRank 196 206	protección
+T84	Term-AttentionRank 292 298	centro
+T85	Term-AttentionRank 512 518	centro
+T86	Term-AttentionRank 339 350	realización
+T87	Term-AttentionRank 499 507	ausencia
+T88	Term-AttentionRank 143 150	efectos
+T89	Term-AttentionRank 302 309	trabajo
+T90	Term-AttentionRank 324 331	trabajo
+T91	Term-AttentionRank 522 529	trabajo
+T92	Term-LabourLaw 292 309	centro de trabajo
+T93	Term-LabourLaw 512 529	centro de trabajo
+T94	Term-LabourLaw 211 233	patrimonio empresarial
+T95	Term-LabourLaw 450 469	representante legal
+T96	Term-LabourLaw 211 221	patrimonio
+T97	Term-LabourLaw 302 309	trabajo
+T98	Term-LabourLaw 324 331	trabajo
+T99	Term-LabourLaw 522 529	trabajo
+T100	Term-LabourLaw 450 463	representante
+T101	Term-LabourLaw 46 56	trabajador
+T102	Term-LabourLaw 112 122	trabajador
+T103	Term-LabourLaw 253 263	trabajador
+T104	Term-LabourLaw 402 412	trabajador
+T105	Term-LabourLaw 477 487	trabajador
+T106	Term-LabourLaw 539 549	trabajador
+T107	Term-LabourLaw 196 206	protección
+T108	Term-LabourLaw 499 507	ausencia
+T109	Term-LabourLaw 222 229	empresa
+T110	Term-LabourLaw 272 279	empresa
+T111	Term-LabourLaw 556 563	empresa
+T112	Term-LabourLaw 388 397	intimidad
+T113	Term-LabourLaw 377 385	dignidad
+T114	Term-LabourLaw 499 507	ausencia
+T115	Term-LabourLaw 34 41	persona
+T116	Term-LabourLaw 100 107	persona
+T117	Term-IATE 196 206	protección
+T118	Term-IATE 339 350	realización
+T119	Term-IATE 0 8	Artículo
+T120	Term-IATE 272 279	empresa
+T121	Term-IATE 556 563	empresa
+T122	Term-IATE 388 397	intimidad
+T123	Term-IATE 81 90	registros
+T124	Term-IATE 46 56	trabajador
+T125	Term-IATE 112 122	trabajador
+T126	Term-IATE 402 412	trabajador
+T127	Term-IATE 539 549	trabajador
+T128	Term-IATE 253 265	trabajadores
+T129	Term-IATE 477 489	trabajadores
+T130	Term-IATE 143 150	efectos
+T131	Term-IATE 450 463	representante

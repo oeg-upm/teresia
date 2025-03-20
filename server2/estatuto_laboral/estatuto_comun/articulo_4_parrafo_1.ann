@@ -1,445 +1,336 @@
-T1	Term-diccionario 1527 1550	acoso por razón de sexo
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 1299 1308	intimidad
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 630 636	empleo
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 1388 1393	acoso
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 1509 1514	acoso
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 1527 1532	acoso
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 1166 1170	vida
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 154 161	Trabajo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 279 286	trabajo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 369 376	trabajo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 461 468	trabajo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 1703 1710	trabajo
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 1774 1781	trabajo
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 1141 1159	corresponsabilidad
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 249 256	empresa
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 404 414	adaptación
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 1342 1350	dignidad
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1691 1699	contrato
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 1762 1770	contrato
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 229 242	participación
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 329 338	promoción
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 1260 1267	riesgos
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 1082 1089	hombres
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 762 771	condición
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 1367 1377	protección
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 1260 1277	riesgos laborales
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 733 736	ley
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 1509 1521	acoso sexual
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 780 788	religión
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 1431 1439	religión
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 451 457	puesto
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 170 178	elección
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 707 714	límites
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 267 275	relación
-#34	AnnotatorNotes T34 "DPEJ"
-T35	Term-diccionario 496 502	planes
-#35	AnnotatorNotes T35 "DPEJ"
-T36	Term-diccionario 57 66	contenido
-#36	AnnotatorNotes T36 "DPEJ"
-T37	Term-diccionario 688 692	edad
-#37	AnnotatorNotes T37 "DPEJ"
-T38	Term-diccionario 1470 1474	edad
-#38	AnnotatorNotes T38 "DPEJ"
-T39	Term-diccionario 205 216	Información
-#39	AnnotatorNotes T39 "DPEJ"
-#40	AnnotatorNotes T24 "Termcat"
-T40	Term-diccionario 674 680	estado
-#41	AnnotatorNotes T40 "Termcat"
-T41	Term-diccionario 970 976	Estado
-#42	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 194 200	oficio
-#43	AnnotatorNotes T42 "Termcat"
-#44	AnnotatorNotes T19 "Termcat"
-#45	AnnotatorNotes T18 "Termcat"
-T43	Term-diccionario 1456 1468	discapacidad
-#46	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 986 998	discapacidad
-#47	AnnotatorNotes T44 "Termcat"
-#48	AnnotatorNotes T37 "Termcat"
-#49	AnnotatorNotes T38 "Termcat"
-T45	Term-diccionario 674 686	estado civil
-#50	AnnotatorNotes T45 "Termcat"
-#51	AnnotatorNotes T27 "Termcat"
-#52	AnnotatorNotes T5 "Termcat"
-#53	AnnotatorNotes T6 "Termcat"
-#54	AnnotatorNotes T4 "Termcat"
-T46	Term-diccionario 1126 1138	conciliación
-#55	AnnotatorNotes T46 "Termcat"
-T47	Term-diccionario 1199 1209	integridad
-#56	AnnotatorNotes T47 "Termcat"
-T48	Term-diccionario 1560 1570	percepción
-#57	AnnotatorNotes T48 "Termcat"
-#58	AnnotatorNotes T21 "Termcat"
-#59	AnnotatorNotes T28 "Termcat"
-T49	Term-diccionario 928 937	sindicato
-#60	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1762 1781	contrato de trabajo
-#61	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 1691 1710	contrato de trabajo
-#62	AnnotatorNotes T51 "Termcat"
-#63	AnnotatorNotes T15 "Termcat"
-#64	AnnotatorNotes T8 "Termcat"
-#65	AnnotatorNotes T10 "Termcat"
-#66	AnnotatorNotes T3 "Termcat"
-T52	Term-diccionario 341 362	formación profesional
-#67	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 451 468	puesto de trabajo
-#68	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 556 569	empleabilidad
-#69	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 1246 1277	prevención de riesgos laborales
-#70	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 182 191	profesión
-#71	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 267 286	relación de trabajo
-#72	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 1585 1597	remuneración
-#73	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 681 686	civil
-#74	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 482 492	desarrollo
-#75	AnnotatorNotes T60 "Termcat"
-#76	AnnotatorNotes T17 "Termcat"
-T61	Term-diccionario 1114 1122	derechos
-#77	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 32 40	derechos
-#78	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 312 319	derecho
-#79	AnnotatorNotes T63 "Termcat"
-#80	AnnotatorNotes T16 "Termcat"
-#81	AnnotatorNotes T32 "Termcat"
-T64	Term-diccionario 1072 1079	mujeres
-#82	AnnotatorNotes T64 "Termcat"
-T65	Term-diccionario 1097 1106	ejercicio
-#83	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 1638 1647	ejercicio
-#84	AnnotatorNotes T66 "Termcat"
-#85	AnnotatorNotes T9 "Termcat"
-T67	Term-diccionario 873 879	género
-#86	AnnotatorNotes T67 "Termcat"
-#87	AnnotatorNotes T23 "Termcat"
-T68	Term-diccionario 842 851	identidad
-#88	AnnotatorNotes T68 "Termcat"
-T69	Term-diccionario 1648 1658	individual
-#89	AnnotatorNotes T69 "Termcat"
-#90	AnnotatorNotes T39 "Termcat"
-T70	Term-diccionario 1199 1216	integridad física
-#91	AnnotatorNotes T70 "Termcat"
-T71	Term-diccionario 132 141	normativa
-#92	AnnotatorNotes T71 "Termcat"
-#93	AnnotatorNotes T20 "Termcat"
-#94	AnnotatorNotes T35 "Termcat"
-T72	Term-diccionario 1398 1403	razón
-#95	AnnotatorNotes T72 "Termcat"
-T73	Term-diccionario 1537 1542	razón
-#96	AnnotatorNotes T73 "Termcat"
-T74	Term-diccionario 943 948	razón
-#97	AnnotatorNotes T74 "Termcat"
-T75	Term-diccionario 1013 1018	razón
-#98	AnnotatorNotes T75 "Termcat"
-#99	AnnotatorNotes T29 "Termcat"
-#100	AnnotatorNotes T30 "Termcat"
-T76	Term-diccionario 1040 1045	trato
-#101	AnnotatorNotes T76 "Termcat"
-#102	AnnotatorNotes T22 "Termcat"
-T77	Term-diccionario 1246 1256	prevención
-#103	AnnotatorNotes T77 "Termcat"
-T78	Term-automatico 707 714	límites
-#104	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 57 66	contenido
-#105	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 860 869	expresión
-#106	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 482 492	desarrollo
-#107	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 630 636	empleo
-#108	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 1666 1710	acciones derivadas de su contrato de trabajo
-#109	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 943 948	razón
-#110	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 1013 1018	razón
-#111	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1398 1403	razón
-#112	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 1537 1542	razón
-#113	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 1097 1106	ejercicio
-#114	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1638 1647	ejercicio
-#115	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 1022 1026	sexo
-#116	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 1546 1550	sexo
-#117	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 496 502	planes
-#118	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 1342 1350	dignidad
-#119	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 421 468	modificaciones operadas en el puesto de trabajo
-#120	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 218 226	consulta
-#121	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 1260 1267	riesgos
-#122	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 267 275	relación
-#123	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 329 338	promoción
-#124	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 505 524	acciones formativas
-#125	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 470 473	así
-#126	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 1000 1003	así
-#127	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 341 350	formación
-#128	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 404 414	adaptación
-#129	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 928 937	sindicato
-#130	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 205 216	Información
-#131	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 229 242	participación
-#132	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 1316 1350	consideración debida a su dignidad
-#133	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 1388 1393	acoso
-#134	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 1509 1514	acoso
-#135	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 1527 1532	acoso
-#136	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 164 178	libre elección
-#137	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 1072 1079	mujeres
-#138	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 805 810	ideas
-#139	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 1299 1308	intimidad
-#140	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 7 19	trabajadores
-#141	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 292 304	trabajadores
-#142	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 451 457	puesto
-#143	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 249 256	empresa
-#144	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 762 771	condición
-#145	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 1040 1058	trato desfavorable
-#146	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 780 788	religión
-#147	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 1431 1439	religión
-#148	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 1367 1377	protección
-#149	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 733 736	ley
-#150	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 32 48	derechos básicos
-#151	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 1260 1277	riesgos laborales
-#152	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 32 40	derechos
-#153	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1114 1122	derechos
-#154	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 312 319	derecho
-#155	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 738 751	origen racial
-#156	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 1407 1420	origen racial
-#157	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 644 647	vez
-#158	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 1082 1089	hombres
-#159	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 707 736	límites marcados por esta ley
-#160	AnnotatorNotes T134 "AttentionRank"
-T135	Term-automatico 1691 1699	contrato
-#161	AnnotatorNotes T135 "AttentionRank"
-T136	Term-automatico 1762 1770	contrato
-#162	AnnotatorNotes T136 "AttentionRank"
-T137	Term-automatico 170 178	elección
-#163	AnnotatorNotes T137 "AttentionRank"
-T138	Term-automatico 688 692	edad
-#164	AnnotatorNotes T138 "AttentionRank"
-T139	Term-automatico 1470 1474	edad
-#165	AnnotatorNotes T139 "AttentionRank"
-T140	Term-automatico 1141 1159	corresponsabilidad
-#166	AnnotatorNotes T140 "AttentionRank"
-T141	Term-automatico 1316 1329	consideración
-#167	AnnotatorNotes T141 "AttentionRank"
-T142	Term-automatico 154 161	Trabajo
-#168	AnnotatorNotes T142 "AttentionRank"
-T143	Term-automatico 279 286	trabajo
-#169	AnnotatorNotes T143 "AttentionRank"
-T144	Term-automatico 369 376	trabajo
-#170	AnnotatorNotes T144 "AttentionRank"
-T145	Term-automatico 461 468	trabajo
-#171	AnnotatorNotes T145 "AttentionRank"
-T146	Term-automatico 1703 1710	trabajo
-#172	AnnotatorNotes T146 "AttentionRank"
-T147	Term-automatico 1774 1781	trabajo
-#173	AnnotatorNotes T147 "AttentionRank"
-T148	Term-automatico 341 362	formación profesional
-#174	AnnotatorNotes T148 "AttentionRank"
-#175	AnnotatorNotes T53 "LabourLaw"
-#176	AnnotatorNotes T51 "LabourLaw"
-#177	AnnotatorNotes T50 "LabourLaw"
-#178	AnnotatorNotes T52 "LabourLaw"
-#179	AnnotatorNotes T70 "LabourLaw"
-T149	Term-diccionario 1638 1658	ejercicio individual
-#180	AnnotatorNotes T149 "LabourLaw"
-T150	Term-diccionario 164 178	libre elección
-#181	AnnotatorNotes T150 "LabourLaw"
-T151	Term-diccionario 762 778	condición social
-#182	AnnotatorNotes T151 "LabourLaw"
-T152	Term-diccionario 822 840	orientación sexual
-#183	AnnotatorNotes T152 "LabourLaw"
-T153	Term-diccionario 1477 1495	orientación sexual
-#184	AnnotatorNotes T153 "LabourLaw"
-T154	Term-diccionario 805 820	ideas políticas
-#185	AnnotatorNotes T154 "LabourLaw"
-#186	AnnotatorNotes T28 "LabourLaw"
-T155	Term-diccionario 1585 1605	remuneración pactada
-#187	AnnotatorNotes T155 "LabourLaw"
-T156	Term-diccionario 738 751	origen racial
-#188	AnnotatorNotes T156 "LabourLaw"
-T157	Term-diccionario 1407 1420	origen racial
-#189	AnnotatorNotes T157 "LabourLaw"
-T158	Term-diccionario 32 48	derechos básicos
-#190	AnnotatorNotes T158 "LabourLaw"
-#191	AnnotatorNotes T45 "LabourLaw"
-#192	AnnotatorNotes T9 "LabourLaw"
-#193	AnnotatorNotes T10 "LabourLaw"
-#194	AnnotatorNotes T11 "LabourLaw"
-#195	AnnotatorNotes T12 "LabourLaw"
-#196	AnnotatorNotes T13 "LabourLaw"
-#197	AnnotatorNotes T77 "LabourLaw"
-T159	Term-diccionario 1260 1266	riesgo
-#198	AnnotatorNotes T159 "LabourLaw"
-#199	AnnotatorNotes T56 "LabourLaw"
-#200	AnnotatorNotes T18 "LabourLaw"
-#201	AnnotatorNotes T19 "LabourLaw"
-T160	Term-diccionario 1144 1159	responsabilidad
-#202	AnnotatorNotes T160 "LabourLaw"
-T161	Term-diccionario 738 744	origen
-#203	AnnotatorNotes T161 "LabourLaw"
-T162	Term-diccionario 1407 1413	origen
-#204	AnnotatorNotes T162 "LabourLaw"
-#205	AnnotatorNotes T20 "LabourLaw"
-#206	AnnotatorNotes T44 "LabourLaw"
-#207	AnnotatorNotes T43 "LabourLaw"
-T163	Term-diccionario 7 17	trabajador
-#208	AnnotatorNotes T163 "LabourLaw"
-T164	Term-diccionario 292 302	trabajador
-#209	AnnotatorNotes T164 "LabourLaw"
-#210	AnnotatorNotes T32 "LabourLaw"
-#211	AnnotatorNotes T58 "LabourLaw"
-#212	AnnotatorNotes T27 "LabourLaw"
-T165	Term-diccionario 207 216	formación
-#213	AnnotatorNotes T165 "LabourLaw"
-T166	Term-diccionario 341 350	formación
-#214	AnnotatorNotes T166 "LabourLaw"
-#215	AnnotatorNotes T4 "LabourLaw"
-#216	AnnotatorNotes T5 "LabourLaw"
-#217	AnnotatorNotes T6 "LabourLaw"
-#218	AnnotatorNotes T49 "LabourLaw"
-#219	AnnotatorNotes T24 "LabourLaw"
-#220	AnnotatorNotes T25 "LabourLaw"
-T167	Term-diccionario 811 819	política
-#221	AnnotatorNotes T167 "LabourLaw"
-T168	Term-diccionario 1234 1242	política
-#222	AnnotatorNotes T168 "LabourLaw"
-#223	AnnotatorNotes T36 "LabourLaw"
-T169	Term-diccionario 952 958	lengua
-#224	AnnotatorNotes T169 "LabourLaw"
-#225	AnnotatorNotes T29 "LabourLaw"
-#226	AnnotatorNotes T30 "LabourLaw"
-#227	AnnotatorNotes T21 "LabourLaw"
-#228	AnnotatorNotes T37 "LabourLaw"
-#229	AnnotatorNotes T38 "LabourLaw"
-#230	AnnotatorNotes T15 "LabourLaw"
-T170	Term-diccionario 32 39	derecho
-#231	AnnotatorNotes T170 "LabourLaw"
-#232	AnnotatorNotes T63 "LabourLaw"
-T171	Term-diccionario 1114 1121	derecho
-#233	AnnotatorNotes T171 "LabourLaw"
-#234	AnnotatorNotes T2 "LabourLaw"
-T172	Term-diccionario 1022 1026	sexo
-#235	AnnotatorNotes T172 "LabourLaw"
-T173	Term-diccionario 1546 1550	sexo
-#236	AnnotatorNotes T173 "LabourLaw"
-#237	AnnotatorNotes T17 "LabourLaw"
-#238	AnnotatorNotes T3 "LabourLaw"
-T174	Term-diccionario 648 656	empleado
-#239	AnnotatorNotes T174 "LabourLaw"
-T175	Term-diccionario 907 917	afiliación
-#240	AnnotatorNotes T175 "LabourLaw"
-#241	AnnotatorNotes T21 "LabourLaw"
-#242	AnnotatorNotes T172 "IATE"
-#243	AnnotatorNotes T173 "IATE"
-#244	AnnotatorNotes T25 "IATE"
-#245	AnnotatorNotes T23 "IATE"
-#246	AnnotatorNotes T22 "IATE"
-#247	AnnotatorNotes T15 "IATE"
-#248	AnnotatorNotes T74 "IATE"
-#249	AnnotatorNotes T75 "IATE"
-#250	AnnotatorNotes T72 "IATE"
-#251	AnnotatorNotes T73 "IATE"
-T176	Term-diccionario 805 810	ideas
-#252	AnnotatorNotes T176 "IATE"
-#253	AnnotatorNotes T2 "IATE"
-#254	AnnotatorNotes T35 "IATE"
-T177	Term-diccionario 218 226	consulta
-#255	AnnotatorNotes T177 "IATE"
-#256	AnnotatorNotes T20 "IATE"
-#257	AnnotatorNotes T64 "IATE"
-T178	Term-diccionario 7 19	trabajadores
-#258	AnnotatorNotes T178 "IATE"
-T179	Term-diccionario 292 304	trabajadores
-#259	AnnotatorNotes T179 "IATE"
-#260	AnnotatorNotes T3 "IATE"
-#261	AnnotatorNotes T18 "IATE"
-#262	AnnotatorNotes T19 "IATE"
-#263	AnnotatorNotes T65 "IATE"
-#264	AnnotatorNotes T66 "IATE"
-#265	AnnotatorNotes T39 "IATE"
-#266	AnnotatorNotes T166 "IATE"
+T1	Term-DPEJ 1527 1550	acoso por razón de sexo
+T2	Term-DPEJ 1299 1308	intimidad
+T3	Term-DPEJ 630 636	empleo
+T4	Term-DPEJ 1388 1393	acoso
+T5	Term-DPEJ 1509 1514	acoso
+T6	Term-DPEJ 1527 1532	acoso
+T7	Term-DPEJ 1166 1170	vida
+T8	Term-DPEJ 154 161	Trabajo
+T9	Term-DPEJ 279 286	trabajo
+T10	Term-DPEJ 369 376	trabajo
+T11	Term-DPEJ 461 468	trabajo
+T12	Term-DPEJ 1703 1710	trabajo
+T13	Term-DPEJ 1774 1781	trabajo
+T14	Term-DPEJ 1141 1159	corresponsabilidad
+T15	Term-DPEJ 249 256	empresa
+T16	Term-DPEJ 404 414	adaptación
+T17	Term-DPEJ 1342 1350	dignidad
+T18	Term-DPEJ 1691 1699	contrato
+T19	Term-DPEJ 1762 1770	contrato
+T20	Term-DPEJ 229 242	participación
+T21	Term-DPEJ 329 338	promoción
+T22	Term-DPEJ 1260 1267	riesgos
+T23	Term-DPEJ 1082 1089	hombres
+T24	Term-DPEJ 762 771	condición
+T25	Term-DPEJ 1367 1377	protección
+T26	Term-DPEJ 1260 1277	riesgos laborales
+T27	Term-DPEJ 733 736	ley
+T28	Term-DPEJ 1509 1521	acoso sexual
+T29	Term-DPEJ 780 788	religión
+T30	Term-DPEJ 1431 1439	religión
+T31	Term-DPEJ 451 457	puesto
+T32	Term-DPEJ 170 178	elección
+T33	Term-DPEJ 707 714	límites
+T34	Term-DPEJ 267 275	relación
+T35	Term-DPEJ 496 502	planes
+T36	Term-DPEJ 57 66	contenido
+T37	Term-DPEJ 688 692	edad
+T38	Term-DPEJ 1470 1474	edad
+T39	Term-DPEJ 205 216	Información
+T40	Term-Termcat 762 771	condición
+T41	Term-Termcat 674 680	estado
+T42	Term-Termcat 970 976	Estado
+T43	Term-Termcat 194 200	oficio
+T44	Term-Termcat 1762 1770	contrato
+T45	Term-Termcat 1691 1699	contrato
+T46	Term-Termcat 1456 1468	discapacidad
+T47	Term-Termcat 986 998	discapacidad
+T48	Term-Termcat 688 692	edad
+T49	Term-Termcat 1470 1474	edad
+T50	Term-Termcat 674 686	estado civil
+T51	Term-Termcat 733 736	ley
+T52	Term-Termcat 1509 1514	acoso
+T53	Term-Termcat 1527 1532	acoso
+T54	Term-Termcat 1388 1393	acoso
+T55	Term-Termcat 1126 1138	conciliación
+T56	Term-Termcat 1199 1209	integridad
+T57	Term-Termcat 1560 1570	percepción
+T58	Term-Termcat 329 338	promoción
+T59	Term-Termcat 1509 1521	acoso sexual
+T60	Term-Termcat 928 937	sindicato
+T61	Term-Termcat 1762 1781	contrato de trabajo
+T62	Term-Termcat 1691 1710	contrato de trabajo
+T63	Term-Termcat 249 256	empresa
+T64	Term-Termcat 154 161	Trabajo
+T65	Term-Termcat 369 376	trabajo
+T66	Term-Termcat 630 636	empleo
+T67	Term-Termcat 341 362	formación profesional
+T68	Term-Termcat 451 468	puesto de trabajo
+T69	Term-Termcat 556 569	empleabilidad
+T70	Term-Termcat 1246 1277	prevención de riesgos laborales
+T71	Term-Termcat 182 191	profesión
+T72	Term-Termcat 267 286	relación de trabajo
+T73	Term-Termcat 1585 1597	remuneración
+T74	Term-Termcat 681 686	civil
+T75	Term-Termcat 482 492	desarrollo
+T76	Term-Termcat 1342 1350	dignidad
+T77	Term-Termcat 1114 1122	derechos
+T78	Term-Termcat 32 40	derechos
+T79	Term-Termcat 312 319	derecho
+T80	Term-Termcat 404 414	adaptación
+T81	Term-Termcat 170 178	elección
+T82	Term-Termcat 1072 1079	mujeres
+T83	Term-Termcat 1097 1106	ejercicio
+T84	Term-Termcat 1638 1647	ejercicio
+T85	Term-Termcat 279 286	trabajo
+T86	Term-Termcat 873 879	género
+T87	Term-Termcat 1082 1089	hombres
+T88	Term-Termcat 842 851	identidad
+T89	Term-Termcat 1648 1658	individual
+T90	Term-Termcat 205 216	Información
+T91	Term-Termcat 1199 1216	integridad física
+T92	Term-Termcat 132 141	normativa
+T93	Term-Termcat 229 242	participación
+T94	Term-Termcat 496 502	planes
+T95	Term-Termcat 1398 1403	razón
+T96	Term-Termcat 1537 1542	razón
+T97	Term-Termcat 943 948	razón
+T98	Term-Termcat 1013 1018	razón
+T99	Term-Termcat 780 788	religión
+T100	Term-Termcat 1431 1439	religión
+T101	Term-Termcat 1040 1045	trato
+T102	Term-Termcat 1260 1267	riesgos
+T103	Term-Termcat 1246 1256	prevención
+T104	Term-DV 267 286	relación de trabajo
+T105	Term-DV 10 14	baja
+T106	Term-DV 295 299	baja
+T107	Term-DV 41 47	básico
+T108	Term-DV 1332 1335	bid
+T109	Term-DV 1332 1335	bid
+T110	Term-DV 989 993	capa
+T111	Term-DV 1459 1463	capa
+T112	Term-DV 989 998	capacidad
+T113	Term-DV 1459 1468	capacidad
+T114	Term-DV 881 885	cara
+T115	Term-DV 681 686	civil
+T116	Term-DV 1126 1138	conciliación
+T117	Term-DV 762 771	condición
+T118	Term-DV 32 39	derecho
+T119	Term-DV 312 319	derecho
+T120	Term-DV 1114 1121	derecho
+T121	Term-DV 1342 1350	dignidad
+T122	Term-DV 1059 1067	dispensa
+T123	Term-DV 688 692	edad
+T124	Term-DV 1470 1474	edad
+T125	Term-DV 170 178	elección
+T126	Term-DV 249 256	empresa
+T127	Term-DV 1171 1178	familia
+T128	Term-DV 185 187	fe
+T129	Term-DV 354 356	fe
+T130	Term-DV 908 917	filiación
+T131	Term-DV 207 212	forma
+T132	Term-DV 341 346	forma
+T133	Term-DV 514 519	forma
+T134	Term-DV 805 809	idea
+T135	Term-DV 842 851	identidad
+T136	Term-DV 1182 1189	laboral
+T137	Term-DV 1268 1275	laboral
+T138	Term-DV 1608 1613	legal
+T139	Term-DV 733 736	ley
+T140	Term-DV 164 169	libre
+T141	Term-DV 707 714	límites
+T142	Term-DV 715 718	mar
+T143	Term-DV 715 720	marca
+T144	Term-DV 132 137	norma
+T145	Term-DV 81 85	para
+T146	Term-DV 622 626	para
+T147	Term-DV 229 242	participación
+T148	Term-DV 811 819	política
+T149	Term-DV 1234 1242	política
+T150	Term-DV 1246 1256	prevención
+T151	Term-DV 351 362	profesional
+T152	Term-DV 329 338	promoción
+T153	Term-DV 1041 1045	rato
+T154	Term-DV 1695 1699	rato
+T155	Term-DV 1766 1770	rato
+T156	Term-DV 780 788	religión
+T157	Term-DV 1431 1439	religión
+T158	Term-DV 1585 1597	remuneración
+T159	Term-DV 1022 1026	sexo
+T160	Term-DV 1546 1550	sexo
+T161	Term-DV 928 937	sindicato
+T162	Term-DV 7 17	trabajador
+T163	Term-DV 292 302	trabajador
+T164	Term-DV 1652 1658	vidual
+T165	Term-DV 683 686	vil
+T166	Term-DV 836 837	x
+T167	Term-DV 854 855	x
+T168	Term-DV 861 862	x
+T169	Term-DV 899 900	x
+T170	Term-DV 1024 1025	x
+T171	Term-DV 1491 1492	x
+T172	Term-DV 1517 1518	x
+T173	Term-DV 1548 1549	x
+T174	Term-AttentionRank 707 714	límites
+T175	Term-AttentionRank 57 66	contenido
+T176	Term-AttentionRank 860 869	expresión
+T177	Term-AttentionRank 482 492	desarrollo
+T178	Term-AttentionRank 630 636	empleo
+T179	Term-AttentionRank 1666 1710	acciones derivadas de su contrato de trabajo
+T180	Term-AttentionRank 943 948	razón
+T181	Term-AttentionRank 1013 1018	razón
+T182	Term-AttentionRank 1398 1403	razón
+T183	Term-AttentionRank 1537 1542	razón
+T184	Term-AttentionRank 1097 1106	ejercicio
+T185	Term-AttentionRank 1638 1647	ejercicio
+T186	Term-AttentionRank 1022 1026	sexo
+T187	Term-AttentionRank 1546 1550	sexo
+T188	Term-AttentionRank 496 502	planes
+T189	Term-AttentionRank 1342 1350	dignidad
+T190	Term-AttentionRank 421 468	modificaciones operadas en el puesto de trabajo
+T191	Term-AttentionRank 218 226	consulta
+T192	Term-AttentionRank 1260 1267	riesgos
+T193	Term-AttentionRank 267 275	relación
+T194	Term-AttentionRank 329 338	promoción
+T195	Term-AttentionRank 505 524	acciones formativas
+T196	Term-AttentionRank 470 473	así
+T197	Term-AttentionRank 1000 1003	así
+T198	Term-AttentionRank 341 350	formación
+T199	Term-AttentionRank 404 414	adaptación
+T200	Term-AttentionRank 928 937	sindicato
+T201	Term-AttentionRank 205 216	Información
+T202	Term-AttentionRank 229 242	participación
+T203	Term-AttentionRank 1316 1350	consideración debida a su dignidad
+T204	Term-AttentionRank 1388 1393	acoso
+T205	Term-AttentionRank 1509 1514	acoso
+T206	Term-AttentionRank 1527 1532	acoso
+T207	Term-AttentionRank 164 178	libre elección
+T208	Term-AttentionRank 1072 1079	mujeres
+T209	Term-AttentionRank 805 810	ideas
+T210	Term-AttentionRank 1299 1308	intimidad
+T211	Term-AttentionRank 7 19	trabajadores
+T212	Term-AttentionRank 292 304	trabajadores
+T213	Term-AttentionRank 451 457	puesto
+T214	Term-AttentionRank 249 256	empresa
+T215	Term-AttentionRank 762 771	condición
+T216	Term-AttentionRank 1040 1058	trato desfavorable
+T217	Term-AttentionRank 780 788	religión
+T218	Term-AttentionRank 1431 1439	religión
+T219	Term-AttentionRank 1367 1377	protección
+T220	Term-AttentionRank 733 736	ley
+T221	Term-AttentionRank 32 48	derechos básicos
+T222	Term-AttentionRank 1260 1277	riesgos laborales
+T223	Term-AttentionRank 32 40	derechos
+T224	Term-AttentionRank 1114 1122	derechos
+T225	Term-AttentionRank 312 319	derecho
+T226	Term-AttentionRank 738 751	origen racial
+T227	Term-AttentionRank 1407 1420	origen racial
+T228	Term-AttentionRank 644 647	vez
+T229	Term-AttentionRank 1082 1089	hombres
+T230	Term-AttentionRank 707 736	límites marcados por esta ley
+T231	Term-AttentionRank 1691 1699	contrato
+T232	Term-AttentionRank 1762 1770	contrato
+T233	Term-AttentionRank 170 178	elección
+T234	Term-AttentionRank 688 692	edad
+T235	Term-AttentionRank 1470 1474	edad
+T236	Term-AttentionRank 1141 1159	corresponsabilidad
+T237	Term-AttentionRank 1316 1329	consideración
+T238	Term-AttentionRank 154 161	Trabajo
+T239	Term-AttentionRank 279 286	trabajo
+T240	Term-AttentionRank 369 376	trabajo
+T241	Term-AttentionRank 461 468	trabajo
+T242	Term-AttentionRank 1703 1710	trabajo
+T243	Term-AttentionRank 1774 1781	trabajo
+T244	Term-AttentionRank 341 362	formación profesional
+T245	Term-LabourLaw 451 468	puesto de trabajo
+T246	Term-LabourLaw 1691 1710	contrato de trabajo
+T247	Term-LabourLaw 1762 1781	contrato de trabajo
+T248	Term-LabourLaw 341 362	formación profesional
+T249	Term-LabourLaw 1199 1216	integridad física
+T250	Term-LabourLaw 1638 1658	ejercicio individual
+T251	Term-LabourLaw 164 178	libre elección
+T252	Term-LabourLaw 762 778	condición social
+T253	Term-LabourLaw 822 840	orientación sexual
+T254	Term-LabourLaw 1477 1495	orientación sexual
+T255	Term-LabourLaw 805 820	ideas políticas
+T256	Term-LabourLaw 1509 1521	acoso sexual
+T257	Term-LabourLaw 1585 1605	remuneración pactada
+T258	Term-LabourLaw 738 751	origen racial
+T259	Term-LabourLaw 1407 1420	origen racial
+T260	Term-LabourLaw 32 48	derechos básicos
+T261	Term-LabourLaw 674 686	estado civil
+T262	Term-LabourLaw 279 286	trabajo
+T263	Term-LabourLaw 369 376	trabajo
+T264	Term-LabourLaw 461 468	trabajo
+T265	Term-LabourLaw 1703 1710	trabajo
+T266	Term-LabourLaw 1774 1781	trabajo
+T267	Term-LabourLaw 1246 1256	prevención
+T268	Term-LabourLaw 1260 1266	riesgo
+T269	Term-LabourLaw 182 191	profesión
+T270	Term-LabourLaw 1691 1699	contrato
+T271	Term-LabourLaw 1762 1770	contrato
+T272	Term-LabourLaw 1144 1159	responsabilidad
+T273	Term-LabourLaw 738 744	origen
+T274	Term-LabourLaw 1407 1413	origen
+T275	Term-LabourLaw 229 242	participación
+T276	Term-LabourLaw 986 998	discapacidad
+T277	Term-LabourLaw 1456 1468	discapacidad
+T278	Term-LabourLaw 7 17	trabajador
+T279	Term-LabourLaw 292 302	trabajador
+T280	Term-LabourLaw 170 178	elección
+T281	Term-LabourLaw 1585 1597	remuneración
+T282	Term-LabourLaw 733 736	ley
+T283	Term-LabourLaw 207 216	formación
+T284	Term-LabourLaw 341 350	formación
+T285	Term-LabourLaw 1388 1393	acoso
+T286	Term-LabourLaw 1509 1514	acoso
+T287	Term-LabourLaw 1527 1532	acoso
+T288	Term-LabourLaw 928 937	sindicato
+T289	Term-LabourLaw 762 771	condición
+T290	Term-LabourLaw 1367 1377	protección
+T291	Term-LabourLaw 811 819	política
+T292	Term-LabourLaw 1234 1242	política
+T293	Term-LabourLaw 57 66	contenido
+T294	Term-LabourLaw 952 958	lengua
+T295	Term-LabourLaw 780 788	religión
+T296	Term-LabourLaw 1431 1439	religión
+T297	Term-LabourLaw 329 338	promoción
+T298	Term-LabourLaw 688 692	edad
+T299	Term-LabourLaw 1470 1474	edad
+T300	Term-LabourLaw 249 256	empresa
+T301	Term-LabourLaw 32 39	derecho
+T302	Term-LabourLaw 312 319	derecho
+T303	Term-LabourLaw 1114 1121	derecho
+T304	Term-LabourLaw 1299 1308	intimidad
+T305	Term-LabourLaw 1022 1026	sexo
+T306	Term-LabourLaw 1546 1550	sexo
+T307	Term-LabourLaw 1342 1350	dignidad
+T308	Term-LabourLaw 630 636	empleo
+T309	Term-LabourLaw 648 656	empleado
+T310	Term-LabourLaw 907 917	afiliación
+T311	Term-LabourLaw 329 338	promoción
+T312	Term-IATE 1022 1026	sexo
+T313	Term-IATE 1546 1550	sexo
+T314	Term-IATE 1367 1377	protección
+T315	Term-IATE 1082 1089	hombres
+T316	Term-IATE 1260 1267	riesgos
+T317	Term-IATE 249 256	empresa
+T318	Term-IATE 943 948	razón
+T319	Term-IATE 1013 1018	razón
+T320	Term-IATE 1398 1403	razón
+T321	Term-IATE 1537 1542	razón
+T322	Term-IATE 805 810	ideas
+T323	Term-IATE 1299 1308	intimidad
+T324	Term-IATE 496 502	planes
+T325	Term-IATE 218 226	consulta
+T326	Term-IATE 229 242	participación
+T327	Term-IATE 1072 1079	mujeres
+T328	Term-IATE 7 19	trabajadores
+T329	Term-IATE 292 304	trabajadores
+T330	Term-IATE 630 636	empleo
+T331	Term-IATE 1691 1699	contrato
+T332	Term-IATE 1762 1770	contrato
+T333	Term-IATE 1097 1106	ejercicio
+T334	Term-IATE 1638 1647	ejercicio
+T335	Term-IATE 205 216	Información
+T336	Term-IATE 341 350	formación

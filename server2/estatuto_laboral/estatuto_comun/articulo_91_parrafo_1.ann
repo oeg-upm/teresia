@@ -1,371 +1,284 @@
-T1	Term-diccionario 936 940	caso
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 1630 1634	caso
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 1581 1589	acuerdos
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 1103 1112	violencia
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 80 91	negociación
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 325 336	negociación
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 1238 1249	negociación
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 1497 1508	negociación
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 1561 1572	negociación
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 279 286	ámbitos
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 633 639	ámbito
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 291 299	convenio
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 411 419	convenio
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 656 664	convenio
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 844 852	convenio
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 1056 1064	buena fe
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 233 244	conformidad
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 363 372	promoción
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 764 769	causa
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 411 429	convenio colectivo
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 1553 1557	plan
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 253 262	artículos
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 904 913	artículos
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 380 389	resultado
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 584 593	autoridad
-#25	AnnotatorNotes T25 "Termcat"
-#26	AnnotatorNotes T14 "Termcat"
-#27	AnnotatorNotes T12 "Termcat"
-#28	AnnotatorNotes T15 "Termcat"
-#29	AnnotatorNotes T13 "Termcat"
-T26	Term-diccionario 205 217	legitimación
-#30	AnnotatorNotes T26 "Termcat"
-T27	Term-diccionario 1302 1307	plazo
-#31	AnnotatorNotes T27 "Termcat"
-T28	Term-diccionario 496 500	acto
-#32	AnnotatorNotes T28 "Termcat"
-T29	Term-diccionario 1154 1160	bienes
-#33	AnnotatorNotes T29 "Termcat"
-#34	AnnotatorNotes T16 "Termcat"
-T30	Term-diccionario 6 20	representación
-#35	AnnotatorNotes T30 "Termcat"
-#36	AnnotatorNotes T4 "Termcat"
-#37	AnnotatorNotes T23 "Termcat"
-#38	AnnotatorNotes T22 "Termcat"
-T31	Term-diccionario 1785 1797	intervención
-#39	AnnotatorNotes T31 "Termcat"
-T32	Term-diccionario 1639 1643	voto
-#40	AnnotatorNotes T32 "Termcat"
-T33	Term-diccionario 525 537	comunicación
-#41	AnnotatorNotes T33 "Termcat"
-T34	Term-diccionario 156 168	comunicación
-#42	AnnotatorNotes T34 "Termcat"
-T35	Term-diccionario 691 703	comunicación
-#43	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 442 454	comunicación
-#44	AnnotatorNotes T36 "Termcat"
-T37	Term-diccionario 1356 1368	comunicación
-#45	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 1446 1458	comunicación
-#46	AnnotatorNotes T38 "Termcat"
-#47	AnnotatorNotes T9 "Termcat"
-#48	AnnotatorNotes T5 "Termcat"
-#49	AnnotatorNotes T8 "Termcat"
-#50	AnnotatorNotes T7 "Termcat"
-#51	AnnotatorNotes T6 "Termcat"
-T39	Term-diccionario 1424 1429	parte
-#52	AnnotatorNotes T39 "Termcat"
-T40	Term-diccionario 117 122	parte
-#53	AnnotatorNotes T40 "Termcat"
-T41	Term-diccionario 669 674	parte
-#54	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 1760 1766	partes
-#55	AnnotatorNotes T42 "Termcat"
-T43	Term-diccionario 1517 1523	partes
-#56	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 1169 1175	partes
-#57	AnnotatorNotes T44 "Termcat"
-T45	Term-diccionario 996 1002	partes
-#58	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 633 651	ámbito territorial
-#59	AnnotatorNotes T46 "Termcat"
-#60	AnnotatorNotes T18 "Termcat"
-T47	Term-diccionario 584 601	autoridad laboral
-#61	AnnotatorNotes T47 "Termcat"
-T48	Term-diccionario 1540 1550	calendario
-#62	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 1596 1604	comisión
-#63	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1399 1419	comisión negociadora
-#64	AnnotatorNotes T50 "Termcat"
-#65	AnnotatorNotes T20 "Termcat"
-T51	Term-diccionario 507 515	denuncia
-#66	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 396 404	denuncia
-#67	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 621 628	función
-#68	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 1130 1138	personas
-#69	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 1660 1667	mayoría
-#70	AnnotatorNotes T55 "Termcat"
-#71	AnnotatorNotes T17 "Termcat"
-#72	AnnotatorNotes T3 "Termcat"
-#73	AnnotatorNotes T19 "Termcat"
-T56	Term-diccionario 396 429	denuncia de un convenio colectivo
-#74	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 558 565	efectos
-#75	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 569 577	registro
-#76	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 728 738	iniciación
-#77	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 770 775	legal
-#78	AnnotatorNotes T60 "Termcat"
-T61	Term-diccionario 306 314	materias
-#79	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 869 878	perjuicio
-#80	AnnotatorNotes T62 "Termcat"
-#81	AnnotatorNotes T21 "Termcat"
-T63	Term-diccionario 1040 1049	principio
-#82	AnnotatorNotes T63 "Termcat"
-T64	Term-diccionario 430 437	vigente
-#83	AnnotatorNotes T64 "Termcat"
-T65	Term-diccionario 1774 1781	acordar
-#84	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 1399 1407	comisión
-#85	AnnotatorNotes T66 "Termcat"
-T67	Term-diccionario 1340 1349	recepción
-#86	AnnotatorNotes T67 "Termcat"
-#87	AnnotatorNotes T24 "Termcat"
-T68	Term-automatico 253 273	artículos anteriores
-#88	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 569 577	registro
-#89	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 117 122	parte
-#90	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 669 674	parte
-#91	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 1424 1429	parte
-#92	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 996 1002	partes
-#93	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 1169 1175	partes
-#94	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 1517 1523	partes
-#95	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 1760 1766	partes
-#96	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 1581 1589	acuerdos
-#97	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 584 593	autoridad
-#98	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 1553 1557	plan
-#99	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 380 389	resultado
-#100	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 1804 1826	mediador designado por
-#101	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 764 769	causa
-#102	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 1056 1064	buena fe
-#103	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 363 372	promoción
-#104	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 558 568	efectos de
-#105	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1399 1419	comisión negociadora
-#106	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 1466 1469	res
-#107	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 496 500	acto
-#108	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1327 1333	partir
-#109	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 253 262	artículos
-#110	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 904 913	artículos
-#111	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 344 352	supuesto
-#112	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 1073 1082	supuestos
-#113	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 633 651	ámbito territorial
-#114	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 584 601	autoridad laboral
-#115	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 1130 1138	personas
-#116	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 279 286	ámbitos
-#117	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 633 639	ámbito
-#118	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 1321 1324	mes
-#119	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 291 299	convenio
-#120	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 411 419	convenio
-#121	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 656 664	convenio
-#122	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 844 852	convenio
-#123	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 1639 1653	voto favorable
-#124	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 764 775	causa legal
-#125	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 1103 1112	violencia
-#126	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 6 40	representación de los trabajadores
-#127	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 156 168	comunicación
-#128	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 442 454	comunicación
-#129	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 525 537	comunicación
-#130	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 691 703	comunicación
-#131	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 1356 1368	comunicación
-#132	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 1446 1458	comunicación
-#133	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 80 91	negociación
-#134	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 325 336	negociación
-#135	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 1238 1249	negociación
-#136	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 1497 1508	negociación
-#137	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 1561 1572	negociación
-#138	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 28 40	trabajadores
-#139	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 1302 1307	plazo
-#140	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 1399 1407	comisión
-#141	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 1596 1604	comisión
-#142	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 6 20	representación
-#143	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 306 314	materias
-#144	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 844 855	convenio ya
-#145	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 1725 1732	momento
-#146	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 1639 1643	voto
-#147	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1302 1314	plazo máximo
-#148	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 233 244	conformidad
-#149	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 621 628	función
-#150	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 558 565	efectos
-#151	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 411 429	convenio colectivo
-#152	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 1253 1258	curso
-#153	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 936 940	caso
-#154	AnnotatorNotes T134 "AttentionRank"
-T135	Term-automatico 1630 1634	caso
-#155	AnnotatorNotes T135 "AttentionRank"
-T136	Term-automatico 1327 1349	partir de la recepción
-#156	AnnotatorNotes T136 "AttentionRank"
-T137	Term-automatico 51 62	empresarios
-#157	AnnotatorNotes T137 "AttentionRank"
-T138	Term-diccionario 6 40	representación de los trabajadores
-#158	AnnotatorNotes T138 "LabourLaw"
-#159	AnnotatorNotes T20 "LabourLaw"
-#160	AnnotatorNotes T46 "LabourLaw"
-#161	AnnotatorNotes T16 "LabourLaw"
-#162	AnnotatorNotes T47 "LabourLaw"
-#163	AnnotatorNotes T50 "LabourLaw"
-#164	AnnotatorNotes T66 "LabourLaw"
-#165	AnnotatorNotes T49 "LabourLaw"
-T139	Term-diccionario 28 38	trabajador
-#166	AnnotatorNotes T139 "LabourLaw"
-T140	Term-diccionario 279 285	ámbito
-#167	AnnotatorNotes T140 "LabourLaw"
-#168	AnnotatorNotes T11 "LabourLaw"
-T141	Term-diccionario 174 179	deber
-#169	AnnotatorNotes T141 "LabourLaw"
-T142	Term-diccionario 455 460	deber
-#170	AnnotatorNotes T142 "LabourLaw"
-T143	Term-diccionario 944 949	deber
-#171	AnnotatorNotes T143 "LabourLaw"
-T144	Term-diccionario 1459 1464	deber
-#172	AnnotatorNotes T144 "LabourLaw"
-T145	Term-diccionario 51 61	empresario
-#173	AnnotatorNotes T145 "LabourLaw"
-#174	AnnotatorNotes T25 "LabourLaw"
-#175	AnnotatorNotes T17 "LabourLaw"
-#176	AnnotatorNotes T18 "LabourLaw"
-#177	AnnotatorNotes T63 "LabourLaw"
-T146	Term-diccionario 51 58	empresa
-#178	AnnotatorNotes T146 "LabourLaw"
-#179	AnnotatorNotes T62 "LabourLaw"
-#180	AnnotatorNotes T26 "LabourLaw"
-T147	Term-diccionario 420 429	colectivo
-#181	AnnotatorNotes T147 "LabourLaw"
-T148	Term-diccionario 1130 1137	persona
-#182	AnnotatorNotes T148 "LabourLaw"
-#183	AnnotatorNotes T18 "LabourLaw"
-#184	AnnotatorNotes T52 "LabourLaw"
-#185	AnnotatorNotes T51 "LabourLaw"
-T149	Term-diccionario 1466 1469	res
-#186	AnnotatorNotes T149 "IATE"
-T150	Term-diccionario 1725 1732	momento
-#187	AnnotatorNotes T150 "IATE"
-#188	AnnotatorNotes T40 "IATE"
-#189	AnnotatorNotes T41 "IATE"
-#190	AnnotatorNotes T39 "IATE"
-#191	AnnotatorNotes T45 "IATE"
-#192	AnnotatorNotes T44 "IATE"
-#193	AnnotatorNotes T43 "IATE"
-#194	AnnotatorNotes T42 "IATE"
-#195	AnnotatorNotes T22 "IATE"
-#196	AnnotatorNotes T23 "IATE"
-#197	AnnotatorNotes T27 "IATE"
-#198	AnnotatorNotes T3 "IATE"
-#199	AnnotatorNotes T53 "IATE"
-#200	AnnotatorNotes T17 "IATE"
-T151	Term-diccionario 51 62	empresarios
-#201	AnnotatorNotes T151 "IATE"
-#202	AnnotatorNotes T21 "IATE"
-#203	AnnotatorNotes T58 "IATE"
-T152	Term-diccionario 28 40	trabajadores
-#204	AnnotatorNotes T152 "IATE"
-#205	AnnotatorNotes T61 "IATE"
-#206	AnnotatorNotes T57 "IATE"
-#207	AnnotatorNotes T5 "IATE"
-#208	AnnotatorNotes T6 "IATE"
-#209	AnnotatorNotes T7 "IATE"
-#210	AnnotatorNotes T8 "IATE"
-#211	AnnotatorNotes T9 "IATE"
-#212	AnnotatorNotes T66 "IATE"
-#213	AnnotatorNotes T49 "IATE"
-#214	AnnotatorNotes T12 "IATE"
-#215	AnnotatorNotes T13 "IATE"
-#216	AnnotatorNotes T14 "IATE"
-#217	AnnotatorNotes T15 "IATE"
-T153	Term-diccionario 1321 1324	mes
-#218	AnnotatorNotes T153 "IATE"
+T1	Term-DPEJ 936 940	caso
+T2	Term-DPEJ 1630 1634	caso
+T3	Term-DPEJ 1581 1589	acuerdos
+T4	Term-DPEJ 1103 1112	violencia
+T5	Term-DPEJ 80 91	negociación
+T6	Term-DPEJ 325 336	negociación
+T7	Term-DPEJ 1238 1249	negociación
+T8	Term-DPEJ 1497 1508	negociación
+T9	Term-DPEJ 1561 1572	negociación
+T10	Term-DPEJ 279 286	ámbitos
+T11	Term-DPEJ 633 639	ámbito
+T12	Term-DPEJ 291 299	convenio
+T13	Term-DPEJ 411 419	convenio
+T14	Term-DPEJ 656 664	convenio
+T15	Term-DPEJ 844 852	convenio
+T16	Term-DPEJ 1056 1064	buena fe
+T17	Term-DPEJ 233 244	conformidad
+T18	Term-DPEJ 363 372	promoción
+T19	Term-DPEJ 764 769	causa
+T20	Term-DPEJ 411 429	convenio colectivo
+T21	Term-DPEJ 1553 1557	plan
+T22	Term-DPEJ 253 262	artículos
+T23	Term-DPEJ 904 913	artículos
+T24	Term-DPEJ 380 389	resultado
+T25	Term-Termcat 584 593	autoridad
+T26	Term-Termcat 656 664	convenio
+T27	Term-Termcat 291 299	convenio
+T28	Term-Termcat 844 852	convenio
+T29	Term-Termcat 411 419	convenio
+T30	Term-Termcat 205 217	legitimación
+T31	Term-Termcat 1302 1307	plazo
+T32	Term-Termcat 496 500	acto
+T33	Term-Termcat 1154 1160	bienes
+T34	Term-Termcat 1056 1064	buena fe
+T35	Term-Termcat 6 20	representación
+T36	Term-Termcat 1103 1112	violencia
+T37	Term-Termcat 904 913	artículos
+T38	Term-Termcat 253 262	artículos
+T39	Term-Termcat 1785 1797	intervención
+T40	Term-Termcat 1639 1643	voto
+T41	Term-Termcat 525 537	comunicación
+T42	Term-Termcat 156 168	comunicación
+T43	Term-Termcat 691 703	comunicación
+T44	Term-Termcat 442 454	comunicación
+T45	Term-Termcat 1356 1368	comunicación
+T46	Term-Termcat 1446 1458	comunicación
+T47	Term-Termcat 1561 1572	negociación
+T48	Term-Termcat 80 91	negociación
+T49	Term-Termcat 1497 1508	negociación
+T50	Term-Termcat 1238 1249	negociación
+T51	Term-Termcat 325 336	negociación
+T52	Term-Termcat 1424 1429	parte
+T53	Term-Termcat 117 122	parte
+T54	Term-Termcat 669 674	parte
+T55	Term-Termcat 1760 1766	partes
+T56	Term-Termcat 1517 1523	partes
+T57	Term-Termcat 1169 1175	partes
+T58	Term-Termcat 996 1002	partes
+T59	Term-Termcat 633 651	ámbito territorial
+T60	Term-Termcat 363 372	promoción
+T61	Term-Termcat 584 601	autoridad laboral
+T62	Term-Termcat 1540 1550	calendario
+T63	Term-Termcat 1596 1604	comisión
+T64	Term-Termcat 1399 1419	comisión negociadora
+T65	Term-Termcat 411 429	convenio colectivo
+T66	Term-Termcat 507 515	denuncia
+T67	Term-Termcat 396 404	denuncia
+T68	Term-Termcat 621 628	función
+T69	Term-Termcat 1130 1138	personas
+T70	Term-Termcat 1660 1667	mayoría
+T71	Term-Termcat 233 244	conformidad
+T72	Term-Termcat 1581 1589	acuerdos
+T73	Term-Termcat 764 769	causa
+T74	Term-Termcat 396 429	denuncia de un convenio colectivo
+T75	Term-Termcat 558 565	efectos
+T76	Term-Termcat 569 577	registro
+T77	Term-Termcat 728 738	iniciación
+T78	Term-Termcat 770 775	legal
+T79	Term-Termcat 306 314	materias
+T80	Term-Termcat 869 878	perjuicio
+T81	Term-Termcat 1553 1557	plan
+T82	Term-Termcat 1040 1049	principio
+T83	Term-Termcat 430 437	vigente
+T84	Term-Termcat 1774 1781	acordar
+T85	Term-Termcat 1399 1407	comisión
+T86	Term-Termcat 1340 1349	recepción
+T87	Term-Termcat 380 389	resultado
+T88	Term-DV 31 35	baja
+T89	Term-DV 1154 1158	bien
+T90	Term-DV 1540 1550	calendario
+T91	Term-DV 764 769	causa
+T92	Term-DV 1399 1407	comisión
+T93	Term-DV 1596 1604	comisión
+T94	Term-DV 156 168	comunicación
+T95	Term-DV 442 454	comunicación
+T96	Term-DV 525 537	comunicación
+T97	Term-DV 691 703	comunicación
+T98	Term-DV 1356 1368	comunicación
+T99	Term-DV 1446 1458	comunicación
+T100	Term-DV 1206 1209	dar
+T101	Term-DV 1545 1548	dar
+T102	Term-DV 1778 1781	dar
+T103	Term-DV 174 178	debe
+T104	Term-DV 455 459	debe
+T105	Term-DV 944 948	debe
+T106	Term-DV 1459 1463	debe
+T107	Term-DV 396 404	denuncia
+T108	Term-DV 507 515	denuncia
+T109	Term-DV 558 565	efectos
+T110	Term-DV 51 58	empresa
+T111	Term-DV 51 61	empresario
+T112	Term-DV 463 465	fe
+T113	Term-DV 559 561	fe
+T114	Term-DV 1062 1064	fe
+T115	Term-DV 872 878	juicio
+T116	Term-DV 594 601	laboral
+T117	Term-DV 422 429	lectivo
+T118	Term-DV 770 775	legal
+T119	Term-DV 205 217	legitimación
+T120	Term-DV 80 91	negociación
+T121	Term-DV 325 336	negociación
+T122	Term-DV 1238 1249	negociación
+T123	Term-DV 1497 1508	negociación
+T124	Term-DV 1561 1572	negociación
+T125	Term-DV 1408 1417	negociado
+T126	Term-DV 315 321	objeto
+T127	Term-DV 1400 1407	omisión
+T128	Term-DV 1597 1604	omisión
+T129	Term-DV 117 122	parte
+T130	Term-DV 669 674	parte
+T131	Term-DV 996 1001	parte
+T132	Term-DV 1169 1174	parte
+T133	Term-DV 1424 1429	parte
+T134	Term-DV 1517 1522	parte
+T135	Term-DV 1760 1765	parte
+T136	Term-DV 869 878	perjuicio
+T137	Term-DV 1130 1137	persona
+T138	Term-DV 1302 1307	plazo
+T139	Term-DV 8 20	presentación
+T140	Term-DV 1040 1049	principio
+T141	Term-DV 363 372	promoción
+T142	Term-DV 1484 1493	propuesta
+T143	Term-DV 569 577	registro
+T144	Term-DV 6 20	representación
+T145	Term-DV 137 142	talla
+T146	Term-DV 28 38	trabajador
+T147	Term-DV 430 437	vigente
+T148	Term-DV 835 838	vis
+T149	Term-DV 835 840	visar
+T150	Term-DV 1639 1643	voto
+T151	Term-DV 125 126	x
+T152	Term-DV 1192 1193	x
+T153	Term-DV 1310 1311	x
+T154	Term-AttentionRank 253 273	artículos anteriores
+T155	Term-AttentionRank 569 577	registro
+T156	Term-AttentionRank 117 122	parte
+T157	Term-AttentionRank 669 674	parte
+T158	Term-AttentionRank 1424 1429	parte
+T159	Term-AttentionRank 996 1002	partes
+T160	Term-AttentionRank 1169 1175	partes
+T161	Term-AttentionRank 1517 1523	partes
+T162	Term-AttentionRank 1760 1766	partes
+T163	Term-AttentionRank 1581 1589	acuerdos
+T164	Term-AttentionRank 584 593	autoridad
+T165	Term-AttentionRank 1553 1557	plan
+T166	Term-AttentionRank 380 389	resultado
+T167	Term-AttentionRank 1804 1826	mediador designado por
+T168	Term-AttentionRank 764 769	causa
+T169	Term-AttentionRank 1056 1064	buena fe
+T170	Term-AttentionRank 363 372	promoción
+T171	Term-AttentionRank 558 568	efectos de
+T172	Term-AttentionRank 1399 1419	comisión negociadora
+T173	Term-AttentionRank 1466 1469	res
+T174	Term-AttentionRank 496 500	acto
+T175	Term-AttentionRank 1327 1333	partir
+T176	Term-AttentionRank 253 262	artículos
+T177	Term-AttentionRank 904 913	artículos
+T178	Term-AttentionRank 344 352	supuesto
+T179	Term-AttentionRank 1073 1082	supuestos
+T180	Term-AttentionRank 633 651	ámbito territorial
+T181	Term-AttentionRank 584 601	autoridad laboral
+T182	Term-AttentionRank 1130 1138	personas
+T183	Term-AttentionRank 279 286	ámbitos
+T184	Term-AttentionRank 633 639	ámbito
+T185	Term-AttentionRank 1321 1324	mes
+T186	Term-AttentionRank 291 299	convenio
+T187	Term-AttentionRank 411 419	convenio
+T188	Term-AttentionRank 656 664	convenio
+T189	Term-AttentionRank 844 852	convenio
+T190	Term-AttentionRank 1639 1653	voto favorable
+T191	Term-AttentionRank 764 775	causa legal
+T192	Term-AttentionRank 1103 1112	violencia
+T193	Term-AttentionRank 6 40	representación de los trabajadores
+T194	Term-AttentionRank 156 168	comunicación
+T195	Term-AttentionRank 442 454	comunicación
+T196	Term-AttentionRank 525 537	comunicación
+T197	Term-AttentionRank 691 703	comunicación
+T198	Term-AttentionRank 1356 1368	comunicación
+T199	Term-AttentionRank 1446 1458	comunicación
+T200	Term-AttentionRank 80 91	negociación
+T201	Term-AttentionRank 325 336	negociación
+T202	Term-AttentionRank 1238 1249	negociación
+T203	Term-AttentionRank 1497 1508	negociación
+T204	Term-AttentionRank 1561 1572	negociación
+T205	Term-AttentionRank 28 40	trabajadores
+T206	Term-AttentionRank 1302 1307	plazo
+T207	Term-AttentionRank 1399 1407	comisión
+T208	Term-AttentionRank 1596 1604	comisión
+T209	Term-AttentionRank 6 20	representación
+T210	Term-AttentionRank 306 314	materias
+T211	Term-AttentionRank 844 855	convenio ya
+T212	Term-AttentionRank 1725 1732	momento
+T213	Term-AttentionRank 1639 1643	voto
+T214	Term-AttentionRank 1302 1314	plazo máximo
+T215	Term-AttentionRank 233 244	conformidad
+T216	Term-AttentionRank 621 628	función
+T217	Term-AttentionRank 558 565	efectos
+T218	Term-AttentionRank 411 429	convenio colectivo
+T219	Term-AttentionRank 1253 1258	curso
+T220	Term-AttentionRank 936 940	caso
+T221	Term-AttentionRank 1630 1634	caso
+T222	Term-AttentionRank 1327 1349	partir de la recepción
+T223	Term-AttentionRank 51 62	empresarios
+T224	Term-LabourLaw 6 40	representación de los trabajadores
+T225	Term-LabourLaw 411 429	convenio colectivo
+T226	Term-LabourLaw 633 651	ámbito territorial
+T227	Term-LabourLaw 1056 1064	buena fe
+T228	Term-LabourLaw 584 601	autoridad laboral
+T229	Term-LabourLaw 1399 1419	comisión negociadora
+T230	Term-LabourLaw 1399 1407	comisión
+T231	Term-LabourLaw 1596 1604	comisión
+T232	Term-LabourLaw 28 38	trabajador
+T233	Term-LabourLaw 279 285	ámbito
+T234	Term-LabourLaw 633 639	ámbito
+T235	Term-LabourLaw 174 179	deber
+T236	Term-LabourLaw 455 460	deber
+T237	Term-LabourLaw 944 949	deber
+T238	Term-LabourLaw 1459 1464	deber
+T239	Term-LabourLaw 51 61	empresario
+T240	Term-LabourLaw 584 593	autoridad
+T241	Term-LabourLaw 233 244	conformidad
+T242	Term-LabourLaw 363 372	promoción
+T243	Term-LabourLaw 1040 1049	principio
+T244	Term-LabourLaw 51 58	empresa
+T245	Term-LabourLaw 869 878	perjuicio
+T246	Term-LabourLaw 205 217	legitimación
+T247	Term-LabourLaw 420 429	colectivo
+T248	Term-LabourLaw 1130 1137	persona
+T249	Term-LabourLaw 363 372	promoción
+T250	Term-LabourLaw 396 404	denuncia
+T251	Term-LabourLaw 507 515	denuncia
+T252	Term-IATE 1466 1469	res
+T253	Term-IATE 1725 1732	momento
+T254	Term-IATE 117 122	parte
+T255	Term-IATE 669 674	parte
+T256	Term-IATE 1424 1429	parte
+T257	Term-IATE 996 1002	partes
+T258	Term-IATE 1169 1175	partes
+T259	Term-IATE 1517 1523	partes
+T260	Term-IATE 1760 1766	partes
+T261	Term-IATE 253 262	artículos
+T262	Term-IATE 904 913	artículos
+T263	Term-IATE 1302 1307	plazo
+T264	Term-IATE 1581 1589	acuerdos
+T265	Term-IATE 621 628	función
+T266	Term-IATE 233 244	conformidad
+T267	Term-IATE 51 62	empresarios
+T268	Term-IATE 1553 1557	plan
+T269	Term-IATE 569 577	registro
+T270	Term-IATE 28 40	trabajadores
+T271	Term-IATE 306 314	materias
+T272	Term-IATE 558 565	efectos
+T273	Term-IATE 80 91	negociación
+T274	Term-IATE 325 336	negociación
+T275	Term-IATE 1238 1249	negociación
+T276	Term-IATE 1497 1508	negociación
+T277	Term-IATE 1561 1572	negociación
+T278	Term-IATE 1399 1407	comisión
+T279	Term-IATE 1596 1604	comisión
+T280	Term-IATE 291 299	convenio
+T281	Term-IATE 411 419	convenio
+T282	Term-IATE 656 664	convenio
+T283	Term-IATE 844 852	convenio
+T284	Term-IATE 1321 1324	mes

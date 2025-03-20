@@ -1,377 +1,294 @@
-T1	Term-diccionario 697 705	salarial
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 270 274	caso
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 610 627	igualdad de trato
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 170 176	empleo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 204 210	pactos
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 431 436	salud
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 148 157	seguridad
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 419 428	seguridad
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 458 465	trabajo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 13 20	empresa
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 234 241	empresa
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 472 479	empresa
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 815 822	empresa
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 913 920	empresa
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 1081 1088	empresa
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 1175 1182	empresa
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 744 752	convenio
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1117 1126	convenios
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 89 101	cumplimiento
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 3 9	comité
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 897 906	dirección
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 1159 1168	dirección
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 663 670	hombres
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 3 20	comité de empresa
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 744 762	convenio colectivo
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 1117 1137	convenios colectivos
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 1578 1581	ley
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 939 954	establecimiento
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 1189 1204	establecimiento
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 524 529	orden
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 610 618	igualdad
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 582 592	aplicación
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 966 973	medidas
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 1227 1234	medidas
-#34	AnnotatorNotes T34 "DPEJ"
-T35	Term-diccionario 537 545	artículo
-#35	AnnotatorNotes T35 "DPEJ"
-T36	Term-diccionario 1334 1342	artículo
-#36	AnnotatorNotes T36 "DPEJ"
-T37	Term-diccionario 1472 1480	artículo
-#37	AnnotatorNotes T37 "DPEJ"
-T38	Term-diccionario 1560 1569	artículos
-#38	AnnotatorNotes T38 "DPEJ"
-T39	Term-diccionario 389 396	control
-#39	AnnotatorNotes T39 "DPEJ"
-T40	Term-diccionario 72 82	vigilancia
-#40	AnnotatorNotes T40 "DPEJ"
-T41	Term-diccionario 376 386	vigilancia
-#41	AnnotatorNotes T41 "DPEJ"
-T42	Term-diccionario 557 567	vigilancia
-#42	AnnotatorNotes T42 "DPEJ"
-T43	Term-diccionario 109 115	normas
-#43	AnnotatorNotes T43 "DPEJ"
-T44	Term-diccionario 1593 1599	normas
-#44	AnnotatorNotes T44 "DPEJ"
-#45	AnnotatorNotes T17 "Termcat"
-#46	AnnotatorNotes T18 "Termcat"
-#47	AnnotatorNotes T30 "Termcat"
-T45	Term-diccionario 597 618	principio de igualdad
-#48	AnnotatorNotes T45 "Termcat"
-#49	AnnotatorNotes T5 "Termcat"
-#50	AnnotatorNotes T27 "Termcat"
-T46	Term-diccionario 226 230	usos
-#51	AnnotatorNotes T46 "Termcat"
-#52	AnnotatorNotes T37 "Termcat"
-#53	AnnotatorNotes T35 "Termcat"
-#54	AnnotatorNotes T36 "Termcat"
-#55	AnnotatorNotes T38 "Termcat"
-#56	AnnotatorNotes T43 "Termcat"
-#57	AnnotatorNotes T44 "Termcat"
-T47	Term-diccionario 1238 1250	conciliación
-#58	AnnotatorNotes T47 "Termcat"
-#59	AnnotatorNotes T24 "Termcat"
-T48	Term-diccionario 51 63	competencias
-#60	AnnotatorNotes T48 "Termcat"
-#61	AnnotatorNotes T25 "Termcat"
-#62	AnnotatorNotes T26 "Termcat"
-#63	AnnotatorNotes T21 "Termcat"
-#64	AnnotatorNotes T22 "Termcat"
-#65	AnnotatorNotes T14 "Termcat"
-#66	AnnotatorNotes T12 "Termcat"
-#67	AnnotatorNotes T11 "Termcat"
-#68	AnnotatorNotes T16 "Termcat"
-#69	AnnotatorNotes T13 "Termcat"
-#70	AnnotatorNotes T15 "Termcat"
-T49	Term-diccionario 242 250	en vigor
-#71	AnnotatorNotes T49 "Termcat"
-#72	AnnotatorNotes T9 "Termcat"
-#73	AnnotatorNotes T4 "Termcat"
-#74	AnnotatorNotes T31 "Termcat"
-T50	Term-diccionario 1022 1035	productividad
-#75	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 1419 1439	relaciones laborales
-#76	AnnotatorNotes T51 "Termcat"
-#77	AnnotatorNotes T1 "Termcat"
-T52	Term-diccionario 148 164	seguridad social
-#78	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 1065 1074	ambiental
-#79	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 443 453	desarrollo
-#80	AnnotatorNotes T54 "Termcat"
-#81	AnnotatorNotes T7 "Termcat"
-#82	AnnotatorNotes T8 "Termcat"
-T55	Term-diccionario 1050 1064	sostenibilidad
-#83	AnnotatorNotes T55 "Termcat"
-#84	AnnotatorNotes T28 "Termcat"
-#85	AnnotatorNotes T29 "Termcat"
-#86	AnnotatorNotes T32 "Termcat"
-T56	Term-diccionario 826 835	beneficio
-#87	AnnotatorNotes T56 "Termcat"
-#88	AnnotatorNotes T19 "Termcat"
-#89	AnnotatorNotes T39 "Termcat"
-T57	Term-diccionario 653 660	mujeres
-#90	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 770 777	gestión
-#91	AnnotatorNotes T58 "Termcat"
-#92	AnnotatorNotes T23 "Termcat"
-#93	AnnotatorNotes T3 "Termcat"
-T59	Term-diccionario 289 296	legales
-#94	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 1600 1607	legales
-#95	AnnotatorNotes T60 "Termcat"
-T61	Term-diccionario 689 696	materia
-#96	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 128 135	materia
-#97	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 781 786	obras
-#98	AnnotatorNotes T63 "Termcat"
-T64	Term-diccionario 1498 1507	perjuicio
-#99	AnnotatorNotes T64 "Termcat"
-T65	Term-diccionario 597 606	principio
-#100	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 345 355	tribunales
-#101	AnnotatorNotes T66 "Termcat"
-T67	Term-diccionario 116 124	vigentes
-#102	AnnotatorNotes T67 "Termcat"
-#103	AnnotatorNotes T41 "Termcat"
-#104	AnnotatorNotes T42 "Termcat"
-#105	AnnotatorNotes T40 "Termcat"
-T68	Term-diccionario 356 367	competentes
-#106	AnnotatorNotes T68 "Termcat"
-T69	Term-diccionario 633 646	oportunidades
-#107	AnnotatorNotes T69 "Termcat"
-T70	Term-automatico 443 453	desarrollo
-#108	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 204 210	pactos
-#109	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 170 176	empleo
-#110	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 489 545	particularidades previstas en este orden por el artículo
-#111	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 897 906	dirección
-#112	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 1159 1168	dirección
-#113	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 431 436	salud
-#114	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 109 115	normas
-#115	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 1593 1599	normas
-#116	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 226 230	usos
-#117	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 148 157	seguridad
-#118	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 419 428	seguridad
-#119	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 966 973	medidas
-#120	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 1227 1234	medidas
-#121	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 89 101	cumplimiento
-#122	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 178 181	así
-#123	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1037 1040	así
-#124	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 1093 1096	así
-#125	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 582 592	aplicación
-#126	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 781 786	obras
-#127	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 3 9	comité
-#128	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 537 545	artículo
-#129	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 1334 1342	artículo
-#130	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 1472 1480	artículo
-#131	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 1560 1569	artículos
-#132	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 1498 1540	perjuicio de las disposiciones específicas
-#133	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 744 752	convenio
-#134	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 1117 1126	convenios
-#135	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 245 250	vigor
-#136	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 697 705	salarial
-#137	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 653 660	mujeres
-#138	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 1117 1137	convenios colectivos
-#139	AnnotatorNotes T101 "AttentionRank"
-#140	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 843 855	trabajadores
-#141	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 13 20	empresa
-#142	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 234 241	empresa
-#143	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 472 479	empresa
-#144	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 815 822	empresa
-#145	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 913 920	empresa
-#146	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 1081 1088	empresa
-#147	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 1175 1182	empresa
-#148	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 128 135	materia
-#149	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 689 696	materia
-#150	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 389 396	control
-#151	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 1578 1581	ley
-#152	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 1419 1439	relaciones laborales
-#153	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 148 164	seguridad social
-#154	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 610 618	igualdad
-#155	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 663 670	hombres
-#156	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 524 529	orden
-#157	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 40 63	siguientes competencias
-#158	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 744 762	convenio colectivo
-#159	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 109 143	normas vigentes en materia laboral
-#160	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 1022 1035	productividad
-#161	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 458 465	trabajo
-#162	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 72 82	vigilancia
-#163	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 376 386	vigilancia
-#164	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 557 567	vigilancia
-#165	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 270 274	caso
-#166	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 315 325	empresario
-#167	AnnotatorNotes T128 "AttentionRank"
-#168	AnnotatorNotes T24 "LabourLaw"
-#169	AnnotatorNotes T25 "LabourLaw"
-#170	AnnotatorNotes T52 "LabourLaw"
-#171	AnnotatorNotes T50 "LabourLaw"
-#172	AnnotatorNotes T9 "LabourLaw"
-#173	AnnotatorNotes T32 "LabourLaw"
-T129	Term-diccionario 204 209	pacto
-#174	AnnotatorNotes T129 "LabourLaw"
-T130	Term-diccionario 966 972	medida
-#175	AnnotatorNotes T130 "LabourLaw"
-T131	Term-diccionario 1227 1233	medida
-#176	AnnotatorNotes T131 "LabourLaw"
-#177	AnnotatorNotes T31 "LabourLaw"
-#178	AnnotatorNotes T21 "LabourLaw"
-#179	AnnotatorNotes T22 "LabourLaw"
-T132	Term-diccionario 843 853	trabajador
-#180	AnnotatorNotes T132 "LabourLaw"
-#181	AnnotatorNotes T58 "LabourLaw"
-#182	AnnotatorNotes T19 "LabourLaw"
-#183	AnnotatorNotes T27 "LabourLaw"
-T133	Term-diccionario 332 341	organismo
-#184	AnnotatorNotes T133 "LabourLaw"
-T134	Term-diccionario 315 325	empresario
-#185	AnnotatorNotes T134 "LabourLaw"
-#186	AnnotatorNotes T7 "LabourLaw"
-#187	AnnotatorNotes T8 "LabourLaw"
-#188	AnnotatorNotes T65 "LabourLaw"
-#189	AnnotatorNotes T10 "LabourLaw"
-#190	AnnotatorNotes T11 "LabourLaw"
-T135	Term-diccionario 315 322	empresa
-#191	AnnotatorNotes T135 "LabourLaw"
-#192	AnnotatorNotes T12 "LabourLaw"
-#193	AnnotatorNotes T13 "LabourLaw"
-#194	AnnotatorNotes T14 "LabourLaw"
-#195	AnnotatorNotes T15 "LabourLaw"
-#196	AnnotatorNotes T16 "LabourLaw"
-#197	AnnotatorNotes T20 "LabourLaw"
-#198	AnnotatorNotes T64 "LabourLaw"
-T136	Term-diccionario 51 62	competencia
-#199	AnnotatorNotes T136 "LabourLaw"
-T137	Term-diccionario 753 762	colectivo
-#200	AnnotatorNotes T137 "LabourLaw"
-T138	Term-diccionario 1127 1136	colectivo
-#201	AnnotatorNotes T138 "LabourLaw"
-#202	AnnotatorNotes T4 "LabourLaw"
-#203	AnnotatorNotes T63 "IATE"
-#204	AnnotatorNotes T23 "IATE"
-#205	AnnotatorNotes T50 "IATE"
-#206	AnnotatorNotes T32 "IATE"
-#207	AnnotatorNotes T35 "IATE"
-#208	AnnotatorNotes T36 "IATE"
-#209	AnnotatorNotes T37 "IATE"
-#210	AnnotatorNotes T38 "IATE"
-#211	AnnotatorNotes T10 "IATE"
-#212	AnnotatorNotes T11 "IATE"
-#213	AnnotatorNotes T12 "IATE"
-#214	AnnotatorNotes T13 "IATE"
-#215	AnnotatorNotes T14 "IATE"
-#216	AnnotatorNotes T15 "IATE"
-#217	AnnotatorNotes T16 "IATE"
-#218	AnnotatorNotes T134 "IATE"
-#219	AnnotatorNotes T57 "IATE"
-T139	Term-diccionario 843 855	trabajadores
-#220	AnnotatorNotes T139 "IATE"
-#221	AnnotatorNotes T31 "IATE"
-#222	AnnotatorNotes T39 "IATE"
-#223	AnnotatorNotes T62 "IATE"
-#224	AnnotatorNotes T61 "IATE"
-#225	AnnotatorNotes T30 "IATE"
-#226	AnnotatorNotes T4 "IATE"
-#227	AnnotatorNotes T7 "IATE"
-#228	AnnotatorNotes T8 "IATE"
-#229	AnnotatorNotes T20 "IATE"
-T140	Term-diccionario 245 250	vigor
-#230	AnnotatorNotes T140 "IATE"
-#231	AnnotatorNotes T21 "IATE"
-#232	AnnotatorNotes T22 "IATE"
-#233	AnnotatorNotes T17 "IATE"
-#234	AnnotatorNotes T18 "IATE"
-#235	AnnotatorNotes T40 "IATE"
-#236	AnnotatorNotes T41 "IATE"
-#237	AnnotatorNotes T42 "IATE"
+T1	Term-DPEJ 697 705	salarial
+T2	Term-DPEJ 270 274	caso
+T3	Term-DPEJ 610 627	igualdad de trato
+T4	Term-DPEJ 170 176	empleo
+T5	Term-DPEJ 204 210	pactos
+T6	Term-DPEJ 431 436	salud
+T7	Term-DPEJ 148 157	seguridad
+T8	Term-DPEJ 419 428	seguridad
+T9	Term-DPEJ 458 465	trabajo
+T10	Term-DPEJ 13 20	empresa
+T11	Term-DPEJ 234 241	empresa
+T12	Term-DPEJ 472 479	empresa
+T13	Term-DPEJ 815 822	empresa
+T14	Term-DPEJ 913 920	empresa
+T15	Term-DPEJ 1081 1088	empresa
+T16	Term-DPEJ 1175 1182	empresa
+T17	Term-DPEJ 744 752	convenio
+T18	Term-DPEJ 1117 1126	convenios
+T19	Term-DPEJ 89 101	cumplimiento
+T20	Term-DPEJ 3 9	comité
+T21	Term-DPEJ 897 906	dirección
+T22	Term-DPEJ 1159 1168	dirección
+T23	Term-DPEJ 663 670	hombres
+T24	Term-DPEJ 3 20	comité de empresa
+T25	Term-DPEJ 744 762	convenio colectivo
+T26	Term-DPEJ 1117 1137	convenios colectivos
+T27	Term-DPEJ 1578 1581	ley
+T28	Term-DPEJ 939 954	establecimiento
+T29	Term-DPEJ 1189 1204	establecimiento
+T30	Term-DPEJ 524 529	orden
+T31	Term-DPEJ 610 618	igualdad
+T32	Term-DPEJ 582 592	aplicación
+T33	Term-DPEJ 966 973	medidas
+T34	Term-DPEJ 1227 1234	medidas
+T35	Term-DPEJ 537 545	artículo
+T36	Term-DPEJ 1334 1342	artículo
+T37	Term-DPEJ 1472 1480	artículo
+T38	Term-DPEJ 1560 1569	artículos
+T39	Term-DPEJ 389 396	control
+T40	Term-DPEJ 72 82	vigilancia
+T41	Term-DPEJ 376 386	vigilancia
+T42	Term-DPEJ 557 567	vigilancia
+T43	Term-DPEJ 109 115	normas
+T44	Term-DPEJ 1593 1599	normas
+T45	Term-Termcat 744 752	convenio
+T46	Term-Termcat 1117 1126	convenios
+T47	Term-Termcat 524 529	orden
+T48	Term-Termcat 597 618	principio de igualdad
+T49	Term-Termcat 204 210	pactos
+T50	Term-Termcat 1578 1581	ley
+T51	Term-Termcat 226 230	usos
+T52	Term-Termcat 1472 1480	artículo
+T53	Term-Termcat 537 545	artículo
+T54	Term-Termcat 1334 1342	artículo
+T55	Term-Termcat 1560 1569	artículos
+T56	Term-Termcat 109 115	normas
+T57	Term-Termcat 1593 1599	normas
+T58	Term-Termcat 1238 1250	conciliación
+T59	Term-Termcat 3 20	comité de empresa
+T60	Term-Termcat 51 63	competencias
+T61	Term-Termcat 744 762	convenio colectivo
+T62	Term-Termcat 1117 1137	convenios colectivos
+T63	Term-Termcat 897 906	dirección
+T64	Term-Termcat 1159 1168	dirección
+T65	Term-Termcat 913 920	empresa
+T66	Term-Termcat 472 479	empresa
+T67	Term-Termcat 234 241	empresa
+T68	Term-Termcat 1175 1182	empresa
+T69	Term-Termcat 815 822	empresa
+T70	Term-Termcat 1081 1088	empresa
+T71	Term-Termcat 242 250	en vigor
+T72	Term-Termcat 458 465	trabajo
+T73	Term-Termcat 170 176	empleo
+T74	Term-Termcat 610 618	igualdad
+T75	Term-Termcat 1022 1035	productividad
+T76	Term-Termcat 1419 1439	relaciones laborales
+T77	Term-Termcat 697 705	salarial
+T78	Term-Termcat 148 164	seguridad social
+T79	Term-Termcat 1065 1074	ambiental
+T80	Term-Termcat 443 453	desarrollo
+T81	Term-Termcat 148 157	seguridad
+T82	Term-Termcat 419 428	seguridad
+T83	Term-Termcat 1050 1064	sostenibilidad
+T84	Term-Termcat 939 954	establecimiento
+T85	Term-Termcat 1189 1204	establecimiento
+T86	Term-Termcat 582 592	aplicación
+T87	Term-Termcat 826 835	beneficio
+T88	Term-Termcat 89 101	cumplimiento
+T89	Term-Termcat 389 396	control
+T90	Term-Termcat 653 660	mujeres
+T91	Term-Termcat 770 777	gestión
+T92	Term-Termcat 663 670	hombres
+T93	Term-Termcat 610 627	igualdad de trato
+T94	Term-Termcat 289 296	legales
+T95	Term-Termcat 1600 1607	legales
+T96	Term-Termcat 689 696	materia
+T97	Term-Termcat 128 135	materia
+T98	Term-Termcat 781 786	obras
+T99	Term-Termcat 1498 1507	perjuicio
+T100	Term-Termcat 597 606	principio
+T101	Term-Termcat 345 355	tribunales
+T102	Term-Termcat 116 124	vigentes
+T103	Term-Termcat 376 386	vigilancia
+T104	Term-Termcat 557 567	vigilancia
+T105	Term-Termcat 72 82	vigilancia
+T106	Term-Termcat 356 367	competentes
+T107	Term-Termcat 633 646	oportunidades
+T108	Term-DV 148 164	seguridad social
+T109	Term-DV 846 850	baja
+T110	Term-DV 826 829	ben
+T111	Term-DV 826 835	beneficio
+T112	Term-DV 1067 1071	bien
+T113	Term-DV 51 62	competencia
+T114	Term-DV 1238 1250	conciliación
+T115	Term-DV 897 906	dirección
+T116	Term-DV 1159 1168	dirección
+T117	Term-DV 13 20	empresa
+T118	Term-DV 234 241	empresa
+T119	Term-DV 315 322	empresa
+T120	Term-DV 472 479	empresa
+T121	Term-DV 815 822	empresa
+T122	Term-DV 913 920	empresa
+T123	Term-DV 1081 1088	empresa
+T124	Term-DV 1175 1182	empresa
+T125	Term-DV 315 325	empresario
+T126	Term-DV 865 872	familia
+T127	Term-DV 1257 1262	forma
+T128	Term-DV 118 124	gentes
+T129	Term-DV 610 618	igualdad
+T130	Term-DV 1501 1507	juicio
+T131	Term-DV 136 143	laboral
+T132	Term-DV 1430 1437	laboral
+T133	Term-DV 755 762	lectivo
+T134	Term-DV 1129 1136	lectivo
+T135	Term-DV 289 294	legal
+T136	Term-DV 1600 1605	legal
+T137	Term-DV 1578 1581	ley
+T138	Term-DV 986 999	mantenimiento
+T139	Term-DV 1217 1220	mar
+T140	Term-DV 1260 1263	mar
+T141	Term-DV 109 114	norma
+T142	Term-DV 1593 1598	norma
+T143	Term-DV 781 785	obra
+T144	Term-DV 524 529	orden
+T145	Term-DV 204 209	pacto
+T146	Term-DV 921 925	para
+T147	Term-DV 1498 1507	perjuicio
+T148	Term-DV 583 588	plica
+T149	Term-DV 1518 1528	posiciones
+T150	Term-DV 597 606	principio
+T151	Term-DV 623 627	rato
+T152	Term-DV 1610 1621	reglamentar
+T153	Term-DV 697 701	sala
+T154	Term-DV 1316 1320	seña
+T155	Term-DV 1486 1492	tender
+T156	Term-DV 843 853	trabajador
+T157	Term-DV 116 123	vigente
+T158	Term-DV 72 82	vigilancia
+T159	Term-DV 376 386	vigilancia
+T160	Term-DV 557 567	vigilancia
+T161	Term-DV 509 512	vis
+T162	Term-DV 1544 1547	vis
+T163	Term-DV 509 514	vista
+T164	Term-DV 1544 1549	vista
+T165	Term-AttentionRank 443 453	desarrollo
+T166	Term-AttentionRank 204 210	pactos
+T167	Term-AttentionRank 170 176	empleo
+T168	Term-AttentionRank 489 545	particularidades previstas en este orden por el artículo
+T169	Term-AttentionRank 897 906	dirección
+T170	Term-AttentionRank 1159 1168	dirección
+T171	Term-AttentionRank 431 436	salud
+T172	Term-AttentionRank 109 115	normas
+T173	Term-AttentionRank 1593 1599	normas
+T174	Term-AttentionRank 226 230	usos
+T175	Term-AttentionRank 148 157	seguridad
+T176	Term-AttentionRank 419 428	seguridad
+T177	Term-AttentionRank 966 973	medidas
+T178	Term-AttentionRank 1227 1234	medidas
+T179	Term-AttentionRank 89 101	cumplimiento
+T180	Term-AttentionRank 178 181	así
+T181	Term-AttentionRank 1037 1040	así
+T182	Term-AttentionRank 1093 1096	así
+T183	Term-AttentionRank 582 592	aplicación
+T184	Term-AttentionRank 781 786	obras
+T185	Term-AttentionRank 3 9	comité
+T186	Term-AttentionRank 537 545	artículo
+T187	Term-AttentionRank 1334 1342	artículo
+T188	Term-AttentionRank 1472 1480	artículo
+T189	Term-AttentionRank 1560 1569	artículos
+T190	Term-AttentionRank 1498 1540	perjuicio de las disposiciones específicas
+T191	Term-AttentionRank 744 752	convenio
+T192	Term-AttentionRank 1117 1126	convenios
+T193	Term-AttentionRank 245 250	vigor
+T194	Term-AttentionRank 697 705	salarial
+T195	Term-AttentionRank 653 660	mujeres
+T196	Term-AttentionRank 1117 1137	convenios colectivos
+T197	Term-AttentionRank 1117 1137	convenios colectivos
+T198	Term-AttentionRank 843 855	trabajadores
+T199	Term-AttentionRank 13 20	empresa
+T200	Term-AttentionRank 234 241	empresa
+T201	Term-AttentionRank 472 479	empresa
+T202	Term-AttentionRank 815 822	empresa
+T203	Term-AttentionRank 913 920	empresa
+T204	Term-AttentionRank 1081 1088	empresa
+T205	Term-AttentionRank 1175 1182	empresa
+T206	Term-AttentionRank 128 135	materia
+T207	Term-AttentionRank 689 696	materia
+T208	Term-AttentionRank 389 396	control
+T209	Term-AttentionRank 1578 1581	ley
+T210	Term-AttentionRank 1419 1439	relaciones laborales
+T211	Term-AttentionRank 148 164	seguridad social
+T212	Term-AttentionRank 610 618	igualdad
+T213	Term-AttentionRank 663 670	hombres
+T214	Term-AttentionRank 524 529	orden
+T215	Term-AttentionRank 40 63	siguientes competencias
+T216	Term-AttentionRank 744 762	convenio colectivo
+T217	Term-AttentionRank 109 143	normas vigentes en materia laboral
+T218	Term-AttentionRank 1022 1035	productividad
+T219	Term-AttentionRank 458 465	trabajo
+T220	Term-AttentionRank 72 82	vigilancia
+T221	Term-AttentionRank 376 386	vigilancia
+T222	Term-AttentionRank 557 567	vigilancia
+T223	Term-AttentionRank 270 274	caso
+T224	Term-AttentionRank 315 325	empresario
+T225	Term-LabourLaw 3 20	comité de empresa
+T226	Term-LabourLaw 744 762	convenio colectivo
+T227	Term-LabourLaw 148 164	seguridad social
+T228	Term-LabourLaw 1022 1035	productividad
+T229	Term-LabourLaw 458 465	trabajo
+T230	Term-LabourLaw 582 592	aplicación
+T231	Term-LabourLaw 204 209	pacto
+T232	Term-LabourLaw 966 972	medida
+T233	Term-LabourLaw 1227 1233	medida
+T234	Term-LabourLaw 610 618	igualdad
+T235	Term-LabourLaw 897 906	dirección
+T236	Term-LabourLaw 1159 1168	dirección
+T237	Term-LabourLaw 843 853	trabajador
+T238	Term-LabourLaw 770 777	gestión
+T239	Term-LabourLaw 89 101	cumplimiento
+T240	Term-LabourLaw 1578 1581	ley
+T241	Term-LabourLaw 332 341	organismo
+T242	Term-LabourLaw 315 325	empresario
+T243	Term-LabourLaw 148 157	seguridad
+T244	Term-LabourLaw 419 428	seguridad
+T245	Term-LabourLaw 597 606	principio
+T246	Term-LabourLaw 13 20	empresa
+T247	Term-LabourLaw 234 241	empresa
+T248	Term-LabourLaw 315 322	empresa
+T249	Term-LabourLaw 472 479	empresa
+T250	Term-LabourLaw 815 822	empresa
+T251	Term-LabourLaw 913 920	empresa
+T252	Term-LabourLaw 1081 1088	empresa
+T253	Term-LabourLaw 1175 1182	empresa
+T254	Term-LabourLaw 3 9	comité
+T255	Term-LabourLaw 1498 1507	perjuicio
+T256	Term-LabourLaw 51 62	competencia
+T257	Term-LabourLaw 753 762	colectivo
+T258	Term-LabourLaw 1127 1136	colectivo
+T259	Term-LabourLaw 170 176	empleo
+T260	Term-IATE 781 786	obras
+T261	Term-IATE 663 670	hombres
+T262	Term-IATE 1022 1035	productividad
+T263	Term-IATE 582 592	aplicación
+T264	Term-IATE 537 545	artículo
+T265	Term-IATE 1334 1342	artículo
+T266	Term-IATE 1472 1480	artículo
+T267	Term-IATE 1560 1569	artículos
+T268	Term-IATE 13 20	empresa
+T269	Term-IATE 234 241	empresa
+T270	Term-IATE 472 479	empresa
+T271	Term-IATE 815 822	empresa
+T272	Term-IATE 913 920	empresa
+T273	Term-IATE 1081 1088	empresa
+T274	Term-IATE 1175 1182	empresa
+T275	Term-IATE 315 325	empresario
+T276	Term-IATE 653 660	mujeres
+T277	Term-IATE 843 855	trabajadores
+T278	Term-IATE 610 618	igualdad
+T279	Term-IATE 389 396	control
+T280	Term-IATE 128 135	materia
+T281	Term-IATE 689 696	materia
+T282	Term-IATE 524 529	orden
+T283	Term-IATE 170 176	empleo
+T284	Term-IATE 148 157	seguridad
+T285	Term-IATE 419 428	seguridad
+T286	Term-IATE 3 9	comité
+T287	Term-IATE 245 250	vigor
+T288	Term-IATE 897 906	dirección
+T289	Term-IATE 1159 1168	dirección
+T290	Term-IATE 744 752	convenio
+T291	Term-IATE 1117 1126	convenios
+T292	Term-IATE 72 82	vigilancia
+T293	Term-IATE 376 386	vigilancia
+T294	Term-IATE 557 567	vigilancia

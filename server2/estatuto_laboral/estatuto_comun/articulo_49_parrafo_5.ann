@@ -1,415 +1,302 @@
-T1	Term-diccionario 462 466	caso
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 593 597	caso
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 1456 1460	caso
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 1012 1017	casos
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 680 688	embarazo
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 1640 1647	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 156 164	contrato
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 867 875	contrato
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 930 938	contrato
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 1713 1721	contrato
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 662 668	riesgo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 694 700	riesgo
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 830 837	Riesgos
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 1379 1389	protección
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 141 151	suspensión
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 852 862	suspensión
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 915 925	suspensión
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1212 1222	suspensión
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 1436 1446	suspensión
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 1489 1499	suspensión
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 1698 1708	suspensión
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 830 847	Riesgos Laborales
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 53 63	nacimiento
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 342 352	nacimiento
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 781 784	Ley
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 125 136	acogimiento
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 395 406	acogimiento
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 187 196	apartados
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 1761 1770	apartados
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 576 584	apartado
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 1096 1102	puesto
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 763 771	artículo
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 1180 1188	artículo
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 1139 1145	estado
-#34	AnnotatorNotes T34 "Termcat"
-T35	Term-diccionario 738 746	términos
-#35	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 1319 1325	tutela
-#36	AnnotatorNotes T36 "Termcat"
-T37	Term-diccionario 384 392	adopción
-#37	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 354 362	adopción
-#38	AnnotatorNotes T38 "Termcat"
-T39	Term-diccionario 65 73	adopción
-#39	AnnotatorNotes T39 "Termcat"
-T40	Term-diccionario 111 119	adopción
-#40	AnnotatorNotes T40 "Termcat"
-#41	AnnotatorNotes T9 "Termcat"
-#42	AnnotatorNotes T7 "Termcat"
-#43	AnnotatorNotes T8 "Termcat"
-#44	AnnotatorNotes T10 "Termcat"
-T41	Term-diccionario 18 30	discapacidad
-#45	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 601 609	familias
-#46	AnnotatorNotes T42 "Termcat"
-T43	Term-diccionario 364 370	guarda
-#47	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 91 97	guarda
-#48	AnnotatorNotes T44 "Termcat"
-#49	AnnotatorNotes T25 "Termcat"
-#50	AnnotatorNotes T24 "Termcat"
-#51	AnnotatorNotes T23 "Termcat"
-#52	AnnotatorNotes T33 "Termcat"
-#53	AnnotatorNotes T32 "Termcat"
-T45	Term-diccionario 1396 1403	víctima
-#54	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 1625 1647	condiciones de trabajo
-#55	AnnotatorNotes T46 "Termcat"
-T47	Term-diccionario 816 847	Prevención de Riesgos Laborales
-#56	AnnotatorNotes T47 "Termcat"
-T48	Term-diccionario 240 247	semanas
-#57	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 214 222	duración
-#58	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1234 1242	duración
-#59	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 303 313	ampliación
-#60	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 1679 1686	derecho
-#61	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 1368 1375	derecho
-#62	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 618 626	personas
-#63	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 274 282	personas
-#64	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 486 493	persona
-#65	AnnotatorNotes T56 "Termcat"
-#66	AnnotatorNotes T18 "Termcat"
-#67	AnnotatorNotes T17 "Termcat"
-#68	AnnotatorNotes T19 "Termcat"
-#69	AnnotatorNotes T15 "Termcat"
-#70	AnnotatorNotes T20 "Termcat"
-#71	AnnotatorNotes T21 "Termcat"
-#72	AnnotatorNotes T16 "Termcat"
-#73	AnnotatorNotes T26 "Termcat"
-#74	AnnotatorNotes T27 "Termcat"
-T57	Term-diccionario 1304 1315	actuaciones
-#75	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 470 475	haber
-#76	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 712 721	lactancia
-#77	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 1611 1617	mejora
-#78	AnnotatorNotes T60 "Termcat"
-#79	AnnotatorNotes T11 "Termcat"
-#80	AnnotatorNotes T12 "Termcat"
-T61	Term-diccionario 1326 1334	judicial
-#81	AnnotatorNotes T61 "Termcat"
-#82	AnnotatorNotes T13 "Termcat"
-T62	Term-diccionario 816 826	Prevención
-#83	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 1465 1469	juez
-#84	AnnotatorNotes T63 "Termcat"
-T64	Term-automatico 78 87	situación
-#85	AnnotatorNotes T64 "AttentionRank"
-T65	Term-automatico 738 771	términos previstos en el artículo
-#86	AnnotatorNotes T65 "AttentionRank"
-T66	Term-automatico 518 527	disfrutar
-#87	AnnotatorNotes T66 "AttentionRank"
-T67	Term-automatico 891 894	día
-#88	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 53 63	nacimiento
-#89	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 342 352	nacimiento
-#90	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 1396 1403	víctima
-#91	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 35 39	hijo
-#92	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 425 429	hijo
-#93	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 662 668	riesgo
-#94	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 694 700	riesgo
-#95	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 830 837	Riesgos
-#96	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 1201 1208	periodo
-#97	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 1504 1512	periodos
-#98	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 680 688	embarazo
-#99	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 125 136	acogimiento
-#100	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 395 406	acogimiento
-#101	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 102 107	fines
-#102	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 375 380	fines
-#103	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 763 771	artículo
-#104	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 1180 1188	artículo
-#105	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 6 14	supuesto
-#106	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 330 338	supuesto
-#107	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 650 658	supuesto
-#108	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 1156 1164	supuesto
-#109	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1729 1738	supuestos
-#110	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 274 282	personas
-#111	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 618 626	personas
-#112	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 486 493	persona
-#113	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 976 981	meses
-#114	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 1280 1285	meses
-#115	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 1521 1526	meses
-#116	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 1555 1560	meses
-#117	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 480 505	única persona progenitora
-#118	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 141 151	suspensión
-#119	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 852 862	suspensión
-#120	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 915 925	suspensión
-#121	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 1212 1222	suspensión
-#122	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 1436 1446	suspensión
-#123	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 1489 1499	suspensión
-#124	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 1698 1708	suspensión
-#125	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 1319 1334	tutela judicial
-#126	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 712 721	lactancia
-#127	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 240 247	semanas
-#128	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 214 222	duración
-#129	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 1234 1242	duración
-#130	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 1061 1072	trabajadora
-#131	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 274 295	personas progenitoras
-#132	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 618 639	personas progenitoras
-#133	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 1569 1581	trabajadores
-#134	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 1096 1102	puesto
-#135	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 1379 1389	protección
-#136	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 781 784	Ley
-#137	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 712 729	lactancia natural
-#138	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 830 847	Riesgos Laborales
-#139	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 1368 1375	derecho
-#140	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 1679 1686	derecho
-#141	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 65 73	adopción
-#142	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 111 119	adopción
-#143	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 354 362	adopción
-#144	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 384 392	adopción
-#145	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 156 164	contrato
-#146	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 867 875	contrato
-#147	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 930 938	contrato
-#148	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1713 1721	contrato
-#149	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 954 962	lactante
-#150	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 1640 1647	trabajo
-#151	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 462 466	caso
-#152	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 593 597	caso
-#153	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 1456 1460	caso
-#154	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 1012 1017	casos
-#155	AnnotatorNotes T134 "AttentionRank"
-T135	Term-automatico 187 196	apartados
-#156	AnnotatorNotes T135 "AttentionRank"
-T136	Term-automatico 1761 1770	apartados
-#157	AnnotatorNotes T136 "AttentionRank"
-T137	Term-automatico 576 584	apartado
-#158	AnnotatorNotes T137 "AttentionRank"
-#159	AnnotatorNotes T46 "LabourLaw"
-T138	Term-diccionario 141 164	suspensión del contrato
-#160	AnnotatorNotes T138 "LabourLaw"
-T139	Term-diccionario 852 875	suspensión del contrato
-#161	AnnotatorNotes T139 "LabourLaw"
-T140	Term-diccionario 915 938	suspensión del contrato
-#162	AnnotatorNotes T140 "LabourLaw"
-T141	Term-diccionario 1698 1721	suspensión del contrato
-#163	AnnotatorNotes T141 "LabourLaw"
-#164	AnnotatorNotes T39 "LabourLaw"
-#165	AnnotatorNotes T40 "LabourLaw"
-#166	AnnotatorNotes T38 "LabourLaw"
-#167	AnnotatorNotes T37 "LabourLaw"
-T142	Term-diccionario 1264 1271	exceder
-#168	AnnotatorNotes T142 "LabourLaw"
-#169	AnnotatorNotes T6 "LabourLaw"
-#170	AnnotatorNotes T11 "LabourLaw"
-#171	AnnotatorNotes T12 "LabourLaw"
-#172	AnnotatorNotes T45 "LabourLaw"
-#173	AnnotatorNotes T7 "LabourLaw"
-#174	AnnotatorNotes T8 "LabourLaw"
-#175	AnnotatorNotes T9 "LabourLaw"
-#176	AnnotatorNotes T10 "LabourLaw"
-#177	AnnotatorNotes T36 "LabourLaw"
-#178	AnnotatorNotes T41 "LabourLaw"
-T143	Term-diccionario 1061 1071	trabajador
-#179	AnnotatorNotes T143 "LabourLaw"
-T144	Term-diccionario 1569 1579	trabajador
-#180	AnnotatorNotes T144 "LabourLaw"
-T145	Term-diccionario 144 151	pensión
-#181	AnnotatorNotes T145 "LabourLaw"
-T146	Term-diccionario 855 862	pensión
-#182	AnnotatorNotes T146 "LabourLaw"
-T147	Term-diccionario 918 925	pensión
-#183	AnnotatorNotes T147 "LabourLaw"
-T148	Term-diccionario 1215 1222	pensión
-#184	AnnotatorNotes T148 "LabourLaw"
-T149	Term-diccionario 1439 1446	pensión
-#185	AnnotatorNotes T149 "LabourLaw"
-T150	Term-diccionario 1492 1499	pensión
-#186	AnnotatorNotes T150 "LabourLaw"
-T151	Term-diccionario 1701 1708	pensión
-#187	AnnotatorNotes T151 "LabourLaw"
-#188	AnnotatorNotes T51 "LabourLaw"
-#189	AnnotatorNotes T14 "LabourLaw"
-#190	AnnotatorNotes T49 "LabourLaw"
-#191	AnnotatorNotes T50 "LabourLaw"
-#192	AnnotatorNotes T53 "LabourLaw"
-#193	AnnotatorNotes T52 "LabourLaw"
-T152	Term-diccionario 738 745	término
-#194	AnnotatorNotes T152 "LabourLaw"
-T153	Term-diccionario 1476 1485	prorrogar
-#195	AnnotatorNotes T153 "LabourLaw"
-#196	AnnotatorNotes T15 "LabourLaw"
-#197	AnnotatorNotes T16 "LabourLaw"
-#198	AnnotatorNotes T17 "LabourLaw"
-#199	AnnotatorNotes T18 "LabourLaw"
-#200	AnnotatorNotes T19 "LabourLaw"
-#201	AnnotatorNotes T20 "LabourLaw"
-#202	AnnotatorNotes T21 "LabourLaw"
-T154	Term-diccionario 1201 1208	periodo
-#203	AnnotatorNotes T154 "LabourLaw"
-T155	Term-diccionario 1504 1511	periodo
-#204	AnnotatorNotes T155 "LabourLaw"
-#205	AnnotatorNotes T13 "LabourLaw"
-T156	Term-diccionario 274 281	persona
-#206	AnnotatorNotes T156 "LabourLaw"
-#207	AnnotatorNotes T56 "LabourLaw"
-T157	Term-diccionario 618 625	persona
-#208	AnnotatorNotes T157 "LabourLaw"
-T158	Term-diccionario 943 948	parto
-#209	AnnotatorNotes T158 "LabourLaw"
-#210	AnnotatorNotes T14 "IATE"
-#211	AnnotatorNotes T32 "IATE"
-#212	AnnotatorNotes T33 "IATE"
-#213	AnnotatorNotes T11 "IATE"
-#214	AnnotatorNotes T12 "IATE"
-#215	AnnotatorNotes T13 "IATE"
-T159	Term-diccionario 78 87	situación
-#216	AnnotatorNotes T159 "IATE"
-#217	AnnotatorNotes T15 "IATE"
-#218	AnnotatorNotes T16 "IATE"
-#219	AnnotatorNotes T17 "IATE"
-#220	AnnotatorNotes T18 "IATE"
-#221	AnnotatorNotes T19 "IATE"
-#222	AnnotatorNotes T20 "IATE"
-#223	AnnotatorNotes T21 "IATE"
-#224	AnnotatorNotes T39 "IATE"
-#225	AnnotatorNotes T40 "IATE"
-#226	AnnotatorNotes T38 "IATE"
-#227	AnnotatorNotes T37 "IATE"
-#228	AnnotatorNotes T28 "IATE"
-#229	AnnotatorNotes T29 "IATE"
-#230	AnnotatorNotes T30 "IATE"
-T160	Term-diccionario 1569 1581	trabajadores
-#231	AnnotatorNotes T160 "IATE"
-#232	AnnotatorNotes T5 "IATE"
-T161	Term-diccionario 954 962	lactante
-#233	AnnotatorNotes T161 "IATE"
-#234	AnnotatorNotes T45 "IATE"
-#235	AnnotatorNotes T7 "IATE"
-#236	AnnotatorNotes T8 "IATE"
-#237	AnnotatorNotes T9 "IATE"
-#238	AnnotatorNotes T10 "IATE"
-#239	AnnotatorNotes T23 "IATE"
-#240	AnnotatorNotes T24 "IATE"
-T162	Term-diccionario 35 39	hijo
-#241	AnnotatorNotes T162 "IATE"
-T163	Term-diccionario 425 429	hijo
-#242	AnnotatorNotes T163 "IATE"
-T164	Term-diccionario 976 981	meses
-#243	AnnotatorNotes T164 "IATE"
-T165	Term-diccionario 1280 1285	meses
-#244	AnnotatorNotes T165 "IATE"
-T166	Term-diccionario 1521 1526	meses
-#245	AnnotatorNotes T166 "IATE"
-T167	Term-diccionario 1555 1560	meses
-#246	AnnotatorNotes T167 "IATE"
-#247	AnnotatorNotes T49 "IATE"
-#248	AnnotatorNotes T50 "IATE"
+T1	Term-DPEJ 462 466	caso
+T2	Term-DPEJ 593 597	caso
+T3	Term-DPEJ 1456 1460	caso
+T4	Term-DPEJ 1012 1017	casos
+T5	Term-DPEJ 680 688	embarazo
+T6	Term-DPEJ 1640 1647	trabajo
+T7	Term-DPEJ 156 164	contrato
+T8	Term-DPEJ 867 875	contrato
+T9	Term-DPEJ 930 938	contrato
+T10	Term-DPEJ 1713 1721	contrato
+T11	Term-DPEJ 662 668	riesgo
+T12	Term-DPEJ 694 700	riesgo
+T13	Term-DPEJ 830 837	Riesgos
+T14	Term-DPEJ 1379 1389	protección
+T15	Term-DPEJ 141 151	suspensión
+T16	Term-DPEJ 852 862	suspensión
+T17	Term-DPEJ 915 925	suspensión
+T18	Term-DPEJ 1212 1222	suspensión
+T19	Term-DPEJ 1436 1446	suspensión
+T20	Term-DPEJ 1489 1499	suspensión
+T21	Term-DPEJ 1698 1708	suspensión
+T22	Term-DPEJ 830 847	Riesgos Laborales
+T23	Term-DPEJ 53 63	nacimiento
+T24	Term-DPEJ 342 352	nacimiento
+T25	Term-DPEJ 781 784	Ley
+T26	Term-DPEJ 125 136	acogimiento
+T27	Term-DPEJ 395 406	acogimiento
+T28	Term-DPEJ 187 196	apartados
+T29	Term-DPEJ 1761 1770	apartados
+T30	Term-DPEJ 576 584	apartado
+T31	Term-DPEJ 1096 1102	puesto
+T32	Term-DPEJ 763 771	artículo
+T33	Term-DPEJ 1180 1188	artículo
+T34	Term-Termcat 1139 1145	estado
+T35	Term-Termcat 738 746	términos
+T36	Term-Termcat 1319 1325	tutela
+T37	Term-Termcat 384 392	adopción
+T38	Term-Termcat 354 362	adopción
+T39	Term-Termcat 65 73	adopción
+T40	Term-Termcat 111 119	adopción
+T41	Term-Termcat 930 938	contrato
+T42	Term-Termcat 156 164	contrato
+T43	Term-Termcat 867 875	contrato
+T44	Term-Termcat 1713 1721	contrato
+T45	Term-Termcat 18 30	discapacidad
+T46	Term-Termcat 601 609	familias
+T47	Term-Termcat 364 370	guarda
+T48	Term-Termcat 91 97	guarda
+T49	Term-Termcat 781 784	Ley
+T50	Term-Termcat 342 352	nacimiento
+T51	Term-Termcat 53 63	nacimiento
+T52	Term-Termcat 1180 1188	artículo
+T53	Term-Termcat 763 771	artículo
+T54	Term-Termcat 1396 1403	víctima
+T55	Term-Termcat 1625 1647	condiciones de trabajo
+T56	Term-Termcat 816 847	Prevención de Riesgos Laborales
+T57	Term-Termcat 240 247	semanas
+T58	Term-Termcat 214 222	duración
+T59	Term-Termcat 1234 1242	duración
+T60	Term-Termcat 303 313	ampliación
+T61	Term-Termcat 1679 1686	derecho
+T62	Term-Termcat 1368 1375	derecho
+T63	Term-Termcat 618 626	personas
+T64	Term-Termcat 274 282	personas
+T65	Term-Termcat 486 493	persona
+T66	Term-Termcat 1212 1222	suspensión
+T67	Term-Termcat 915 925	suspensión
+T68	Term-Termcat 1436 1446	suspensión
+T69	Term-Termcat 141 151	suspensión
+T70	Term-Termcat 1489 1499	suspensión
+T71	Term-Termcat 1698 1708	suspensión
+T72	Term-Termcat 852 862	suspensión
+T73	Term-Termcat 125 136	acogimiento
+T74	Term-Termcat 395 406	acogimiento
+T75	Term-Termcat 1304 1315	actuaciones
+T76	Term-Termcat 470 475	haber
+T77	Term-Termcat 712 721	lactancia
+T78	Term-Termcat 1611 1617	mejora
+T79	Term-Termcat 662 668	riesgo
+T80	Term-Termcat 694 700	riesgo
+T81	Term-Termcat 1326 1334	judicial
+T82	Term-Termcat 830 837	Riesgos
+T83	Term-Termcat 816 826	Prevención
+T84	Term-Termcat 1465 1469	juez
+T85	Term-DV 1064 1068	baja
+T86	Term-DV 1572 1576	baja
+T87	Term-DV 1585 1588	ben
+T88	Term-DV 1585 1595	beneficiar
+T89	Term-DV 21 25	capa
+T90	Term-DV 21 30	capacidad
+T91	Term-DV 1368 1375	derecho
+T92	Term-DV 1679 1686	derecho
+T93	Term-DV 891 894	día
+T94	Term-DV 601 608	familia
+T95	Term-DV 1353 1355	fe
+T96	Term-DV 470 475	haber
+T97	Term-DV 35 39	hijo
+T98	Term-DV 425 429	hijo
+T99	Term-DV 1326 1334	judicial
+T100	Term-DV 1465 1469	juez
+T101	Term-DV 712 721	lactancia
+T102	Term-DV 53 63	nacimiento
+T103	Term-DV 342 352	nacimiento
+T104	Term-DV 253 257	para
+T105	Term-DV 585 589	para
+T106	Term-DV 943 948	parto
+T107	Term-DV 144 151	pensión
+T108	Term-DV 855 862	pensión
+T109	Term-DV 918 925	pensión
+T110	Term-DV 1215 1222	pensión
+T111	Term-DV 1439 1446	pensión
+T112	Term-DV 1492 1499	pensión
+T113	Term-DV 1701 1708	pensión
+T114	Term-DV 274 281	persona
+T115	Term-DV 486 493	persona
+T116	Term-DV 618 625	persona
+T117	Term-DV 1043 1054	posibilidad
+T118	Term-DV 160 164	rato
+T119	Term-DV 871 875	rato
+T120	Term-DV 934 938	rato
+T121	Term-DV 1717 1721	rato
+T122	Term-DV 141 151	suspensión
+T123	Term-DV 852 862	suspensión
+T124	Term-DV 915 925	suspensión
+T125	Term-DV 1212 1222	suspensión
+T126	Term-DV 1436 1446	suspensión
+T127	Term-DV 1489 1499	suspensión
+T128	Term-DV 1698 1708	suspensión
+T129	Term-DV 1061 1071	trabajador
+T130	Term-DV 1569 1579	trabajador
+T131	Term-DV 1319 1325	tutela
+T132	Term-DV 1396 1403	víctima
+T133	Term-DV 561 564	vis
+T134	Term-DV 750 753	vis
+T135	Term-DV 1168 1171	vis
+T136	Term-DV 561 566	vista
+T137	Term-DV 1265 1266	x
+T138	Term-DV 1537 1538	x
+T139	Term-AttentionRank 78 87	situación
+T140	Term-AttentionRank 738 771	términos previstos en el artículo
+T141	Term-AttentionRank 518 527	disfrutar
+T142	Term-AttentionRank 891 894	día
+T143	Term-AttentionRank 53 63	nacimiento
+T144	Term-AttentionRank 342 352	nacimiento
+T145	Term-AttentionRank 1396 1403	víctima
+T146	Term-AttentionRank 35 39	hijo
+T147	Term-AttentionRank 425 429	hijo
+T148	Term-AttentionRank 662 668	riesgo
+T149	Term-AttentionRank 694 700	riesgo
+T150	Term-AttentionRank 830 837	Riesgos
+T151	Term-AttentionRank 1201 1208	periodo
+T152	Term-AttentionRank 1504 1512	periodos
+T153	Term-AttentionRank 680 688	embarazo
+T154	Term-AttentionRank 125 136	acogimiento
+T155	Term-AttentionRank 395 406	acogimiento
+T156	Term-AttentionRank 102 107	fines
+T157	Term-AttentionRank 375 380	fines
+T158	Term-AttentionRank 763 771	artículo
+T159	Term-AttentionRank 1180 1188	artículo
+T160	Term-AttentionRank 6 14	supuesto
+T161	Term-AttentionRank 330 338	supuesto
+T162	Term-AttentionRank 650 658	supuesto
+T163	Term-AttentionRank 1156 1164	supuesto
+T164	Term-AttentionRank 1729 1738	supuestos
+T165	Term-AttentionRank 274 282	personas
+T166	Term-AttentionRank 618 626	personas
+T167	Term-AttentionRank 486 493	persona
+T168	Term-AttentionRank 976 981	meses
+T169	Term-AttentionRank 1280 1285	meses
+T170	Term-AttentionRank 1521 1526	meses
+T171	Term-AttentionRank 1555 1560	meses
+T172	Term-AttentionRank 480 505	única persona progenitora
+T173	Term-AttentionRank 141 151	suspensión
+T174	Term-AttentionRank 852 862	suspensión
+T175	Term-AttentionRank 915 925	suspensión
+T176	Term-AttentionRank 1212 1222	suspensión
+T177	Term-AttentionRank 1436 1446	suspensión
+T178	Term-AttentionRank 1489 1499	suspensión
+T179	Term-AttentionRank 1698 1708	suspensión
+T180	Term-AttentionRank 1319 1334	tutela judicial
+T181	Term-AttentionRank 712 721	lactancia
+T182	Term-AttentionRank 240 247	semanas
+T183	Term-AttentionRank 214 222	duración
+T184	Term-AttentionRank 1234 1242	duración
+T185	Term-AttentionRank 1061 1072	trabajadora
+T186	Term-AttentionRank 274 295	personas progenitoras
+T187	Term-AttentionRank 618 639	personas progenitoras
+T188	Term-AttentionRank 1569 1581	trabajadores
+T189	Term-AttentionRank 1096 1102	puesto
+T190	Term-AttentionRank 1379 1389	protección
+T191	Term-AttentionRank 781 784	Ley
+T192	Term-AttentionRank 712 729	lactancia natural
+T193	Term-AttentionRank 830 847	Riesgos Laborales
+T194	Term-AttentionRank 1368 1375	derecho
+T195	Term-AttentionRank 1679 1686	derecho
+T196	Term-AttentionRank 65 73	adopción
+T197	Term-AttentionRank 111 119	adopción
+T198	Term-AttentionRank 354 362	adopción
+T199	Term-AttentionRank 384 392	adopción
+T200	Term-AttentionRank 156 164	contrato
+T201	Term-AttentionRank 867 875	contrato
+T202	Term-AttentionRank 930 938	contrato
+T203	Term-AttentionRank 1713 1721	contrato
+T204	Term-AttentionRank 954 962	lactante
+T205	Term-AttentionRank 1640 1647	trabajo
+T206	Term-AttentionRank 462 466	caso
+T207	Term-AttentionRank 593 597	caso
+T208	Term-AttentionRank 1456 1460	caso
+T209	Term-AttentionRank 1012 1017	casos
+T210	Term-AttentionRank 187 196	apartados
+T211	Term-AttentionRank 1761 1770	apartados
+T212	Term-AttentionRank 576 584	apartado
+T213	Term-LabourLaw 1625 1647	condiciones de trabajo
+T214	Term-LabourLaw 141 164	suspensión del contrato
+T215	Term-LabourLaw 852 875	suspensión del contrato
+T216	Term-LabourLaw 915 938	suspensión del contrato
+T217	Term-LabourLaw 1698 1721	suspensión del contrato
+T218	Term-LabourLaw 65 73	adopción
+T219	Term-LabourLaw 111 119	adopción
+T220	Term-LabourLaw 354 362	adopción
+T221	Term-LabourLaw 384 392	adopción
+T222	Term-LabourLaw 1264 1271	exceder
+T223	Term-LabourLaw 1640 1647	trabajo
+T224	Term-LabourLaw 662 668	riesgo
+T225	Term-LabourLaw 694 700	riesgo
+T226	Term-LabourLaw 1396 1403	víctima
+T227	Term-LabourLaw 156 164	contrato
+T228	Term-LabourLaw 867 875	contrato
+T229	Term-LabourLaw 930 938	contrato
+T230	Term-LabourLaw 1713 1721	contrato
+T231	Term-LabourLaw 1319 1325	tutela
+T232	Term-LabourLaw 18 30	discapacidad
+T233	Term-LabourLaw 1061 1071	trabajador
+T234	Term-LabourLaw 1569 1579	trabajador
+T235	Term-LabourLaw 144 151	pensión
+T236	Term-LabourLaw 855 862	pensión
+T237	Term-LabourLaw 918 925	pensión
+T238	Term-LabourLaw 1215 1222	pensión
+T239	Term-LabourLaw 1439 1446	pensión
+T240	Term-LabourLaw 1492 1499	pensión
+T241	Term-LabourLaw 1701 1708	pensión
+T242	Term-LabourLaw 303 313	ampliación
+T243	Term-LabourLaw 1379 1389	protección
+T244	Term-LabourLaw 214 222	duración
+T245	Term-LabourLaw 1234 1242	duración
+T246	Term-LabourLaw 1368 1375	derecho
+T247	Term-LabourLaw 1679 1686	derecho
+T248	Term-LabourLaw 738 745	término
+T249	Term-LabourLaw 1476 1485	prorrogar
+T250	Term-LabourLaw 141 151	suspensión
+T251	Term-LabourLaw 852 862	suspensión
+T252	Term-LabourLaw 915 925	suspensión
+T253	Term-LabourLaw 1212 1222	suspensión
+T254	Term-LabourLaw 1436 1446	suspensión
+T255	Term-LabourLaw 1489 1499	suspensión
+T256	Term-LabourLaw 1698 1708	suspensión
+T257	Term-LabourLaw 1201 1208	periodo
+T258	Term-LabourLaw 1504 1511	periodo
+T259	Term-LabourLaw 830 837	Riesgos
+T260	Term-LabourLaw 274 281	persona
+T261	Term-LabourLaw 486 493	persona
+T262	Term-LabourLaw 618 625	persona
+T263	Term-LabourLaw 943 948	parto
+T264	Term-IATE 1379 1389	protección
+T265	Term-IATE 763 771	artículo
+T266	Term-IATE 1180 1188	artículo
+T267	Term-IATE 662 668	riesgo
+T268	Term-IATE 694 700	riesgo
+T269	Term-IATE 830 837	Riesgos
+T270	Term-IATE 78 87	situación
+T271	Term-IATE 141 151	suspensión
+T272	Term-IATE 852 862	suspensión
+T273	Term-IATE 915 925	suspensión
+T274	Term-IATE 1212 1222	suspensión
+T275	Term-IATE 1436 1446	suspensión
+T276	Term-IATE 1489 1499	suspensión
+T277	Term-IATE 1698 1708	suspensión
+T278	Term-IATE 65 73	adopción
+T279	Term-IATE 111 119	adopción
+T280	Term-IATE 354 362	adopción
+T281	Term-IATE 384 392	adopción
+T282	Term-IATE 187 196	apartados
+T283	Term-IATE 1761 1770	apartados
+T284	Term-IATE 576 584	apartado
+T285	Term-IATE 1569 1581	trabajadores
+T286	Term-IATE 680 688	embarazo
+T287	Term-IATE 954 962	lactante
+T288	Term-IATE 1396 1403	víctima
+T289	Term-IATE 156 164	contrato
+T290	Term-IATE 867 875	contrato
+T291	Term-IATE 930 938	contrato
+T292	Term-IATE 1713 1721	contrato
+T293	Term-IATE 53 63	nacimiento
+T294	Term-IATE 342 352	nacimiento
+T295	Term-IATE 35 39	hijo
+T296	Term-IATE 425 429	hijo
+T297	Term-IATE 976 981	meses
+T298	Term-IATE 1280 1285	meses
+T299	Term-IATE 1521 1526	meses
+T300	Term-IATE 1555 1560	meses
+T301	Term-IATE 214 222	duración
+T302	Term-IATE 1234 1242	duración

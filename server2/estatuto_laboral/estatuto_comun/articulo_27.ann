@@ -1,333 +1,258 @@
-T1	Term-diccionario 477 481	caso
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 1085 1089	caso
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 1319 1323	caso
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 1156 1169	gratificación
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 13 27	Salario mínimo
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 184 198	salario mínimo
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 570 584	salario mínimo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 755 769	salario mínimo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 1271 1285	salario mínimo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 1520 1534	salario mínimo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 360 367	trabajo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 13 20	Salario
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 184 191	salario
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 570 577	salario
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 755 762	salario
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 1122 1129	salario
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 1271 1278	salario
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1337 1344	salario
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 1520 1527	salario
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 653 661	salarios
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 13 44	Salario mínimo interprofesional
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 184 215	salario mínimo interprofesional
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 570 601	salario mínimo interprofesional
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 755 786	salario mínimo interprofesional
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 1271 1302	salario mínimo interprofesional
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 1520 1551	salario mínimo interprofesional
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 1034 1050	inembargabilidad
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 1206 1222	inembargabilidad
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 1465 1481	inembargabilidad
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 342 355	participación
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 939 944	forma
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 696 704	conjunto
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 638 645	cuantía
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 794 801	cuantía
-#34	AnnotatorNotes T34 "DPEJ"
-T35	Term-diccionario 1057 1064	cuantía
-#35	AnnotatorNotes T35 "DPEJ"
-T36	Term-diccionario 1196 1202	límite
-#36	AnnotatorNotes T36 "DPEJ"
-T37	Term-diccionario 1455 1461	límite
-#37	AnnotatorNotes T37 "DPEJ"
-T38	Term-diccionario 0 8	Artículo
-#38	AnnotatorNotes T38 "DPEJ"
-T39	Term-diccionario 253 260	precios
-#39	AnnotatorNotes T39 "DPEJ"
-T40	Term-diccionario 538 545	precios
-#40	AnnotatorNotes T40 "DPEJ"
-#41	AnnotatorNotes T31 "Termcat"
-T41	Term-diccionario 1094 1104	particular
-#42	AnnotatorNotes T41 "Termcat"
-#43	AnnotatorNotes T39 "Termcat"
-#44	AnnotatorNotes T40 "Termcat"
-T42	Term-diccionario 374 379	renta
-#45	AnnotatorNotes T42 "Termcat"
-#46	AnnotatorNotes T38 "Termcat"
-T43	Term-diccionario 1385 1390	parte
-#47	AnnotatorNotes T43 "Termcat"
-#48	AnnotatorNotes T11 "Termcat"
-#49	AnnotatorNotes T4 "Termcat"
-T44	Term-diccionario 993 1014	pagas extraordinarias
-#50	AnnotatorNotes T44 "Termcat"
-T45	Term-diccionario 1172 1191	paga extraordinaria
-#51	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 243 271	índice de precios de consumo
-#52	AnnotatorNotes T46 "Termcat"
-T47	Term-diccionario 923 930	devengo
-#53	AnnotatorNotes T47 "Termcat"
-T48	Term-diccionario 1411 1416	pagas
-#54	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 279 292	productividad
-#55	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 976 985	prorrateo
-#56	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 450 458	revisión
-#57	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 557 565	revisión
-#58	AnnotatorNotes T52 "Termcat"
-#59	AnnotatorNotes T18 "Termcat"
-#60	AnnotatorNotes T16 "Termcat"
-#61	AnnotatorNotes T20 "Termcat"
-#62	AnnotatorNotes T21 "Termcat"
-#63	AnnotatorNotes T25 "Termcat"
-#64	AnnotatorNotes T23 "Termcat"
-#65	AnnotatorNotes T22 "Termcat"
-#66	AnnotatorNotes T26 "Termcat"
-#67	AnnotatorNotes T24 "Termcat"
-T53	Term-diccionario 619 629	estructura
-#68	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 52 60	Gobierno
-#69	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 229 235	cuenta
-#70	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 896 902	cuenta
-#71	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 707 714	cómputo
-#72	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 1555 1562	cómputo
-#73	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 948 955	cómputo
-#74	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 848 855	efectos
-#75	AnnotatorNotes T60 "Termcat"
-T61	Term-diccionario 134 147	empresariales
-#76	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 299 307	nacional
-#77	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 380 388	nacional
-#78	AnnotatorNotes T63 "Termcat"
-#79	AnnotatorNotes T30 "Termcat"
-#80	AnnotatorNotes T35 "Termcat"
-#81	AnnotatorNotes T33 "Termcat"
-#82	AnnotatorNotes T34 "Termcat"
-T64	Term-diccionario 729 739	superiores
-#83	AnnotatorNotes T64 "Termcat"
-T65	Term-automatico 1196 1202	límite
-#84	AnnotatorNotes T65 "AttentionRank"
-T66	Term-automatico 1455 1461	límite
-#85	AnnotatorNotes T66 "AttentionRank"
-T67	Term-automatico 638 645	cuantía
-#86	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 794 801	cuantía
-#87	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 1057 1064	cuantía
-#88	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 243 249	índice
-#89	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 528 534	índice
-#90	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 1122 1137	salario mensual
-#91	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 1337 1352	salario mensual
-#92	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 1385 1390	parte
-#93	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 76 84	consulta
-#94	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 912 919	periodo
-#95	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 848 858	efectos de
-#96	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 1259 1266	importe
-#97	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 1508 1515	importe
-#98	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 0 8	Artículo
-#99	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 93 118	organizaciones sindicales
-#100	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 1592 1597	meses
-#101	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 342 355	participación
-#102	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 1156 1169	gratificación
-#103	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 450 468	revisión semestral
-#104	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1034 1050	inembargabilidad
-#105	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 1206 1222	inembargabilidad
-#106	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 1465 1481	inembargabilidad
-#107	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1419 1450	gratificaciones extraordinarias
-#108	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 13 27	Salario mínimo
-#109	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 184 198	salario mínimo
-#110	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 570 584	salario mínimo
-#111	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 755 769	salario mínimo
-#112	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 1271 1285	salario mínimo
-#113	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 1520 1534	salario mínimo
-#114	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 939 944	forma
-#115	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 696 704	conjunto
-#116	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 13 20	Salario
-#117	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 184 191	salario
-#118	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 570 577	salario
-#119	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 755 762	salario
-#120	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 1122 1129	salario
-#121	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 1271 1278	salario
-#122	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 1337 1344	salario
-#123	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 1520 1527	salario
-#124	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 653 661	salarios
-#125	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 121 147	asociaciones empresariales
-#126	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 707 720	cómputo anual
-#127	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 1555 1568	cómputo anual
-#128	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 264 271	consumo
-#129	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 707 714	cómputo
-#130	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 948 955	cómputo
-#131	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 1555 1562	cómputo
-#132	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 253 260	precios
-#133	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 538 545	precios
-#134	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 619 629	estructura
-#135	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 848 855	efectos
-#136	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 279 292	productividad
-#137	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 360 367	trabajo
-#138	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 477 481	caso
-#139	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 1085 1089	caso
-#140	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 1319 1323	caso
-#141	AnnotatorNotes T122 "AttentionRank"
-#142	AnnotatorNotes T22 "LabourLaw"
-#143	AnnotatorNotes T23 "LabourLaw"
-#144	AnnotatorNotes T24 "LabourLaw"
-#145	AnnotatorNotes T25 "LabourLaw"
-#146	AnnotatorNotes T26 "LabourLaw"
-#147	AnnotatorNotes T22 "LabourLaw"
-#148	AnnotatorNotes T23 "LabourLaw"
-#149	AnnotatorNotes T24 "LabourLaw"
-#150	AnnotatorNotes T25 "LabourLaw"
-#151	AnnotatorNotes T26 "LabourLaw"
-T123	Term-diccionario 707 720	cómputo anual
-#152	AnnotatorNotes T123 "LabourLaw"
-T124	Term-diccionario 1555 1568	cómputo anual
-#153	AnnotatorNotes T124 "LabourLaw"
-T125	Term-diccionario 1419 1450	gratificaciones extraordinarias
-#154	AnnotatorNotes T125 "LabourLaw"
-#155	AnnotatorNotes T6 "LabourLaw"
-#156	AnnotatorNotes T7 "LabourLaw"
-#157	AnnotatorNotes T8 "LabourLaw"
-#158	AnnotatorNotes T9 "LabourLaw"
-#159	AnnotatorNotes T10 "LabourLaw"
-T126	Term-diccionario 1172 1182	paga extra
-#160	AnnotatorNotes T126 "LabourLaw"
-#161	AnnotatorNotes T49 "LabourLaw"
-#162	AnnotatorNotes T11 "LabourLaw"
-#163	AnnotatorNotes T13 "LabourLaw"
-#164	AnnotatorNotes T14 "LabourLaw"
-T127	Term-diccionario 653 660	salario
-#165	AnnotatorNotes T127 "LabourLaw"
-#166	AnnotatorNotes T15 "LabourLaw"
-#167	AnnotatorNotes T16 "LabourLaw"
-#168	AnnotatorNotes T17 "LabourLaw"
-#169	AnnotatorNotes T18 "LabourLaw"
-#170	AnnotatorNotes T19 "LabourLaw"
-#171	AnnotatorNotes T4 "LabourLaw"
-#172	AnnotatorNotes T30 "LabourLaw"
-#173	AnnotatorNotes T33 "LabourLaw"
-#174	AnnotatorNotes T34 "LabourLaw"
-#175	AnnotatorNotes T35 "LabourLaw"
-#176	AnnotatorNotes T51 "LabourLaw"
-#177	AnnotatorNotes T52 "LabourLaw"
-T128	Term-diccionario 134 141	empresa
-#178	AnnotatorNotes T128 "LabourLaw"
-#179	AnnotatorNotes T42 "LabourLaw"
-T129	Term-diccionario 912 919	periodo
-#180	AnnotatorNotes T129 "LabourLaw"
-#181	AnnotatorNotes T49 "IATE"
-#182	AnnotatorNotes T43 "IATE"
-#183	AnnotatorNotes T38 "IATE"
-#184	AnnotatorNotes T32 "IATE"
-#185	AnnotatorNotes T53 "IATE"
-#186	AnnotatorNotes T12 "IATE"
-#187	AnnotatorNotes T13 "IATE"
-#188	AnnotatorNotes T14 "IATE"
-#189	AnnotatorNotes T15 "IATE"
-#190	AnnotatorNotes T16 "IATE"
-#191	AnnotatorNotes T17 "IATE"
-#192	AnnotatorNotes T18 "IATE"
-#193	AnnotatorNotes T19 "IATE"
-#194	AnnotatorNotes T20 "IATE"
-T130	Term-diccionario 76 84	consulta
-#195	AnnotatorNotes T130 "IATE"
-#196	AnnotatorNotes T30 "IATE"
-#197	AnnotatorNotes T60 "IATE"
-T131	Term-diccionario 243 249	índice
-#198	AnnotatorNotes T131 "IATE"
-T132	Term-diccionario 528 534	índice
-#199	AnnotatorNotes T132 "IATE"
-T133	Term-diccionario 1592 1597	meses
-#200	AnnotatorNotes T133 "IATE"
+T1	Term-DPEJ 477 481	caso
+T2	Term-DPEJ 1085 1089	caso
+T3	Term-DPEJ 1319 1323	caso
+T4	Term-DPEJ 1156 1169	gratificación
+T5	Term-DPEJ 13 27	Salario mínimo
+T6	Term-DPEJ 184 198	salario mínimo
+T7	Term-DPEJ 570 584	salario mínimo
+T8	Term-DPEJ 755 769	salario mínimo
+T9	Term-DPEJ 1271 1285	salario mínimo
+T10	Term-DPEJ 1520 1534	salario mínimo
+T11	Term-DPEJ 360 367	trabajo
+T12	Term-DPEJ 13 20	Salario
+T13	Term-DPEJ 184 191	salario
+T14	Term-DPEJ 570 577	salario
+T15	Term-DPEJ 755 762	salario
+T16	Term-DPEJ 1122 1129	salario
+T17	Term-DPEJ 1271 1278	salario
+T18	Term-DPEJ 1337 1344	salario
+T19	Term-DPEJ 1520 1527	salario
+T20	Term-DPEJ 653 661	salarios
+T21	Term-DPEJ 13 44	Salario mínimo interprofesional
+T22	Term-DPEJ 184 215	salario mínimo interprofesional
+T23	Term-DPEJ 570 601	salario mínimo interprofesional
+T24	Term-DPEJ 755 786	salario mínimo interprofesional
+T25	Term-DPEJ 1271 1302	salario mínimo interprofesional
+T26	Term-DPEJ 1520 1551	salario mínimo interprofesional
+T27	Term-DPEJ 1034 1050	inembargabilidad
+T28	Term-DPEJ 1206 1222	inembargabilidad
+T29	Term-DPEJ 1465 1481	inembargabilidad
+T30	Term-DPEJ 342 355	participación
+T31	Term-DPEJ 939 944	forma
+T32	Term-DPEJ 696 704	conjunto
+T33	Term-DPEJ 638 645	cuantía
+T34	Term-DPEJ 794 801	cuantía
+T35	Term-DPEJ 1057 1064	cuantía
+T36	Term-DPEJ 1196 1202	límite
+T37	Term-DPEJ 1455 1461	límite
+T38	Term-DPEJ 0 8	Artículo
+T39	Term-DPEJ 253 260	precios
+T40	Term-DPEJ 538 545	precios
+T41	Term-Termcat 939 944	forma
+T42	Term-Termcat 1094 1104	particular
+T43	Term-Termcat 253 260	precios
+T44	Term-Termcat 538 545	precios
+T45	Term-Termcat 374 379	renta
+T46	Term-Termcat 0 8	Artículo
+T47	Term-Termcat 1385 1390	parte
+T48	Term-Termcat 360 367	trabajo
+T49	Term-Termcat 1156 1169	gratificación
+T50	Term-Termcat 993 1014	pagas extraordinarias
+T51	Term-Termcat 1172 1191	paga extraordinaria
+T52	Term-Termcat 243 271	índice de precios de consumo
+T53	Term-Termcat 923 930	devengo
+T54	Term-Termcat 1411 1416	pagas
+T55	Term-Termcat 279 292	productividad
+T56	Term-Termcat 976 985	prorrateo
+T57	Term-Termcat 450 458	revisión
+T58	Term-Termcat 557 565	revisión
+T59	Term-Termcat 1337 1344	salario
+T60	Term-Termcat 1122 1129	salario
+T61	Term-Termcat 653 661	salarios
+T62	Term-Termcat 13 44	Salario mínimo interprofesional
+T63	Term-Termcat 1271 1302	salario mínimo interprofesional
+T64	Term-Termcat 570 601	salario mínimo interprofesional
+T65	Term-Termcat 184 215	salario mínimo interprofesional
+T66	Term-Termcat 1520 1551	salario mínimo interprofesional
+T67	Term-Termcat 755 786	salario mínimo interprofesional
+T68	Term-Termcat 619 629	estructura
+T69	Term-Termcat 52 60	Gobierno
+T70	Term-Termcat 229 235	cuenta
+T71	Term-Termcat 896 902	cuenta
+T72	Term-Termcat 707 714	cómputo
+T73	Term-Termcat 1555 1562	cómputo
+T74	Term-Termcat 948 955	cómputo
+T75	Term-Termcat 848 855	efectos
+T76	Term-Termcat 134 147	empresariales
+T77	Term-Termcat 299 307	nacional
+T78	Term-Termcat 380 388	nacional
+T79	Term-Termcat 342 355	participación
+T80	Term-Termcat 1057 1064	cuantía
+T81	Term-Termcat 638 645	cuantía
+T82	Term-Termcat 794 801	cuantía
+T83	Term-Termcat 729 739	superiores
+T84	Term-DV 184 198	salario mínimo
+T85	Term-DV 570 584	salario mínimo
+T86	Term-DV 755 769	salario mínimo
+T87	Term-DV 1271 1285	salario mínimo
+T88	Term-DV 1520 1534	salario mínimo
+T89	Term-DV 1358 1361	bid
+T90	Term-DV 1358 1361	bid
+T91	Term-DV 848 855	efectos
+T92	Term-DV 134 141	empresa
+T93	Term-DV 36 38	fe
+T94	Term-DV 207 209	fe
+T95	Term-DV 593 595	fe
+T96	Term-DV 606 608	fe
+T97	Term-DV 665 667	fe
+T98	Term-DV 778 780	fe
+T99	Term-DV 849 851	fe
+T100	Term-DV 1294 1296	fe
+T101	Term-DV 1543 1545	fe
+T102	Term-DV 939 944	forma
+T103	Term-DV 1156 1169	gratificación
+T104	Term-DV 469 473	para
+T105	Term-DV 1385 1390	parte
+T106	Term-DV 342 355	participación
+T107	Term-DV 253 259	precio
+T108	Term-DV 538 544	precio
+T109	Term-DV 507 516	prevision
+T110	Term-DV 33 44	profesional
+T111	Term-DV 204 215	profesional
+T112	Term-DV 590 601	profesional
+T113	Term-DV 662 673	profesional
+T114	Term-DV 775 786	profesional
+T115	Term-DV 1291 1302	profesional
+T116	Term-DV 1540 1551	profesional
+T117	Term-DV 976 985	prorrateo
+T118	Term-DV 1157 1169	ratificación
+T119	Term-DV 374 379	renta
+T120	Term-DV 184 188	sala
+T121	Term-DV 570 574	sala
+T122	Term-DV 653 657	sala
+T123	Term-DV 755 759	sala
+T124	Term-DV 1122 1126	sala
+T125	Term-DV 1271 1275	sala
+T126	Term-DV 1337 1341	sala
+T127	Term-DV 1520 1524	sala
+T128	Term-DV 184 191	salario
+T129	Term-DV 570 577	salario
+T130	Term-DV 653 660	salario
+T131	Term-DV 755 762	salario
+T132	Term-DV 1122 1129	salario
+T133	Term-DV 1271 1278	salario
+T134	Term-DV 1337 1344	salario
+T135	Term-DV 1520 1527	salario
+T136	Term-DV 452 455	vis
+T137	Term-DV 510 513	vis
+T138	Term-DV 559 562	vis
+T139	Term-DV 1000 1001	x
+T140	Term-DV 1178 1179	x
+T141	Term-DV 1436 1437	x
+T142	Term-AttentionRank 1196 1202	límite
+T143	Term-AttentionRank 1455 1461	límite
+T144	Term-AttentionRank 638 645	cuantía
+T145	Term-AttentionRank 794 801	cuantía
+T146	Term-AttentionRank 1057 1064	cuantía
+T147	Term-AttentionRank 243 249	índice
+T148	Term-AttentionRank 528 534	índice
+T149	Term-AttentionRank 1122 1137	salario mensual
+T150	Term-AttentionRank 1337 1352	salario mensual
+T151	Term-AttentionRank 1385 1390	parte
+T152	Term-AttentionRank 76 84	consulta
+T153	Term-AttentionRank 912 919	periodo
+T154	Term-AttentionRank 848 858	efectos de
+T155	Term-AttentionRank 1259 1266	importe
+T156	Term-AttentionRank 1508 1515	importe
+T157	Term-AttentionRank 0 8	Artículo
+T158	Term-AttentionRank 93 118	organizaciones sindicales
+T159	Term-AttentionRank 1592 1597	meses
+T160	Term-AttentionRank 342 355	participación
+T161	Term-AttentionRank 1156 1169	gratificación
+T162	Term-AttentionRank 450 468	revisión semestral
+T163	Term-AttentionRank 1034 1050	inembargabilidad
+T164	Term-AttentionRank 1206 1222	inembargabilidad
+T165	Term-AttentionRank 1465 1481	inembargabilidad
+T166	Term-AttentionRank 1419 1450	gratificaciones extraordinarias
+T167	Term-AttentionRank 13 27	Salario mínimo
+T168	Term-AttentionRank 184 198	salario mínimo
+T169	Term-AttentionRank 570 584	salario mínimo
+T170	Term-AttentionRank 755 769	salario mínimo
+T171	Term-AttentionRank 1271 1285	salario mínimo
+T172	Term-AttentionRank 1520 1534	salario mínimo
+T173	Term-AttentionRank 939 944	forma
+T174	Term-AttentionRank 696 704	conjunto
+T175	Term-AttentionRank 13 20	Salario
+T176	Term-AttentionRank 184 191	salario
+T177	Term-AttentionRank 570 577	salario
+T178	Term-AttentionRank 755 762	salario
+T179	Term-AttentionRank 1122 1129	salario
+T180	Term-AttentionRank 1271 1278	salario
+T181	Term-AttentionRank 1337 1344	salario
+T182	Term-AttentionRank 1520 1527	salario
+T183	Term-AttentionRank 653 661	salarios
+T184	Term-AttentionRank 121 147	asociaciones empresariales
+T185	Term-AttentionRank 707 720	cómputo anual
+T186	Term-AttentionRank 1555 1568	cómputo anual
+T187	Term-AttentionRank 264 271	consumo
+T188	Term-AttentionRank 707 714	cómputo
+T189	Term-AttentionRank 948 955	cómputo
+T190	Term-AttentionRank 1555 1562	cómputo
+T191	Term-AttentionRank 253 260	precios
+T192	Term-AttentionRank 538 545	precios
+T193	Term-AttentionRank 619 629	estructura
+T194	Term-AttentionRank 848 855	efectos
+T195	Term-AttentionRank 279 292	productividad
+T196	Term-AttentionRank 360 367	trabajo
+T197	Term-AttentionRank 477 481	caso
+T198	Term-AttentionRank 1085 1089	caso
+T199	Term-AttentionRank 1319 1323	caso
+T200	Term-LabourLaw 184 215	salario mínimo interprofesional
+T201	Term-LabourLaw 570 601	salario mínimo interprofesional
+T202	Term-LabourLaw 755 786	salario mínimo interprofesional
+T203	Term-LabourLaw 1271 1302	salario mínimo interprofesional
+T204	Term-LabourLaw 1520 1551	salario mínimo interprofesional
+T205	Term-LabourLaw 184 215	salario mínimo interprofesional
+T206	Term-LabourLaw 570 601	salario mínimo interprofesional
+T207	Term-LabourLaw 755 786	salario mínimo interprofesional
+T208	Term-LabourLaw 1271 1302	salario mínimo interprofesional
+T209	Term-LabourLaw 1520 1551	salario mínimo interprofesional
+T210	Term-LabourLaw 707 720	cómputo anual
+T211	Term-LabourLaw 1555 1568	cómputo anual
+T212	Term-LabourLaw 1419 1450	gratificaciones extraordinarias
+T213	Term-LabourLaw 184 198	salario mínimo
+T214	Term-LabourLaw 570 584	salario mínimo
+T215	Term-LabourLaw 755 769	salario mínimo
+T216	Term-LabourLaw 1271 1285	salario mínimo
+T217	Term-LabourLaw 1520 1534	salario mínimo
+T218	Term-LabourLaw 1172 1182	paga extra
+T219	Term-LabourLaw 279 292	productividad
+T220	Term-LabourLaw 360 367	trabajo
+T221	Term-LabourLaw 184 191	salario
+T222	Term-LabourLaw 570 577	salario
+T223	Term-LabourLaw 653 660	salario
+T224	Term-LabourLaw 755 762	salario
+T225	Term-LabourLaw 1122 1129	salario
+T226	Term-LabourLaw 1271 1278	salario
+T227	Term-LabourLaw 1337 1344	salario
+T228	Term-LabourLaw 1520 1527	salario
+T229	Term-LabourLaw 1156 1169	gratificación
+T230	Term-LabourLaw 342 355	participación
+T231	Term-LabourLaw 638 645	cuantía
+T232	Term-LabourLaw 794 801	cuantía
+T233	Term-LabourLaw 1057 1064	cuantía
+T234	Term-LabourLaw 450 458	revisión
+T235	Term-LabourLaw 557 565	revisión
+T236	Term-LabourLaw 134 141	empresa
+T237	Term-LabourLaw 374 379	renta
+T238	Term-LabourLaw 912 919	periodo
+T239	Term-IATE 279 292	productividad
+T240	Term-IATE 1385 1390	parte
+T241	Term-IATE 0 8	Artículo
+T242	Term-IATE 696 704	conjunto
+T243	Term-IATE 619 629	estructura
+T244	Term-IATE 13 20	Salario
+T245	Term-IATE 184 191	salario
+T246	Term-IATE 570 577	salario
+T247	Term-IATE 755 762	salario
+T248	Term-IATE 1122 1129	salario
+T249	Term-IATE 1271 1278	salario
+T250	Term-IATE 1337 1344	salario
+T251	Term-IATE 1520 1527	salario
+T252	Term-IATE 653 661	salarios
+T253	Term-IATE 76 84	consulta
+T254	Term-IATE 342 355	participación
+T255	Term-IATE 848 855	efectos
+T256	Term-IATE 243 249	índice
+T257	Term-IATE 528 534	índice
+T258	Term-IATE 1592 1597	meses

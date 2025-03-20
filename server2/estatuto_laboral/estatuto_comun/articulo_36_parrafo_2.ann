@@ -1,433 +1,308 @@
-T1	Term-diccionario 1376 1392	trabajo nocturno
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 1663 1679	trabajo nocturno
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 365 373	procesos
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 44 56	organización
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 442 454	organización
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 1095 1100	salud
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 1341 1346	salud
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 1634 1639	salud
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 1061 1066	nivel
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 1103 1112	seguridad
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 13 20	trabajo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 61 68	trabajo
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 153 160	trabajo
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 459 466	trabajo
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 697 704	trabajo
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 1144 1151	trabajo
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 1376 1383	trabajo
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1663 1670	trabajo
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 1728 1735	trabajo
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 352 360	empresas
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 638 646	empresas
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 1206 1213	empresa
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 1760 1767	empresa
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 35 40	forma
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 1520 1527	Riesgos
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 1070 1080	protección
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 675 684	actividad
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 837 846	actividad
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 1520 1537	Riesgos Laborales
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 1471 1474	Ley
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 13 29	trabajo a turnos
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 884 892	personal
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 142 149	puestos
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 1718 1724	puesto
-#34	AnnotatorNotes T34 "DPEJ"
-T35	Term-diccionario 565 570	noche
-#35	AnnotatorNotes T35 "DPEJ"
-T36	Term-diccionario 267 276	servicios
-#36	AnnotatorNotes T36 "DPEJ"
-T37	Term-diccionario 1548 1554	normas
-#37	AnnotatorNotes T37 "DPEJ"
-T38	Term-diccionario 610 621	adscripción
-#38	AnnotatorNotes T38 "Termcat"
-T39	Term-diccionario 1360 1370	afectación
-#39	AnnotatorNotes T39 "Termcat"
-T40	Term-diccionario 1331 1337	estado
-#40	AnnotatorNotes T40 "Termcat"
-#41	AnnotatorNotes T9 "Termcat"
-#42	AnnotatorNotes T36 "Termcat"
-T41	Term-diccionario 1443 1451	términos
-#43	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 785 789	bien
-#44	AnnotatorNotes T42 "Termcat"
-#45	AnnotatorNotes T24 "Termcat"
-#46	AnnotatorNotes T30 "Termcat"
-#47	AnnotatorNotes T37 "Termcat"
-T43	Term-diccionario 242 251	necesidad
-#48	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 752 765	días festivos
-#49	AnnotatorNotes T44 "Termcat"
-#50	AnnotatorNotes T20 "Termcat"
-#51	AnnotatorNotes T21 "Termcat"
-#52	AnnotatorNotes T23 "Termcat"
-#53	AnnotatorNotes T22 "Termcat"
-T45	Term-diccionario 72 78	equipo
-#54	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 912 919	equipos
-#55	AnnotatorNotes T46 "Termcat"
-T47	Term-diccionario 794 801	equipos
-#56	AnnotatorNotes T47 "Termcat"
-#57	AnnotatorNotes T13 "Termcat"
-#58	AnnotatorNotes T15 "Termcat"
-#59	AnnotatorNotes T16 "Termcat"
-T48	Term-diccionario 1718 1735	puesto de trabajo
-#60	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 44 68	organización del trabajo
-#61	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 442 466	organización del trabajo
-#62	AnnotatorNotes T50 "Termcat"
-#63	AnnotatorNotes T32 "Termcat"
-T51	Term-diccionario 1506 1537	Prevención de Riesgos Laborales
-#64	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 336 343	semanas
-#65	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 851 858	semanas
-#66	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 582 589	semanas
-#67	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 959 965	semana
-#68	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 719 725	turnos
-#69	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 474 480	turnos
-#70	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 1018 1024	turnos
-#71	AnnotatorNotes T58 "Termcat"
-#72	AnnotatorNotes T1 "Termcat"
-#73	AnnotatorNotes T2 "Termcat"
-#74	AnnotatorNotes T31 "Termcat"
-T59	Term-diccionario 1558 1568	desarrollo
-#75	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 1688 1695	derecho
-#76	AnnotatorNotes T60 "Termcat"
-#77	AnnotatorNotes T10 "Termcat"
-T61	Term-diccionario 1305 1315	evaluación
-#78	AnnotatorNotes T61 "Termcat"
-#79	AnnotatorNotes T3 "Termcat"
-#80	AnnotatorNotes T27 "Termcat"
-#81	AnnotatorNotes T28 "Termcat"
-T62	Term-diccionario 494 500	cuenta
-#82	AnnotatorNotes T62 "Termcat"
-#83	AnnotatorNotes T11 "Termcat"
-#84	AnnotatorNotes T18 "Termcat"
-#85	AnnotatorNotes T17 "Termcat"
-T63	Term-diccionario 1651 1656	hecho
-#86	AnnotatorNotes T63 "Termcat"
-T64	Term-diccionario 1236 1246	garantizar
-#87	AnnotatorNotes T64 "Termcat"
-T65	Term-diccionario 1084 1091	materia
-#88	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 1621 1630	problemas
-#89	AnnotatorNotes T66 "Termcat"
-T67	Term-diccionario 708 715	régimen
-#90	AnnotatorNotes T67 "Termcat"
-T68	Term-diccionario 23 29	turnos
-#91	AnnotatorNotes T68 "Termcat"
-#92	AnnotatorNotes T25 "Termcat"
-T69	Term-diccionario 1506 1516	Prevención
-#93	AnnotatorNotes T69 "Termcat"
-T70	Term-automatico 1558 1568	desarrollo
-#94	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 44 56	organización
-#95	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 442 454	organización
-#96	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 326 330	días
-#97	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 752 756	días
-#98	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 949 953	días
-#99	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 431 434	día
-#100	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 974 996	trabajadores nocturnos
-#101	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 1255 1277	trabajadores nocturnos
-#102	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 1574 1596	trabajadores nocturnos
-#103	AnnotatorNotes T79 "AttentionRank"
-#104	AnnotatorNotes T77 "AttentionRank"
-#105	AnnotatorNotes T78 "AttentionRank"
-#106	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 1520 1527	Riesgos
-#107	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 610 632	adscripción voluntaria
-#108	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 1095 1100	salud
-#109	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 1341 1346	salud
-#110	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 1634 1639	salud
-#111	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 1548 1554	normas
-#112	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 741 749	domingos
-#113	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 303 310	periodo
-#114	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 1103 1112	seguridad
-#115	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1305 1315	evaluación
-#116	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 280 330	horas diferentes en un periodo determinado de días
-#117	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 365 385	procesos productivos
-#118	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 1376 1392	trabajo nocturno
-#119	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 1663 1679	trabajo nocturno
-#120	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 675 684	actividad
-#121	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 837 846	actividad
-#122	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 336 343	semanas
-#123	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 582 589	semanas
-#124	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 851 858	semanas
-#125	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 959 965	semana
-#126	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 1061 1066	nivel
-#127	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 267 276	servicios
-#128	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 72 78	equipo
-#129	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 794 801	equipos
-#130	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 912 919	equipos
-#131	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 97 109	trabajadores
-#132	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 805 817	trabajadores
-#133	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 974 986	trabajadores
-#134	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 1187 1199	trabajadores
-#135	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 1255 1267	trabajadores
-#136	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 1574 1586	trabajadores
-#137	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 228 238	trabajador
-#138	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 540 550	trabajador
-#139	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 142 149	puestos
-#140	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 1718 1724	puesto
-#141	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 352 360	empresas
-#142	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 638 646	empresas
-#143	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 1206 1213	empresa
-#144	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 1760 1767	empresa
-#145	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 280 285	horas
-#146	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 421 426	horas
-#147	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 1084 1091	materia
-#148	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 35 40	forma
-#149	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 565 570	noche
-#150	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 365 373	procesos
-#151	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 1070 1080	protección
-#152	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 1471 1474	Ley
-#153	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 1520 1537	Riesgos Laborales
-#154	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1047 1054	momento
-#155	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 1688 1695	derecho
-#156	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 1084 1100	materia de salud
-#157	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 23 29	turnos
-#158	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 474 480	turnos
-#159	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 719 725	turnos
-#160	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 1018 1024	turnos
-#161	AnnotatorNotes T134 "AttentionRank"
-T135	Term-automatico 884 892	personal
-#162	AnnotatorNotes T135 "AttentionRank"
-T136	Term-automatico 13 20	trabajo
-#163	AnnotatorNotes T136 "AttentionRank"
-T137	Term-automatico 61 68	trabajo
-#164	AnnotatorNotes T137 "AttentionRank"
-T138	Term-automatico 153 160	trabajo
-#165	AnnotatorNotes T138 "AttentionRank"
-T139	Term-automatico 459 466	trabajo
-#166	AnnotatorNotes T139 "AttentionRank"
-T140	Term-automatico 697 704	trabajo
-#167	AnnotatorNotes T140 "AttentionRank"
-T141	Term-automatico 1144 1151	trabajo
-#168	AnnotatorNotes T141 "AttentionRank"
-T142	Term-automatico 1376 1383	trabajo
-#169	AnnotatorNotes T142 "AttentionRank"
-T143	Term-automatico 1663 1670	trabajo
-#170	AnnotatorNotes T143 "AttentionRank"
-T144	Term-automatico 1728 1735	trabajo
-#171	AnnotatorNotes T144 "AttentionRank"
-T145	Term-automatico 242 251	necesidad
-#172	AnnotatorNotes T145 "AttentionRank"
-T146	Term-automatico 1218 1228	empresario
-#173	AnnotatorNotes T146 "AttentionRank"
-#174	AnnotatorNotes T48 "LabourLaw"
-#175	AnnotatorNotes T49 "LabourLaw"
-#176	AnnotatorNotes T50 "LabourLaw"
-#177	AnnotatorNotes T1 "LabourLaw"
-#178	AnnotatorNotes T2 "LabourLaw"
-T147	Term-diccionario 1728 1742	trabajo diurno
-#179	AnnotatorNotes T147 "LabourLaw"
-#180	AnnotatorNotes T11 "LabourLaw"
-#181	AnnotatorNotes T12 "LabourLaw"
-#182	AnnotatorNotes T13 "LabourLaw"
-#183	AnnotatorNotes T14 "LabourLaw"
-#184	AnnotatorNotes T15 "LabourLaw"
-#185	AnnotatorNotes T16 "LabourLaw"
-#186	AnnotatorNotes T17 "LabourLaw"
-#187	AnnotatorNotes T18 "LabourLaw"
-#188	AnnotatorNotes T19 "LabourLaw"
-T148	Term-diccionario 97 107	trabajador
-#189	AnnotatorNotes T148 "LabourLaw"
-T149	Term-diccionario 228 238	trabajador
-#190	AnnotatorNotes T149 "LabourLaw"
-T150	Term-diccionario 540 550	trabajador
-#191	AnnotatorNotes T150 "LabourLaw"
-T151	Term-diccionario 805 815	trabajador
-#192	AnnotatorNotes T151 "LabourLaw"
-T152	Term-diccionario 974 984	trabajador
-#193	AnnotatorNotes T152 "LabourLaw"
-T153	Term-diccionario 1187 1197	trabajador
-#194	AnnotatorNotes T153 "LabourLaw"
-T154	Term-diccionario 1255 1265	trabajador
-#195	AnnotatorNotes T154 "LabourLaw"
-T155	Term-diccionario 1574 1584	trabajador
-#196	AnnotatorNotes T155 "LabourLaw"
-#197	AnnotatorNotes T4 "LabourLaw"
-#198	AnnotatorNotes T5 "LabourLaw"
-#199	AnnotatorNotes T67 "LabourLaw"
-T156	Term-diccionario 1025 1030	deber
-#200	AnnotatorNotes T156 "LabourLaw"
-T157	Term-diccionario 1229 1234	deber
-#201	AnnotatorNotes T157 "LabourLaw"
-T158	Term-diccionario 1218 1228	empresario
-#202	AnnotatorNotes T158 "LabourLaw"
-#203	AnnotatorNotes T26 "LabourLaw"
-#204	AnnotatorNotes T10 "LabourLaw"
-T159	Term-diccionario 267 275	servicio
-#205	AnnotatorNotes T159 "LabourLaw"
-T160	Term-diccionario 352 359	empresa
-#206	AnnotatorNotes T160 "LabourLaw"
-T161	Term-diccionario 638 645	empresa
-#207	AnnotatorNotes T161 "LabourLaw"
-#208	AnnotatorNotes T22 "LabourLaw"
-T162	Term-diccionario 1218 1225	empresa
-#209	AnnotatorNotes T162 "LabourLaw"
-#210	AnnotatorNotes T23 "LabourLaw"
-#211	AnnotatorNotes T60 "LabourLaw"
-T163	Term-diccionario 1443 1450	término
-#212	AnnotatorNotes T163 "LabourLaw"
-#213	AnnotatorNotes T32 "LabourLaw"
-T164	Term-diccionario 303 310	periodo
-#214	AnnotatorNotes T164 "LabourLaw"
-#215	AnnotatorNotes T25 "LabourLaw"
-T165	Term-diccionario 884 891	persona
-#216	AnnotatorNotes T165 "LabourLaw"
-T166	Term-diccionario 23 28	turno
-#217	AnnotatorNotes T166 "LabourLaw"
-T167	Term-diccionario 474 479	turno
-#218	AnnotatorNotes T167 "LabourLaw"
-T168	Term-diccionario 719 724	turno
-#219	AnnotatorNotes T168 "LabourLaw"
-T169	Term-diccionario 990 995	turno
-#220	AnnotatorNotes T169 "LabourLaw"
-T170	Term-diccionario 1018 1023	turno
-#221	AnnotatorNotes T170 "LabourLaw"
-T171	Term-diccionario 1271 1276	turno
-#222	AnnotatorNotes T171 "LabourLaw"
-T172	Term-diccionario 1387 1392	turno
-#223	AnnotatorNotes T172 "LabourLaw"
-T173	Term-diccionario 1590 1595	turno
-#224	AnnotatorNotes T173 "LabourLaw"
-T174	Term-diccionario 1674 1679	turno
-#225	AnnotatorNotes T174 "LabourLaw"
-#226	AnnotatorNotes T61 "IATE"
-#227	AnnotatorNotes T26 "IATE"
-T175	Term-diccionario 1047 1054	momento
-#228	AnnotatorNotes T175 "IATE"
-#229	AnnotatorNotes T9 "IATE"
-#230	AnnotatorNotes T25 "IATE"
-#231	AnnotatorNotes T20 "IATE"
-#232	AnnotatorNotes T21 "IATE"
-#233	AnnotatorNotes T22 "IATE"
-#234	AnnotatorNotes T23 "IATE"
-#235	AnnotatorNotes T158 "IATE"
-T176	Term-diccionario 97 109	trabajadores
-#236	AnnotatorNotes T176 "IATE"
-T177	Term-diccionario 805 817	trabajadores
-#237	AnnotatorNotes T177 "IATE"
-T178	Term-diccionario 974 986	trabajadores
-#238	AnnotatorNotes T178 "IATE"
-T179	Term-diccionario 1187 1199	trabajadores
-#239	AnnotatorNotes T179 "IATE"
-T180	Term-diccionario 1255 1267	trabajadores
-#240	AnnotatorNotes T180 "IATE"
-T181	Term-diccionario 1574 1586	trabajadores
-#241	AnnotatorNotes T181 "IATE"
-#242	AnnotatorNotes T149 "IATE"
-#243	AnnotatorNotes T150 "IATE"
-#244	AnnotatorNotes T3 "IATE"
-#245	AnnotatorNotes T35 "IATE"
-#246	AnnotatorNotes T65 "IATE"
-#247	AnnotatorNotes T10 "IATE"
-#248	AnnotatorNotes T27 "IATE"
-#249	AnnotatorNotes T28 "IATE"
-#250	AnnotatorNotes T45 "IATE"
-#251	AnnotatorNotes T47 "IATE"
-#252	AnnotatorNotes T46 "IATE"
+T1	Term-DPEJ 1376 1392	trabajo nocturno
+T2	Term-DPEJ 1663 1679	trabajo nocturno
+T3	Term-DPEJ 365 373	procesos
+T4	Term-DPEJ 44 56	organización
+T5	Term-DPEJ 442 454	organización
+T6	Term-DPEJ 1095 1100	salud
+T7	Term-DPEJ 1341 1346	salud
+T8	Term-DPEJ 1634 1639	salud
+T9	Term-DPEJ 1061 1066	nivel
+T10	Term-DPEJ 1103 1112	seguridad
+T11	Term-DPEJ 13 20	trabajo
+T12	Term-DPEJ 61 68	trabajo
+T13	Term-DPEJ 153 160	trabajo
+T14	Term-DPEJ 459 466	trabajo
+T15	Term-DPEJ 697 704	trabajo
+T16	Term-DPEJ 1144 1151	trabajo
+T17	Term-DPEJ 1376 1383	trabajo
+T18	Term-DPEJ 1663 1670	trabajo
+T19	Term-DPEJ 1728 1735	trabajo
+T20	Term-DPEJ 352 360	empresas
+T21	Term-DPEJ 638 646	empresas
+T22	Term-DPEJ 1206 1213	empresa
+T23	Term-DPEJ 1760 1767	empresa
+T24	Term-DPEJ 35 40	forma
+T25	Term-DPEJ 1520 1527	Riesgos
+T26	Term-DPEJ 1070 1080	protección
+T27	Term-DPEJ 675 684	actividad
+T28	Term-DPEJ 837 846	actividad
+T29	Term-DPEJ 1520 1537	Riesgos Laborales
+T30	Term-DPEJ 1471 1474	Ley
+T31	Term-DPEJ 13 29	trabajo a turnos
+T32	Term-DPEJ 884 892	personal
+T33	Term-DPEJ 142 149	puestos
+T34	Term-DPEJ 1718 1724	puesto
+T35	Term-DPEJ 565 570	noche
+T36	Term-DPEJ 267 276	servicios
+T37	Term-DPEJ 1548 1554	normas
+T38	Term-Termcat 610 621	adscripción
+T39	Term-Termcat 1360 1370	afectación
+T40	Term-Termcat 1331 1337	estado
+T41	Term-Termcat 1061 1066	nivel
+T42	Term-Termcat 267 276	servicios
+T43	Term-Termcat 1443 1451	términos
+T44	Term-Termcat 785 789	bien
+T45	Term-Termcat 35 40	forma
+T46	Term-Termcat 1471 1474	Ley
+T47	Term-Termcat 1548 1554	normas
+T48	Term-Termcat 242 251	necesidad
+T49	Term-Termcat 752 765	días festivos
+T50	Term-Termcat 352 360	empresas
+T51	Term-Termcat 638 646	empresas
+T52	Term-Termcat 1760 1767	empresa
+T53	Term-Termcat 1206 1213	empresa
+T54	Term-Termcat 72 78	equipo
+T55	Term-Termcat 912 919	equipos
+T56	Term-Termcat 794 801	equipos
+T57	Term-Termcat 153 160	trabajo
+T58	Term-Termcat 697 704	trabajo
+T59	Term-Termcat 1144 1151	trabajo
+T60	Term-Termcat 1718 1735	puesto de trabajo
+T61	Term-Termcat 44 68	organización del trabajo
+T62	Term-Termcat 442 466	organización del trabajo
+T63	Term-Termcat 884 892	personal
+T64	Term-Termcat 1506 1537	Prevención de Riesgos Laborales
+T65	Term-Termcat 336 343	semanas
+T66	Term-Termcat 851 858	semanas
+T67	Term-Termcat 582 589	semanas
+T68	Term-Termcat 959 965	semana
+T69	Term-Termcat 719 725	turnos
+T70	Term-Termcat 474 480	turnos
+T71	Term-Termcat 1018 1024	turnos
+T72	Term-Termcat 1376 1392	trabajo nocturno
+T73	Term-Termcat 1663 1679	trabajo nocturno
+T74	Term-Termcat 13 29	trabajo a turnos
+T75	Term-Termcat 1558 1568	desarrollo
+T76	Term-Termcat 1688 1695	derecho
+T77	Term-Termcat 1103 1112	seguridad
+T78	Term-Termcat 1305 1315	evaluación
+T79	Term-Termcat 365 373	procesos
+T80	Term-Termcat 675 684	actividad
+T81	Term-Termcat 837 846	actividad
+T82	Term-Termcat 494 500	cuenta
+T83	Term-Termcat 13 20	trabajo
+T84	Term-Termcat 1663 1670	trabajo
+T85	Term-Termcat 1376 1383	trabajo
+T86	Term-Termcat 1651 1656	hecho
+T87	Term-Termcat 1236 1246	garantizar
+T88	Term-Termcat 1084 1091	materia
+T89	Term-Termcat 1621 1630	problemas
+T90	Term-Termcat 708 715	régimen
+T91	Term-Termcat 23 29	turnos
+T92	Term-Termcat 1520 1527	Riesgos
+T93	Term-Termcat 1506 1516	Prevención
+T94	Term-DV 1376 1392	trabajo nocturno
+T95	Term-DV 1663 1679	trabajo nocturno
+T96	Term-DV 100 104	baja
+T97	Term-DV 231 235	baja
+T98	Term-DV 543 547	baja
+T99	Term-DV 808 812	baja
+T100	Term-DV 977 981	baja
+T101	Term-DV 1190 1194	baja
+T102	Term-DV 1258 1262	baja
+T103	Term-DV 1577 1581	baja
+T104	Term-DV 785 789	bien
+T105	Term-DV 1025 1029	debe
+T106	Term-DV 1229 1233	debe
+T107	Term-DV 1688 1695	derecho
+T108	Term-DV 326 329	día
+T109	Term-DV 431 434	día
+T110	Term-DV 752 755	día
+T111	Term-DV 949 952	día
+T112	Term-DV 352 359	empresa
+T113	Term-DV 638 645	empresa
+T114	Term-DV 1206 1213	empresa
+T115	Term-DV 1218 1225	empresa
+T116	Term-DV 1760 1767	empresa
+T117	Term-DV 1218 1228	empresario
+T118	Term-DV 288 290	fe
+T119	Term-DV 757 759	fe
+T120	Term-DV 775 777	fe
+T121	Term-DV 1361 1363	fe
+T122	Term-DV 1790 1792	fe
+T123	Term-DV 35 40	forma
+T124	Term-DV 1651 1656	hecho
+T125	Term-DV 1429 1434	lares
+T126	Term-DV 242 251	necesidad
+T127	Term-DV 1548 1553	norma
+T128	Term-DV 220 224	para
+T129	Term-DV 893 897	para
+T130	Term-DV 1770 1774	para
+T131	Term-DV 884 891	persona
+T132	Term-DV 884 892	personal
+T133	Term-DV 211 216	plica
+T134	Term-DV 365 372	proceso
+T135	Term-DV 1787 1798	profesional
+T136	Term-DV 685 689	real
+T137	Term-DV 708 715	régimen
+T138	Term-DV 267 275	servicio
+T139	Term-DV 97 107	trabajador
+T140	Term-DV 228 238	trabajador
+T141	Term-DV 540 550	trabajador
+T142	Term-DV 805 815	trabajador
+T143	Term-DV 974 984	trabajador
+T144	Term-DV 1187 1197	trabajador
+T145	Term-DV 1255 1265	trabajador
+T146	Term-DV 1574 1584	trabajador
+T147	Term-DV 1159 1163	vale
+T148	Term-DV 1306 1315	valuación
+T149	Term-DV 1748 1749	x
+T150	Term-AttentionRank 1558 1568	desarrollo
+T151	Term-AttentionRank 44 56	organización
+T152	Term-AttentionRank 442 454	organización
+T153	Term-AttentionRank 326 330	días
+T154	Term-AttentionRank 752 756	días
+T155	Term-AttentionRank 949 953	días
+T156	Term-AttentionRank 431 434	día
+T157	Term-AttentionRank 974 996	trabajadores nocturnos
+T158	Term-AttentionRank 1255 1277	trabajadores nocturnos
+T159	Term-AttentionRank 1574 1596	trabajadores nocturnos
+T160	Term-AttentionRank 974 996	trabajadores nocturnos
+T161	Term-AttentionRank 1255 1277	trabajadores nocturnos
+T162	Term-AttentionRank 1574 1596	trabajadores nocturnos
+T163	Term-AttentionRank 1520 1527	Riesgos
+T164	Term-AttentionRank 610 632	adscripción voluntaria
+T165	Term-AttentionRank 1095 1100	salud
+T166	Term-AttentionRank 1341 1346	salud
+T167	Term-AttentionRank 1634 1639	salud
+T168	Term-AttentionRank 1548 1554	normas
+T169	Term-AttentionRank 741 749	domingos
+T170	Term-AttentionRank 303 310	periodo
+T171	Term-AttentionRank 1103 1112	seguridad
+T172	Term-AttentionRank 1305 1315	evaluación
+T173	Term-AttentionRank 280 330	horas diferentes en un periodo determinado de días
+T174	Term-AttentionRank 365 385	procesos productivos
+T175	Term-AttentionRank 1376 1392	trabajo nocturno
+T176	Term-AttentionRank 1663 1679	trabajo nocturno
+T177	Term-AttentionRank 675 684	actividad
+T178	Term-AttentionRank 837 846	actividad
+T179	Term-AttentionRank 336 343	semanas
+T180	Term-AttentionRank 582 589	semanas
+T181	Term-AttentionRank 851 858	semanas
+T182	Term-AttentionRank 959 965	semana
+T183	Term-AttentionRank 1061 1066	nivel
+T184	Term-AttentionRank 267 276	servicios
+T185	Term-AttentionRank 72 78	equipo
+T186	Term-AttentionRank 794 801	equipos
+T187	Term-AttentionRank 912 919	equipos
+T188	Term-AttentionRank 97 109	trabajadores
+T189	Term-AttentionRank 805 817	trabajadores
+T190	Term-AttentionRank 974 986	trabajadores
+T191	Term-AttentionRank 1187 1199	trabajadores
+T192	Term-AttentionRank 1255 1267	trabajadores
+T193	Term-AttentionRank 1574 1586	trabajadores
+T194	Term-AttentionRank 228 238	trabajador
+T195	Term-AttentionRank 540 550	trabajador
+T196	Term-AttentionRank 142 149	puestos
+T197	Term-AttentionRank 1718 1724	puesto
+T198	Term-AttentionRank 352 360	empresas
+T199	Term-AttentionRank 638 646	empresas
+T200	Term-AttentionRank 1206 1213	empresa
+T201	Term-AttentionRank 1760 1767	empresa
+T202	Term-AttentionRank 280 285	horas
+T203	Term-AttentionRank 421 426	horas
+T204	Term-AttentionRank 1084 1091	materia
+T205	Term-AttentionRank 35 40	forma
+T206	Term-AttentionRank 565 570	noche
+T207	Term-AttentionRank 365 373	procesos
+T208	Term-AttentionRank 1070 1080	protección
+T209	Term-AttentionRank 1471 1474	Ley
+T210	Term-AttentionRank 1520 1537	Riesgos Laborales
+T211	Term-AttentionRank 1047 1054	momento
+T212	Term-AttentionRank 1688 1695	derecho
+T213	Term-AttentionRank 1084 1100	materia de salud
+T214	Term-AttentionRank 23 29	turnos
+T215	Term-AttentionRank 474 480	turnos
+T216	Term-AttentionRank 719 725	turnos
+T217	Term-AttentionRank 1018 1024	turnos
+T218	Term-AttentionRank 884 892	personal
+T219	Term-AttentionRank 13 20	trabajo
+T220	Term-AttentionRank 61 68	trabajo
+T221	Term-AttentionRank 153 160	trabajo
+T222	Term-AttentionRank 459 466	trabajo
+T223	Term-AttentionRank 697 704	trabajo
+T224	Term-AttentionRank 1144 1151	trabajo
+T225	Term-AttentionRank 1376 1383	trabajo
+T226	Term-AttentionRank 1663 1670	trabajo
+T227	Term-AttentionRank 1728 1735	trabajo
+T228	Term-AttentionRank 242 251	necesidad
+T229	Term-AttentionRank 1218 1228	empresario
+T230	Term-LabourLaw 1718 1735	puesto de trabajo
+T231	Term-LabourLaw 44 68	organización del trabajo
+T232	Term-LabourLaw 442 466	organización del trabajo
+T233	Term-LabourLaw 1376 1392	trabajo nocturno
+T234	Term-LabourLaw 1663 1679	trabajo nocturno
+T235	Term-LabourLaw 1728 1742	trabajo diurno
+T236	Term-LabourLaw 13 20	trabajo
+T237	Term-LabourLaw 61 68	trabajo
+T238	Term-LabourLaw 153 160	trabajo
+T239	Term-LabourLaw 459 466	trabajo
+T240	Term-LabourLaw 697 704	trabajo
+T241	Term-LabourLaw 1144 1151	trabajo
+T242	Term-LabourLaw 1376 1383	trabajo
+T243	Term-LabourLaw 1663 1670	trabajo
+T244	Term-LabourLaw 1728 1735	trabajo
+T245	Term-LabourLaw 97 107	trabajador
+T246	Term-LabourLaw 228 238	trabajador
+T247	Term-LabourLaw 540 550	trabajador
+T248	Term-LabourLaw 805 815	trabajador
+T249	Term-LabourLaw 974 984	trabajador
+T250	Term-LabourLaw 1187 1197	trabajador
+T251	Term-LabourLaw 1255 1265	trabajador
+T252	Term-LabourLaw 1574 1584	trabajador
+T253	Term-LabourLaw 44 56	organización
+T254	Term-LabourLaw 442 454	organización
+T255	Term-LabourLaw 708 715	régimen
+T256	Term-LabourLaw 1025 1030	deber
+T257	Term-LabourLaw 1229 1234	deber
+T258	Term-LabourLaw 1218 1228	empresario
+T259	Term-LabourLaw 1070 1080	protección
+T260	Term-LabourLaw 1103 1112	seguridad
+T261	Term-LabourLaw 267 275	servicio
+T262	Term-LabourLaw 352 359	empresa
+T263	Term-LabourLaw 638 645	empresa
+T264	Term-LabourLaw 1206 1213	empresa
+T265	Term-LabourLaw 1218 1225	empresa
+T266	Term-LabourLaw 1760 1767	empresa
+T267	Term-LabourLaw 1688 1695	derecho
+T268	Term-LabourLaw 1443 1450	término
+T269	Term-LabourLaw 884 892	personal
+T270	Term-LabourLaw 303 310	periodo
+T271	Term-LabourLaw 1520 1527	Riesgos
+T272	Term-LabourLaw 884 891	persona
+T273	Term-LabourLaw 23 28	turno
+T274	Term-LabourLaw 474 479	turno
+T275	Term-LabourLaw 719 724	turno
+T276	Term-LabourLaw 990 995	turno
+T277	Term-LabourLaw 1018 1023	turno
+T278	Term-LabourLaw 1271 1276	turno
+T279	Term-LabourLaw 1387 1392	turno
+T280	Term-LabourLaw 1590 1595	turno
+T281	Term-LabourLaw 1674 1679	turno
+T282	Term-IATE 1305 1315	evaluación
+T283	Term-IATE 1070 1080	protección
+T284	Term-IATE 1047 1054	momento
+T285	Term-IATE 1061 1066	nivel
+T286	Term-IATE 1520 1527	Riesgos
+T287	Term-IATE 352 360	empresas
+T288	Term-IATE 638 646	empresas
+T289	Term-IATE 1206 1213	empresa
+T290	Term-IATE 1760 1767	empresa
+T291	Term-IATE 1218 1228	empresario
+T292	Term-IATE 97 109	trabajadores
+T293	Term-IATE 805 817	trabajadores
+T294	Term-IATE 974 986	trabajadores
+T295	Term-IATE 1187 1199	trabajadores
+T296	Term-IATE 1255 1267	trabajadores
+T297	Term-IATE 1574 1586	trabajadores
+T298	Term-IATE 228 238	trabajador
+T299	Term-IATE 540 550	trabajador
+T300	Term-IATE 365 373	procesos
+T301	Term-IATE 565 570	noche
+T302	Term-IATE 1084 1091	materia
+T303	Term-IATE 1103 1112	seguridad
+T304	Term-IATE 675 684	actividad
+T305	Term-IATE 837 846	actividad
+T306	Term-IATE 72 78	equipo
+T307	Term-IATE 794 801	equipos
+T308	Term-IATE 912 919	equipos

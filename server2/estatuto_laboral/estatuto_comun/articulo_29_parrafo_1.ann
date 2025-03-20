@@ -1,384 +1,296 @@
-T1	Term-diccionario 736 743	acuerdo
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 654 660	Empleo
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 663 672	Seguridad
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 423 430	trabajo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 1051 1059	trabajos
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 753 760	empresa
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 695 703	convenio
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 32 39	salario
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 466 473	salario
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 1277 1284	salario
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 1689 1696	salario
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 594 602	salarios
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 994 1002	salarios
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 89 94	lugar
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 1216 1225	garantías
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 1157 1166	actividad
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 695 713	convenio colectivo
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 156 162	tiempo
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 400 409	anticipos
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 1038 1047	servicios
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 1499 1502	año
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 1245 1253	artículo
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 285 297	autorización
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 81 86	fecha
-#24	AnnotatorNotes T24 "DPEJ"
-#25	AnnotatorNotes T7 "Termcat"
-T25	Term-diccionario 130 140	costumbres
-#26	AnnotatorNotes T25 "Termcat"
-T26	Term-diccionario 640 650	Ministerio
-#27	AnnotatorNotes T26 "Termcat"
-#28	AnnotatorNotes T20 "Termcat"
-T27	Term-diccionario 1477 1481	cosa
-#29	AnnotatorNotes T27 "Termcat"
-#30	AnnotatorNotes T15 "Termcat"
-T28	Term-diccionario 1657 1664	interés
-#31	AnnotatorNotes T28 "Termcat"
-T29	Term-diccionario 975 986	liquidación
-#32	AnnotatorNotes T29 "Termcat"
-T30	Term-diccionario 6 17	liquidación
-#33	AnnotatorNotes T30 "Termcat"
-T31	Term-diccionario 1669 1673	mora
-#34	AnnotatorNotes T31 "Termcat"
-T32	Term-diccionario 1344 1351	negocio
-#35	AnnotatorNotes T32 "Termcat"
-T33	Term-diccionario 23 27	pago
-#36	AnnotatorNotes T33 "Termcat"
-T34	Term-diccionario 565 569	pago
-#37	AnnotatorNotes T34 "Termcat"
-T35	Term-diccionario 394 398	pago
-#38	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 1680 1684	pago
-#39	AnnotatorNotes T36 "Termcat"
-T37	Term-diccionario 527 533	recibo
-#40	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 584 590	recibo
-#41	AnnotatorNotes T38 "Termcat"
-T39	Term-diccionario 767 781	representantes
-#42	AnnotatorNotes T39 "Termcat"
-T40	Term-diccionario 1524 1538	representantes
-#43	AnnotatorNotes T40 "Termcat"
-T41	Term-diccionario 303 317	representantes
-#44	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 123 127	usos
-#45	AnnotatorNotes T42 "Termcat"
-#46	AnnotatorNotes T22 "Termcat"
-#47	AnnotatorNotes T19 "Termcat"
-T43	Term-diccionario 1615 1621	libros
-#48	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 1205 1213	trámites
-#49	AnnotatorNotes T44 "Termcat"
-T45	Term-diccionario 1602 1607	parte
-#50	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 1287 1295	comisión
-#51	AnnotatorNotes T46 "Termcat"
-#52	AnnotatorNotes T17 "Termcat"
-#53	AnnotatorNotes T6 "Termcat"
-#54	AnnotatorNotes T4 "Termcat"
-#55	AnnotatorNotes T5 "Termcat"
-#56	AnnotatorNotes T2 "Termcat"
-T47	Term-diccionario 1641 1649	devengos
-#57	AnnotatorNotes T47 "Termcat"
-#58	AnnotatorNotes T9 "Termcat"
-#59	AnnotatorNotes T10 "Termcat"
-#60	AnnotatorNotes T8 "Termcat"
-#61	AnnotatorNotes T11 "Termcat"
-#62	AnnotatorNotes T13 "Termcat"
-#63	AnnotatorNotes T12 "Termcat"
-T48	Term-diccionario 663 679	Seguridad Social
-#64	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 1127 1137	conclusión
-#65	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1266 1273	derecho
-#66	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 335 342	derecho
-#67	AnnotatorNotes T51 "Termcat"
-#68	AnnotatorNotes T3 "Termcat"
-#69	AnnotatorNotes T23 "Termcat"
-T52	Term-diccionario 183 188	abono
-#70	AnnotatorNotes T52 "Termcat"
-#71	AnnotatorNotes T1 "Termcat"
-#72	AnnotatorNotes T16 "Termcat"
-T53	Term-diccionario 1356 1366	colocación
-#73	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 412 418	cuenta
-#74	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 108 116	conforme
-#75	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 534 544	individual
-#76	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 1539 1546	legales
-#77	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 318 325	legales
-#78	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 499 506	entrega
-#79	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 1277 1295	salario a comisión
-#80	AnnotatorNotes T60 "Termcat"
-T61	Term-diccionario 867 877	separación
-#81	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 123 140	usos y costumbres
-#82	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 1369 1374	venta
-#83	AnnotatorNotes T63 "Termcat"
-T64	Term-diccionario 448 461	documentación
-#84	AnnotatorNotes T64 "Termcat"
-T65	Term-diccionario 1524 1546	representantes legales
-#85	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 303 325	representantes legales
-#86	AnnotatorNotes T66 "Termcat"
-T67	Term-automatico 156 162	tiempo
-#87	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 654 660	Empleo
-#88	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 303 317	representantes
-#89	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 767 781	representantes
-#90	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 1524 1538	representantes
-#91	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 736 760	acuerdo entre la empresa
-#92	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 1602 1607	parte
-#93	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 303 325	representantes legales
-#94	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 1524 1546	representantes legales
-#95	AnnotatorNotes T75 "AttentionRank"
-#96	AnnotatorNotes T74 "AttentionRank"
-#97	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 736 743	acuerdo
-#98	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 1499 1502	año
-#99	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 373 376	día
-#100	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 423 443	trabajo ya realizado
-#101	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 145 152	periodo
-#102	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 1146 1153	periodo
-#103	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 123 127	usos
-#104	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 527 533	recibo
-#105	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 584 590	recibo
-#106	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 663 672	Seguridad
-#107	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1074 1082	carácter
-#108	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 196 220	retribuciones periódicas
-#109	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 922 925	así
-#110	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 81 86	fecha
-#111	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 1245 1253	artículo
-#112	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 183 188	abono
-#113	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 1114 1123	supuestos
-#114	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 256 259	mes
-#115	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 695 703	convenio
-#116	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 89 94	lugar
-#117	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 1635 1640	tales
-#118	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 1157 1166	actividad
-#119	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 1216 1225	garantías
-#120	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 1038 1047	servicios
-#121	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 264 274	trabajador
-#122	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 510 520	trabajador
-#123	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 910 920	trabajador
-#124	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 1405 1415	trabajador
-#125	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 1507 1517	trabajador
-#126	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 789 801	trabajadores
-#127	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 1287 1295	comisión
-#128	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 753 760	empresa
-#129	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 663 679	Seguridad Social
-#130	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 32 39	salario
-#131	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 466 473	salario
-#132	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 1277 1284	salario
-#133	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 1689 1696	salario
-#134	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 594 602	salarios
-#135	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 994 1002	salarios
-#136	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 1309 1316	momento
-#137	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 1573 1580	momento
-#138	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 1727 1735	adeudado
-#139	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 400 409	anticipos
-#140	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 335 342	derecho
-#141	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 1266 1273	derecho
-#142	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 23 27	pago
-#143	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 394 398	pago
-#144	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 565 569	pago
-#145	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 1680 1684	pago
-#146	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 695 713	convenio colectivo
-#147	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 373 398	día señalado para el pago
-#148	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 6 17	liquidación
-#149	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 975 986	liquidación
-#150	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 423 430	trabajo
-#151	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 1051 1059	trabajos
-#152	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 130 140	costumbres
-#153	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 285 297	autorización
-#154	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 1086 1105	fijos- discontinuos
-#155	AnnotatorNotes T133 "AttentionRank"
-#156	AnnotatorNotes T62 "LabourLaw"
-T134	Term-diccionario 1266 1284	derecho al salario
-#157	AnnotatorNotes T134 "LabourLaw"
-#158	AnnotatorNotes T17 "LabourLaw"
-T135	Term-diccionario 242 249	exceder
-#159	AnnotatorNotes T135 "LabourLaw"
-#160	AnnotatorNotes T4 "LabourLaw"
-T136	Term-diccionario 1051 1058	trabajo
-#161	AnnotatorNotes T136 "LabourLaw"
-#162	AnnotatorNotes T8 "LabourLaw"
-#163	AnnotatorNotes T9 "LabourLaw"
-T137	Term-diccionario 594 601	salario
-#164	AnnotatorNotes T137 "LabourLaw"
-T138	Term-diccionario 994 1001	salario
-#165	AnnotatorNotes T138 "LabourLaw"
-#166	AnnotatorNotes T10 "LabourLaw"
-#167	AnnotatorNotes T11 "LabourLaw"
-#168	AnnotatorNotes T46 "LabourLaw"
-T139	Term-diccionario 303 316	representante
-#169	AnnotatorNotes T139 "LabourLaw"
-T140	Term-diccionario 767 780	representante
-#170	AnnotatorNotes T140 "LabourLaw"
-T141	Term-diccionario 1524 1537	representante
-#171	AnnotatorNotes T141 "LabourLaw"
-T142	Term-diccionario 264 274	trabajador
-#172	AnnotatorNotes T142 "LabourLaw"
-T143	Term-diccionario 510 520	trabajador
-#173	AnnotatorNotes T143 "LabourLaw"
-T144	Term-diccionario 789 799	trabajador
-#174	AnnotatorNotes T144 "LabourLaw"
-T145	Term-diccionario 910 920	trabajador
-#175	AnnotatorNotes T145 "LabourLaw"
-T146	Term-diccionario 1405 1415	trabajador
-#176	AnnotatorNotes T146 "LabourLaw"
-T147	Term-diccionario 1507 1517	trabajador
-#177	AnnotatorNotes T147 "LabourLaw"
-#178	AnnotatorNotes T23 "LabourLaw"
-#179	AnnotatorNotes T30 "LabourLaw"
-#180	AnnotatorNotes T29 "LabourLaw"
-T148	Term-diccionario 723 730	defecto
-#181	AnnotatorNotes T148 "LabourLaw"
-T149	Term-diccionario 1038 1046	servicio
-#182	AnnotatorNotes T149 "LabourLaw"
-#183	AnnotatorNotes T6 "LabourLaw"
-#184	AnnotatorNotes T51 "LabourLaw"
-#185	AnnotatorNotes T50 "LabourLaw"
-#186	AnnotatorNotes T19 "LabourLaw"
-T150	Term-diccionario 704 713	colectivo
-#187	AnnotatorNotes T150 "LabourLaw"
-T151	Term-diccionario 145 152	periodo
-#188	AnnotatorNotes T151 "LabourLaw"
-T152	Term-diccionario 1146 1153	periodo
-#189	AnnotatorNotes T152 "LabourLaw"
-T153	Term-diccionario 1309 1316	momento
-#190	AnnotatorNotes T153 "IATE"
-T154	Term-diccionario 1573 1580	momento
-#191	AnnotatorNotes T154 "IATE"
-#192	AnnotatorNotes T45 "IATE"
-#193	AnnotatorNotes T22 "IATE"
-#194	AnnotatorNotes T1 "IATE"
-#195	AnnotatorNotes T6 "IATE"
-#196	AnnotatorNotes T8 "IATE"
-#197	AnnotatorNotes T9 "IATE"
-#198	AnnotatorNotes T10 "IATE"
-#199	AnnotatorNotes T11 "IATE"
-#200	AnnotatorNotes T12 "IATE"
-#201	AnnotatorNotes T13 "IATE"
-#202	AnnotatorNotes T23 "IATE"
-#203	AnnotatorNotes T15 "IATE"
-#204	AnnotatorNotes T52 "IATE"
-#205	AnnotatorNotes T142 "IATE"
-#206	AnnotatorNotes T143 "IATE"
-#207	AnnotatorNotes T145 "IATE"
-#208	AnnotatorNotes T146 "IATE"
-#209	AnnotatorNotes T147 "IATE"
-T155	Term-diccionario 789 801	trabajadores
-#210	AnnotatorNotes T155 "IATE"
-#211	AnnotatorNotes T30 "IATE"
-#212	AnnotatorNotes T29 "IATE"
-#213	AnnotatorNotes T33 "IATE"
-#214	AnnotatorNotes T35 "IATE"
-#215	AnnotatorNotes T34 "IATE"
-#216	AnnotatorNotes T36 "IATE"
-#217	AnnotatorNotes T2 "IATE"
-#218	AnnotatorNotes T3 "IATE"
-#219	AnnotatorNotes T16 "IATE"
-T156	Term-diccionario 1074 1082	carácter
-#220	AnnotatorNotes T156 "IATE"
-#221	AnnotatorNotes T19 "IATE"
-#222	AnnotatorNotes T46 "IATE"
-#223	AnnotatorNotes T41 "IATE"
-#224	AnnotatorNotes T39 "IATE"
-#225	AnnotatorNotes T40 "IATE"
-#226	AnnotatorNotes T7 "IATE"
-T157	Term-diccionario 256 259	mes
-#227	AnnotatorNotes T157 "IATE"
+T1	Term-DPEJ 736 743	acuerdo
+T2	Term-DPEJ 654 660	Empleo
+T3	Term-DPEJ 663 672	Seguridad
+T4	Term-DPEJ 423 430	trabajo
+T5	Term-DPEJ 1051 1059	trabajos
+T6	Term-DPEJ 753 760	empresa
+T7	Term-DPEJ 695 703	convenio
+T8	Term-DPEJ 32 39	salario
+T9	Term-DPEJ 466 473	salario
+T10	Term-DPEJ 1277 1284	salario
+T11	Term-DPEJ 1689 1696	salario
+T12	Term-DPEJ 594 602	salarios
+T13	Term-DPEJ 994 1002	salarios
+T14	Term-DPEJ 89 94	lugar
+T15	Term-DPEJ 1216 1225	garantías
+T16	Term-DPEJ 1157 1166	actividad
+T17	Term-DPEJ 695 713	convenio colectivo
+T18	Term-DPEJ 156 162	tiempo
+T19	Term-DPEJ 400 409	anticipos
+T20	Term-DPEJ 1038 1047	servicios
+T21	Term-DPEJ 1499 1502	año
+T22	Term-DPEJ 1245 1253	artículo
+T23	Term-DPEJ 285 297	autorización
+T24	Term-DPEJ 81 86	fecha
+T25	Term-Termcat 695 703	convenio
+T26	Term-Termcat 130 140	costumbres
+T27	Term-Termcat 640 650	Ministerio
+T28	Term-Termcat 1038 1047	servicios
+T29	Term-Termcat 1477 1481	cosa
+T30	Term-Termcat 1216 1225	garantías
+T31	Term-Termcat 1657 1664	interés
+T32	Term-Termcat 975 986	liquidación
+T33	Term-Termcat 6 17	liquidación
+T34	Term-Termcat 1669 1673	mora
+T35	Term-Termcat 1344 1351	negocio
+T36	Term-Termcat 23 27	pago
+T37	Term-Termcat 565 569	pago
+T38	Term-Termcat 394 398	pago
+T39	Term-Termcat 1680 1684	pago
+T40	Term-Termcat 527 533	recibo
+T41	Term-Termcat 584 590	recibo
+T42	Term-Termcat 767 781	representantes
+T43	Term-Termcat 1524 1538	representantes
+T44	Term-Termcat 303 317	representantes
+T45	Term-Termcat 123 127	usos
+T46	Term-Termcat 1245 1253	artículo
+T47	Term-Termcat 400 409	anticipos
+T48	Term-Termcat 1615 1621	libros
+T49	Term-Termcat 1205 1213	trámites
+T50	Term-Termcat 1602 1607	parte
+T51	Term-Termcat 1287 1295	comisión
+T52	Term-Termcat 695 713	convenio colectivo
+T53	Term-Termcat 753 760	empresa
+T54	Term-Termcat 423 430	trabajo
+T55	Term-Termcat 1051 1059	trabajos
+T56	Term-Termcat 654 660	Empleo
+T57	Term-Termcat 1641 1649	devengos
+T58	Term-Termcat 466 473	salario
+T59	Term-Termcat 1277 1284	salario
+T60	Term-Termcat 32 39	salario
+T61	Term-Termcat 1689 1696	salario
+T62	Term-Termcat 994 1002	salarios
+T63	Term-Termcat 594 602	salarios
+T64	Term-Termcat 663 679	Seguridad Social
+T65	Term-Termcat 1127 1137	conclusión
+T66	Term-Termcat 1266 1273	derecho
+T67	Term-Termcat 335 342	derecho
+T68	Term-Termcat 663 672	Seguridad
+T69	Term-Termcat 285 297	autorización
+T70	Term-Termcat 183 188	abono
+T71	Term-Termcat 736 743	acuerdo
+T72	Term-Termcat 1157 1166	actividad
+T73	Term-Termcat 1356 1366	colocación
+T74	Term-Termcat 412 418	cuenta
+T75	Term-Termcat 108 116	conforme
+T76	Term-Termcat 534 544	individual
+T77	Term-Termcat 1539 1546	legales
+T78	Term-Termcat 318 325	legales
+T79	Term-Termcat 499 506	entrega
+T80	Term-Termcat 1277 1295	salario a comisión
+T81	Term-Termcat 867 877	separación
+T82	Term-Termcat 123 140	usos y costumbres
+T83	Term-Termcat 1369 1374	venta
+T84	Term-Termcat 448 461	documentación
+T85	Term-Termcat 1524 1546	representantes legales
+T86	Term-Termcat 303 325	representantes legales
+T87	Term-DV 410 418	a cuenta
+T88	Term-DV 183 188	abono
+T89	Term-DV 267 271	baja
+T90	Term-DV 513 517	baja
+T91	Term-DV 792 796	baja
+T92	Term-DV 913 917	baja
+T93	Term-DV 1408 1412	baja
+T94	Term-DV 1510 1514	baja
+T95	Term-DV 851 854	bid
+T96	Term-DV 851 854	bid
+T97	Term-DV 1356 1366	colocación
+T98	Term-DV 1287 1295	comisión
+T99	Term-DV 935 946	deducciones
+T100	Term-DV 723 730	defecto
+T101	Term-DV 335 342	derecho
+T102	Term-DV 1266 1273	derecho
+T103	Term-DV 1728 1733	deuda
+T104	Term-DV 373 376	día
+T105	Term-DV 753 760	empresa
+T106	Term-DV 81 83	fe
+T107	Term-DV 725 727	fe
+T108	Term-DV 884 886	fe
+T109	Term-DV 1624 1626	fe
+T110	Term-DV 1216 1224	garantía
+T111	Term-DV 227 232	lares
+T112	Term-DV 706 713	lectivo
+T113	Term-DV 318 323	legal
+T114	Term-DV 951 956	legal
+T115	Term-DV 1539 1544	legal
+T116	Term-DV 6 17	liquidación
+T117	Term-DV 975 986	liquidación
+T118	Term-DV 1358 1366	locación
+T119	Term-DV 1344 1351	negocio
+T120	Term-DV 1288 1295	omisión
+T121	Term-DV 23 27	pago
+T122	Term-DV 394 398	pago
+T123	Term-DV 565 569	pago
+T124	Term-DV 1680 1684	pago
+T125	Term-DV 386 390	para
+T126	Term-DV 869 873	para
+T127	Term-DV 1602 1607	parte
+T128	Term-DV 434 438	real
+T129	Term-DV 477 481	real
+T130	Term-DV 1320 1324	real
+T131	Term-DV 527 533	recibo
+T132	Term-DV 584 590	recibo
+T133	Term-DV 32 36	sala
+T134	Term-DV 466 470	sala
+T135	Term-DV 594 598	sala
+T136	Term-DV 994 998	sala
+T137	Term-DV 1277 1281	sala
+T138	Term-DV 1689 1693	sala
+T139	Term-DV 32 39	salario
+T140	Term-DV 466 473	salario
+T141	Term-DV 594 601	salario
+T142	Term-DV 994 1001	salario
+T143	Term-DV 1277 1284	salario
+T144	Term-DV 1689 1696	salario
+T145	Term-DV 377 381	seña
+T146	Term-DV 1038 1046	servicio
+T147	Term-DV 264 274	trabajador
+T148	Term-DV 510 520	trabajador
+T149	Term-DV 789 799	trabajador
+T150	Term-DV 910 920	trabajador
+T151	Term-DV 1405 1415	trabajador
+T152	Term-DV 1507 1517	trabajador
+T153	Term-DV 1369 1374	venta
+T154	Term-DV 538 544	vidual
+T155	Term-DV 243 244	x
+T156	Term-AttentionRank 156 162	tiempo
+T157	Term-AttentionRank 654 660	Empleo
+T158	Term-AttentionRank 303 317	representantes
+T159	Term-AttentionRank 767 781	representantes
+T160	Term-AttentionRank 1524 1538	representantes
+T161	Term-AttentionRank 736 760	acuerdo entre la empresa
+T162	Term-AttentionRank 1602 1607	parte
+T163	Term-AttentionRank 303 325	representantes legales
+T164	Term-AttentionRank 1524 1546	representantes legales
+T165	Term-AttentionRank 303 325	representantes legales
+T166	Term-AttentionRank 1524 1546	representantes legales
+T167	Term-AttentionRank 736 743	acuerdo
+T168	Term-AttentionRank 1499 1502	año
+T169	Term-AttentionRank 373 376	día
+T170	Term-AttentionRank 423 443	trabajo ya realizado
+T171	Term-AttentionRank 145 152	periodo
+T172	Term-AttentionRank 1146 1153	periodo
+T173	Term-AttentionRank 123 127	usos
+T174	Term-AttentionRank 527 533	recibo
+T175	Term-AttentionRank 584 590	recibo
+T176	Term-AttentionRank 663 672	Seguridad
+T177	Term-AttentionRank 1074 1082	carácter
+T178	Term-AttentionRank 196 220	retribuciones periódicas
+T179	Term-AttentionRank 922 925	así
+T180	Term-AttentionRank 81 86	fecha
+T181	Term-AttentionRank 1245 1253	artículo
+T182	Term-AttentionRank 183 188	abono
+T183	Term-AttentionRank 1114 1123	supuestos
+T184	Term-AttentionRank 256 259	mes
+T185	Term-AttentionRank 695 703	convenio
+T186	Term-AttentionRank 89 94	lugar
+T187	Term-AttentionRank 1635 1640	tales
+T188	Term-AttentionRank 1157 1166	actividad
+T189	Term-AttentionRank 1216 1225	garantías
+T190	Term-AttentionRank 1038 1047	servicios
+T191	Term-AttentionRank 264 274	trabajador
+T192	Term-AttentionRank 510 520	trabajador
+T193	Term-AttentionRank 910 920	trabajador
+T194	Term-AttentionRank 1405 1415	trabajador
+T195	Term-AttentionRank 1507 1517	trabajador
+T196	Term-AttentionRank 789 801	trabajadores
+T197	Term-AttentionRank 1287 1295	comisión
+T198	Term-AttentionRank 753 760	empresa
+T199	Term-AttentionRank 663 679	Seguridad Social
+T200	Term-AttentionRank 32 39	salario
+T201	Term-AttentionRank 466 473	salario
+T202	Term-AttentionRank 1277 1284	salario
+T203	Term-AttentionRank 1689 1696	salario
+T204	Term-AttentionRank 594 602	salarios
+T205	Term-AttentionRank 994 1002	salarios
+T206	Term-AttentionRank 1309 1316	momento
+T207	Term-AttentionRank 1573 1580	momento
+T208	Term-AttentionRank 1727 1735	adeudado
+T209	Term-AttentionRank 400 409	anticipos
+T210	Term-AttentionRank 335 342	derecho
+T211	Term-AttentionRank 1266 1273	derecho
+T212	Term-AttentionRank 23 27	pago
+T213	Term-AttentionRank 394 398	pago
+T214	Term-AttentionRank 565 569	pago
+T215	Term-AttentionRank 1680 1684	pago
+T216	Term-AttentionRank 695 713	convenio colectivo
+T217	Term-AttentionRank 373 398	día señalado para el pago
+T218	Term-AttentionRank 6 17	liquidación
+T219	Term-AttentionRank 975 986	liquidación
+T220	Term-AttentionRank 423 430	trabajo
+T221	Term-AttentionRank 1051 1059	trabajos
+T222	Term-AttentionRank 130 140	costumbres
+T223	Term-AttentionRank 285 297	autorización
+T224	Term-AttentionRank 1086 1105	fijos- discontinuos
+T225	Term-LabourLaw 123 140	usos y costumbres
+T226	Term-LabourLaw 1266 1284	derecho al salario
+T227	Term-LabourLaw 695 713	convenio colectivo
+T228	Term-LabourLaw 242 249	exceder
+T229	Term-LabourLaw 423 430	trabajo
+T230	Term-LabourLaw 1051 1058	trabajo
+T231	Term-LabourLaw 32 39	salario
+T232	Term-LabourLaw 466 473	salario
+T233	Term-LabourLaw 594 601	salario
+T234	Term-LabourLaw 994 1001	salario
+T235	Term-LabourLaw 1277 1284	salario
+T236	Term-LabourLaw 1689 1696	salario
+T237	Term-LabourLaw 1287 1295	comisión
+T238	Term-LabourLaw 303 316	representante
+T239	Term-LabourLaw 767 780	representante
+T240	Term-LabourLaw 1524 1537	representante
+T241	Term-LabourLaw 264 274	trabajador
+T242	Term-LabourLaw 510 520	trabajador
+T243	Term-LabourLaw 789 799	trabajador
+T244	Term-LabourLaw 910 920	trabajador
+T245	Term-LabourLaw 1405 1415	trabajador
+T246	Term-LabourLaw 1507 1517	trabajador
+T247	Term-LabourLaw 285 297	autorización
+T248	Term-LabourLaw 6 17	liquidación
+T249	Term-LabourLaw 975 986	liquidación
+T250	Term-LabourLaw 723 730	defecto
+T251	Term-LabourLaw 1038 1046	servicio
+T252	Term-LabourLaw 753 760	empresa
+T253	Term-LabourLaw 335 342	derecho
+T254	Term-LabourLaw 1266 1273	derecho
+T255	Term-LabourLaw 400 409	anticipos
+T256	Term-LabourLaw 704 713	colectivo
+T257	Term-LabourLaw 145 152	periodo
+T258	Term-LabourLaw 1146 1153	periodo
+T259	Term-IATE 1309 1316	momento
+T260	Term-IATE 1573 1580	momento
+T261	Term-IATE 1602 1607	parte
+T262	Term-IATE 1245 1253	artículo
+T263	Term-IATE 736 743	acuerdo
+T264	Term-IATE 753 760	empresa
+T265	Term-IATE 32 39	salario
+T266	Term-IATE 466 473	salario
+T267	Term-IATE 1277 1284	salario
+T268	Term-IATE 1689 1696	salario
+T269	Term-IATE 594 602	salarios
+T270	Term-IATE 994 1002	salarios
+T271	Term-IATE 285 297	autorización
+T272	Term-IATE 1216 1225	garantías
+T273	Term-IATE 183 188	abono
+T274	Term-IATE 264 274	trabajador
+T275	Term-IATE 510 520	trabajador
+T276	Term-IATE 910 920	trabajador
+T277	Term-IATE 1405 1415	trabajador
+T278	Term-IATE 1507 1517	trabajador
+T279	Term-IATE 789 801	trabajadores
+T280	Term-IATE 6 17	liquidación
+T281	Term-IATE 975 986	liquidación
+T282	Term-IATE 23 27	pago
+T283	Term-IATE 394 398	pago
+T284	Term-IATE 565 569	pago
+T285	Term-IATE 1680 1684	pago
+T286	Term-IATE 654 660	Empleo
+T287	Term-IATE 663 672	Seguridad
+T288	Term-IATE 1157 1166	actividad
+T289	Term-IATE 1074 1082	carácter
+T290	Term-IATE 400 409	anticipos
+T291	Term-IATE 1287 1295	comisión
+T292	Term-IATE 303 317	representantes
+T293	Term-IATE 767 781	representantes
+T294	Term-IATE 1524 1538	representantes
+T295	Term-IATE 695 703	convenio
+T296	Term-IATE 256 259	mes

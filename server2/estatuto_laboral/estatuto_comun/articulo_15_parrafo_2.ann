@@ -1,379 +1,292 @@
-T1	Term-diccionario 1194 1202	ausencia
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 1126 1149	prestación de servicios
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 597 605	trabajos
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 990 997	trabajo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 4 12	empresas
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 358 366	empresas
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 731 738	empresa
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 1592 1600	convenio
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 39 47	contrato
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 278 286	contrato
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 566 574	contrato
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 1032 1040	contrato
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 1400 1408	contrato
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 1634 1642	contrato
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 513 522	contratos
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 874 883	contratos
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 552 557	causa
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1081 1086	causa
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 1683 1688	causa
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 1543 1549	causas
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 694 703	actividad
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 1592 1610	convenio colectivo
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 1279 1285	tiempo
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 793 807	circunstancias
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 980 986	puesto
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 1343 1349	puesto
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 1126 1136	prestación
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 1460 1467	jornada
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 1140 1149	servicios
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 80 83	año
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 399 402	año
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 1520 1529	reducción
-#32	AnnotatorNotes T32 "DPEJ"
-#33	AnnotatorNotes T8 "Termcat"
-T33	Term-diccionario 959 997	derecho a reserva de puesto de trabajo
-#34	AnnotatorNotes T33 "Termcat"
-#35	AnnotatorNotes T29 "Termcat"
-T34	Term-diccionario 832 840	términos
-#36	AnnotatorNotes T34 "Termcat"
-#37	AnnotatorNotes T1 "Termcat"
-#38	AnnotatorNotes T9 "Termcat"
-#39	AnnotatorNotes T14 "Termcat"
-#40	AnnotatorNotes T13 "Termcat"
-#41	AnnotatorNotes T12 "Termcat"
-#42	AnnotatorNotes T10 "Termcat"
-#43	AnnotatorNotes T11 "Termcat"
-#44	AnnotatorNotes T16 "Termcat"
-#45	AnnotatorNotes T15 "Termcat"
-T35	Term-diccionario 1044 1050	nombre
-#46	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 1646 1652	nombre
-#47	AnnotatorNotes T36 "Termcat"
-#48	AnnotatorNotes T27 "Termcat"
-T37	Term-diccionario 427 441	representación
-#49	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 500 503	uso
-#50	AnnotatorNotes T38 "Termcat"
-#51	AnnotatorNotes T22 "Termcat"
-#52	AnnotatorNotes T5 "Termcat"
-#53	AnnotatorNotes T6 "Termcat"
-#54	AnnotatorNotes T7 "Termcat"
-#55	AnnotatorNotes T3 "Termcat"
-T39	Term-diccionario 1460 1476	jornada reducida
-#56	AnnotatorNotes T39 "Termcat"
-T40	Term-diccionario 980 997	puesto de trabajo
-#57	AnnotatorNotes T40 "Termcat"
-T41	Term-diccionario 1412 1423	sustitución
-#58	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 1695 1706	sustitución
-#59	AnnotatorNotes T42 "Termcat"
-T43	Term-diccionario 1093 1104	sustitución
-#60	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 916 927	sustitución
-#61	AnnotatorNotes T44 "Termcat"
-T45	Term-diccionario 887 895	duración
-#62	AnnotatorNotes T45 "Termcat"
-T46	Term-diccionario 1248 1258	desarrollo
-#63	AnnotatorNotes T46 "Termcat"
-T47	Term-diccionario 959 966	derecho
-#64	AnnotatorNotes T47 "Termcat"
-T48	Term-diccionario 119 127	personas
-#65	AnnotatorNotes T48 "Termcat"
-T49	Term-diccionario 455 463	personas
-#66	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1209 1216	persona
-#67	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 1057 1064	persona
-#68	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 1659 1666	persona
-#69	AnnotatorNotes T52 "Termcat"
-T53	Term-diccionario 1486 1493	persona
-#70	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 935 942	persona
-#71	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 969 976	reserva
-#72	AnnotatorNotes T55 "Termcat"
-#73	AnnotatorNotes T21 "Termcat"
-#74	AnnotatorNotes T17 "Termcat"
-#75	AnnotatorNotes T19 "Termcat"
-#76	AnnotatorNotes T18 "Termcat"
-#77	AnnotatorNotes T20 "Termcat"
-T56	Term-diccionario 760 771	celebración
-#78	AnnotatorNotes T56 "Termcat"
-#79	AnnotatorNotes T24 "Termcat"
-T57	Term-diccionario 621 630	contratas
-#80	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 1306 1316	garantizar
-#81	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 442 447	legal
-#82	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 744 753	perjuicio
-#83	AnnotatorNotes T60 "Termcat"
-#84	AnnotatorNotes T2 "Termcat"
-T61	Term-diccionario 814 824	producción
-#85	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 412 421	trasladar
-#86	AnnotatorNotes T62 "Termcat"
-T63	Term-automatico 1279 1285	tiempo
-#87	AnnotatorNotes T63 "AttentionRank"
-T64	Term-automatico 1248 1258	desarrollo
-#88	AnnotatorNotes T64 "AttentionRank"
-T65	Term-automatico 80 83	año
-#89	AnnotatorNotes T65 "AttentionRank"
-T66	Term-automatico 399 402	año
-#90	AnnotatorNotes T66 "AttentionRank"
-T67	Term-automatico 69 73	días
-#91	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 196 200	días
-#92	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 302 306	días
-#93	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 1381 1385	días
-#94	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 552 557	causa
-#95	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 1081 1086	causa
-#96	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 1683 1688	causa
-#97	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 1543 1549	causas
-#98	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 1460 1467	jornada
-#99	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 335 341	manera
-#100	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 500 503	uso
-#101	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 1113 1121	supuesto
-#102	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 887 907	duración determinada
-#103	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 1520 1529	reducción
-#104	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 119 127	personas
-#105	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 455 463	personas
-#106	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 935 942	persona
-#107	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 1057 1064	persona
-#108	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 1209 1216	persona
-#109	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1486 1493	persona
-#110	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 1659 1666	persona
-#111	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 119 140	personas trabajadoras
-#112	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 455 476	personas trabajadoras
-#113	AnnotatorNotes T89 "AttentionRank"
-#114	AnnotatorNotes T88 "AttentionRank"
-#115	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 1592 1600	convenio
-#116	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 744 771	perjuicio de su celebración
-#117	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 969 976	reserva
-#118	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 1109 1112	tal
-#119	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 694 703	actividad
-#120	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 1543 1573	causas legalmente establecidas
-#121	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 1460 1505	jornada reducida por otra persona trabajadora
-#122	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 1320 1349	desempeño adecuado del puesto
-#123	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 887 895	duración
-#124	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 1140 1149	servicios
-#125	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 128 140	trabajadoras
-#126	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 464 476	trabajadoras
-#127	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 943 954	trabajadora
-#128	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 1494 1505	trabajadora
-#129	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 887 997	duración determinada para la sustitución de una persona trabajadora con derecho a reserva de puesto de trabajo
-#130	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 814 824	producción
-#131	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 427 447	representación legal
-#132	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 980 986	puesto
-#133	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 1343 1349	puesto
-#134	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 793 807	circunstancias
-#135	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 4 12	empresas
-#136	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 358 366	empresas
-#137	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 731 738	empresa
-#138	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 1126 1136	prestación
-#139	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 427 441	representación
-#140	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 1057 1075	persona sustituida
-#141	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 1209 1227	persona sustituida
-#142	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 1659 1677	persona sustituida
-#143	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 578 589	realización
-#144	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 959 966	derecho
-#145	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 1194 1202	ausencia
-#146	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 935 954	persona trabajadora
-#147	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 1486 1505	persona trabajadora
-#148	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 39 47	contrato
-#149	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 278 286	contrato
-#150	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 566 574	contrato
-#151	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 1032 1040	contrato
-#152	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 1400 1408	contrato
-#153	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1634 1642	contrato
-#154	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 513 522	contratos
-#155	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 874 883	contratos
-#156	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 632 644	subcontratas
-#157	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 1592 1610	convenio colectivo
-#158	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 597 605	trabajos
-#159	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 990 997	trabajo
-#160	AnnotatorNotes T134 "AttentionRank"
-#161	AnnotatorNotes T40 "LabourLaw"
-#162	AnnotatorNotes T2 "LabourLaw"
-#163	AnnotatorNotes T22 "LabourLaw"
-#164	AnnotatorNotes T39 "LabourLaw"
-T135	Term-diccionario 427 447	representación legal
-#165	AnnotatorNotes T135 "LabourLaw"
-#166	AnnotatorNotes T39 "LabourLaw"
-#167	AnnotatorNotes T28 "LabourLaw"
-#168	AnnotatorNotes T28 "LabourLaw"
-T136	Term-diccionario 597 604	trabajo
-#169	AnnotatorNotes T136 "LabourLaw"
-#170	AnnotatorNotes T4 "LabourLaw"
-#171	AnnotatorNotes T9 "LabourLaw"
-#172	AnnotatorNotes T10 "LabourLaw"
-T137	Term-diccionario 513 521	contrato
-#173	AnnotatorNotes T137 "LabourLaw"
-#174	AnnotatorNotes T11 "LabourLaw"
-T138	Term-diccionario 874 882	contrato
-#175	AnnotatorNotes T138 "LabourLaw"
-#176	AnnotatorNotes T12 "LabourLaw"
-#177	AnnotatorNotes T13 "LabourLaw"
-#178	AnnotatorNotes T14 "LabourLaw"
-T139	Term-diccionario 612 617	marco
-#179	AnnotatorNotes T139 "LabourLaw"
-#180	AnnotatorNotes T27 "LabourLaw"
-T140	Term-diccionario 128 138	trabajador
-#181	AnnotatorNotes T140 "LabourLaw"
-T141	Term-diccionario 464 474	trabajador
-#182	AnnotatorNotes T141 "LabourLaw"
-T142	Term-diccionario 943 953	trabajador
-#183	AnnotatorNotes T142 "LabourLaw"
-T143	Term-diccionario 1494 1504	trabajador
-#184	AnnotatorNotes T143 "LabourLaw"
-T144	Term-diccionario 232 237	deber
-#185	AnnotatorNotes T144 "LabourLaw"
-T145	Term-diccionario 404 409	deber
-#186	AnnotatorNotes T145 "LabourLaw"
-T146	Term-diccionario 632 643	subcontrata
-#187	AnnotatorNotes T146 "LabourLaw"
-T147	Term-diccionario 482 490	revisión
-#188	AnnotatorNotes T147 "LabourLaw"
-#189	AnnotatorNotes T1 "LabourLaw"
-T148	Term-diccionario 1140 1148	servicio
-#190	AnnotatorNotes T148 "LabourLaw"
-T149	Term-diccionario 4 11	empresa
-#191	AnnotatorNotes T149 "LabourLaw"
-T150	Term-diccionario 358 365	empresa
-#192	AnnotatorNotes T150 "LabourLaw"
-#193	AnnotatorNotes T7 "LabourLaw"
-#194	AnnotatorNotes T45 "LabourLaw"
-#195	AnnotatorNotes T47 "LabourLaw"
-#196	AnnotatorNotes T60 "LabourLaw"
-T151	Term-diccionario 832 839	término
-#197	AnnotatorNotes T151 "LabourLaw"
-T152	Term-diccionario 1601 1610	colectivo
-#198	AnnotatorNotes T152 "LabourLaw"
-#199	AnnotatorNotes T1 "LabourLaw"
-T153	Term-diccionario 119 126	persona
-#200	AnnotatorNotes T153 "LabourLaw"
-T154	Term-diccionario 455 462	persona
-#201	AnnotatorNotes T154 "LabourLaw"
-#202	AnnotatorNotes T54 "LabourLaw"
-#203	AnnotatorNotes T51 "LabourLaw"
-#204	AnnotatorNotes T50 "LabourLaw"
-#205	AnnotatorNotes T53 "LabourLaw"
-#206	AnnotatorNotes T52 "LabourLaw"
-T155	Term-diccionario 578 589	realización
-#207	AnnotatorNotes T155 "IATE"
-#208	AnnotatorNotes T5 "IATE"
-#209	AnnotatorNotes T6 "IATE"
-#210	AnnotatorNotes T7 "IATE"
-#211	AnnotatorNotes T32 "IATE"
-#212	AnnotatorNotes T21 "IATE"
-#213	AnnotatorNotes T27 "IATE"
-#214	AnnotatorNotes T9 "IATE"
-#215	AnnotatorNotes T10 "IATE"
-#216	AnnotatorNotes T11 "IATE"
-#217	AnnotatorNotes T12 "IATE"
-#218	AnnotatorNotes T13 "IATE"
-#219	AnnotatorNotes T14 "IATE"
-#220	AnnotatorNotes T15 "IATE"
-#221	AnnotatorNotes T16 "IATE"
-#222	AnnotatorNotes T55 "IATE"
-#223	AnnotatorNotes T8 "IATE"
-#224	AnnotatorNotes T45 "IATE"
+T1	Term-DPEJ 1194 1202	ausencia
+T2	Term-DPEJ 1126 1149	prestación de servicios
+T3	Term-DPEJ 597 605	trabajos
+T4	Term-DPEJ 990 997	trabajo
+T5	Term-DPEJ 4 12	empresas
+T6	Term-DPEJ 358 366	empresas
+T7	Term-DPEJ 731 738	empresa
+T8	Term-DPEJ 1592 1600	convenio
+T9	Term-DPEJ 39 47	contrato
+T10	Term-DPEJ 278 286	contrato
+T11	Term-DPEJ 566 574	contrato
+T12	Term-DPEJ 1032 1040	contrato
+T13	Term-DPEJ 1400 1408	contrato
+T14	Term-DPEJ 1634 1642	contrato
+T15	Term-DPEJ 513 522	contratos
+T16	Term-DPEJ 874 883	contratos
+T17	Term-DPEJ 552 557	causa
+T18	Term-DPEJ 1081 1086	causa
+T19	Term-DPEJ 1683 1688	causa
+T20	Term-DPEJ 1543 1549	causas
+T21	Term-DPEJ 694 703	actividad
+T22	Term-DPEJ 1592 1610	convenio colectivo
+T23	Term-DPEJ 1279 1285	tiempo
+T24	Term-DPEJ 793 807	circunstancias
+T25	Term-DPEJ 980 986	puesto
+T26	Term-DPEJ 1343 1349	puesto
+T27	Term-DPEJ 1126 1136	prestación
+T28	Term-DPEJ 1460 1467	jornada
+T29	Term-DPEJ 1140 1149	servicios
+T30	Term-DPEJ 80 83	año
+T31	Term-DPEJ 399 402	año
+T32	Term-DPEJ 1520 1529	reducción
+T33	Term-Termcat 1592 1600	convenio
+T34	Term-Termcat 959 997	derecho a reserva de puesto de trabajo
+T35	Term-Termcat 1140 1149	servicios
+T36	Term-Termcat 832 840	términos
+T37	Term-Termcat 1194 1202	ausencia
+T38	Term-Termcat 39 47	contrato
+T39	Term-Termcat 1634 1642	contrato
+T40	Term-Termcat 1400 1408	contrato
+T41	Term-Termcat 1032 1040	contrato
+T42	Term-Termcat 278 286	contrato
+T43	Term-Termcat 566 574	contrato
+T44	Term-Termcat 874 883	contratos
+T45	Term-Termcat 513 522	contratos
+T46	Term-Termcat 1044 1050	nombre
+T47	Term-Termcat 1646 1652	nombre
+T48	Term-Termcat 1126 1136	prestación
+T49	Term-Termcat 427 441	representación
+T50	Term-Termcat 500 503	uso
+T51	Term-Termcat 1592 1610	convenio colectivo
+T52	Term-Termcat 4 12	empresas
+T53	Term-Termcat 358 366	empresas
+T54	Term-Termcat 731 738	empresa
+T55	Term-Termcat 597 605	trabajos
+T56	Term-Termcat 1460 1476	jornada reducida
+T57	Term-Termcat 980 997	puesto de trabajo
+T58	Term-Termcat 1412 1423	sustitución
+T59	Term-Termcat 1695 1706	sustitución
+T60	Term-Termcat 1093 1104	sustitución
+T61	Term-Termcat 916 927	sustitución
+T62	Term-Termcat 887 895	duración
+T63	Term-Termcat 1248 1258	desarrollo
+T64	Term-Termcat 959 966	derecho
+T65	Term-Termcat 119 127	personas
+T66	Term-Termcat 455 463	personas
+T67	Term-Termcat 1209 1216	persona
+T68	Term-Termcat 1057 1064	persona
+T69	Term-Termcat 1659 1666	persona
+T70	Term-Termcat 1486 1493	persona
+T71	Term-Termcat 935 942	persona
+T72	Term-Termcat 969 976	reserva
+T73	Term-Termcat 694 703	actividad
+T74	Term-Termcat 552 557	causa
+T75	Term-Termcat 1683 1688	causa
+T76	Term-Termcat 1081 1086	causa
+T77	Term-Termcat 1543 1549	causas
+T78	Term-Termcat 760 771	celebración
+T79	Term-Termcat 793 807	circunstancias
+T80	Term-Termcat 621 630	contratas
+T81	Term-Termcat 1306 1316	garantizar
+T82	Term-Termcat 442 447	legal
+T83	Term-Termcat 744 753	perjuicio
+T84	Term-Termcat 1126 1149	prestación de servicios
+T85	Term-Termcat 814 824	producción
+T86	Term-Termcat 412 421	trasladar
+T87	Term-DV 131 135	baja
+T88	Term-DV 467 471	baja
+T89	Term-DV 946 950	baja
+T90	Term-DV 1497 1501	baja
+T91	Term-DV 248 251	bid
+T92	Term-DV 248 251	bid
+T93	Term-DV 552 557	causa
+T94	Term-DV 1081 1086	causa
+T95	Term-DV 1543 1548	causa
+T96	Term-DV 1683 1688	causa
+T97	Term-DV 1018 1021	cif
+T98	Term-DV 1620 1623	cif
+T99	Term-DV 418 421	dar
+T100	Term-DV 232 236	debe
+T101	Term-DV 404 408	debe
+T102	Term-DV 959 966	derecho
+T103	Term-DV 69 72	día
+T104	Term-DV 196 199	día
+T105	Term-DV 302 305	día
+T106	Term-DV 1381 1384	día
+T107	Term-DV 189 194	dicho
+T108	Term-DV 4 11	empresa
+T109	Term-DV 358 365	empresa
+T110	Term-DV 731 738	empresa
+T111	Term-DV 747 753	juicio
+T112	Term-DV 1603 1610	lectivo
+T113	Term-DV 442 447	legal
+T114	Term-DV 1550 1555	legal
+T115	Term-DV 612 615	mar
+T116	Term-DV 1044 1050	nombre
+T117	Term-DV 1646 1652	nombre
+T118	Term-DV 161 165	para
+T119	Term-DV 908 912	para
+T120	Term-DV 1301 1305	para
+T121	Term-DV 1442 1446	para
+T122	Term-DV 1325 1329	peño
+T123	Term-DV 744 753	perjuicio
+T124	Term-DV 119 126	persona
+T125	Term-DV 455 462	persona
+T126	Term-DV 935 942	persona
+T127	Term-DV 1057 1064	persona
+T128	Term-DV 1209 1216	persona
+T129	Term-DV 1486 1493	persona
+T130	Term-DV 1659 1666	persona
+T131	Term-DV 429 441	presentación
+T132	Term-DV 1126 1136	prestación
+T133	Term-DV 43 47	rato
+T134	Term-DV 282 286	rato
+T135	Term-DV 517 521	rato
+T136	Term-DV 570 574	rato
+T137	Term-DV 878 882	rato
+T138	Term-DV 1036 1040	rato
+T139	Term-DV 1404 1408	rato
+T140	Term-DV 1638 1642	rato
+T141	Term-DV 578 582	real
+T142	Term-DV 1520 1529	reducción
+T143	Term-DV 427 441	representación
+T144	Term-DV 1140 1148	servicio
+T145	Term-DV 167 173	tender
+T146	Term-DV 128 138	trabajador
+T147	Term-DV 464 474	trabajador
+T148	Term-DV 943 953	trabajador
+T149	Term-DV 1494 1504	trabajador
+T150	Term-DV 63 68	venta
+T151	Term-DV 296 301	venta
+T152	Term-DV 484 487	vis
+T153	Term-DV 53 54	x
+T154	Term-DV 1360 1361	x
+T155	Term-AttentionRank 1279 1285	tiempo
+T156	Term-AttentionRank 1248 1258	desarrollo
+T157	Term-AttentionRank 80 83	año
+T158	Term-AttentionRank 399 402	año
+T159	Term-AttentionRank 69 73	días
+T160	Term-AttentionRank 196 200	días
+T161	Term-AttentionRank 302 306	días
+T162	Term-AttentionRank 1381 1385	días
+T163	Term-AttentionRank 552 557	causa
+T164	Term-AttentionRank 1081 1086	causa
+T165	Term-AttentionRank 1683 1688	causa
+T166	Term-AttentionRank 1543 1549	causas
+T167	Term-AttentionRank 1460 1467	jornada
+T168	Term-AttentionRank 335 341	manera
+T169	Term-AttentionRank 500 503	uso
+T170	Term-AttentionRank 1113 1121	supuesto
+T171	Term-AttentionRank 887 907	duración determinada
+T172	Term-AttentionRank 1520 1529	reducción
+T173	Term-AttentionRank 119 127	personas
+T174	Term-AttentionRank 455 463	personas
+T175	Term-AttentionRank 935 942	persona
+T176	Term-AttentionRank 1057 1064	persona
+T177	Term-AttentionRank 1209 1216	persona
+T178	Term-AttentionRank 1486 1493	persona
+T179	Term-AttentionRank 1659 1666	persona
+T180	Term-AttentionRank 119 140	personas trabajadoras
+T181	Term-AttentionRank 455 476	personas trabajadoras
+T182	Term-AttentionRank 119 140	personas trabajadoras
+T183	Term-AttentionRank 455 476	personas trabajadoras
+T184	Term-AttentionRank 1592 1600	convenio
+T185	Term-AttentionRank 744 771	perjuicio de su celebración
+T186	Term-AttentionRank 969 976	reserva
+T187	Term-AttentionRank 1109 1112	tal
+T188	Term-AttentionRank 694 703	actividad
+T189	Term-AttentionRank 1543 1573	causas legalmente establecidas
+T190	Term-AttentionRank 1460 1505	jornada reducida por otra persona trabajadora
+T191	Term-AttentionRank 1320 1349	desempeño adecuado del puesto
+T192	Term-AttentionRank 887 895	duración
+T193	Term-AttentionRank 1140 1149	servicios
+T194	Term-AttentionRank 128 140	trabajadoras
+T195	Term-AttentionRank 464 476	trabajadoras
+T196	Term-AttentionRank 943 954	trabajadora
+T197	Term-AttentionRank 1494 1505	trabajadora
+T198	Term-AttentionRank 887 997	duración determinada para la sustitución de una persona trabajadora con derecho a reserva de puesto de trabajo
+T199	Term-AttentionRank 814 824	producción
+T200	Term-AttentionRank 427 447	representación legal
+T201	Term-AttentionRank 980 986	puesto
+T202	Term-AttentionRank 1343 1349	puesto
+T203	Term-AttentionRank 793 807	circunstancias
+T204	Term-AttentionRank 4 12	empresas
+T205	Term-AttentionRank 358 366	empresas
+T206	Term-AttentionRank 731 738	empresa
+T207	Term-AttentionRank 1126 1136	prestación
+T208	Term-AttentionRank 427 441	representación
+T209	Term-AttentionRank 1057 1075	persona sustituida
+T210	Term-AttentionRank 1209 1227	persona sustituida
+T211	Term-AttentionRank 1659 1677	persona sustituida
+T212	Term-AttentionRank 578 589	realización
+T213	Term-AttentionRank 959 966	derecho
+T214	Term-AttentionRank 1194 1202	ausencia
+T215	Term-AttentionRank 935 954	persona trabajadora
+T216	Term-AttentionRank 1486 1505	persona trabajadora
+T217	Term-AttentionRank 39 47	contrato
+T218	Term-AttentionRank 278 286	contrato
+T219	Term-AttentionRank 566 574	contrato
+T220	Term-AttentionRank 1032 1040	contrato
+T221	Term-AttentionRank 1400 1408	contrato
+T222	Term-AttentionRank 1634 1642	contrato
+T223	Term-AttentionRank 513 522	contratos
+T224	Term-AttentionRank 874 883	contratos
+T225	Term-AttentionRank 632 644	subcontratas
+T226	Term-AttentionRank 1592 1610	convenio colectivo
+T227	Term-AttentionRank 597 605	trabajos
+T228	Term-AttentionRank 990 997	trabajo
+T229	Term-LabourLaw 980 997	puesto de trabajo
+T230	Term-LabourLaw 1126 1149	prestación de servicios
+T231	Term-LabourLaw 1592 1610	convenio colectivo
+T232	Term-LabourLaw 1460 1476	jornada reducida
+T233	Term-LabourLaw 427 447	representación legal
+T234	Term-LabourLaw 1460 1476	jornada reducida
+T235	Term-LabourLaw 1460 1467	jornada
+T236	Term-LabourLaw 1460 1467	jornada
+T237	Term-LabourLaw 597 604	trabajo
+T238	Term-LabourLaw 990 997	trabajo
+T239	Term-LabourLaw 39 47	contrato
+T240	Term-LabourLaw 278 286	contrato
+T241	Term-LabourLaw 513 521	contrato
+T242	Term-LabourLaw 566 574	contrato
+T243	Term-LabourLaw 874 882	contrato
+T244	Term-LabourLaw 1032 1040	contrato
+T245	Term-LabourLaw 1400 1408	contrato
+T246	Term-LabourLaw 1634 1642	contrato
+T247	Term-LabourLaw 612 617	marco
+T248	Term-LabourLaw 1126 1136	prestación
+T249	Term-LabourLaw 128 138	trabajador
+T250	Term-LabourLaw 464 474	trabajador
+T251	Term-LabourLaw 943 953	trabajador
+T252	Term-LabourLaw 1494 1504	trabajador
+T253	Term-LabourLaw 232 237	deber
+T254	Term-LabourLaw 404 409	deber
+T255	Term-LabourLaw 632 643	subcontrata
+T256	Term-LabourLaw 482 490	revisión
+T257	Term-LabourLaw 1194 1202	ausencia
+T258	Term-LabourLaw 1140 1148	servicio
+T259	Term-LabourLaw 4 11	empresa
+T260	Term-LabourLaw 358 365	empresa
+T261	Term-LabourLaw 731 738	empresa
+T262	Term-LabourLaw 887 895	duración
+T263	Term-LabourLaw 959 966	derecho
+T264	Term-LabourLaw 744 753	perjuicio
+T265	Term-LabourLaw 832 839	término
+T266	Term-LabourLaw 1601 1610	colectivo
+T267	Term-LabourLaw 1194 1202	ausencia
+T268	Term-LabourLaw 119 126	persona
+T269	Term-LabourLaw 455 462	persona
+T270	Term-LabourLaw 935 942	persona
+T271	Term-LabourLaw 1057 1064	persona
+T272	Term-LabourLaw 1209 1216	persona
+T273	Term-LabourLaw 1486 1493	persona
+T274	Term-LabourLaw 1659 1666	persona
+T275	Term-IATE 578 589	realización
+T276	Term-IATE 4 12	empresas
+T277	Term-IATE 358 366	empresas
+T278	Term-IATE 731 738	empresa
+T279	Term-IATE 1520 1529	reducción
+T280	Term-IATE 694 703	actividad
+T281	Term-IATE 1126 1136	prestación
+T282	Term-IATE 39 47	contrato
+T283	Term-IATE 278 286	contrato
+T284	Term-IATE 566 574	contrato
+T285	Term-IATE 1032 1040	contrato
+T286	Term-IATE 1400 1408	contrato
+T287	Term-IATE 1634 1642	contrato
+T288	Term-IATE 513 522	contratos
+T289	Term-IATE 874 883	contratos
+T290	Term-IATE 969 976	reserva
+T291	Term-IATE 1592 1600	convenio
+T292	Term-IATE 887 895	duración

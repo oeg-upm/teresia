@@ -1,155 +1,117 @@
-T1	Term-diccionario 13 20	Trabajo
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 80 87	trabajo
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 612 619	trabajo
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 32 40	contrato
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 244 252	contrato
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 194 201	deberes
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 370 377	deberes
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 0 8	Artículo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 44 49	grupo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 102 107	grupo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 260 265	grupo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 416 421	grupo
-#12	AnnotatorNotes T12 "DPEJ"
-#13	AnnotatorNotes T10 "Termcat"
-#14	AnnotatorNotes T11 "Termcat"
-#15	AnnotatorNotes T9 "Termcat"
-#16	AnnotatorNotes T12 "Termcat"
-#17	AnnotatorNotes T5 "Termcat"
-#18	AnnotatorNotes T4 "Termcat"
-#19	AnnotatorNotes T7 "Termcat"
-#20	AnnotatorNotes T6 "Termcat"
-T13	Term-diccionario 526 540	representación
-#21	AnnotatorNotes T13 "Termcat"
-T14	Term-diccionario 435 449	representación
-#22	AnnotatorNotes T14 "Termcat"
-#23	AnnotatorNotes T8 "Termcat"
-T15	Term-diccionario 634 642	ayudante
-#24	AnnotatorNotes T15 "Termcat"
-#25	AnnotatorNotes T1 "Termcat"
-#26	AnnotatorNotes T3 "Termcat"
-#27	AnnotatorNotes T2 "Termcat"
-T16	Term-diccionario 183 191	derechos
-#28	AnnotatorNotes T16 "Termcat"
-T17	Term-diccionario 359 367	derechos
-#29	AnnotatorNotes T17 "Termcat"
-T18	Term-diccionario 623 631	auxiliar
-#30	AnnotatorNotes T18 "Termcat"
-T19	Term-diccionario 563 571	conforme
-#31	AnnotatorNotes T19 "Termcat"
-T20	Term-automatico 44 49	grupo
-#32	AnnotatorNotes T20 "AttentionRank"
-T21	Term-automatico 102 107	grupo
-#33	AnnotatorNotes T21 "AttentionRank"
-T22	Term-automatico 260 265	grupo
-#34	AnnotatorNotes T22 "AttentionRank"
-T23	Term-automatico 416 421	grupo
-#35	AnnotatorNotes T23 "AttentionRank"
-T24	Term-automatico 494 517	obligaciones inherentes
-#36	AnnotatorNotes T24 "AttentionRank"
-T25	Term-automatico 0 8	Artículo
-#37	AnnotatorNotes T25 "AttentionRank"
-T26	Term-automatico 387 390	tal
-#38	AnnotatorNotes T26 "AttentionRank"
-T27	Term-automatico 346 354	miembros
-#39	AnnotatorNotes T27 "AttentionRank"
-T28	Term-automatico 115 127	trabajadores
-#40	AnnotatorNotes T28 "AttentionRank"
-T29	Term-automatico 269 281	trabajadores
-#41	AnnotatorNotes T29 "AttentionRank"
-T30	Term-automatico 551 561	trabajador
-#42	AnnotatorNotes T30 "AttentionRank"
-T31	Term-automatico 435 449	representación
-#43	AnnotatorNotes T31 "AttentionRank"
-T32	Term-automatico 526 540	representación
-#44	AnnotatorNotes T32 "AttentionRank"
-T33	Term-automatico 140 156	respecto de cada
-#45	AnnotatorNotes T33 "AttentionRank"
-T34	Term-automatico 183 191	derechos
-#46	AnnotatorNotes T34 "AttentionRank"
-T35	Term-automatico 359 367	derechos
-#47	AnnotatorNotes T35 "AttentionRank"
-T36	Term-automatico 407 411	jefe
-#48	AnnotatorNotes T36 "AttentionRank"
-T37	Term-automatico 32 40	contrato
-#49	AnnotatorNotes T37 "AttentionRank"
-T38	Term-automatico 244 252	contrato
-#50	AnnotatorNotes T38 "AttentionRank"
-T39	Term-automatico 194 201	deberes
-#51	AnnotatorNotes T39 "AttentionRank"
-T40	Term-automatico 370 377	deberes
-#52	AnnotatorNotes T40 "AttentionRank"
-T41	Term-automatico 13 20	Trabajo
-#53	AnnotatorNotes T41 "AttentionRank"
-T42	Term-automatico 80 87	trabajo
-#54	AnnotatorNotes T42 "AttentionRank"
-T43	Term-automatico 612 619	trabajo
-#55	AnnotatorNotes T43 "AttentionRank"
-T44	Term-automatico 60 70	empresario
-#56	AnnotatorNotes T44 "AttentionRank"
-T45	Term-automatico 212 222	empresario
-#57	AnnotatorNotes T45 "AttentionRank"
-T46	Term-automatico 647 657	empresario
-#58	AnnotatorNotes T46 "AttentionRank"
-T47	Term-automatico 269 309	trabajadores considerado en su totalidad
-#59	AnnotatorNotes T47 "AttentionRank"
-T48	Term-automatico 612 631	trabajo un auxiliar
-#60	AnnotatorNotes T48 "AttentionRank"
-#61	AnnotatorNotes T2 "LabourLaw"
-#62	AnnotatorNotes T3 "LabourLaw"
-#63	AnnotatorNotes T4 "LabourLaw"
-#64	AnnotatorNotes T5 "LabourLaw"
-T49	Term-diccionario 115 125	trabajador
-#65	AnnotatorNotes T49 "LabourLaw"
-T50	Term-diccionario 269 279	trabajador
-#66	AnnotatorNotes T50 "LabourLaw"
-T51	Term-diccionario 551 561	trabajador
-#67	AnnotatorNotes T51 "LabourLaw"
-T52	Term-diccionario 194 199	deber
-#68	AnnotatorNotes T52 "LabourLaw"
-T53	Term-diccionario 370 375	deber
-#69	AnnotatorNotes T53 "LabourLaw"
-T54	Term-diccionario 60 70	empresario
-#70	AnnotatorNotes T54 "LabourLaw"
-T55	Term-diccionario 212 222	empresario
-#71	AnnotatorNotes T55 "LabourLaw"
-T56	Term-diccionario 647 657	empresario
-#72	AnnotatorNotes T56 "LabourLaw"
-T57	Term-diccionario 60 67	empresa
-#73	AnnotatorNotes T57 "LabourLaw"
-T58	Term-diccionario 212 219	empresa
-#74	AnnotatorNotes T58 "LabourLaw"
-T59	Term-diccionario 647 654	empresa
-#75	AnnotatorNotes T59 "LabourLaw"
-T60	Term-diccionario 183 190	derecho
-#76	AnnotatorNotes T60 "LabourLaw"
-T61	Term-diccionario 359 366	derecho
-#77	AnnotatorNotes T61 "LabourLaw"
-#78	AnnotatorNotes T8 "IATE"
-#79	AnnotatorNotes T9 "IATE"
-#80	AnnotatorNotes T10 "IATE"
-#81	AnnotatorNotes T11 "IATE"
-#82	AnnotatorNotes T12 "IATE"
-#83	AnnotatorNotes T54 "IATE"
-#84	AnnotatorNotes T55 "IATE"
-#85	AnnotatorNotes T56 "IATE"
-T62	Term-diccionario 115 127	trabajadores
-#86	AnnotatorNotes T62 "IATE"
-T63	Term-diccionario 269 281	trabajadores
-#87	AnnotatorNotes T63 "IATE"
-#88	AnnotatorNotes T51 "IATE"
-T64	Term-diccionario 346 354	miembros
-#89	AnnotatorNotes T64 "IATE"
-#90	AnnotatorNotes T4 "IATE"
-#91	AnnotatorNotes T5 "IATE"
+T1	Term-DPEJ 13 20	Trabajo
+T2	Term-DPEJ 80 87	trabajo
+T3	Term-DPEJ 612 619	trabajo
+T4	Term-DPEJ 32 40	contrato
+T5	Term-DPEJ 244 252	contrato
+T6	Term-DPEJ 194 201	deberes
+T7	Term-DPEJ 370 377	deberes
+T8	Term-DPEJ 0 8	Artículo
+T9	Term-DPEJ 44 49	grupo
+T10	Term-DPEJ 102 107	grupo
+T11	Term-DPEJ 260 265	grupo
+T12	Term-DPEJ 416 421	grupo
+T13	Term-Termcat 102 107	grupo
+T14	Term-Termcat 260 265	grupo
+T15	Term-Termcat 44 49	grupo
+T16	Term-Termcat 416 421	grupo
+T17	Term-Termcat 244 252	contrato
+T18	Term-Termcat 32 40	contrato
+T19	Term-Termcat 370 377	deberes
+T20	Term-Termcat 194 201	deberes
+T21	Term-Termcat 526 540	representación
+T22	Term-Termcat 435 449	representación
+T23	Term-Termcat 0 8	Artículo
+T24	Term-Termcat 634 642	ayudante
+T25	Term-Termcat 13 20	Trabajo
+T26	Term-Termcat 612 619	trabajo
+T27	Term-Termcat 80 87	trabajo
+T28	Term-Termcat 183 191	derechos
+T29	Term-Termcat 359 367	derechos
+T30	Term-Termcat 623 631	auxiliar
+T31	Term-Termcat 563 571	conforme
+T32	Term-DV 118 122	baja
+T33	Term-DV 272 276	baja
+T34	Term-DV 554 558	baja
+T35	Term-DV 194 198	debe
+T36	Term-DV 370 374	debe
+T37	Term-DV 183 190	derecho
+T38	Term-DV 359 366	derecho
+T39	Term-DV 60 67	empresa
+T40	Term-DV 212 219	empresa
+T41	Term-DV 647 654	empresa
+T42	Term-DV 60 70	empresario
+T43	Term-DV 212 222	empresario
+T44	Term-DV 647 657	empresario
+T45	Term-DV 409 411	fe
+T46	Term-DV 407 411	jefe
+T47	Term-DV 437 449	presentación
+T48	Term-DV 528 540	presentación
+T49	Term-DV 36 40	rato
+T50	Term-DV 248 252	rato
+T51	Term-DV 435 449	representación
+T52	Term-DV 526 540	representación
+T53	Term-DV 115 125	trabajador
+T54	Term-DV 269 279	trabajador
+T55	Term-DV 551 561	trabajador
+T56	Term-DV 166 172	vidual
+T57	Term-DV 625 626	x
+T58	Term-AttentionRank 44 49	grupo
+T59	Term-AttentionRank 102 107	grupo
+T60	Term-AttentionRank 260 265	grupo
+T61	Term-AttentionRank 416 421	grupo
+T62	Term-AttentionRank 494 517	obligaciones inherentes
+T63	Term-AttentionRank 0 8	Artículo
+T64	Term-AttentionRank 387 390	tal
+T65	Term-AttentionRank 346 354	miembros
+T66	Term-AttentionRank 115 127	trabajadores
+T67	Term-AttentionRank 269 281	trabajadores
+T68	Term-AttentionRank 551 561	trabajador
+T69	Term-AttentionRank 435 449	representación
+T70	Term-AttentionRank 526 540	representación
+T71	Term-AttentionRank 140 156	respecto de cada
+T72	Term-AttentionRank 183 191	derechos
+T73	Term-AttentionRank 359 367	derechos
+T74	Term-AttentionRank 407 411	jefe
+T75	Term-AttentionRank 32 40	contrato
+T76	Term-AttentionRank 244 252	contrato
+T77	Term-AttentionRank 194 201	deberes
+T78	Term-AttentionRank 370 377	deberes
+T79	Term-AttentionRank 13 20	Trabajo
+T80	Term-AttentionRank 80 87	trabajo
+T81	Term-AttentionRank 612 619	trabajo
+T82	Term-AttentionRank 60 70	empresario
+T83	Term-AttentionRank 212 222	empresario
+T84	Term-AttentionRank 647 657	empresario
+T85	Term-AttentionRank 269 309	trabajadores considerado en su totalidad
+T86	Term-AttentionRank 612 631	trabajo un auxiliar
+T87	Term-LabourLaw 80 87	trabajo
+T88	Term-LabourLaw 612 619	trabajo
+T89	Term-LabourLaw 32 40	contrato
+T90	Term-LabourLaw 244 252	contrato
+T91	Term-LabourLaw 115 125	trabajador
+T92	Term-LabourLaw 269 279	trabajador
+T93	Term-LabourLaw 551 561	trabajador
+T94	Term-LabourLaw 194 199	deber
+T95	Term-LabourLaw 370 375	deber
+T96	Term-LabourLaw 60 70	empresario
+T97	Term-LabourLaw 212 222	empresario
+T98	Term-LabourLaw 647 657	empresario
+T99	Term-LabourLaw 60 67	empresa
+T100	Term-LabourLaw 212 219	empresa
+T101	Term-LabourLaw 647 654	empresa
+T102	Term-LabourLaw 183 190	derecho
+T103	Term-LabourLaw 359 366	derecho
+T104	Term-IATE 0 8	Artículo
+T105	Term-IATE 44 49	grupo
+T106	Term-IATE 102 107	grupo
+T107	Term-IATE 260 265	grupo
+T108	Term-IATE 416 421	grupo
+T109	Term-IATE 60 70	empresario
+T110	Term-IATE 212 222	empresario
+T111	Term-IATE 647 657	empresario
+T112	Term-IATE 115 127	trabajadores
+T113	Term-IATE 269 281	trabajadores
+T114	Term-IATE 551 561	trabajador
+T115	Term-IATE 346 354	miembros
+T116	Term-IATE 32 40	contrato
+T117	Term-IATE 244 252	contrato

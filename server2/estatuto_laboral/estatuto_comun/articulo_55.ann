@@ -1,250 +1,192 @@
-T1	Term-diccionario 13 20	Despido
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 118 125	despido
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 788 793	acoso
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 901 906	acoso
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 13 34	Despido disciplinario
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 509 521	transgresión
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 54 61	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 309 316	trabajo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 359 366	trabajo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 601 608	trabajo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 673 680	trabajo
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 773 780	trabajo
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 452 459	empresa
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 984 991	empresa
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 528 536	buena fe
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 42 50	contrato
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 901 913	acoso sexual
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 831 839	religión
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 84 92	decisión
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 870 874	edad
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 0 8	Artículo
-#21	AnnotatorNotes T21 "DPEJ"
-#22	AnnotatorNotes T5 "Termcat"
-#23	AnnotatorNotes T15 "Termcat"
-#24	AnnotatorNotes T16 "Termcat"
-T22	Term-diccionario 856 868	discapacidad
-#25	AnnotatorNotes T22 "Termcat"
-#26	AnnotatorNotes T20 "Termcat"
-#27	AnnotatorNotes T21 "Termcat"
-#28	AnnotatorNotes T3 "Termcat"
-#29	AnnotatorNotes T4 "Termcat"
-#30	AnnotatorNotes T2 "Termcat"
-#31	AnnotatorNotes T17 "Termcat"
-T23	Term-diccionario 281 291	asistencia
-#32	AnnotatorNotes T23 "Termcat"
-T24	Term-diccionario 42 61	contrato de trabajo
-#33	AnnotatorNotes T24 "Termcat"
-#34	AnnotatorNotes T14 "Termcat"
-#35	AnnotatorNotes T13 "Termcat"
-T25	Term-diccionario 244 250	faltas
-#36	AnnotatorNotes T25 "Termcat"
-#37	AnnotatorNotes T8 "Termcat"
-#38	AnnotatorNotes T9 "Termcat"
-#39	AnnotatorNotes T12 "Termcat"
-#40	AnnotatorNotes T10 "Termcat"
-#41	AnnotatorNotes T11 "Termcat"
-T26	Term-diccionario 294 305	puntualidad
-#42	AnnotatorNotes T26 "Termcat"
-T27	Term-diccionario 658 669	rendimiento
-#43	AnnotatorNotes T27 "Termcat"
-#44	AnnotatorNotes T19 "Termcat"
-T28	Term-diccionario 956 964	personas
-#45	AnnotatorNotes T28 "Termcat"
-T29	Term-diccionario 424 432	personas
-#46	AnnotatorNotes T29 "Termcat"
-T30	Term-diccionario 562 580	abuso de confianza
-#47	AnnotatorNotes T30 "Termcat"
-T31	Term-diccionario 162 170	culpable
-#48	AnnotatorNotes T31 "Termcat"
-T32	Term-diccionario 339 352	desobediencia
-#49	AnnotatorNotes T32 "Termcat"
-T33	Term-diccionario 705 715	embriaguez
-#50	AnnotatorNotes T33 "Termcat"
-T34	Term-diccionario 139 153	incumplimiento
-#51	AnnotatorNotes T34 "Termcat"
-T35	Term-diccionario 206 221	incumplimientos
-#52	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 375 382	ofensas
-#53	AnnotatorNotes T36 "Termcat"
-T37	Term-diccionario 920 925	razón
-#54	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 798 803	razón
-#55	AnnotatorNotes T38 "Termcat"
-#56	AnnotatorNotes T18 "Termcat"
-T39	Term-diccionario 727 738	toxicomanía
-#57	AnnotatorNotes T39 "Termcat"
-T40	Term-automatico 798 803	razón
-#58	AnnotatorNotes T40 "AttentionRank"
-T41	Term-automatico 920 925	razón
-#59	AnnotatorNotes T41 "AttentionRank"
-T42	Term-automatico 929 933	sexo
-#60	AnnotatorNotes T42 "AttentionRank"
-T43	Term-automatico 528 536	buena fe
-#61	AnnotatorNotes T43 "AttentionRank"
-T44	Term-automatico 118 159	despido basado en un incumplimiento grave
-#62	AnnotatorNotes T44 "AttentionRank"
-T45	Term-automatico 550 553	así
-#63	AnnotatorNotes T45 "AttentionRank"
-T46	Term-automatico 509 521	transgresión
-#64	AnnotatorNotes T46 "AttentionRank"
-T47	Term-automatico 0 8	Artículo
-#65	AnnotatorNotes T47 "AttentionRank"
-T48	Term-automatico 84 92	decisión
-#66	AnnotatorNotes T48 "AttentionRank"
-T49	Term-automatico 281 291	asistencia
-#67	AnnotatorNotes T49 "AttentionRank"
-T50	Term-automatico 244 250	faltas
-#68	AnnotatorNotes T50 "AttentionRank"
-T51	Term-automatico 616 638	disminución continuada
-#69	AnnotatorNotes T51 "AttentionRank"
-T52	Term-automatico 424 432	personas
-#70	AnnotatorNotes T52 "AttentionRank"
-T53	Term-automatico 956 964	personas
-#71	AnnotatorNotes T53 "AttentionRank"
-T54	Term-automatico 788 793	acoso
-#72	AnnotatorNotes T54 "AttentionRank"
-T55	Term-automatico 901 906	acoso
-#73	AnnotatorNotes T55 "AttentionRank"
-T56	Term-automatico 175 185	trabajador
-#74	AnnotatorNotes T56 "AttentionRank"
-T57	Term-automatico 452 459	empresa
-#75	AnnotatorNotes T57 "AttentionRank"
-T58	Term-automatico 984 991	empresa
-#76	AnnotatorNotes T58 "AttentionRank"
-T59	Term-automatico 831 839	religión
-#77	AnnotatorNotes T59 "AttentionRank"
-T60	Term-automatico 139 159	incumplimiento grave
-#78	AnnotatorNotes T60 "AttentionRank"
-T61	Term-automatico 13 20	Despido
-#79	AnnotatorNotes T61 "AttentionRank"
-T62	Term-automatico 118 125	despido
-#80	AnnotatorNotes T62 "AttentionRank"
-T63	Term-automatico 673 687	trabajo normal
-#81	AnnotatorNotes T63 "AttentionRank"
-T64	Term-automatico 324 336	indisciplina
-#82	AnnotatorNotes T64 "AttentionRank"
-T65	Term-automatico 375 391	ofensas verbales
-#83	AnnotatorNotes T65 "AttentionRank"
-T66	Term-automatico 807 820	origen racial
-#84	AnnotatorNotes T66 "AttentionRank"
-T67	Term-automatico 206 235	incumplimientos contractuales
-#85	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 705 724	embriaguez habitual
-#86	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 528 548	buena fe contractual
-#87	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 42 50	contrato
-#88	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 870 874	edad
-#89	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 54 61	trabajo
-#90	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 309 316	trabajo
-#91	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 359 366	trabajo
-#92	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 601 608	trabajo
-#93	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 673 680	trabajo
-#94	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 773 780	trabajo
-#95	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 97 107	empresario
-#96	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 405 415	empresario
-#97	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 937 947	empresario
-#98	AnnotatorNotes T80 "AttentionRank"
-#99	AnnotatorNotes T24 "LabourLaw"
-#100	AnnotatorNotes T15 "LabourLaw"
-T81	Term-diccionario 877 895	orientación sexual
-#101	AnnotatorNotes T81 "LabourLaw"
-#102	AnnotatorNotes T17 "LabourLaw"
-T82	Term-diccionario 807 820	origen racial
-#103	AnnotatorNotes T82 "LabourLaw"
-#104	AnnotatorNotes T2 "LabourLaw"
-#105	AnnotatorNotes T7 "LabourLaw"
-#106	AnnotatorNotes T8 "LabourLaw"
-#107	AnnotatorNotes T9 "LabourLaw"
-#108	AnnotatorNotes T10 "LabourLaw"
-#109	AnnotatorNotes T11 "LabourLaw"
-#110	AnnotatorNotes T12 "LabourLaw"
-#111	AnnotatorNotes T16 "LabourLaw"
-T83	Term-diccionario 807 813	origen
-#112	AnnotatorNotes T83 "LabourLaw"
-#113	AnnotatorNotes T22 "LabourLaw"
-T84	Term-diccionario 175 185	trabajador
-#114	AnnotatorNotes T84 "LabourLaw"
-T85	Term-diccionario 141 153	cumplimiento
-#115	AnnotatorNotes T85 "LabourLaw"
-T86	Term-diccionario 208 220	cumplimiento
-#116	AnnotatorNotes T86 "LabourLaw"
-T87	Term-diccionario 222 233	contractual
-#117	AnnotatorNotes T87 "LabourLaw"
-T88	Term-diccionario 537 548	contractual
-#118	AnnotatorNotes T88 "LabourLaw"
-T89	Term-diccionario 562 567	abuso
-#119	AnnotatorNotes T89 "LabourLaw"
-#120	AnnotatorNotes T3 "LabourLaw"
-#121	AnnotatorNotes T4 "LabourLaw"
-T90	Term-diccionario 97 107	empresario
-#122	AnnotatorNotes T90 "LabourLaw"
-T91	Term-diccionario 405 415	empresario
-#123	AnnotatorNotes T91 "LabourLaw"
-T92	Term-diccionario 937 947	empresario
-#124	AnnotatorNotes T92 "LabourLaw"
-#125	AnnotatorNotes T18 "LabourLaw"
-#126	AnnotatorNotes T20 "LabourLaw"
-T93	Term-diccionario 97 104	empresa
-#127	AnnotatorNotes T93 "LabourLaw"
-T94	Term-diccionario 405 412	empresa
-#128	AnnotatorNotes T94 "LabourLaw"
-#129	AnnotatorNotes T13 "LabourLaw"
-T95	Term-diccionario 937 944	empresa
-#130	AnnotatorNotes T95 "LabourLaw"
-#131	AnnotatorNotes T14 "LabourLaw"
-T96	Term-diccionario 929 933	sexo
-#132	AnnotatorNotes T96 "LabourLaw"
-T97	Term-diccionario 574 580	fianza
-#133	AnnotatorNotes T97 "LabourLaw"
-T98	Term-diccionario 424 431	persona
-#134	AnnotatorNotes T98 "LabourLaw"
-T99	Term-diccionario 956 963	persona
-#135	AnnotatorNotes T99 "LabourLaw"
-#136	AnnotatorNotes T34 "LabourLaw"
-T100	Term-diccionario 206 220	incumplimiento
-#137	AnnotatorNotes T100 "LabourLaw"
-#138	AnnotatorNotes T96 "IATE"
-#139	AnnotatorNotes T19 "IATE"
-#140	AnnotatorNotes T21 "IATE"
-#141	AnnotatorNotes T13 "IATE"
-#142	AnnotatorNotes T14 "IATE"
-#143	AnnotatorNotes T38 "IATE"
-#144	AnnotatorNotes T37 "IATE"
-#145	AnnotatorNotes T90 "IATE"
-#146	AnnotatorNotes T91 "IATE"
-#147	AnnotatorNotes T92 "IATE"
-#148	AnnotatorNotes T25 "IATE"
-#149	AnnotatorNotes T84 "IATE"
-#150	AnnotatorNotes T16 "IATE"
+T1	Term-DPEJ 13 20	Despido
+T2	Term-DPEJ 118 125	despido
+T3	Term-DPEJ 788 793	acoso
+T4	Term-DPEJ 901 906	acoso
+T5	Term-DPEJ 13 34	Despido disciplinario
+T6	Term-DPEJ 509 521	transgresión
+T7	Term-DPEJ 54 61	trabajo
+T8	Term-DPEJ 309 316	trabajo
+T9	Term-DPEJ 359 366	trabajo
+T10	Term-DPEJ 601 608	trabajo
+T11	Term-DPEJ 673 680	trabajo
+T12	Term-DPEJ 773 780	trabajo
+T13	Term-DPEJ 452 459	empresa
+T14	Term-DPEJ 984 991	empresa
+T15	Term-DPEJ 528 536	buena fe
+T16	Term-DPEJ 42 50	contrato
+T17	Term-DPEJ 901 913	acoso sexual
+T18	Term-DPEJ 831 839	religión
+T19	Term-DPEJ 84 92	decisión
+T20	Term-DPEJ 870 874	edad
+T21	Term-DPEJ 0 8	Artículo
+T22	Term-Termcat 13 34	Despido disciplinario
+T23	Term-Termcat 528 536	buena fe
+T24	Term-Termcat 42 50	contrato
+T25	Term-Termcat 856 868	discapacidad
+T26	Term-Termcat 870 874	edad
+T27	Term-Termcat 0 8	Artículo
+T28	Term-Termcat 788 793	acoso
+T29	Term-Termcat 901 906	acoso
+T30	Term-Termcat 118 125	despido
+T31	Term-Termcat 901 913	acoso sexual
+T32	Term-Termcat 281 291	asistencia
+T33	Term-Termcat 42 61	contrato de trabajo
+T34	Term-Termcat 984 991	empresa
+T35	Term-Termcat 452 459	empresa
+T36	Term-Termcat 244 250	faltas
+T37	Term-Termcat 309 316	trabajo
+T38	Term-Termcat 359 366	trabajo
+T39	Term-Termcat 773 780	trabajo
+T40	Term-Termcat 601 608	trabajo
+T41	Term-Termcat 673 680	trabajo
+T42	Term-Termcat 294 305	puntualidad
+T43	Term-Termcat 658 669	rendimiento
+T44	Term-Termcat 84 92	decisión
+T45	Term-Termcat 956 964	personas
+T46	Term-Termcat 424 432	personas
+T47	Term-Termcat 562 580	abuso de confianza
+T48	Term-Termcat 162 170	culpable
+T49	Term-Termcat 339 352	desobediencia
+T50	Term-Termcat 705 715	embriaguez
+T51	Term-Termcat 139 153	incumplimiento
+T52	Term-Termcat 206 221	incumplimientos
+T53	Term-Termcat 375 382	ofensas
+T54	Term-Termcat 920 925	razón
+T55	Term-Termcat 798 803	razón
+T56	Term-Termcat 831 839	religión
+T57	Term-Termcat 727 738	toxicomanía
+T58	Term-DV 562 580	abuso de confianza
+T59	Term-DV 562 567	abuso
+T60	Term-DV 178 182	baja
+T61	Term-DV 440 444	baja
+T62	Term-DV 972 976	baja
+T63	Term-DV 859 863	capa
+T64	Term-DV 859 868	capacidad
+T65	Term-DV 84 92	decisión
+T66	Term-DV 339 352	desobediencia
+T67	Term-DV 118 125	despido
+T68	Term-DV 870 874	edad
+T69	Term-DV 705 715	embriaguez
+T70	Term-DV 97 104	empresa
+T71	Term-DV 405 412	empresa
+T72	Term-DV 452 459	empresa
+T73	Term-DV 937 944	empresa
+T74	Term-DV 984 991	empresa
+T75	Term-DV 97 107	empresario
+T76	Term-DV 405 415	empresario
+T77	Term-DV 937 947	empresario
+T78	Term-DV 244 249	falta
+T79	Term-DV 468 475	familia
+T80	Term-DV 376 378	fe
+T81	Term-DV 534 536	fe
+T82	Term-DV 574 580	fianza
+T83	Term-DV 681 686	norma
+T84	Term-DV 342 352	obediencia
+T85	Term-DV 375 381	ofensa
+T86	Term-DV 592 596	peño
+T87	Term-DV 424 431	persona
+T88	Term-DV 956 963	persona
+T89	Term-DV 46 50	rato
+T90	Term-DV 831 839	religión
+T91	Term-DV 929 933	sexo
+T92	Term-DV 727 738	toxicomanía
+T93	Term-DV 175 185	trabajador
+T94	Term-DV 509 521	transgresión
+T95	Term-DV 69 70	x
+T96	Term-DV 729 730	x
+T97	Term-DV 891 892	x
+T98	Term-DV 909 910	x
+T99	Term-DV 931 932	x
+T100	Term-AttentionRank 798 803	razón
+T101	Term-AttentionRank 920 925	razón
+T102	Term-AttentionRank 929 933	sexo
+T103	Term-AttentionRank 528 536	buena fe
+T104	Term-AttentionRank 118 159	despido basado en un incumplimiento grave
+T105	Term-AttentionRank 550 553	así
+T106	Term-AttentionRank 509 521	transgresión
+T107	Term-AttentionRank 0 8	Artículo
+T108	Term-AttentionRank 84 92	decisión
+T109	Term-AttentionRank 281 291	asistencia
+T110	Term-AttentionRank 244 250	faltas
+T111	Term-AttentionRank 616 638	disminución continuada
+T112	Term-AttentionRank 424 432	personas
+T113	Term-AttentionRank 956 964	personas
+T114	Term-AttentionRank 788 793	acoso
+T115	Term-AttentionRank 901 906	acoso
+T116	Term-AttentionRank 175 185	trabajador
+T117	Term-AttentionRank 452 459	empresa
+T118	Term-AttentionRank 984 991	empresa
+T119	Term-AttentionRank 831 839	religión
+T120	Term-AttentionRank 139 159	incumplimiento grave
+T121	Term-AttentionRank 13 20	Despido
+T122	Term-AttentionRank 118 125	despido
+T123	Term-AttentionRank 673 687	trabajo normal
+T124	Term-AttentionRank 324 336	indisciplina
+T125	Term-AttentionRank 375 391	ofensas verbales
+T126	Term-AttentionRank 807 820	origen racial
+T127	Term-AttentionRank 206 235	incumplimientos contractuales
+T128	Term-AttentionRank 705 724	embriaguez habitual
+T129	Term-AttentionRank 528 548	buena fe contractual
+T130	Term-AttentionRank 42 50	contrato
+T131	Term-AttentionRank 870 874	edad
+T132	Term-AttentionRank 54 61	trabajo
+T133	Term-AttentionRank 309 316	trabajo
+T134	Term-AttentionRank 359 366	trabajo
+T135	Term-AttentionRank 601 608	trabajo
+T136	Term-AttentionRank 673 680	trabajo
+T137	Term-AttentionRank 773 780	trabajo
+T138	Term-AttentionRank 97 107	empresario
+T139	Term-AttentionRank 405 415	empresario
+T140	Term-AttentionRank 937 947	empresario
+T141	Term-LabourLaw 42 61	contrato de trabajo
+T142	Term-LabourLaw 528 536	buena fe
+T143	Term-LabourLaw 877 895	orientación sexual
+T144	Term-LabourLaw 901 913	acoso sexual
+T145	Term-LabourLaw 807 820	origen racial
+T146	Term-LabourLaw 118 125	despido
+T147	Term-LabourLaw 54 61	trabajo
+T148	Term-LabourLaw 309 316	trabajo
+T149	Term-LabourLaw 359 366	trabajo
+T150	Term-LabourLaw 601 608	trabajo
+T151	Term-LabourLaw 673 680	trabajo
+T152	Term-LabourLaw 773 780	trabajo
+T153	Term-LabourLaw 42 50	contrato
+T154	Term-LabourLaw 807 813	origen
+T155	Term-LabourLaw 856 868	discapacidad
+T156	Term-LabourLaw 175 185	trabajador
+T157	Term-LabourLaw 141 153	cumplimiento
+T158	Term-LabourLaw 208 220	cumplimiento
+T159	Term-LabourLaw 222 233	contractual
+T160	Term-LabourLaw 537 548	contractual
+T161	Term-LabourLaw 562 567	abuso
+T162	Term-LabourLaw 788 793	acoso
+T163	Term-LabourLaw 901 906	acoso
+T164	Term-LabourLaw 97 107	empresario
+T165	Term-LabourLaw 405 415	empresario
+T166	Term-LabourLaw 937 947	empresario
+T167	Term-LabourLaw 831 839	religión
+T168	Term-LabourLaw 870 874	edad
+T169	Term-LabourLaw 97 104	empresa
+T170	Term-LabourLaw 405 412	empresa
+T171	Term-LabourLaw 452 459	empresa
+T172	Term-LabourLaw 937 944	empresa
+T173	Term-LabourLaw 984 991	empresa
+T174	Term-LabourLaw 929 933	sexo
+T175	Term-LabourLaw 574 580	fianza
+T176	Term-LabourLaw 424 431	persona
+T177	Term-LabourLaw 956 963	persona
+T178	Term-LabourLaw 139 153	incumplimiento
+T179	Term-LabourLaw 206 220	incumplimiento
+T180	Term-IATE 929 933	sexo
+T181	Term-IATE 84 92	decisión
+T182	Term-IATE 0 8	Artículo
+T183	Term-IATE 452 459	empresa
+T184	Term-IATE 984 991	empresa
+T185	Term-IATE 798 803	razón
+T186	Term-IATE 920 925	razón
+T187	Term-IATE 97 107	empresario
+T188	Term-IATE 405 415	empresario
+T189	Term-IATE 937 947	empresario
+T190	Term-IATE 244 250	faltas
+T191	Term-IATE 175 185	trabajador
+T192	Term-IATE 42 50	contrato

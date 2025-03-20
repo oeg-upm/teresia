@@ -1,106 +1,76 @@
-T1	Term-diccionario 41 45	caso
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 146 153	trabajo
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 171 178	empresa
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 133 142	contratos
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 92 102	suspensión
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 78 90	modificación
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 228 231	Ley
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 13 36	Procedimiento concursal
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 105 114	extinción
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 0 8	Artículo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 13 26	Procedimiento
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 49 57	concurso
-#12	AnnotatorNotes T12 "Termcat"
-#13	AnnotatorNotes T4 "Termcat"
-#14	AnnotatorNotes T7 "Termcat"
-T13	Term-diccionario 159 167	sucesión
-#15	AnnotatorNotes T13 "Termcat"
-#16	AnnotatorNotes T10 "Termcat"
-T14	Term-diccionario 267 275	CAPÍTULO
-#17	AnnotatorNotes T14 "Termcat"
-#18	AnnotatorNotes T8 "Termcat"
-T15	Term-diccionario 279 285	FaLtas
-#19	AnnotatorNotes T15 "Termcat"
-#20	AnnotatorNotes T2 "Termcat"
-T16	Term-diccionario 159 178	sucesión de empresa
-#21	AnnotatorNotes T16 "Termcat"
-#22	AnnotatorNotes T9 "Termcat"
-#23	AnnotatorNotes T6 "Termcat"
-#24	AnnotatorNotes T5 "Termcat"
-T17	Term-diccionario 27 36	concursal
-#25	AnnotatorNotes T17 "Termcat"
-T18	Term-diccionario 256 265	Concursal
-#26	AnnotatorNotes T18 "Termcat"
-#27	AnnotatorNotes T3 "Termcat"
-#28	AnnotatorNotes T11 "Termcat"
-T19	Term-diccionario 197 211	especialidades
-#29	AnnotatorNotes T19 "Termcat"
-T20	Term-automatico 0 8	Artículo
-#30	AnnotatorNotes T20 "AttentionRank"
-T21	Term-automatico 65 74	supuestos
-#31	AnnotatorNotes T21 "AttentionRank"
-T22	Term-automatico 279 285	FaLtas
-#32	AnnotatorNotes T22 "AttentionRank"
-T23	Term-automatico 13 26	Procedimiento
-#33	AnnotatorNotes T23 "AttentionRank"
-T24	Term-automatico 105 114	extinción
-#34	AnnotatorNotes T24 "AttentionRank"
-T25	Term-automatico 92 102	suspensión
-#35	AnnotatorNotes T25 "AttentionRank"
-T26	Term-automatico 78 90	modificación
-#36	AnnotatorNotes T26 "AttentionRank"
-T27	Term-automatico 159 167	sucesión
-#37	AnnotatorNotes T27 "AttentionRank"
-T28	Term-automatico 306 318	tRaBajadoREs
-#38	AnnotatorNotes T28 "AttentionRank"
-T29	Term-automatico 171 178	empresa
-#39	AnnotatorNotes T29 "AttentionRank"
-T30	Term-automatico 13 36	Procedimiento concursal
-#40	AnnotatorNotes T30 "AttentionRank"
-T31	Term-automatico 41 57	caso de concurso
-#41	AnnotatorNotes T31 "AttentionRank"
-T32	Term-automatico 228 231	Ley
-#42	AnnotatorNotes T32 "AttentionRank"
-T33	Term-automatico 49 57	concurso
-#43	AnnotatorNotes T33 "AttentionRank"
-T34	Term-automatico 133 142	contratos
-#44	AnnotatorNotes T34 "AttentionRank"
-T35	Term-automatico 146 153	trabajo
-#45	AnnotatorNotes T35 "AttentionRank"
-T36	Term-automatico 41 45	caso
-#46	AnnotatorNotes T36 "AttentionRank"
-#47	AnnotatorNotes T16 "LabourLaw"
-#48	AnnotatorNotes T6 "LabourLaw"
-#49	AnnotatorNotes T2 "LabourLaw"
-T37	Term-diccionario 133 141	contrato
-#50	AnnotatorNotes T37 "LabourLaw"
-T38	Term-diccionario 95 102	pensión
-#51	AnnotatorNotes T38 "LabourLaw"
-T39	Term-diccionario 183 190	aplicar
-#52	AnnotatorNotes T39 "LabourLaw"
-#53	AnnotatorNotes T3 "LabourLaw"
-T40	Term-diccionario 161 167	cesión
-#54	AnnotatorNotes T40 "LabourLaw"
-#55	AnnotatorNotes T5 "LabourLaw"
-#56	AnnotatorNotes T9 "IATE"
-#57	AnnotatorNotes T6 "IATE"
-#58	AnnotatorNotes T10 "IATE"
-#59	AnnotatorNotes T3 "IATE"
-#60	AnnotatorNotes T15 "IATE"
-#61	AnnotatorNotes T5 "IATE"
-#62	AnnotatorNotes T11 "IATE"
-T41	Term-diccionario 306 318	tRaBajadoREs
-#63	AnnotatorNotes T41 "IATE"
-#64	AnnotatorNotes T4 "IATE"
-#65	AnnotatorNotes T13 "IATE"
+T1	Term-DPEJ 41 45	caso
+T2	Term-DPEJ 146 153	trabajo
+T3	Term-DPEJ 171 178	empresa
+T4	Term-DPEJ 133 142	contratos
+T5	Term-DPEJ 92 102	suspensión
+T6	Term-DPEJ 78 90	modificación
+T7	Term-DPEJ 228 231	Ley
+T8	Term-DPEJ 13 36	Procedimiento concursal
+T9	Term-DPEJ 105 114	extinción
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-DPEJ 13 26	Procedimiento
+T12	Term-Termcat 49 57	concurso
+T13	Term-Termcat 133 142	contratos
+T14	Term-Termcat 228 231	Ley
+T15	Term-Termcat 159 167	sucesión
+T16	Term-Termcat 0 8	Artículo
+T17	Term-Termcat 267 275	CAPÍTULO
+T18	Term-Termcat 13 36	Procedimiento concursal
+T19	Term-Termcat 279 285	FaLtas
+T20	Term-Termcat 146 153	trabajo
+T21	Term-Termcat 159 178	sucesión de empresa
+T22	Term-Termcat 105 114	extinción
+T23	Term-Termcat 78 90	modificación
+T24	Term-Termcat 92 102	suspensión
+T25	Term-Termcat 27 36	concursal
+T26	Term-Termcat 256 265	Concursal
+T27	Term-Termcat 171 178	empresa
+T28	Term-Termcat 13 26	Procedimiento
+T29	Term-Termcat 197 211	especialidades
+T30	Term-DV 161 167	cesión
+T31	Term-DV 49 57	concurso
+T32	Term-DV 171 178	empresa
+T33	Term-DV 95 102	pensión
+T34	Term-DV 184 189	plica
+T35	Term-DV 137 141	rato
+T36	Term-DV 159 167	sucesión
+T37	Term-DV 92 102	suspensión
+T38	Term-DV 215 218	vis
+T39	Term-DV 215 220	vista
+T40	Term-DV 106 107	x
+T41	Term-AttentionRank 0 8	Artículo
+T42	Term-AttentionRank 65 74	supuestos
+T43	Term-AttentionRank 279 285	FaLtas
+T44	Term-AttentionRank 13 26	Procedimiento
+T45	Term-AttentionRank 105 114	extinción
+T46	Term-AttentionRank 92 102	suspensión
+T47	Term-AttentionRank 78 90	modificación
+T48	Term-AttentionRank 159 167	sucesión
+T49	Term-AttentionRank 306 318	tRaBajadoREs
+T50	Term-AttentionRank 171 178	empresa
+T51	Term-AttentionRank 13 36	Procedimiento concursal
+T52	Term-AttentionRank 41 57	caso de concurso
+T53	Term-AttentionRank 228 231	Ley
+T54	Term-AttentionRank 49 57	concurso
+T55	Term-AttentionRank 133 142	contratos
+T56	Term-AttentionRank 146 153	trabajo
+T57	Term-AttentionRank 41 45	caso
+T58	Term-LabourLaw 159 178	sucesión de empresa
+T59	Term-LabourLaw 78 90	modificación
+T60	Term-LabourLaw 146 153	trabajo
+T61	Term-LabourLaw 133 141	contrato
+T62	Term-LabourLaw 95 102	pensión
+T63	Term-LabourLaw 183 190	aplicar
+T64	Term-LabourLaw 171 178	empresa
+T65	Term-LabourLaw 161 167	cesión
+T66	Term-LabourLaw 92 102	suspensión
+T67	Term-IATE 105 114	extinción
+T68	Term-IATE 78 90	modificación
+T69	Term-IATE 0 8	Artículo
+T70	Term-IATE 171 178	empresa
+T71	Term-IATE 279 285	FaLtas
+T72	Term-IATE 92 102	suspensión
+T73	Term-IATE 13 26	Procedimiento
+T74	Term-IATE 306 318	tRaBajadoREs
+T75	Term-IATE 133 142	contratos
+T76	Term-IATE 159 167	sucesión

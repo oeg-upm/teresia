@@ -1,176 +1,135 @@
-T1	Term-diccionario 12 21	Capacidad
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 108 117	capacidad
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 423 432	capacidad
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 655 662	acuerdo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 372 377	cargo
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 288 294	padres
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 75 82	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 493 500	trabajo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 603 611	contrato
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 241 246	forma
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 108 126	capacidad de obrar
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 266 280	consentimiento
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 574 581	deberes
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 58 68	prestación
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 222 226	años
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 0 8	Artículo
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 312 324	autorización
-#17	AnnotatorNotes T17 "DPEJ"
-#18	AnnotatorNotes T11 "Termcat"
-#19	AnnotatorNotes T12 "Termcat"
-T18	Term-diccionario 27 36	contratar
-#20	AnnotatorNotes T18 "Termcat"
-T19	Term-diccionario 45 54	contratar
-#21	AnnotatorNotes T19 "Termcat"
-#22	AnnotatorNotes T9 "Termcat"
-#23	AnnotatorNotes T13 "Termcat"
-#24	AnnotatorNotes T10 "Termcat"
-#25	AnnotatorNotes T14 "Termcat"
-T20	Term-diccionario 385 398	representante
-#26	AnnotatorNotes T20 "Termcat"
-#27	AnnotatorNotes T16 "Termcat"
-T21	Term-diccionario 157 163	Código
-#28	AnnotatorNotes T21 "Termcat"
-#29	AnnotatorNotes T1 "Termcat"
-#30	AnnotatorNotes T3 "Termcat"
-#31	AnnotatorNotes T5 "Termcat"
-T22	Term-diccionario 622 630	cesación
-#32	AnnotatorNotes T22 "Termcat"
-#33	AnnotatorNotes T7 "Termcat"
-#34	AnnotatorNotes T8 "Termcat"
-T23	Term-diccionario 247 260	independiente
-#35	AnnotatorNotes T23 "Termcat"
-T24	Term-diccionario 164 169	Civil
-#36	AnnotatorNotes T24 "Termcat"
-T25	Term-diccionario 551 559	derechos
-#37	AnnotatorNotes T25 "Termcat"
-T26	Term-diccionario 412 419	persona
-#38	AnnotatorNotes T26 "Termcat"
-T27	Term-diccionario 331 338	persona
-#39	AnnotatorNotes T27 "Termcat"
-#40	AnnotatorNotes T17 "Termcat"
-T28	Term-diccionario 297 304	tutores
-#41	AnnotatorNotes T28 "Termcat"
-#42	AnnotatorNotes T4 "Termcat"
-T29	Term-diccionario 127 135	conforme
-#43	AnnotatorNotes T29 "Termcat"
-T30	Term-diccionario 341 352	institución
-#44	AnnotatorNotes T30 "Termcat"
-T31	Term-diccionario 399 404	legal
-#45	AnnotatorNotes T31 "Termcat"
-T32	Term-diccionario 686 697	legislación
-#46	AnnotatorNotes T32 "Termcat"
-T33	Term-diccionario 718 725	materia
-#47	AnnotatorNotes T33 "Termcat"
-T34	Term-diccionario 178 185	menores
-#48	AnnotatorNotes T34 "Termcat"
-#49	AnnotatorNotes T6 "Termcat"
-T35	Term-diccionario 385 404	representante legal
-#50	AnnotatorNotes T35 "Termcat"
-T36	Term-automatico 385 398	representante
-#51	AnnotatorNotes T36 "AttentionRank"
-T37	Term-automatico 385 404	representante legal
-#52	AnnotatorNotes T37 "AttentionRank"
-T38	Term-automatico 655 662	acuerdo
-#53	AnnotatorNotes T38 "AttentionRank"
-T39	Term-automatico 222 226	años
-#54	AnnotatorNotes T39 "AttentionRank"
-T40	Term-automatico 372 377	cargo
-#55	AnnotatorNotes T40 "AttentionRank"
-T41	Term-automatico 12 21	Capacidad
-#56	AnnotatorNotes T41 "AttentionRank"
-T42	Term-automatico 108 117	capacidad
-#57	AnnotatorNotes T42 "AttentionRank"
-T43	Term-automatico 423 432	capacidad
-#58	AnnotatorNotes T43 "AttentionRank"
-T44	Term-automatico 0 8	Artículo
-#59	AnnotatorNotes T44 "AttentionRank"
-T45	Term-automatico 331 338	persona
-#60	AnnotatorNotes T45 "AttentionRank"
-T46	Term-automatico 412 419	persona
-#61	AnnotatorNotes T46 "AttentionRank"
-T47	Term-automatico 27 36	contratar
-#62	AnnotatorNotes T47 "AttentionRank"
-T48	Term-automatico 45 54	contratar
-#63	AnnotatorNotes T48 "AttentionRank"
-T49	Term-automatico 102 117	plena capacidad
-#64	AnnotatorNotes T49 "AttentionRank"
-T50	Term-automatico 58 68	prestación
-#65	AnnotatorNotes T50 "AttentionRank"
-T51	Term-automatico 718 725	materia
-#66	AnnotatorNotes T51 "AttentionRank"
-T52	Term-automatico 241 246	forma
-#67	AnnotatorNotes T52 "AttentionRank"
-T53	Term-automatico 551 559	derechos
-#68	AnnotatorNotes T53 "AttentionRank"
-T54	Term-automatico 288 294	padres
-#69	AnnotatorNotes T54 "AttentionRank"
-T55	Term-automatico 603 611	contrato
-#70	AnnotatorNotes T55 "AttentionRank"
-T56	Term-automatico 266 280	consentimiento
-#71	AnnotatorNotes T56 "AttentionRank"
-T57	Term-automatico 574 581	deberes
-#72	AnnotatorNotes T57 "AttentionRank"
-T58	Term-automatico 75 82	trabajo
-#73	AnnotatorNotes T58 "AttentionRank"
-T59	Term-automatico 493 500	trabajo
-#74	AnnotatorNotes T59 "AttentionRank"
-T60	Term-automatico 639 650	extranjeros
-#75	AnnotatorNotes T60 "AttentionRank"
-T61	Term-automatico 312 324	autorización
-#76	AnnotatorNotes T61 "AttentionRank"
-T62	Term-automatico 241 260	forma independiente
-#77	AnnotatorNotes T62 "AttentionRank"
-#78	AnnotatorNotes T35 "LabourLaw"
-T63	Term-diccionario 639 649	extranjero
-#79	AnnotatorNotes T63 "LabourLaw"
-#80	AnnotatorNotes T7 "LabourLaw"
-#81	AnnotatorNotes T8 "LabourLaw"
-#82	AnnotatorNotes T9 "LabourLaw"
-T64	Term-diccionario 178 183	menor
-#83	AnnotatorNotes T64 "LabourLaw"
-#84	AnnotatorNotes T14 "LabourLaw"
-#85	AnnotatorNotes T20 "LabourLaw"
-#86	AnnotatorNotes T12 "LabourLaw"
-T65	Term-diccionario 574 579	deber
-#87	AnnotatorNotes T65 "LabourLaw"
-#88	AnnotatorNotes T17 "LabourLaw"
-#89	AnnotatorNotes T5 "LabourLaw"
-#90	AnnotatorNotes T30 "LabourLaw"
-T66	Term-diccionario 551 558	derecho
-#91	AnnotatorNotes T66 "LabourLaw"
-#92	AnnotatorNotes T32 "LabourLaw"
-T67	Term-diccionario 639 650	extranjeros
-#93	AnnotatorNotes T67 "LabourLaw"
-#94	AnnotatorNotes T27 "LabourLaw"
-#95	AnnotatorNotes T26 "LabourLaw"
-#96	AnnotatorNotes T5 "IATE"
-#97	AnnotatorNotes T12 "IATE"
-#98	AnnotatorNotes T16 "IATE"
-#99	AnnotatorNotes T4 "IATE"
-#100	AnnotatorNotes T17 "IATE"
-#101	AnnotatorNotes T6 "IATE"
-#102	AnnotatorNotes T33 "IATE"
-#103	AnnotatorNotes T1 "IATE"
-#104	AnnotatorNotes T2 "IATE"
-#105	AnnotatorNotes T3 "IATE"
-#106	AnnotatorNotes T14 "IATE"
-#107	AnnotatorNotes T9 "IATE"
-#108	AnnotatorNotes T67 "IATE"
-#109	AnnotatorNotes T20 "IATE"
+T1	Term-DPEJ 12 21	Capacidad
+T2	Term-DPEJ 108 117	capacidad
+T3	Term-DPEJ 423 432	capacidad
+T4	Term-DPEJ 655 662	acuerdo
+T5	Term-DPEJ 372 377	cargo
+T6	Term-DPEJ 288 294	padres
+T7	Term-DPEJ 75 82	trabajo
+T8	Term-DPEJ 493 500	trabajo
+T9	Term-DPEJ 603 611	contrato
+T10	Term-DPEJ 241 246	forma
+T11	Term-DPEJ 108 126	capacidad de obrar
+T12	Term-DPEJ 266 280	consentimiento
+T13	Term-DPEJ 574 581	deberes
+T14	Term-DPEJ 58 68	prestación
+T15	Term-DPEJ 222 226	años
+T16	Term-DPEJ 0 8	Artículo
+T17	Term-DPEJ 312 324	autorización
+T18	Term-Termcat 108 126	capacidad de obrar
+T19	Term-Termcat 266 280	consentimiento
+T20	Term-Termcat 27 36	contratar
+T21	Term-Termcat 45 54	contratar
+T22	Term-Termcat 603 611	contrato
+T23	Term-Termcat 574 581	deberes
+T24	Term-Termcat 241 246	forma
+T25	Term-Termcat 58 68	prestación
+T26	Term-Termcat 385 398	representante
+T27	Term-Termcat 0 8	Artículo
+T28	Term-Termcat 157 163	Código
+T29	Term-Termcat 12 21	Capacidad
+T30	Term-Termcat 423 432	capacidad
+T31	Term-Termcat 372 377	cargo
+T32	Term-Termcat 622 630	cesación
+T33	Term-Termcat 75 82	trabajo
+T34	Term-Termcat 493 500	trabajo
+T35	Term-Termcat 247 260	independiente
+T36	Term-Termcat 164 169	Civil
+T37	Term-Termcat 551 559	derechos
+T38	Term-Termcat 412 419	persona
+T39	Term-Termcat 331 338	persona
+T40	Term-Termcat 312 324	autorización
+T41	Term-Termcat 297 304	tutores
+T42	Term-Termcat 655 662	acuerdo
+T43	Term-Termcat 127 135	conforme
+T44	Term-Termcat 341 352	institución
+T45	Term-Termcat 399 404	legal
+T46	Term-Termcat 686 697	legislación
+T47	Term-Termcat 718 725	materia
+T48	Term-Termcat 178 185	menores
+T49	Term-Termcat 288 294	padres
+T50	Term-Termcat 385 404	representante legal
+T51	Term-DV 108 126	capacidad de obrar
+T52	Term-DV 108 112	capa
+T53	Term-DV 423 427	capa
+T54	Term-DV 108 117	capacidad
+T55	Term-DV 423 432	capacidad
+T56	Term-DV 372 377	cargo
+T57	Term-DV 622 630	cesación
+T58	Term-DV 574 578	debe
+T59	Term-DV 551 558	derecho
+T60	Term-DV 241 246	forma
+T61	Term-DV 399 404	legal
+T62	Term-DV 686 697	legislación
+T63	Term-DV 121 125	obra
+T64	Term-DV 288 293	padre
+T65	Term-DV 22 26	para
+T66	Term-DV 476 480	para
+T67	Term-DV 532 536	para
+T68	Term-DV 614 618	para
+T69	Term-DV 331 338	persona
+T70	Term-DV 412 419	persona
+T71	Term-DV 58 68	prestación
+T72	Term-DV 607 611	rato
+T73	Term-DV 481 485	real
+T74	Term-DV 166 169	vil
+T75	Term-DV 455 456	x
+T76	Term-DV 640 641	x
+T77	Term-AttentionRank 385 398	representante
+T78	Term-AttentionRank 385 404	representante legal
+T79	Term-AttentionRank 655 662	acuerdo
+T80	Term-AttentionRank 222 226	años
+T81	Term-AttentionRank 372 377	cargo
+T82	Term-AttentionRank 12 21	Capacidad
+T83	Term-AttentionRank 108 117	capacidad
+T84	Term-AttentionRank 423 432	capacidad
+T85	Term-AttentionRank 0 8	Artículo
+T86	Term-AttentionRank 331 338	persona
+T87	Term-AttentionRank 412 419	persona
+T88	Term-AttentionRank 27 36	contratar
+T89	Term-AttentionRank 45 54	contratar
+T90	Term-AttentionRank 102 117	plena capacidad
+T91	Term-AttentionRank 58 68	prestación
+T92	Term-AttentionRank 718 725	materia
+T93	Term-AttentionRank 241 246	forma
+T94	Term-AttentionRank 551 559	derechos
+T95	Term-AttentionRank 288 294	padres
+T96	Term-AttentionRank 603 611	contrato
+T97	Term-AttentionRank 266 280	consentimiento
+T98	Term-AttentionRank 574 581	deberes
+T99	Term-AttentionRank 75 82	trabajo
+T100	Term-AttentionRank 493 500	trabajo
+T101	Term-AttentionRank 639 650	extranjeros
+T102	Term-AttentionRank 312 324	autorización
+T103	Term-AttentionRank 241 260	forma independiente
+T104	Term-LabourLaw 385 404	representante legal
+T105	Term-LabourLaw 639 649	extranjero
+T106	Term-LabourLaw 75 82	trabajo
+T107	Term-LabourLaw 493 500	trabajo
+T108	Term-LabourLaw 603 611	contrato
+T109	Term-LabourLaw 178 183	menor
+T110	Term-LabourLaw 58 68	prestación
+T111	Term-LabourLaw 385 398	representante
+T112	Term-LabourLaw 266 280	consentimiento
+T113	Term-LabourLaw 574 579	deber
+T114	Term-LabourLaw 312 324	autorización
+T115	Term-LabourLaw 372 377	cargo
+T116	Term-LabourLaw 341 352	institución
+T117	Term-LabourLaw 551 558	derecho
+T118	Term-LabourLaw 686 697	legislación
+T119	Term-LabourLaw 639 650	extranjeros
+T120	Term-LabourLaw 331 338	persona
+T121	Term-LabourLaw 412 419	persona
+T122	Term-IATE 372 377	cargo
+T123	Term-IATE 266 280	consentimiento
+T124	Term-IATE 0 8	Artículo
+T125	Term-IATE 655 662	acuerdo
+T126	Term-IATE 312 324	autorización
+T127	Term-IATE 288 294	padres
+T128	Term-IATE 718 725	materia
+T129	Term-IATE 12 21	Capacidad
+T130	Term-IATE 108 117	capacidad
+T131	Term-IATE 423 432	capacidad
+T132	Term-IATE 58 68	prestación
+T133	Term-IATE 603 611	contrato
+T134	Term-IATE 639 650	extranjeros
+T135	Term-IATE 385 398	representante

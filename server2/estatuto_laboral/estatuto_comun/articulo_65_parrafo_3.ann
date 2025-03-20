@@ -1,399 +1,290 @@
-T1	Term-diccionario 1347 1351	caso
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 812 818	empleo
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 1370 1376	empleo
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 841 858	centro de trabajo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 1153 1165	organización
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 851 858	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 1170 1177	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 1199 1206	trabajo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 24 31	empresa
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 492 499	empresa
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 724 731	empresa
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 825 832	empresa
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 1089 1096	empresa
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 1213 1220	empresa
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 1391 1398	empresa
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 482 488	comité
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 714 720	comité
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 1381 1387	comité
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 701 706	lugar
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 548 557	contratos
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 1186 1195	contratos
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 225 238	participación
-#22	AnnotatorNotes T22 "DPEJ"
-T23	Term-diccionario 276 283	Riesgos
-#23	AnnotatorNotes T23 "DPEJ"
-T24	Term-diccionario 1355 1361	riesgo
-#24	AnnotatorNotes T24 "DPEJ"
-T25	Term-diccionario 1675 1683	traslado
-#25	AnnotatorNotes T25 "DPEJ"
-T26	Term-diccionario 570 582	notificación
-#26	AnnotatorNotes T26 "DPEJ"
-T27	Term-diccionario 276 293	Riesgos Laborales
-#27	AnnotatorNotes T27 "DPEJ"
-T28	Term-diccionario 482 499	comité de empresa
-#28	AnnotatorNotes T28 "DPEJ"
-T29	Term-diccionario 714 731	comité de empresa
-#29	AnnotatorNotes T29 "DPEJ"
-T30	Term-diccionario 1381 1398	comité de empresa
-#30	AnnotatorNotes T30 "DPEJ"
-T31	Term-diccionario 255 258	Ley
-#31	AnnotatorNotes T31 "DPEJ"
-T32	Term-diccionario 437 440	Ley
-#32	AnnotatorNotes T32 "DPEJ"
-T33	Term-diccionario 981 988	cambios
-#33	AnnotatorNotes T33 "DPEJ"
-T34	Term-diccionario 1119 1126	cambios
-#34	AnnotatorNotes T34 "DPEJ"
-T35	Term-diccionario 201 212	información
-#35	AnnotatorNotes T35 "DPEJ"
-T36	Term-diccionario 39 46	medidas
-#36	AnnotatorNotes T36 "DPEJ"
-T37	Term-diccionario 353 360	medidas
-#37	AnnotatorNotes T37 "DPEJ"
-T38	Term-diccionario 1309 1316	medidas
-#38	AnnotatorNotes T38 "DPEJ"
-T39	Term-diccionario 419 427	artículo
-#39	AnnotatorNotes T39 "DPEJ"
-T40	Term-diccionario 841 847	centro
-#40	AnnotatorNotes T40 "DPEJ"
-T41	Term-diccionario 1604 1609	ceses
-#41	AnnotatorNotes T41 "Termcat"
-T42	Term-diccionario 1423 1430	informe
-#42	AnnotatorNotes T42 "Termcat"
-#43	AnnotatorNotes T26 "Termcat"
-T43	Term-diccionario 656 661	plazo
-#44	AnnotatorNotes T43 "Termcat"
-T44	Term-diccionario 1286 1294	adopción
-#45	AnnotatorNotes T44 "Termcat"
-T45	Term-diccionario 325 333	adopción
-#46	AnnotatorNotes T45 "Termcat"
-#47	AnnotatorNotes T21 "Termcat"
-#48	AnnotatorNotes T20 "Termcat"
-#49	AnnotatorNotes T31 "Termcat"
-#50	AnnotatorNotes T32 "Termcat"
-#51	AnnotatorNotes T39 "Termcat"
-T46	Term-diccionario 1471 1476	parte
-#52	AnnotatorNotes T46 "Termcat"
-#53	AnnotatorNotes T4 "Termcat"
-#54	AnnotatorNotes T30 "Termcat"
-#55	AnnotatorNotes T29 "Termcat"
-#56	AnnotatorNotes T28 "Termcat"
-T47	Term-diccionario 610 619	denuncias
-#57	AnnotatorNotes T47 "Termcat"
-#58	AnnotatorNotes T9 "Termcat"
-#59	AnnotatorNotes T14 "Termcat"
-#60	AnnotatorNotes T12 "Termcat"
-#61	AnnotatorNotes T13 "Termcat"
-T48	Term-diccionario 1298 1308	eventuales
-#62	AnnotatorNotes T48 "Termcat"
-#63	AnnotatorNotes T8 "Termcat"
-#64	AnnotatorNotes T3 "Termcat"
-#65	AnnotatorNotes T2 "Termcat"
-T49	Term-diccionario 1153 1177	organización del trabajo
-#66	AnnotatorNotes T49 "Termcat"
-T50	Term-diccionario 1592 1601	plantilla
-#67	AnnotatorNotes T50 "Termcat"
-T51	Term-diccionario 262 293	Prevención de Riesgos Laborales
-#68	AnnotatorNotes T51 "Termcat"
-T52	Term-diccionario 591 600	prórrogas
-#69	AnnotatorNotes T52 "Termcat"
-#70	AnnotatorNotes T25 "Termcat"
-T53	Term-diccionario 113 124	catástrofes
-#71	AnnotatorNotes T53 "Termcat"
-T54	Term-diccionario 189 197	derechos
-#72	AnnotatorNotes T54 "Termcat"
-T55	Term-diccionario 739 746	derecho
-#73	AnnotatorNotes T55 "Termcat"
-T56	Term-diccionario 1240 1247	derecho
-#74	AnnotatorNotes T56 "Termcat"
-T57	Term-diccionario 1406 1413	derecho
-#75	AnnotatorNotes T57 "Termcat"
-T58	Term-diccionario 507 514	derecho
-#76	AnnotatorNotes T58 "Termcat"
-T59	Term-diccionario 1019 1026	derecho
-#77	AnnotatorNotes T59 "Termcat"
-T60	Term-diccionario 797 807	estructura
-#78	AnnotatorNotes T60 "Termcat"
-T61	Term-diccionario 1240 1263	derecho a ser informado
-#79	AnnotatorNotes T61 "Termcat"
-T62	Term-diccionario 1019 1042	derecho a ser informado
-#80	AnnotatorNotes T62 "Termcat"
-T63	Term-diccionario 739 762	derecho a ser informado
-#81	AnnotatorNotes T63 "Termcat"
-T64	Term-diccionario 50 59	actuación
-#82	AnnotatorNotes T64 "Termcat"
-#83	AnnotatorNotes T34 "Termcat"
-#84	AnnotatorNotes T33 "Termcat"
-T65	Term-diccionario 528 540	copia básica
-#85	AnnotatorNotes T65 "Termcat"
-T66	Term-diccionario 311 318	efectos
-#86	AnnotatorNotes T66 "Termcat"
-T67	Term-diccionario 1457 1466	ejecución
-#87	AnnotatorNotes T67 "Termcat"
-#88	AnnotatorNotes T35 "Termcat"
-T68	Term-diccionario 74 80	motivo
-#89	AnnotatorNotes T68 "Termcat"
-#90	AnnotatorNotes T22 "Termcat"
-T69	Term-diccionario 172 181	perjuicio
-#91	AnnotatorNotes T69 "Termcat"
-#92	AnnotatorNotes T24 "Termcat"
-T70	Term-diccionario 1645 1655	temporales
-#93	AnnotatorNotes T70 "Termcat"
-T71	Term-diccionario 1309 1328	medidas preventivas
-#94	AnnotatorNotes T71 "Termcat"
-#95	AnnotatorNotes T23 "Termcat"
-T72	Term-diccionario 262 272	Prevención
-#96	AnnotatorNotes T72 "Termcat"
-T73	Term-diccionario 1110 1118	provocar
-#97	AnnotatorNotes T73 "Termcat"
-T74	Term-automatico 785 794	situación
-#98	AnnotatorNotes T74 "AttentionRank"
-T75	Term-automatico 812 818	empleo
-#99	AnnotatorNotes T75 "AttentionRank"
-T76	Term-automatico 1370 1376	empleo
-#100	AnnotatorNotes T76 "AttentionRank"
-T77	Term-automatico 1153 1165	organización
-#101	AnnotatorNotes T77 "AttentionRank"
-T78	Term-automatico 1471 1476	parte
-#102	AnnotatorNotes T78 "AttentionRank"
-T79	Term-automatico 670 674	días
-#103	AnnotatorNotes T79 "AttentionRank"
-T80	Term-automatico 214 222	consulta
-#104	AnnotatorNotes T80 "AttentionRank"
-T81	Term-automatico 954 962	consulta
-#105	AnnotatorNotes T81 "AttentionRank"
-T82	Term-automatico 276 283	Riesgos
-#106	AnnotatorNotes T82 "AttentionRank"
-T83	Term-automatico 1355 1361	riesgo
-#107	AnnotatorNotes T83 "AttentionRank"
-T84	Term-automatico 1436 1466	carácter previo a la ejecución
-#108	AnnotatorNotes T84 "AttentionRank"
-T85	Term-automatico 1610 1617	totales
-#109	AnnotatorNotes T85 "AttentionRank"
-T86	Term-automatico 1684 1689	total
-#110	AnnotatorNotes T86 "AttentionRank"
-T87	Term-automatico 39 46	medidas
-#111	AnnotatorNotes T87 "AttentionRank"
-T88	Term-automatico 353 360	medidas
-#112	AnnotatorNotes T88 "AttentionRank"
-T89	Term-automatico 1309 1316	medidas
-#113	AnnotatorNotes T89 "AttentionRank"
-T90	Term-automatico 1675 1683	traslado
-#114	AnnotatorNotes T90 "AttentionRank"
-T91	Term-automatico 1436 1444	carácter
-#115	AnnotatorNotes T91 "AttentionRank"
-T92	Term-automatico 311 321	efectos de
-#116	AnnotatorNotes T92 "AttentionRank"
-T93	Term-automatico 558 561	así
-#117	AnnotatorNotes T93 "AttentionRank"
-T94	Term-automatico 860 863	así
-#118	AnnotatorNotes T94 "AttentionRank"
-T95	Term-automatico 482 488	comité
-#119	AnnotatorNotes T95 "AttentionRank"
-T96	Term-automatico 714 720	comité
-#120	AnnotatorNotes T96 "AttentionRank"
-T97	Term-automatico 1381 1387	comité
-#121	AnnotatorNotes T97 "AttentionRank"
-T98	Term-automatico 419 427	artículo
-#122	AnnotatorNotes T98 "AttentionRank"
-T99	Term-automatico 910 919	evolución
-#123	AnnotatorNotes T99 "AttentionRank"
-T100	Term-automatico 201 212	información
-#124	AnnotatorNotes T100 "AttentionRank"
-T101	Term-automatico 570 582	notificación
-#125	AnnotatorNotes T101 "AttentionRank"
-T102	Term-automatico 225 238	participación
-#126	AnnotatorNotes T102 "AttentionRank"
-T103	Term-automatico 701 706	lugar
-#127	AnnotatorNotes T103 "AttentionRank"
-T104	Term-automatico 1423 1430	informe
-#128	AnnotatorNotes T104 "AttentionRank"
-T105	Term-automatico 528 540	copia básica
-#129	AnnotatorNotes T105 "AttentionRank"
-T106	Term-automatico 74 97	motivo de la activación
-#130	AnnotatorNotes T106 "AttentionRank"
-T107	Term-automatico 1141 1165	cuanto a la organización
-#131	AnnotatorNotes T107 "AttentionRank"
-T108	Term-automatico 1499 1528	decisiones adoptadas por este
-#132	AnnotatorNotes T108 "AttentionRank"
-T109	Term-automatico 656 661	plazo
-#133	AnnotatorNotes T109 "AttentionRank"
-T110	Term-automatico 172 197	perjuicio de los derechos
-#134	AnnotatorNotes T110 "AttentionRank"
-T111	Term-automatico 24 31	empresa
-#135	AnnotatorNotes T111 "AttentionRank"
-T112	Term-automatico 492 499	empresa
-#136	AnnotatorNotes T112 "AttentionRank"
-T113	Term-automatico 724 731	empresa
-#137	AnnotatorNotes T113 "AttentionRank"
-T114	Term-automatico 825 832	empresa
-#138	AnnotatorNotes T114 "AttentionRank"
-T115	Term-automatico 1089 1096	empresa
-#139	AnnotatorNotes T115 "AttentionRank"
-T116	Term-automatico 1213 1220	empresa
-#140	AnnotatorNotes T116 "AttentionRank"
-T117	Term-automatico 1391 1398	empresa
-#141	AnnotatorNotes T117 "AttentionRank"
-T118	Term-automatico 591 600	prórrogas
-#142	AnnotatorNotes T118 "AttentionRank"
-T119	Term-automatico 255 258	Ley
-#143	AnnotatorNotes T119 "AttentionRank"
-T120	Term-automatico 437 440	Ley
-#144	AnnotatorNotes T120 "AttentionRank"
-T121	Term-automatico 841 847	centro
-#145	AnnotatorNotes T121 "AttentionRank"
-T122	Term-automatico 276 293	Riesgos Laborales
-#146	AnnotatorNotes T122 "AttentionRank"
-T123	Term-automatico 189 197	derechos
-#147	AnnotatorNotes T123 "AttentionRank"
-T124	Term-automatico 507 514	derecho
-#148	AnnotatorNotes T124 "AttentionRank"
-T125	Term-automatico 739 746	derecho
-#149	AnnotatorNotes T125 "AttentionRank"
-T126	Term-automatico 1019 1026	derecho
-#150	AnnotatorNotes T126 "AttentionRank"
-T127	Term-automatico 1240 1247	derecho
-#151	AnnotatorNotes T127 "AttentionRank"
-T128	Term-automatico 1406 1413	derecho
-#152	AnnotatorNotes T128 "AttentionRank"
-T129	Term-automatico 325 333	adopción
-#153	AnnotatorNotes T129 "AttentionRank"
-T130	Term-automatico 1286 1294	adopción
-#154	AnnotatorNotes T130 "AttentionRank"
-T131	Term-automatico 797 807	estructura
-#155	AnnotatorNotes T131 "AttentionRank"
-T132	Term-automatico 548 557	contratos
-#156	AnnotatorNotes T132 "AttentionRank"
-T133	Term-automatico 1186 1195	contratos
-#157	AnnotatorNotes T133 "AttentionRank"
-T134	Term-automatico 311 318	efectos
-#158	AnnotatorNotes T134 "AttentionRank"
-T135	Term-automatico 981 988	cambios
-#159	AnnotatorNotes T135 "AttentionRank"
-T136	Term-automatico 1119 1126	cambios
-#160	AnnotatorNotes T136 "AttentionRank"
-T137	Term-automatico 851 858	trabajo
-#161	AnnotatorNotes T137 "AttentionRank"
-T138	Term-automatico 1170 1177	trabajo
-#162	AnnotatorNotes T138 "AttentionRank"
-T139	Term-automatico 1199 1206	trabajo
-#163	AnnotatorNotes T139 "AttentionRank"
-T140	Term-automatico 1347 1351	caso
-#164	AnnotatorNotes T140 "AttentionRank"
-T141	Term-automatico 1481 1491	empresario
-#165	AnnotatorNotes T141 "AttentionRank"
-#166	AnnotatorNotes T28 "LabourLaw"
-#167	AnnotatorNotes T29 "LabourLaw"
-#168	AnnotatorNotes T30 "LabourLaw"
-#169	AnnotatorNotes T49 "LabourLaw"
-#170	AnnotatorNotes T4 "LabourLaw"
-#171	AnnotatorNotes T45 "LabourLaw"
-#172	AnnotatorNotes T44 "LabourLaw"
-#173	AnnotatorNotes T6 "LabourLaw"
-#174	AnnotatorNotes T7 "LabourLaw"
-#175	AnnotatorNotes T8 "LabourLaw"
-#176	AnnotatorNotes T24 "LabourLaw"
-#177	AnnotatorNotes T25 "LabourLaw"
-T142	Term-diccionario 548 556	contrato
-#178	AnnotatorNotes T142 "LabourLaw"
-T143	Term-diccionario 1186 1194	contrato
-#179	AnnotatorNotes T143 "LabourLaw"
-T144	Term-diccionario 39 45	medida
-#180	AnnotatorNotes T144 "LabourLaw"
-T145	Term-diccionario 353 359	medida
-#181	AnnotatorNotes T145 "LabourLaw"
-T146	Term-diccionario 1309 1315	medida
-#182	AnnotatorNotes T146 "LabourLaw"
-#183	AnnotatorNotes T35 "LabourLaw"
-#184	AnnotatorNotes T22 "LabourLaw"
-#185	AnnotatorNotes T5 "LabourLaw"
-T147	Term-diccionario 203 212	formación
-#186	AnnotatorNotes T147 "LabourLaw"
-T148	Term-diccionario 1481 1491	empresario
-#187	AnnotatorNotes T148 "LabourLaw"
-T149	Term-diccionario 591 599	prórroga
-#188	AnnotatorNotes T149 "LabourLaw"
-#189	AnnotatorNotes T9 "LabourLaw"
-#190	AnnotatorNotes T10 "LabourLaw"
-#191	AnnotatorNotes T11 "LabourLaw"
-#192	AnnotatorNotes T12 "LabourLaw"
-#193	AnnotatorNotes T13 "LabourLaw"
-#194	AnnotatorNotes T14 "LabourLaw"
-#195	AnnotatorNotes T15 "LabourLaw"
-T150	Term-diccionario 1481 1488	empresa
-#196	AnnotatorNotes T150 "LabourLaw"
-#197	AnnotatorNotes T16 "LabourLaw"
-#198	AnnotatorNotes T17 "LabourLaw"
-#199	AnnotatorNotes T18 "LabourLaw"
-T151	Term-diccionario 189 196	derecho
-#200	AnnotatorNotes T151 "LabourLaw"
-#201	AnnotatorNotes T58 "LabourLaw"
-#202	AnnotatorNotes T55 "LabourLaw"
-#203	AnnotatorNotes T59 "LabourLaw"
-#204	AnnotatorNotes T56 "LabourLaw"
-#205	AnnotatorNotes T57 "LabourLaw"
-#206	AnnotatorNotes T69 "LabourLaw"
-#207	AnnotatorNotes T2 "LabourLaw"
-#208	AnnotatorNotes T3 "LabourLaw"
-#209	AnnotatorNotes T23 "LabourLaw"
-T152	Term-diccionario 610 618	denuncia
-#210	AnnotatorNotes T152 "LabourLaw"
-#211	AnnotatorNotes T46 "IATE"
-#212	AnnotatorNotes T39 "IATE"
-#213	AnnotatorNotes T43 "IATE"
-#214	AnnotatorNotes T23 "IATE"
-#215	AnnotatorNotes T24 "IATE"
-#216	AnnotatorNotes T9 "IATE"
-#217	AnnotatorNotes T10 "IATE"
-#218	AnnotatorNotes T11 "IATE"
-#219	AnnotatorNotes T12 "IATE"
-#220	AnnotatorNotes T13 "IATE"
-#221	AnnotatorNotes T14 "IATE"
-#222	AnnotatorNotes T15 "IATE"
-#223	AnnotatorNotes T42 "IATE"
-#224	AnnotatorNotes T148 "IATE"
-#225	AnnotatorNotes T60 "IATE"
-T153	Term-diccionario 785 794	situación
-#226	AnnotatorNotes T153 "IATE"
-#227	AnnotatorNotes T45 "IATE"
-#228	AnnotatorNotes T44 "IATE"
-T154	Term-diccionario 214 222	consulta
-#229	AnnotatorNotes T154 "IATE"
-T155	Term-diccionario 954 962	consulta
-#230	AnnotatorNotes T155 "IATE"
-#231	AnnotatorNotes T22 "IATE"
-#232	AnnotatorNotes T2 "IATE"
-#233	AnnotatorNotes T3 "IATE"
-T156	Term-diccionario 1436 1444	carácter
-#234	AnnotatorNotes T156 "IATE"
-#235	AnnotatorNotes T52 "IATE"
-#236	AnnotatorNotes T20 "IATE"
-#237	AnnotatorNotes T21 "IATE"
-#238	AnnotatorNotes T16 "IATE"
-#239	AnnotatorNotes T17 "IATE"
-#240	AnnotatorNotes T18 "IATE"
-#241	AnnotatorNotes T66 "IATE"
-#242	AnnotatorNotes T35 "IATE"
-#243	AnnotatorNotes T26 "IATE"
+T1	Term-DPEJ 1347 1351	caso
+T2	Term-DPEJ 812 818	empleo
+T3	Term-DPEJ 1370 1376	empleo
+T4	Term-DPEJ 841 858	centro de trabajo
+T5	Term-DPEJ 1153 1165	organización
+T6	Term-DPEJ 851 858	trabajo
+T7	Term-DPEJ 1170 1177	trabajo
+T8	Term-DPEJ 1199 1206	trabajo
+T9	Term-DPEJ 24 31	empresa
+T10	Term-DPEJ 492 499	empresa
+T11	Term-DPEJ 724 731	empresa
+T12	Term-DPEJ 825 832	empresa
+T13	Term-DPEJ 1089 1096	empresa
+T14	Term-DPEJ 1213 1220	empresa
+T15	Term-DPEJ 1391 1398	empresa
+T16	Term-DPEJ 482 488	comité
+T17	Term-DPEJ 714 720	comité
+T18	Term-DPEJ 1381 1387	comité
+T19	Term-DPEJ 701 706	lugar
+T20	Term-DPEJ 548 557	contratos
+T21	Term-DPEJ 1186 1195	contratos
+T22	Term-DPEJ 225 238	participación
+T23	Term-DPEJ 276 283	Riesgos
+T24	Term-DPEJ 1355 1361	riesgo
+T25	Term-DPEJ 1675 1683	traslado
+T26	Term-DPEJ 570 582	notificación
+T27	Term-DPEJ 276 293	Riesgos Laborales
+T28	Term-DPEJ 482 499	comité de empresa
+T29	Term-DPEJ 714 731	comité de empresa
+T30	Term-DPEJ 1381 1398	comité de empresa
+T31	Term-DPEJ 255 258	Ley
+T32	Term-DPEJ 437 440	Ley
+T33	Term-DPEJ 981 988	cambios
+T34	Term-DPEJ 1119 1126	cambios
+T35	Term-DPEJ 201 212	información
+T36	Term-DPEJ 39 46	medidas
+T37	Term-DPEJ 353 360	medidas
+T38	Term-DPEJ 1309 1316	medidas
+T39	Term-DPEJ 419 427	artículo
+T40	Term-DPEJ 841 847	centro
+T41	Term-Termcat 1604 1609	ceses
+T42	Term-Termcat 1423 1430	informe
+T43	Term-Termcat 570 582	notificación
+T44	Term-Termcat 656 661	plazo
+T45	Term-Termcat 1286 1294	adopción
+T46	Term-Termcat 325 333	adopción
+T47	Term-Termcat 1186 1195	contratos
+T48	Term-Termcat 548 557	contratos
+T49	Term-Termcat 255 258	Ley
+T50	Term-Termcat 437 440	Ley
+T51	Term-Termcat 419 427	artículo
+T52	Term-Termcat 1471 1476	parte
+T53	Term-Termcat 841 858	centro de trabajo
+T54	Term-Termcat 1381 1398	comité de empresa
+T55	Term-Termcat 714 731	comité de empresa
+T56	Term-Termcat 482 499	comité de empresa
+T57	Term-Termcat 610 619	denuncias
+T58	Term-Termcat 24 31	empresa
+T59	Term-Termcat 1213 1220	empresa
+T60	Term-Termcat 825 832	empresa
+T61	Term-Termcat 1089 1096	empresa
+T62	Term-Termcat 1298 1308	eventuales
+T63	Term-Termcat 1199 1206	trabajo
+T64	Term-Termcat 1370 1376	empleo
+T65	Term-Termcat 812 818	empleo
+T66	Term-Termcat 1153 1177	organización del trabajo
+T67	Term-Termcat 1592 1601	plantilla
+T68	Term-Termcat 262 293	Prevención de Riesgos Laborales
+T69	Term-Termcat 591 600	prórrogas
+T70	Term-Termcat 1675 1683	traslado
+T71	Term-Termcat 113 124	catástrofes
+T72	Term-Termcat 189 197	derechos
+T73	Term-Termcat 739 746	derecho
+T74	Term-Termcat 1240 1247	derecho
+T75	Term-Termcat 1406 1413	derecho
+T76	Term-Termcat 507 514	derecho
+T77	Term-Termcat 1019 1026	derecho
+T78	Term-Termcat 797 807	estructura
+T79	Term-Termcat 1240 1263	derecho a ser informado
+T80	Term-Termcat 1019 1042	derecho a ser informado
+T81	Term-Termcat 739 762	derecho a ser informado
+T82	Term-Termcat 50 59	actuación
+T83	Term-Termcat 1119 1126	cambios
+T84	Term-Termcat 981 988	cambios
+T85	Term-Termcat 528 540	copia básica
+T86	Term-Termcat 311 318	efectos
+T87	Term-Termcat 1457 1466	ejecución
+T88	Term-Termcat 201 212	información
+T89	Term-Termcat 74 80	motivo
+T90	Term-Termcat 225 238	participación
+T91	Term-Termcat 172 181	perjuicio
+T92	Term-Termcat 1355 1361	riesgo
+T93	Term-Termcat 1645 1655	temporales
+T94	Term-Termcat 1309 1328	medidas preventivas
+T95	Term-Termcat 276 283	Riesgos
+T96	Term-Termcat 262 272	Prevención
+T97	Term-Termcat 1110 1118	provocar
+T98	Term-DV 610 618	denuncia
+T99	Term-DV 189 196	derecho
+T100	Term-DV 507 514	derecho
+T101	Term-DV 739 746	derecho
+T102	Term-DV 1019 1026	derecho
+T103	Term-DV 1240 1247	derecho
+T104	Term-DV 1406 1413	derecho
+T105	Term-DV 670 673	día
+T106	Term-DV 311 318	efectos
+T107	Term-DV 1457 1466	ejecución
+T108	Term-DV 24 31	empresa
+T109	Term-DV 492 499	empresa
+T110	Term-DV 724 731	empresa
+T111	Term-DV 825 832	empresa
+T112	Term-DV 1089 1096	empresa
+T113	Term-DV 1213 1220	empresa
+T114	Term-DV 1391 1398	empresa
+T115	Term-DV 1481 1488	empresa
+T116	Term-DV 1481 1491	empresario
+T117	Term-DV 121 123	fe
+T118	Term-DV 133 135	fe
+T119	Term-DV 312 314	fe
+T120	Term-DV 9 14	forma
+T121	Term-DV 203 208	forma
+T122	Term-DV 755 760	forma
+T123	Term-DV 877 882	forma
+T124	Term-DV 1035 1040	forma
+T125	Term-DV 1256 1261	forma
+T126	Term-DV 175 181	juicio
+T127	Term-DV 570 582	notificación
+T128	Term-DV 1620 1627	parcial
+T129	Term-DV 1692 1699	parcial
+T130	Term-DV 1362 1366	para
+T131	Term-DV 1471 1476	parte
+T132	Term-DV 225 238	participación
+T133	Term-DV 172 181	perjuicio
+T134	Term-DV 656 661	plazo
+T135	Term-DV 920 928	probable
+T136	Term-DV 591 599	prórroga
+T137	Term-DV 552 556	rato
+T138	Term-DV 1190 1194	rato
+T139	Term-DV 1675 1683	traslado
+T140	Term-DV 63 66	vis
+T141	Term-DV 242 245	vis
+T142	Term-DV 406 409	vis
+T143	Term-DV 63 68	vista
+T144	Term-DV 406 411	vista
+T145	Term-AttentionRank 785 794	situación
+T146	Term-AttentionRank 812 818	empleo
+T147	Term-AttentionRank 1370 1376	empleo
+T148	Term-AttentionRank 1153 1165	organización
+T149	Term-AttentionRank 1471 1476	parte
+T150	Term-AttentionRank 670 674	días
+T151	Term-AttentionRank 214 222	consulta
+T152	Term-AttentionRank 954 962	consulta
+T153	Term-AttentionRank 276 283	Riesgos
+T154	Term-AttentionRank 1355 1361	riesgo
+T155	Term-AttentionRank 1436 1466	carácter previo a la ejecución
+T156	Term-AttentionRank 1610 1617	totales
+T157	Term-AttentionRank 1684 1689	total
+T158	Term-AttentionRank 39 46	medidas
+T159	Term-AttentionRank 353 360	medidas
+T160	Term-AttentionRank 1309 1316	medidas
+T161	Term-AttentionRank 1675 1683	traslado
+T162	Term-AttentionRank 1436 1444	carácter
+T163	Term-AttentionRank 311 321	efectos de
+T164	Term-AttentionRank 558 561	así
+T165	Term-AttentionRank 860 863	así
+T166	Term-AttentionRank 482 488	comité
+T167	Term-AttentionRank 714 720	comité
+T168	Term-AttentionRank 1381 1387	comité
+T169	Term-AttentionRank 419 427	artículo
+T170	Term-AttentionRank 910 919	evolución
+T171	Term-AttentionRank 201 212	información
+T172	Term-AttentionRank 570 582	notificación
+T173	Term-AttentionRank 225 238	participación
+T174	Term-AttentionRank 701 706	lugar
+T175	Term-AttentionRank 1423 1430	informe
+T176	Term-AttentionRank 528 540	copia básica
+T177	Term-AttentionRank 74 97	motivo de la activación
+T178	Term-AttentionRank 1141 1165	cuanto a la organización
+T179	Term-AttentionRank 1499 1528	decisiones adoptadas por este
+T180	Term-AttentionRank 656 661	plazo
+T181	Term-AttentionRank 172 197	perjuicio de los derechos
+T182	Term-AttentionRank 24 31	empresa
+T183	Term-AttentionRank 492 499	empresa
+T184	Term-AttentionRank 724 731	empresa
+T185	Term-AttentionRank 825 832	empresa
+T186	Term-AttentionRank 1089 1096	empresa
+T187	Term-AttentionRank 1213 1220	empresa
+T188	Term-AttentionRank 1391 1398	empresa
+T189	Term-AttentionRank 591 600	prórrogas
+T190	Term-AttentionRank 255 258	Ley
+T191	Term-AttentionRank 437 440	Ley
+T192	Term-AttentionRank 841 847	centro
+T193	Term-AttentionRank 276 293	Riesgos Laborales
+T194	Term-AttentionRank 189 197	derechos
+T195	Term-AttentionRank 507 514	derecho
+T196	Term-AttentionRank 739 746	derecho
+T197	Term-AttentionRank 1019 1026	derecho
+T198	Term-AttentionRank 1240 1247	derecho
+T199	Term-AttentionRank 1406 1413	derecho
+T200	Term-AttentionRank 325 333	adopción
+T201	Term-AttentionRank 1286 1294	adopción
+T202	Term-AttentionRank 797 807	estructura
+T203	Term-AttentionRank 548 557	contratos
+T204	Term-AttentionRank 1186 1195	contratos
+T205	Term-AttentionRank 311 318	efectos
+T206	Term-AttentionRank 981 988	cambios
+T207	Term-AttentionRank 1119 1126	cambios
+T208	Term-AttentionRank 851 858	trabajo
+T209	Term-AttentionRank 1170 1177	trabajo
+T210	Term-AttentionRank 1199 1206	trabajo
+T211	Term-AttentionRank 1347 1351	caso
+T212	Term-AttentionRank 1481 1491	empresario
+T213	Term-LabourLaw 482 499	comité de empresa
+T214	Term-LabourLaw 714 731	comité de empresa
+T215	Term-LabourLaw 1381 1398	comité de empresa
+T216	Term-LabourLaw 1153 1177	organización del trabajo
+T217	Term-LabourLaw 841 858	centro de trabajo
+T218	Term-LabourLaw 325 333	adopción
+T219	Term-LabourLaw 1286 1294	adopción
+T220	Term-LabourLaw 851 858	trabajo
+T221	Term-LabourLaw 1170 1177	trabajo
+T222	Term-LabourLaw 1199 1206	trabajo
+T223	Term-LabourLaw 1355 1361	riesgo
+T224	Term-LabourLaw 1675 1683	traslado
+T225	Term-LabourLaw 548 556	contrato
+T226	Term-LabourLaw 1186 1194	contrato
+T227	Term-LabourLaw 39 45	medida
+T228	Term-LabourLaw 353 359	medida
+T229	Term-LabourLaw 1309 1315	medida
+T230	Term-LabourLaw 201 212	información
+T231	Term-LabourLaw 225 238	participación
+T232	Term-LabourLaw 1153 1165	organización
+T233	Term-LabourLaw 203 212	formación
+T234	Term-LabourLaw 1481 1491	empresario
+T235	Term-LabourLaw 591 599	prórroga
+T236	Term-LabourLaw 24 31	empresa
+T237	Term-LabourLaw 492 499	empresa
+T238	Term-LabourLaw 724 731	empresa
+T239	Term-LabourLaw 825 832	empresa
+T240	Term-LabourLaw 1089 1096	empresa
+T241	Term-LabourLaw 1213 1220	empresa
+T242	Term-LabourLaw 1391 1398	empresa
+T243	Term-LabourLaw 1481 1488	empresa
+T244	Term-LabourLaw 482 488	comité
+T245	Term-LabourLaw 714 720	comité
+T246	Term-LabourLaw 1381 1387	comité
+T247	Term-LabourLaw 189 196	derecho
+T248	Term-LabourLaw 507 514	derecho
+T249	Term-LabourLaw 739 746	derecho
+T250	Term-LabourLaw 1019 1026	derecho
+T251	Term-LabourLaw 1240 1247	derecho
+T252	Term-LabourLaw 1406 1413	derecho
+T253	Term-LabourLaw 172 181	perjuicio
+T254	Term-LabourLaw 812 818	empleo
+T255	Term-LabourLaw 1370 1376	empleo
+T256	Term-LabourLaw 276 283	Riesgos
+T257	Term-LabourLaw 610 618	denuncia
+T258	Term-IATE 1471 1476	parte
+T259	Term-IATE 419 427	artículo
+T260	Term-IATE 656 661	plazo
+T261	Term-IATE 276 283	Riesgos
+T262	Term-IATE 1355 1361	riesgo
+T263	Term-IATE 24 31	empresa
+T264	Term-IATE 492 499	empresa
+T265	Term-IATE 724 731	empresa
+T266	Term-IATE 825 832	empresa
+T267	Term-IATE 1089 1096	empresa
+T268	Term-IATE 1213 1220	empresa
+T269	Term-IATE 1391 1398	empresa
+T270	Term-IATE 1423 1430	informe
+T271	Term-IATE 1481 1491	empresario
+T272	Term-IATE 797 807	estructura
+T273	Term-IATE 785 794	situación
+T274	Term-IATE 325 333	adopción
+T275	Term-IATE 1286 1294	adopción
+T276	Term-IATE 214 222	consulta
+T277	Term-IATE 954 962	consulta
+T278	Term-IATE 225 238	participación
+T279	Term-IATE 812 818	empleo
+T280	Term-IATE 1370 1376	empleo
+T281	Term-IATE 1436 1444	carácter
+T282	Term-IATE 591 600	prórrogas
+T283	Term-IATE 548 557	contratos
+T284	Term-IATE 1186 1195	contratos
+T285	Term-IATE 482 488	comité
+T286	Term-IATE 714 720	comité
+T287	Term-IATE 1381 1387	comité
+T288	Term-IATE 311 318	efectos
+T289	Term-IATE 201 212	información
+T290	Term-IATE 570 582	notificación

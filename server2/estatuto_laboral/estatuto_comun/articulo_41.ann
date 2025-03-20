@@ -1,192 +1,130 @@
-T1	Term-diccionario 677 685	salarial
-#1	AnnotatorNotes T1 "DPEJ"
-T2	Term-diccionario 343 355	organización
-#2	AnnotatorNotes T2 "DPEJ"
-T3	Term-diccionario 59 66	trabajo
-#3	AnnotatorNotes T3 "DPEJ"
-T4	Term-diccionario 162 169	trabajo
-#4	AnnotatorNotes T4 "DPEJ"
-T5	Term-diccionario 370 377	trabajo
-#5	AnnotatorNotes T5 "DPEJ"
-T6	Term-diccionario 471 478	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
-T7	Term-diccionario 550 557	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
-T8	Term-diccionario 599 606	trabajo
-#8	AnnotatorNotes T8 "DPEJ"
-T9	Term-diccionario 622 629	trabajo
-#9	AnnotatorNotes T9 "DPEJ"
-T10	Term-diccionario 701 708	trabajo
-#10	AnnotatorNotes T10 "DPEJ"
-T11	Term-diccionario 90 97	empresa
-#11	AnnotatorNotes T11 "DPEJ"
-T12	Term-diccionario 384 391	empresa
-#12	AnnotatorNotes T12 "DPEJ"
-T13	Term-diccionario 74 83	dirección
-#13	AnnotatorNotes T13 "DPEJ"
-T14	Term-diccionario 643 650	Sistema
-#14	AnnotatorNotes T14 "DPEJ"
-T15	Term-diccionario 690 697	Sistema
-#15	AnnotatorNotes T15 "DPEJ"
-T16	Term-diccionario 589 595	tiempo
-#16	AnnotatorNotes T16 "DPEJ"
-T17	Term-diccionario 622 638	trabajo a turnos
-#17	AnnotatorNotes T17 "DPEJ"
-T18	Term-diccionario 669 676	cuantía
-#18	AnnotatorNotes T18 "DPEJ"
-T19	Term-diccionario 539 546	Jornada
-#19	AnnotatorNotes T19 "DPEJ"
-T20	Term-diccionario 760 767	límites
-#20	AnnotatorNotes T20 "DPEJ"
-T21	Term-diccionario 572 584	distribución
-#21	AnnotatorNotes T21 "DPEJ"
-T22	Term-diccionario 0 8	Artículo
-#22	AnnotatorNotes T22 "DPEJ"
-#23	AnnotatorNotes T22 "Termcat"
-#24	AnnotatorNotes T14 "Termcat"
-#25	AnnotatorNotes T15 "Termcat"
-T23	Term-diccionario 311 325	competitividad
-#26	AnnotatorNotes T23 "Termcat"
-T24	Term-diccionario 456 478	condiciones de trabajo
-#27	AnnotatorNotes T24 "Termcat"
-T25	Term-diccionario 44 66	condiciones de trabajo
-#28	AnnotatorNotes T25 "Termcat"
-T26	Term-diccionario 147 169	condiciones de trabajo
-#29	AnnotatorNotes T26 "Termcat"
-#30	AnnotatorNotes T13 "Termcat"
-#31	AnnotatorNotes T11 "Termcat"
-#32	AnnotatorNotes T12 "Termcat"
-#33	AnnotatorNotes T5 "Termcat"
-#34	AnnotatorNotes T10 "Termcat"
-T27	Term-diccionario 539 557	Jornada de trabajo
-#35	AnnotatorNotes T27 "Termcat"
-T28	Term-diccionario 780 799	movilidad funcional
-#36	AnnotatorNotes T28 "Termcat"
-T29	Term-diccionario 327 340	productividad
-#37	AnnotatorNotes T29 "Termcat"
-T30	Term-diccionario 654 666	remuneración
-#38	AnnotatorNotes T30 "Termcat"
-T31	Term-diccionario 711 722	rendimiento
-#39	AnnotatorNotes T31 "Termcat"
-#40	AnnotatorNotes T1 "Termcat"
-T32	Term-diccionario 589 606	tiempo de trabajo
-#41	AnnotatorNotes T32 "Termcat"
-#42	AnnotatorNotes T17 "Termcat"
-#43	AnnotatorNotes T8 "Termcat"
-#44	AnnotatorNotes T9 "Termcat"
-T33	Term-diccionario 526 534	materias
-#45	AnnotatorNotes T33 "Termcat"
-T34	Term-diccionario 243 253	producción
-#46	AnnotatorNotes T34 "Termcat"
-#47	AnnotatorNotes T18 "Termcat"
-T35	Term-diccionario 611 618	Régimen
-#48	AnnotatorNotes T35 "Termcat"
-T36	Term-diccionario 690 708	Sistema de trabajo
-#49	AnnotatorNotes T36 "Termcat"
-T37	Term-diccionario 632 638	turnos
-#50	AnnotatorNotes T37 "Termcat"
-T38	Term-diccionario 104 111	acordar
-#51	AnnotatorNotes T38 "Termcat"
-T39	Term-automatico 760 767	límites
-#52	AnnotatorNotes T39 "AttentionRank"
-T40	Term-automatico 669 676	cuantía
-#53	AnnotatorNotes T40 "AttentionRank"
-T41	Term-automatico 589 595	tiempo
-#54	AnnotatorNotes T41 "AttentionRank"
-T42	Term-automatico 343 355	organización
-#55	AnnotatorNotes T42 "AttentionRank"
-T43	Term-automatico 311 325	competitividad
-#56	AnnotatorNotes T43 "AttentionRank"
-T44	Term-automatico 74 83	dirección
-#57	AnnotatorNotes T44 "AttentionRank"
-T45	Term-automatico 539 546	Jornada
-#58	AnnotatorNotes T45 "AttentionRank"
-T46	Term-automatico 185 212	probadas razones económicas
-#59	AnnotatorNotes T46 "AttentionRank"
-T47	Term-automatico 0 8	Artículo
-#60	AnnotatorNotes T47 "AttentionRank"
-T48	Term-automatico 194 212	razones económicas
-#61	AnnotatorNotes T48 "AttentionRank"
-T49	Term-automatico 780 799	movilidad funcional
-#62	AnnotatorNotes T49 "AttentionRank"
-T50	Term-automatico 677 685	salarial
-#63	AnnotatorNotes T50 "AttentionRank"
-T51	Term-automatico 271 276	tales
-#64	AnnotatorNotes T51 "AttentionRank"
-T52	Term-automatico 515 534	siguientes materias
-#65	AnnotatorNotes T52 "AttentionRank"
-T53	Term-automatico 643 650	Sistema
-#66	AnnotatorNotes T53 "AttentionRank"
-T54	Term-automatico 690 697	Sistema
-#67	AnnotatorNotes T54 "AttentionRank"
-T55	Term-automatico 243 253	producción
-#68	AnnotatorNotes T55 "AttentionRank"
-T56	Term-automatico 90 97	empresa
-#69	AnnotatorNotes T56 "AttentionRank"
-T57	Term-automatico 384 391	empresa
-#70	AnnotatorNotes T57 "AttentionRank"
-T58	Term-automatico 526 534	materias
-#71	AnnotatorNotes T58 "AttentionRank"
-T59	Term-automatico 562 569	Horario
-#72	AnnotatorNotes T59 "AttentionRank"
-T60	Term-automatico 632 638	turnos
-#73	AnnotatorNotes T60 "AttentionRank"
-T61	Term-automatico 572 584	distribución
-#74	AnnotatorNotes T61 "AttentionRank"
-T62	Term-automatico 327 340	productividad
-#75	AnnotatorNotes T62 "AttentionRank"
-T63	Term-automatico 404 417	consideración
-#76	AnnotatorNotes T63 "AttentionRank"
-T64	Term-automatico 59 66	trabajo
-#77	AnnotatorNotes T64 "AttentionRank"
-T65	Term-automatico 162 169	trabajo
-#78	AnnotatorNotes T65 "AttentionRank"
-T66	Term-automatico 370 377	trabajo
-#79	AnnotatorNotes T66 "AttentionRank"
-T67	Term-automatico 471 478	trabajo
-#80	AnnotatorNotes T67 "AttentionRank"
-T68	Term-automatico 550 557	trabajo
-#81	AnnotatorNotes T68 "AttentionRank"
-T69	Term-automatico 599 606	trabajo
-#82	AnnotatorNotes T69 "AttentionRank"
-T70	Term-automatico 622 629	trabajo
-#83	AnnotatorNotes T70 "AttentionRank"
-T71	Term-automatico 701 708	trabajo
-#84	AnnotatorNotes T71 "AttentionRank"
-T72	Term-automatico 13 40	Modificaciones sustanciales
-#85	AnnotatorNotes T72 "AttentionRank"
-T73	Term-automatico 112 139	modificaciones sustanciales
-#86	AnnotatorNotes T73 "AttentionRank"
-T74	Term-automatico 421 448	modificaciones sustanciales
-#87	AnnotatorNotes T74 "AttentionRank"
-#88	AnnotatorNotes T25 "LabourLaw"
-#89	AnnotatorNotes T26 "LabourLaw"
-#90	AnnotatorNotes T24 "LabourLaw"
-#91	AnnotatorNotes T28 "LabourLaw"
-#92	AnnotatorNotes T29 "LabourLaw"
-#93	AnnotatorNotes T3 "LabourLaw"
-#94	AnnotatorNotes T4 "LabourLaw"
-#95	AnnotatorNotes T5 "LabourLaw"
-#96	AnnotatorNotes T6 "LabourLaw"
-#97	AnnotatorNotes T7 "LabourLaw"
-#98	AnnotatorNotes T8 "LabourLaw"
-#99	AnnotatorNotes T9 "LabourLaw"
-#100	AnnotatorNotes T10 "LabourLaw"
-#101	AnnotatorNotes T13 "LabourLaw"
-#102	AnnotatorNotes T2 "LabourLaw"
-#103	AnnotatorNotes T30 "LabourLaw"
-#104	AnnotatorNotes T18 "LabourLaw"
-#105	AnnotatorNotes T11 "LabourLaw"
-#106	AnnotatorNotes T12 "LabourLaw"
-T75	Term-diccionario 632 637	turno
-#107	AnnotatorNotes T75 "LabourLaw"
-#108	AnnotatorNotes T29 "IATE"
-#109	AnnotatorNotes T22 "IATE"
-#110	AnnotatorNotes T11 "IATE"
-#111	AnnotatorNotes T12 "IATE"
-#112	AnnotatorNotes T21 "IATE"
-#113	AnnotatorNotes T23 "IATE"
-#114	AnnotatorNotes T33 "IATE"
-#115	AnnotatorNotes T14 "IATE"
-#116	AnnotatorNotes T15 "IATE"
-#117	AnnotatorNotes T13 "IATE"
+T1	Term-DPEJ 677 685	salarial
+T2	Term-DPEJ 343 355	organización
+T3	Term-DPEJ 59 66	trabajo
+T4	Term-DPEJ 162 169	trabajo
+T5	Term-DPEJ 370 377	trabajo
+T6	Term-DPEJ 471 478	trabajo
+T7	Term-DPEJ 550 557	trabajo
+T8	Term-DPEJ 599 606	trabajo
+T9	Term-DPEJ 622 629	trabajo
+T10	Term-DPEJ 701 708	trabajo
+T11	Term-DPEJ 90 97	empresa
+T12	Term-DPEJ 384 391	empresa
+T13	Term-DPEJ 74 83	dirección
+T14	Term-DPEJ 643 650	Sistema
+T15	Term-DPEJ 690 697	Sistema
+T16	Term-DPEJ 589 595	tiempo
+T17	Term-DPEJ 622 638	trabajo a turnos
+T18	Term-DPEJ 669 676	cuantía
+T19	Term-DPEJ 539 546	Jornada
+T20	Term-DPEJ 760 767	límites
+T21	Term-DPEJ 572 584	distribución
+T22	Term-DPEJ 0 8	Artículo
+T23	Term-Termcat 0 8	Artículo
+T24	Term-Termcat 643 650	Sistema
+T25	Term-Termcat 690 697	Sistema
+T26	Term-Termcat 311 325	competitividad
+T27	Term-Termcat 456 478	condiciones de trabajo
+T28	Term-Termcat 44 66	condiciones de trabajo
+T29	Term-Termcat 147 169	condiciones de trabajo
+T30	Term-Termcat 74 83	dirección
+T31	Term-Termcat 90 97	empresa
+T32	Term-Termcat 384 391	empresa
+T33	Term-Termcat 370 377	trabajo
+T34	Term-Termcat 701 708	trabajo
+T35	Term-Termcat 539 557	Jornada de trabajo
+T36	Term-Termcat 780 799	movilidad funcional
+T37	Term-Termcat 327 340	productividad
+T38	Term-Termcat 654 666	remuneración
+T39	Term-Termcat 711 722	rendimiento
+T40	Term-Termcat 677 685	salarial
+T41	Term-Termcat 589 606	tiempo de trabajo
+T42	Term-Termcat 622 638	trabajo a turnos
+T43	Term-Termcat 599 606	trabajo
+T44	Term-Termcat 622 629	trabajo
+T45	Term-Termcat 526 534	materias
+T46	Term-Termcat 243 253	producción
+T47	Term-Termcat 669 676	cuantía
+T48	Term-Termcat 611 618	Régimen
+T49	Term-Termcat 690 708	Sistema de trabajo
+T50	Term-Termcat 632 638	turnos
+T51	Term-Termcat 104 111	acordar
+T52	Term-DV 108 111	dar
+T53	Term-DV 74 83	dirección
+T54	Term-DV 572 584	distribución
+T55	Term-DV 90 97	empresa
+T56	Term-DV 384 391	empresa
+T57	Term-DV 502 504	fe
+T58	Term-DV 760 767	límites
+T59	Term-DV 772 776	para
+T60	Term-DV 654 666	remuneración
+T61	Term-DV 677 681	sala
+T62	Term-DV 782 785	vil
+T63	Term-DV 178 179	x
+T64	Term-DV 746 747	x
+T65	Term-AttentionRank 760 767	límites
+T66	Term-AttentionRank 669 676	cuantía
+T67	Term-AttentionRank 589 595	tiempo
+T68	Term-AttentionRank 343 355	organización
+T69	Term-AttentionRank 311 325	competitividad
+T70	Term-AttentionRank 74 83	dirección
+T71	Term-AttentionRank 539 546	Jornada
+T72	Term-AttentionRank 185 212	probadas razones económicas
+T73	Term-AttentionRank 0 8	Artículo
+T74	Term-AttentionRank 194 212	razones económicas
+T75	Term-AttentionRank 780 799	movilidad funcional
+T76	Term-AttentionRank 677 685	salarial
+T77	Term-AttentionRank 271 276	tales
+T78	Term-AttentionRank 515 534	siguientes materias
+T79	Term-AttentionRank 643 650	Sistema
+T80	Term-AttentionRank 690 697	Sistema
+T81	Term-AttentionRank 243 253	producción
+T82	Term-AttentionRank 90 97	empresa
+T83	Term-AttentionRank 384 391	empresa
+T84	Term-AttentionRank 526 534	materias
+T85	Term-AttentionRank 562 569	Horario
+T86	Term-AttentionRank 632 638	turnos
+T87	Term-AttentionRank 572 584	distribución
+T88	Term-AttentionRank 327 340	productividad
+T89	Term-AttentionRank 404 417	consideración
+T90	Term-AttentionRank 59 66	trabajo
+T91	Term-AttentionRank 162 169	trabajo
+T92	Term-AttentionRank 370 377	trabajo
+T93	Term-AttentionRank 471 478	trabajo
+T94	Term-AttentionRank 550 557	trabajo
+T95	Term-AttentionRank 599 606	trabajo
+T96	Term-AttentionRank 622 629	trabajo
+T97	Term-AttentionRank 701 708	trabajo
+T98	Term-AttentionRank 13 40	Modificaciones sustanciales
+T99	Term-AttentionRank 112 139	modificaciones sustanciales
+T100	Term-AttentionRank 421 448	modificaciones sustanciales
+T101	Term-LabourLaw 44 66	condiciones de trabajo
+T102	Term-LabourLaw 147 169	condiciones de trabajo
+T103	Term-LabourLaw 456 478	condiciones de trabajo
+T104	Term-LabourLaw 780 799	movilidad funcional
+T105	Term-LabourLaw 327 340	productividad
+T106	Term-LabourLaw 59 66	trabajo
+T107	Term-LabourLaw 162 169	trabajo
+T108	Term-LabourLaw 370 377	trabajo
+T109	Term-LabourLaw 471 478	trabajo
+T110	Term-LabourLaw 550 557	trabajo
+T111	Term-LabourLaw 599 606	trabajo
+T112	Term-LabourLaw 622 629	trabajo
+T113	Term-LabourLaw 701 708	trabajo
+T114	Term-LabourLaw 74 83	dirección
+T115	Term-LabourLaw 343 355	organización
+T116	Term-LabourLaw 654 666	remuneración
+T117	Term-LabourLaw 669 676	cuantía
+T118	Term-LabourLaw 90 97	empresa
+T119	Term-LabourLaw 384 391	empresa
+T120	Term-LabourLaw 632 637	turno
+T121	Term-IATE 327 340	productividad
+T122	Term-IATE 0 8	Artículo
+T123	Term-IATE 90 97	empresa
+T124	Term-IATE 384 391	empresa
+T125	Term-IATE 572 584	distribución
+T126	Term-IATE 311 325	competitividad
+T127	Term-IATE 526 534	materias
+T128	Term-IATE 643 650	Sistema
+T129	Term-IATE 690 697	Sistema
+T130	Term-IATE 74 83	dirección
