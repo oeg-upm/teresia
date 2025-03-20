@@ -1,265 +1,352 @@
-T1	Term-DPEJ 528 532	caso
-T2	Term-DPEJ 1639 1646	acuerdo
-T3	Term-DPEJ 664 671	órganos
-T4	Term-DPEJ 1516 1527	negociación
-T5	Term-DPEJ 892 898	ámbito
-T6	Term-DPEJ 1491 1497	ámbito
-T7	Term-DPEJ 489 496	empresa
-T8	Term-DPEJ 611 619	convenio
-T9	Term-DPEJ 1815 1824	convenios
-T10	Term-DPEJ 853 862	condición
-T11	Term-DPEJ 912 930	comunidad autónoma
-T12	Term-DPEJ 1151 1179	organizaciones empresariales
-T13	Term-DPEJ 512 520	personal
-T14	Term-DPEJ 912 921	comunidad
-T15	Term-DPEJ 149 157	artículo
-T16	Term-DPEJ 373 381	artículo
-T17	Term-DPEJ 1240 1248	artículo
-T18	Term-DPEJ 1840 1846	número
-T19	Term-Termcat 1633 1646	mutuo acuerdo
-T20	Term-Termcat 912 930	comunidad autónoma
-T21	Term-Termcat 853 862	condición
-T22	Term-Termcat 611 619	convenio
-T23	Term-Termcat 1815 1824	convenios
-T24	Term-Termcat 912 921	comunidad
-T25	Term-Termcat 1633 1638	mutuo
-T26	Term-Termcat 1862 1876	representación
-T27	Term-Termcat 675 689	representación
-T28	Term-Termcat 1240 1248	artículo
-T29	Term-Termcat 149 157	artículo
-T30	Term-Termcat 373 381	artículo
-T31	Term-Termcat 438 454	mayoría absoluta
-T32	Term-Termcat 1799 1803	voto
-T33	Term-Termcat 36 40	voto
-T34	Term-Termcat 1516 1527	negociación
-T35	Term-Termcat 1601 1607	partes
-T36	Term-Termcat 1885 1890	parte
-T37	Term-Termcat 1491 1509	ámbito territorial
-T38	Term-Termcat 1693 1703	asistencia
-T39	Term-Termcat 277 287	sindicatos
-T40	Term-Termcat 1572 1580	comisión
-T41	Term-Termcat 58 78	comisión negociadora
-T42	Term-Termcat 751 771	comisión negociadora
-T43	Term-Termcat 1091 1111	comisión negociadora
-T44	Term-Termcat 1355 1375	comisión negociadora
-T45	Term-Termcat 213 233	comisión negociadora
-T46	Term-Termcat 489 496	empresa
-T47	Term-Termcat 1601 1620	partes negociadoras
-T48	Term-Termcat 512 520	personal
-T49	Term-Termcat 107 114	derecho
-T50	Term-Termcat 566 573	mayoría
-T51	Term-Termcat 438 445	mayoría
-T52	Term-Termcat 1639 1646	acuerdo
-T53	Term-Termcat 339 352	empresariales
-T54	Term-Termcat 1471 1484	empresariales
-T55	Term-Termcat 988 1001	empresariales
-T56	Term-Termcat 1166 1179	empresariales
-T57	Term-Termcat 664 671	órganos
-T58	Term-Termcat 6 13	reparto
-T59	Term-Termcat 1325 1332	reparto
-T60	Term-Termcat 1825 1836	sectoriales
-T61	Term-Termcat 751 759	comisión
-T62	Term-Termcat 1091 1099	comisión
-T63	Term-Termcat 1355 1363	comisión
-T64	Term-Termcat 213 221	comisión
-T65	Term-Termcat 58 66	comisión
-T66	Term-Termcat 1654 1662	designar
-T67	Term-DV 584 588	baja
-T68	Term-DV 700 704	baja
-T69	Term-DV 58 66	comisión
-T70	Term-DV 213 221	comisión
-T71	Term-DV 751 759	comisión
-T72	Term-DV 1091 1099	comisión
-T73	Term-DV 1355 1363	comisión
-T74	Term-DV 1572 1580	comisión
-T75	Term-DV 912 921	comunidad
-T76	Term-DV 853 862	condición
-T77	Term-DV 237 240	dar
-T78	Term-DV 107 114	derecho
-T79	Term-DV 1654 1662	designar
-T80	Term-DV 339 346	empresa
-T81	Term-DV 489 496	empresa
-T82	Term-DV 538 545	empresa
-T83	Term-DV 988 995	empresa
-T84	Term-DV 1166 1173	empresa
-T85	Term-DV 1471 1478	empresa
-T86	Term-DV 538 548	empresario
-T87	Term-DV 83 85	fe
-T88	Term-DV 289 291	fe
-T89	Term-DV 307 309	fe
-T90	Term-DV 595 597	fe
-T91	Term-DV 1206 1208	fe
-T92	Term-DV 1380 1382	fe
-T93	Term-DV 501 507	legado
-T94	Term-DV 1540 1546	nación
-T95	Term-DV 1516 1527	negociación
-T96	Term-DV 67 76	negociado
-T97	Term-DV 222 231	negociado
-T98	Term-DV 760 769	negociado
-T99	Term-DV 1100 1109	negociado
-T100	Term-DV 1364 1373	negociado
-T101	Term-DV 1608 1617	negociado
-T102	Term-DV 59 66	omisión
-T103	Term-DV 214 221	omisión
-T104	Term-DV 752 759	omisión
-T105	Term-DV 1092 1099	omisión
-T106	Term-DV 1356 1363	omisión
-T107	Term-DV 1573 1580	omisión
-T108	Term-DV 1601 1606	parte
-T109	Term-DV 1885 1890	parte
-T110	Term-DV 8 13	parto
-T111	Term-DV 1327 1332	parto
-T112	Term-DV 512 519	persona
-T113	Term-DV 512 520	personal
-T114	Term-DV 1557 1564	ponente
-T115	Term-DV 677 689	presentación
-T116	Term-DV 1864 1876	presentación
-T117	Term-DV 1666 1676	presidente
-T118	Term-DV 1770 1780	presidente
-T119	Term-DV 675 689	representación
-T120	Term-DV 1862 1876	representación
-T121	Term-DV 277 286	sindicato
-T122	Term-DV 716 722	tender
-T123	Term-DV 1056 1062	tender
-T124	Term-DV 581 591	trabajador
-T125	Term-DV 697 707	trabajador
-T126	Term-DV 36 40	voto
-T127	Term-DV 1799 1803	voto
-T128	Term-DV 657 658	x
-T129	Term-DV 968 969	x
-T130	Term-DV 1895 1896	x
-T131	Term-AttentionRank 149 166	artículo anterior
-T132	Term-AttentionRank 373 390	artículo anterior
-T133	Term-AttentionRank 1601 1607	partes
-T134	Term-AttentionRank 1885 1890	parte
-T135	Term-AttentionRank 1862 1890	representación de cada parte
-T136	Term-AttentionRank 1639 1646	acuerdo
-T137	Term-AttentionRank 581 603	trabajadores afectados
-T138	Term-AttentionRank 912 921	comunidad
-T139	Term-AttentionRank 1601 1620	partes negociadoras
-T140	Term-AttentionRank 58 78	comisión negociadora
-T141	Term-AttentionRank 213 233	comisión negociadora
-T142	Term-AttentionRank 751 771	comisión negociadora
-T143	Term-AttentionRank 1091 1111	comisión negociadora
-T144	Term-AttentionRank 1355 1375	comisión negociadora
-T145	Term-AttentionRank 1151 1179	organizaciones empresariales
-T146	Term-AttentionRank 149 157	artículo
-T147	Term-AttentionRank 373 381	artículo
-T148	Term-AttentionRank 1240 1248	artículo
-T149	Term-AttentionRank 1265 1274	supuestos
-T150	Term-AttentionRank 811 836	organizaciones sindicales
-T151	Term-AttentionRank 1443 1468	organizaciones sindicales
-T152	Term-AttentionRank 277 287	sindicatos
-T153	Term-AttentionRank 1491 1509	ámbito territorial
-T154	Term-AttentionRank 1693 1703	asistencia
-T155	Term-AttentionRank 892 898	ámbito
-T156	Term-AttentionRank 1491 1497	ámbito
-T157	Term-AttentionRank 611 619	convenio
-T158	Term-AttentionRank 1815 1824	convenios
-T159	Term-AttentionRank 1666 1676	presidente
-T160	Term-AttentionRank 1770 1780	presidente
-T161	Term-AttentionRank 17 25	miembros
-T162	Term-AttentionRank 462 470	miembros
-T163	Term-AttentionRank 1340 1348	miembros
-T164	Term-AttentionRank 1850 1858	miembros
-T165	Term-AttentionRank 499 508	delegados
-T166	Term-AttentionRank 675 709	representación de los trabajadores
-T167	Term-AttentionRank 1679 1685	contar
-T168	Term-AttentionRank 1516 1527	negociación
-T169	Term-AttentionRank 581 593	trabajadores
-T170	Term-AttentionRank 697 709	trabajadores
-T171	Term-AttentionRank 107 166	derecho de todos los legitimados según el artículo anterior
-T172	Term-AttentionRank 664 671	órganos
-T173	Term-AttentionRank 58 66	comisión
-T174	Term-AttentionRank 213 221	comisión
-T175	Term-AttentionRank 751 759	comisión
-T176	Term-AttentionRank 1091 1099	comisión
-T177	Term-AttentionRank 1355 1363	comisión
-T178	Term-AttentionRank 1572 1580	comisión
-T179	Term-AttentionRank 489 496	empresa
-T180	Term-AttentionRank 853 862	condición
-T181	Term-AttentionRank 675 689	representación
-T182	Term-AttentionRank 1862 1876	representación
-T183	Term-AttentionRank 36 40	voto
-T184	Term-AttentionRank 1799 1803	voto
-T185	Term-AttentionRank 326 352	asociaciones empresariales
-T186	Term-AttentionRank 975 1001	asociaciones empresariales
-T187	Term-AttentionRank 172 182	proporción
-T188	Term-AttentionRank 1392 1402	proporción
-T189	Term-AttentionRank 107 114	derecho
-T190	Term-AttentionRank 1840 1846	número
-T191	Term-AttentionRank 30 33	voz
-T192	Term-AttentionRank 1786 1789	voz
-T193	Term-AttentionRank 912 930	comunidad autónoma
-T194	Term-AttentionRank 892 906	ámbito estatal
-T195	Term-AttentionRank 1815 1836	convenios sectoriales
-T196	Term-AttentionRank 499 520	delegados de personal
-T197	Term-AttentionRank 512 520	personal
-T198	Term-AttentionRank 528 532	caso
-T199	Term-AttentionRank 538 549	empresarios
-T200	Term-LabourLaw 675 709	representación de los trabajadores
-T201	Term-LabourLaw 499 520	delegados de personal
-T202	Term-LabourLaw 1491 1509	ámbito territorial
-T203	Term-LabourLaw 892 906	ámbito estatal
-T204	Term-LabourLaw 1633 1646	mutuo acuerdo
-T205	Term-LabourLaw 58 78	comisión negociadora
-T206	Term-LabourLaw 213 233	comisión negociadora
-T207	Term-LabourLaw 751 771	comisión negociadora
-T208	Term-LabourLaw 1091 1111	comisión negociadora
-T209	Term-LabourLaw 1355 1375	comisión negociadora
-T210	Term-LabourLaw 1894 1901	exceder
-T211	Term-LabourLaw 58 66	comisión
-T212	Term-LabourLaw 213 221	comisión
-T213	Term-LabourLaw 751 759	comisión
-T214	Term-LabourLaw 1091 1099	comisión
-T215	Term-LabourLaw 1355 1363	comisión
-T216	Term-LabourLaw 1572 1580	comisión
-T217	Term-LabourLaw 581 591	trabajador
-T218	Term-LabourLaw 697 707	trabajador
-T219	Term-LabourLaw 892 898	ámbito
-T220	Term-LabourLaw 1491 1497	ámbito
-T221	Term-LabourLaw 277 286	sindicato
-T222	Term-LabourLaw 853 862	condición
-T223	Term-LabourLaw 538 548	empresario
-T224	Term-LabourLaw 664 670	órgano
-T225	Term-LabourLaw 499 507	delegado
-T226	Term-LabourLaw 339 346	empresa
-T227	Term-LabourLaw 489 496	empresa
-T228	Term-LabourLaw 538 545	empresa
-T229	Term-LabourLaw 988 995	empresa
-T230	Term-LabourLaw 1166 1173	empresa
-T231	Term-LabourLaw 1471 1478	empresa
-T232	Term-LabourLaw 478 484	comité
-T233	Term-LabourLaw 107 114	derecho
-T234	Term-LabourLaw 912 921	comunidad
-T235	Term-LabourLaw 512 520	personal
-T236	Term-LabourLaw 512 519	persona
-T237	Term-LabourLaw 8 13	parto
-T238	Term-LabourLaw 1327 1332	parto
-T239	Term-IATE 1666 1676	presidente
-T240	Term-IATE 1770 1780	presidente
-T241	Term-IATE 1601 1607	partes
-T242	Term-IATE 1885 1890	parte
-T243	Term-IATE 149 157	artículo
-T244	Term-IATE 373 381	artículo
-T245	Term-IATE 1240 1248	artículo
-T246	Term-IATE 1639 1646	acuerdo
-T247	Term-IATE 489 496	empresa
-T248	Term-IATE 538 549	empresarios
-T249	Term-IATE 912 921	comunidad
-T250	Term-IATE 499 508	delegados
-T251	Term-IATE 581 593	trabajadores
-T252	Term-IATE 697 709	trabajadores
-T253	Term-IATE 17 25	miembros
-T254	Term-IATE 462 470	miembros
-T255	Term-IATE 1340 1348	miembros
-T256	Term-IATE 1850 1858	miembros
-T257	Term-IATE 1516 1527	negociación
-T258	Term-IATE 58 66	comisión
-T259	Term-IATE 213 221	comisión
-T260	Term-IATE 751 759	comisión
-T261	Term-IATE 1091 1099	comisión
-T262	Term-IATE 1355 1363	comisión
-T263	Term-IATE 1572 1580	comisión
-T264	Term-IATE 611 619	convenio
-T265	Term-IATE 1815 1824	convenios
+T1	Term-diccionario 528 532	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1639 1646	acuerdo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 664 671	órganos
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1516 1527	negociación
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 892 898	ámbito
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1491 1497	ámbito
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 489 496	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 611 619	convenio
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 1815 1824	convenios
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 853 862	condición
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 912 930	comunidad autónoma
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 1151 1179	organizaciones empresariales
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 512 520	personal
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 912 921	comunidad
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 149 157	artículo
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 373 381	artículo
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1240 1248	artículo
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 1840 1846	número
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 1633 1646	mutuo acuerdo
+#19	AnnotatorNotes T19 "Termcat"
+#20	AnnotatorNotes T11 "Termcat"
+#21	AnnotatorNotes T10 "Termcat"
+#22	AnnotatorNotes T8 "Termcat"
+#23	AnnotatorNotes T9 "Termcat"
+#24	AnnotatorNotes T14 "Termcat"
+T20	Term-diccionario 1633 1638	mutuo
+#25	AnnotatorNotes T20 "Termcat"
+T21	Term-diccionario 1862 1876	representación
+#26	AnnotatorNotes T21 "Termcat"
+T22	Term-diccionario 675 689	representación
+#27	AnnotatorNotes T22 "Termcat"
+#28	AnnotatorNotes T17 "Termcat"
+#29	AnnotatorNotes T15 "Termcat"
+#30	AnnotatorNotes T16 "Termcat"
+T23	Term-diccionario 438 454	mayoría absoluta
+#31	AnnotatorNotes T23 "Termcat"
+T24	Term-diccionario 1799 1803	voto
+#32	AnnotatorNotes T24 "Termcat"
+T25	Term-diccionario 36 40	voto
+#33	AnnotatorNotes T25 "Termcat"
+#34	AnnotatorNotes T4 "Termcat"
+T26	Term-diccionario 1601 1607	partes
+#35	AnnotatorNotes T26 "Termcat"
+T27	Term-diccionario 1885 1890	parte
+#36	AnnotatorNotes T27 "Termcat"
+T28	Term-diccionario 1491 1509	ámbito territorial
+#37	AnnotatorNotes T28 "Termcat"
+T29	Term-diccionario 1693 1703	asistencia
+#38	AnnotatorNotes T29 "Termcat"
+T30	Term-diccionario 277 287	sindicatos
+#39	AnnotatorNotes T30 "Termcat"
+T31	Term-diccionario 1572 1580	comisión
+#40	AnnotatorNotes T31 "Termcat"
+T32	Term-diccionario 58 78	comisión negociadora
+#41	AnnotatorNotes T32 "Termcat"
+T33	Term-diccionario 751 771	comisión negociadora
+#42	AnnotatorNotes T33 "Termcat"
+T34	Term-diccionario 1091 1111	comisión negociadora
+#43	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 1355 1375	comisión negociadora
+#44	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 213 233	comisión negociadora
+#45	AnnotatorNotes T36 "Termcat"
+#46	AnnotatorNotes T7 "Termcat"
+T37	Term-diccionario 1601 1620	partes negociadoras
+#47	AnnotatorNotes T37 "Termcat"
+#48	AnnotatorNotes T13 "Termcat"
+T38	Term-diccionario 107 114	derecho
+#49	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 566 573	mayoría
+#50	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 438 445	mayoría
+#51	AnnotatorNotes T40 "Termcat"
+#52	AnnotatorNotes T2 "Termcat"
+T41	Term-diccionario 339 352	empresariales
+#53	AnnotatorNotes T41 "Termcat"
+T42	Term-diccionario 1471 1484	empresariales
+#54	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 988 1001	empresariales
+#55	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 1166 1179	empresariales
+#56	AnnotatorNotes T44 "Termcat"
+#57	AnnotatorNotes T3 "Termcat"
+T45	Term-diccionario 6 13	reparto
+#58	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1325 1332	reparto
+#59	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 1825 1836	sectoriales
+#60	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 751 759	comisión
+#61	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 1091 1099	comisión
+#62	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 1355 1363	comisión
+#63	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 213 221	comisión
+#64	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 58 66	comisión
+#65	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 1654 1662	designar
+#66	AnnotatorNotes T53 "Termcat"
+T54	Term-automatico 149 166	artículo anterior
+#67	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 373 390	artículo anterior
+#68	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 1601 1607	partes
+#69	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 1885 1890	parte
+#70	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 1862 1890	representación de cada parte
+#71	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 1639 1646	acuerdo
+#72	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 581 603	trabajadores afectados
+#73	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 912 921	comunidad
+#74	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 1601 1620	partes negociadoras
+#75	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 58 78	comisión negociadora
+#76	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 213 233	comisión negociadora
+#77	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 751 771	comisión negociadora
+#78	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 1091 1111	comisión negociadora
+#79	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 1355 1375	comisión negociadora
+#80	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 1151 1179	organizaciones empresariales
+#81	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 149 157	artículo
+#82	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 373 381	artículo
+#83	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 1240 1248	artículo
+#84	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 1265 1274	supuestos
+#85	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 811 836	organizaciones sindicales
+#86	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 1443 1468	organizaciones sindicales
+#87	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 277 287	sindicatos
+#88	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 1491 1509	ámbito territorial
+#89	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 1693 1703	asistencia
+#90	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 892 898	ámbito
+#91	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 1491 1497	ámbito
+#92	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 611 619	convenio
+#93	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 1815 1824	convenios
+#94	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1666 1676	presidente
+#95	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 1770 1780	presidente
+#96	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 17 25	miembros
+#97	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 462 470	miembros
+#98	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 1340 1348	miembros
+#99	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 1850 1858	miembros
+#100	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 499 508	delegados
+#101	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 675 709	representación de los trabajadores
+#102	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1679 1685	contar
+#103	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1516 1527	negociación
+#104	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 581 593	trabajadores
+#105	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 697 709	trabajadores
+#106	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 107 166	derecho de todos los legitimados según el artículo anterior
+#107	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 664 671	órganos
+#108	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 58 66	comisión
+#109	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 213 221	comisión
+#110	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 751 759	comisión
+#111	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1091 1099	comisión
+#112	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1355 1363	comisión
+#113	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1572 1580	comisión
+#114	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 489 496	empresa
+#115	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 853 862	condición
+#116	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 675 689	representación
+#117	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 1862 1876	representación
+#118	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 36 40	voto
+#119	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1799 1803	voto
+#120	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 326 352	asociaciones empresariales
+#121	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 975 1001	asociaciones empresariales
+#122	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 172 182	proporción
+#123	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 1392 1402	proporción
+#124	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 107 114	derecho
+#125	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 1840 1846	número
+#126	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 30 33	voz
+#127	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 1786 1789	voz
+#128	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 912 930	comunidad autónoma
+#129	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 892 906	ámbito estatal
+#130	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1815 1836	convenios sectoriales
+#131	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 499 520	delegados de personal
+#132	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 512 520	personal
+#133	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 528 532	caso
+#134	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 538 549	empresarios
+#135	AnnotatorNotes T122 "AttentionRank"
+T123	Term-diccionario 675 709	representación de los trabajadores
+#136	AnnotatorNotes T123 "LabourLaw"
+T124	Term-diccionario 499 520	delegados de personal
+#137	AnnotatorNotes T124 "LabourLaw"
+#138	AnnotatorNotes T28 "LabourLaw"
+T125	Term-diccionario 892 906	ámbito estatal
+#139	AnnotatorNotes T125 "LabourLaw"
+#140	AnnotatorNotes T19 "LabourLaw"
+#141	AnnotatorNotes T32 "LabourLaw"
+#142	AnnotatorNotes T36 "LabourLaw"
+#143	AnnotatorNotes T33 "LabourLaw"
+#144	AnnotatorNotes T34 "LabourLaw"
+#145	AnnotatorNotes T35 "LabourLaw"
+T126	Term-diccionario 1894 1901	exceder
+#146	AnnotatorNotes T126 "LabourLaw"
+#147	AnnotatorNotes T52 "LabourLaw"
+#148	AnnotatorNotes T51 "LabourLaw"
+#149	AnnotatorNotes T48 "LabourLaw"
+#150	AnnotatorNotes T49 "LabourLaw"
+#151	AnnotatorNotes T50 "LabourLaw"
+#152	AnnotatorNotes T31 "LabourLaw"
+T127	Term-diccionario 581 591	trabajador
+#153	AnnotatorNotes T127 "LabourLaw"
+T128	Term-diccionario 697 707	trabajador
+#154	AnnotatorNotes T128 "LabourLaw"
+#155	AnnotatorNotes T5 "LabourLaw"
+#156	AnnotatorNotes T6 "LabourLaw"
+T129	Term-diccionario 277 286	sindicato
+#157	AnnotatorNotes T129 "LabourLaw"
+#158	AnnotatorNotes T10 "LabourLaw"
+T130	Term-diccionario 538 548	empresario
+#159	AnnotatorNotes T130 "LabourLaw"
+T131	Term-diccionario 664 670	órgano
+#160	AnnotatorNotes T131 "LabourLaw"
+T132	Term-diccionario 499 507	delegado
+#161	AnnotatorNotes T132 "LabourLaw"
+T133	Term-diccionario 339 346	empresa
+#162	AnnotatorNotes T133 "LabourLaw"
+#163	AnnotatorNotes T7 "LabourLaw"
+T134	Term-diccionario 538 545	empresa
+#164	AnnotatorNotes T134 "LabourLaw"
+T135	Term-diccionario 988 995	empresa
+#165	AnnotatorNotes T135 "LabourLaw"
+T136	Term-diccionario 1166 1173	empresa
+#166	AnnotatorNotes T136 "LabourLaw"
+T137	Term-diccionario 1471 1478	empresa
+#167	AnnotatorNotes T137 "LabourLaw"
+T138	Term-diccionario 478 484	comité
+#168	AnnotatorNotes T138 "LabourLaw"
+#169	AnnotatorNotes T38 "LabourLaw"
+#170	AnnotatorNotes T14 "LabourLaw"
+#171	AnnotatorNotes T13 "LabourLaw"
+T139	Term-diccionario 512 519	persona
+#172	AnnotatorNotes T139 "LabourLaw"
+T140	Term-diccionario 8 13	parto
+#173	AnnotatorNotes T140 "LabourLaw"
+T141	Term-diccionario 1327 1332	parto
+#174	AnnotatorNotes T141 "LabourLaw"
+T142	Term-diccionario 1666 1676	presidente
+#175	AnnotatorNotes T142 "IATE"
+T143	Term-diccionario 1770 1780	presidente
+#176	AnnotatorNotes T143 "IATE"
+#177	AnnotatorNotes T26 "IATE"
+#178	AnnotatorNotes T27 "IATE"
+#179	AnnotatorNotes T15 "IATE"
+#180	AnnotatorNotes T16 "IATE"
+#181	AnnotatorNotes T17 "IATE"
+#182	AnnotatorNotes T2 "IATE"
+#183	AnnotatorNotes T7 "IATE"
+T144	Term-diccionario 538 549	empresarios
+#184	AnnotatorNotes T144 "IATE"
+#185	AnnotatorNotes T14 "IATE"
+T145	Term-diccionario 499 508	delegados
+#186	AnnotatorNotes T145 "IATE"
+T146	Term-diccionario 581 593	trabajadores
+#187	AnnotatorNotes T146 "IATE"
+T147	Term-diccionario 697 709	trabajadores
+#188	AnnotatorNotes T147 "IATE"
+T148	Term-diccionario 17 25	miembros
+#189	AnnotatorNotes T148 "IATE"
+T149	Term-diccionario 462 470	miembros
+#190	AnnotatorNotes T149 "IATE"
+T150	Term-diccionario 1340 1348	miembros
+#191	AnnotatorNotes T150 "IATE"
+T151	Term-diccionario 1850 1858	miembros
+#192	AnnotatorNotes T151 "IATE"
+#193	AnnotatorNotes T4 "IATE"
+#194	AnnotatorNotes T52 "IATE"
+#195	AnnotatorNotes T51 "IATE"
+#196	AnnotatorNotes T48 "IATE"
+#197	AnnotatorNotes T49 "IATE"
+#198	AnnotatorNotes T50 "IATE"
+#199	AnnotatorNotes T31 "IATE"
+#200	AnnotatorNotes T8 "IATE"
+#201	AnnotatorNotes T9 "IATE"

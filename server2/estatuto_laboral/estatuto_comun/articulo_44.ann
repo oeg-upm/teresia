@@ -1,286 +1,365 @@
-T1	Term-DPEJ 260 264	caso
-T2	Term-DPEJ 649 661	organización
-T3	Term-DPEJ 1005 1014	Seguridad
-T4	Term-DPEJ 161 168	trabajo
-T5	Term-DPEJ 1463 1470	trabajo
-T6	Term-DPEJ 107 114	empresa
-T7	Term-DPEJ 549 556	empresa
-T8	Term-DPEJ 570 577	empresa
-T9	Term-DPEJ 599 606	empresa
-T10	Term-DPEJ 1239 1246	empresa
-T11	Term-DPEJ 1318 1325	empresa
-T12	Term-DPEJ 149 157	empresas
-T13	Term-DPEJ 472 480	empresas
-T14	Term-DPEJ 439 448	contratos
-T15	Term-DPEJ 796 805	condición
-T16	Term-DPEJ 1198 1207	condición
-T17	Term-DPEJ 161 177	trabajo temporal
-T18	Term-DPEJ 511 522	disposición
-T19	Term-DPEJ 557 564	cedente
-T20	Term-DPEJ 607 614	cedente
-T21	Term-DPEJ 841 848	cedente
-T22	Term-DPEJ 1247 1254	cedente
-T23	Term-DPEJ 630 639	actividad
-T24	Term-DPEJ 743 752	actividad
-T25	Term-DPEJ 402 416	circunstancias
-T26	Term-DPEJ 896 905	apartados
-T27	Term-DPEJ 1050 1067	responsabilidades
-T28	Term-DPEJ 1453 1459	puesto
-T29	Term-DPEJ 1223 1231	elección
-T30	Term-DPEJ 452 461	servicios
-T31	Term-DPEJ 1417 1426	servicios
-T32	Term-DPEJ 0 8	Artículo
-T33	Term-DPEJ 349 357	artículo
-T34	Term-Termcat 796 805	condición
-T35	Term-Termcat 1198 1207	condición
-T36	Term-Termcat 452 461	servicios
-T37	Term-Termcat 1417 1426	servicios
-T38	Term-Termcat 209 217	términos
-T39	Term-Termcat 1110 1115	actos
-T40	Term-Termcat 1475 1479	bien
-T41	Term-Termcat 1247 1254	cedente
-T42	Term-Termcat 557 564	cedente
-T43	Term-Termcat 841 848	cedente
-T44	Term-Termcat 607 614	cedente
-T45	Term-Termcat 13 19	Cesión
-T46	Term-Termcat 1529 1535	cesión
-T47	Term-Termcat 299 305	cesión
-T48	Term-Termcat 439 448	contratos
-T49	Term-Termcat 0 8	Artículo
-T50	Term-Termcat 349 357	artículo
-T51	Term-Termcat 1483 1493	antigüedad
-T52	Term-Termcat 13 35	Cesión de trabajadores
-T53	Term-Termcat 107 114	empresa
-T54	Term-Termcat 1318 1325	empresa
-T55	Term-Termcat 549 556	empresa
-T56	Term-Termcat 1239 1246	empresa
-T57	Term-Termcat 599 606	empresa
-T58	Term-Termcat 570 577	empresa
-T59	Term-Termcat 472 480	empresas
-T60	Term-Termcat 149 157	empresas
-T61	Term-Termcat 1453 1470	puesto de trabajo
-T62	Term-Termcat 1005 1021	Seguridad Social
-T63	Term-Termcat 161 177	trabajo temporal
-T64	Term-Termcat 726 736	desarrollo
-T65	Term-Termcat 1176 1183	derecho
-T66	Term-Termcat 1273 1281	derechos
-T67	Term-Termcat 700 706	medios
-T68	Term-Termcat 1005 1014	Seguridad
-T69	Term-Termcat 511 522	disposición
-T70	Term-Termcat 743 752	actividad
-T71	Term-Termcat 630 639	actividad
-T72	Term-Termcat 402 416	circunstancias
-T73	Term-Termcat 43 55	contratación
-T74	Term-Termcat 1223 1231	elección
-T75	Term-Termcat 161 168	trabajo
-T76	Term-Termcat 1536 1542	ilegal
-T77	Term-Termcat 306 312	ilegal
-T78	Term-Termcat 1077 1084	penales
-T79	Term-Termcat 1027 1036	perjuicio
-T80	Term-Termcat 1050 1067	responsabilidades
-T81	Term-Termcat 169 177	temporal
-T82	Term-DV 26 30	baja
-T83	Term-DV 62 66	baja
-T84	Term-DV 319 323	baja
-T85	Term-DV 533 537	baja
-T86	Term-DV 986 990	baja
-T87	Term-DV 1127 1131	baja
-T88	Term-DV 1304 1308	baja
-T89	Term-DV 1398 1402	baja
-T90	Term-DV 180 183	bid
-T91	Term-DV 1163 1166	bid
-T92	Term-DV 180 183	bid
-T93	Term-DV 1163 1166	bid
-T94	Term-DV 1475 1479	bien
-T95	Term-DV 557 564	cedente
-T96	Term-DV 607 614	cedente
-T97	Term-DV 841 848	cedente
-T98	Term-DV 1247 1254	cedente
-T99	Term-DV 299 305	cesión
-T100	Term-DV 1529 1535	cesión
-T101	Term-DV 851 861	cesionario
-T102	Term-DV 1497 1505	computar
-T103	Term-DV 796 805	condición
-T104	Term-DV 1198 1207	condición
-T105	Term-DV 933 936	dar
-T106	Term-DV 1176 1183	derecho
-T107	Term-DV 1273 1280	derecho
-T108	Term-DV 1103 1108	dicho
-T109	Term-DV 702 706	dios
-T110	Term-DV 511 522	disposición
-T111	Term-DV 1489 1493	edad
-T112	Term-DV 1223 1231	elección
-T113	Term-DV 107 114	empresa
-T114	Term-DV 149 156	empresa
-T115	Term-DV 472 479	empresa
-T116	Term-DV 549 556	empresa
-T117	Term-DV 570 577	empresa
-T118	Term-DV 599 606	empresa
-T119	Term-DV 809 816	empresa
-T120	Term-DV 828 835	empresa
-T121	Term-DV 1239 1246	empresa
-T122	Term-DV 1318 1325	empresa
-T123	Term-DV 809 819	empresario
-T124	Term-DV 828 838	empresario
-T125	Term-DV 127 129	fe
-T126	Term-DV 306 312	ilegal
-T127	Term-DV 1536 1542	ilegal
-T128	Term-DV 1030 1036	juicio
-T129	Term-DV 222 227	legal
-T130	Term-DV 307 312	legal
-T131	Term-DV 1537 1542	legal
-T132	Term-DV 425 431	objeto
-T133	Term-DV 72 76	para
-T134	Term-DV 718 722	para
-T135	Term-DV 1077 1081	pena
-T136	Term-DV 1027 1036	perjuicio
-T137	Term-DV 443 447	rato
-T138	Term-DV 880 884	seña
-T139	Term-DV 452 460	servicio
-T140	Term-DV 1417 1425	servicio
-T141	Term-DV 23 33	trabajador
-T142	Term-DV 59 69	trabajador
-T143	Term-DV 316 326	trabajador
-T144	Term-DV 530 540	trabajador
-T145	Term-DV 983 993	trabajador
-T146	Term-DV 1124 1134	trabajador
-T147	Term-DV 1301 1311	trabajador
-T148	Term-DV 1395 1405	trabajador
-T149	Term-DV 1445 1449	vale
-T150	Term-AttentionRank 557 564	cedente
-T151	Term-AttentionRank 607 614	cedente
-T152	Term-AttentionRank 841 848	cedente
-T153	Term-AttentionRank 1247 1254	cedente
-T154	Term-AttentionRank 726 736	desarrollo
-T155	Term-AttentionRank 649 661	organización
-T156	Term-AttentionRank 1027 1067	perjuicio de las demás responsabilidades
-T157	Term-AttentionRank 851 861	cesionario
-T158	Term-AttentionRank 511 522	disposición
-T159	Term-AttentionRank 1124 1167	trabajadores sometidos al tráfico prohibido
-T160	Term-AttentionRank 316 357	trabajadores contemplada en este artículo
-T161	Term-AttentionRank 161 177	trabajo temporal
-T162	Term-AttentionRank 1005 1014	Seguridad
-T163	Term-AttentionRank 1516 1522	inicio
-T164	Term-AttentionRank 1367 1389	condiciones ordinarias
-T165	Term-AttentionRank 1110 1115	actos
-T166	Term-AttentionRank 570 588	empresa cesionaria
-T167	Term-AttentionRank 1318 1336	empresa cesionaria
-T168	Term-AttentionRank 0 8	Artículo
-T169	Term-AttentionRank 349 357	artículo
-T170	Term-AttentionRank 139 148	través de
-T171	Term-AttentionRank 896 916	apartados anteriores
-T172	Term-AttentionRank 951 995	obligaciones contraídas con los trabajadores
-T173	Term-AttentionRank 630 639	actividad
-T174	Term-AttentionRank 743 752	actividad
-T175	Term-AttentionRank 452 461	servicios
-T176	Term-AttentionRank 1417 1426	servicios
-T177	Term-AttentionRank 299 312	cesión ilegal
-T178	Term-AttentionRank 1529 1542	cesión ilegal
-T179	Term-AttentionRank 23 35	trabajadores
-T180	Term-AttentionRank 59 71	trabajadores
-T181	Term-AttentionRank 316 328	trabajadores
-T182	Term-AttentionRank 530 542	trabajadores
-T183	Term-AttentionRank 983 995	trabajadores
-T184	Term-AttentionRank 1124 1136	trabajadores
-T185	Term-AttentionRank 1301 1311	trabajador
-T186	Term-AttentionRank 1395 1405	trabajador
-T187	Term-AttentionRank 1453 1459	puesto
-T188	Term-AttentionRank 402 416	circunstancias
-T189	Term-AttentionRank 107 114	empresa
-T190	Term-AttentionRank 549 556	empresa
-T191	Term-AttentionRank 570 577	empresa
-T192	Term-AttentionRank 599 606	empresa
-T193	Term-AttentionRank 1239 1246	empresa
-T194	Term-AttentionRank 1318 1325	empresa
-T195	Term-AttentionRank 149 157	empresas
-T196	Term-AttentionRank 472 480	empresas
-T197	Term-AttentionRank 549 564	empresa cedente
-T198	Term-AttentionRank 599 614	empresa cedente
-T199	Term-AttentionRank 1239 1254	empresa cedente
-T200	Term-AttentionRank 1050 1067	responsabilidades
-T201	Term-AttentionRank 796 805	condición
-T202	Term-AttentionRank 1198 1207	condición
-T203	Term-AttentionRank 1005 1021	Seguridad Social
-T204	Term-AttentionRank 43 55	contratación
-T205	Term-AttentionRank 1176 1183	derecho
-T206	Term-AttentionRank 1273 1281	derechos
-T207	Term-AttentionRank 439 448	contratos
-T208	Term-AttentionRank 1223 1231	elección
-T209	Term-AttentionRank 161 168	trabajo
-T210	Term-AttentionRank 1463 1470	trabajo
-T211	Term-AttentionRank 260 264	caso
-T212	Term-AttentionRank 809 819	empresario
-T213	Term-AttentionRank 828 839	empresarios
-T214	Term-AttentionRank 896 905	apartados
-T215	Term-LabourLaw 1453 1470	puesto de trabajo
-T216	Term-LabourLaw 161 168	trabajo
-T217	Term-LabourLaw 1463 1470	trabajo
-T218	Term-LabourLaw 439 447	contrato
-T219	Term-LabourLaw 1050 1065	responsabilidad
-T220	Term-LabourLaw 23 33	trabajador
-T221	Term-LabourLaw 59 69	trabajador
-T222	Term-LabourLaw 316 326	trabajador
-T223	Term-LabourLaw 530 540	trabajador
-T224	Term-LabourLaw 983 993	trabajador
-T225	Term-LabourLaw 1124 1134	trabajador
-T226	Term-LabourLaw 1301 1311	trabajador
-T227	Term-LabourLaw 1395 1405	trabajador
-T228	Term-LabourLaw 649 661	organización
-T229	Term-LabourLaw 43 55	contratación
-T230	Term-LabourLaw 1223 1231	elección
-T231	Term-LabourLaw 1483 1493	antigüedad
-T232	Term-LabourLaw 796 805	condición
-T233	Term-LabourLaw 1198 1207	condición
-T234	Term-LabourLaw 809 819	empresario
-T235	Term-LabourLaw 828 838	empresario
-T236	Term-LabourLaw 452 460	servicio
-T237	Term-LabourLaw 1417 1425	servicio
-T238	Term-LabourLaw 1489 1493	edad
-T239	Term-LabourLaw 107 114	empresa
-T240	Term-LabourLaw 149 156	empresa
-T241	Term-LabourLaw 472 479	empresa
-T242	Term-LabourLaw 549 556	empresa
-T243	Term-LabourLaw 570 577	empresa
-T244	Term-LabourLaw 599 606	empresa
-T245	Term-LabourLaw 809 816	empresa
-T246	Term-LabourLaw 828 835	empresa
-T247	Term-LabourLaw 1239 1246	empresa
-T248	Term-LabourLaw 1318 1325	empresa
-T249	Term-LabourLaw 1176 1183	derecho
-T250	Term-LabourLaw 1273 1280	derecho
-T251	Term-LabourLaw 1027 1036	perjuicio
-T252	Term-LabourLaw 209 216	término
-T253	Term-LabourLaw 1497 1505	computar
-T254	Term-LabourLaw 299 305	cesión
-T255	Term-LabourLaw 1529 1535	cesión
-T256	Term-LabourLaw 511 522	disposición
-T257	Term-IATE 0 8	Artículo
-T258	Term-IATE 349 357	artículo
-T259	Term-IATE 1050 1067	responsabilidades
-T260	Term-IATE 107 114	empresa
-T261	Term-IATE 549 556	empresa
-T262	Term-IATE 570 577	empresa
-T263	Term-IATE 599 606	empresa
-T264	Term-IATE 1239 1246	empresa
-T265	Term-IATE 1318 1325	empresa
-T266	Term-IATE 149 157	empresas
-T267	Term-IATE 472 480	empresas
-T268	Term-IATE 809 819	empresario
-T269	Term-IATE 828 839	empresarios
-T270	Term-IATE 557 564	cedente
-T271	Term-IATE 607 614	cedente
-T272	Term-IATE 841 848	cedente
-T273	Term-IATE 1247 1254	cedente
-T274	Term-IATE 896 905	apartados
-T275	Term-IATE 23 35	trabajadores
-T276	Term-IATE 59 71	trabajadores
-T277	Term-IATE 316 328	trabajadores
-T278	Term-IATE 530 542	trabajadores
-T279	Term-IATE 983 995	trabajadores
-T280	Term-IATE 1124 1136	trabajadores
-T281	Term-IATE 1301 1311	trabajador
-T282	Term-IATE 1395 1405	trabajador
-T283	Term-IATE 1005 1014	Seguridad
-T284	Term-IATE 630 639	actividad
-T285	Term-IATE 743 752	actividad
-T286	Term-IATE 439 448	contratos
+T1	Term-diccionario 260 264	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 649 661	organización
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 1005 1014	Seguridad
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 161 168	trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 1463 1470	trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 107 114	empresa
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 549 556	empresa
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 570 577	empresa
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 599 606	empresa
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 1239 1246	empresa
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 1318 1325	empresa
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 149 157	empresas
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 472 480	empresas
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 439 448	contratos
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 796 805	condición
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1198 1207	condición
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 161 177	trabajo temporal
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 511 522	disposición
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 557 564	cedente
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 607 614	cedente
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 841 848	cedente
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 1247 1254	cedente
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 630 639	actividad
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 743 752	actividad
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 402 416	circunstancias
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 896 905	apartados
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1050 1067	responsabilidades
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 1453 1459	puesto
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 1223 1231	elección
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 452 461	servicios
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 1417 1426	servicios
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 0 8	Artículo
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 349 357	artículo
+#33	AnnotatorNotes T33 "DPEJ"
+#34	AnnotatorNotes T15 "Termcat"
+#35	AnnotatorNotes T16 "Termcat"
+#36	AnnotatorNotes T30 "Termcat"
+#37	AnnotatorNotes T31 "Termcat"
+T34	Term-diccionario 209 217	términos
+#38	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 1110 1115	actos
+#39	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 1475 1479	bien
+#40	AnnotatorNotes T36 "Termcat"
+#41	AnnotatorNotes T22 "Termcat"
+#42	AnnotatorNotes T19 "Termcat"
+#43	AnnotatorNotes T21 "Termcat"
+#44	AnnotatorNotes T20 "Termcat"
+T37	Term-diccionario 13 19	Cesión
+#45	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 1529 1535	cesión
+#46	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 299 305	cesión
+#47	AnnotatorNotes T39 "Termcat"
+#48	AnnotatorNotes T14 "Termcat"
+#49	AnnotatorNotes T32 "Termcat"
+#50	AnnotatorNotes T33 "Termcat"
+T40	Term-diccionario 1483 1493	antigüedad
+#51	AnnotatorNotes T40 "Termcat"
+T41	Term-diccionario 13 35	Cesión de trabajadores
+#52	AnnotatorNotes T41 "Termcat"
+#53	AnnotatorNotes T6 "Termcat"
+#54	AnnotatorNotes T11 "Termcat"
+#55	AnnotatorNotes T7 "Termcat"
+#56	AnnotatorNotes T10 "Termcat"
+#57	AnnotatorNotes T9 "Termcat"
+#58	AnnotatorNotes T8 "Termcat"
+#59	AnnotatorNotes T13 "Termcat"
+#60	AnnotatorNotes T12 "Termcat"
+T42	Term-diccionario 1453 1470	puesto de trabajo
+#61	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 1005 1021	Seguridad Social
+#62	AnnotatorNotes T43 "Termcat"
+#63	AnnotatorNotes T17 "Termcat"
+T44	Term-diccionario 726 736	desarrollo
+#64	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 1176 1183	derecho
+#65	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1273 1281	derechos
+#66	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 700 706	medios
+#67	AnnotatorNotes T47 "Termcat"
+#68	AnnotatorNotes T3 "Termcat"
+#69	AnnotatorNotes T18 "Termcat"
+#70	AnnotatorNotes T24 "Termcat"
+#71	AnnotatorNotes T23 "Termcat"
+#72	AnnotatorNotes T25 "Termcat"
+T48	Term-diccionario 43 55	contratación
+#73	AnnotatorNotes T48 "Termcat"
+#74	AnnotatorNotes T29 "Termcat"
+#75	AnnotatorNotes T4 "Termcat"
+T49	Term-diccionario 1536 1542	ilegal
+#76	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 306 312	ilegal
+#77	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 1077 1084	penales
+#78	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 1027 1036	perjuicio
+#79	AnnotatorNotes T52 "Termcat"
+#80	AnnotatorNotes T27 "Termcat"
+T53	Term-diccionario 169 177	temporal
+#81	AnnotatorNotes T53 "Termcat"
+T54	Term-automatico 557 564	cedente
+#82	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 607 614	cedente
+#83	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 841 848	cedente
+#84	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 1247 1254	cedente
+#85	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 726 736	desarrollo
+#86	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 649 661	organización
+#87	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 1027 1067	perjuicio de las demás responsabilidades
+#88	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 851 861	cesionario
+#89	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 511 522	disposición
+#90	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 1124 1167	trabajadores sometidos al tráfico prohibido
+#91	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 316 357	trabajadores contemplada en este artículo
+#92	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 161 177	trabajo temporal
+#93	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 1005 1014	Seguridad
+#94	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 1516 1522	inicio
+#95	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 1367 1389	condiciones ordinarias
+#96	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 1110 1115	actos
+#97	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 570 588	empresa cesionaria
+#98	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 1318 1336	empresa cesionaria
+#99	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 0 8	Artículo
+#100	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 349 357	artículo
+#101	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 139 148	través de
+#102	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 896 916	apartados anteriores
+#103	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 951 995	obligaciones contraídas con los trabajadores
+#104	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 630 639	actividad
+#105	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 743 752	actividad
+#106	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 452 461	servicios
+#107	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 1417 1426	servicios
+#108	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 299 312	cesión ilegal
+#109	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1529 1542	cesión ilegal
+#110	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 23 35	trabajadores
+#111	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 59 71	trabajadores
+#112	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 316 328	trabajadores
+#113	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 530 542	trabajadores
+#114	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 983 995	trabajadores
+#115	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 1124 1136	trabajadores
+#116	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1301 1311	trabajador
+#117	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1395 1405	trabajador
+#118	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1453 1459	puesto
+#119	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 402 416	circunstancias
+#120	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 107 114	empresa
+#121	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 549 556	empresa
+#122	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 570 577	empresa
+#123	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 599 606	empresa
+#124	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 1239 1246	empresa
+#125	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 1318 1325	empresa
+#126	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 149 157	empresas
+#127	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 472 480	empresas
+#128	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 549 564	empresa cedente
+#129	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 599 614	empresa cedente
+#130	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 1239 1254	empresa cedente
+#131	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1050 1067	responsabilidades
+#132	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 796 805	condición
+#133	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 1198 1207	condición
+#134	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1005 1021	Seguridad Social
+#135	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 43 55	contratación
+#136	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 1176 1183	derecho
+#137	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 1273 1281	derechos
+#138	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 439 448	contratos
+#139	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 1223 1231	elección
+#140	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 161 168	trabajo
+#141	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 1463 1470	trabajo
+#142	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 260 264	caso
+#143	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 809 819	empresario
+#144	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 828 839	empresarios
+#145	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 896 905	apartados
+#146	AnnotatorNotes T118 "AttentionRank"
+#147	AnnotatorNotes T42 "LabourLaw"
+#148	AnnotatorNotes T4 "LabourLaw"
+#149	AnnotatorNotes T5 "LabourLaw"
+T119	Term-diccionario 439 447	contrato
+#150	AnnotatorNotes T119 "LabourLaw"
+T120	Term-diccionario 1050 1065	responsabilidad
+#151	AnnotatorNotes T120 "LabourLaw"
+T121	Term-diccionario 23 33	trabajador
+#152	AnnotatorNotes T121 "LabourLaw"
+T122	Term-diccionario 59 69	trabajador
+#153	AnnotatorNotes T122 "LabourLaw"
+T123	Term-diccionario 316 326	trabajador
+#154	AnnotatorNotes T123 "LabourLaw"
+T124	Term-diccionario 530 540	trabajador
+#155	AnnotatorNotes T124 "LabourLaw"
+T125	Term-diccionario 983 993	trabajador
+#156	AnnotatorNotes T125 "LabourLaw"
+T126	Term-diccionario 1124 1134	trabajador
+#157	AnnotatorNotes T126 "LabourLaw"
+T127	Term-diccionario 1301 1311	trabajador
+#158	AnnotatorNotes T127 "LabourLaw"
+T128	Term-diccionario 1395 1405	trabajador
+#159	AnnotatorNotes T128 "LabourLaw"
+#160	AnnotatorNotes T2 "LabourLaw"
+#161	AnnotatorNotes T48 "LabourLaw"
+#162	AnnotatorNotes T29 "LabourLaw"
+#163	AnnotatorNotes T40 "LabourLaw"
+#164	AnnotatorNotes T15 "LabourLaw"
+#165	AnnotatorNotes T16 "LabourLaw"
+T129	Term-diccionario 809 819	empresario
+#166	AnnotatorNotes T129 "LabourLaw"
+T130	Term-diccionario 828 838	empresario
+#167	AnnotatorNotes T130 "LabourLaw"
+T131	Term-diccionario 452 460	servicio
+#168	AnnotatorNotes T131 "LabourLaw"
+T132	Term-diccionario 1417 1425	servicio
+#169	AnnotatorNotes T132 "LabourLaw"
+T133	Term-diccionario 1489 1493	edad
+#170	AnnotatorNotes T133 "LabourLaw"
+#171	AnnotatorNotes T6 "LabourLaw"
+T134	Term-diccionario 149 156	empresa
+#172	AnnotatorNotes T134 "LabourLaw"
+T135	Term-diccionario 472 479	empresa
+#173	AnnotatorNotes T135 "LabourLaw"
+#174	AnnotatorNotes T7 "LabourLaw"
+#175	AnnotatorNotes T8 "LabourLaw"
+#176	AnnotatorNotes T9 "LabourLaw"
+T136	Term-diccionario 809 816	empresa
+#177	AnnotatorNotes T136 "LabourLaw"
+T137	Term-diccionario 828 835	empresa
+#178	AnnotatorNotes T137 "LabourLaw"
+#179	AnnotatorNotes T10 "LabourLaw"
+#180	AnnotatorNotes T11 "LabourLaw"
+#181	AnnotatorNotes T45 "LabourLaw"
+T138	Term-diccionario 1273 1280	derecho
+#182	AnnotatorNotes T138 "LabourLaw"
+#183	AnnotatorNotes T52 "LabourLaw"
+T139	Term-diccionario 209 216	término
+#184	AnnotatorNotes T139 "LabourLaw"
+T140	Term-diccionario 1497 1505	computar
+#185	AnnotatorNotes T140 "LabourLaw"
+#186	AnnotatorNotes T39 "LabourLaw"
+#187	AnnotatorNotes T38 "LabourLaw"
+#188	AnnotatorNotes T18 "LabourLaw"
+#189	AnnotatorNotes T32 "IATE"
+#190	AnnotatorNotes T33 "IATE"
+#191	AnnotatorNotes T27 "IATE"
+#192	AnnotatorNotes T6 "IATE"
+#193	AnnotatorNotes T7 "IATE"
+#194	AnnotatorNotes T8 "IATE"
+#195	AnnotatorNotes T9 "IATE"
+#196	AnnotatorNotes T10 "IATE"
+#197	AnnotatorNotes T11 "IATE"
+#198	AnnotatorNotes T12 "IATE"
+#199	AnnotatorNotes T13 "IATE"
+#200	AnnotatorNotes T129 "IATE"
+T141	Term-diccionario 828 839	empresarios
+#201	AnnotatorNotes T141 "IATE"
+#202	AnnotatorNotes T19 "IATE"
+#203	AnnotatorNotes T20 "IATE"
+#204	AnnotatorNotes T21 "IATE"
+#205	AnnotatorNotes T22 "IATE"
+#206	AnnotatorNotes T26 "IATE"
+T142	Term-diccionario 23 35	trabajadores
+#207	AnnotatorNotes T142 "IATE"
+T143	Term-diccionario 59 71	trabajadores
+#208	AnnotatorNotes T143 "IATE"
+T144	Term-diccionario 316 328	trabajadores
+#209	AnnotatorNotes T144 "IATE"
+T145	Term-diccionario 530 542	trabajadores
+#210	AnnotatorNotes T145 "IATE"
+T146	Term-diccionario 983 995	trabajadores
+#211	AnnotatorNotes T146 "IATE"
+T147	Term-diccionario 1124 1136	trabajadores
+#212	AnnotatorNotes T147 "IATE"
+#213	AnnotatorNotes T127 "IATE"
+#214	AnnotatorNotes T128 "IATE"
+#215	AnnotatorNotes T3 "IATE"
+#216	AnnotatorNotes T23 "IATE"
+#217	AnnotatorNotes T24 "IATE"
+#218	AnnotatorNotes T14 "IATE"

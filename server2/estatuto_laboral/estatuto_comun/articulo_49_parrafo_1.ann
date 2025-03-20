@@ -1,323 +1,437 @@
-T1	Term-DPEJ 1556 1578	protección de la salud
-T2	Term-DPEJ 1022 1027	cargo
-T3	Term-DPEJ 1219 1224	cargo
-T4	Term-DPEJ 275 281	letras
-T5	Term-DPEJ 588 594	órgano
-T6	Term-DPEJ 1077 1083	ámbito
-T7	Term-DPEJ 1573 1578	salud
-T8	Term-DPEJ 49 56	trabajo
-T9	Term-DPEJ 167 174	trabajo
-T10	Term-DPEJ 541 548	trabajo
-T11	Term-DPEJ 757 764	trabajo
-T12	Term-DPEJ 841 848	trabajo
-T13	Term-DPEJ 1340 1347	trabajo
-T14	Term-DPEJ 465 493	incapacidad permanente total
-T15	Term-DPEJ 1328 1336	contrato
-T16	Term-DPEJ 74 80	causas
-T17	Term-DPEJ 1556 1566	protección
-T18	Term-DPEJ 13 23	Suspensión
-T19	Term-DPEJ 92 102	suspensión
-T20	Term-DPEJ 780 790	suspensión
-T21	Term-DPEJ 994 1004	suspensión
-T22	Term-DPEJ 425 447	incapacidad permanente
-T23	Term-DPEJ 465 487	incapacidad permanente
-T24	Term-DPEJ 947 969	incapacidad permanente
-T25	Term-DPEJ 1242 1252	nacimiento
-T26	Term-DPEJ 343 354	incapacidad
-T27	Term-DPEJ 425 436	incapacidad
-T28	Term-DPEJ 465 476	incapacidad
-T29	Term-DPEJ 628 639	incapacidad
-T30	Term-DPEJ 947 958	incapacidad
-T31	Term-DPEJ 343 363	incapacidad temporal
-T32	Term-DPEJ 556 565	invalidez
-T33	Term-DPEJ 39 45	puesto
-T34	Term-DPEJ 157 163	puesto
-T35	Term-DPEJ 747 753	puesto
-T36	Term-DPEJ 831 837	puesto
-T37	Term-DPEJ 911 921	resolución
-T38	Term-DPEJ 1521 1528	jornada
-T39	Term-DPEJ 797 805	relación
-T40	Term-DPEJ 378 387	extinción
-T41	Term-DPEJ 876 880	años
-T42	Term-DPEJ 0 8	Artículo
-T43	Term-DPEJ 229 237	artículo
-T44	Term-DPEJ 899 904	fecha
-T45	Term-Termcat 1022 1035	cargo público
-T46	Term-Termcat 1174 1188	días naturales
-T47	Term-Termcat 556 565	invalidez
-T48	Term-Termcat 911 921	resolución
-T49	Term-Termcat 1150 1155	plazo
-T50	Term-Termcat 1328 1336	contrato
-T51	Term-Termcat 455 461	grados
-T52	Term-Termcat 947 958	incapacidad
-T53	Term-Termcat 343 354	incapacidad
-T54	Term-Termcat 465 476	incapacidad
-T55	Term-Termcat 628 639	incapacidad
-T56	Term-Termcat 425 436	incapacidad
-T57	Term-Termcat 1242 1252	nacimiento
-T58	Term-Termcat 0 8	Artículo
-T59	Term-Termcat 229 237	artículo
-T60	Term-Termcat 577 583	juicio
-T61	Term-Termcat 1282 1289	cuidado
-T62	Term-Termcat 1219 1224	cargo
-T63	Term-Termcat 1022 1027	cargo
-T64	Term-Termcat 1204 1212	cesación
-T65	Term-Termcat 1328 1347	contrato de trabajo
-T66	Term-Termcat 541 548	trabajo
-T67	Term-Termcat 1227 1234	función
-T68	Term-Termcat 551 565	gran invalidez
-T69	Term-Termcat 425 447	incapacidad permanente
-T70	Term-Termcat 947 969	incapacidad permanente
-T71	Term-Termcat 465 493	incapacidad permanente total
-T72	Term-Termcat 343 363	incapacidad temporal
-T73	Term-Termcat 1521 1537	jornada completa
-T74	Term-Termcat 39 56	puesto de trabajo
-T75	Term-Termcat 157 174	puesto de trabajo
-T76	Term-Termcat 747 764	puesto de trabajo
-T77	Term-Termcat 502 511	profesión
-T78	Term-Termcat 1556 1578	protección de la salud
-T79	Term-Termcat 728 743	reincorporación
-T80	Term-Termcat 138 153	reincorporación
-T81	Term-Termcat 819 848	reserva del puesto de trabajo
-T82	Term-Termcat 692 700	revisión
-T83	Term-Termcat 1432 1439	semanas
-T84	Term-Termcat 1381 1388	semanas
-T85	Term-Termcat 125 132	derecho
-T86	Term-Termcat 378 387	extinción
-T87	Term-Termcat 819 826	reserva
-T88	Term-Termcat 28 35	reserva
-T89	Term-Termcat 13 23	Suspensión
-T90	Term-Termcat 994 1004	suspensión
-T91	Term-Termcat 780 790	suspensión
-T92	Term-Termcat 92 102	suspensión
-T93	Term-Termcat 74 80	causas
-T94	Term-Termcat 410 421	declaración
-T95	Term-Termcat 1009 1018	ejercicio
-T96	Term-Termcat 465 520	incapacidad permanente total para la profesión habitual
-T97	Term-Termcat 81 88	legales
-T98	Term-Termcat 831 848	puesto de trabajo
-T99	Term-Termcat 1585 1590	madre
-T100	Term-Termcat 1354 1369	madre biológica
-T101	Term-Termcat 1293 1298	menor
-T102	Term-Termcat 588 594	órgano
-T103	Term-Termcat 598 610	calificación
-T104	Term-Termcat 797 813	relación laboral
-T105	Term-Termcat 1097 1105	superior
-T106	Term-DV 1022 1035	cargo público
-T107	Term-DV 110 114	baja
-T108	Term-DV 647 651	baja
-T109	Term-DV 1113 1117	baja
-T110	Term-DV 598 610	calificación
-T111	Term-DV 345 349	capa
-T112	Term-DV 427 431	capa
-T113	Term-DV 467 471	capa
-T114	Term-DV 630 634	capa
-T115	Term-DV 949 953	capa
-T116	Term-DV 345 354	capacidad
-T117	Term-DV 427 436	capacidad
-T118	Term-DV 467 476	capacidad
-T119	Term-DV 630 639	capacidad
-T120	Term-DV 949 958	capacidad
-T121	Term-DV 1022 1027	cargo
-T122	Term-DV 1219 1224	cargo
-T123	Term-DV 74 79	causa
-T124	Term-DV 1204 1212	cesación
-T125	Term-DV 1121 1125	debe
-T126	Term-DV 410 421	declaración
-T127	Term-DV 125 132	derecho
-T128	Term-DV 1174 1177	día
-T129	Term-DV 505 507	fe
-T130	Term-DV 899 901	fe
-T131	Term-DV 577 583	juicio
-T132	Term-DV 806 813	laboral
-T133	Term-DV 81 86	legal
-T134	Term-DV 1363 1369	lógica
-T135	Term-DV 1354 1359	madre
-T136	Term-DV 1585 1590	madre
-T137	Term-DV 1242 1252	nacimiento
-T138	Term-DV 682 688	objeto
-T139	Term-DV 494 498	para
-T140	Term-DV 531 535	para
-T141	Term-DV 1539 1543	para
-T142	Term-DV 1271 1276	parto
-T143	Term-DV 1486 1491	parto
-T144	Term-DV 16 23	pensión
-T145	Term-DV 95 102	pensión
-T146	Term-DV 783 790	pensión
-T147	Term-DV 997 1004	pensión
-T148	Term-DV 1150 1155	plazo
-T149	Term-DV 666 676	previsible
-T150	Term-DV 1028 1035	público
-T151	Term-DV 1332 1336	rato
-T152	Term-DV 258 262	seña
-T153	Term-DV 92 102	suspensión
-T154	Term-DV 780 790	suspensión
-T155	Term-DV 994 1004	suspensión
-T156	Term-DV 107 117	trabajador
-T157	Term-DV 644 654	trabajador
-T158	Term-DV 1110 1120	trabajador
-T159	Term-DV 558 565	validez
-T160	Term-DV 669 672	vis
-T161	Term-DV 694 697	vis
-T162	Term-DV 244 245	x
-T163	Term-DV 379 380	x
-T164	Term-DV 1158 1159	x
-T165	Term-AttentionRank 396 405	situación
-T166	Term-AttentionRank 615 624	situación
-T167	Term-AttentionRank 797 813	relación laboral
-T168	Term-AttentionRank 1009 1018	ejercicio
-T169	Term-AttentionRank 138 153	reincorporación
-T170	Term-AttentionRank 728 743	reincorporación
-T171	Term-AttentionRank 911 921	resolución
-T172	Term-AttentionRank 876 880	años
-T173	Term-AttentionRank 1174 1178	días
-T174	Term-AttentionRank 1022 1027	cargo
-T175	Term-AttentionRank 1219 1224	cargo
-T176	Term-AttentionRank 74 80	causas
-T177	Term-AttentionRank 1521 1528	jornada
-T178	Term-AttentionRank 1242 1252	nacimiento
-T179	Term-AttentionRank 1573 1578	salud
-T180	Term-AttentionRank 861 868	periodo
-T181	Term-AttentionRank 1053 1073	funciones sindicales
-T182	Term-AttentionRank 797 805	relación
-T183	Term-AttentionRank 488 493	total
-T184	Term-AttentionRank 1077 1094	ámbito provincial
-T185	Term-AttentionRank 899 904	fecha
-T186	Term-AttentionRank 1191 1197	partir
-T187	Term-AttentionRank 0 8	Artículo
-T188	Term-AttentionRank 229 237	artículo
-T189	Term-AttentionRank 199 208	supuestos
-T190	Term-AttentionRank 981 990	supuestos
-T191	Term-AttentionRank 331 339	supuesto
-T192	Term-AttentionRank 378 387	extinción
-T193	Term-AttentionRank 1077 1083	ámbito
-T194	Term-AttentionRank 1307 1312	meses
-T195	Term-AttentionRank 28 35	reserva
-T196	Term-AttentionRank 819 826	reserva
-T197	Term-AttentionRank 13 23	Suspensión
-T198	Term-AttentionRank 92 102	suspensión
-T199	Term-AttentionRank 780 790	suspensión
-T200	Term-AttentionRank 994 1004	suspensión
-T201	Term-AttentionRank 74 88	causas legales
-T202	Term-AttentionRank 1191 1212	partir de la cesación
-T203	Term-AttentionRank 1022 1035	cargo público
-T204	Term-AttentionRank 1381 1388	semanas
-T205	Term-AttentionRank 1432 1439	semanas
-T206	Term-AttentionRank 883 889	contar
-T207	Term-AttentionRank 1354 1369	madre biológica
-T208	Term-AttentionRank 107 117	trabajador
-T209	Term-AttentionRank 644 654	trabajador
-T210	Term-AttentionRank 1110 1120	trabajador
-T211	Term-AttentionRank 39 45	puesto
-T212	Term-AttentionRank 157 163	puesto
-T213	Term-AttentionRank 747 753	puesto
-T214	Term-AttentionRank 831 837	puesto
-T215	Term-AttentionRank 502 520	profesión habitual
-T216	Term-AttentionRank 1150 1155	plazo
-T217	Term-AttentionRank 588 594	órgano
-T218	Term-AttentionRank 1282 1289	cuidado
-T219	Term-AttentionRank 551 565	gran invalidez
-T220	Term-AttentionRank 1556 1566	protección
-T221	Term-AttentionRank 425 447	incapacidad permanente
-T222	Term-AttentionRank 465 487	incapacidad permanente
-T223	Term-AttentionRank 947 969	incapacidad permanente
-T224	Term-AttentionRank 1150 1162	plazo máximo
-T225	Term-AttentionRank 125 132	derecho
-T226	Term-AttentionRank 343 354	incapacidad
-T227	Term-AttentionRank 425 436	incapacidad
-T228	Term-AttentionRank 465 476	incapacidad
-T229	Term-AttentionRank 628 639	incapacidad
-T230	Term-AttentionRank 947 958	incapacidad
-T231	Term-AttentionRank 343 363	incapacidad temporal
-T232	Term-AttentionRank 1009 1035	ejercicio de cargo público
-T233	Term-AttentionRank 1227 1234	función
-T234	Term-AttentionRank 275 281	letras
-T235	Term-AttentionRank 1328 1336	contrato
-T236	Term-AttentionRank 49 56	trabajo
-T237	Term-AttentionRank 167 174	trabajo
-T238	Term-AttentionRank 541 548	trabajo
-T239	Term-AttentionRank 757 764	trabajo
-T240	Term-AttentionRank 841 848	trabajo
-T241	Term-AttentionRank 1340 1347	trabajo
-T242	Term-AttentionRank 1432 1455	semanas ininterrumpidas
-T243	Term-LabourLaw 39 56	puesto de trabajo
-T244	Term-LabourLaw 157 174	puesto de trabajo
-T245	Term-LabourLaw 747 764	puesto de trabajo
-T246	Term-LabourLaw 831 848	puesto de trabajo
-T247	Term-LabourLaw 1328 1347	contrato de trabajo
-T248	Term-LabourLaw 425 447	incapacidad permanente
-T249	Term-LabourLaw 465 487	incapacidad permanente
-T250	Term-LabourLaw 947 969	incapacidad permanente
-T251	Term-LabourLaw 1521 1537	jornada completa
-T252	Term-LabourLaw 797 813	relación laboral
-T253	Term-LabourLaw 1521 1528	jornada
-T254	Term-LabourLaw 1521 1528	jornada
-T255	Term-LabourLaw 49 56	trabajo
-T256	Term-LabourLaw 167 174	trabajo
-T257	Term-LabourLaw 541 548	trabajo
-T258	Term-LabourLaw 757 764	trabajo
-T259	Term-LabourLaw 841 848	trabajo
-T260	Term-LabourLaw 1340 1347	trabajo
-T261	Term-LabourLaw 343 354	incapacidad
-T262	Term-LabourLaw 425 436	incapacidad
-T263	Term-LabourLaw 465 476	incapacidad
-T264	Term-LabourLaw 628 639	incapacidad
-T265	Term-LabourLaw 947 958	incapacidad
-T266	Term-LabourLaw 502 511	profesión
-T267	Term-LabourLaw 1328 1336	contrato
-T268	Term-LabourLaw 1293 1298	menor
-T269	Term-LabourLaw 107 117	trabajador
-T270	Term-LabourLaw 644 654	trabajador
-T271	Term-LabourLaw 1110 1120	trabajador
-T272	Term-LabourLaw 1077 1083	ámbito
-T273	Term-LabourLaw 16 23	pensión
-T274	Term-LabourLaw 95 102	pensión
-T275	Term-LabourLaw 783 790	pensión
-T276	Term-LabourLaw 997 1004	pensión
-T277	Term-LabourLaw 1121 1126	deber
-T278	Term-LabourLaw 588 594	órgano
-T279	Term-LabourLaw 1556 1566	protección
-T280	Term-LabourLaw 1022 1027	cargo
-T281	Term-LabourLaw 1219 1224	cargo
-T282	Term-LabourLaw 692 700	revisión
-T283	Term-LabourLaw 558 565	validez
-T284	Term-LabourLaw 125 132	derecho
-T285	Term-LabourLaw 92 102	suspensión
-T286	Term-LabourLaw 780 790	suspensión
-T287	Term-LabourLaw 994 1004	suspensión
-T288	Term-LabourLaw 455 460	grado
-T289	Term-LabourLaw 861 868	periodo
-T290	Term-LabourLaw 1271 1276	parto
-T291	Term-LabourLaw 1486 1491	parto
-T292	Term-IATE 1022 1027	cargo
-T293	Term-IATE 1219 1224	cargo
-T294	Term-IATE 378 387	extinción
-T295	Term-IATE 1556 1566	protección
-T296	Term-IATE 0 8	Artículo
-T297	Term-IATE 229 237	artículo
-T298	Term-IATE 1150 1155	plazo
-T299	Term-IATE 911 921	resolución
-T300	Term-IATE 1227 1234	función
-T301	Term-IATE 396 405	situación
-T302	Term-IATE 615 624	situación
-T303	Term-IATE 13 23	Suspensión
-T304	Term-IATE 92 102	suspensión
-T305	Term-IATE 780 790	suspensión
-T306	Term-IATE 994 1004	suspensión
-T307	Term-IATE 107 117	trabajador
-T308	Term-IATE 644 654	trabajador
-T309	Term-IATE 1110 1120	trabajador
-T310	Term-IATE 343 354	incapacidad
-T311	Term-IATE 425 436	incapacidad
-T312	Term-IATE 465 476	incapacidad
-T313	Term-IATE 628 639	incapacidad
-T314	Term-IATE 947 958	incapacidad
-T315	Term-IATE 138 153	reincorporación
-T316	Term-IATE 728 743	reincorporación
-T317	Term-IATE 1328 1336	contrato
-T318	Term-IATE 1242 1252	nacimiento
-T319	Term-IATE 28 35	reserva
-T320	Term-IATE 819 826	reserva
-T321	Term-IATE 1009 1018	ejercicio
-T322	Term-IATE 1307 1312	meses
-T323	Term-IATE 275 281	letras
+T1	Term-diccionario 1556 1578	protección de la salud
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1022 1027	cargo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 1219 1224	cargo
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 275 281	letras
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 588 594	órgano
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1077 1083	ámbito
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 1573 1578	salud
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 49 56	trabajo
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 167 174	trabajo
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 541 548	trabajo
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 757 764	trabajo
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 841 848	trabajo
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1340 1347	trabajo
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 465 493	incapacidad permanente total
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1328 1336	contrato
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 74 80	causas
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1556 1566	protección
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 13 23	Suspensión
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 92 102	suspensión
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 780 790	suspensión
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 994 1004	suspensión
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 425 447	incapacidad permanente
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 465 487	incapacidad permanente
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 947 969	incapacidad permanente
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 1242 1252	nacimiento
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 343 354	incapacidad
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 425 436	incapacidad
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 465 476	incapacidad
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 628 639	incapacidad
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 947 958	incapacidad
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 343 363	incapacidad temporal
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 556 565	invalidez
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 39 45	puesto
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 157 163	puesto
+#34	AnnotatorNotes T34 "DPEJ"
+T35	Term-diccionario 747 753	puesto
+#35	AnnotatorNotes T35 "DPEJ"
+T36	Term-diccionario 831 837	puesto
+#36	AnnotatorNotes T36 "DPEJ"
+T37	Term-diccionario 911 921	resolución
+#37	AnnotatorNotes T37 "DPEJ"
+T38	Term-diccionario 1521 1528	jornada
+#38	AnnotatorNotes T38 "DPEJ"
+T39	Term-diccionario 797 805	relación
+#39	AnnotatorNotes T39 "DPEJ"
+T40	Term-diccionario 378 387	extinción
+#40	AnnotatorNotes T40 "DPEJ"
+T41	Term-diccionario 876 880	años
+#41	AnnotatorNotes T41 "DPEJ"
+T42	Term-diccionario 0 8	Artículo
+#42	AnnotatorNotes T42 "DPEJ"
+T43	Term-diccionario 229 237	artículo
+#43	AnnotatorNotes T43 "DPEJ"
+T44	Term-diccionario 899 904	fecha
+#44	AnnotatorNotes T44 "DPEJ"
+T45	Term-diccionario 1022 1035	cargo público
+#45	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1174 1188	días naturales
+#46	AnnotatorNotes T46 "Termcat"
+#47	AnnotatorNotes T32 "Termcat"
+#48	AnnotatorNotes T37 "Termcat"
+T47	Term-diccionario 1150 1155	plazo
+#49	AnnotatorNotes T47 "Termcat"
+#50	AnnotatorNotes T15 "Termcat"
+T48	Term-diccionario 455 461	grados
+#51	AnnotatorNotes T48 "Termcat"
+#52	AnnotatorNotes T30 "Termcat"
+#53	AnnotatorNotes T26 "Termcat"
+#54	AnnotatorNotes T28 "Termcat"
+#55	AnnotatorNotes T29 "Termcat"
+#56	AnnotatorNotes T27 "Termcat"
+#57	AnnotatorNotes T25 "Termcat"
+#58	AnnotatorNotes T42 "Termcat"
+#59	AnnotatorNotes T43 "Termcat"
+T49	Term-diccionario 577 583	juicio
+#60	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 1282 1289	cuidado
+#61	AnnotatorNotes T50 "Termcat"
+#62	AnnotatorNotes T3 "Termcat"
+#63	AnnotatorNotes T2 "Termcat"
+T51	Term-diccionario 1204 1212	cesación
+#64	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 1328 1347	contrato de trabajo
+#65	AnnotatorNotes T52 "Termcat"
+#66	AnnotatorNotes T10 "Termcat"
+T53	Term-diccionario 1227 1234	función
+#67	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 551 565	gran invalidez
+#68	AnnotatorNotes T54 "Termcat"
+#69	AnnotatorNotes T22 "Termcat"
+#70	AnnotatorNotes T24 "Termcat"
+#71	AnnotatorNotes T14 "Termcat"
+#72	AnnotatorNotes T31 "Termcat"
+T55	Term-diccionario 1521 1537	jornada completa
+#73	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 39 56	puesto de trabajo
+#74	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 157 174	puesto de trabajo
+#75	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 747 764	puesto de trabajo
+#76	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 502 511	profesión
+#77	AnnotatorNotes T59 "Termcat"
+#78	AnnotatorNotes T1 "Termcat"
+T60	Term-diccionario 728 743	reincorporación
+#79	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 138 153	reincorporación
+#80	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 819 848	reserva del puesto de trabajo
+#81	AnnotatorNotes T62 "Termcat"
+T63	Term-diccionario 692 700	revisión
+#82	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 1432 1439	semanas
+#83	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 1381 1388	semanas
+#84	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 125 132	derecho
+#85	AnnotatorNotes T66 "Termcat"
+#86	AnnotatorNotes T40 "Termcat"
+T67	Term-diccionario 819 826	reserva
+#87	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 28 35	reserva
+#88	AnnotatorNotes T68 "Termcat"
+#89	AnnotatorNotes T18 "Termcat"
+#90	AnnotatorNotes T21 "Termcat"
+#91	AnnotatorNotes T20 "Termcat"
+#92	AnnotatorNotes T19 "Termcat"
+#93	AnnotatorNotes T16 "Termcat"
+T69	Term-diccionario 410 421	declaración
+#94	AnnotatorNotes T69 "Termcat"
+T70	Term-diccionario 1009 1018	ejercicio
+#95	AnnotatorNotes T70 "Termcat"
+T71	Term-diccionario 465 520	incapacidad permanente total para la profesión habitual
+#96	AnnotatorNotes T71 "Termcat"
+T72	Term-diccionario 81 88	legales
+#97	AnnotatorNotes T72 "Termcat"
+T73	Term-diccionario 831 848	puesto de trabajo
+#98	AnnotatorNotes T73 "Termcat"
+T74	Term-diccionario 1585 1590	madre
+#99	AnnotatorNotes T74 "Termcat"
+T75	Term-diccionario 1354 1369	madre biológica
+#100	AnnotatorNotes T75 "Termcat"
+T76	Term-diccionario 1293 1298	menor
+#101	AnnotatorNotes T76 "Termcat"
+#102	AnnotatorNotes T5 "Termcat"
+T77	Term-diccionario 598 610	calificación
+#103	AnnotatorNotes T77 "Termcat"
+T78	Term-diccionario 797 813	relación laboral
+#104	AnnotatorNotes T78 "Termcat"
+T79	Term-diccionario 1097 1105	superior
+#105	AnnotatorNotes T79 "Termcat"
+T80	Term-automatico 396 405	situación
+#106	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 615 624	situación
+#107	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 797 813	relación laboral
+#108	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 1009 1018	ejercicio
+#109	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 138 153	reincorporación
+#110	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 728 743	reincorporación
+#111	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 911 921	resolución
+#112	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 876 880	años
+#113	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 1174 1178	días
+#114	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1022 1027	cargo
+#115	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 1219 1224	cargo
+#116	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 74 80	causas
+#117	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 1521 1528	jornada
+#118	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1242 1252	nacimiento
+#119	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 1573 1578	salud
+#120	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 861 868	periodo
+#121	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 1053 1073	funciones sindicales
+#122	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 797 805	relación
+#123	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 488 493	total
+#124	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1077 1094	ámbito provincial
+#125	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 899 904	fecha
+#126	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1191 1197	partir
+#127	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 0 8	Artículo
+#128	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 229 237	artículo
+#129	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 199 208	supuestos
+#130	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 981 990	supuestos
+#131	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 331 339	supuesto
+#132	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 378 387	extinción
+#133	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1077 1083	ámbito
+#134	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 1307 1312	meses
+#135	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 28 35	reserva
+#136	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 819 826	reserva
+#137	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 13 23	Suspensión
+#138	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 92 102	suspensión
+#139	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 780 790	suspensión
+#140	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 994 1004	suspensión
+#141	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 74 88	causas legales
+#142	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1191 1212	partir de la cesación
+#143	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1022 1035	cargo público
+#144	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 1381 1388	semanas
+#145	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 1432 1439	semanas
+#146	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 883 889	contar
+#147	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 1354 1369	madre biológica
+#148	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 107 117	trabajador
+#149	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 644 654	trabajador
+#150	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 1110 1120	trabajador
+#151	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 39 45	puesto
+#152	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 157 163	puesto
+#153	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 747 753	puesto
+#154	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 831 837	puesto
+#155	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 502 520	profesión habitual
+#156	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 1150 1155	plazo
+#157	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 588 594	órgano
+#158	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 1282 1289	cuidado
+#159	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 551 565	gran invalidez
+#160	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 1556 1566	protección
+#161	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 425 447	incapacidad permanente
+#162	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 465 487	incapacidad permanente
+#163	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 947 969	incapacidad permanente
+#164	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 1150 1162	plazo máximo
+#165	AnnotatorNotes T139 "AttentionRank"
+T140	Term-automatico 125 132	derecho
+#166	AnnotatorNotes T140 "AttentionRank"
+T141	Term-automatico 343 354	incapacidad
+#167	AnnotatorNotes T141 "AttentionRank"
+T142	Term-automatico 425 436	incapacidad
+#168	AnnotatorNotes T142 "AttentionRank"
+T143	Term-automatico 465 476	incapacidad
+#169	AnnotatorNotes T143 "AttentionRank"
+T144	Term-automatico 628 639	incapacidad
+#170	AnnotatorNotes T144 "AttentionRank"
+T145	Term-automatico 947 958	incapacidad
+#171	AnnotatorNotes T145 "AttentionRank"
+T146	Term-automatico 343 363	incapacidad temporal
+#172	AnnotatorNotes T146 "AttentionRank"
+T147	Term-automatico 1009 1035	ejercicio de cargo público
+#173	AnnotatorNotes T147 "AttentionRank"
+T148	Term-automatico 1227 1234	función
+#174	AnnotatorNotes T148 "AttentionRank"
+T149	Term-automatico 275 281	letras
+#175	AnnotatorNotes T149 "AttentionRank"
+T150	Term-automatico 1328 1336	contrato
+#176	AnnotatorNotes T150 "AttentionRank"
+T151	Term-automatico 49 56	trabajo
+#177	AnnotatorNotes T151 "AttentionRank"
+T152	Term-automatico 167 174	trabajo
+#178	AnnotatorNotes T152 "AttentionRank"
+T153	Term-automatico 541 548	trabajo
+#179	AnnotatorNotes T153 "AttentionRank"
+T154	Term-automatico 757 764	trabajo
+#180	AnnotatorNotes T154 "AttentionRank"
+T155	Term-automatico 841 848	trabajo
+#181	AnnotatorNotes T155 "AttentionRank"
+T156	Term-automatico 1340 1347	trabajo
+#182	AnnotatorNotes T156 "AttentionRank"
+T157	Term-automatico 1432 1455	semanas ininterrumpidas
+#183	AnnotatorNotes T157 "AttentionRank"
+#184	AnnotatorNotes T56 "LabourLaw"
+#185	AnnotatorNotes T57 "LabourLaw"
+#186	AnnotatorNotes T58 "LabourLaw"
+#187	AnnotatorNotes T73 "LabourLaw"
+#188	AnnotatorNotes T52 "LabourLaw"
+#189	AnnotatorNotes T22 "LabourLaw"
+#190	AnnotatorNotes T23 "LabourLaw"
+#191	AnnotatorNotes T24 "LabourLaw"
+#192	AnnotatorNotes T55 "LabourLaw"
+#193	AnnotatorNotes T78 "LabourLaw"
+#194	AnnotatorNotes T38 "LabourLaw"
+#195	AnnotatorNotes T38 "LabourLaw"
+#196	AnnotatorNotes T8 "LabourLaw"
+#197	AnnotatorNotes T9 "LabourLaw"
+#198	AnnotatorNotes T10 "LabourLaw"
+#199	AnnotatorNotes T11 "LabourLaw"
+#200	AnnotatorNotes T12 "LabourLaw"
+#201	AnnotatorNotes T13 "LabourLaw"
+#202	AnnotatorNotes T26 "LabourLaw"
+#203	AnnotatorNotes T27 "LabourLaw"
+#204	AnnotatorNotes T28 "LabourLaw"
+#205	AnnotatorNotes T29 "LabourLaw"
+#206	AnnotatorNotes T30 "LabourLaw"
+#207	AnnotatorNotes T59 "LabourLaw"
+#208	AnnotatorNotes T15 "LabourLaw"
+#209	AnnotatorNotes T76 "LabourLaw"
+T158	Term-diccionario 107 117	trabajador
+#210	AnnotatorNotes T158 "LabourLaw"
+T159	Term-diccionario 644 654	trabajador
+#211	AnnotatorNotes T159 "LabourLaw"
+T160	Term-diccionario 1110 1120	trabajador
+#212	AnnotatorNotes T160 "LabourLaw"
+#213	AnnotatorNotes T6 "LabourLaw"
+T161	Term-diccionario 16 23	pensión
+#214	AnnotatorNotes T161 "LabourLaw"
+T162	Term-diccionario 95 102	pensión
+#215	AnnotatorNotes T162 "LabourLaw"
+T163	Term-diccionario 783 790	pensión
+#216	AnnotatorNotes T163 "LabourLaw"
+T164	Term-diccionario 997 1004	pensión
+#217	AnnotatorNotes T164 "LabourLaw"
+T165	Term-diccionario 1121 1126	deber
+#218	AnnotatorNotes T165 "LabourLaw"
+#219	AnnotatorNotes T5 "LabourLaw"
+#220	AnnotatorNotes T17 "LabourLaw"
+#221	AnnotatorNotes T2 "LabourLaw"
+#222	AnnotatorNotes T3 "LabourLaw"
+#223	AnnotatorNotes T63 "LabourLaw"
+T166	Term-diccionario 558 565	validez
+#224	AnnotatorNotes T166 "LabourLaw"
+#225	AnnotatorNotes T66 "LabourLaw"
+#226	AnnotatorNotes T19 "LabourLaw"
+#227	AnnotatorNotes T20 "LabourLaw"
+#228	AnnotatorNotes T21 "LabourLaw"
+T167	Term-diccionario 455 460	grado
+#229	AnnotatorNotes T167 "LabourLaw"
+T168	Term-diccionario 861 868	periodo
+#230	AnnotatorNotes T168 "LabourLaw"
+T169	Term-diccionario 1271 1276	parto
+#231	AnnotatorNotes T169 "LabourLaw"
+T170	Term-diccionario 1486 1491	parto
+#232	AnnotatorNotes T170 "LabourLaw"
+#233	AnnotatorNotes T2 "IATE"
+#234	AnnotatorNotes T3 "IATE"
+#235	AnnotatorNotes T40 "IATE"
+#236	AnnotatorNotes T17 "IATE"
+#237	AnnotatorNotes T42 "IATE"
+#238	AnnotatorNotes T43 "IATE"
+#239	AnnotatorNotes T47 "IATE"
+#240	AnnotatorNotes T37 "IATE"
+#241	AnnotatorNotes T53 "IATE"
+T171	Term-diccionario 396 405	situación
+#242	AnnotatorNotes T171 "IATE"
+T172	Term-diccionario 615 624	situación
+#243	AnnotatorNotes T172 "IATE"
+#244	AnnotatorNotes T18 "IATE"
+#245	AnnotatorNotes T19 "IATE"
+#246	AnnotatorNotes T20 "IATE"
+#247	AnnotatorNotes T21 "IATE"
+#248	AnnotatorNotes T158 "IATE"
+#249	AnnotatorNotes T159 "IATE"
+#250	AnnotatorNotes T160 "IATE"
+#251	AnnotatorNotes T26 "IATE"
+#252	AnnotatorNotes T27 "IATE"
+#253	AnnotatorNotes T28 "IATE"
+#254	AnnotatorNotes T29 "IATE"
+#255	AnnotatorNotes T30 "IATE"
+#256	AnnotatorNotes T61 "IATE"
+#257	AnnotatorNotes T60 "IATE"
+#258	AnnotatorNotes T15 "IATE"
+#259	AnnotatorNotes T25 "IATE"
+#260	AnnotatorNotes T68 "IATE"
+#261	AnnotatorNotes T67 "IATE"
+#262	AnnotatorNotes T70 "IATE"
+T173	Term-diccionario 1307 1312	meses
+#263	AnnotatorNotes T173 "IATE"
+#264	AnnotatorNotes T4 "IATE"

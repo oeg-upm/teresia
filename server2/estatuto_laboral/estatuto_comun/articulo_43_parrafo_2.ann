@@ -1,396 +1,533 @@
-T1	Term-DPEJ 664 668	caso
-T2	Term-DPEJ 81 98	empresa principal
-T3	Term-DPEJ 781 798	empresa principal
-T4	Term-DPEJ 1500 1506	letras
-T5	Term-DPEJ 757 774	centro de trabajo
-T6	Term-DPEJ 1019 1036	centro de trabajo
-T7	Term-DPEJ 128 137	Seguridad
-T8	Term-DPEJ 767 774	trabajo
-T9	Term-DPEJ 1029 1036	trabajo
-T10	Term-DPEJ 81 88	empresa
-T11	Term-DPEJ 328 335	empresa
-T12	Term-DPEJ 401 408	empresa
-T13	Term-DPEJ 617 624	empresa
-T14	Term-DPEJ 781 788	empresa
-T15	Term-DPEJ 1267 1274	empresa
-T16	Term-DPEJ 931 939	empresas
-T17	Term-DPEJ 1153 1161	empresas
-T18	Term-DPEJ 1579 1587	empresas
-T19	Term-DPEJ 1537 1545	convenio
-T20	Term-DPEJ 1775 1783	convenio
-T21	Term-DPEJ 349 357	contrato
-T22	Term-DPEJ 993 998	forma
-T23	Term-DPEJ 1737 1742	forma
-T24	Term-DPEJ 901 908	riesgos
-T25	Term-DPEJ 1192 1203	disposición
-T26	Term-DPEJ 845 856	actividades
-T27	Term-DPEJ 1644 1653	actividad
-T28	Term-DPEJ 901 918	riesgos laborales
-T29	Term-DPEJ 1537 1555	convenio colectivo
-T30	Term-DPEJ 1834 1840	título
-T31	Term-DPEJ 1483 1491	apartado
-T32	Term-DPEJ 1519 1527	apartado
-T33	Term-DPEJ 361 371	prestación
-T34	Term-DPEJ 222 233	información
-T35	Term-DPEJ 1110 1121	información
-T36	Term-DPEJ 1559 1569	aplicación
-T37	Term-DPEJ 803 810	Medidas
-T38	Term-DPEJ 383 392	servicios
-T39	Term-DPEJ 305 313	artículo
-T40	Term-DPEJ 757 763	centro
-T41	Term-DPEJ 1019 1025	centro
-T42	Term-DPEJ 579 585	número
-T43	Term-DPEJ 670 676	número
-T44	Term-Termcat 951 962	contratista
-T45	Term-Termcat 625 636	contratista
-T46	Term-Termcat 1275 1286	contratista
-T47	Term-Termcat 409 420	contratista
-T48	Term-Termcat 13 24	contratista
-T49	Term-Termcat 1588 1600	contratistas
-T50	Term-Termcat 1775 1783	convenio
-T51	Term-Termcat 1537 1545	convenio
-T52	Term-Termcat 383 392	servicios
-T53	Term-Termcat 266 281	subcontratación
-T54	Term-Termcat 423 437	subcontratista
-T55	Term-Termcat 965 979	subcontratista
-T56	Term-Termcat 1289 1303	subcontratista
-T57	Term-Termcat 639 653	subcontratista
-T58	Term-Termcat 27 41	subcontratista
-T59	Term-Termcat 1603 1618	subcontratistas
-T60	Term-Termcat 152 160	términos
-T61	Term-Termcat 349 357	contrato
-T62	Term-Termcat 567 576	domicilio
-T63	Term-Termcat 993 998	forma
-T64	Term-Termcat 1737 1742	forma
-T65	Term-Termcat 544 550	Nombre
-T66	Term-Termcat 361 371	prestación
-T67	Term-Termcat 1210 1224	representación
-T68	Term-Termcat 460 474	representación
-T69	Term-Termcat 1336 1350	representación
-T70	Term-Termcat 1834 1840	título
-T71	Term-Termcat 305 313	artículo
-T72	Term-Termcat 1177 1182	libro
-T73	Term-Termcat 1071 1076	libro
-T74	Term-Termcat 757 774	centro de trabajo
-T75	Term-Termcat 1019 1036	centro de trabajo
-T76	Term-Termcat 1537 1555	convenio colectivo
-T77	Term-Termcat 617 624	empresa
-T78	Term-Termcat 328 335	empresa
-T79	Term-Termcat 81 88	empresa
-T80	Term-Termcat 401 408	empresa
-T81	Term-Termcat 781 788	empresa
-T82	Term-Termcat 1267 1274	empresa
-T83	Term-Termcat 1153 1161	empresas
-T84	Term-Termcat 1579 1587	empresas
-T85	Term-Termcat 931 939	empresas
-T86	Term-Termcat 887 918	prevención de riesgos laborales
-T87	Term-Termcat 128 144	Seguridad Social
-T88	Term-Termcat 1701 1714	independencia
-T89	Term-Termcat 1364 1372	personas
-T90	Term-Termcat 1238 1246	personas
-T91	Term-Termcat 680 688	personas
-T92	Term-Termcat 488 496	personas
-T93	Term-Termcat 128 137	Seguridad
-T94	Term-Termcat 1192 1203	disposición
-T95	Term-Termcat 589 603	identificación
-T96	Term-Termcat 845 856	actividades
-T97	Term-Termcat 1644 1653	actividad
-T98	Term-Termcat 1559 1569	aplicación
-T99	Term-Termcat 1804 1812	conforme
-T100	Term-Termcat 728 736	contrata
-T101	Term-Termcat 1673 1681	contrata
-T102	Term-Termcat 1426 1434	contrata
-T103	Term-Termcat 829 841	coordinación
-T104	Term-Termcat 1077 1085	registro
-T105	Term-Termcat 1410 1419	ejecución
-T106	Term-Termcat 604 610	fiscal
-T107	Term-Termcat 65 74	identidad
-T108	Term-Termcat 1110 1121	información
-T109	Term-Termcat 222 233	información
-T110	Term-Termcat 475 480	legal
-T111	Term-Termcat 1351 1356	legal
-T112	Term-Termcat 1225 1230	legal
-T113	Term-Termcat 255 262	materia
-T114	Term-Termcat 1721 1734	objeto social
-T115	Term-Termcat 375 380	obras
-T116	Term-Termcat 206 215	perjuicio
-T117	Term-Termcat 553 565	razón social
-T118	Term-Termcat 1784 1793	sectorial
-T119	Term-Termcat 104 113	Tesorería
-T120	Term-Termcat 1056 1064	disponer
-T121	Term-Termcat 901 908	riesgos
-T122	Term-Termcat 887 897	prevención
-T123	Term-Termcat 875 880	vista
-T124	Term-DV 1721 1734	objeto social
-T125	Term-DV 553 565	razón social
-T126	Term-DV 500 504	baja
-T127	Term-DV 692 696	baja
-T128	Term-DV 1250 1254	baja
-T129	Term-DV 1376 1380	baja
-T130	Term-DV 42 46	debe
-T131	Term-DV 439 443	debe
-T132	Term-DV 1049 1053	debe
-T133	Term-DV 1304 1308	debe
-T134	Term-DV 1703 1714	dependencia
-T135	Term-DV 1192 1203	disposición
-T136	Term-DV 567 576	domicilio
-T137	Term-DV 1410 1419	ejecución
-T138	Term-DV 81 88	empresa
-T139	Term-DV 328 335	empresa
-T140	Term-DV 401 408	empresa
-T141	Term-DV 617 624	empresa
-T142	Term-DV 781 788	empresa
-T143	Term-DV 931 938	empresa
-T144	Term-DV 1153 1160	empresa
-T145	Term-DV 1267 1274	empresa
-T146	Term-DV 1579 1586	empresa
-T147	Term-DV 604 610	fiscal
-T148	Term-DV 52 57	forma
-T149	Term-DV 224 229	forma
-T150	Term-DV 448 453	forma
-T151	Term-DV 993 998	forma
-T152	Term-DV 1112 1117	forma
-T153	Term-DV 1313 1318	forma
-T154	Term-DV 1737 1742	forma
-T155	Term-DV 65 74	identidad
-T156	Term-DV 589 603	identificación
-T157	Term-DV 209 215	juicio
-T158	Term-DV 909 916	laboral
-T159	Term-DV 1548 1555	lectivo
-T160	Term-DV 475 480	legal
-T161	Term-DV 1225 1230	legal
-T162	Term-DV 1351 1356	legal
-T163	Term-DV 55 58	mar
-T164	Term-DV 451 454	mar
-T165	Term-DV 1316 1319	mar
-T166	Term-DV 835 841	nación
-T167	Term-DV 1721 1727	objeto
-T168	Term-DV 375 379	obra
-T169	Term-DV 821 825	para
-T170	Term-DV 1570 1574	para
-T171	Term-DV 206 215	perjuicio
-T172	Term-DV 488 495	persona
-T173	Term-DV 680 687	persona
-T174	Term-DV 1238 1245	persona
-T175	Term-DV 1364 1371	persona
-T176	Term-DV 1560 1565	plica
-T177	Term-DV 1795 1800	plica
-T178	Term-DV 462 474	presentación
-T179	Term-DV 1212 1224	presentación
-T180	Term-DV 1338 1350	presentación
-T181	Term-DV 361 371	prestación
-T182	Term-DV 887 897	prevención
-T183	Term-DV 240 249	prevision
-T184	Term-DV 89 98	principal
-T185	Term-DV 789 798	principal
-T186	Term-DV 940 949	principal
-T187	Term-DV 353 357	rato
-T188	Term-DV 1077 1085	registro
-T189	Term-DV 165 176	reglamentar
-T190	Term-DV 460 474	representación
-T191	Term-DV 1210 1224	representación
-T192	Term-DV 1336 1350	representación
-T193	Term-DV 383 391	servicio
-T194	Term-DV 266 281	subcontratación
-T195	Term-DV 497 507	trabajador
-T196	Term-DV 689 699	trabajador
-T197	Term-DV 1247 1257	trabajador
-T198	Term-DV 1373 1383	trabajador
-T199	Term-DV 243 246	vis
-T200	Term-DV 814 817	vis
-T201	Term-DV 875 878	vis
-T202	Term-DV 814 819	vista
-T203	Term-DV 875 880	vista
-T204	Term-DV 532 533	x
-T205	Term-DV 1454 1455	x
-T206	Term-DV 1764 1765	x
-T207	Term-AttentionRank 553 558	razón
-T208	Term-AttentionRank 1077 1085	registro
-T209	Term-AttentionRank 13 24	contratista
-T210	Term-AttentionRank 409 420	contratista
-T211	Term-AttentionRank 625 636	contratista
-T212	Term-AttentionRank 951 962	contratista
-T213	Term-AttentionRank 1275 1286	contratista
-T214	Term-AttentionRank 1588 1600	contratistas
-T215	Term-AttentionRank 1192 1203	disposición
-T216	Term-AttentionRank 901 908	riesgos
-T217	Term-AttentionRank 401 420	empresa contratista
-T218	Term-AttentionRank 617 636	empresa contratista
-T219	Term-AttentionRank 1267 1286	empresa contratista
-T220	Term-AttentionRank 1579 1600	empresas contratistas
-T221	Term-AttentionRank 1579 1600	empresas contratistas
-T222	Term-AttentionRank 27 41	subcontratista
-T223	Term-AttentionRank 423 437	subcontratista
-T224	Term-AttentionRank 639 653	subcontratista
-T225	Term-AttentionRank 965 979	subcontratista
-T226	Term-AttentionRank 1289 1303	subcontratista
-T227	Term-AttentionRank 1603 1618	subcontratistas
-T228	Term-AttentionRank 128 137	Seguridad
-T229	Term-AttentionRank 803 810	Medidas
-T230	Term-AttentionRank 1397 1403	inicio
-T231	Term-AttentionRank 1559 1569	aplicación
-T232	Term-AttentionRank 375 380	obras
-T233	Term-AttentionRank 305 313	artículo
-T234	Term-AttentionRank 328 380	empresa concierte un contrato de prestación de obras
-T235	Term-AttentionRank 1834 1840	título
-T236	Term-AttentionRank 222 233	información
-T237	Term-AttentionRank 1110 1121	información
-T238	Term-AttentionRank 488 496	personas
-T239	Term-AttentionRank 680 688	personas
-T240	Term-AttentionRank 1238 1246	personas
-T241	Term-AttentionRank 1364 1372	personas
-T242	Term-AttentionRank 488 509	personas trabajadoras
-T243	Term-AttentionRank 680 701	personas trabajadoras
-T244	Term-AttentionRank 1238 1259	personas trabajadoras
-T245	Term-AttentionRank 1364 1385	personas trabajadoras
-T246	Term-AttentionRank 488 509	personas trabajadoras
-T247	Term-AttentionRank 680 701	personas trabajadoras
-T248	Term-AttentionRank 1238 1259	personas trabajadoras
-T249	Term-AttentionRank 1364 1385	personas trabajadoras
-T250	Term-AttentionRank 1537 1545	convenio
-T251	Term-AttentionRank 1775 1783	convenio
-T252	Term-AttentionRank 206 233	perjuicio de la información
-T253	Term-AttentionRank 845 856	actividades
-T254	Term-AttentionRank 1644 1653	actividad
-T255	Term-AttentionRank 383 392	servicios
-T256	Term-AttentionRank 497 509	trabajadoras
-T257	Term-AttentionRank 689 701	trabajadoras
-T258	Term-AttentionRank 1247 1259	trabajadoras
-T259	Term-AttentionRank 1373 1385	trabajadoras
-T260	Term-AttentionRank 81 98	empresa principal
-T261	Term-AttentionRank 781 798	empresa principal
-T262	Term-AttentionRank 255 281	materia de subcontratación
-T263	Term-AttentionRank 460 480	representación legal
-T264	Term-AttentionRank 1210 1230	representación legal
-T265	Term-AttentionRank 1336 1356	representación legal
-T266	Term-AttentionRank 81 88	empresa
-T267	Term-AttentionRank 328 335	empresa
-T268	Term-AttentionRank 401 408	empresa
-T269	Term-AttentionRank 617 624	empresa
-T270	Term-AttentionRank 781 788	empresa
-T271	Term-AttentionRank 1267 1274	empresa
-T272	Term-AttentionRank 931 939	empresas
-T273	Term-AttentionRank 1153 1161	empresas
-T274	Term-AttentionRank 1579 1587	empresas
-T275	Term-AttentionRank 993 1009	forma continuada
-T276	Term-AttentionRank 361 371	prestación
-T277	Term-AttentionRank 460 474	representación
-T278	Term-AttentionRank 1210 1224	representación
-T279	Term-AttentionRank 1336 1350	representación
-T280	Term-AttentionRank 255 262	materia
-T281	Term-AttentionRank 993 998	forma
-T282	Term-AttentionRank 1737 1742	forma
-T283	Term-AttentionRank 931 949	empresas principal
-T284	Term-AttentionRank 757 763	centro
-T285	Term-AttentionRank 1019 1025	centro
-T286	Term-AttentionRank 901 918	riesgos laborales
-T287	Term-AttentionRank 1131 1169	respecto de todas las empresas citadas
-T288	Term-AttentionRank 128 144	Seguridad Social
-T289	Term-AttentionRank 1644 1681	actividad desarrollada en la contrata
-T290	Term-AttentionRank 579 585	número
-T291	Term-AttentionRank 670 676	número
-T292	Term-AttentionRank 1500 1506	letras
-T293	Term-AttentionRank 349 357	contrato
-T294	Term-AttentionRank 739 750	subcontrata
-T295	Term-AttentionRank 1684 1695	subcontrata
-T296	Term-AttentionRank 1537 1555	convenio colectivo
-T297	Term-AttentionRank 767 774	trabajo
-T298	Term-AttentionRank 1029 1036	trabajo
-T299	Term-AttentionRank 664 668	caso
-T300	Term-AttentionRank 1483 1491	apartado
-T301	Term-AttentionRank 1519 1527	apartado
-T302	Term-LabourLaw 757 774	centro de trabajo
-T303	Term-LabourLaw 1019 1036	centro de trabajo
-T304	Term-LabourLaw 1537 1555	convenio colectivo
-T305	Term-LabourLaw 460 480	representación legal
-T306	Term-LabourLaw 1210 1230	representación legal
-T307	Term-LabourLaw 1336 1356	representación legal
-T308	Term-LabourLaw 767 774	trabajo
-T309	Term-LabourLaw 1029 1036	trabajo
-T310	Term-LabourLaw 887 897	prevención
-T311	Term-LabourLaw 901 907	riesgo
-T312	Term-LabourLaw 1559 1569	aplicación
-T313	Term-LabourLaw 349 357	contrato
-T314	Term-LabourLaw 222 233	información
-T315	Term-LabourLaw 1110 1121	información
-T316	Term-LabourLaw 361 371	prestación
-T317	Term-LabourLaw 497 507	trabajador
-T318	Term-LabourLaw 689 699	trabajador
-T319	Term-LabourLaw 1247 1257	trabajador
-T320	Term-LabourLaw 1373 1383	trabajador
-T321	Term-LabourLaw 269 281	contratación
-T322	Term-LabourLaw 224 233	formación
-T323	Term-LabourLaw 1112 1121	formación
-T324	Term-LabourLaw 42 47	deber
-T325	Term-LabourLaw 439 444	deber
-T326	Term-LabourLaw 1049 1054	deber
-T327	Term-LabourLaw 1304 1309	deber
-T328	Term-LabourLaw 266 277	subcontrata
-T329	Term-LabourLaw 739 750	subcontrata
-T330	Term-LabourLaw 1684 1695	subcontrata
-T331	Term-LabourLaw 266 281	subcontratación
-T332	Term-LabourLaw 383 391	servicio
-T333	Term-LabourLaw 81 88	empresa
-T334	Term-LabourLaw 328 335	empresa
-T335	Term-LabourLaw 401 408	empresa
-T336	Term-LabourLaw 617 624	empresa
-T337	Term-LabourLaw 781 788	empresa
-T338	Term-LabourLaw 931 938	empresa
-T339	Term-LabourLaw 1153 1160	empresa
-T340	Term-LabourLaw 1267 1274	empresa
-T341	Term-LabourLaw 1579 1586	empresa
-T342	Term-LabourLaw 206 215	perjuicio
-T343	Term-LabourLaw 152 159	término
-T344	Term-LabourLaw 1546 1555	colectivo
-T345	Term-LabourLaw 488 495	persona
-T346	Term-LabourLaw 680 687	persona
-T347	Term-LabourLaw 1238 1245	persona
-T348	Term-LabourLaw 1364 1371	persona
-T349	Term-LabourLaw 13 24	contratista
-T350	Term-LabourLaw 30 41	contratista
-T351	Term-LabourLaw 409 420	contratista
-T352	Term-LabourLaw 426 437	contratista
-T353	Term-LabourLaw 625 636	contratista
-T354	Term-LabourLaw 642 653	contratista
-T355	Term-LabourLaw 951 962	contratista
-T356	Term-LabourLaw 968 979	contratista
-T357	Term-LabourLaw 1275 1286	contratista
-T358	Term-LabourLaw 1292 1303	contratista
-T359	Term-LabourLaw 1588 1599	contratista
-T360	Term-LabourLaw 1606 1617	contratista
-T361	Term-LabourLaw 1192 1203	disposición
-T362	Term-IATE 375 380	obras
-T363	Term-IATE 1834 1840	título
-T364	Term-IATE 1559 1569	aplicación
-T365	Term-IATE 305 313	artículo
-T366	Term-IATE 901 908	riesgos
-T367	Term-IATE 81 88	empresa
-T368	Term-IATE 328 335	empresa
-T369	Term-IATE 401 408	empresa
-T370	Term-IATE 617 624	empresa
-T371	Term-IATE 781 788	empresa
-T372	Term-IATE 1267 1274	empresa
-T373	Term-IATE 931 939	empresas
-T374	Term-IATE 1153 1161	empresas
-T375	Term-IATE 1579 1587	empresas
-T376	Term-IATE 553 558	razón
-T377	Term-IATE 13 24	contratista
-T378	Term-IATE 409 420	contratista
-T379	Term-IATE 625 636	contratista
-T380	Term-IATE 951 962	contratista
-T381	Term-IATE 1275 1286	contratista
-T382	Term-IATE 1588 1600	contratistas
-T383	Term-IATE 1077 1085	registro
-T384	Term-IATE 1483 1491	apartado
-T385	Term-IATE 1519 1527	apartado
-T386	Term-IATE 255 262	materia
-T387	Term-IATE 128 137	Seguridad
-T388	Term-IATE 845 856	actividades
-T389	Term-IATE 1644 1653	actividad
-T390	Term-IATE 361 371	prestación
-T391	Term-IATE 349 357	contrato
-T392	Term-IATE 1537 1545	convenio
-T393	Term-IATE 1775 1783	convenio
-T394	Term-IATE 1500 1506	letras
-T395	Term-IATE 222 233	información
-T396	Term-IATE 1110 1121	información
+T1	Term-diccionario 664 668	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 81 98	empresa principal
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 781 798	empresa principal
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1500 1506	letras
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 757 774	centro de trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1019 1036	centro de trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 128 137	Seguridad
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 767 774	trabajo
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 1029 1036	trabajo
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 81 88	empresa
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 328 335	empresa
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 401 408	empresa
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 617 624	empresa
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 781 788	empresa
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1267 1274	empresa
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 931 939	empresas
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1153 1161	empresas
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 1579 1587	empresas
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 1537 1545	convenio
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 1775 1783	convenio
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 349 357	contrato
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 993 998	forma
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 1737 1742	forma
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 901 908	riesgos
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 1192 1203	disposición
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 845 856	actividades
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1644 1653	actividad
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 901 918	riesgos laborales
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 1537 1555	convenio colectivo
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 1834 1840	título
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 1483 1491	apartado
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 1519 1527	apartado
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 361 371	prestación
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 222 233	información
+#34	AnnotatorNotes T34 "DPEJ"
+T35	Term-diccionario 1110 1121	información
+#35	AnnotatorNotes T35 "DPEJ"
+T36	Term-diccionario 1559 1569	aplicación
+#36	AnnotatorNotes T36 "DPEJ"
+T37	Term-diccionario 803 810	Medidas
+#37	AnnotatorNotes T37 "DPEJ"
+T38	Term-diccionario 383 392	servicios
+#38	AnnotatorNotes T38 "DPEJ"
+T39	Term-diccionario 305 313	artículo
+#39	AnnotatorNotes T39 "DPEJ"
+T40	Term-diccionario 757 763	centro
+#40	AnnotatorNotes T40 "DPEJ"
+T41	Term-diccionario 1019 1025	centro
+#41	AnnotatorNotes T41 "DPEJ"
+T42	Term-diccionario 579 585	número
+#42	AnnotatorNotes T42 "DPEJ"
+T43	Term-diccionario 670 676	número
+#43	AnnotatorNotes T43 "DPEJ"
+T44	Term-diccionario 951 962	contratista
+#44	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 625 636	contratista
+#45	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1275 1286	contratista
+#46	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 409 420	contratista
+#47	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 13 24	contratista
+#48	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 1588 1600	contratistas
+#49	AnnotatorNotes T49 "Termcat"
+#50	AnnotatorNotes T20 "Termcat"
+#51	AnnotatorNotes T19 "Termcat"
+#52	AnnotatorNotes T38 "Termcat"
+T50	Term-diccionario 266 281	subcontratación
+#53	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 423 437	subcontratista
+#54	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 965 979	subcontratista
+#55	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 1289 1303	subcontratista
+#56	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 639 653	subcontratista
+#57	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 27 41	subcontratista
+#58	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 1603 1618	subcontratistas
+#59	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 152 160	términos
+#60	AnnotatorNotes T57 "Termcat"
+#61	AnnotatorNotes T21 "Termcat"
+T58	Term-diccionario 567 576	domicilio
+#62	AnnotatorNotes T58 "Termcat"
+#63	AnnotatorNotes T22 "Termcat"
+#64	AnnotatorNotes T23 "Termcat"
+T59	Term-diccionario 544 550	Nombre
+#65	AnnotatorNotes T59 "Termcat"
+#66	AnnotatorNotes T33 "Termcat"
+T60	Term-diccionario 1210 1224	representación
+#67	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 460 474	representación
+#68	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 1336 1350	representación
+#69	AnnotatorNotes T62 "Termcat"
+#70	AnnotatorNotes T30 "Termcat"
+#71	AnnotatorNotes T39 "Termcat"
+T63	Term-diccionario 1177 1182	libro
+#72	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 1071 1076	libro
+#73	AnnotatorNotes T64 "Termcat"
+#74	AnnotatorNotes T5 "Termcat"
+#75	AnnotatorNotes T6 "Termcat"
+#76	AnnotatorNotes T29 "Termcat"
+#77	AnnotatorNotes T13 "Termcat"
+#78	AnnotatorNotes T11 "Termcat"
+#79	AnnotatorNotes T10 "Termcat"
+#80	AnnotatorNotes T12 "Termcat"
+#81	AnnotatorNotes T14 "Termcat"
+#82	AnnotatorNotes T15 "Termcat"
+#83	AnnotatorNotes T17 "Termcat"
+#84	AnnotatorNotes T18 "Termcat"
+#85	AnnotatorNotes T16 "Termcat"
+T65	Term-diccionario 887 918	prevención de riesgos laborales
+#86	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 128 144	Seguridad Social
+#87	AnnotatorNotes T66 "Termcat"
+T67	Term-diccionario 1701 1714	independencia
+#88	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 1364 1372	personas
+#89	AnnotatorNotes T68 "Termcat"
+T69	Term-diccionario 1238 1246	personas
+#90	AnnotatorNotes T69 "Termcat"
+T70	Term-diccionario 680 688	personas
+#91	AnnotatorNotes T70 "Termcat"
+T71	Term-diccionario 488 496	personas
+#92	AnnotatorNotes T71 "Termcat"
+#93	AnnotatorNotes T7 "Termcat"
+#94	AnnotatorNotes T25 "Termcat"
+T72	Term-diccionario 589 603	identificación
+#95	AnnotatorNotes T72 "Termcat"
+#96	AnnotatorNotes T26 "Termcat"
+#97	AnnotatorNotes T27 "Termcat"
+#98	AnnotatorNotes T36 "Termcat"
+T73	Term-diccionario 1804 1812	conforme
+#99	AnnotatorNotes T73 "Termcat"
+T74	Term-diccionario 728 736	contrata
+#100	AnnotatorNotes T74 "Termcat"
+T75	Term-diccionario 1673 1681	contrata
+#101	AnnotatorNotes T75 "Termcat"
+T76	Term-diccionario 1426 1434	contrata
+#102	AnnotatorNotes T76 "Termcat"
+T77	Term-diccionario 829 841	coordinación
+#103	AnnotatorNotes T77 "Termcat"
+T78	Term-diccionario 1077 1085	registro
+#104	AnnotatorNotes T78 "Termcat"
+T79	Term-diccionario 1410 1419	ejecución
+#105	AnnotatorNotes T79 "Termcat"
+T80	Term-diccionario 604 610	fiscal
+#106	AnnotatorNotes T80 "Termcat"
+T81	Term-diccionario 65 74	identidad
+#107	AnnotatorNotes T81 "Termcat"
+#108	AnnotatorNotes T35 "Termcat"
+#109	AnnotatorNotes T34 "Termcat"
+T82	Term-diccionario 475 480	legal
+#110	AnnotatorNotes T82 "Termcat"
+T83	Term-diccionario 1351 1356	legal
+#111	AnnotatorNotes T83 "Termcat"
+T84	Term-diccionario 1225 1230	legal
+#112	AnnotatorNotes T84 "Termcat"
+T85	Term-diccionario 255 262	materia
+#113	AnnotatorNotes T85 "Termcat"
+T86	Term-diccionario 1721 1734	objeto social
+#114	AnnotatorNotes T86 "Termcat"
+T87	Term-diccionario 375 380	obras
+#115	AnnotatorNotes T87 "Termcat"
+T88	Term-diccionario 206 215	perjuicio
+#116	AnnotatorNotes T88 "Termcat"
+T89	Term-diccionario 553 565	razón social
+#117	AnnotatorNotes T89 "Termcat"
+T90	Term-diccionario 1784 1793	sectorial
+#118	AnnotatorNotes T90 "Termcat"
+T91	Term-diccionario 104 113	Tesorería
+#119	AnnotatorNotes T91 "Termcat"
+T92	Term-diccionario 1056 1064	disponer
+#120	AnnotatorNotes T92 "Termcat"
+#121	AnnotatorNotes T24 "Termcat"
+T93	Term-diccionario 887 897	prevención
+#122	AnnotatorNotes T93 "Termcat"
+T94	Term-diccionario 875 880	vista
+#123	AnnotatorNotes T94 "Termcat"
+T95	Term-automatico 553 558	razón
+#124	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 1077 1085	registro
+#125	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 13 24	contratista
+#126	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 409 420	contratista
+#127	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 625 636	contratista
+#128	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 951 962	contratista
+#129	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1275 1286	contratista
+#130	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 1588 1600	contratistas
+#131	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 1192 1203	disposición
+#132	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 901 908	riesgos
+#133	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 401 420	empresa contratista
+#134	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 617 636	empresa contratista
+#135	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1267 1286	empresa contratista
+#136	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1579 1600	empresas contratistas
+#137	AnnotatorNotes T108 "AttentionRank"
+#138	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 27 41	subcontratista
+#139	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 423 437	subcontratista
+#140	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 639 653	subcontratista
+#141	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 965 979	subcontratista
+#142	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 1289 1303	subcontratista
+#143	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 1603 1618	subcontratistas
+#144	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 128 137	Seguridad
+#145	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 803 810	Medidas
+#146	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1397 1403	inicio
+#147	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 1559 1569	aplicación
+#148	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 375 380	obras
+#149	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 305 313	artículo
+#150	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 328 380	empresa concierte un contrato de prestación de obras
+#151	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 1834 1840	título
+#152	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 222 233	información
+#153	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 1110 1121	información
+#154	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 488 496	personas
+#155	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 680 688	personas
+#156	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 1238 1246	personas
+#157	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 1364 1372	personas
+#158	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 488 509	personas trabajadoras
+#159	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 680 701	personas trabajadoras
+#160	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 1238 1259	personas trabajadoras
+#161	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 1364 1385	personas trabajadoras
+#162	AnnotatorNotes T132 "AttentionRank"
+#163	AnnotatorNotes T129 "AttentionRank"
+#164	AnnotatorNotes T130 "AttentionRank"
+#165	AnnotatorNotes T131 "AttentionRank"
+#166	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 1537 1545	convenio
+#167	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 1775 1783	convenio
+#168	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 206 233	perjuicio de la información
+#169	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 845 856	actividades
+#170	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 1644 1653	actividad
+#171	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 383 392	servicios
+#172	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 497 509	trabajadoras
+#173	AnnotatorNotes T139 "AttentionRank"
+T140	Term-automatico 689 701	trabajadoras
+#174	AnnotatorNotes T140 "AttentionRank"
+T141	Term-automatico 1247 1259	trabajadoras
+#175	AnnotatorNotes T141 "AttentionRank"
+T142	Term-automatico 1373 1385	trabajadoras
+#176	AnnotatorNotes T142 "AttentionRank"
+T143	Term-automatico 81 98	empresa principal
+#177	AnnotatorNotes T143 "AttentionRank"
+T144	Term-automatico 781 798	empresa principal
+#178	AnnotatorNotes T144 "AttentionRank"
+T145	Term-automatico 255 281	materia de subcontratación
+#179	AnnotatorNotes T145 "AttentionRank"
+T146	Term-automatico 460 480	representación legal
+#180	AnnotatorNotes T146 "AttentionRank"
+T147	Term-automatico 1210 1230	representación legal
+#181	AnnotatorNotes T147 "AttentionRank"
+T148	Term-automatico 1336 1356	representación legal
+#182	AnnotatorNotes T148 "AttentionRank"
+T149	Term-automatico 81 88	empresa
+#183	AnnotatorNotes T149 "AttentionRank"
+T150	Term-automatico 328 335	empresa
+#184	AnnotatorNotes T150 "AttentionRank"
+T151	Term-automatico 401 408	empresa
+#185	AnnotatorNotes T151 "AttentionRank"
+T152	Term-automatico 617 624	empresa
+#186	AnnotatorNotes T152 "AttentionRank"
+T153	Term-automatico 781 788	empresa
+#187	AnnotatorNotes T153 "AttentionRank"
+T154	Term-automatico 1267 1274	empresa
+#188	AnnotatorNotes T154 "AttentionRank"
+T155	Term-automatico 931 939	empresas
+#189	AnnotatorNotes T155 "AttentionRank"
+T156	Term-automatico 1153 1161	empresas
+#190	AnnotatorNotes T156 "AttentionRank"
+T157	Term-automatico 1579 1587	empresas
+#191	AnnotatorNotes T157 "AttentionRank"
+T158	Term-automatico 993 1009	forma continuada
+#192	AnnotatorNotes T158 "AttentionRank"
+T159	Term-automatico 361 371	prestación
+#193	AnnotatorNotes T159 "AttentionRank"
+T160	Term-automatico 460 474	representación
+#194	AnnotatorNotes T160 "AttentionRank"
+T161	Term-automatico 1210 1224	representación
+#195	AnnotatorNotes T161 "AttentionRank"
+T162	Term-automatico 1336 1350	representación
+#196	AnnotatorNotes T162 "AttentionRank"
+T163	Term-automatico 255 262	materia
+#197	AnnotatorNotes T163 "AttentionRank"
+T164	Term-automatico 993 998	forma
+#198	AnnotatorNotes T164 "AttentionRank"
+T165	Term-automatico 1737 1742	forma
+#199	AnnotatorNotes T165 "AttentionRank"
+T166	Term-automatico 931 949	empresas principal
+#200	AnnotatorNotes T166 "AttentionRank"
+T167	Term-automatico 757 763	centro
+#201	AnnotatorNotes T167 "AttentionRank"
+T168	Term-automatico 1019 1025	centro
+#202	AnnotatorNotes T168 "AttentionRank"
+T169	Term-automatico 901 918	riesgos laborales
+#203	AnnotatorNotes T169 "AttentionRank"
+T170	Term-automatico 1131 1169	respecto de todas las empresas citadas
+#204	AnnotatorNotes T170 "AttentionRank"
+T171	Term-automatico 128 144	Seguridad Social
+#205	AnnotatorNotes T171 "AttentionRank"
+T172	Term-automatico 1644 1681	actividad desarrollada en la contrata
+#206	AnnotatorNotes T172 "AttentionRank"
+T173	Term-automatico 579 585	número
+#207	AnnotatorNotes T173 "AttentionRank"
+T174	Term-automatico 670 676	número
+#208	AnnotatorNotes T174 "AttentionRank"
+T175	Term-automatico 1500 1506	letras
+#209	AnnotatorNotes T175 "AttentionRank"
+T176	Term-automatico 349 357	contrato
+#210	AnnotatorNotes T176 "AttentionRank"
+T177	Term-automatico 739 750	subcontrata
+#211	AnnotatorNotes T177 "AttentionRank"
+T178	Term-automatico 1684 1695	subcontrata
+#212	AnnotatorNotes T178 "AttentionRank"
+T179	Term-automatico 1537 1555	convenio colectivo
+#213	AnnotatorNotes T179 "AttentionRank"
+T180	Term-automatico 767 774	trabajo
+#214	AnnotatorNotes T180 "AttentionRank"
+T181	Term-automatico 1029 1036	trabajo
+#215	AnnotatorNotes T181 "AttentionRank"
+T182	Term-automatico 664 668	caso
+#216	AnnotatorNotes T182 "AttentionRank"
+T183	Term-automatico 1483 1491	apartado
+#217	AnnotatorNotes T183 "AttentionRank"
+T184	Term-automatico 1519 1527	apartado
+#218	AnnotatorNotes T184 "AttentionRank"
+#219	AnnotatorNotes T5 "LabourLaw"
+#220	AnnotatorNotes T6 "LabourLaw"
+#221	AnnotatorNotes T29 "LabourLaw"
+T185	Term-diccionario 460 480	representación legal
+#222	AnnotatorNotes T185 "LabourLaw"
+T186	Term-diccionario 1210 1230	representación legal
+#223	AnnotatorNotes T186 "LabourLaw"
+T187	Term-diccionario 1336 1356	representación legal
+#224	AnnotatorNotes T187 "LabourLaw"
+#225	AnnotatorNotes T8 "LabourLaw"
+#226	AnnotatorNotes T9 "LabourLaw"
+#227	AnnotatorNotes T93 "LabourLaw"
+T188	Term-diccionario 901 907	riesgo
+#228	AnnotatorNotes T188 "LabourLaw"
+#229	AnnotatorNotes T36 "LabourLaw"
+#230	AnnotatorNotes T21 "LabourLaw"
+#231	AnnotatorNotes T34 "LabourLaw"
+#232	AnnotatorNotes T35 "LabourLaw"
+#233	AnnotatorNotes T33 "LabourLaw"
+T189	Term-diccionario 497 507	trabajador
+#234	AnnotatorNotes T189 "LabourLaw"
+T190	Term-diccionario 689 699	trabajador
+#235	AnnotatorNotes T190 "LabourLaw"
+T191	Term-diccionario 1247 1257	trabajador
+#236	AnnotatorNotes T191 "LabourLaw"
+T192	Term-diccionario 1373 1383	trabajador
+#237	AnnotatorNotes T192 "LabourLaw"
+T193	Term-diccionario 269 281	contratación
+#238	AnnotatorNotes T193 "LabourLaw"
+T194	Term-diccionario 224 233	formación
+#239	AnnotatorNotes T194 "LabourLaw"
+T195	Term-diccionario 1112 1121	formación
+#240	AnnotatorNotes T195 "LabourLaw"
+T196	Term-diccionario 42 47	deber
+#241	AnnotatorNotes T196 "LabourLaw"
+T197	Term-diccionario 439 444	deber
+#242	AnnotatorNotes T197 "LabourLaw"
+T198	Term-diccionario 1049 1054	deber
+#243	AnnotatorNotes T198 "LabourLaw"
+T199	Term-diccionario 1304 1309	deber
+#244	AnnotatorNotes T199 "LabourLaw"
+T200	Term-diccionario 266 277	subcontrata
+#245	AnnotatorNotes T200 "LabourLaw"
+T201	Term-diccionario 739 750	subcontrata
+#246	AnnotatorNotes T201 "LabourLaw"
+T202	Term-diccionario 1684 1695	subcontrata
+#247	AnnotatorNotes T202 "LabourLaw"
+#248	AnnotatorNotes T50 "LabourLaw"
+T203	Term-diccionario 383 391	servicio
+#249	AnnotatorNotes T203 "LabourLaw"
+#250	AnnotatorNotes T10 "LabourLaw"
+#251	AnnotatorNotes T11 "LabourLaw"
+#252	AnnotatorNotes T12 "LabourLaw"
+#253	AnnotatorNotes T13 "LabourLaw"
+#254	AnnotatorNotes T14 "LabourLaw"
+T204	Term-diccionario 931 938	empresa
+#255	AnnotatorNotes T204 "LabourLaw"
+T205	Term-diccionario 1153 1160	empresa
+#256	AnnotatorNotes T205 "LabourLaw"
+#257	AnnotatorNotes T15 "LabourLaw"
+T206	Term-diccionario 1579 1586	empresa
+#258	AnnotatorNotes T206 "LabourLaw"
+#259	AnnotatorNotes T88 "LabourLaw"
+T207	Term-diccionario 152 159	término
+#260	AnnotatorNotes T207 "LabourLaw"
+T208	Term-diccionario 1546 1555	colectivo
+#261	AnnotatorNotes T208 "LabourLaw"
+T209	Term-diccionario 488 495	persona
+#262	AnnotatorNotes T209 "LabourLaw"
+T210	Term-diccionario 680 687	persona
+#263	AnnotatorNotes T210 "LabourLaw"
+T211	Term-diccionario 1238 1245	persona
+#264	AnnotatorNotes T211 "LabourLaw"
+T212	Term-diccionario 1364 1371	persona
+#265	AnnotatorNotes T212 "LabourLaw"
+#266	AnnotatorNotes T48 "LabourLaw"
+T213	Term-diccionario 30 41	contratista
+#267	AnnotatorNotes T213 "LabourLaw"
+#268	AnnotatorNotes T47 "LabourLaw"
+T214	Term-diccionario 426 437	contratista
+#269	AnnotatorNotes T214 "LabourLaw"
+#270	AnnotatorNotes T45 "LabourLaw"
+T215	Term-diccionario 642 653	contratista
+#271	AnnotatorNotes T215 "LabourLaw"
+#272	AnnotatorNotes T44 "LabourLaw"
+T216	Term-diccionario 968 979	contratista
+#273	AnnotatorNotes T216 "LabourLaw"
+#274	AnnotatorNotes T46 "LabourLaw"
+T217	Term-diccionario 1292 1303	contratista
+#275	AnnotatorNotes T217 "LabourLaw"
+T218	Term-diccionario 1588 1599	contratista
+#276	AnnotatorNotes T218 "LabourLaw"
+T219	Term-diccionario 1606 1617	contratista
+#277	AnnotatorNotes T219 "LabourLaw"
+#278	AnnotatorNotes T25 "LabourLaw"
+#279	AnnotatorNotes T87 "IATE"
+#280	AnnotatorNotes T30 "IATE"
+#281	AnnotatorNotes T36 "IATE"
+#282	AnnotatorNotes T39 "IATE"
+#283	AnnotatorNotes T24 "IATE"
+#284	AnnotatorNotes T10 "IATE"
+#285	AnnotatorNotes T11 "IATE"
+#286	AnnotatorNotes T12 "IATE"
+#287	AnnotatorNotes T13 "IATE"
+#288	AnnotatorNotes T14 "IATE"
+#289	AnnotatorNotes T15 "IATE"
+#290	AnnotatorNotes T16 "IATE"
+#291	AnnotatorNotes T17 "IATE"
+#292	AnnotatorNotes T18 "IATE"
+T220	Term-diccionario 553 558	razón
+#293	AnnotatorNotes T220 "IATE"
+#294	AnnotatorNotes T48 "IATE"
+#295	AnnotatorNotes T47 "IATE"
+#296	AnnotatorNotes T45 "IATE"
+#297	AnnotatorNotes T44 "IATE"
+#298	AnnotatorNotes T46 "IATE"
+#299	AnnotatorNotes T49 "IATE"
+#300	AnnotatorNotes T78 "IATE"
+#301	AnnotatorNotes T31 "IATE"
+#302	AnnotatorNotes T32 "IATE"
+#303	AnnotatorNotes T85 "IATE"
+#304	AnnotatorNotes T7 "IATE"
+#305	AnnotatorNotes T26 "IATE"
+#306	AnnotatorNotes T27 "IATE"
+#307	AnnotatorNotes T33 "IATE"
+#308	AnnotatorNotes T21 "IATE"
+#309	AnnotatorNotes T19 "IATE"
+#310	AnnotatorNotes T20 "IATE"
+#311	AnnotatorNotes T4 "IATE"
+#312	AnnotatorNotes T34 "IATE"
+#313	AnnotatorNotes T35 "IATE"

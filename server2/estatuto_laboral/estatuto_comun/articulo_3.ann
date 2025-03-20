@@ -1,252 +1,334 @@
-T1	Term-DPEJ 335 339	caso
-T2	Term-DPEJ 1024 1028	caso
-T3	Term-DPEJ 282 289	trabajo
-T4	Term-DPEJ 818 825	trabajo
-T5	Term-DPEJ 196 205	convenios
-T6	Term-DPEJ 460 469	convenios
-T7	Term-DPEJ 1659 1667	convenio
-T8	Term-DPEJ 1472 1483	adquisición
-T9	Term-DPEJ 270 278	contrato
-T10	Term-DPEJ 196 216	convenios colectivos
-T11	Term-DPEJ 460 480	convenios colectivos
-T12	Term-DPEJ 1659 1677	convenio colectivo
-T13	Term-DPEJ 863 868	leyes
-T14	Term-DPEJ 1201 1210	conceptos
-T15	Term-DPEJ 1155 1163	conjunto
-T16	Term-DPEJ 1703 1710	deberes
-T17	Term-DPEJ 26 34	relación
-T18	Term-DPEJ 94 102	relación
-T19	Term-DPEJ 1089 1099	aplicación
-T20	Term-DPEJ 0 8	Artículo
-T21	Term-DPEJ 751 757	normas
-T22	Term-DPEJ 946 952	normas
-T23	Term-Termcat 196 205	convenios
-T24	Term-Termcat 460 469	convenios
-T25	Term-Termcat 1659 1667	convenio
-T26	Term-Termcat 1241 1251	costumbres
-T27	Term-Termcat 517 527	costumbres
-T28	Term-Termcat 177 183	Estado
-T29	Term-Termcat 637 669	principio de jerarquía normativa
-T30	Term-Termcat 1679 1686	Sección
-T31	Term-Termcat 1472 1483	adquisición
-T32	Term-Termcat 270 278	contrato
-T33	Term-Termcat 1703 1710	deberes
-T34	Term-Termcat 863 868	leyes
-T35	Term-Termcat 1380 1388	remisión
-T36	Term-Termcat 510 514	usos
-T37	Term-Termcat 1234 1238	usos
-T38	Term-Termcat 0 8	Artículo
-T39	Term-Termcat 751 757	normas
-T40	Term-Termcat 946 952	normas
-T41	Term-Termcat 891 901	conflictos
-T42	Term-Termcat 244 250	partes
-T43	Term-Termcat 803 825	condiciones de trabajo
-T44	Term-Termcat 270 289	contrato de trabajo
-T45	Term-Termcat 196 216	convenios colectivos
-T46	Term-Termcat 460 480	convenios colectivos
-T47	Term-Termcat 1659 1677	convenio colectivo
-T48	Term-Termcat 1492 1500	derechos
-T49	Term-Termcat 1615 1623	derechos
-T50	Term-Termcat 51 59	derechos
-T51	Term-Termcat 1044 1051	derecho
-T52	Term-Termcat 1553 1560	derecho
-T53	Term-Termcat 1692 1700	Derechos
-T54	Term-Termcat 1089 1099	aplicación
-T55	Term-Termcat 1170 1177	cómputo
-T56	Term-Termcat 1703 1728	deberes laborales básicos
-T57	Term-Termcat 650 669	jerarquía normativa
-T58	Term-Termcat 450 457	legales
-T59	Term-Termcat 1298 1305	legales
-T60	Term-Termcat 148 155	legales
-T61	Term-Termcat 1542 1549	legales
-T62	Term-Termcat 574 581	legales
-T63	Term-Termcat 363 372	perjuicio
-T64	Term-Termcat 637 646	principio
-T65	Term-Termcat 761 766	rango
-T66	Term-Termcat 94 110	relación laboral
-T67	Term-Termcat 26 42	relación laboral
-T68	Term-Termcat 767 775	superior
-T69	Term-Termcat 510 527	usos y costumbres
-T70	Term-Termcat 1234 1251	usos y costumbres
-T71	Term-Termcat 228 236	voluntad
-T72	Term-Termcat 1587 1595	disponer
-T73	Term-Termcat 1428 1436	disponer
-T74	Term-Termcat 792 802	establecer
-T75	Term-Termcat 1368 1377	recepción
-T76	Term-DV 380 384	baja
-T77	Term-DV 1131 1135	baja
-T78	Term-DV 1408 1412	baja
-T79	Term-DV 1721 1727	básico
-T80	Term-DV 999 1003	debe
-T81	Term-DV 1703 1707	debe
-T82	Term-DV 1273 1280	defecto
-T83	Term-DV 51 58	derecho
-T84	Term-DV 1044 1051	derecho
-T85	Term-DV 1492 1499	derecho
-T86	Term-DV 1553 1560	derecho
-T87	Term-DV 1615 1622	derecho
-T88	Term-DV 256 258	fe
-T89	Term-DV 541 543	fe
-T90	Term-DV 1275 1277	fe
-T91	Term-DV 650 659	jerarquía
-T92	Term-DV 366 372	juicio
-T93	Term-DV 35 42	laboral
-T94	Term-DV 103 110	laboral
-T95	Term-DV 953 960	laboral
-T96	Term-DV 1711 1718	laboral
-T97	Term-DV 208 215	lectivo
-T98	Term-DV 472 479	lectivo
-T99	Term-DV 1670 1677	lectivo
-T100	Term-DV 148 153	legal
-T101	Term-DV 450 455	legal
-T102	Term-DV 574 579	legal
-T103	Term-DV 1298 1303	legal
-T104	Term-DV 1542 1547	legal
-T105	Term-DV 863 866	ley
-T106	Term-DV 660 665	norma
-T107	Term-DV 751 756	norma
-T108	Term-DV 946 951	norma
-T109	Term-DV 301 307	objeto
-T110	Term-DV 1120 1124	para
-T111	Term-DV 244 249	parte
-T112	Term-DV 363 372	perjuicio
-T113	Term-DV 603 608	plica
-T114	Term-DV 1090 1095	plica
-T115	Term-DV 1261 1266	plica
-T116	Term-DV 137 147	posiciones
-T117	Term-DV 439 449	posiciones
-T118	Term-DV 563 573	posiciones
-T119	Term-DV 678 688	posiciones
-T120	Term-DV 1287 1297	posiciones
-T121	Term-DV 1531 1541	posiciones
-T122	Term-DV 722 730	precepto
-T123	Term-DV 923 931	precepto
-T124	Term-DV 637 646	principio
-T125	Term-DV 538 549	profesional
-T126	Term-DV 761 766	rango
-T127	Term-DV 274 278	rato
-T128	Term-DV 158 169	reglamentar
-T129	Term-DV 584 595	reglamentar
-T130	Term-DV 689 700	reglamentar
-T131	Term-DV 377 387	trabajador
-T132	Term-DV 1128 1138	trabajador
-T133	Term-DV 1405 1415	trabajador
-T134	Term-DV 228 236	voluntad
-T135	Term-DV 488 489	x
-T136	Term-DV 1390 1391	x
-T137	Term-AttentionRank 26 42	relación laboral
-T138	Term-AttentionRank 94 110	relación laboral
-T139	Term-AttentionRank 675 703	disposiciones reglamentarias
-T140	Term-AttentionRank 244 250	partes
-T141	Term-AttentionRank 761 766	rango
-T142	Term-AttentionRank 751 757	normas
-T143	Term-AttentionRank 946 952	normas
-T144	Term-AttentionRank 1472 1483	adquisición
-T145	Term-AttentionRank 26 34	relación
-T146	Term-AttentionRank 94 102	relación
-T147	Term-AttentionRank 510 514	usos
-T148	Term-AttentionRank 1234 1238	usos
-T149	Term-AttentionRank 1089 1099	aplicación
-T150	Term-AttentionRank 0 8	Artículo
-T151	Term-AttentionRank 1679 1686	Sección
-T152	Term-AttentionRank 196 205	convenios
-T153	Term-AttentionRank 460 469	convenios
-T154	Term-AttentionRank 1659 1667	convenio
-T155	Term-AttentionRank 1044 1061	derecho necesario
-T156	Term-AttentionRank 1553 1570	derecho necesario
-T157	Term-AttentionRank 196 216	convenios colectivos
-T158	Term-AttentionRank 460 480	convenios colectivos
-T159	Term-AttentionRank 196 216	convenios colectivos
-T160	Term-AttentionRank 460 480	convenios colectivos
-T161	Term-AttentionRank 377 416	trabajador condiciones menos favorables
-T162	Term-AttentionRank 377 387	trabajador
-T163	Term-AttentionRank 1128 1138	trabajador
-T164	Term-AttentionRank 1405 1417	trabajadores
-T165	Term-AttentionRank 134 155	disposiciones legales
-T166	Term-AttentionRank 436 457	disposiciones legales
-T167	Term-AttentionRank 560 581	disposiciones legales
-T168	Term-AttentionRank 1284 1305	disposiciones legales
-T169	Term-AttentionRank 1528 1549	disposiciones legales
-T170	Term-AttentionRank 1155 1163	conjunto
-T171	Term-AttentionRank 863 868	leyes
-T172	Term-AttentionRank 1170 1183	cómputo anual
-T173	Term-AttentionRank 51 59	derechos
-T174	Term-AttentionRank 1492 1500	derechos
-T175	Term-AttentionRank 1615 1623	derechos
-T176	Term-AttentionRank 1044 1051	derecho
-T177	Term-AttentionRank 1553 1560	derecho
-T178	Term-AttentionRank 1692 1700	Derechos
-T179	Term-AttentionRank 1170 1177	cómputo
-T180	Term-AttentionRank 270 278	contrato
-T181	Term-AttentionRank 1659 1677	convenio colectivo
-T182	Term-AttentionRank 891 912	conflictos originados
-T183	Term-AttentionRank 1615 1635	derechos reconocidos
-T184	Term-AttentionRank 1703 1710	deberes
-T185	Term-AttentionRank 282 289	trabajo
-T186	Term-AttentionRank 818 825	trabajo
-T187	Term-AttentionRank 517 527	costumbres
-T188	Term-AttentionRank 1241 1251	costumbres
-T189	Term-AttentionRank 1201 1210	conceptos
-T190	Term-AttentionRank 335 339	caso
-T191	Term-AttentionRank 1024 1028	caso
-T192	Term-LabourLaw 637 669	principio de jerarquía normativa
-T193	Term-LabourLaw 270 289	contrato de trabajo
-T194	Term-LabourLaw 803 825	condiciones de trabajo
-T195	Term-LabourLaw 510 527	usos y costumbres
-T196	Term-LabourLaw 1234 1251	usos y costumbres
-T197	Term-LabourLaw 1659 1677	convenio colectivo
-T198	Term-LabourLaw 1170 1183	cómputo anual
-T199	Term-LabourLaw 26 42	relación laboral
-T200	Term-LabourLaw 94 110	relación laboral
-T201	Term-LabourLaw 1044 1061	derecho necesario
-T202	Term-LabourLaw 1553 1570	derecho necesario
-T203	Term-LabourLaw 1703 1720	deberes laborales
-T204	Term-LabourLaw 675 703	disposiciones reglamentarias
-T205	Term-LabourLaw 301 314	objeto lícito
-T206	Term-LabourLaw 282 289	trabajo
-T207	Term-LabourLaw 818 825	trabajo
-T208	Term-LabourLaw 1089 1099	aplicación
-T209	Term-LabourLaw 270 278	contrato
-T210	Term-LabourLaw 377 387	trabajador
-T211	Term-LabourLaw 1128 1138	trabajador
-T212	Term-LabourLaw 1405 1415	trabajador
-T213	Term-LabourLaw 722 730	precepto
-T214	Term-LabourLaw 923 931	precepto
-T215	Term-LabourLaw 1324 1335	contractual
-T216	Term-LabourLaw 602 609	aplicar
-T217	Term-LabourLaw 1260 1267	aplicar
-T218	Term-LabourLaw 863 866	ley
-T219	Term-LabourLaw 999 1004	deber
-T220	Term-LabourLaw 1703 1708	deber
-T221	Term-LabourLaw 1472 1483	adquisición
-T222	Term-LabourLaw 1641 1653	indisponible
-T223	Term-LabourLaw 1273 1280	defecto
-T224	Term-LabourLaw 637 646	principio
-T225	Term-LabourLaw 1211 1224	cuantificable
-T226	Term-LabourLaw 51 58	derecho
-T227	Term-LabourLaw 1044 1051	derecho
-T228	Term-LabourLaw 1492 1499	derecho
-T229	Term-LabourLaw 1553 1560	derecho
-T230	Term-LabourLaw 1615 1622	derecho
-T231	Term-LabourLaw 363 372	perjuicio
-T232	Term-LabourLaw 891 900	conflicto
-T233	Term-LabourLaw 308 314	lícito
-T234	Term-LabourLaw 1380 1388	remisión
-T235	Term-LabourLaw 206 215	colectivo
-T236	Term-LabourLaw 470 479	colectivo
-T237	Term-LabourLaw 1668 1677	colectivo
-T238	Term-LabourLaw 1472 1483	adquisición
-T239	Term-IATE 1089 1099	aplicación
-T240	Term-IATE 244 250	partes
-T241	Term-IATE 0 8	Artículo
-T242	Term-IATE 1155 1163	conjunto
-T243	Term-IATE 1472 1483	adquisición
-T244	Term-IATE 377 387	trabajador
-T245	Term-IATE 1128 1138	trabajador
-T246	Term-IATE 1405 1417	trabajadores
-T247	Term-IATE 1679 1686	Sección
-T248	Term-IATE 270 278	contrato
-T249	Term-IATE 196 205	convenios
-T250	Term-IATE 460 469	convenios
-T251	Term-IATE 1659 1667	convenio
-T252	Term-IATE 1201 1210	conceptos
+T1	Term-diccionario 335 339	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1024 1028	caso
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 282 289	trabajo
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 818 825	trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 196 205	convenios
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 460 469	convenios
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 1659 1667	convenio
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 1472 1483	adquisición
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 270 278	contrato
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 196 216	convenios colectivos
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 460 480	convenios colectivos
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 1659 1677	convenio colectivo
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 863 868	leyes
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 1201 1210	conceptos
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1155 1163	conjunto
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1703 1710	deberes
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 26 34	relación
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 94 102	relación
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 1089 1099	aplicación
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 0 8	Artículo
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 751 757	normas
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 946 952	normas
+#22	AnnotatorNotes T22 "DPEJ"
+#23	AnnotatorNotes T5 "Termcat"
+#24	AnnotatorNotes T6 "Termcat"
+#25	AnnotatorNotes T7 "Termcat"
+T23	Term-diccionario 1241 1251	costumbres
+#26	AnnotatorNotes T23 "Termcat"
+T24	Term-diccionario 517 527	costumbres
+#27	AnnotatorNotes T24 "Termcat"
+T25	Term-diccionario 177 183	Estado
+#28	AnnotatorNotes T25 "Termcat"
+T26	Term-diccionario 637 669	principio de jerarquía normativa
+#29	AnnotatorNotes T26 "Termcat"
+T27	Term-diccionario 1679 1686	Sección
+#30	AnnotatorNotes T27 "Termcat"
+#31	AnnotatorNotes T8 "Termcat"
+#32	AnnotatorNotes T9 "Termcat"
+#33	AnnotatorNotes T16 "Termcat"
+#34	AnnotatorNotes T13 "Termcat"
+T28	Term-diccionario 1380 1388	remisión
+#35	AnnotatorNotes T28 "Termcat"
+T29	Term-diccionario 510 514	usos
+#36	AnnotatorNotes T29 "Termcat"
+T30	Term-diccionario 1234 1238	usos
+#37	AnnotatorNotes T30 "Termcat"
+#38	AnnotatorNotes T20 "Termcat"
+#39	AnnotatorNotes T21 "Termcat"
+#40	AnnotatorNotes T22 "Termcat"
+T31	Term-diccionario 891 901	conflictos
+#41	AnnotatorNotes T31 "Termcat"
+T32	Term-diccionario 244 250	partes
+#42	AnnotatorNotes T32 "Termcat"
+T33	Term-diccionario 803 825	condiciones de trabajo
+#43	AnnotatorNotes T33 "Termcat"
+T34	Term-diccionario 270 289	contrato de trabajo
+#44	AnnotatorNotes T34 "Termcat"
+#45	AnnotatorNotes T10 "Termcat"
+#46	AnnotatorNotes T11 "Termcat"
+#47	AnnotatorNotes T12 "Termcat"
+T35	Term-diccionario 1492 1500	derechos
+#48	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 1615 1623	derechos
+#49	AnnotatorNotes T36 "Termcat"
+T37	Term-diccionario 51 59	derechos
+#50	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 1044 1051	derecho
+#51	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 1553 1560	derecho
+#52	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 1692 1700	Derechos
+#53	AnnotatorNotes T40 "Termcat"
+#54	AnnotatorNotes T19 "Termcat"
+T41	Term-diccionario 1170 1177	cómputo
+#55	AnnotatorNotes T41 "Termcat"
+T42	Term-diccionario 1703 1728	deberes laborales básicos
+#56	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 650 669	jerarquía normativa
+#57	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 450 457	legales
+#58	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 1298 1305	legales
+#59	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 148 155	legales
+#60	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 1542 1549	legales
+#61	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 574 581	legales
+#62	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 363 372	perjuicio
+#63	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 637 646	principio
+#64	AnnotatorNotes T50 "Termcat"
+T51	Term-diccionario 761 766	rango
+#65	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 94 110	relación laboral
+#66	AnnotatorNotes T52 "Termcat"
+T53	Term-diccionario 26 42	relación laboral
+#67	AnnotatorNotes T53 "Termcat"
+T54	Term-diccionario 767 775	superior
+#68	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 510 527	usos y costumbres
+#69	AnnotatorNotes T55 "Termcat"
+T56	Term-diccionario 1234 1251	usos y costumbres
+#70	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 228 236	voluntad
+#71	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 1587 1595	disponer
+#72	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 1428 1436	disponer
+#73	AnnotatorNotes T59 "Termcat"
+T60	Term-diccionario 792 802	establecer
+#74	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 1368 1377	recepción
+#75	AnnotatorNotes T61 "Termcat"
+T62	Term-automatico 26 42	relación laboral
+#76	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 94 110	relación laboral
+#77	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 675 703	disposiciones reglamentarias
+#78	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 244 250	partes
+#79	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 761 766	rango
+#80	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 751 757	normas
+#81	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 946 952	normas
+#82	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 1472 1483	adquisición
+#83	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 26 34	relación
+#84	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 94 102	relación
+#85	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 510 514	usos
+#86	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 1234 1238	usos
+#87	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 1089 1099	aplicación
+#88	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 0 8	Artículo
+#89	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 1679 1686	Sección
+#90	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 196 205	convenios
+#91	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 460 469	convenios
+#92	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 1659 1667	convenio
+#93	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 1044 1061	derecho necesario
+#94	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 1553 1570	derecho necesario
+#95	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 196 216	convenios colectivos
+#96	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 460 480	convenios colectivos
+#97	AnnotatorNotes T83 "AttentionRank"
+#98	AnnotatorNotes T82 "AttentionRank"
+#99	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 377 416	trabajador condiciones menos favorables
+#100	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 377 387	trabajador
+#101	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 1128 1138	trabajador
+#102	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 1405 1417	trabajadores
+#103	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 134 155	disposiciones legales
+#104	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 436 457	disposiciones legales
+#105	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 560 581	disposiciones legales
+#106	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1284 1305	disposiciones legales
+#107	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 1528 1549	disposiciones legales
+#108	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1155 1163	conjunto
+#109	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 863 868	leyes
+#110	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1170 1183	cómputo anual
+#111	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 51 59	derechos
+#112	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 1492 1500	derechos
+#113	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 1615 1623	derechos
+#114	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1044 1051	derecho
+#115	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1553 1560	derecho
+#116	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 1692 1700	Derechos
+#117	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 1170 1177	cómputo
+#118	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 270 278	contrato
+#119	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1659 1677	convenio colectivo
+#120	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 891 912	conflictos originados
+#121	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 1615 1635	derechos reconocidos
+#122	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 1703 1710	deberes
+#123	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 282 289	trabajo
+#124	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 818 825	trabajo
+#125	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 517 527	costumbres
+#126	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 1241 1251	costumbres
+#127	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 1201 1210	conceptos
+#128	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 335 339	caso
+#129	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 1024 1028	caso
+#130	AnnotatorNotes T114 "AttentionRank"
+#131	AnnotatorNotes T26 "LabourLaw"
+#132	AnnotatorNotes T34 "LabourLaw"
+#133	AnnotatorNotes T33 "LabourLaw"
+#134	AnnotatorNotes T55 "LabourLaw"
+#135	AnnotatorNotes T56 "LabourLaw"
+#136	AnnotatorNotes T12 "LabourLaw"
+T115	Term-diccionario 1170 1183	cómputo anual
+#137	AnnotatorNotes T115 "LabourLaw"
+#138	AnnotatorNotes T53 "LabourLaw"
+#139	AnnotatorNotes T52 "LabourLaw"
+T116	Term-diccionario 1044 1061	derecho necesario
+#140	AnnotatorNotes T116 "LabourLaw"
+T117	Term-diccionario 1553 1570	derecho necesario
+#141	AnnotatorNotes T117 "LabourLaw"
+T118	Term-diccionario 1703 1720	deberes laborales
+#142	AnnotatorNotes T118 "LabourLaw"
+T119	Term-diccionario 675 703	disposiciones reglamentarias
+#143	AnnotatorNotes T119 "LabourLaw"
+T120	Term-diccionario 301 314	objeto lícito
+#144	AnnotatorNotes T120 "LabourLaw"
+#145	AnnotatorNotes T3 "LabourLaw"
+#146	AnnotatorNotes T4 "LabourLaw"
+#147	AnnotatorNotes T19 "LabourLaw"
+#148	AnnotatorNotes T9 "LabourLaw"
+T121	Term-diccionario 377 387	trabajador
+#149	AnnotatorNotes T121 "LabourLaw"
+T122	Term-diccionario 1128 1138	trabajador
+#150	AnnotatorNotes T122 "LabourLaw"
+T123	Term-diccionario 1405 1415	trabajador
+#151	AnnotatorNotes T123 "LabourLaw"
+T124	Term-diccionario 722 730	precepto
+#152	AnnotatorNotes T124 "LabourLaw"
+T125	Term-diccionario 923 931	precepto
+#153	AnnotatorNotes T125 "LabourLaw"
+T126	Term-diccionario 1324 1335	contractual
+#154	AnnotatorNotes T126 "LabourLaw"
+T127	Term-diccionario 602 609	aplicar
+#155	AnnotatorNotes T127 "LabourLaw"
+T128	Term-diccionario 1260 1267	aplicar
+#156	AnnotatorNotes T128 "LabourLaw"
+T129	Term-diccionario 863 866	ley
+#157	AnnotatorNotes T129 "LabourLaw"
+T130	Term-diccionario 999 1004	deber
+#158	AnnotatorNotes T130 "LabourLaw"
+T131	Term-diccionario 1703 1708	deber
+#159	AnnotatorNotes T131 "LabourLaw"
+#160	AnnotatorNotes T8 "LabourLaw"
+T132	Term-diccionario 1641 1653	indisponible
+#161	AnnotatorNotes T132 "LabourLaw"
+T133	Term-diccionario 1273 1280	defecto
+#162	AnnotatorNotes T133 "LabourLaw"
+#163	AnnotatorNotes T50 "LabourLaw"
+T134	Term-diccionario 1211 1224	cuantificable
+#164	AnnotatorNotes T134 "LabourLaw"
+T135	Term-diccionario 51 58	derecho
+#165	AnnotatorNotes T135 "LabourLaw"
+#166	AnnotatorNotes T38 "LabourLaw"
+T136	Term-diccionario 1492 1499	derecho
+#167	AnnotatorNotes T136 "LabourLaw"
+#168	AnnotatorNotes T39 "LabourLaw"
+T137	Term-diccionario 1615 1622	derecho
+#169	AnnotatorNotes T137 "LabourLaw"
+#170	AnnotatorNotes T49 "LabourLaw"
+T138	Term-diccionario 891 900	conflicto
+#171	AnnotatorNotes T138 "LabourLaw"
+T139	Term-diccionario 308 314	lícito
+#172	AnnotatorNotes T139 "LabourLaw"
+#173	AnnotatorNotes T28 "LabourLaw"
+T140	Term-diccionario 206 215	colectivo
+#174	AnnotatorNotes T140 "LabourLaw"
+T141	Term-diccionario 470 479	colectivo
+#175	AnnotatorNotes T141 "LabourLaw"
+T142	Term-diccionario 1668 1677	colectivo
+#176	AnnotatorNotes T142 "LabourLaw"
+#177	AnnotatorNotes T8 "LabourLaw"
+#178	AnnotatorNotes T19 "IATE"
+#179	AnnotatorNotes T32 "IATE"
+#180	AnnotatorNotes T20 "IATE"
+#181	AnnotatorNotes T15 "IATE"
+#182	AnnotatorNotes T8 "IATE"
+#183	AnnotatorNotes T121 "IATE"
+#184	AnnotatorNotes T122 "IATE"
+T143	Term-diccionario 1405 1417	trabajadores
+#185	AnnotatorNotes T143 "IATE"
+#186	AnnotatorNotes T27 "IATE"
+#187	AnnotatorNotes T9 "IATE"
+#188	AnnotatorNotes T5 "IATE"
+#189	AnnotatorNotes T6 "IATE"
+#190	AnnotatorNotes T7 "IATE"
+#191	AnnotatorNotes T14 "IATE"

@@ -1,278 +1,376 @@
-T1	Term-DPEJ 1259 1263	caso
-T2	Term-DPEJ 650 659	capacidad
-T3	Term-DPEJ 1326 1333	acuerdo
-T4	Term-DPEJ 1567 1574	acuerdo
-T5	Term-DPEJ 68 90	procedimiento arbitral
-T6	Term-DPEJ 1288 1310	procedimiento arbitral
-T7	Term-DPEJ 474 481	proceso
-T8	Term-DPEJ 589 596	proceso
-T9	Term-DPEJ 755 762	proceso
-T10	Term-DPEJ 1793 1799	ámbito
-T11	Term-DPEJ 474 491	proceso electoral
-T12	Term-DPEJ 589 606	proceso electoral
-T13	Term-DPEJ 755 772	proceso electoral
-T14	Term-DPEJ 1624 1629	nivel
-T15	Term-DPEJ 302 309	empresa
-T16	Term-DPEJ 1779 1786	empresa
-T17	Term-DPEJ 1827 1834	empresa
-T18	Term-DPEJ 575 584	garantías
-T19	Term-DPEJ 860 870	elecciones
-T20	Term-DPEJ 1643 1664	comunidades autónomas
-T21	Term-DPEJ 941 955	mesa electoral
-T22	Term-DPEJ 407 411	mesa
-T23	Term-DPEJ 941 945	mesa
-T24	Term-DPEJ 1066 1070	mesa
-T25	Term-DPEJ 730 734	acta
-T26	Term-DPEJ 852 856	acta
-T27	Term-DPEJ 1237 1245	apartado
-T28	Term-DPEJ 1165 1173	árbitros
-T29	Term-DPEJ 1389 1397	árbitros
-T30	Term-DPEJ 1358 1365	árbitro
-T31	Term-DPEJ 1379 1386	árbitro
-T32	Term-DPEJ 368 376	elección
-T33	Term-DPEJ 1643 1654	comunidades
-T34	Term-DPEJ 108 116	artículo
-T35	Term-DPEJ 1141 1149	artículo
-T36	Term-DPEJ 624 633	resultado
-T37	Term-DPEJ 68 81	procedimiento
-T38	Term-DPEJ 1201 1214	procedimiento
-T39	Term-DPEJ 1288 1301	procedimiento
-T40	Term-DPEJ 811 817	número
-T41	Term-DPEJ 876 882	número
-T42	Term-Termcat 730 734	acta
-T43	Term-Termcat 852 856	acta
-T44	Term-Termcat 1643 1664	comunidades autónomas
-T45	Term-Termcat 1087 1096	día hábil
-T46	Term-Termcat 272 288	interés legítimo
-T47	Term-Termcat 1624 1629	nivel
-T48	Term-Termcat 929 934	actos
-T49	Term-Termcat 1032 1036	acto
-T50	Term-Termcat 1643 1654	comunidades
-T51	Term-Termcat 575 584	garantías
-T52	Term-Termcat 155 166	inscripción
-T53	Term-Termcat 272 279	interés
-T54	Term-Termcat 340 347	interés
-T55	Term-Termcat 982 993	reclamación
-T56	Term-Termcat 886 900	representantes
-T57	Term-Termcat 108 116	artículo
-T58	Term-Termcat 1141 1149	artículo
-T59	Term-Termcat 1005 1018	día laborable
-T60	Term-Termcat 1275 1281	partes
-T61	Term-Termcat 650 659	capacidad
-T62	Term-Termcat 1590 1600	sindicatos
-T63	Term-Termcat 1779 1786	empresa
-T64	Term-Termcat 1827 1834	empresa
-T65	Term-Termcat 302 309	empresa
-T66	Term-Termcat 781 786	falta
-T67	Term-Termcat 641 646	falta
-T68	Term-Termcat 941 955	mesa electoral
-T69	Term-Termcat 740 750	desarrollo
-T70	Term-Termcat 1501 1508	Derecho
-T71	Term-Termcat 227 239	jurisdicción
-T72	Term-Termcat 1448 1459	neutralidad
-T73	Term-Termcat 755 762	proceso
-T74	Term-Termcat 589 596	proceso
-T75	Term-Termcat 474 481	proceso
-T76	Term-Termcat 1326 1333	acuerdo
-T77	Term-Termcat 1567 1574	acuerdo
-T78	Term-Termcat 437 446	actuación
-T79	Term-Termcat 1189 1197	conforme
-T80	Term-Termcat 56 64	conforme
-T81	Term-Termcat 368 376	elección
-T82	Term-Termcat 860 870	elecciones
-T83	Term-Termcat 122 131	excepción
-T84	Term-Termcat 966 971	haber
-T85	Term-Termcat 914 925	impugnación
-T86	Term-Termcat 227 246	jurisdicción social
-T87	Term-Termcat 662 673	legitimidad
-T88	Term-Termcat 24 31	materia
-T89	Term-Termcat 1066 1070	mesa
-T90	Term-Termcat 407 411	mesa
-T91	Term-Termcat 1434 1444	principios
-T92	Term-Termcat 1201 1214	procedimiento
-T93	Term-Termcat 68 81	procedimiento
-T94	Term-Termcat 1288 1301	procedimiento
-T95	Term-Termcat 356 364	impugnar
-T96	Term-Termcat 624 633	resultado
-T97	Term-DV 1087 1096	día hábil
-T98	Term-DV 1005 1018	día laborable
-T99	Term-DV 824 828	baja
-T100	Term-DV 650 654	capa
-T101	Term-DV 650 659	capacidad
-T102	Term-DV 1643 1652	comunidad
-T103	Term-DV 1039 1043	debe
-T104	Term-DV 1005 1008	día
-T105	Term-DV 1087 1090	día
-T106	Term-DV 334 339	dicho
-T107	Term-DV 368 376	elección
-T108	Term-DV 860 870	elecciones
-T109	Term-DV 302 309	empresa
-T110	Term-DV 1779 1786	empresa
-T111	Term-DV 1827 1834	empresa
-T112	Term-DV 641 646	falta
-T113	Term-DV 781 786	falta
-T114	Term-DV 562 564	fe
-T115	Term-DV 973 975	fe
-T116	Term-DV 1465 1467	fe
-T117	Term-DV 575 583	garantía
-T118	Term-DV 966 971	haber
-T119	Term-DV 1091 1096	hábil
-T120	Term-DV 227 239	jurisdicción
-T121	Term-DV 33 39	lector
-T122	Term-DV 483 489	lector
-T123	Term-DV 598 604	lector
-T124	Term-DV 764 770	lector
-T125	Term-DV 947 953	lector
-T126	Term-DV 1735 1741	legado
-T127	Term-DV 662 673	legitimidad
-T128	Term-DV 280 288	legítimo
-T129	Term-DV 1485 1493	licencia
-T130	Term-DV 919 925	nación
-T131	Term-DV 1345 1351	nación
-T132	Term-DV 1448 1459	neutralidad
-T133	Term-DV 504 508	para
-T134	Term-DV 1275 1280	parte
-T135	Term-DV 195 201	plante
-T136	Term-DV 1434 1443	principio
-T137	Term-DV 68 81	procedimiento
-T138	Term-DV 1201 1214	procedimiento
-T139	Term-DV 1288 1301	procedimiento
-T140	Term-DV 474 481	proceso
-T141	Term-DV 589 596	proceso
-T142	Term-DV 755 762	proceso
-T143	Term-DV 1462 1473	profesional
-T144	Term-DV 1462 1477	profesionalidad
-T145	Term-DV 982 993	reclamación
-T146	Term-DV 1590 1599	sindicato
-T147	Term-DV 821 831	trabajador
-T148	Term-DV 1553 1557	vale
-T149	Term-DV 1110 1113	vis
-T150	Term-DV 123 124	x
-T151	Term-DV 521 522	x
-T152	Term-AttentionRank 740 750	desarrollo
-T153	Term-AttentionRank 886 900	representantes
-T154	Term-AttentionRank 941 955	mesa electoral
-T155	Term-AttentionRank 464 491	largo del proceso electoral
-T156	Term-AttentionRank 1275 1281	partes
-T157	Term-AttentionRank 227 246	jurisdicción social
-T158	Term-AttentionRank 1326 1333	acuerdo
-T159	Term-AttentionRank 1567 1574	acuerdo
-T160	Term-AttentionRank 624 633	resultado
-T161	Term-AttentionRank 1005 1008	día
-T162	Term-AttentionRank 1087 1090	día
-T163	Term-AttentionRank 1643 1654	comunidades
-T164	Term-AttentionRank 1590 1620	sindicatos más representativos
-T165	Term-AttentionRank 1077 1096	posterior día hábil
-T166	Term-AttentionRank 407 411	mesa
-T167	Term-AttentionRank 941 945	mesa
-T168	Term-AttentionRank 1066 1070	mesa
-T169	Term-AttentionRank 708 720	discordancia
-T170	Term-AttentionRank 1793 1810	ámbito provincial
-T171	Term-AttentionRank 413 416	así
-T172	Term-AttentionRank 1530 1533	así
-T173	Term-AttentionRank 650 659	capacidad
-T174	Term-AttentionRank 929 934	actos
-T175	Term-AttentionRank 1032 1036	acto
-T176	Term-AttentionRank 56 81	conforme al procedimiento
-T177	Term-AttentionRank 1189 1214	conforme al procedimiento
-T178	Term-AttentionRank 108 116	artículo
-T179	Term-AttentionRank 1141 1149	artículo
-T180	Term-AttentionRank 1590 1600	sindicatos
-T181	Term-AttentionRank 641 646	falta
-T182	Term-AttentionRank 781 786	falta
-T183	Term-AttentionRank 68 81	procedimiento
-T184	Term-AttentionRank 1201 1214	procedimiento
-T185	Term-AttentionRank 1288 1301	procedimiento
-T186	Term-AttentionRank 1793 1799	ámbito
-T187	Term-AttentionRank 1752 1760	miembros
-T188	Term-AttentionRank 575 584	garantías
-T189	Term-AttentionRank 1733 1742	delegados
-T190	Term-AttentionRank 1624 1629	nivel
-T191	Term-AttentionRank 821 833	trabajadores
-T192	Term-AttentionRank 474 491	proceso electoral
-T193	Term-AttentionRank 589 606	proceso electoral
-T194	Term-AttentionRank 755 772	proceso electoral
-T195	Term-AttentionRank 302 309	empresa
-T196	Term-AttentionRank 1779 1786	empresa
-T197	Term-AttentionRank 1827 1834	empresa
-T198	Term-AttentionRank 1624 1637	nivel estatal
-T199	Term-AttentionRank 681 691	candidatos
-T200	Term-AttentionRank 24 31	materia
-T201	Term-AttentionRank 474 481	proceso
-T202	Term-AttentionRank 589 596	proceso
-T203	Term-AttentionRank 755 762	proceso
-T204	Term-AttentionRank 1567 1582	acuerdo unánime
-T205	Term-AttentionRank 730 734	acta
-T206	Term-AttentionRank 852 856	acta
-T207	Term-AttentionRank 1501 1508	Derecho
-T208	Term-AttentionRank 811 817	número
-T209	Term-AttentionRank 876 882	número
-T210	Term-AttentionRank 68 90	procedimiento arbitral
-T211	Term-AttentionRank 1288 1310	procedimiento arbitral
-T212	Term-AttentionRank 368 376	elección
-T213	Term-AttentionRank 1643 1664	comunidades autónomas
-T214	Term-AttentionRank 1005 1018	día laborable
-T215	Term-AttentionRank 1165 1173	árbitros
-T216	Term-AttentionRank 1389 1397	árbitros
-T217	Term-AttentionRank 1358 1365	árbitro
-T218	Term-AttentionRank 1379 1386	árbitro
-T219	Term-AttentionRank 1259 1263	caso
-T220	Term-AttentionRank 1237 1245	apartado
-T221	Term-LabourLaw 227 246	jurisdicción social
-T222	Term-LabourLaw 941 955	mesa electoral
-T223	Term-LabourLaw 227 239	jurisdicción
-T224	Term-LabourLaw 886 899	representante
-T225	Term-LabourLaw 821 831	trabajador
-T226	Term-LabourLaw 1793 1799	ámbito
-T227	Term-LabourLaw 368 376	elección
-T228	Term-LabourLaw 1485 1493	licencia
-T229	Term-LabourLaw 1590 1599	sindicato
-T230	Term-LabourLaw 1039 1044	deber
-T231	Term-LabourLaw 1733 1741	delegado
-T232	Term-LabourLaw 1434 1443	principio
-T233	Term-LabourLaw 302 309	empresa
-T234	Term-LabourLaw 1779 1786	empresa
-T235	Term-LabourLaw 1827 1834	empresa
-T236	Term-LabourLaw 68 81	procedimiento
-T237	Term-LabourLaw 1201 1214	procedimiento
-T238	Term-LabourLaw 1288 1301	procedimiento
-T239	Term-LabourLaw 1768 1774	comité
-T240	Term-LabourLaw 1643 1652	comunidad
-T241	Term-LabourLaw 982 993	reclamación
-T242	Term-LabourLaw 686 691	datos
-T243	Term-IATE 1275 1281	partes
-T244	Term-IATE 108 116	artículo
-T245	Term-IATE 1141 1149	artículo
-T246	Term-IATE 1326 1333	acuerdo
-T247	Term-IATE 1567 1574	acuerdo
-T248	Term-IATE 1624 1629	nivel
-T249	Term-IATE 302 309	empresa
-T250	Term-IATE 1779 1786	empresa
-T251	Term-IATE 1827 1834	empresa
-T252	Term-IATE 1165 1173	árbitros
-T253	Term-IATE 1389 1397	árbitros
-T254	Term-IATE 1358 1365	árbitro
-T255	Term-IATE 1379 1386	árbitro
-T256	Term-IATE 641 646	falta
-T257	Term-IATE 781 786	falta
-T258	Term-IATE 1643 1654	comunidades
-T259	Term-IATE 1733 1742	delegados
-T260	Term-IATE 575 584	garantías
-T261	Term-IATE 68 81	procedimiento
-T262	Term-IATE 1201 1214	procedimiento
-T263	Term-IATE 1288 1301	procedimiento
-T264	Term-IATE 1237 1245	apartado
-T265	Term-IATE 821 833	trabajadores
-T266	Term-IATE 474 481	proceso
-T267	Term-IATE 589 596	proceso
-T268	Term-IATE 755 762	proceso
-T269	Term-IATE 24 31	materia
-T270	Term-IATE 650 659	capacidad
-T271	Term-IATE 1752 1760	miembros
-T272	Term-IATE 730 734	acta
-T273	Term-IATE 852 856	acta
-T274	Term-IATE 886 900	representantes
-T275	Term-IATE 407 411	mesa
-T276	Term-IATE 941 945	mesa
-T277	Term-IATE 1066 1070	mesa
-T278	Term-IATE 681 691	candidatos
+T1	Term-diccionario 1259 1263	caso
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 650 659	capacidad
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 1326 1333	acuerdo
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1567 1574	acuerdo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 68 90	procedimiento arbitral
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 1288 1310	procedimiento arbitral
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 474 481	proceso
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 589 596	proceso
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 755 762	proceso
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 1793 1799	ámbito
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 474 491	proceso electoral
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 589 606	proceso electoral
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 755 772	proceso electoral
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 1624 1629	nivel
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 302 309	empresa
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 1779 1786	empresa
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 1827 1834	empresa
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 575 584	garantías
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 860 870	elecciones
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 1643 1664	comunidades autónomas
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 941 955	mesa electoral
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 407 411	mesa
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 941 945	mesa
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 1066 1070	mesa
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 730 734	acta
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 852 856	acta
+#26	AnnotatorNotes T26 "DPEJ"
+T27	Term-diccionario 1237 1245	apartado
+#27	AnnotatorNotes T27 "DPEJ"
+T28	Term-diccionario 1165 1173	árbitros
+#28	AnnotatorNotes T28 "DPEJ"
+T29	Term-diccionario 1389 1397	árbitros
+#29	AnnotatorNotes T29 "DPEJ"
+T30	Term-diccionario 1358 1365	árbitro
+#30	AnnotatorNotes T30 "DPEJ"
+T31	Term-diccionario 1379 1386	árbitro
+#31	AnnotatorNotes T31 "DPEJ"
+T32	Term-diccionario 368 376	elección
+#32	AnnotatorNotes T32 "DPEJ"
+T33	Term-diccionario 1643 1654	comunidades
+#33	AnnotatorNotes T33 "DPEJ"
+T34	Term-diccionario 108 116	artículo
+#34	AnnotatorNotes T34 "DPEJ"
+T35	Term-diccionario 1141 1149	artículo
+#35	AnnotatorNotes T35 "DPEJ"
+T36	Term-diccionario 624 633	resultado
+#36	AnnotatorNotes T36 "DPEJ"
+T37	Term-diccionario 68 81	procedimiento
+#37	AnnotatorNotes T37 "DPEJ"
+T38	Term-diccionario 1201 1214	procedimiento
+#38	AnnotatorNotes T38 "DPEJ"
+T39	Term-diccionario 1288 1301	procedimiento
+#39	AnnotatorNotes T39 "DPEJ"
+T40	Term-diccionario 811 817	número
+#40	AnnotatorNotes T40 "DPEJ"
+T41	Term-diccionario 876 882	número
+#41	AnnotatorNotes T41 "DPEJ"
+#42	AnnotatorNotes T25 "Termcat"
+#43	AnnotatorNotes T26 "Termcat"
+#44	AnnotatorNotes T20 "Termcat"
+T42	Term-diccionario 1087 1096	día hábil
+#45	AnnotatorNotes T42 "Termcat"
+T43	Term-diccionario 272 288	interés legítimo
+#46	AnnotatorNotes T43 "Termcat"
+#47	AnnotatorNotes T14 "Termcat"
+T44	Term-diccionario 929 934	actos
+#48	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 1032 1036	acto
+#49	AnnotatorNotes T45 "Termcat"
+#50	AnnotatorNotes T33 "Termcat"
+#51	AnnotatorNotes T18 "Termcat"
+T46	Term-diccionario 155 166	inscripción
+#52	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 272 279	interés
+#53	AnnotatorNotes T47 "Termcat"
+T48	Term-diccionario 340 347	interés
+#54	AnnotatorNotes T48 "Termcat"
+T49	Term-diccionario 982 993	reclamación
+#55	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 886 900	representantes
+#56	AnnotatorNotes T50 "Termcat"
+#57	AnnotatorNotes T34 "Termcat"
+#58	AnnotatorNotes T35 "Termcat"
+T51	Term-diccionario 1005 1018	día laborable
+#59	AnnotatorNotes T51 "Termcat"
+T52	Term-diccionario 1275 1281	partes
+#60	AnnotatorNotes T52 "Termcat"
+#61	AnnotatorNotes T2 "Termcat"
+T53	Term-diccionario 1590 1600	sindicatos
+#62	AnnotatorNotes T53 "Termcat"
+#63	AnnotatorNotes T16 "Termcat"
+#64	AnnotatorNotes T17 "Termcat"
+#65	AnnotatorNotes T15 "Termcat"
+T54	Term-diccionario 781 786	falta
+#66	AnnotatorNotes T54 "Termcat"
+T55	Term-diccionario 641 646	falta
+#67	AnnotatorNotes T55 "Termcat"
+#68	AnnotatorNotes T21 "Termcat"
+T56	Term-diccionario 740 750	desarrollo
+#69	AnnotatorNotes T56 "Termcat"
+T57	Term-diccionario 1501 1508	Derecho
+#70	AnnotatorNotes T57 "Termcat"
+T58	Term-diccionario 227 239	jurisdicción
+#71	AnnotatorNotes T58 "Termcat"
+T59	Term-diccionario 1448 1459	neutralidad
+#72	AnnotatorNotes T59 "Termcat"
+#73	AnnotatorNotes T9 "Termcat"
+#74	AnnotatorNotes T8 "Termcat"
+#75	AnnotatorNotes T7 "Termcat"
+#76	AnnotatorNotes T3 "Termcat"
+#77	AnnotatorNotes T4 "Termcat"
+T60	Term-diccionario 437 446	actuación
+#78	AnnotatorNotes T60 "Termcat"
+T61	Term-diccionario 1189 1197	conforme
+#79	AnnotatorNotes T61 "Termcat"
+T62	Term-diccionario 56 64	conforme
+#80	AnnotatorNotes T62 "Termcat"
+#81	AnnotatorNotes T32 "Termcat"
+#82	AnnotatorNotes T19 "Termcat"
+T63	Term-diccionario 122 131	excepción
+#83	AnnotatorNotes T63 "Termcat"
+T64	Term-diccionario 966 971	haber
+#84	AnnotatorNotes T64 "Termcat"
+T65	Term-diccionario 914 925	impugnación
+#85	AnnotatorNotes T65 "Termcat"
+T66	Term-diccionario 227 246	jurisdicción social
+#86	AnnotatorNotes T66 "Termcat"
+T67	Term-diccionario 662 673	legitimidad
+#87	AnnotatorNotes T67 "Termcat"
+T68	Term-diccionario 24 31	materia
+#88	AnnotatorNotes T68 "Termcat"
+#89	AnnotatorNotes T24 "Termcat"
+#90	AnnotatorNotes T22 "Termcat"
+T69	Term-diccionario 1434 1444	principios
+#91	AnnotatorNotes T69 "Termcat"
+#92	AnnotatorNotes T38 "Termcat"
+#93	AnnotatorNotes T37 "Termcat"
+#94	AnnotatorNotes T39 "Termcat"
+T70	Term-diccionario 356 364	impugnar
+#95	AnnotatorNotes T70 "Termcat"
+#96	AnnotatorNotes T36 "Termcat"
+T71	Term-automatico 740 750	desarrollo
+#97	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 886 900	representantes
+#98	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 941 955	mesa electoral
+#99	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 464 491	largo del proceso electoral
+#100	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 1275 1281	partes
+#101	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 227 246	jurisdicción social
+#102	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 1326 1333	acuerdo
+#103	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 1567 1574	acuerdo
+#104	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 624 633	resultado
+#105	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 1005 1008	día
+#106	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 1087 1090	día
+#107	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 1643 1654	comunidades
+#108	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 1590 1620	sindicatos más representativos
+#109	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 1077 1096	posterior día hábil
+#110	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 407 411	mesa
+#111	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 941 945	mesa
+#112	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 1066 1070	mesa
+#113	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 708 720	discordancia
+#114	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1793 1810	ámbito provincial
+#115	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 413 416	así
+#116	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 1530 1533	así
+#117	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 650 659	capacidad
+#118	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 929 934	actos
+#119	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 1032 1036	acto
+#120	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 56 81	conforme al procedimiento
+#121	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 1189 1214	conforme al procedimiento
+#122	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 108 116	artículo
+#123	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 1141 1149	artículo
+#124	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1590 1600	sindicatos
+#125	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 641 646	falta
+#126	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 781 786	falta
+#127	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 68 81	procedimiento
+#128	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 1201 1214	procedimiento
+#129	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1288 1301	procedimiento
+#130	AnnotatorNotes T104 "AttentionRank"
+T105	Term-automatico 1793 1799	ámbito
+#131	AnnotatorNotes T105 "AttentionRank"
+T106	Term-automatico 1752 1760	miembros
+#132	AnnotatorNotes T106 "AttentionRank"
+T107	Term-automatico 575 584	garantías
+#133	AnnotatorNotes T107 "AttentionRank"
+T108	Term-automatico 1733 1742	delegados
+#134	AnnotatorNotes T108 "AttentionRank"
+T109	Term-automatico 1624 1629	nivel
+#135	AnnotatorNotes T109 "AttentionRank"
+T110	Term-automatico 821 833	trabajadores
+#136	AnnotatorNotes T110 "AttentionRank"
+T111	Term-automatico 474 491	proceso electoral
+#137	AnnotatorNotes T111 "AttentionRank"
+T112	Term-automatico 589 606	proceso electoral
+#138	AnnotatorNotes T112 "AttentionRank"
+T113	Term-automatico 755 772	proceso electoral
+#139	AnnotatorNotes T113 "AttentionRank"
+T114	Term-automatico 302 309	empresa
+#140	AnnotatorNotes T114 "AttentionRank"
+T115	Term-automatico 1779 1786	empresa
+#141	AnnotatorNotes T115 "AttentionRank"
+T116	Term-automatico 1827 1834	empresa
+#142	AnnotatorNotes T116 "AttentionRank"
+T117	Term-automatico 1624 1637	nivel estatal
+#143	AnnotatorNotes T117 "AttentionRank"
+T118	Term-automatico 681 691	candidatos
+#144	AnnotatorNotes T118 "AttentionRank"
+T119	Term-automatico 24 31	materia
+#145	AnnotatorNotes T119 "AttentionRank"
+T120	Term-automatico 474 481	proceso
+#146	AnnotatorNotes T120 "AttentionRank"
+T121	Term-automatico 589 596	proceso
+#147	AnnotatorNotes T121 "AttentionRank"
+T122	Term-automatico 755 762	proceso
+#148	AnnotatorNotes T122 "AttentionRank"
+T123	Term-automatico 1567 1582	acuerdo unánime
+#149	AnnotatorNotes T123 "AttentionRank"
+T124	Term-automatico 730 734	acta
+#150	AnnotatorNotes T124 "AttentionRank"
+T125	Term-automatico 852 856	acta
+#151	AnnotatorNotes T125 "AttentionRank"
+T126	Term-automatico 1501 1508	Derecho
+#152	AnnotatorNotes T126 "AttentionRank"
+T127	Term-automatico 811 817	número
+#153	AnnotatorNotes T127 "AttentionRank"
+T128	Term-automatico 876 882	número
+#154	AnnotatorNotes T128 "AttentionRank"
+T129	Term-automatico 68 90	procedimiento arbitral
+#155	AnnotatorNotes T129 "AttentionRank"
+T130	Term-automatico 1288 1310	procedimiento arbitral
+#156	AnnotatorNotes T130 "AttentionRank"
+T131	Term-automatico 368 376	elección
+#157	AnnotatorNotes T131 "AttentionRank"
+T132	Term-automatico 1643 1664	comunidades autónomas
+#158	AnnotatorNotes T132 "AttentionRank"
+T133	Term-automatico 1005 1018	día laborable
+#159	AnnotatorNotes T133 "AttentionRank"
+T134	Term-automatico 1165 1173	árbitros
+#160	AnnotatorNotes T134 "AttentionRank"
+T135	Term-automatico 1389 1397	árbitros
+#161	AnnotatorNotes T135 "AttentionRank"
+T136	Term-automatico 1358 1365	árbitro
+#162	AnnotatorNotes T136 "AttentionRank"
+T137	Term-automatico 1379 1386	árbitro
+#163	AnnotatorNotes T137 "AttentionRank"
+T138	Term-automatico 1259 1263	caso
+#164	AnnotatorNotes T138 "AttentionRank"
+T139	Term-automatico 1237 1245	apartado
+#165	AnnotatorNotes T139 "AttentionRank"
+#166	AnnotatorNotes T66 "LabourLaw"
+#167	AnnotatorNotes T21 "LabourLaw"
+#168	AnnotatorNotes T58 "LabourLaw"
+T140	Term-diccionario 886 899	representante
+#169	AnnotatorNotes T140 "LabourLaw"
+T141	Term-diccionario 821 831	trabajador
+#170	AnnotatorNotes T141 "LabourLaw"
+#171	AnnotatorNotes T10 "LabourLaw"
+#172	AnnotatorNotes T32 "LabourLaw"
+T142	Term-diccionario 1485 1493	licencia
+#173	AnnotatorNotes T142 "LabourLaw"
+T143	Term-diccionario 1590 1599	sindicato
+#174	AnnotatorNotes T143 "LabourLaw"
+T144	Term-diccionario 1039 1044	deber
+#175	AnnotatorNotes T144 "LabourLaw"
+T145	Term-diccionario 1733 1741	delegado
+#176	AnnotatorNotes T145 "LabourLaw"
+T146	Term-diccionario 1434 1443	principio
+#177	AnnotatorNotes T146 "LabourLaw"
+#178	AnnotatorNotes T15 "LabourLaw"
+#179	AnnotatorNotes T16 "LabourLaw"
+#180	AnnotatorNotes T17 "LabourLaw"
+#181	AnnotatorNotes T37 "LabourLaw"
+#182	AnnotatorNotes T38 "LabourLaw"
+#183	AnnotatorNotes T39 "LabourLaw"
+T147	Term-diccionario 1768 1774	comité
+#184	AnnotatorNotes T147 "LabourLaw"
+T148	Term-diccionario 1643 1652	comunidad
+#185	AnnotatorNotes T148 "LabourLaw"
+#186	AnnotatorNotes T49 "LabourLaw"
+T149	Term-diccionario 686 691	datos
+#187	AnnotatorNotes T149 "LabourLaw"
+#188	AnnotatorNotes T52 "IATE"
+#189	AnnotatorNotes T34 "IATE"
+#190	AnnotatorNotes T35 "IATE"
+#191	AnnotatorNotes T3 "IATE"
+#192	AnnotatorNotes T4 "IATE"
+#193	AnnotatorNotes T14 "IATE"
+#194	AnnotatorNotes T15 "IATE"
+#195	AnnotatorNotes T16 "IATE"
+#196	AnnotatorNotes T17 "IATE"
+#197	AnnotatorNotes T28 "IATE"
+#198	AnnotatorNotes T29 "IATE"
+#199	AnnotatorNotes T30 "IATE"
+#200	AnnotatorNotes T31 "IATE"
+#201	AnnotatorNotes T55 "IATE"
+#202	AnnotatorNotes T54 "IATE"
+#203	AnnotatorNotes T33 "IATE"
+T150	Term-diccionario 1733 1742	delegados
+#204	AnnotatorNotes T150 "IATE"
+#205	AnnotatorNotes T18 "IATE"
+#206	AnnotatorNotes T37 "IATE"
+#207	AnnotatorNotes T38 "IATE"
+#208	AnnotatorNotes T39 "IATE"
+#209	AnnotatorNotes T27 "IATE"
+T151	Term-diccionario 821 833	trabajadores
+#210	AnnotatorNotes T151 "IATE"
+#211	AnnotatorNotes T7 "IATE"
+#212	AnnotatorNotes T8 "IATE"
+#213	AnnotatorNotes T9 "IATE"
+#214	AnnotatorNotes T68 "IATE"
+#215	AnnotatorNotes T2 "IATE"
+T152	Term-diccionario 1752 1760	miembros
+#216	AnnotatorNotes T152 "IATE"
+#217	AnnotatorNotes T25 "IATE"
+#218	AnnotatorNotes T26 "IATE"
+#219	AnnotatorNotes T50 "IATE"
+#220	AnnotatorNotes T22 "IATE"
+#221	AnnotatorNotes T23 "IATE"
+#222	AnnotatorNotes T24 "IATE"
+T153	Term-diccionario 681 691	candidatos
+#223	AnnotatorNotes T153 "IATE"

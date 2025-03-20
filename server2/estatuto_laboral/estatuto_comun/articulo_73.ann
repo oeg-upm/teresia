@@ -1,158 +1,226 @@
-T1	Term-DPEJ 274 281	órganos
-T2	Term-DPEJ 61 69	trabajos
-T3	Term-DPEJ 149 157	trabajos
-T4	Term-DPEJ 495 503	trabajos
-T5	Term-DPEJ 794 806	convocatoria
-T6	Term-DPEJ 211 219	contrato
-T7	Term-DPEJ 557 565	contrato
-T8	Term-DPEJ 857 865	fracción
-T9	Term-DPEJ 308 314	título
-T10	Term-DPEJ 813 821	elección
-T11	Term-DPEJ 48 57	servicios
-T12	Term-DPEJ 136 145	servicios
-T13	Term-DPEJ 482 491	servicios
-T14	Term-DPEJ 604 607	año
-T15	Term-DPEJ 703 706	año
-T16	Term-DPEJ 776 779	año
-T17	Term-DPEJ 0 8	Artículo
-T18	Term-DPEJ 411 417	número
-T19	Term-DPEJ 730 736	número
-T20	Term-Termcat 482 491	servicios
-T21	Term-Termcat 48 57	servicios
-T22	Term-Termcat 136 145	servicios
-T23	Term-Termcat 683 690	término
-T24	Term-Termcat 557 565	contrato
-T25	Term-Termcat 211 219	contrato
-T26	Term-Termcat 14 28	Representantes
-T27	Term-Termcat 421 435	representantes
-T28	Term-Termcat 308 314	título
-T29	Term-Termcat 0 8	Artículo
-T30	Term-Termcat 149 163	trabajos fijos
-T31	Term-Termcat 495 509	trabajos fijos
-T32	Term-Termcat 61 75	trabajos fijos
-T33	Term-Termcat 359 368	plantilla
-T34	Term-Termcat 649 658	plantilla
-T35	Term-Termcat 569 577	duración
-T36	Term-Termcat 223 231	duración
-T37	Term-Termcat 794 806	convocatoria
-T38	Term-Termcat 386 393	efectos
-T39	Term-Termcat 813 821	elección
-T40	Term-Termcat 495 503	trabajos
-T41	Term-Termcat 61 69	trabajos
-T42	Term-Termcat 149 157	trabajos
-T43	Term-Termcat 274 281	órganos
-T44	Term-Termcat 590 598	superior
-T45	Term-DV 859 865	acción
-T46	Term-DV 97 101	baja
-T47	Term-DV 186 190	baja
-T48	Term-DV 340 344	baja
-T49	Term-DV 532 536	baja
-T50	Term-DV 630 634	baja
-T51	Term-DV 748 752	baja
-T52	Term-DV 847 851	baja
-T53	Term-DV 890 894	baja
-T54	Term-DV 611 619	computar
-T55	Term-DV 710 718	computar
-T56	Term-DV 869 877	computar
-T57	Term-DV 740 743	día
-T58	Term-DV 839 842	día
-T59	Term-DV 386 393	efectos
-T60	Term-DV 813 821	elección
-T61	Term-DV 387 389	fe
-T62	Term-DV 215 219	rato
-T63	Term-DV 561 565	rato
-T64	Term-DV 48 56	servicio
-T65	Term-DV 136 144	servicio
-T66	Term-DV 482 490	servicio
-T67	Term-DV 94 104	trabajador
-T68	Term-DV 183 193	trabajador
-T69	Term-DV 337 347	trabajador
-T70	Term-DV 529 539	trabajador
-T71	Term-DV 627 637	trabajador
-T72	Term-DV 887 897	trabajador
-T73	Term-DV 670 677	tratado
-T74	Term-AttentionRank 337 355	trabajadores fijos
-T75	Term-AttentionRank 627 645	trabajadores fijos
-T76	Term-AttentionRank 14 28	Representantes
-T77	Term-AttentionRank 421 435	representantes
-T78	Term-AttentionRank 604 607	año
-T79	Term-AttentionRank 703 706	año
-T80	Term-AttentionRank 776 779	año
-T81	Term-AttentionRank 740 744	días
-T82	Term-AttentionRank 839 843	días
-T83	Term-AttentionRank 762 769	periodo
-T84	Term-AttentionRank 386 396	efectos de
-T85	Term-AttentionRank 0 8	Artículo
-T86	Term-AttentionRank 683 706	término de hasta un año
-T87	Term-AttentionRank 308 314	título
-T88	Term-AttentionRank 223 243	duración determinada
-T89	Term-AttentionRank 569 589	duración determinada
-T90	Term-AttentionRank 223 231	duración
-T91	Term-AttentionRank 569 577	duración
-T92	Term-AttentionRank 48 57	servicios
-T93	Term-AttentionRank 136 145	servicios
-T94	Term-AttentionRank 482 491	servicios
-T95	Term-AttentionRank 94 106	trabajadores
-T96	Term-AttentionRank 183 195	trabajadores
-T97	Term-AttentionRank 337 349	trabajadores
-T98	Term-AttentionRank 529 541	trabajadores
-T99	Term-AttentionRank 627 639	trabajadores
-T100	Term-AttentionRank 887 897	trabajador
-T101	Term-AttentionRank 274 281	órganos
-T102	Term-AttentionRank 740 755	días trabajados
-T103	Term-AttentionRank 839 854	días trabajados
-T104	Term-AttentionRank 740 821	días trabajados en el periodo de un año anterior a la convocatoria de la elección
-T105	Term-AttentionRank 411 417	número
-T106	Term-AttentionRank 730 736	número
-T107	Term-AttentionRank 211 219	contrato
-T108	Term-AttentionRank 557 565	contrato
-T109	Term-AttentionRank 386 393	efectos
-T110	Term-AttentionRank 857 865	fracción
-T111	Term-AttentionRank 813 821	elección
-T112	Term-AttentionRank 61 69	trabajos
-T113	Term-AttentionRank 149 157	trabajos
-T114	Term-AttentionRank 495 503	trabajos
-T115	Term-AttentionRank 794 806	convocatoria
-T116	Term-LabourLaw 61 68	trabajo
-T117	Term-LabourLaw 149 156	trabajo
-T118	Term-LabourLaw 495 502	trabajo
-T119	Term-LabourLaw 859 865	acción
-T120	Term-LabourLaw 211 219	contrato
-T121	Term-LabourLaw 557 565	contrato
-T122	Term-LabourLaw 421 434	representante
-T123	Term-LabourLaw 94 104	trabajador
-T124	Term-LabourLaw 183 193	trabajador
-T125	Term-LabourLaw 337 347	trabajador
-T126	Term-LabourLaw 529 539	trabajador
-T127	Term-LabourLaw 627 637	trabajador
-T128	Term-LabourLaw 887 897	trabajador
-T129	Term-LabourLaw 794 806	convocatoria
-T130	Term-LabourLaw 813 821	elección
-T131	Term-LabourLaw 274 280	órgano
-T132	Term-LabourLaw 48 56	servicio
-T133	Term-LabourLaw 136 144	servicio
-T134	Term-LabourLaw 482 490	servicio
-T135	Term-LabourLaw 223 231	duración
-T136	Term-LabourLaw 569 577	duración
-T137	Term-LabourLaw 683 690	término
-T138	Term-LabourLaw 611 619	computar
-T139	Term-LabourLaw 710 718	computar
-T140	Term-LabourLaw 869 877	computar
-T141	Term-LabourLaw 762 769	periodo
-T142	Term-IATE 794 806	convocatoria
-T143	Term-IATE 308 314	título
-T144	Term-IATE 0 8	Artículo
-T145	Term-IATE 94 106	trabajadores
-T146	Term-IATE 183 195	trabajadores
-T147	Term-IATE 337 349	trabajadores
-T148	Term-IATE 529 541	trabajadores
-T149	Term-IATE 627 639	trabajadores
-T150	Term-IATE 887 897	trabajador
-T151	Term-IATE 211 219	contrato
-T152	Term-IATE 557 565	contrato
-T153	Term-IATE 386 393	efectos
-T154	Term-IATE 857 865	fracción
-T155	Term-IATE 14 28	Representantes
-T156	Term-IATE 421 435	representantes
-T157	Term-IATE 223 231	duración
-T158	Term-IATE 569 577	duración
+T1	Term-diccionario 274 281	órganos
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 61 69	trabajos
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 149 157	trabajos
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 495 503	trabajos
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 794 806	convocatoria
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 211 219	contrato
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 557 565	contrato
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 857 865	fracción
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 308 314	título
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 813 821	elección
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 48 57	servicios
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 136 145	servicios
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 482 491	servicios
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 604 607	año
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 703 706	año
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 776 779	año
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 0 8	Artículo
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 411 417	número
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 730 736	número
+#19	AnnotatorNotes T19 "DPEJ"
+#20	AnnotatorNotes T13 "Termcat"
+#21	AnnotatorNotes T11 "Termcat"
+#22	AnnotatorNotes T12 "Termcat"
+T20	Term-diccionario 683 690	término
+#23	AnnotatorNotes T20 "Termcat"
+#24	AnnotatorNotes T7 "Termcat"
+#25	AnnotatorNotes T6 "Termcat"
+T21	Term-diccionario 14 28	Representantes
+#26	AnnotatorNotes T21 "Termcat"
+T22	Term-diccionario 421 435	representantes
+#27	AnnotatorNotes T22 "Termcat"
+#28	AnnotatorNotes T9 "Termcat"
+#29	AnnotatorNotes T17 "Termcat"
+T23	Term-diccionario 149 163	trabajos fijos
+#30	AnnotatorNotes T23 "Termcat"
+T24	Term-diccionario 495 509	trabajos fijos
+#31	AnnotatorNotes T24 "Termcat"
+T25	Term-diccionario 61 75	trabajos fijos
+#32	AnnotatorNotes T25 "Termcat"
+T26	Term-diccionario 359 368	plantilla
+#33	AnnotatorNotes T26 "Termcat"
+T27	Term-diccionario 649 658	plantilla
+#34	AnnotatorNotes T27 "Termcat"
+T28	Term-diccionario 569 577	duración
+#35	AnnotatorNotes T28 "Termcat"
+T29	Term-diccionario 223 231	duración
+#36	AnnotatorNotes T29 "Termcat"
+#37	AnnotatorNotes T5 "Termcat"
+T30	Term-diccionario 386 393	efectos
+#38	AnnotatorNotes T30 "Termcat"
+#39	AnnotatorNotes T10 "Termcat"
+#40	AnnotatorNotes T4 "Termcat"
+#41	AnnotatorNotes T2 "Termcat"
+#42	AnnotatorNotes T3 "Termcat"
+#43	AnnotatorNotes T1 "Termcat"
+T31	Term-diccionario 590 598	superior
+#44	AnnotatorNotes T31 "Termcat"
+T32	Term-automatico 337 355	trabajadores fijos
+#45	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 627 645	trabajadores fijos
+#46	AnnotatorNotes T33 "AttentionRank"
+T34	Term-automatico 14 28	Representantes
+#47	AnnotatorNotes T34 "AttentionRank"
+T35	Term-automatico 421 435	representantes
+#48	AnnotatorNotes T35 "AttentionRank"
+T36	Term-automatico 604 607	año
+#49	AnnotatorNotes T36 "AttentionRank"
+T37	Term-automatico 703 706	año
+#50	AnnotatorNotes T37 "AttentionRank"
+T38	Term-automatico 776 779	año
+#51	AnnotatorNotes T38 "AttentionRank"
+T39	Term-automatico 740 744	días
+#52	AnnotatorNotes T39 "AttentionRank"
+T40	Term-automatico 839 843	días
+#53	AnnotatorNotes T40 "AttentionRank"
+T41	Term-automatico 762 769	periodo
+#54	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 386 396	efectos de
+#55	AnnotatorNotes T42 "AttentionRank"
+T43	Term-automatico 0 8	Artículo
+#56	AnnotatorNotes T43 "AttentionRank"
+T44	Term-automatico 683 706	término de hasta un año
+#57	AnnotatorNotes T44 "AttentionRank"
+T45	Term-automatico 308 314	título
+#58	AnnotatorNotes T45 "AttentionRank"
+T46	Term-automatico 223 243	duración determinada
+#59	AnnotatorNotes T46 "AttentionRank"
+T47	Term-automatico 569 589	duración determinada
+#60	AnnotatorNotes T47 "AttentionRank"
+T48	Term-automatico 223 231	duración
+#61	AnnotatorNotes T48 "AttentionRank"
+T49	Term-automatico 569 577	duración
+#62	AnnotatorNotes T49 "AttentionRank"
+T50	Term-automatico 48 57	servicios
+#63	AnnotatorNotes T50 "AttentionRank"
+T51	Term-automatico 136 145	servicios
+#64	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 482 491	servicios
+#65	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 94 106	trabajadores
+#66	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 183 195	trabajadores
+#67	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 337 349	trabajadores
+#68	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 529 541	trabajadores
+#69	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 627 639	trabajadores
+#70	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 887 897	trabajador
+#71	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 274 281	órganos
+#72	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 740 755	días trabajados
+#73	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 839 854	días trabajados
+#74	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 740 821	días trabajados en el periodo de un año anterior a la convocatoria de la elección
+#75	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 411 417	número
+#76	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 730 736	número
+#77	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 211 219	contrato
+#78	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 557 565	contrato
+#79	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 386 393	efectos
+#80	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 857 865	fracción
+#81	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 813 821	elección
+#82	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 61 69	trabajos
+#83	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 149 157	trabajos
+#84	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 495 503	trabajos
+#85	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 794 806	convocatoria
+#86	AnnotatorNotes T73 "AttentionRank"
+T74	Term-diccionario 61 68	trabajo
+#87	AnnotatorNotes T74 "LabourLaw"
+T75	Term-diccionario 149 156	trabajo
+#88	AnnotatorNotes T75 "LabourLaw"
+T76	Term-diccionario 495 502	trabajo
+#89	AnnotatorNotes T76 "LabourLaw"
+T77	Term-diccionario 859 865	acción
+#90	AnnotatorNotes T77 "LabourLaw"
+#91	AnnotatorNotes T6 "LabourLaw"
+#92	AnnotatorNotes T7 "LabourLaw"
+T78	Term-diccionario 421 434	representante
+#93	AnnotatorNotes T78 "LabourLaw"
+T79	Term-diccionario 94 104	trabajador
+#94	AnnotatorNotes T79 "LabourLaw"
+T80	Term-diccionario 183 193	trabajador
+#95	AnnotatorNotes T80 "LabourLaw"
+T81	Term-diccionario 337 347	trabajador
+#96	AnnotatorNotes T81 "LabourLaw"
+T82	Term-diccionario 529 539	trabajador
+#97	AnnotatorNotes T82 "LabourLaw"
+T83	Term-diccionario 627 637	trabajador
+#98	AnnotatorNotes T83 "LabourLaw"
+T84	Term-diccionario 887 897	trabajador
+#99	AnnotatorNotes T84 "LabourLaw"
+#100	AnnotatorNotes T5 "LabourLaw"
+#101	AnnotatorNotes T10 "LabourLaw"
+T85	Term-diccionario 274 280	órgano
+#102	AnnotatorNotes T85 "LabourLaw"
+T86	Term-diccionario 48 56	servicio
+#103	AnnotatorNotes T86 "LabourLaw"
+T87	Term-diccionario 136 144	servicio
+#104	AnnotatorNotes T87 "LabourLaw"
+T88	Term-diccionario 482 490	servicio
+#105	AnnotatorNotes T88 "LabourLaw"
+#106	AnnotatorNotes T29 "LabourLaw"
+#107	AnnotatorNotes T28 "LabourLaw"
+#108	AnnotatorNotes T20 "LabourLaw"
+T89	Term-diccionario 611 619	computar
+#109	AnnotatorNotes T89 "LabourLaw"
+T90	Term-diccionario 710 718	computar
+#110	AnnotatorNotes T90 "LabourLaw"
+T91	Term-diccionario 869 877	computar
+#111	AnnotatorNotes T91 "LabourLaw"
+T92	Term-diccionario 762 769	periodo
+#112	AnnotatorNotes T92 "LabourLaw"
+#113	AnnotatorNotes T5 "IATE"
+#114	AnnotatorNotes T9 "IATE"
+#115	AnnotatorNotes T17 "IATE"
+T93	Term-diccionario 94 106	trabajadores
+#116	AnnotatorNotes T93 "IATE"
+T94	Term-diccionario 183 195	trabajadores
+#117	AnnotatorNotes T94 "IATE"
+T95	Term-diccionario 337 349	trabajadores
+#118	AnnotatorNotes T95 "IATE"
+T96	Term-diccionario 529 541	trabajadores
+#119	AnnotatorNotes T96 "IATE"
+T97	Term-diccionario 627 639	trabajadores
+#120	AnnotatorNotes T97 "IATE"
+#121	AnnotatorNotes T84 "IATE"
+#122	AnnotatorNotes T6 "IATE"
+#123	AnnotatorNotes T7 "IATE"
+#124	AnnotatorNotes T30 "IATE"
+#125	AnnotatorNotes T8 "IATE"
+#126	AnnotatorNotes T21 "IATE"
+#127	AnnotatorNotes T22 "IATE"
+#128	AnnotatorNotes T29 "IATE"
+#129	AnnotatorNotes T28 "IATE"

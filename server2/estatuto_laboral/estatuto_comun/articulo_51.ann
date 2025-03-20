@@ -1,153 +1,194 @@
-T1	Term-DPEJ 834 841	despido
-T2	Term-DPEJ 758 763	casos
-T3	Term-DPEJ 61 74	causas justas
-T4	Term-DPEJ 198 205	trabajo
-T5	Term-DPEJ 613 620	trabajo
-T6	Term-DPEJ 383 390	salario
-T7	Term-DPEJ 299 307	dignidad
-T8	Term-DPEJ 131 139	contrato
-T9	Term-DPEJ 61 67	causas
-T10	Term-DPEJ 283 292	menoscabo
-T11	Term-DPEJ 13 22	Extinción
-T12	Term-DPEJ 117 126	extinción
-T13	Term-DPEJ 0 8	Artículo
-T14	Term-DPEJ 253 261	artículo
-T15	Term-DPEJ 655 664	artículos
-T16	Term-Termcat 131 139	contrato
-T17	Term-Termcat 508 520	fuerza mayor
-T18	Term-Termcat 339 343	pago
-T19	Term-Termcat 0 8	Artículo
-T20	Term-Termcat 253 261	artículo
-T21	Term-Termcat 655 664	artículos
-T22	Term-Termcat 463 468	parte
-T23	Term-Termcat 685 694	sentencia
-T24	Term-Termcat 834 854	despido improcedente
-T25	Term-Termcat 598 620	condiciones de trabajo
-T26	Term-Termcat 183 205	condiciones de trabajo
-T27	Term-Termcat 330 335	falta
-T28	Term-Termcat 383 390	salario
-T29	Term-Termcat 299 307	dignidad
-T30	Term-Termcat 786 793	derecho
-T31	Term-Termcat 13 22	Extinción
-T32	Term-Termcat 117 126	extinción
-T33	Term-Termcat 373 378	abono
-T34	Term-Termcat 61 74	causas justas
-T35	Term-Termcat 418 432	incumplimiento
-T36	Term-Termcat 283 292	menoscabo
-T37	Term-Termcat 27 35	voluntad
-T38	Term-Termcat 842 854	improcedente
-T39	Term-Termcat 695 703	judicial
-T40	Term-Termcat 104 113	solicitar
-T41	Term-DV 508 520	fuerza mayor
-T42	Term-DV 373 378	abono
-T43	Term-DV 43 47	baja
-T44	Term-DV 90 94	baja
-T45	Term-DV 315 319	baja
-T46	Term-DV 572 576	baja
-T47	Term-DV 771 775	baja
-T48	Term-DV 61 66	causa
-T49	Term-DV 847 854	cedente
-T50	Term-DV 786 793	derecho
-T51	Term-DV 834 841	despido
-T52	Term-DV 299 307	dignidad
-T53	Term-DV 473 480	empresa
-T54	Term-DV 473 483	empresario
-T55	Term-DV 330 335	falta
-T56	Term-DV 508 514	fuerza
-T57	Term-DV 695 703	judicial
-T58	Term-DV 339 343	pago
-T59	Term-DV 75 79	para
-T60	Term-DV 826 830	para
-T61	Term-DV 463 468	parte
-T62	Term-DV 135 139	rato
-T63	Term-DV 383 387	sala
-T64	Term-DV 383 390	salario
-T65	Term-DV 685 694	sentencia
-T66	Term-DV 816 820	seña
-T67	Term-DV 40 50	trabajador
-T68	Term-DV 87 97	trabajador
-T69	Term-DV 312 322	trabajador
-T70	Term-DV 569 579	trabajador
-T71	Term-DV 768 778	trabajador
-T72	Term-DV 241 244	vis
-T73	Term-DV 641 644	vis
-T74	Term-DV 27 35	voluntad
-T75	Term-DV 14 15	x
-T76	Term-DV 118 119	x
-T77	Term-AttentionRank 463 468	parte
-T78	Term-AttentionRank 834 854	despido improcedente
-T79	Term-AttentionRank 283 292	menoscabo
-T80	Term-AttentionRank 299 307	dignidad
-T81	Term-AttentionRank 61 67	causas
-T82	Term-AttentionRank 522 525	así
-T83	Term-AttentionRank 0 8	Artículo
-T84	Term-AttentionRank 253 261	artículo
-T85	Term-AttentionRank 655 664	artículos
-T86	Term-AttentionRank 373 378	abono
-T87	Term-AttentionRank 495 504	supuestos
-T88	Term-AttentionRank 628 637	supuestos
-T89	Term-AttentionRank 330 335	falta
-T90	Term-AttentionRank 13 22	Extinción
-T91	Term-AttentionRank 117 126	extinción
-T92	Term-AttentionRank 752 757	tales
-T93	Term-AttentionRank 508 520	fuerza mayor
-T94	Term-AttentionRank 800 854	indemnizaciones señaladas para el despido improcedente
-T95	Term-AttentionRank 61 74	causas justas
-T96	Term-AttentionRank 40 50	trabajador
-T97	Term-AttentionRank 87 97	trabajador
-T98	Term-AttentionRank 312 322	trabajador
-T99	Term-AttentionRank 569 579	trabajador
-T100	Term-AttentionRank 768 778	trabajador
-T101	Term-AttentionRank 418 438	incumplimiento grave
-T102	Term-AttentionRank 834 841	despido
-T103	Term-AttentionRank 383 390	salario
-T104	Term-AttentionRank 587 609	anteriores condiciones
-T105	Term-AttentionRank 786 793	derecho
-T106	Term-AttentionRank 131 139	contrato
-T107	Term-AttentionRank 339 343	pago
-T108	Term-AttentionRank 198 205	trabajo
-T109	Term-AttentionRank 613 620	trabajo
-T110	Term-AttentionRank 148 175	modificaciones sustanciales
-T111	Term-AttentionRank 685 703	sentencia judicial
-T112	Term-AttentionRank 758 763	casos
-T113	Term-AttentionRank 473 483	empresario
-T114	Term-LabourLaw 117 139	extinción del contrato
-T115	Term-LabourLaw 183 205	condiciones de trabajo
-T116	Term-LabourLaw 598 620	condiciones de trabajo
-T117	Term-LabourLaw 834 854	despido improcedente
-T118	Term-LabourLaw 834 841	despido
-T119	Term-LabourLaw 198 205	trabajo
-T120	Term-LabourLaw 613 620	trabajo
-T121	Term-LabourLaw 685 694	sentencia
-T122	Term-LabourLaw 131 139	contrato
-T123	Term-LabourLaw 383 390	salario
-T124	Term-LabourLaw 40 50	trabajador
-T125	Term-LabourLaw 87 97	trabajador
-T126	Term-LabourLaw 312 322	trabajador
-T127	Term-LabourLaw 569 579	trabajador
-T128	Term-LabourLaw 768 778	trabajador
-T129	Term-LabourLaw 420 432	cumplimiento
-T130	Term-LabourLaw 842 854	improcedente
-T131	Term-LabourLaw 473 483	empresario
-T132	Term-LabourLaw 844 854	procedente
-T133	Term-LabourLaw 473 480	empresa
-T134	Term-LabourLaw 786 793	derecho
-T135	Term-LabourLaw 299 307	dignidad
-T136	Term-LabourLaw 418 432	incumplimiento
-T137	Term-IATE 13 22	Extinción
-T138	Term-IATE 117 126	extinción
-T139	Term-IATE 463 468	parte
-T140	Term-IATE 0 8	Artículo
-T141	Term-IATE 253 261	artículo
-T142	Term-IATE 655 664	artículos
-T143	Term-IATE 473 483	empresario
-T144	Term-IATE 330 335	falta
-T145	Term-IATE 383 390	salario
-T146	Term-IATE 373 378	abono
-T147	Term-IATE 40 50	trabajador
-T148	Term-IATE 87 97	trabajador
-T149	Term-IATE 312 322	trabajador
-T150	Term-IATE 569 579	trabajador
-T151	Term-IATE 768 778	trabajador
-T152	Term-IATE 339 343	pago
-T153	Term-IATE 131 139	contrato
+T1	Term-diccionario 834 841	despido
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 758 763	casos
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 61 74	causas justas
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 198 205	trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 613 620	trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 383 390	salario
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 299 307	dignidad
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 131 139	contrato
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 61 67	causas
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 283 292	menoscabo
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 13 22	Extinción
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 117 126	extinción
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 0 8	Artículo
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 253 261	artículo
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 655 664	artículos
+#15	AnnotatorNotes T15 "DPEJ"
+#16	AnnotatorNotes T8 "Termcat"
+T16	Term-diccionario 508 520	fuerza mayor
+#17	AnnotatorNotes T16 "Termcat"
+T17	Term-diccionario 339 343	pago
+#18	AnnotatorNotes T17 "Termcat"
+#19	AnnotatorNotes T13 "Termcat"
+#20	AnnotatorNotes T14 "Termcat"
+#21	AnnotatorNotes T15 "Termcat"
+T18	Term-diccionario 463 468	parte
+#22	AnnotatorNotes T18 "Termcat"
+T19	Term-diccionario 685 694	sentencia
+#23	AnnotatorNotes T19 "Termcat"
+T20	Term-diccionario 834 854	despido improcedente
+#24	AnnotatorNotes T20 "Termcat"
+T21	Term-diccionario 598 620	condiciones de trabajo
+#25	AnnotatorNotes T21 "Termcat"
+T22	Term-diccionario 183 205	condiciones de trabajo
+#26	AnnotatorNotes T22 "Termcat"
+T23	Term-diccionario 330 335	falta
+#27	AnnotatorNotes T23 "Termcat"
+#28	AnnotatorNotes T6 "Termcat"
+#29	AnnotatorNotes T7 "Termcat"
+T24	Term-diccionario 786 793	derecho
+#30	AnnotatorNotes T24 "Termcat"
+#31	AnnotatorNotes T11 "Termcat"
+#32	AnnotatorNotes T12 "Termcat"
+T25	Term-diccionario 373 378	abono
+#33	AnnotatorNotes T25 "Termcat"
+#34	AnnotatorNotes T3 "Termcat"
+T26	Term-diccionario 418 432	incumplimiento
+#35	AnnotatorNotes T26 "Termcat"
+#36	AnnotatorNotes T10 "Termcat"
+T27	Term-diccionario 27 35	voluntad
+#37	AnnotatorNotes T27 "Termcat"
+T28	Term-diccionario 842 854	improcedente
+#38	AnnotatorNotes T28 "Termcat"
+T29	Term-diccionario 695 703	judicial
+#39	AnnotatorNotes T29 "Termcat"
+T30	Term-diccionario 104 113	solicitar
+#40	AnnotatorNotes T30 "Termcat"
+T31	Term-automatico 463 468	parte
+#41	AnnotatorNotes T31 "AttentionRank"
+T32	Term-automatico 834 854	despido improcedente
+#42	AnnotatorNotes T32 "AttentionRank"
+T33	Term-automatico 283 292	menoscabo
+#43	AnnotatorNotes T33 "AttentionRank"
+T34	Term-automatico 299 307	dignidad
+#44	AnnotatorNotes T34 "AttentionRank"
+T35	Term-automatico 61 67	causas
+#45	AnnotatorNotes T35 "AttentionRank"
+T36	Term-automatico 522 525	así
+#46	AnnotatorNotes T36 "AttentionRank"
+T37	Term-automatico 0 8	Artículo
+#47	AnnotatorNotes T37 "AttentionRank"
+T38	Term-automatico 253 261	artículo
+#48	AnnotatorNotes T38 "AttentionRank"
+T39	Term-automatico 655 664	artículos
+#49	AnnotatorNotes T39 "AttentionRank"
+T40	Term-automatico 373 378	abono
+#50	AnnotatorNotes T40 "AttentionRank"
+T41	Term-automatico 495 504	supuestos
+#51	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 628 637	supuestos
+#52	AnnotatorNotes T42 "AttentionRank"
+T43	Term-automatico 330 335	falta
+#53	AnnotatorNotes T43 "AttentionRank"
+T44	Term-automatico 13 22	Extinción
+#54	AnnotatorNotes T44 "AttentionRank"
+T45	Term-automatico 117 126	extinción
+#55	AnnotatorNotes T45 "AttentionRank"
+T46	Term-automatico 752 757	tales
+#56	AnnotatorNotes T46 "AttentionRank"
+T47	Term-automatico 508 520	fuerza mayor
+#57	AnnotatorNotes T47 "AttentionRank"
+T48	Term-automatico 800 854	indemnizaciones señaladas para el despido improcedente
+#58	AnnotatorNotes T48 "AttentionRank"
+T49	Term-automatico 61 74	causas justas
+#59	AnnotatorNotes T49 "AttentionRank"
+T50	Term-automatico 40 50	trabajador
+#60	AnnotatorNotes T50 "AttentionRank"
+T51	Term-automatico 87 97	trabajador
+#61	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 312 322	trabajador
+#62	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 569 579	trabajador
+#63	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 768 778	trabajador
+#64	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 418 438	incumplimiento grave
+#65	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 834 841	despido
+#66	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 383 390	salario
+#67	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 587 609	anteriores condiciones
+#68	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 786 793	derecho
+#69	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 131 139	contrato
+#70	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 339 343	pago
+#71	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 198 205	trabajo
+#72	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 613 620	trabajo
+#73	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 148 175	modificaciones sustanciales
+#74	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 685 703	sentencia judicial
+#75	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 758 763	casos
+#76	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 473 483	empresario
+#77	AnnotatorNotes T67 "AttentionRank"
+T68	Term-diccionario 117 139	extinción del contrato
+#78	AnnotatorNotes T68 "LabourLaw"
+#79	AnnotatorNotes T22 "LabourLaw"
+#80	AnnotatorNotes T21 "LabourLaw"
+#81	AnnotatorNotes T20 "LabourLaw"
+#82	AnnotatorNotes T1 "LabourLaw"
+#83	AnnotatorNotes T4 "LabourLaw"
+#84	AnnotatorNotes T5 "LabourLaw"
+#85	AnnotatorNotes T19 "LabourLaw"
+#86	AnnotatorNotes T8 "LabourLaw"
+#87	AnnotatorNotes T6 "LabourLaw"
+T69	Term-diccionario 40 50	trabajador
+#88	AnnotatorNotes T69 "LabourLaw"
+T70	Term-diccionario 87 97	trabajador
+#89	AnnotatorNotes T70 "LabourLaw"
+T71	Term-diccionario 312 322	trabajador
+#90	AnnotatorNotes T71 "LabourLaw"
+T72	Term-diccionario 569 579	trabajador
+#91	AnnotatorNotes T72 "LabourLaw"
+T73	Term-diccionario 768 778	trabajador
+#92	AnnotatorNotes T73 "LabourLaw"
+T74	Term-diccionario 420 432	cumplimiento
+#93	AnnotatorNotes T74 "LabourLaw"
+#94	AnnotatorNotes T28 "LabourLaw"
+T75	Term-diccionario 473 483	empresario
+#95	AnnotatorNotes T75 "LabourLaw"
+T76	Term-diccionario 844 854	procedente
+#96	AnnotatorNotes T76 "LabourLaw"
+T77	Term-diccionario 473 480	empresa
+#97	AnnotatorNotes T77 "LabourLaw"
+#98	AnnotatorNotes T24 "LabourLaw"
+#99	AnnotatorNotes T7 "LabourLaw"
+#100	AnnotatorNotes T26 "LabourLaw"
+#101	AnnotatorNotes T11 "IATE"
+#102	AnnotatorNotes T12 "IATE"
+#103	AnnotatorNotes T18 "IATE"
+#104	AnnotatorNotes T13 "IATE"
+#105	AnnotatorNotes T14 "IATE"
+#106	AnnotatorNotes T15 "IATE"
+#107	AnnotatorNotes T75 "IATE"
+#108	AnnotatorNotes T23 "IATE"
+#109	AnnotatorNotes T6 "IATE"
+#110	AnnotatorNotes T25 "IATE"
+#111	AnnotatorNotes T69 "IATE"
+#112	AnnotatorNotes T70 "IATE"
+#113	AnnotatorNotes T71 "IATE"
+#114	AnnotatorNotes T72 "IATE"
+#115	AnnotatorNotes T73 "IATE"
+#116	AnnotatorNotes T17 "IATE"
+#117	AnnotatorNotes T8 "IATE"

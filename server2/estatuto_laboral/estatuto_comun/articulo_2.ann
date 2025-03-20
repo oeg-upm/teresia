@@ -1,218 +1,304 @@
-T1	Term-DPEJ 799 805	empleo
-T2	Term-DPEJ 1299 1309	regulación
-T3	Term-DPEJ 1018 1023	Salud
-T4	Term-DPEJ 1140 1147	trabajo
-T5	Term-DPEJ 903 915	cumplimiento
-T6	Term-DPEJ 144 153	dirección
-T7	Term-DPEJ 671 677	riesgo
-T8	Term-DPEJ 376 385	actividad
-T9	Term-DPEJ 545 554	actividad
-T10	Term-DPEJ 472 483	actividades
-T11	Term-DPEJ 1230 1233	ley
-T12	Term-DPEJ 127 135	personal
-T13	Term-DPEJ 1277 1285	apartado
-T14	Term-DPEJ 922 937	responsabilidad
-T15	Term-DPEJ 1184 1192	relación
-T16	Term-DPEJ 671 687	riesgo y ventura
-T17	Term-DPEJ 870 877	medidas
-T18	Term-DPEJ 199 207	servicio
-T19	Term-DPEJ 760 769	servicios
-T20	Term-DPEJ 1059 1068	servicios
-T21	Term-DPEJ 0 8	Artículo
-T22	Term-DPEJ 172 180	artículo
-T23	Term-DPEJ 922 943	responsabilidad penal
-T24	Term-DPEJ 777 784	centros
-T25	Term-Termcat 1391 1403	Constitución
-T26	Term-Termcat 199 207	servicio
-T27	Term-Termcat 760 769	servicios
-T28	Term-Termcat 1059 1068	servicios
-T29	Term-Termcat 731 743	discapacidad
-T30	Term-Termcat 881 894	internamiento
-T31	Term-Termcat 1230 1233	ley
-T32	Term-Termcat 954 964	residencia
-T33	Term-Termcat 0 8	Artículo
-T34	Term-Termcat 172 180	artículo
-T35	Term-Termcat 139 143	alta
-T36	Term-Termcat 144 153	dirección
-T37	Term-Termcat 986 999	especialistas
-T38	Term-Termcat 1140 1147	trabajo
-T39	Term-Termcat 799 805	empleo
-T40	Term-Termcat 973 982	formación
-T41	Term-Termcat 127 135	personal
-T42	Term-Termcat 1320 1340	relaciones laborales
-T43	Term-Termcat 12 53	Relaciones laborales de carácter especial
-T44	Term-Termcat 74 115	relaciones laborales de carácter especial
-T45	Term-Termcat 525 535	desarrollo
-T46	Term-Termcat 1355 1363	derechos
-T47	Term-Termcat 450 458	personas
-T48	Term-Termcat 339 347	personas
-T49	Term-Termcat 569 577	personas
-T50	Term-Termcat 495 505	auxiliares
-T51	Term-Termcat 545 554	actividad
-T52	Term-Termcat 376 385	actividad
-T53	Term-Termcat 472 483	actividades
-T54	Term-Termcat 139 153	alta dirección
-T55	Term-Termcat 1110 1120	colectivos
-T56	Term-Termcat 903 915	cumplimiento
-T57	Term-Termcat 625 631	cuenta
-T58	Term-Termcat 1072 1081	despachos
-T59	Term-Termcat 857 866	ejecución
-T60	Term-Termcat 1095 1107	individuales
-T61	Term-Termcat 834 841	menores
-T62	Term-Termcat 1299 1309	regulación
-T63	Term-Termcat 1184 1221	relación laboral de carácter especial
-T64	Term-Termcat 922 943	responsabilidad penal
-T65	Term-Termcat 671 677	riesgo
-T66	Term-Termcat 1038 1046	abogados
-T67	Term-Termcat 1085 1093	abogados
-T68	Term-DV 1038 1045	abogado
-T69	Term-DV 1085 1092	abogado
-T70	Term-DV 717 721	baja
-T71	Term-DV 1364 1370	básico
-T72	Term-DV 734 738	capa
-T73	Term-DV 734 743	capacidad
-T74	Term-DV 1355 1362	derecho
-T75	Term-DV 144 153	dirección
-T76	Term-DV 857 866	ejecución
-T77	Term-DV 645 652	empresa
-T78	Term-DV 645 655	empresario
-T79	Term-DV 218 225	familia
-T80	Term-DV 314 316	fe
-T81	Term-DV 973 978	forma
-T82	Term-DV 23 30	laboral
-T83	Term-DV 85 92	laboral
-T84	Term-DV 1193 1200	laboral
-T85	Term-DV 1331 1338	laboral
-T86	Term-DV 1112 1119	lectivo
-T87	Term-DV 1230 1233	ley
-T88	Term-DV 517 521	para
-T89	Term-DV 895 899	para
-T90	Term-DV 965 969	para
-T91	Term-DV 241 245	pena
-T92	Term-DV 938 942	pena
-T93	Term-DV 270 280	penitencia
-T94	Term-DV 270 283	penitenciaria
-T95	Term-DV 127 134	persona
-T96	Term-DV 339 346	persona
-T97	Term-DV 450 457	persona
-T98	Term-DV 569 576	persona
-T99	Term-DV 127 135	personal
-T100	Term-DV 311 322	profesional
-T101	Term-DV 463 467	real
-T102	Term-DV 1299 1309	regulación
-T103	Term-DV 1261 1265	seña
-T104	Term-DV 199 207	servicio
-T105	Term-DV 760 768	servicio
-T106	Term-DV 1059 1067	servicio
-T107	Term-DV 714 724	trabajador
-T108	Term-DV 1099 1105	vidual
-T109	Term-DV 415 418	vis
-T110	Term-DV 497 498	x
-T111	Term-DV 1157 1158	x
-T112	Term-AttentionRank 1184 1200	relación laboral
-T113	Term-AttentionRank 36 53	carácter especial
-T114	Term-AttentionRank 98 115	carácter especial
-T115	Term-AttentionRank 1204 1221	carácter especial
-T116	Term-AttentionRank 525 535	desarrollo
-T117	Term-AttentionRank 799 805	empleo
-T118	Term-AttentionRank 1038 1046	abogados
-T119	Term-AttentionRank 1085 1093	abogados
-T120	Term-AttentionRank 144 153	dirección
-T121	Term-AttentionRank 472 492	actividades técnicas
-T122	Term-AttentionRank 393 408	artes escénicas
-T123	Term-AttentionRank 671 677	riesgo
-T124	Term-AttentionRank 1018 1023	Salud
-T125	Term-AttentionRank 1184 1192	relación
-T126	Term-AttentionRank 870 877	medidas
-T127	Term-AttentionRank 36 44	carácter
-T128	Term-AttentionRank 98 106	carácter
-T129	Term-AttentionRank 1204 1212	carácter
-T130	Term-AttentionRank 903 915	cumplimiento
-T131	Term-AttentionRank 437 440	así
-T132	Term-AttentionRank 973 982	formación
-T133	Term-AttentionRank 0 8	Artículo
-T134	Term-AttentionRank 172 180	artículo
-T135	Term-AttentionRank 1251 1260	supuestos
-T136	Term-AttentionRank 680 687	ventura
-T137	Term-AttentionRank 1299 1309	regulación
-T138	Term-AttentionRank 1277 1294	apartado anterior
-T139	Term-AttentionRank 339 347	personas
-T140	Term-AttentionRank 450 458	personas
-T141	Term-AttentionRank 569 577	personas
-T142	Term-AttentionRank 139 153	alta dirección
-T143	Term-AttentionRank 339 356	personas artistas
-T144	Term-AttentionRank 376 385	actividad
-T145	Term-AttentionRank 545 554	actividad
-T146	Term-AttentionRank 472 483	actividades
-T147	Term-AttentionRank 597 620	operaciones mercantiles
-T148	Term-AttentionRank 199 207	servicio
-T149	Term-AttentionRank 760 769	servicios
-T150	Term-AttentionRank 1059 1068	servicios
-T151	Term-AttentionRank 777 795	centros especiales
-T152	Term-AttentionRank 714 726	trabajadores
-T153	Term-AttentionRank 922 937	responsabilidad
-T154	Term-AttentionRank 1230 1233	ley
-T155	Term-AttentionRank 777 784	centros
-T156	Term-AttentionRank 1355 1371	derechos básicos
-T157	Term-AttentionRank 12 32	Relaciones laborales
-T158	Term-AttentionRank 74 94	relaciones laborales
-T159	Term-AttentionRank 1320 1340	relaciones laborales
-T160	Term-AttentionRank 1355 1363	derechos
-T161	Term-AttentionRank 1313 1340	dichas relaciones laborales
-T162	Term-AttentionRank 127 135	personal
-T163	Term-AttentionRank 1140 1147	trabajo
-T164	Term-AttentionRank 645 656	empresarios
-T165	Term-AttentionRank 1277 1285	apartado
-T166	Term-LabourLaw 127 153	personal de alta dirección
-T167	Term-LabourLaw 1184 1200	relación laboral
-T168	Term-LabourLaw 139 153	alta dirección
-T169	Term-LabourLaw 922 943	responsabilidad penal
-T170	Term-LabourLaw 212 226	hogar familiar
-T171	Term-LabourLaw 1355 1371	derechos básicos
-T172	Term-LabourLaw 1140 1147	trabajo
-T173	Term-LabourLaw 671 677	riesgo
-T174	Term-LabourLaw 870 876	medida
-T175	Term-LabourLaw 922 937	responsabilidad
-T176	Term-LabourLaw 834 839	menor
-T177	Term-LabourLaw 731 743	discapacidad
-T178	Term-LabourLaw 144 153	dirección
-T179	Term-LabourLaw 714 724	trabajador
-T180	Term-LabourLaw 881 894	internamiento
-T181	Term-LabourLaw 680 687	ventura
-T182	Term-LabourLaw 903 915	cumplimiento
-T183	Term-LabourLaw 1230 1233	ley
-T184	Term-LabourLaw 973 982	formación
-T185	Term-LabourLaw 954 964	residencia
-T186	Term-LabourLaw 645 655	empresario
-T187	Term-LabourLaw 199 207	servicio
-T188	Term-LabourLaw 760 768	servicio
-T189	Term-LabourLaw 1059 1067	servicio
-T190	Term-LabourLaw 645 652	empresa
-T191	Term-LabourLaw 1038 1045	abogado
-T192	Term-LabourLaw 1085 1092	abogado
-T193	Term-LabourLaw 1355 1362	derecho
-T194	Term-LabourLaw 1110 1119	colectivo
-T195	Term-LabourLaw 212 217	hogar
-T196	Term-LabourLaw 127 135	personal
-T197	Term-LabourLaw 799 805	empleo
-T198	Term-LabourLaw 127 134	persona
-T199	Term-LabourLaw 339 346	persona
-T200	Term-LabourLaw 450 457	persona
-T201	Term-LabourLaw 569 576	persona
-T202	Term-IATE 0 8	Artículo
-T203	Term-IATE 172 180	artículo
-T204	Term-IATE 922 937	responsabilidad
-T205	Term-IATE 671 677	riesgo
-T206	Term-IATE 645 656	empresarios
-T207	Term-IATE 1277 1285	apartado
-T208	Term-IATE 714 726	trabajadores
-T209	Term-IATE 799 805	empleo
-T210	Term-IATE 376 385	actividad
-T211	Term-IATE 545 554	actividad
-T212	Term-IATE 472 483	actividades
-T213	Term-IATE 36 44	carácter
-T214	Term-IATE 98 106	carácter
-T215	Term-IATE 1204 1212	carácter
-T216	Term-IATE 144 153	dirección
-T217	Term-IATE 1299 1309	regulación
-T218	Term-IATE 973 982	formación
+T1	Term-diccionario 799 805	empleo
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 1299 1309	regulación
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 1018 1023	Salud
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 1140 1147	trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 903 915	cumplimiento
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 144 153	dirección
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 671 677	riesgo
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 376 385	actividad
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 545 554	actividad
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 472 483	actividades
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 1230 1233	ley
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 127 135	personal
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 1277 1285	apartado
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 922 937	responsabilidad
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 1184 1192	relación
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 671 687	riesgo y ventura
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 870 877	medidas
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 199 207	servicio
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 760 769	servicios
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 1059 1068	servicios
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 0 8	Artículo
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 172 180	artículo
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 922 943	responsabilidad penal
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 777 784	centros
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 1391 1403	Constitución
+#25	AnnotatorNotes T25 "Termcat"
+#26	AnnotatorNotes T18 "Termcat"
+#27	AnnotatorNotes T19 "Termcat"
+#28	AnnotatorNotes T20 "Termcat"
+T26	Term-diccionario 731 743	discapacidad
+#29	AnnotatorNotes T26 "Termcat"
+T27	Term-diccionario 881 894	internamiento
+#30	AnnotatorNotes T27 "Termcat"
+#31	AnnotatorNotes T11 "Termcat"
+T28	Term-diccionario 954 964	residencia
+#32	AnnotatorNotes T28 "Termcat"
+#33	AnnotatorNotes T21 "Termcat"
+#34	AnnotatorNotes T22 "Termcat"
+T29	Term-diccionario 139 143	alta
+#35	AnnotatorNotes T29 "Termcat"
+#36	AnnotatorNotes T6 "Termcat"
+T30	Term-diccionario 986 999	especialistas
+#37	AnnotatorNotes T30 "Termcat"
+#38	AnnotatorNotes T4 "Termcat"
+#39	AnnotatorNotes T1 "Termcat"
+T31	Term-diccionario 973 982	formación
+#40	AnnotatorNotes T31 "Termcat"
+#41	AnnotatorNotes T12 "Termcat"
+T32	Term-diccionario 1320 1340	relaciones laborales
+#42	AnnotatorNotes T32 "Termcat"
+T33	Term-diccionario 12 53	Relaciones laborales de carácter especial
+#43	AnnotatorNotes T33 "Termcat"
+T34	Term-diccionario 74 115	relaciones laborales de carácter especial
+#44	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 525 535	desarrollo
+#45	AnnotatorNotes T35 "Termcat"
+T36	Term-diccionario 1355 1363	derechos
+#46	AnnotatorNotes T36 "Termcat"
+T37	Term-diccionario 450 458	personas
+#47	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 339 347	personas
+#48	AnnotatorNotes T38 "Termcat"
+T39	Term-diccionario 569 577	personas
+#49	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 495 505	auxiliares
+#50	AnnotatorNotes T40 "Termcat"
+#51	AnnotatorNotes T9 "Termcat"
+#52	AnnotatorNotes T8 "Termcat"
+#53	AnnotatorNotes T10 "Termcat"
+T41	Term-diccionario 139 153	alta dirección
+#54	AnnotatorNotes T41 "Termcat"
+T42	Term-diccionario 1110 1120	colectivos
+#55	AnnotatorNotes T42 "Termcat"
+#56	AnnotatorNotes T5 "Termcat"
+T43	Term-diccionario 625 631	cuenta
+#57	AnnotatorNotes T43 "Termcat"
+T44	Term-diccionario 1072 1081	despachos
+#58	AnnotatorNotes T44 "Termcat"
+T45	Term-diccionario 857 866	ejecución
+#59	AnnotatorNotes T45 "Termcat"
+T46	Term-diccionario 1095 1107	individuales
+#60	AnnotatorNotes T46 "Termcat"
+T47	Term-diccionario 834 841	menores
+#61	AnnotatorNotes T47 "Termcat"
+#62	AnnotatorNotes T2 "Termcat"
+T48	Term-diccionario 1184 1221	relación laboral de carácter especial
+#63	AnnotatorNotes T48 "Termcat"
+#64	AnnotatorNotes T23 "Termcat"
+#65	AnnotatorNotes T7 "Termcat"
+T49	Term-diccionario 1038 1046	abogados
+#66	AnnotatorNotes T49 "Termcat"
+T50	Term-diccionario 1085 1093	abogados
+#67	AnnotatorNotes T50 "Termcat"
+T51	Term-automatico 1184 1200	relación laboral
+#68	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 36 53	carácter especial
+#69	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 98 115	carácter especial
+#70	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 1204 1221	carácter especial
+#71	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 525 535	desarrollo
+#72	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 799 805	empleo
+#73	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 1038 1046	abogados
+#74	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 1085 1093	abogados
+#75	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 144 153	dirección
+#76	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 472 492	actividades técnicas
+#77	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 393 408	artes escénicas
+#78	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 671 677	riesgo
+#79	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 1018 1023	Salud
+#80	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 1184 1192	relación
+#81	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 870 877	medidas
+#82	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 36 44	carácter
+#83	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 98 106	carácter
+#84	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 1204 1212	carácter
+#85	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 903 915	cumplimiento
+#86	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 437 440	así
+#87	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 973 982	formación
+#88	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 0 8	Artículo
+#89	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 172 180	artículo
+#90	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 1251 1260	supuestos
+#91	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 680 687	ventura
+#92	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 1299 1309	regulación
+#93	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 1277 1294	apartado anterior
+#94	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 339 347	personas
+#95	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 450 458	personas
+#96	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 569 577	personas
+#97	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 139 153	alta dirección
+#98	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 339 356	personas artistas
+#99	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 376 385	actividad
+#100	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 545 554	actividad
+#101	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 472 483	actividades
+#102	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 597 620	operaciones mercantiles
+#103	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 199 207	servicio
+#104	AnnotatorNotes T87 "AttentionRank"
+T88	Term-automatico 760 769	servicios
+#105	AnnotatorNotes T88 "AttentionRank"
+T89	Term-automatico 1059 1068	servicios
+#106	AnnotatorNotes T89 "AttentionRank"
+T90	Term-automatico 777 795	centros especiales
+#107	AnnotatorNotes T90 "AttentionRank"
+T91	Term-automatico 714 726	trabajadores
+#108	AnnotatorNotes T91 "AttentionRank"
+T92	Term-automatico 922 937	responsabilidad
+#109	AnnotatorNotes T92 "AttentionRank"
+T93	Term-automatico 1230 1233	ley
+#110	AnnotatorNotes T93 "AttentionRank"
+T94	Term-automatico 777 784	centros
+#111	AnnotatorNotes T94 "AttentionRank"
+T95	Term-automatico 1355 1371	derechos básicos
+#112	AnnotatorNotes T95 "AttentionRank"
+T96	Term-automatico 12 32	Relaciones laborales
+#113	AnnotatorNotes T96 "AttentionRank"
+T97	Term-automatico 74 94	relaciones laborales
+#114	AnnotatorNotes T97 "AttentionRank"
+T98	Term-automatico 1320 1340	relaciones laborales
+#115	AnnotatorNotes T98 "AttentionRank"
+T99	Term-automatico 1355 1363	derechos
+#116	AnnotatorNotes T99 "AttentionRank"
+T100	Term-automatico 1313 1340	dichas relaciones laborales
+#117	AnnotatorNotes T100 "AttentionRank"
+T101	Term-automatico 127 135	personal
+#118	AnnotatorNotes T101 "AttentionRank"
+T102	Term-automatico 1140 1147	trabajo
+#119	AnnotatorNotes T102 "AttentionRank"
+T103	Term-automatico 645 656	empresarios
+#120	AnnotatorNotes T103 "AttentionRank"
+T104	Term-automatico 1277 1285	apartado
+#121	AnnotatorNotes T104 "AttentionRank"
+T105	Term-diccionario 127 153	personal de alta dirección
+#122	AnnotatorNotes T105 "LabourLaw"
+T106	Term-diccionario 1184 1200	relación laboral
+#123	AnnotatorNotes T106 "LabourLaw"
+#124	AnnotatorNotes T41 "LabourLaw"
+#125	AnnotatorNotes T23 "LabourLaw"
+T107	Term-diccionario 212 226	hogar familiar
+#126	AnnotatorNotes T107 "LabourLaw"
+T108	Term-diccionario 1355 1371	derechos básicos
+#127	AnnotatorNotes T108 "LabourLaw"
+#128	AnnotatorNotes T4 "LabourLaw"
+#129	AnnotatorNotes T7 "LabourLaw"
+T109	Term-diccionario 870 876	medida
+#130	AnnotatorNotes T109 "LabourLaw"
+#131	AnnotatorNotes T14 "LabourLaw"
+T110	Term-diccionario 834 839	menor
+#132	AnnotatorNotes T110 "LabourLaw"
+#133	AnnotatorNotes T26 "LabourLaw"
+#134	AnnotatorNotes T6 "LabourLaw"
+T111	Term-diccionario 714 724	trabajador
+#135	AnnotatorNotes T111 "LabourLaw"
+#136	AnnotatorNotes T27 "LabourLaw"
+T112	Term-diccionario 680 687	ventura
+#137	AnnotatorNotes T112 "LabourLaw"
+#138	AnnotatorNotes T5 "LabourLaw"
+#139	AnnotatorNotes T11 "LabourLaw"
+#140	AnnotatorNotes T31 "LabourLaw"
+#141	AnnotatorNotes T28 "LabourLaw"
+T113	Term-diccionario 645 655	empresario
+#142	AnnotatorNotes T113 "LabourLaw"
+#143	AnnotatorNotes T18 "LabourLaw"
+T114	Term-diccionario 760 768	servicio
+#144	AnnotatorNotes T114 "LabourLaw"
+T115	Term-diccionario 1059 1067	servicio
+#145	AnnotatorNotes T115 "LabourLaw"
+T116	Term-diccionario 645 652	empresa
+#146	AnnotatorNotes T116 "LabourLaw"
+T117	Term-diccionario 1038 1045	abogado
+#147	AnnotatorNotes T117 "LabourLaw"
+T118	Term-diccionario 1085 1092	abogado
+#148	AnnotatorNotes T118 "LabourLaw"
+T119	Term-diccionario 1355 1362	derecho
+#149	AnnotatorNotes T119 "LabourLaw"
+T120	Term-diccionario 1110 1119	colectivo
+#150	AnnotatorNotes T120 "LabourLaw"
+T121	Term-diccionario 212 217	hogar
+#151	AnnotatorNotes T121 "LabourLaw"
+#152	AnnotatorNotes T12 "LabourLaw"
+#153	AnnotatorNotes T1 "LabourLaw"
+T122	Term-diccionario 127 134	persona
+#154	AnnotatorNotes T122 "LabourLaw"
+T123	Term-diccionario 339 346	persona
+#155	AnnotatorNotes T123 "LabourLaw"
+T124	Term-diccionario 450 457	persona
+#156	AnnotatorNotes T124 "LabourLaw"
+T125	Term-diccionario 569 576	persona
+#157	AnnotatorNotes T125 "LabourLaw"
+#158	AnnotatorNotes T21 "IATE"
+#159	AnnotatorNotes T22 "IATE"
+#160	AnnotatorNotes T14 "IATE"
+#161	AnnotatorNotes T7 "IATE"
+T126	Term-diccionario 645 656	empresarios
+#162	AnnotatorNotes T126 "IATE"
+#163	AnnotatorNotes T13 "IATE"
+T127	Term-diccionario 714 726	trabajadores
+#164	AnnotatorNotes T127 "IATE"
+#165	AnnotatorNotes T1 "IATE"
+#166	AnnotatorNotes T8 "IATE"
+#167	AnnotatorNotes T9 "IATE"
+#168	AnnotatorNotes T10 "IATE"
+T128	Term-diccionario 36 44	carácter
+#169	AnnotatorNotes T128 "IATE"
+T129	Term-diccionario 98 106	carácter
+#170	AnnotatorNotes T129 "IATE"
+T130	Term-diccionario 1204 1212	carácter
+#171	AnnotatorNotes T130 "IATE"
+#172	AnnotatorNotes T6 "IATE"
+#173	AnnotatorNotes T2 "IATE"
+#174	AnnotatorNotes T31 "IATE"

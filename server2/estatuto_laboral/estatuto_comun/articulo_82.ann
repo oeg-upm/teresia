@@ -1,180 +1,255 @@
-T1	Term-DPEJ 716 727	negociación
-T2	Term-DPEJ 471 488	centro de trabajo
-T3	Term-DPEJ 681 690	Seguridad
-T4	Term-DPEJ 72 79	trabajo
-T5	Term-DPEJ 481 488	trabajo
-T6	Term-DPEJ 671 678	Trabajo
-T7	Term-DPEJ 50 58	empresas
-T8	Term-DPEJ 397 405	empresas
-T9	Term-DPEJ 195 202	empresa
-T10	Term-DPEJ 560 567	empresa
-T11	Term-DPEJ 747 756	convenios
-T12	Term-DPEJ 845 854	convenios
-T13	Term-DPEJ 185 191	comité
-T14	Term-DPEJ 454 459	forma
-T15	Term-DPEJ 138 149	disposición
-T16	Term-DPEJ 254 265	actividades
-T17	Term-DPEJ 185 202	comité de empresa
-T18	Term-DPEJ 747 767	convenios colectivos
-T19	Term-DPEJ 699 705	TÍTULO
-T20	Term-DPEJ 716 737	negociación colectiva
-T21	Term-DPEJ 170 178	personal
-T22	Term-DPEJ 657 667	Inspección
-T23	Term-DPEJ 0 8	Artículo
-T24	Term-DPEJ 61 68	centros
-T25	Term-DPEJ 471 477	centro
-T26	Term-Termcat 617 626	autoridad
-T27	Term-Termcat 406 418	contratistas
-T28	Term-Termcat 747 756	convenios
-T29	Term-Termcat 845 854	convenios
-T30	Term-Termcat 643 650	informe
-T31	Term-Termcat 657 667	Inspección
-T32	Term-Termcat 716 737	negociación colectiva
-T33	Term-Termcat 804 811	Sección
-T34	Term-Termcat 421 436	subcontratistas
-T35	Term-Termcat 531 539	términos
-T36	Term-Termcat 454 459	forma
-T37	Term-Termcat 349 363	representación
-T38	Term-Termcat 699 705	TÍTULO
-T39	Term-Termcat 502 505	uso
-T40	Term-Termcat 0 8	Artículo
-T41	Term-Termcat 768 776	CAPÍTULO
-T42	Term-Termcat 617 634	autoridad laboral
-T43	Term-Termcat 471 488	centro de trabajo
-T44	Term-Termcat 185 202	comité de empresa
-T45	Term-Termcat 747 767	convenios colectivos
-T46	Term-Termcat 397 405	empresas
-T47	Term-Termcat 50 58	empresas
-T48	Term-Termcat 560 567	empresa
-T49	Term-Termcat 72 79	trabajo
-T50	Term-Termcat 657 678	Inspección de Trabajo
-T51	Term-Termcat 170 178	personal
-T52	Term-Termcat 681 697	Seguridad Social
-T53	Term-Termcat 23 41	tablón de anuncios
-T54	Term-Termcat 716 727	negociación
-T55	Term-Termcat 681 690	Seguridad
-T56	Term-Termcat 138 149	disposición
-T57	Term-Termcat 254 265	actividades
-T58	Term-Termcat 830 837	efectos
-T59	Term-Termcat 364 369	legal
-T60	Term-DV 291 295	baja
-T61	Term-DV 380 384	baja
-T62	Term-DV 97 101	cara
-T63	Term-DV 509 514	dicho
-T64	Term-DV 582 594	discrepancia
-T65	Term-DV 138 149	disposición
-T66	Term-DV 830 837	efectos
-T67	Term-DV 50 57	empresa
-T68	Term-DV 195 202	empresa
-T69	Term-DV 397 404	empresa
-T70	Term-DV 560 567	empresa
-T71	Term-DV 831 833	fe
-T72	Term-DV 454 459	forma
-T73	Term-DV 627 634	laboral
-T74	Term-DV 759 766	lectivo
-T75	Term-DV 159 165	legado
-T76	Term-DV 364 369	legal
-T77	Term-DV 716 727	negociación
-T78	Term-DV 34 40	nuncio
-T79	Term-DV 337 343	nuncio
-T80	Term-DV 170 177	persona
-T81	Term-DV 170 178	personal
-T82	Term-DV 573 580	posible
-T83	Term-DV 351 363	presentación
-T84	Term-DV 349 363	representación
-T85	Term-DV 288 298	trabajador
-T86	Term-DV 377 387	trabajador
-T87	Term-AttentionRank 206 220	local adecuado
-T88	Term-AttentionRank 617 626	autoridad
-T89	Term-AttentionRank 716 737	negociación colectiva
-T90	Term-AttentionRank 406 418	contratistas
-T91	Term-AttentionRank 138 149	disposición
-T92	Term-AttentionRank 397 418	empresas contratistas
-T93	Term-AttentionRank 397 418	empresas contratistas
-T94	Term-AttentionRank 421 436	subcontratistas
-T95	Term-AttentionRank 657 667	Inspección
-T96	Term-AttentionRank 502 505	uso
-T97	Term-AttentionRank 681 690	Seguridad
-T98	Term-AttentionRank 830 840	efectos de
-T99	Term-AttentionRank 302 305	así
-T100	Term-AttentionRank 185 191	comité
-T101	Term-AttentionRank 0 8	Artículo
-T102	Term-AttentionRank 804 811	Sección
-T103	Term-AttentionRank 636 650	previo informe
-T104	Term-AttentionRank 699 705	TÍTULO
-T105	Term-AttentionRank 617 634	autoridad laboral
-T106	Term-AttentionRank 747 756	convenios
-T107	Term-AttentionRank 845 854	convenios
-T108	Term-AttentionRank 573 595	posibles discrepancias
-T109	Term-AttentionRank 254 265	actividades
-T110	Term-AttentionRank 643 650	informe
-T111	Term-AttentionRank 157 166	delegados
-T112	Term-AttentionRank 747 767	convenios colectivos
-T113	Term-AttentionRank 747 767	convenios colectivos
-T114	Term-AttentionRank 509 523	dichos locales
-T115	Term-AttentionRank 716 727	negociación
-T116	Term-AttentionRank 288 300	trabajadores
-T117	Term-AttentionRank 377 389	trabajadores
-T118	Term-AttentionRank 349 369	representación legal
-T119	Term-AttentionRank 50 58	empresas
-T120	Term-AttentionRank 397 405	empresas
-T121	Term-AttentionRank 195 202	empresa
-T122	Term-AttentionRank 560 567	empresa
-T123	Term-AttentionRank 454 470	forma continuada
-T124	Term-AttentionRank 349 363	representación
-T125	Term-AttentionRank 454 459	forma
-T126	Term-AttentionRank 61 68	centros
-T127	Term-AttentionRank 471 477	centro
-T128	Term-AttentionRank 23 29	tablón
-T129	Term-AttentionRank 681 697	Seguridad Social
-T130	Term-AttentionRank 830 837	efectos
-T131	Term-AttentionRank 157 178	delegados de personal
-T132	Term-AttentionRank 170 178	personal
-T133	Term-AttentionRank 72 79	trabajo
-T134	Term-AttentionRank 481 488	trabajo
-T135	Term-AttentionRank 671 678	Trabajo
-T136	Term-LabourLaw 157 178	delegados de personal
-T137	Term-LabourLaw 185 202	comité de empresa
-T138	Term-LabourLaw 471 488	centro de trabajo
-T139	Term-LabourLaw 23 41	tablón de anuncios
-T140	Term-LabourLaw 349 369	representación legal
-T141	Term-LabourLaw 617 634	autoridad laboral
-T142	Term-LabourLaw 716 737	negociación colectiva
-T143	Term-LabourLaw 72 79	trabajo
-T144	Term-LabourLaw 481 488	trabajo
-T145	Term-LabourLaw 288 298	trabajador
-T146	Term-LabourLaw 377 387	trabajador
-T147	Term-LabourLaw 617 626	autoridad
-T148	Term-LabourLaw 157 165	delegado
-T149	Term-LabourLaw 50 57	empresa
-T150	Term-LabourLaw 195 202	empresa
-T151	Term-LabourLaw 397 404	empresa
-T152	Term-LabourLaw 560 567	empresa
-T153	Term-LabourLaw 185 191	comité
-T154	Term-LabourLaw 531 538	término
-T155	Term-LabourLaw 757 766	colectivo
-T156	Term-LabourLaw 170 178	personal
-T157	Term-LabourLaw 170 177	persona
-T158	Term-LabourLaw 406 417	contratista
-T159	Term-LabourLaw 424 435	contratista
-T160	Term-LabourLaw 138 149	disposición
-T161	Term-IATE 699 705	TÍTULO
-T162	Term-IATE 0 8	Artículo
-T163	Term-IATE 50 58	empresas
-T164	Term-IATE 397 405	empresas
-T165	Term-IATE 195 202	empresa
-T166	Term-IATE 560 567	empresa
-T167	Term-IATE 643 650	informe
-T168	Term-IATE 157 166	delegados
-T169	Term-IATE 406 418	contratistas
-T170	Term-IATE 288 300	trabajadores
-T171	Term-IATE 377 389	trabajadores
-T172	Term-IATE 804 811	Sección
-T173	Term-IATE 681 690	Seguridad
-T174	Term-IATE 254 265	actividades
-T175	Term-IATE 185 191	comité
-T176	Term-IATE 830 837	efectos
-T177	Term-IATE 716 727	negociación
-T178	Term-IATE 747 756	convenios
-T179	Term-IATE 845 854	convenios
-T180	Term-IATE 657 667	Inspección
+T1	Term-diccionario 716 727	negociación
+#1	AnnotatorNotes T1 "DPEJ"
+T2	Term-diccionario 471 488	centro de trabajo
+#2	AnnotatorNotes T2 "DPEJ"
+T3	Term-diccionario 681 690	Seguridad
+#3	AnnotatorNotes T3 "DPEJ"
+T4	Term-diccionario 72 79	trabajo
+#4	AnnotatorNotes T4 "DPEJ"
+T5	Term-diccionario 481 488	trabajo
+#5	AnnotatorNotes T5 "DPEJ"
+T6	Term-diccionario 671 678	Trabajo
+#6	AnnotatorNotes T6 "DPEJ"
+T7	Term-diccionario 50 58	empresas
+#7	AnnotatorNotes T7 "DPEJ"
+T8	Term-diccionario 397 405	empresas
+#8	AnnotatorNotes T8 "DPEJ"
+T9	Term-diccionario 195 202	empresa
+#9	AnnotatorNotes T9 "DPEJ"
+T10	Term-diccionario 560 567	empresa
+#10	AnnotatorNotes T10 "DPEJ"
+T11	Term-diccionario 747 756	convenios
+#11	AnnotatorNotes T11 "DPEJ"
+T12	Term-diccionario 845 854	convenios
+#12	AnnotatorNotes T12 "DPEJ"
+T13	Term-diccionario 185 191	comité
+#13	AnnotatorNotes T13 "DPEJ"
+T14	Term-diccionario 454 459	forma
+#14	AnnotatorNotes T14 "DPEJ"
+T15	Term-diccionario 138 149	disposición
+#15	AnnotatorNotes T15 "DPEJ"
+T16	Term-diccionario 254 265	actividades
+#16	AnnotatorNotes T16 "DPEJ"
+T17	Term-diccionario 185 202	comité de empresa
+#17	AnnotatorNotes T17 "DPEJ"
+T18	Term-diccionario 747 767	convenios colectivos
+#18	AnnotatorNotes T18 "DPEJ"
+T19	Term-diccionario 699 705	TÍTULO
+#19	AnnotatorNotes T19 "DPEJ"
+T20	Term-diccionario 716 737	negociación colectiva
+#20	AnnotatorNotes T20 "DPEJ"
+T21	Term-diccionario 170 178	personal
+#21	AnnotatorNotes T21 "DPEJ"
+T22	Term-diccionario 657 667	Inspección
+#22	AnnotatorNotes T22 "DPEJ"
+T23	Term-diccionario 0 8	Artículo
+#23	AnnotatorNotes T23 "DPEJ"
+T24	Term-diccionario 61 68	centros
+#24	AnnotatorNotes T24 "DPEJ"
+T25	Term-diccionario 471 477	centro
+#25	AnnotatorNotes T25 "DPEJ"
+T26	Term-diccionario 617 626	autoridad
+#26	AnnotatorNotes T26 "Termcat"
+T27	Term-diccionario 406 418	contratistas
+#27	AnnotatorNotes T27 "Termcat"
+#28	AnnotatorNotes T11 "Termcat"
+#29	AnnotatorNotes T12 "Termcat"
+T28	Term-diccionario 643 650	informe
+#30	AnnotatorNotes T28 "Termcat"
+#31	AnnotatorNotes T22 "Termcat"
+#32	AnnotatorNotes T20 "Termcat"
+T29	Term-diccionario 804 811	Sección
+#33	AnnotatorNotes T29 "Termcat"
+T30	Term-diccionario 421 436	subcontratistas
+#34	AnnotatorNotes T30 "Termcat"
+T31	Term-diccionario 531 539	términos
+#35	AnnotatorNotes T31 "Termcat"
+#36	AnnotatorNotes T14 "Termcat"
+T32	Term-diccionario 349 363	representación
+#37	AnnotatorNotes T32 "Termcat"
+#38	AnnotatorNotes T19 "Termcat"
+T33	Term-diccionario 502 505	uso
+#39	AnnotatorNotes T33 "Termcat"
+#40	AnnotatorNotes T23 "Termcat"
+T34	Term-diccionario 768 776	CAPÍTULO
+#41	AnnotatorNotes T34 "Termcat"
+T35	Term-diccionario 617 634	autoridad laboral
+#42	AnnotatorNotes T35 "Termcat"
+#43	AnnotatorNotes T2 "Termcat"
+#44	AnnotatorNotes T17 "Termcat"
+#45	AnnotatorNotes T18 "Termcat"
+#46	AnnotatorNotes T8 "Termcat"
+#47	AnnotatorNotes T7 "Termcat"
+#48	AnnotatorNotes T10 "Termcat"
+#49	AnnotatorNotes T4 "Termcat"
+T36	Term-diccionario 657 678	Inspección de Trabajo
+#50	AnnotatorNotes T36 "Termcat"
+#51	AnnotatorNotes T21 "Termcat"
+T37	Term-diccionario 681 697	Seguridad Social
+#52	AnnotatorNotes T37 "Termcat"
+T38	Term-diccionario 23 41	tablón de anuncios
+#53	AnnotatorNotes T38 "Termcat"
+#54	AnnotatorNotes T1 "Termcat"
+#55	AnnotatorNotes T3 "Termcat"
+#56	AnnotatorNotes T15 "Termcat"
+#57	AnnotatorNotes T16 "Termcat"
+T39	Term-diccionario 830 837	efectos
+#58	AnnotatorNotes T39 "Termcat"
+T40	Term-diccionario 364 369	legal
+#59	AnnotatorNotes T40 "Termcat"
+T41	Term-automatico 206 220	local adecuado
+#60	AnnotatorNotes T41 "AttentionRank"
+T42	Term-automatico 617 626	autoridad
+#61	AnnotatorNotes T42 "AttentionRank"
+T43	Term-automatico 716 737	negociación colectiva
+#62	AnnotatorNotes T43 "AttentionRank"
+T44	Term-automatico 406 418	contratistas
+#63	AnnotatorNotes T44 "AttentionRank"
+T45	Term-automatico 138 149	disposición
+#64	AnnotatorNotes T45 "AttentionRank"
+T46	Term-automatico 397 418	empresas contratistas
+#65	AnnotatorNotes T46 "AttentionRank"
+#66	AnnotatorNotes T46 "AttentionRank"
+T47	Term-automatico 421 436	subcontratistas
+#67	AnnotatorNotes T47 "AttentionRank"
+T48	Term-automatico 657 667	Inspección
+#68	AnnotatorNotes T48 "AttentionRank"
+T49	Term-automatico 502 505	uso
+#69	AnnotatorNotes T49 "AttentionRank"
+T50	Term-automatico 681 690	Seguridad
+#70	AnnotatorNotes T50 "AttentionRank"
+T51	Term-automatico 830 840	efectos de
+#71	AnnotatorNotes T51 "AttentionRank"
+T52	Term-automatico 302 305	así
+#72	AnnotatorNotes T52 "AttentionRank"
+T53	Term-automatico 185 191	comité
+#73	AnnotatorNotes T53 "AttentionRank"
+T54	Term-automatico 0 8	Artículo
+#74	AnnotatorNotes T54 "AttentionRank"
+T55	Term-automatico 804 811	Sección
+#75	AnnotatorNotes T55 "AttentionRank"
+T56	Term-automatico 636 650	previo informe
+#76	AnnotatorNotes T56 "AttentionRank"
+T57	Term-automatico 699 705	TÍTULO
+#77	AnnotatorNotes T57 "AttentionRank"
+T58	Term-automatico 617 634	autoridad laboral
+#78	AnnotatorNotes T58 "AttentionRank"
+T59	Term-automatico 747 756	convenios
+#79	AnnotatorNotes T59 "AttentionRank"
+T60	Term-automatico 845 854	convenios
+#80	AnnotatorNotes T60 "AttentionRank"
+T61	Term-automatico 573 595	posibles discrepancias
+#81	AnnotatorNotes T61 "AttentionRank"
+T62	Term-automatico 254 265	actividades
+#82	AnnotatorNotes T62 "AttentionRank"
+T63	Term-automatico 643 650	informe
+#83	AnnotatorNotes T63 "AttentionRank"
+T64	Term-automatico 157 166	delegados
+#84	AnnotatorNotes T64 "AttentionRank"
+T65	Term-automatico 747 767	convenios colectivos
+#85	AnnotatorNotes T65 "AttentionRank"
+#86	AnnotatorNotes T65 "AttentionRank"
+T66	Term-automatico 509 523	dichos locales
+#87	AnnotatorNotes T66 "AttentionRank"
+T67	Term-automatico 716 727	negociación
+#88	AnnotatorNotes T67 "AttentionRank"
+T68	Term-automatico 288 300	trabajadores
+#89	AnnotatorNotes T68 "AttentionRank"
+T69	Term-automatico 377 389	trabajadores
+#90	AnnotatorNotes T69 "AttentionRank"
+T70	Term-automatico 349 369	representación legal
+#91	AnnotatorNotes T70 "AttentionRank"
+T71	Term-automatico 50 58	empresas
+#92	AnnotatorNotes T71 "AttentionRank"
+T72	Term-automatico 397 405	empresas
+#93	AnnotatorNotes T72 "AttentionRank"
+T73	Term-automatico 195 202	empresa
+#94	AnnotatorNotes T73 "AttentionRank"
+T74	Term-automatico 560 567	empresa
+#95	AnnotatorNotes T74 "AttentionRank"
+T75	Term-automatico 454 470	forma continuada
+#96	AnnotatorNotes T75 "AttentionRank"
+T76	Term-automatico 349 363	representación
+#97	AnnotatorNotes T76 "AttentionRank"
+T77	Term-automatico 454 459	forma
+#98	AnnotatorNotes T77 "AttentionRank"
+T78	Term-automatico 61 68	centros
+#99	AnnotatorNotes T78 "AttentionRank"
+T79	Term-automatico 471 477	centro
+#100	AnnotatorNotes T79 "AttentionRank"
+T80	Term-automatico 23 29	tablón
+#101	AnnotatorNotes T80 "AttentionRank"
+T81	Term-automatico 681 697	Seguridad Social
+#102	AnnotatorNotes T81 "AttentionRank"
+T82	Term-automatico 830 837	efectos
+#103	AnnotatorNotes T82 "AttentionRank"
+T83	Term-automatico 157 178	delegados de personal
+#104	AnnotatorNotes T83 "AttentionRank"
+T84	Term-automatico 170 178	personal
+#105	AnnotatorNotes T84 "AttentionRank"
+T85	Term-automatico 72 79	trabajo
+#106	AnnotatorNotes T85 "AttentionRank"
+T86	Term-automatico 481 488	trabajo
+#107	AnnotatorNotes T86 "AttentionRank"
+T87	Term-automatico 671 678	Trabajo
+#108	AnnotatorNotes T87 "AttentionRank"
+T88	Term-diccionario 157 178	delegados de personal
+#109	AnnotatorNotes T88 "LabourLaw"
+#110	AnnotatorNotes T17 "LabourLaw"
+#111	AnnotatorNotes T2 "LabourLaw"
+#112	AnnotatorNotes T38 "LabourLaw"
+T89	Term-diccionario 349 369	representación legal
+#113	AnnotatorNotes T89 "LabourLaw"
+#114	AnnotatorNotes T35 "LabourLaw"
+#115	AnnotatorNotes T20 "LabourLaw"
+#116	AnnotatorNotes T4 "LabourLaw"
+#117	AnnotatorNotes T5 "LabourLaw"
+T90	Term-diccionario 288 298	trabajador
+#118	AnnotatorNotes T90 "LabourLaw"
+T91	Term-diccionario 377 387	trabajador
+#119	AnnotatorNotes T91 "LabourLaw"
+#120	AnnotatorNotes T26 "LabourLaw"
+T92	Term-diccionario 157 165	delegado
+#121	AnnotatorNotes T92 "LabourLaw"
+T93	Term-diccionario 50 57	empresa
+#122	AnnotatorNotes T93 "LabourLaw"
+#123	AnnotatorNotes T9 "LabourLaw"
+T94	Term-diccionario 397 404	empresa
+#124	AnnotatorNotes T94 "LabourLaw"
+#125	AnnotatorNotes T10 "LabourLaw"
+#126	AnnotatorNotes T13 "LabourLaw"
+T95	Term-diccionario 531 538	término
+#127	AnnotatorNotes T95 "LabourLaw"
+T96	Term-diccionario 757 766	colectivo
+#128	AnnotatorNotes T96 "LabourLaw"
+#129	AnnotatorNotes T21 "LabourLaw"
+T97	Term-diccionario 170 177	persona
+#130	AnnotatorNotes T97 "LabourLaw"
+T98	Term-diccionario 406 417	contratista
+#131	AnnotatorNotes T98 "LabourLaw"
+T99	Term-diccionario 424 435	contratista
+#132	AnnotatorNotes T99 "LabourLaw"
+#133	AnnotatorNotes T15 "LabourLaw"
+#134	AnnotatorNotes T19 "IATE"
+#135	AnnotatorNotes T23 "IATE"
+#136	AnnotatorNotes T7 "IATE"
+#137	AnnotatorNotes T8 "IATE"
+#138	AnnotatorNotes T9 "IATE"
+#139	AnnotatorNotes T10 "IATE"
+#140	AnnotatorNotes T28 "IATE"
+T100	Term-diccionario 157 166	delegados
+#141	AnnotatorNotes T100 "IATE"
+#142	AnnotatorNotes T27 "IATE"
+T101	Term-diccionario 288 300	trabajadores
+#143	AnnotatorNotes T101 "IATE"
+T102	Term-diccionario 377 389	trabajadores
+#144	AnnotatorNotes T102 "IATE"
+#145	AnnotatorNotes T29 "IATE"
+#146	AnnotatorNotes T3 "IATE"
+#147	AnnotatorNotes T16 "IATE"
+#148	AnnotatorNotes T13 "IATE"
+#149	AnnotatorNotes T39 "IATE"
+#150	AnnotatorNotes T1 "IATE"
+#151	AnnotatorNotes T11 "IATE"
+#152	AnnotatorNotes T12 "IATE"
+#153	AnnotatorNotes T22 "IATE"
