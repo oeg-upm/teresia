@@ -1,235 +1,235 @@
 T1	Term-diccionario 808 816	salarial
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 608 612	caso
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 773 777	caso
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 402 408	órgano
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 870 881	retribución
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 87 94	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
+#6	AnnotatorNotes T6	"DPEJ"
 T7	Term-diccionario 683 690	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
+#7	AnnotatorNotes T7	"DPEJ"
 T8	Term-diccionario 901 908	trabajo
-#8	AnnotatorNotes T8 "DPEJ"
+#8	AnnotatorNotes T8	"DPEJ"
 T9	Term-diccionario 974 981	trabajo
-#9	AnnotatorNotes T9 "DPEJ"
+#9	AnnotatorNotes T9	"DPEJ"
 T10	Term-diccionario 24 32	contrato
-#10	AnnotatorNotes T10 "DPEJ"
+#10	AnnotatorNotes T10	"DPEJ"
 T11	Term-diccionario 75 83	contrato
-#11	AnnotatorNotes T11 "DPEJ"
+#11	AnnotatorNotes T11	"DPEJ"
 T12	Term-diccionario 389 397	contrato
-#12	AnnotatorNotes T12 "DPEJ"
+#12	AnnotatorNotes T12	"DPEJ"
 T13	Term-diccionario 623 631	contrato
-#13	AnnotatorNotes T13 "DPEJ"
+#13	AnnotatorNotes T13	"DPEJ"
 T14	Term-diccionario 750 758	contrato
-#14	AnnotatorNotes T14 "DPEJ"
+#14	AnnotatorNotes T14	"DPEJ"
 T15	Term-diccionario 962 970	contrato
-#15	AnnotatorNotes T15 "DPEJ"
+#15	AnnotatorNotes T15	"DPEJ"
 T16	Term-diccionario 441 450	instancia
-#16	AnnotatorNotes T16 "DPEJ"
+#16	AnnotatorNotes T16	"DPEJ"
 T17	Term-diccionario 793 807	discriminación
-#17	AnnotatorNotes T17 "DPEJ"
+#17	AnnotatorNotes T17	"DPEJ"
 T18	Term-diccionario 0 8	Artículo
-#18	AnnotatorNotes T18 "DPEJ"
+#18	AnnotatorNotes T18	"DPEJ"
 T19	Term-diccionario 230 238	artículo
-#19	AnnotatorNotes T19 "DPEJ"
+#19	AnnotatorNotes T19	"DPEJ"
 T20	Term-diccionario 471 478	nulidad
-#20	AnnotatorNotes T20 "DPEJ"
+#20	AnnotatorNotes T20	"DPEJ"
 T21	Term-diccionario 781 788	nulidad
-#21	AnnotatorNotes T21 "DPEJ"
+#21	AnnotatorNotes T21	"DPEJ"
 T22	Term-diccionario 12 19	Validez
-#22	AnnotatorNotes T22 "DPEJ"
-#23	AnnotatorNotes T16 "Termcat"
-#24	AnnotatorNotes T5 "Termcat"
+#22	AnnotatorNotes T22	"DPEJ"
+#23	AnnotatorNotes T16	"Termcat"
+#24	AnnotatorNotes T5	"Termcat"
 T23	Term-diccionario 933 940	Sección
-#25	AnnotatorNotes T23 "Termcat"
-#26	AnnotatorNotes T13 "Termcat"
-#27	AnnotatorNotes T11 "Termcat"
-#28	AnnotatorNotes T14 "Termcat"
-#29	AnnotatorNotes T10 "Termcat"
-#30	AnnotatorNotes T15 "Termcat"
-#31	AnnotatorNotes T12 "Termcat"
-#32	AnnotatorNotes T20 "Termcat"
-#33	AnnotatorNotes T21 "Termcat"
-#34	AnnotatorNotes T18 "Termcat"
-#35	AnnotatorNotes T19 "Termcat"
+#25	AnnotatorNotes T23	"Termcat"
+#26	AnnotatorNotes T13	"Termcat"
+#27	AnnotatorNotes T11	"Termcat"
+#28	AnnotatorNotes T14	"Termcat"
+#29	AnnotatorNotes T10	"Termcat"
+#30	AnnotatorNotes T15	"Termcat"
+#31	AnnotatorNotes T12	"Termcat"
+#32	AnnotatorNotes T20	"Termcat"
+#33	AnnotatorNotes T21	"Termcat"
+#34	AnnotatorNotes T18	"Termcat"
+#35	AnnotatorNotes T19	"Termcat"
 T24	Term-diccionario 65 70	parte
-#36	AnnotatorNotes T24 "Termcat"
+#36	AnnotatorNotes T24	"Termcat"
 T25	Term-diccionario 369 374	parte
-#37	AnnotatorNotes T25 "Termcat"
+#37	AnnotatorNotes T25	"Termcat"
 T26	Term-diccionario 454 459	parte
-#38	AnnotatorNotes T26 "Termcat"
+#38	AnnotatorNotes T26	"Termcat"
 T27	Term-diccionario 557 562	parte
-#39	AnnotatorNotes T27 "Termcat"
+#39	AnnotatorNotes T27	"Termcat"
 T28	Term-diccionario 75 94	contrato de trabajo
-#40	AnnotatorNotes T28 "Termcat"
+#40	AnnotatorNotes T28	"Termcat"
 T29	Term-diccionario 962 981	contrato de trabajo
-#41	AnnotatorNotes T29 "Termcat"
+#41	AnnotatorNotes T29	"Termcat"
 T30	Term-diccionario 793 816	discriminación salarial
-#42	AnnotatorNotes T30 "Termcat"
-#43	AnnotatorNotes T7 "Termcat"
-#44	AnnotatorNotes T8 "Termcat"
+#42	AnnotatorNotes T30	"Termcat"
+#43	AnnotatorNotes T7	"Termcat"
+#44	AnnotatorNotes T8	"Termcat"
 T31	Term-diccionario 719 731	remuneración
-#45	AnnotatorNotes T31 "Termcat"
-#46	AnnotatorNotes T17 "Termcat"
+#45	AnnotatorNotes T31	"Termcat"
+#46	AnnotatorNotes T17	"Termcat"
 T32	Term-diccionario 857 864	derecho
-#47	AnnotatorNotes T32 "Termcat"
+#47	AnnotatorNotes T32	"Termcat"
 T33	Term-diccionario 415 427	jurisdicción
-#48	AnnotatorNotes T33 "Termcat"
+#48	AnnotatorNotes T33	"Termcat"
 T34	Term-diccionario 200 208	conforme
-#49	AnnotatorNotes T34 "Termcat"
+#49	AnnotatorNotes T34	"Termcat"
 T35	Term-diccionario 415 434	jurisdicción social
-#50	AnnotatorNotes T35 "Termcat"
-#51	AnnotatorNotes T4 "Termcat"
+#50	AnnotatorNotes T35	"Termcat"
+#51	AnnotatorNotes T4	"Termcat"
 T36	Term-diccionario 494 509	pronunciamiento
-#52	AnnotatorNotes T36 "Termcat"
+#52	AnnotatorNotes T36	"Termcat"
 T37	Term-diccionario 821 826	razón
-#53	AnnotatorNotes T37 "Termcat"
-#54	AnnotatorNotes T22 "Termcat"
+#53	AnnotatorNotes T37	"Termcat"
+#54	AnnotatorNotes T22	"Termcat"
 T38	Term-diccionario 439 459	a instancia de parte
-#55	AnnotatorNotes T38 "Termcat"
+#55	AnnotatorNotes T38	"Termcat"
 T39	Term-automatico 821 826	razón
-#56	AnnotatorNotes T39 "AttentionRank"
+#56	AnnotatorNotes T39	"AttentionRank"
 T40	Term-automatico 65 70	parte
-#57	AnnotatorNotes T40 "AttentionRank"
+#57	AnnotatorNotes T40	"AttentionRank"
 T41	Term-automatico 369 374	parte
-#58	AnnotatorNotes T41 "AttentionRank"
+#58	AnnotatorNotes T41	"AttentionRank"
 T42	Term-automatico 454 459	parte
-#59	AnnotatorNotes T42 "AttentionRank"
+#59	AnnotatorNotes T42	"AttentionRank"
 T43	Term-automatico 557 562	parte
-#60	AnnotatorNotes T43 "AttentionRank"
+#60	AnnotatorNotes T43	"AttentionRank"
 T44	Term-automatico 920 931	igual valor
-#61	AnnotatorNotes T44 "AttentionRank"
+#61	AnnotatorNotes T44	"AttentionRank"
 T45	Term-automatico 830 834	sexo
-#62	AnnotatorNotes T45 "AttentionRank"
+#62	AnnotatorNotes T45	"AttentionRank"
 T46	Term-automatico 170 189	preceptos jurídicos
-#63	AnnotatorNotes T46 "AttentionRank"
+#63	AnnotatorNotes T46	"AttentionRank"
 T47	Term-automatico 415 434	jurisdicción social
-#64	AnnotatorNotes T47 "AttentionRank"
+#64	AnnotatorNotes T47	"AttentionRank"
 T48	Term-automatico 321 327	virtud
-#65	AnnotatorNotes T48 "AttentionRank"
+#65	AnnotatorNotes T48	"AttentionRank"
 T49	Term-automatico 793 816	discriminación salarial
-#66	AnnotatorNotes T49 "AttentionRank"
+#66	AnnotatorNotes T49	"AttentionRank"
 T50	Term-automatico 0 8	Artículo
-#67	AnnotatorNotes T50 "AttentionRank"
+#67	AnnotatorNotes T50	"AttentionRank"
 T51	Term-automatico 230 238	artículo
-#68	AnnotatorNotes T51 "AttentionRank"
+#68	AnnotatorNotes T51	"AttentionRank"
 T52	Term-automatico 933 940	Sección
-#69	AnnotatorNotes T52 "AttentionRank"
+#69	AnnotatorNotes T52	"AttentionRank"
 T53	Term-automatico 808 816	salarial
-#70	AnnotatorNotes T53 "AttentionRank"
+#70	AnnotatorNotes T53	"AttentionRank"
 T54	Term-automatico 793 807	discriminación
-#71	AnnotatorNotes T54 "AttentionRank"
+#71	AnnotatorNotes T54	"AttentionRank"
 T55	Term-automatico 870 914	retribución correspondiente al trabajo igual
-#72	AnnotatorNotes T55 "AttentionRank"
+#72	AnnotatorNotes T55	"AttentionRank"
 T56	Term-automatico 946 957	Modalidades
-#73	AnnotatorNotes T56 "AttentionRank"
+#73	AnnotatorNotes T56	"AttentionRank"
 T57	Term-automatico 250 260	trabajador
-#74	AnnotatorNotes T57 "AttentionRank"
+#74	AnnotatorNotes T57	"AttentionRank"
 T58	Term-automatico 651 661	trabajador
-#75	AnnotatorNotes T58 "AttentionRank"
+#75	AnnotatorNotes T58	"AttentionRank"
 T59	Term-automatico 839 849	trabajador
-#76	AnnotatorNotes T59 "AttentionRank"
+#76	AnnotatorNotes T59	"AttentionRank"
 T60	Term-automatico 402 408	órgano
-#77	AnnotatorNotes T60 "AttentionRank"
+#77	AnnotatorNotes T60	"AttentionRank"
 T61	Term-automatico 321 397	virtud de contraprestaciones establecidas en la parte no válida del contrato
-#78	AnnotatorNotes T61 "AttentionRank"
+#78	AnnotatorNotes T61	"AttentionRank"
 T62	Term-automatico 471 478	nulidad
-#79	AnnotatorNotes T62 "AttentionRank"
+#79	AnnotatorNotes T62	"AttentionRank"
 T63	Term-automatico 781 788	nulidad
-#80	AnnotatorNotes T63 "AttentionRank"
+#80	AnnotatorNotes T63	"AttentionRank"
 T64	Term-automatico 857 864	derecho
-#81	AnnotatorNotes T64 "AttentionRank"
+#81	AnnotatorNotes T64	"AttentionRank"
 T65	Term-automatico 12 19	Validez
-#82	AnnotatorNotes T65 "AttentionRank"
+#82	AnnotatorNotes T65	"AttentionRank"
 T66	Term-automatico 24 32	contrato
-#83	AnnotatorNotes T66 "AttentionRank"
+#83	AnnotatorNotes T66	"AttentionRank"
 T67	Term-automatico 75 83	contrato
-#84	AnnotatorNotes T67 "AttentionRank"
+#84	AnnotatorNotes T67	"AttentionRank"
 T68	Term-automatico 389 397	contrato
-#85	AnnotatorNotes T68 "AttentionRank"
+#85	AnnotatorNotes T68	"AttentionRank"
 T69	Term-automatico 623 631	contrato
-#86	AnnotatorNotes T69 "AttentionRank"
+#86	AnnotatorNotes T69	"AttentionRank"
 T70	Term-automatico 750 758	contrato
-#87	AnnotatorNotes T70 "AttentionRank"
+#87	AnnotatorNotes T70	"AttentionRank"
 T71	Term-automatico 962 970	contrato
-#88	AnnotatorNotes T71 "AttentionRank"
+#88	AnnotatorNotes T71	"AttentionRank"
 T72	Term-automatico 441 450	instancia
-#89	AnnotatorNotes T72 "AttentionRank"
+#89	AnnotatorNotes T72	"AttentionRank"
 T73	Term-automatico 87 94	trabajo
-#90	AnnotatorNotes T73 "AttentionRank"
+#90	AnnotatorNotes T73	"AttentionRank"
 T74	Term-automatico 683 690	trabajo
-#91	AnnotatorNotes T74 "AttentionRank"
+#91	AnnotatorNotes T74	"AttentionRank"
 T75	Term-automatico 901 908	trabajo
-#92	AnnotatorNotes T75 "AttentionRank"
+#92	AnnotatorNotes T75	"AttentionRank"
 T76	Term-automatico 974 981	trabajo
-#93	AnnotatorNotes T76 "AttentionRank"
+#93	AnnotatorNotes T76	"AttentionRank"
 T77	Term-automatico 870 881	retribución
-#94	AnnotatorNotes T77 "AttentionRank"
+#94	AnnotatorNotes T77	"AttentionRank"
 T78	Term-automatico 608 612	caso
-#95	AnnotatorNotes T78 "AttentionRank"
+#95	AnnotatorNotes T78	"AttentionRank"
 T79	Term-automatico 773 777	caso
-#96	AnnotatorNotes T79 "AttentionRank"
-#97	AnnotatorNotes T28 "LabourLaw"
-#98	AnnotatorNotes T29 "LabourLaw"
-#99	AnnotatorNotes T35 "LabourLaw"
+#96	AnnotatorNotes T79	"AttentionRank"
+#97	AnnotatorNotes T28	"LabourLaw"
+#98	AnnotatorNotes T29	"LabourLaw"
+#99	AnnotatorNotes T35	"LabourLaw"
 T80	Term-diccionario 113 119	válido
-#100	AnnotatorNotes T80 "LabourLaw"
+#100	AnnotatorNotes T80	"LabourLaw"
 T81	Term-diccionario 759 765	válido
-#101	AnnotatorNotes T81 "LabourLaw"
-#102	AnnotatorNotes T33 "LabourLaw"
-#103	AnnotatorNotes T6 "LabourLaw"
-#104	AnnotatorNotes T7 "LabourLaw"
-#105	AnnotatorNotes T8 "LabourLaw"
-#106	AnnotatorNotes T9 "LabourLaw"
-#107	AnnotatorNotes T10 "LabourLaw"
-#108	AnnotatorNotes T11 "LabourLaw"
-#109	AnnotatorNotes T12 "LabourLaw"
-#110	AnnotatorNotes T13 "LabourLaw"
-#111	AnnotatorNotes T14 "LabourLaw"
-#112	AnnotatorNotes T15 "LabourLaw"
-#113	AnnotatorNotes T36 "LabourLaw"
+#101	AnnotatorNotes T81	"LabourLaw"
+#102	AnnotatorNotes T33	"LabourLaw"
+#103	AnnotatorNotes T6	"LabourLaw"
+#104	AnnotatorNotes T7	"LabourLaw"
+#105	AnnotatorNotes T8	"LabourLaw"
+#106	AnnotatorNotes T9	"LabourLaw"
+#107	AnnotatorNotes T10	"LabourLaw"
+#108	AnnotatorNotes T11	"LabourLaw"
+#109	AnnotatorNotes T12	"LabourLaw"
+#110	AnnotatorNotes T13	"LabourLaw"
+#111	AnnotatorNotes T14	"LabourLaw"
+#112	AnnotatorNotes T15	"LabourLaw"
+#113	AnnotatorNotes T36	"LabourLaw"
 T82	Term-diccionario 250 260	trabajador
-#114	AnnotatorNotes T82 "LabourLaw"
+#114	AnnotatorNotes T82	"LabourLaw"
 T83	Term-diccionario 651 661	trabajador
-#115	AnnotatorNotes T83 "LabourLaw"
+#115	AnnotatorNotes T83	"LabourLaw"
 T84	Term-diccionario 839 849	trabajador
-#116	AnnotatorNotes T84 "LabourLaw"
+#116	AnnotatorNotes T84	"LabourLaw"
 T85	Term-diccionario 170 178	precepto
-#117	AnnotatorNotes T85 "LabourLaw"
-#118	AnnotatorNotes T17 "LabourLaw"
-#119	AnnotatorNotes T31 "LabourLaw"
+#117	AnnotatorNotes T85	"LabourLaw"
+#118	AnnotatorNotes T17	"LabourLaw"
+#119	AnnotatorNotes T31	"LabourLaw"
 T86	Term-diccionario 534 543	supresión
-#120	AnnotatorNotes T86 "LabourLaw"
-#121	AnnotatorNotes T4 "LabourLaw"
-#122	AnnotatorNotes T32 "LabourLaw"
+#120	AnnotatorNotes T86	"LabourLaw"
+#121	AnnotatorNotes T4	"LabourLaw"
+#122	AnnotatorNotes T32	"LabourLaw"
 T87	Term-diccionario 519 531	subsistencia
-#123	AnnotatorNotes T87 "LabourLaw"
+#123	AnnotatorNotes T87	"LabourLaw"
 T88	Term-diccionario 830 834	sexo
-#124	AnnotatorNotes T88 "LabourLaw"
-#125	AnnotatorNotes T20 "IATE"
-#126	AnnotatorNotes T21 "IATE"
-#127	AnnotatorNotes T88 "IATE"
-#128	AnnotatorNotes T24 "IATE"
-#129	AnnotatorNotes T25 "IATE"
-#130	AnnotatorNotes T26 "IATE"
-#131	AnnotatorNotes T27 "IATE"
-#132	AnnotatorNotes T17 "IATE"
-#133	AnnotatorNotes T18 "IATE"
-#134	AnnotatorNotes T19 "IATE"
-#135	AnnotatorNotes T37 "IATE"
-#136	AnnotatorNotes T16 "IATE"
-#137	AnnotatorNotes T82 "IATE"
-#138	AnnotatorNotes T83 "IATE"
-#139	AnnotatorNotes T84 "IATE"
-#140	AnnotatorNotes T23 "IATE"
-#141	AnnotatorNotes T10 "IATE"
-#142	AnnotatorNotes T11 "IATE"
-#143	AnnotatorNotes T12 "IATE"
-#144	AnnotatorNotes T13 "IATE"
-#145	AnnotatorNotes T14 "IATE"
-#146	AnnotatorNotes T15 "IATE"
-#147	AnnotatorNotes T5 "IATE"
+#124	AnnotatorNotes T88	"LabourLaw"
+#125	AnnotatorNotes T20	"IATE"
+#126	AnnotatorNotes T21	"IATE"
+#127	AnnotatorNotes T88	"IATE"
+#128	AnnotatorNotes T24	"IATE"
+#129	AnnotatorNotes T25	"IATE"
+#130	AnnotatorNotes T26	"IATE"
+#131	AnnotatorNotes T27	"IATE"
+#132	AnnotatorNotes T17	"IATE"
+#133	AnnotatorNotes T18	"IATE"
+#134	AnnotatorNotes T19	"IATE"
+#135	AnnotatorNotes T37	"IATE"
+#136	AnnotatorNotes T16	"IATE"
+#137	AnnotatorNotes T82	"IATE"
+#138	AnnotatorNotes T83	"IATE"
+#139	AnnotatorNotes T84	"IATE"
+#140	AnnotatorNotes T23	"IATE"
+#141	AnnotatorNotes T10	"IATE"
+#142	AnnotatorNotes T11	"IATE"
+#143	AnnotatorNotes T12	"IATE"
+#144	AnnotatorNotes T13	"IATE"
+#145	AnnotatorNotes T14	"IATE"
+#146	AnnotatorNotes T15	"IATE"
+#147	AnnotatorNotes T5	"IATE"

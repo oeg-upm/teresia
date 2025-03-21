@@ -1,191 +1,191 @@
 T1	Term-diccionario 91 98	acuerdo
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 546 563	centro de trabajo
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 556 563	trabajo
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 65 72	empresa
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 536 543	empresa
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 819 826	empresa
-#6	AnnotatorNotes T6 "DPEJ"
+#6	AnnotatorNotes T6	"DPEJ"
 T7	Term-diccionario 55 61	comité
-#7	AnnotatorNotes T7 "DPEJ"
+#7	AnnotatorNotes T7	"DPEJ"
 T8	Term-diccionario 629 635	comité
-#8	AnnotatorNotes T8 "DPEJ"
+#8	AnnotatorNotes T8	"DPEJ"
 T9	Term-diccionario 474 482	fracción
-#9	AnnotatorNotes T9 "DPEJ"
+#9	AnnotatorNotes T9	"DPEJ"
 T10	Term-diccionario 55 72	comité de empresa
-#10	AnnotatorNotes T10 "DPEJ"
+#10	AnnotatorNotes T10	"DPEJ"
 T11	Term-diccionario 733 736	ley
-#11	AnnotatorNotes T11 "DPEJ"
+#11	AnnotatorNotes T11	"DPEJ"
 T12	Term-diccionario 660 670	reglamento
-#12	AnnotatorNotes T12 "DPEJ"
+#12	AnnotatorNotes T12	"DPEJ"
 T13	Term-diccionario 0 8	Artículo
-#13	AnnotatorNotes T13 "DPEJ"
+#13	AnnotatorNotes T13	"DPEJ"
 T14	Term-diccionario 674 687	procedimiento
-#14	AnnotatorNotes T14 "DPEJ"
+#14	AnnotatorNotes T14	"DPEJ"
 T15	Term-diccionario 546 552	centro
-#15	AnnotatorNotes T15 "DPEJ"
+#15	AnnotatorNotes T15	"DPEJ"
 T16	Term-diccionario 32 38	número
-#16	AnnotatorNotes T16 "DPEJ"
+#16	AnnotatorNotes T16	"DPEJ"
 T17	Term-diccionario 770 779	autoridad
-#17	AnnotatorNotes T17 "Termcat"
+#17	AnnotatorNotes T17	"Termcat"
 T18	Term-diccionario 116 122	escala
-#18	AnnotatorNotes T18 "Termcat"
-#19	AnnotatorNotes T12 "Termcat"
-#20	AnnotatorNotes T11 "Termcat"
-#21	AnnotatorNotes T13 "Termcat"
+#18	AnnotatorNotes T18	"Termcat"
+#19	AnnotatorNotes T12	"Termcat"
+#20	AnnotatorNotes T11	"Termcat"
+#21	AnnotatorNotes T13	"Termcat"
 T19	Term-diccionario 770 787	autoridad laboral
-#22	AnnotatorNotes T19 "Termcat"
-#23	AnnotatorNotes T2 "Termcat"
-#24	AnnotatorNotes T10 "Termcat"
-#25	AnnotatorNotes T6 "Termcat"
-#26	AnnotatorNotes T5 "Termcat"
-#27	AnnotatorNotes T1 "Termcat"
-#28	AnnotatorNotes T8 "Termcat"
+#22	AnnotatorNotes T19	"Termcat"
+#23	AnnotatorNotes T2	"Termcat"
+#24	AnnotatorNotes T10	"Termcat"
+#25	AnnotatorNotes T6	"Termcat"
+#26	AnnotatorNotes T5	"Termcat"
+#27	AnnotatorNotes T1	"Termcat"
+#28	AnnotatorNotes T8	"Termcat"
 T20	Term-diccionario 791 798	efectos
-#29	AnnotatorNotes T20 "Termcat"
+#29	AnnotatorNotes T20	"Termcat"
 T21	Term-diccionario 802 810	registro
-#30	AnnotatorNotes T21 "Termcat"
-#31	AnnotatorNotes T14 "Termcat"
+#30	AnnotatorNotes T21	"Termcat"
+#31	AnnotatorNotes T14	"Termcat"
 T22	Term-automatico 802 810	registro
-#32	AnnotatorNotes T22 "AttentionRank"
+#32	AnnotatorNotes T22	"AttentionRank"
 T23	Term-automatico 91 98	acuerdo
-#33	AnnotatorNotes T23 "AttentionRank"
+#33	AnnotatorNotes T23	"AttentionRank"
 T24	Term-automatico 770 779	autoridad
-#34	AnnotatorNotes T24 "AttentionRank"
+#34	AnnotatorNotes T24	"AttentionRank"
 T25	Term-automatico 319 330	setecientos
-#35	AnnotatorNotes T25 "AttentionRank"
+#35	AnnotatorNotes T25	"AttentionRank"
 T26	Term-automatico 373 384	setecientos
-#36	AnnotatorNotes T26 "AttentionRank"
+#36	AnnotatorNotes T26	"AttentionRank"
 T27	Term-automatico 791 801	efectos de
-#37	AnnotatorNotes T27 "AttentionRank"
+#37	AnnotatorNotes T27	"AttentionRank"
 T28	Term-automatico 660 670	reglamento
-#38	AnnotatorNotes T28 "AttentionRank"
+#38	AnnotatorNotes T28	"AttentionRank"
 T29	Term-automatico 55 61	comité
-#39	AnnotatorNotes T29 "AttentionRank"
+#39	AnnotatorNotes T29	"AttentionRank"
 T30	Term-automatico 629 635	comité
-#40	AnnotatorNotes T30 "AttentionRank"
+#40	AnnotatorNotes T30	"AttentionRank"
 T31	Term-automatico 0 8	Artículo
-#41	AnnotatorNotes T31 "AttentionRank"
+#41	AnnotatorNotes T31	"AttentionRank"
 T32	Term-automatico 674 687	procedimiento
-#42	AnnotatorNotes T32 "AttentionRank"
+#42	AnnotatorNotes T32	"AttentionRank"
 T33	Term-automatico 770 787	autoridad laboral
-#43	AnnotatorNotes T33 "AttentionRank"
+#43	AnnotatorNotes T33	"AttentionRank"
 T34	Term-automatico 866 871	meses
-#44	AnnotatorNotes T34 "AttentionRank"
+#44	AnnotatorNotes T34	"AttentionRank"
 T35	Term-automatico 598 608	presidente
-#45	AnnotatorNotes T35 "AttentionRank"
+#45	AnnotatorNotes T35	"AttentionRank"
 T36	Term-automatico 42 50	miembros
-#46	AnnotatorNotes T36 "AttentionRank"
+#46	AnnotatorNotes T36	"AttentionRank"
 T37	Term-automatico 586 594	miembros
-#47	AnnotatorNotes T37 "AttentionRank"
+#47	AnnotatorNotes T37	"AttentionRank"
 T38	Term-automatico 915 923	miembros
-#48	AnnotatorNotes T38 "AttentionRank"
+#48	AnnotatorNotes T38	"AttentionRank"
 T39	Term-automatico 147 159	trabajadores
-#49	AnnotatorNotes T39 "AttentionRank"
+#49	AnnotatorNotes T39	"AttentionRank"
 T40	Term-automatico 208 220	trabajadores
-#50	AnnotatorNotes T40 "AttentionRank"
+#50	AnnotatorNotes T40	"AttentionRank"
 T41	Term-automatico 275 287	trabajadores
-#51	AnnotatorNotes T41 "AttentionRank"
+#51	AnnotatorNotes T41	"AttentionRank"
 T42	Term-automatico 341 353	trabajadores
-#52	AnnotatorNotes T42 "AttentionRank"
+#52	AnnotatorNotes T42	"AttentionRank"
 T43	Term-automatico 407 419	trabajadores
-#53	AnnotatorNotes T43 "AttentionRank"
+#53	AnnotatorNotes T43	"AttentionRank"
 T44	Term-automatico 943 955	trabajadores
-#54	AnnotatorNotes T44 "AttentionRank"
+#54	AnnotatorNotes T44	"AttentionRank"
 T45	Term-automatico 943 969	trabajadores representados
-#55	AnnotatorNotes T45 "AttentionRank"
+#55	AnnotatorNotes T45	"AttentionRank"
 T46	Term-automatico 65 72	empresa
-#56	AnnotatorNotes T46 "AttentionRank"
+#56	AnnotatorNotes T46	"AttentionRank"
 T47	Term-automatico 536 543	empresa
-#57	AnnotatorNotes T47 "AttentionRank"
+#57	AnnotatorNotes T47	"AttentionRank"
 T48	Term-automatico 819 826	empresa
-#58	AnnotatorNotes T48 "AttentionRank"
+#58	AnnotatorNotes T48	"AttentionRank"
 T49	Term-automatico 733 736	ley
-#59	AnnotatorNotes T49 "AttentionRank"
+#59	AnnotatorNotes T49	"AttentionRank"
 T50	Term-automatico 546 552	centro
-#60	AnnotatorNotes T50 "AttentionRank"
+#60	AnnotatorNotes T50	"AttentionRank"
 T51	Term-automatico 32 38	número
-#61	AnnotatorNotes T51 "AttentionRank"
+#61	AnnotatorNotes T51	"AttentionRank"
 T52	Term-automatico 91 122	acuerdo con la siguiente escala
-#62	AnnotatorNotes T52 "AttentionRank"
+#62	AnnotatorNotes T52	"AttentionRank"
 T53	Term-automatico 791 798	efectos
-#63	AnnotatorNotes T53 "AttentionRank"
+#63	AnnotatorNotes T53	"AttentionRank"
 T54	Term-automatico 474 482	fracción
-#64	AnnotatorNotes T54 "AttentionRank"
+#64	AnnotatorNotes T54	"AttentionRank"
 T55	Term-automatico 556 563	trabajo
-#65	AnnotatorNotes T55 "AttentionRank"
+#65	AnnotatorNotes T55	"AttentionRank"
 T56	Term-automatico 614 624	secretario
-#66	AnnotatorNotes T56 "AttentionRank"
-#67	AnnotatorNotes T10 "LabourLaw"
-#68	AnnotatorNotes T2 "LabourLaw"
-#69	AnnotatorNotes T19 "LabourLaw"
-#70	AnnotatorNotes T3 "LabourLaw"
+#66	AnnotatorNotes T56	"AttentionRank"
+#67	AnnotatorNotes T10	"LabourLaw"
+#68	AnnotatorNotes T2	"LabourLaw"
+#69	AnnotatorNotes T19	"LabourLaw"
+#70	AnnotatorNotes T3	"LabourLaw"
 T57	Term-diccionario 476 482	acción
-#71	AnnotatorNotes T57 "LabourLaw"
+#71	AnnotatorNotes T57	"LabourLaw"
 T58	Term-diccionario 147 157	trabajador
-#72	AnnotatorNotes T58 "LabourLaw"
+#72	AnnotatorNotes T58	"LabourLaw"
 T59	Term-diccionario 208 218	trabajador
-#73	AnnotatorNotes T59 "LabourLaw"
+#73	AnnotatorNotes T59	"LabourLaw"
 T60	Term-diccionario 275 285	trabajador
-#74	AnnotatorNotes T60 "LabourLaw"
+#74	AnnotatorNotes T60	"LabourLaw"
 T61	Term-diccionario 341 351	trabajador
-#75	AnnotatorNotes T61 "LabourLaw"
+#75	AnnotatorNotes T61	"LabourLaw"
 T62	Term-diccionario 407 417	trabajador
-#76	AnnotatorNotes T62 "LabourLaw"
+#76	AnnotatorNotes T62	"LabourLaw"
 T63	Term-diccionario 943 953	trabajador
-#77	AnnotatorNotes T63 "LabourLaw"
-#78	AnnotatorNotes T11 "LabourLaw"
+#77	AnnotatorNotes T63	"LabourLaw"
+#78	AnnotatorNotes T11	"LabourLaw"
 T64	Term-diccionario 840 845	deber
-#79	AnnotatorNotes T64 "LabourLaw"
-#80	AnnotatorNotes T17 "LabourLaw"
-#81	AnnotatorNotes T4 "LabourLaw"
-#82	AnnotatorNotes T5 "LabourLaw"
-#83	AnnotatorNotes T6 "LabourLaw"
-#84	AnnotatorNotes T14 "LabourLaw"
-#85	AnnotatorNotes T7 "LabourLaw"
+#79	AnnotatorNotes T64	"LabourLaw"
+#80	AnnotatorNotes T17	"LabourLaw"
+#81	AnnotatorNotes T4	"LabourLaw"
+#82	AnnotatorNotes T5	"LabourLaw"
+#83	AnnotatorNotes T6	"LabourLaw"
+#84	AnnotatorNotes T14	"LabourLaw"
+#85	AnnotatorNotes T7	"LabourLaw"
 T65	Term-diccionario 525 531	comité
-#86	AnnotatorNotes T65 "LabourLaw"
-#87	AnnotatorNotes T8 "LabourLaw"
+#86	AnnotatorNotes T65	"LabourLaw"
+#87	AnnotatorNotes T8	"LabourLaw"
 T66	Term-diccionario 832 838	comité
-#88	AnnotatorNotes T66 "LabourLaw"
-#89	AnnotatorNotes T12 "LabourLaw"
+#88	AnnotatorNotes T66	"LabourLaw"
+#89	AnnotatorNotes T12	"LabourLaw"
 T67	Term-diccionario 598 608	presidente
-#90	AnnotatorNotes T67 "IATE"
-#91	AnnotatorNotes T13 "IATE"
-#92	AnnotatorNotes T1 "IATE"
-#93	AnnotatorNotes T4 "IATE"
-#94	AnnotatorNotes T5 "IATE"
-#95	AnnotatorNotes T6 "IATE"
-#96	AnnotatorNotes T14 "IATE"
-#97	AnnotatorNotes T21 "IATE"
+#90	AnnotatorNotes T67	"IATE"
+#91	AnnotatorNotes T13	"IATE"
+#92	AnnotatorNotes T1	"IATE"
+#93	AnnotatorNotes T4	"IATE"
+#94	AnnotatorNotes T5	"IATE"
+#95	AnnotatorNotes T6	"IATE"
+#96	AnnotatorNotes T14	"IATE"
+#97	AnnotatorNotes T21	"IATE"
 T68	Term-diccionario 147 159	trabajadores
-#98	AnnotatorNotes T68 "IATE"
+#98	AnnotatorNotes T68	"IATE"
 T69	Term-diccionario 208 220	trabajadores
-#99	AnnotatorNotes T69 "IATE"
+#99	AnnotatorNotes T69	"IATE"
 T70	Term-diccionario 275 287	trabajadores
-#100	AnnotatorNotes T70 "IATE"
+#100	AnnotatorNotes T70	"IATE"
 T71	Term-diccionario 341 353	trabajadores
-#101	AnnotatorNotes T71 "IATE"
+#101	AnnotatorNotes T71	"IATE"
 T72	Term-diccionario 407 419	trabajadores
-#102	AnnotatorNotes T72 "IATE"
+#102	AnnotatorNotes T72	"IATE"
 T73	Term-diccionario 943 955	trabajadores
-#103	AnnotatorNotes T73 "IATE"
-#104	AnnotatorNotes T12 "IATE"
+#103	AnnotatorNotes T73	"IATE"
+#104	AnnotatorNotes T12	"IATE"
 T74	Term-diccionario 42 50	miembros
-#105	AnnotatorNotes T74 "IATE"
+#105	AnnotatorNotes T74	"IATE"
 T75	Term-diccionario 586 594	miembros
-#106	AnnotatorNotes T75 "IATE"
+#106	AnnotatorNotes T75	"IATE"
 T76	Term-diccionario 915 923	miembros
-#107	AnnotatorNotes T76 "IATE"
+#107	AnnotatorNotes T76	"IATE"
 T77	Term-diccionario 614 624	secretario
-#108	AnnotatorNotes T77 "IATE"
-#109	AnnotatorNotes T7 "IATE"
-#110	AnnotatorNotes T8 "IATE"
-#111	AnnotatorNotes T20 "IATE"
-#112	AnnotatorNotes T9 "IATE"
+#108	AnnotatorNotes T77	"IATE"
+#109	AnnotatorNotes T7	"IATE"
+#110	AnnotatorNotes T8	"IATE"
+#111	AnnotatorNotes T20	"IATE"
+#112	AnnotatorNotes T9	"IATE"
 T78	Term-diccionario 866 871	meses
-#113	AnnotatorNotes T78 "IATE"
+#113	AnnotatorNotes T78	"IATE"

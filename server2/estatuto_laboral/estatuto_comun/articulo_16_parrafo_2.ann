@@ -1,390 +1,390 @@
 T1	Term-diccionario 240 244	caso
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 432 436	caso
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 1315 1321	empleo
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 1257 1263	ámbito
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 33 40	empresa
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 1115 1122	empresa
-#6	AnnotatorNotes T6 "DPEJ"
+#6	AnnotatorNotes T6	"DPEJ"
 T7	Term-diccionario 1617 1625	empresas
-#7	AnnotatorNotes T7 "DPEJ"
+#7	AnnotatorNotes T7	"DPEJ"
 T8	Term-diccionario 1875 1883	empresas
-#8	AnnotatorNotes T8 "DPEJ"
+#8	AnnotatorNotes T8	"DPEJ"
 T9	Term-diccionario 917 926	convenios
-#9	AnnotatorNotes T9 "DPEJ"
+#9	AnnotatorNotes T9	"DPEJ"
 T10	Term-diccionario 1233 1242	convenios
-#10	AnnotatorNotes T10 "DPEJ"
+#10	AnnotatorNotes T10	"DPEJ"
 T11	Term-diccionario 1683 1692	convenios
-#11	AnnotatorNotes T11 "DPEJ"
+#11	AnnotatorNotes T11	"DPEJ"
 T12	Term-diccionario 1821 1830	contratos
-#12	AnnotatorNotes T12 "DPEJ"
+#12	AnnotatorNotes T12	"DPEJ"
 T13	Term-diccionario 1741 1750	actividad
-#13	AnnotatorNotes T13 "DPEJ"
+#13	AnnotatorNotes T13	"DPEJ"
 T14	Term-diccionario 917 937	convenios colectivos
-#14	AnnotatorNotes T14 "DPEJ"
+#14	AnnotatorNotes T14	"DPEJ"
 T15	Term-diccionario 1233 1253	convenios colectivos
-#15	AnnotatorNotes T15 "DPEJ"
+#15	AnnotatorNotes T15	"DPEJ"
 T16	Term-diccionario 1799 1805	tiempo
-#16	AnnotatorNotes T16 "DPEJ"
+#16	AnnotatorNotes T16	"DPEJ"
 T17	Term-diccionario 270 275	datos
-#17	AnnotatorNotes T17 "DPEJ"
+#17	AnnotatorNotes T17	"DPEJ"
 T18	Term-diccionario 917 949	convenios colectivos sectoriales
-#18	AnnotatorNotes T18 "DPEJ"
+#18	AnnotatorNotes T18	"DPEJ"
 T19	Term-diccionario 1915 1923	personal
-#19	AnnotatorNotes T19 "DPEJ"
+#19	AnnotatorNotes T19	"DPEJ"
 T20	Term-diccionario 1136 1143	medidas
-#20	AnnotatorNotes T20 "DPEJ"
+#20	AnnotatorNotes T20	"DPEJ"
 T21	Term-diccionario 162 165	año
-#21	AnnotatorNotes T21 "DPEJ"
+#21	AnnotatorNotes T21	"DPEJ"
 T22	Term-diccionario 769 777	artículo
-#22	AnnotatorNotes T22 "DPEJ"
+#22	AnnotatorNotes T22	"DPEJ"
 T23	Term-diccionario 1660 1668	artículo
-#23	AnnotatorNotes T23 "DPEJ"
+#23	AnnotatorNotes T23	"DPEJ"
 T24	Term-diccionario 1219 1224	norma
-#24	AnnotatorNotes T24 "DPEJ"
-#25	AnnotatorNotes T9 "Termcat"
-#26	AnnotatorNotes T11 "Termcat"
-#27	AnnotatorNotes T10 "Termcat"
+#24	AnnotatorNotes T24	"DPEJ"
+#25	AnnotatorNotes T9	"Termcat"
+#26	AnnotatorNotes T11	"Termcat"
+#27	AnnotatorNotes T10	"Termcat"
 T25	Term-diccionario 1633 1641	términos
-#28	AnnotatorNotes T25 "Termcat"
+#28	AnnotatorNotes T25	"Termcat"
 T26	Term-diccionario 1192 1200	términos
-#29	AnnotatorNotes T26 "Termcat"
+#29	AnnotatorNotes T26	"Termcat"
 T27	Term-diccionario 752 760	términos
-#30	AnnotatorNotes T27 "Termcat"
+#30	AnnotatorNotes T27	"Termcat"
 T28	Term-diccionario 1105 1110	plazo
-#31	AnnotatorNotes T28 "Termcat"
+#31	AnnotatorNotes T28	"Termcat"
 T29	Term-diccionario 971 976	plazo
-#32	AnnotatorNotes T29 "Termcat"
+#32	AnnotatorNotes T29	"Termcat"
 T30	Term-diccionario 504 509	plazo
-#33	AnnotatorNotes T30 "Termcat"
+#33	AnnotatorNotes T30	"Termcat"
 T31	Term-diccionario 835 841	plazos
-#34	AnnotatorNotes T31 "Termcat"
+#34	AnnotatorNotes T31	"Termcat"
 T32	Term-diccionario 1899 1904	censo
-#35	AnnotatorNotes T32 "Termcat"
-#36	AnnotatorNotes T12 "Termcat"
+#35	AnnotatorNotes T32	"Termcat"
+#36	AnnotatorNotes T12	"Termcat"
 T33	Term-diccionario 1857 1867	obligación
-#37	AnnotatorNotes T33 "Termcat"
+#37	AnnotatorNotes T33	"Termcat"
 T34	Term-diccionario 63 77	representación
-#38	AnnotatorNotes T34 "Termcat"
-#39	AnnotatorNotes T22 "Termcat"
-#40	AnnotatorNotes T23 "Termcat"
-#41	AnnotatorNotes T24 "Termcat"
+#38	AnnotatorNotes T34	"Termcat"
+#39	AnnotatorNotes T22	"Termcat"
+#40	AnnotatorNotes T23	"Termcat"
+#41	AnnotatorNotes T24	"Termcat"
 T35	Term-diccionario 845 851	espera
-#42	AnnotatorNotes T35 "Termcat"
+#42	AnnotatorNotes T35	"Termcat"
 T36	Term-diccionario 283 288	altas
-#43	AnnotatorNotes T36 "Termcat"
+#43	AnnotatorNotes T36	"Termcat"
 T37	Term-diccionario 178 188	calendario
-#44	AnnotatorNotes T37 "Termcat"
+#44	AnnotatorNotes T37	"Termcat"
 T38	Term-diccionario 1821 1836	contratos fijos
-#45	AnnotatorNotes T38 "Termcat"
-#46	AnnotatorNotes T15 "Termcat"
-#47	AnnotatorNotes T18 "Termcat"
-#48	AnnotatorNotes T6 "Termcat"
-#49	AnnotatorNotes T5 "Termcat"
-#50	AnnotatorNotes T7 "Termcat"
-#51	AnnotatorNotes T8 "Termcat"
+#45	AnnotatorNotes T38	"Termcat"
+#46	AnnotatorNotes T15	"Termcat"
+#47	AnnotatorNotes T18	"Termcat"
+#48	AnnotatorNotes T6	"Termcat"
+#49	AnnotatorNotes T5	"Termcat"
+#50	AnnotatorNotes T7	"Termcat"
+#51	AnnotatorNotes T8	"Termcat"
 T39	Term-diccionario 543 548	falta
-#52	AnnotatorNotes T39 "Termcat"
-#53	AnnotatorNotes T3 "Termcat"
+#52	AnnotatorNotes T39	"Termcat"
+#53	AnnotatorNotes T3	"Termcat"
 T40	Term-diccionario 1470 1488	formación continua
-#54	AnnotatorNotes T40 "Termcat"
-#55	AnnotatorNotes T19 "Termcat"
+#54	AnnotatorNotes T40	"Termcat"
+#55	AnnotatorNotes T19	"Termcat"
 T41	Term-diccionario 855 867	recolocación
-#56	AnnotatorNotes T41 "Termcat"
+#56	AnnotatorNotes T41	"Termcat"
 T42	Term-diccionario 1296 1301	bolsa
-#57	AnnotatorNotes T42 "Termcat"
+#57	AnnotatorNotes T42	"Termcat"
 T43	Term-diccionario 1355 1363	personas
-#58	AnnotatorNotes T43 "Termcat"
+#58	AnnotatorNotes T43	"Termcat"
 T44	Term-diccionario 306 314	personas
-#59	AnnotatorNotes T44 "Termcat"
+#59	AnnotatorNotes T44	"Termcat"
 T45	Term-diccionario 360 368	personas
-#60	AnnotatorNotes T45 "Termcat"
+#60	AnnotatorNotes T45	"Termcat"
 T46	Term-diccionario 91 99	personas
-#61	AnnotatorNotes T46 "Termcat"
-#62	AnnotatorNotes T13 "Termcat"
+#61	AnnotatorNotes T46	"Termcat"
+#62	AnnotatorNotes T13	"Termcat"
 T47	Term-diccionario 662 673	celebración
-#63	AnnotatorNotes T47 "Termcat"
+#63	AnnotatorNotes T47	"Termcat"
 T48	Term-diccionario 1785 1796	celebración
-#64	AnnotatorNotes T48 "Termcat"
+#64	AnnotatorNotes T48	"Termcat"
 T49	Term-diccionario 677 686	contratas
-#65	AnnotatorNotes T49 "Termcat"
+#65	AnnotatorNotes T49	"Termcat"
 T50	Term-diccionario 1562 1574	contratación
-#66	AnnotatorNotes T50 "Termcat"
+#66	AnnotatorNotes T50	"Termcat"
 T51	Term-diccionario 611 623	contratación
-#67	AnnotatorNotes T51 "Termcat"
+#67	AnnotatorNotes T51	"Termcat"
 T52	Term-diccionario 1452 1464	contratación
-#68	AnnotatorNotes T52 "Termcat"
+#68	AnnotatorNotes T52	"Termcat"
 T53	Term-diccionario 440 455	incumplimientos
-#69	AnnotatorNotes T53 "Termcat"
+#69	AnnotatorNotes T53	"Termcat"
 T54	Term-diccionario 78 83	legal
-#70	AnnotatorNotes T54 "Termcat"
+#70	AnnotatorNotes T54	"Termcat"
 T55	Term-diccionario 1551 1558	materia
-#71	AnnotatorNotes T55 "Termcat"
+#71	AnnotatorNotes T55	"Termcat"
 T56	Term-diccionario 707 713	motivo
-#72	AnnotatorNotes T56 "Termcat"
+#72	AnnotatorNotes T56	"Termcat"
 T57	Term-diccionario 1427 1435	objetivo
-#73	AnnotatorNotes T57 "Termcat"
+#73	AnnotatorNotes T57	"Termcat"
 T58	Term-diccionario 1518 1527	perjuicio
-#74	AnnotatorNotes T58 "Termcat"
+#74	AnnotatorNotes T58	"Termcat"
 T59	Term-diccionario 4 13	perjuicio
-#75	AnnotatorNotes T59 "Termcat"
+#75	AnnotatorNotes T59	"Termcat"
 T60	Term-diccionario 1302 1311	sectorial
-#76	AnnotatorNotes T60 "Termcat"
+#76	AnnotatorNotes T60	"Termcat"
 T61	Term-diccionario 1264 1273	sectorial
-#77	AnnotatorNotes T61 "Termcat"
+#77	AnnotatorNotes T61	"Termcat"
 T62	Term-diccionario 1700 1707	acordar
-#78	AnnotatorNotes T62 "Termcat"
+#78	AnnotatorNotes T62	"Termcat"
 T63	Term-diccionario 1281 1291	establecer
-#79	AnnotatorNotes T63 "Termcat"
+#79	AnnotatorNotes T63	"Termcat"
 T64	Term-diccionario 48 57	trasladar
-#80	AnnotatorNotes T64 "Termcat"
+#80	AnnotatorNotes T64	"Termcat"
 T65	Term-automatico 1799 1805	tiempo
-#81	AnnotatorNotes T65 "AttentionRank"
+#81	AnnotatorNotes T65	"AttentionRank"
 T66	Term-automatico 1315 1321	empleo
-#82	AnnotatorNotes T66 "AttentionRank"
+#82	AnnotatorNotes T66	"AttentionRank"
 T67	Term-automatico 1857 1867	obligación
-#83	AnnotatorNotes T67 "AttentionRank"
+#83	AnnotatorNotes T67	"AttentionRank"
 T68	Term-automatico 1192 1224	términos previstos en esta norma
-#84	AnnotatorNotes T68 "AttentionRank"
+#84	AnnotatorNotes T68	"AttentionRank"
 T69	Term-automatico 1257 1273	ámbito sectorial
-#85	AnnotatorNotes T69 "AttentionRank"
+#85	AnnotatorNotes T69	"AttentionRank"
 T70	Term-automatico 1633 1668	términos previstos en este artículo
-#86	AnnotatorNotes T70 "AttentionRank"
+#86	AnnotatorNotes T70	"AttentionRank"
 T71	Term-automatico 1427 1435	objetivo
-#87	AnnotatorNotes T71 "AttentionRank"
+#87	AnnotatorNotes T71	"AttentionRank"
 T72	Term-automatico 162 165	año
-#88	AnnotatorNotes T72 "AttentionRank"
+#88	AnnotatorNotes T72	"AttentionRank"
 T73	Term-automatico 1219 1224	norma
-#89	AnnotatorNotes T73 "AttentionRank"
+#89	AnnotatorNotes T73	"AttentionRank"
 T74	Term-automatico 783 791	periodos
-#90	AnnotatorNotes T74 "AttentionRank"
+#90	AnnotatorNotes T74	"AttentionRank"
 T75	Term-automatico 1395 1403	periodos
-#91	AnnotatorNotes T75 "AttentionRank"
+#91	AnnotatorNotes T75	"AttentionRank"
 T76	Term-automatico 1136 1143	medidas
-#92	AnnotatorNotes T76 "AttentionRank"
+#92	AnnotatorNotes T76	"AttentionRank"
 T77	Term-automatico 147 153	inicio
-#93	AnnotatorNotes T77 "AttentionRank"
+#93	AnnotatorNotes T77	"AttentionRank"
 T78	Term-automatico 257 260	así
-#94	AnnotatorNotes T78 "AttentionRank"
+#94	AnnotatorNotes T78	"AttentionRank"
 T79	Term-automatico 1762 1765	así
-#95	AnnotatorNotes T79 "AttentionRank"
+#95	AnnotatorNotes T79	"AttentionRank"
 T80	Term-automatico 1470 1479	formación
-#96	AnnotatorNotes T80 "AttentionRank"
+#96	AnnotatorNotes T80	"AttentionRank"
 T81	Term-automatico 769 777	artículo
-#97	AnnotatorNotes T81 "AttentionRank"
+#97	AnnotatorNotes T81	"AttentionRank"
 T82	Term-automatico 1660 1668	artículo
-#98	AnnotatorNotes T82 "AttentionRank"
+#98	AnnotatorNotes T82	"AttentionRank"
 T83	Term-automatico 902 911	supuestos
-#99	AnnotatorNotes T83 "AttentionRank"
+#99	AnnotatorNotes T83	"AttentionRank"
 T84	Term-automatico 1518 1547	perjuicio de las obligaciones
-#100	AnnotatorNotes T84 "AttentionRank"
+#100	AnnotatorNotes T84	"AttentionRank"
 T85	Term-automatico 543 548	falta
-#101	AnnotatorNotes T85 "AttentionRank"
+#101	AnnotatorNotes T85	"AttentionRank"
 T86	Term-automatico 1551 1574	materia de contratación
-#102	AnnotatorNotes T86 "AttentionRank"
+#102	AnnotatorNotes T86	"AttentionRank"
 T87	Term-automatico 91 99	personas
-#103	AnnotatorNotes T87 "AttentionRank"
+#103	AnnotatorNotes T87	"AttentionRank"
 T88	Term-automatico 306 314	personas
-#104	AnnotatorNotes T88 "AttentionRank"
+#104	AnnotatorNotes T88	"AttentionRank"
 T89	Term-automatico 360 368	personas
-#105	AnnotatorNotes T89 "AttentionRank"
+#105	AnnotatorNotes T89	"AttentionRank"
 T90	Term-automatico 1355 1363	personas
-#106	AnnotatorNotes T90 "AttentionRank"
+#106	AnnotatorNotes T90	"AttentionRank"
 T91	Term-automatico 1257 1263	ámbito
-#107	AnnotatorNotes T91 "AttentionRank"
+#107	AnnotatorNotes T91	"AttentionRank"
 T92	Term-automatico 1075 1080	meses
-#108	AnnotatorNotes T92 "AttentionRank"
+#108	AnnotatorNotes T92	"AttentionRank"
 T93	Term-automatico 306 320	personas fijas
-#109	AnnotatorNotes T93 "AttentionRank"
+#109	AnnotatorNotes T93	"AttentionRank"
 T94	Term-automatico 360 374	personas fijas
-#110	AnnotatorNotes T94 "AttentionRank"
+#110	AnnotatorNotes T94	"AttentionRank"
 T95	Term-automatico 1355 1369	personas fijas
-#111	AnnotatorNotes T95 "AttentionRank"
+#111	AnnotatorNotes T95	"AttentionRank"
 T96	Term-automatico 91 112	personas trabajadoras
-#112	AnnotatorNotes T96 "AttentionRank"
-#113	AnnotatorNotes T96 "AttentionRank"
+#112	AnnotatorNotes T96	"AttentionRank"
+#113	AnnotatorNotes T96	"AttentionRank"
 T97	Term-automatico 917 926	convenios
-#114	AnnotatorNotes T97 "AttentionRank"
+#114	AnnotatorNotes T97	"AttentionRank"
 T98	Term-automatico 1233 1242	convenios
-#115	AnnotatorNotes T98 "AttentionRank"
+#115	AnnotatorNotes T98	"AttentionRank"
 T99	Term-automatico 1683 1692	convenios
-#116	AnnotatorNotes T99 "AttentionRank"
+#116	AnnotatorNotes T99	"AttentionRank"
 T100	Term-automatico 270 275	datos
-#117	AnnotatorNotes T100 "AttentionRank"
+#117	AnnotatorNotes T100	"AttentionRank"
 T101	Term-automatico 1741 1750	actividad
-#118	AnnotatorNotes T101 "AttentionRank"
+#118	AnnotatorNotes T101	"AttentionRank"
 T102	Term-automatico 917 937	convenios colectivos
-#119	AnnotatorNotes T102 "AttentionRank"
+#119	AnnotatorNotes T102	"AttentionRank"
 T103	Term-automatico 1233 1253	convenios colectivos
-#120	AnnotatorNotes T103 "AttentionRank"
-#121	AnnotatorNotes T102 "AttentionRank"
-#122	AnnotatorNotes T103 "AttentionRank"
+#120	AnnotatorNotes T103	"AttentionRank"
+#121	AnnotatorNotes T102	"AttentionRank"
+#122	AnnotatorNotes T103	"AttentionRank"
 T104	Term-automatico 1821 1836	contratos fijos
-#123	AnnotatorNotes T104 "AttentionRank"
+#123	AnnotatorNotes T104	"AttentionRank"
 T105	Term-automatico 100 112	trabajadoras
-#124	AnnotatorNotes T105 "AttentionRank"
+#124	AnnotatorNotes T105	"AttentionRank"
 T106	Term-automatico 1136 1156	medidas coyunturales
-#125	AnnotatorNotes T106 "AttentionRank"
+#125	AnnotatorNotes T106	"AttentionRank"
 T107	Term-automatico 432 487	caso de incumplimientos relacionados con el llamamiento
-#126	AnnotatorNotes T107 "AttentionRank"
+#126	AnnotatorNotes T107	"AttentionRank"
 T108	Term-automatico 132 142	antelación
-#127	AnnotatorNotes T108 "AttentionRank"
+#127	AnnotatorNotes T108	"AttentionRank"
 T109	Term-automatico 63 83	representación legal
-#128	AnnotatorNotes T109 "AttentionRank"
+#128	AnnotatorNotes T109	"AttentionRank"
 T110	Term-automatico 504 509	plazo
-#129	AnnotatorNotes T110 "AttentionRank"
+#129	AnnotatorNotes T110	"AttentionRank"
 T111	Term-automatico 971 976	plazo
-#130	AnnotatorNotes T111 "AttentionRank"
+#130	AnnotatorNotes T111	"AttentionRank"
 T112	Term-automatico 1105 1110	plazo
-#131	AnnotatorNotes T112 "AttentionRank"
+#131	AnnotatorNotes T112	"AttentionRank"
 T113	Term-automatico 835 841	plazos
-#132	AnnotatorNotes T113 "AttentionRank"
+#132	AnnotatorNotes T113	"AttentionRank"
 T114	Term-automatico 33 40	empresa
-#133	AnnotatorNotes T114 "AttentionRank"
+#133	AnnotatorNotes T114	"AttentionRank"
 T115	Term-automatico 1115 1122	empresa
-#134	AnnotatorNotes T115 "AttentionRank"
+#134	AnnotatorNotes T115	"AttentionRank"
 T116	Term-automatico 1617 1625	empresas
-#135	AnnotatorNotes T116 "AttentionRank"
+#135	AnnotatorNotes T116	"AttentionRank"
 T117	Term-automatico 1875 1883	empresas
-#136	AnnotatorNotes T117 "AttentionRank"
+#136	AnnotatorNotes T117	"AttentionRank"
 T118	Term-automatico 63 77	representación
-#137	AnnotatorNotes T118 "AttentionRank"
+#137	AnnotatorNotes T118	"AttentionRank"
 T119	Term-automatico 1551 1558	materia
-#138	AnnotatorNotes T119 "AttentionRank"
+#138	AnnotatorNotes T119	"AttentionRank"
 T120	Term-automatico 529 536	momento
-#139	AnnotatorNotes T120 "AttentionRank"
+#139	AnnotatorNotes T120	"AttentionRank"
 T121	Term-automatico 568 575	momento
-#140	AnnotatorNotes T121 "AttentionRank"
+#140	AnnotatorNotes T121	"AttentionRank"
 T122	Term-automatico 611 623	contratación
-#141	AnnotatorNotes T122 "AttentionRank"
+#141	AnnotatorNotes T122	"AttentionRank"
 T123	Term-automatico 1452 1464	contratación
-#142	AnnotatorNotes T123 "AttentionRank"
+#142	AnnotatorNotes T123	"AttentionRank"
 T124	Term-automatico 1562 1574	contratación
-#143	AnnotatorNotes T124 "AttentionRank"
+#143	AnnotatorNotes T124	"AttentionRank"
 T125	Term-automatico 971 983	plazo máximo
-#144	AnnotatorNotes T125 "AttentionRank"
+#144	AnnotatorNotes T125	"AttentionRank"
 T126	Term-automatico 338 341	vez
-#145	AnnotatorNotes T126 "AttentionRank"
+#145	AnnotatorNotes T126	"AttentionRank"
 T127	Term-automatico 1086 1089	vez
-#146	AnnotatorNotes T127 "AttentionRank"
+#146	AnnotatorNotes T127	"AttentionRank"
 T128	Term-automatico 1821 1830	contratos
-#147	AnnotatorNotes T128 "AttentionRank"
+#147	AnnotatorNotes T128	"AttentionRank"
 T129	Term-automatico 688 700	subcontratas
-#148	AnnotatorNotes T129 "AttentionRank"
+#148	AnnotatorNotes T129	"AttentionRank"
 T130	Term-automatico 1005 1017	subcontratas
-#149	AnnotatorNotes T130 "AttentionRank"
+#149	AnnotatorNotes T130	"AttentionRank"
 T131	Term-automatico 917 949	convenios colectivos sectoriales
-#150	AnnotatorNotes T131 "AttentionRank"
+#150	AnnotatorNotes T131	"AttentionRank"
 T132	Term-automatico 1799 1813	tiempo parcial
-#151	AnnotatorNotes T132 "AttentionRank"
+#151	AnnotatorNotes T132	"AttentionRank"
 T133	Term-automatico 1915 1923	personal
-#152	AnnotatorNotes T133 "AttentionRank"
+#152	AnnotatorNotes T133	"AttentionRank"
 T134	Term-automatico 212 223	llamamiento
-#153	AnnotatorNotes T134 "AttentionRank"
+#153	AnnotatorNotes T134	"AttentionRank"
 T135	Term-automatico 476 487	llamamiento
-#154	AnnotatorNotes T135 "AttentionRank"
+#154	AnnotatorNotes T135	"AttentionRank"
 T136	Term-automatico 1577 1588	llamamiento
-#155	AnnotatorNotes T136 "AttentionRank"
+#155	AnnotatorNotes T136	"AttentionRank"
 T137	Term-automatico 240 244	caso
-#156	AnnotatorNotes T137 "AttentionRank"
+#156	AnnotatorNotes T137	"AttentionRank"
 T138	Term-automatico 432 436	caso
-#157	AnnotatorNotes T138 "AttentionRank"
+#157	AnnotatorNotes T138	"AttentionRank"
 T139	Term-diccionario 1799 1813	tiempo parcial
-#158	AnnotatorNotes T139 "LabourLaw"
+#158	AnnotatorNotes T139	"LabourLaw"
 T140	Term-diccionario 63 83	representación legal
-#159	AnnotatorNotes T140 "LabourLaw"
+#159	AnnotatorNotes T140	"LabourLaw"
 T141	Term-diccionario 1821 1829	contrato
-#160	AnnotatorNotes T141 "LabourLaw"
+#160	AnnotatorNotes T141	"LabourLaw"
 T142	Term-diccionario 1136 1142	medida
-#161	AnnotatorNotes T142 "LabourLaw"
+#161	AnnotatorNotes T142	"LabourLaw"
 T143	Term-diccionario 100 110	trabajador
-#162	AnnotatorNotes T143 "LabourLaw"
-#163	AnnotatorNotes T4 "LabourLaw"
+#162	AnnotatorNotes T143	"LabourLaw"
+#163	AnnotatorNotes T4	"LabourLaw"
 T144	Term-diccionario 442 454	cumplimiento
-#164	AnnotatorNotes T144 "LabourLaw"
-#165	AnnotatorNotes T51 "LabourLaw"
-#166	AnnotatorNotes T52 "LabourLaw"
-#167	AnnotatorNotes T50 "LabourLaw"
+#164	AnnotatorNotes T144	"LabourLaw"
+#165	AnnotatorNotes T51	"LabourLaw"
+#166	AnnotatorNotes T52	"LabourLaw"
+#167	AnnotatorNotes T50	"LabourLaw"
 T145	Term-diccionario 1470 1479	formación
-#168	AnnotatorNotes T145 "LabourLaw"
+#168	AnnotatorNotes T145	"LabourLaw"
 T146	Term-diccionario 41 46	deber
-#169	AnnotatorNotes T146 "LabourLaw"
+#169	AnnotatorNotes T146	"LabourLaw"
 T147	Term-diccionario 688 699	subcontrata
-#170	AnnotatorNotes T147 "LabourLaw"
+#170	AnnotatorNotes T147	"LabourLaw"
 T148	Term-diccionario 874 885	subcontrata
-#171	AnnotatorNotes T148 "LabourLaw"
+#171	AnnotatorNotes T148	"LabourLaw"
 T149	Term-diccionario 1005 1016	subcontrata
-#172	AnnotatorNotes T149 "LabourLaw"
+#172	AnnotatorNotes T149	"LabourLaw"
 T150	Term-diccionario 1039 1047	revisión
-#173	AnnotatorNotes T150 "LabourLaw"
+#173	AnnotatorNotes T150	"LabourLaw"
 T151	Term-diccionario 1027 1034	defecto
-#174	AnnotatorNotes T151 "LabourLaw"
-#175	AnnotatorNotes T5 "LabourLaw"
-#176	AnnotatorNotes T6 "LabourLaw"
+#174	AnnotatorNotes T151	"LabourLaw"
+#175	AnnotatorNotes T5	"LabourLaw"
+#176	AnnotatorNotes T6	"LabourLaw"
 T152	Term-diccionario 1617 1624	empresa
-#177	AnnotatorNotes T152 "LabourLaw"
+#177	AnnotatorNotes T152	"LabourLaw"
 T153	Term-diccionario 1875 1882	empresa
-#178	AnnotatorNotes T153 "LabourLaw"
-#179	AnnotatorNotes T59 "LabourLaw"
-#180	AnnotatorNotes T58 "LabourLaw"
+#178	AnnotatorNotes T153	"LabourLaw"
+#179	AnnotatorNotes T59	"LabourLaw"
+#180	AnnotatorNotes T58	"LabourLaw"
 T154	Term-diccionario 752 759	término
-#181	AnnotatorNotes T154 "LabourLaw"
+#181	AnnotatorNotes T154	"LabourLaw"
 T155	Term-diccionario 1192 1199	término
-#182	AnnotatorNotes T155 "LabourLaw"
+#182	AnnotatorNotes T155	"LabourLaw"
 T156	Term-diccionario 1633 1640	término
-#183	AnnotatorNotes T156 "LabourLaw"
-#184	AnnotatorNotes T33 "LabourLaw"
+#183	AnnotatorNotes T156	"LabourLaw"
+#184	AnnotatorNotes T33	"LabourLaw"
 T157	Term-diccionario 927 936	colectivo
-#185	AnnotatorNotes T157 "LabourLaw"
+#185	AnnotatorNotes T157	"LabourLaw"
 T158	Term-diccionario 1243 1252	colectivo
-#186	AnnotatorNotes T158 "LabourLaw"
-#187	AnnotatorNotes T19 "LabourLaw"
+#186	AnnotatorNotes T158	"LabourLaw"
+#187	AnnotatorNotes T19	"LabourLaw"
 T159	Term-diccionario 783 790	periodo
-#188	AnnotatorNotes T159 "LabourLaw"
+#188	AnnotatorNotes T159	"LabourLaw"
 T160	Term-diccionario 1395 1402	periodo
-#189	AnnotatorNotes T160 "LabourLaw"
-#190	AnnotatorNotes T3 "LabourLaw"
-#191	AnnotatorNotes T17 "LabourLaw"
+#189	AnnotatorNotes T160	"LabourLaw"
+#190	AnnotatorNotes T3	"LabourLaw"
+#191	AnnotatorNotes T17	"LabourLaw"
 T161	Term-diccionario 91 98	persona
-#192	AnnotatorNotes T161 "LabourLaw"
+#192	AnnotatorNotes T161	"LabourLaw"
 T162	Term-diccionario 306 313	persona
-#193	AnnotatorNotes T162 "LabourLaw"
+#193	AnnotatorNotes T162	"LabourLaw"
 T163	Term-diccionario 360 367	persona
-#194	AnnotatorNotes T163 "LabourLaw"
+#194	AnnotatorNotes T163	"LabourLaw"
 T164	Term-diccionario 1355 1362	persona
-#195	AnnotatorNotes T164 "LabourLaw"
+#195	AnnotatorNotes T164	"LabourLaw"
 T165	Term-diccionario 1915 1922	persona
-#196	AnnotatorNotes T165 "LabourLaw"
+#196	AnnotatorNotes T165	"LabourLaw"
 T166	Term-diccionario 440 454	incumplimiento
-#197	AnnotatorNotes T166 "LabourLaw"
-#198	AnnotatorNotes T17 "IATE"
+#197	AnnotatorNotes T166	"LabourLaw"
+#198	AnnotatorNotes T17	"IATE"
 T167	Term-diccionario 529 536	momento
-#199	AnnotatorNotes T167 "IATE"
+#199	AnnotatorNotes T167	"IATE"
 T168	Term-diccionario 568 575	momento
-#200	AnnotatorNotes T168 "IATE"
-#201	AnnotatorNotes T22 "IATE"
-#202	AnnotatorNotes T23 "IATE"
-#203	AnnotatorNotes T30 "IATE"
-#204	AnnotatorNotes T29 "IATE"
-#205	AnnotatorNotes T28 "IATE"
-#206	AnnotatorNotes T31 "IATE"
-#207	AnnotatorNotes T5 "IATE"
-#208	AnnotatorNotes T6 "IATE"
-#209	AnnotatorNotes T7 "IATE"
-#210	AnnotatorNotes T8 "IATE"
-#211	AnnotatorNotes T39 "IATE"
-#212	AnnotatorNotes T55 "IATE"
-#213	AnnotatorNotes T3 "IATE"
-#214	AnnotatorNotes T13 "IATE"
-#215	AnnotatorNotes T12 "IATE"
-#216	AnnotatorNotes T33 "IATE"
-#217	AnnotatorNotes T9 "IATE"
-#218	AnnotatorNotes T10 "IATE"
-#219	AnnotatorNotes T11 "IATE"
+#200	AnnotatorNotes T168	"IATE"
+#201	AnnotatorNotes T22	"IATE"
+#202	AnnotatorNotes T23	"IATE"
+#203	AnnotatorNotes T30	"IATE"
+#204	AnnotatorNotes T29	"IATE"
+#205	AnnotatorNotes T28	"IATE"
+#206	AnnotatorNotes T31	"IATE"
+#207	AnnotatorNotes T5	"IATE"
+#208	AnnotatorNotes T6	"IATE"
+#209	AnnotatorNotes T7	"IATE"
+#210	AnnotatorNotes T8	"IATE"
+#211	AnnotatorNotes T39	"IATE"
+#212	AnnotatorNotes T55	"IATE"
+#213	AnnotatorNotes T3	"IATE"
+#214	AnnotatorNotes T13	"IATE"
+#215	AnnotatorNotes T12	"IATE"
+#216	AnnotatorNotes T33	"IATE"
+#217	AnnotatorNotes T9	"IATE"
+#218	AnnotatorNotes T10	"IATE"
+#219	AnnotatorNotes T11	"IATE"
 T169	Term-diccionario 1075 1080	meses
-#220	AnnotatorNotes T169 "IATE"
-#221	AnnotatorNotes T145 "IATE"
+#220	AnnotatorNotes T169	"IATE"
+#221	AnnotatorNotes T145	"IATE"

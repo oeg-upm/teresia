@@ -1,167 +1,167 @@
 T1	Term-diccionario 388 397	intimidad
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 499 507	ausencia
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 292 309	centro de trabajo
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 512 529	centro de trabajo
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 302 309	trabajo
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 324 331	trabajo
-#6	AnnotatorNotes T6 "DPEJ"
+#6	AnnotatorNotes T6	"DPEJ"
 T7	Term-diccionario 522 529	trabajo
-#7	AnnotatorNotes T7 "DPEJ"
+#7	AnnotatorNotes T7	"DPEJ"
 T8	Term-diccionario 272 279	empresa
-#8	AnnotatorNotes T8 "DPEJ"
+#8	AnnotatorNotes T8	"DPEJ"
 T9	Term-diccionario 556 563	empresa
-#9	AnnotatorNotes T9 "DPEJ"
+#9	AnnotatorNotes T9	"DPEJ"
 T10	Term-diccionario 377 385	dignidad
-#10	AnnotatorNotes T10 "DPEJ"
+#10	AnnotatorNotes T10	"DPEJ"
 T11	Term-diccionario 196 206	protección
-#11	AnnotatorNotes T11 "DPEJ"
+#11	AnnotatorNotes T11	"DPEJ"
 T12	Term-diccionario 0 8	Artículo
-#12	AnnotatorNotes T12 "DPEJ"
+#12	AnnotatorNotes T12	"DPEJ"
 T13	Term-diccionario 292 298	centro
-#13	AnnotatorNotes T13 "DPEJ"
+#13	AnnotatorNotes T13	"DPEJ"
 T14	Term-diccionario 512 518	centro
-#14	AnnotatorNotes T14 "DPEJ"
-#15	AnnotatorNotes T2 "Termcat"
+#14	AnnotatorNotes T14	"DPEJ"
+#15	AnnotatorNotes T2	"Termcat"
 T15	Term-diccionario 151 163	particulares
-#16	AnnotatorNotes T15 "Termcat"
+#16	AnnotatorNotes T15	"Termcat"
 T16	Term-diccionario 211 221	patrimonio
-#17	AnnotatorNotes T16 "Termcat"
+#17	AnnotatorNotes T16	"Termcat"
 T17	Term-diccionario 450 463	representante
-#18	AnnotatorNotes T17 "Termcat"
-#19	AnnotatorNotes T12 "Termcat"
+#18	AnnotatorNotes T17	"Termcat"
+#19	AnnotatorNotes T12	"Termcat"
 T18	Term-diccionario 433 443	asistencia
-#20	AnnotatorNotes T18 "Termcat"
-#21	AnnotatorNotes T3 "Termcat"
-#22	AnnotatorNotes T4 "Termcat"
-#23	AnnotatorNotes T8 "Termcat"
-#24	AnnotatorNotes T9 "Termcat"
-#25	AnnotatorNotes T6 "Termcat"
-#26	AnnotatorNotes T10 "Termcat"
+#20	AnnotatorNotes T18	"Termcat"
+#21	AnnotatorNotes T3	"Termcat"
+#22	AnnotatorNotes T4	"Termcat"
+#23	AnnotatorNotes T8	"Termcat"
+#24	AnnotatorNotes T9	"Termcat"
+#25	AnnotatorNotes T6	"Termcat"
+#26	AnnotatorNotes T10	"Termcat"
 T19	Term-diccionario 100 107	persona
-#27	AnnotatorNotes T19 "Termcat"
+#27	AnnotatorNotes T19	"Termcat"
 T20	Term-diccionario 34 41	persona
-#28	AnnotatorNotes T20 "Termcat"
+#28	AnnotatorNotes T20	"Termcat"
 T21	Term-diccionario 143 150	efectos
-#29	AnnotatorNotes T21 "Termcat"
+#29	AnnotatorNotes T21	"Termcat"
 T22	Term-diccionario 222 233	empresarial
-#30	AnnotatorNotes T22 "Termcat"
+#30	AnnotatorNotes T22	"Termcat"
 T23	Term-diccionario 81 90	registros
-#31	AnnotatorNotes T23 "Termcat"
+#31	AnnotatorNotes T23	"Termcat"
 T24	Term-diccionario 13 27	Inviolabilidad
-#32	AnnotatorNotes T24 "Termcat"
+#32	AnnotatorNotes T24	"Termcat"
 T25	Term-diccionario 464 469	legal
-#33	AnnotatorNotes T25 "Termcat"
+#33	AnnotatorNotes T25	"Termcat"
 T26	Term-diccionario 450 469	representante legal
-#34	AnnotatorNotes T26 "Termcat"
+#34	AnnotatorNotes T26	"Termcat"
 T27	Term-automatico 450 463	representante
-#35	AnnotatorNotes T27 "AttentionRank"
+#35	AnnotatorNotes T27	"AttentionRank"
 T28	Term-automatico 81 90	registros
-#36	AnnotatorNotes T28 "AttentionRank"
+#36	AnnotatorNotes T28	"AttentionRank"
 T29	Term-automatico 450 469	representante legal
-#37	AnnotatorNotes T29 "AttentionRank"
+#37	AnnotatorNotes T29	"AttentionRank"
 T30	Term-automatico 377 385	dignidad
-#38	AnnotatorNotes T30 "AttentionRank"
+#38	AnnotatorNotes T30	"AttentionRank"
 T31	Term-automatico 0 8	Artículo
-#39	AnnotatorNotes T31 "AttentionRank"
+#39	AnnotatorNotes T31	"AttentionRank"
 T32	Term-automatico 433 443	asistencia
-#40	AnnotatorNotes T32 "AttentionRank"
+#40	AnnotatorNotes T32	"AttentionRank"
 T33	Term-automatico 34 41	persona
-#41	AnnotatorNotes T33 "AttentionRank"
+#41	AnnotatorNotes T33	"AttentionRank"
 T34	Term-automatico 100 107	persona
-#42	AnnotatorNotes T34 "AttentionRank"
+#42	AnnotatorNotes T34	"AttentionRank"
 T35	Term-automatico 388 397	intimidad
-#43	AnnotatorNotes T35 "AttentionRank"
+#43	AnnotatorNotes T35	"AttentionRank"
 T36	Term-automatico 46 56	trabajador
-#44	AnnotatorNotes T36 "AttentionRank"
+#44	AnnotatorNotes T36	"AttentionRank"
 T37	Term-automatico 112 122	trabajador
-#45	AnnotatorNotes T37 "AttentionRank"
+#45	AnnotatorNotes T37	"AttentionRank"
 T38	Term-automatico 402 412	trabajador
-#46	AnnotatorNotes T38 "AttentionRank"
+#46	AnnotatorNotes T38	"AttentionRank"
 T39	Term-automatico 539 549	trabajador
-#47	AnnotatorNotes T39 "AttentionRank"
+#47	AnnotatorNotes T39	"AttentionRank"
 T40	Term-automatico 253 265	trabajadores
-#48	AnnotatorNotes T40 "AttentionRank"
+#48	AnnotatorNotes T40	"AttentionRank"
 T41	Term-automatico 477 489	trabajadores
-#49	AnnotatorNotes T41 "AttentionRank"
+#49	AnnotatorNotes T41	"AttentionRank"
 T42	Term-automatico 211 233	patrimonio empresarial
-#50	AnnotatorNotes T42 "AttentionRank"
+#50	AnnotatorNotes T42	"AttentionRank"
 T43	Term-automatico 272 279	empresa
-#51	AnnotatorNotes T43 "AttentionRank"
+#51	AnnotatorNotes T43	"AttentionRank"
 T44	Term-automatico 556 563	empresa
-#52	AnnotatorNotes T44 "AttentionRank"
+#52	AnnotatorNotes T44	"AttentionRank"
 T45	Term-automatico 315 320	horas
-#53	AnnotatorNotes T45 "AttentionRank"
+#53	AnnotatorNotes T45	"AttentionRank"
 T46	Term-automatico 196 206	protección
-#54	AnnotatorNotes T46 "AttentionRank"
+#54	AnnotatorNotes T46	"AttentionRank"
 T47	Term-automatico 292 298	centro
-#55	AnnotatorNotes T47 "AttentionRank"
+#55	AnnotatorNotes T47	"AttentionRank"
 T48	Term-automatico 512 518	centro
-#56	AnnotatorNotes T48 "AttentionRank"
+#56	AnnotatorNotes T48	"AttentionRank"
 T49	Term-automatico 339 350	realización
-#57	AnnotatorNotes T49 "AttentionRank"
+#57	AnnotatorNotes T49	"AttentionRank"
 T50	Term-automatico 499 507	ausencia
-#58	AnnotatorNotes T50 "AttentionRank"
+#58	AnnotatorNotes T50	"AttentionRank"
 T51	Term-automatico 143 150	efectos
-#59	AnnotatorNotes T51 "AttentionRank"
+#59	AnnotatorNotes T51	"AttentionRank"
 T52	Term-automatico 302 309	trabajo
-#60	AnnotatorNotes T52 "AttentionRank"
+#60	AnnotatorNotes T52	"AttentionRank"
 T53	Term-automatico 324 331	trabajo
-#61	AnnotatorNotes T53 "AttentionRank"
+#61	AnnotatorNotes T53	"AttentionRank"
 T54	Term-automatico 522 529	trabajo
-#62	AnnotatorNotes T54 "AttentionRank"
-#63	AnnotatorNotes T3 "LabourLaw"
-#64	AnnotatorNotes T4 "LabourLaw"
+#62	AnnotatorNotes T54	"AttentionRank"
+#63	AnnotatorNotes T3	"LabourLaw"
+#64	AnnotatorNotes T4	"LabourLaw"
 T55	Term-diccionario 211 233	patrimonio empresarial
-#65	AnnotatorNotes T55 "LabourLaw"
-#66	AnnotatorNotes T26 "LabourLaw"
-#67	AnnotatorNotes T16 "LabourLaw"
-#68	AnnotatorNotes T5 "LabourLaw"
-#69	AnnotatorNotes T6 "LabourLaw"
-#70	AnnotatorNotes T7 "LabourLaw"
-#71	AnnotatorNotes T17 "LabourLaw"
+#65	AnnotatorNotes T55	"LabourLaw"
+#66	AnnotatorNotes T26	"LabourLaw"
+#67	AnnotatorNotes T16	"LabourLaw"
+#68	AnnotatorNotes T5	"LabourLaw"
+#69	AnnotatorNotes T6	"LabourLaw"
+#70	AnnotatorNotes T7	"LabourLaw"
+#71	AnnotatorNotes T17	"LabourLaw"
 T56	Term-diccionario 46 56	trabajador
-#72	AnnotatorNotes T56 "LabourLaw"
+#72	AnnotatorNotes T56	"LabourLaw"
 T57	Term-diccionario 112 122	trabajador
-#73	AnnotatorNotes T57 "LabourLaw"
+#73	AnnotatorNotes T57	"LabourLaw"
 T58	Term-diccionario 253 263	trabajador
-#74	AnnotatorNotes T58 "LabourLaw"
+#74	AnnotatorNotes T58	"LabourLaw"
 T59	Term-diccionario 402 412	trabajador
-#75	AnnotatorNotes T59 "LabourLaw"
+#75	AnnotatorNotes T59	"LabourLaw"
 T60	Term-diccionario 477 487	trabajador
-#76	AnnotatorNotes T60 "LabourLaw"
+#76	AnnotatorNotes T60	"LabourLaw"
 T61	Term-diccionario 539 549	trabajador
-#77	AnnotatorNotes T61 "LabourLaw"
-#78	AnnotatorNotes T11 "LabourLaw"
-#79	AnnotatorNotes T2 "LabourLaw"
+#77	AnnotatorNotes T61	"LabourLaw"
+#78	AnnotatorNotes T11	"LabourLaw"
+#79	AnnotatorNotes T2	"LabourLaw"
 T62	Term-diccionario 222 229	empresa
-#80	AnnotatorNotes T62 "LabourLaw"
-#81	AnnotatorNotes T8 "LabourLaw"
-#82	AnnotatorNotes T9 "LabourLaw"
-#83	AnnotatorNotes T1 "LabourLaw"
-#84	AnnotatorNotes T10 "LabourLaw"
-#85	AnnotatorNotes T2 "LabourLaw"
-#86	AnnotatorNotes T20 "LabourLaw"
-#87	AnnotatorNotes T19 "LabourLaw"
-#88	AnnotatorNotes T11 "IATE"
+#80	AnnotatorNotes T62	"LabourLaw"
+#81	AnnotatorNotes T8	"LabourLaw"
+#82	AnnotatorNotes T9	"LabourLaw"
+#83	AnnotatorNotes T1	"LabourLaw"
+#84	AnnotatorNotes T10	"LabourLaw"
+#85	AnnotatorNotes T2	"LabourLaw"
+#86	AnnotatorNotes T20	"LabourLaw"
+#87	AnnotatorNotes T19	"LabourLaw"
+#88	AnnotatorNotes T11	"IATE"
 T63	Term-diccionario 339 350	realización
-#89	AnnotatorNotes T63 "IATE"
-#90	AnnotatorNotes T12 "IATE"
-#91	AnnotatorNotes T8 "IATE"
-#92	AnnotatorNotes T9 "IATE"
-#93	AnnotatorNotes T1 "IATE"
-#94	AnnotatorNotes T23 "IATE"
-#95	AnnotatorNotes T56 "IATE"
-#96	AnnotatorNotes T57 "IATE"
-#97	AnnotatorNotes T59 "IATE"
-#98	AnnotatorNotes T61 "IATE"
+#89	AnnotatorNotes T63	"IATE"
+#90	AnnotatorNotes T12	"IATE"
+#91	AnnotatorNotes T8	"IATE"
+#92	AnnotatorNotes T9	"IATE"
+#93	AnnotatorNotes T1	"IATE"
+#94	AnnotatorNotes T23	"IATE"
+#95	AnnotatorNotes T56	"IATE"
+#96	AnnotatorNotes T57	"IATE"
+#97	AnnotatorNotes T59	"IATE"
+#98	AnnotatorNotes T61	"IATE"
 T64	Term-diccionario 253 265	trabajadores
-#99	AnnotatorNotes T64 "IATE"
+#99	AnnotatorNotes T64	"IATE"
 T65	Term-diccionario 477 489	trabajadores
-#100	AnnotatorNotes T65 "IATE"
-#101	AnnotatorNotes T21 "IATE"
-#102	AnnotatorNotes T17 "IATE"
+#100	AnnotatorNotes T65	"IATE"
+#101	AnnotatorNotes T21	"IATE"
+#102	AnnotatorNotes T17	"IATE"

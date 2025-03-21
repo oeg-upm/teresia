@@ -1,59 +1,59 @@
 T1	Term-diccionario 62 75	orden del día
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 203 209	acusar
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 13 25	Convocatoria
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 30 42	convocatoria
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 62 67	orden
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 0 8	Artículo
-#6	AnnotatorNotes T6 "DPEJ"
-#7	AnnotatorNotes T5 "Termcat"
+#6	AnnotatorNotes T6	"DPEJ"
+#7	AnnotatorNotes T5	"Termcat"
 T7	Term-diccionario 210 216	recibo
-#8	AnnotatorNotes T7 "Termcat"
-#9	AnnotatorNotes T6 "Termcat"
-#10	AnnotatorNotes T1 "Termcat"
-#11	AnnotatorNotes T3 "Termcat"
-#12	AnnotatorNotes T4 "Termcat"
+#8	AnnotatorNotes T7	"Termcat"
+#9	AnnotatorNotes T6	"Termcat"
+#10	AnnotatorNotes T1	"Termcat"
+#11	AnnotatorNotes T3	"Termcat"
+#12	AnnotatorNotes T4	"Termcat"
 T8	Term-diccionario 203 216	acusar recibo
-#13	AnnotatorNotes T8 "Termcat"
+#13	AnnotatorNotes T8	"Termcat"
 T9	Term-automatico 48 57	expresión
-#14	AnnotatorNotes T9 "AttentionRank"
+#14	AnnotatorNotes T9	"AttentionRank"
 T10	Term-automatico 72 75	día
-#15	AnnotatorNotes T10 "AttentionRank"
+#15	AnnotatorNotes T10	"AttentionRank"
 T11	Term-automatico 76 85	propuesto
-#16	AnnotatorNotes T11 "AttentionRank"
+#16	AnnotatorNotes T11	"AttentionRank"
 T12	Term-automatico 94 105	convocantes
-#17	AnnotatorNotes T12 "AttentionRank"
+#17	AnnotatorNotes T12	"AttentionRank"
 T13	Term-automatico 210 216	recibo
-#18	AnnotatorNotes T13 "AttentionRank"
+#18	AnnotatorNotes T13	"AttentionRank"
 T14	Term-automatico 0 8	Artículo
-#19	AnnotatorNotes T14 "AttentionRank"
+#19	AnnotatorNotes T14	"AttentionRank"
 T15	Term-automatico 164 174	antelación
-#20	AnnotatorNotes T15 "AttentionRank"
+#20	AnnotatorNotes T15	"AttentionRank"
 T16	Term-automatico 155 160	horas
-#21	AnnotatorNotes T16 "AttentionRank"
+#21	AnnotatorNotes T16	"AttentionRank"
 T17	Term-automatico 203 209	acusar
-#22	AnnotatorNotes T17 "AttentionRank"
+#22	AnnotatorNotes T17	"AttentionRank"
 T18	Term-automatico 62 67	orden
-#23	AnnotatorNotes T18 "AttentionRank"
+#23	AnnotatorNotes T18	"AttentionRank"
 T19	Term-automatico 13 25	Convocatoria
-#24	AnnotatorNotes T19 "AttentionRank"
+#24	AnnotatorNotes T19	"AttentionRank"
 T20	Term-automatico 30 42	convocatoria
-#25	AnnotatorNotes T20 "AttentionRank"
+#25	AnnotatorNotes T20	"AttentionRank"
 T21	Term-automatico 124 134	empresario
-#26	AnnotatorNotes T21 "AttentionRank"
-#27	AnnotatorNotes T4 "LabourLaw"
+#26	AnnotatorNotes T21	"AttentionRank"
+#27	AnnotatorNotes T4	"LabourLaw"
 T22	Term-diccionario 124 134	empresario
-#28	AnnotatorNotes T22 "LabourLaw"
+#28	AnnotatorNotes T22	"LabourLaw"
 T23	Term-diccionario 124 131	empresa
-#29	AnnotatorNotes T23 "LabourLaw"
+#29	AnnotatorNotes T23	"LabourLaw"
 T24	Term-diccionario 142 147	renta
-#30	AnnotatorNotes T24 "LabourLaw"
-#31	AnnotatorNotes T3 "IATE"
-#32	AnnotatorNotes T4 "IATE"
-#33	AnnotatorNotes T6 "IATE"
-#34	AnnotatorNotes T22 "IATE"
-#35	AnnotatorNotes T5 "IATE"
+#30	AnnotatorNotes T24	"LabourLaw"
+#31	AnnotatorNotes T3	"IATE"
+#32	AnnotatorNotes T4	"IATE"
+#33	AnnotatorNotes T6	"IATE"
+#34	AnnotatorNotes T22	"IATE"
+#35	AnnotatorNotes T5	"IATE"

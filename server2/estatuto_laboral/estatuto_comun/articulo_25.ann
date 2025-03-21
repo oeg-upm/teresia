@@ -1,139 +1,139 @@
 T1	Term-diccionario 395 405	salariales
-#1	AnnotatorNotes T1 "DPEJ"
+#1	AnnotatorNotes T1	"DPEJ"
 T2	Term-diccionario 67 74	trabajo
-#2	AnnotatorNotes T2 "DPEJ"
+#2	AnnotatorNotes T2	"DPEJ"
 T3	Term-diccionario 162 170	convenio
-#3	AnnotatorNotes T3 "DPEJ"
+#3	AnnotatorNotes T3	"DPEJ"
 T4	Term-diccionario 374 382	Salarios
-#4	AnnotatorNotes T4 "DPEJ"
+#4	AnnotatorNotes T4	"DPEJ"
 T5	Term-diccionario 13 32	Promoción económica
-#5	AnnotatorNotes T5 "DPEJ"
+#5	AnnotatorNotes T5	"DPEJ"
 T6	Term-diccionario 115 134	promoción económica
-#6	AnnotatorNotes T6 "DPEJ"
+#6	AnnotatorNotes T6	"DPEJ"
 T7	Term-diccionario 311 322	adquisición
-#7	AnnotatorNotes T7 "DPEJ"
+#7	AnnotatorNotes T7	"DPEJ"
 T8	Term-diccionario 183 191	contrato
-#8	AnnotatorNotes T8 "DPEJ"
+#8	AnnotatorNotes T8	"DPEJ"
 T9	Term-diccionario 13 22	Promoción
-#9	AnnotatorNotes T9 "DPEJ"
+#9	AnnotatorNotes T9	"DPEJ"
 T10	Term-diccionario 115 124	promoción
-#10	AnnotatorNotes T10 "DPEJ"
+#10	AnnotatorNotes T10	"DPEJ"
 T11	Term-diccionario 385 394	garantías
-#11	AnnotatorNotes T11 "DPEJ"
+#11	AnnotatorNotes T11	"DPEJ"
 T12	Term-diccionario 162 180	convenio colectivo
-#12	AnnotatorNotes T12 "DPEJ"
+#12	AnnotatorNotes T12	"DPEJ"
 T13	Term-diccionario 226 234	apartado
-#13	AnnotatorNotes T13 "DPEJ"
+#13	AnnotatorNotes T13	"DPEJ"
 T14	Term-diccionario 0 8	Artículo
-#14	AnnotatorNotes T14 "DPEJ"
-#15	AnnotatorNotes T3 "Termcat"
+#14	AnnotatorNotes T14	"DPEJ"
+#15	AnnotatorNotes T3	"Termcat"
 T15	Term-diccionario 361 368	Sección
-#16	AnnotatorNotes T15 "Termcat"
+#16	AnnotatorNotes T15	"Termcat"
 T16	Term-diccionario 142 150	términos
-#17	AnnotatorNotes T16 "Termcat"
-#18	AnnotatorNotes T7 "Termcat"
-#19	AnnotatorNotes T8 "Termcat"
-#20	AnnotatorNotes T11 "Termcat"
-#21	AnnotatorNotes T14 "Termcat"
-#22	AnnotatorNotes T9 "Termcat"
-#23	AnnotatorNotes T10 "Termcat"
+#17	AnnotatorNotes T16	"Termcat"
+#18	AnnotatorNotes T7	"Termcat"
+#19	AnnotatorNotes T8	"Termcat"
+#20	AnnotatorNotes T11	"Termcat"
+#21	AnnotatorNotes T14	"Termcat"
+#22	AnnotatorNotes T9	"Termcat"
+#23	AnnotatorNotes T10	"Termcat"
 T17	Term-diccionario 183 202	contrato individual
-#24	AnnotatorNotes T17 "Termcat"
-#25	AnnotatorNotes T12 "Termcat"
+#24	AnnotatorNotes T17	"Termcat"
+#25	AnnotatorNotes T12	"Termcat"
 T18	Term-diccionario 277 296	derechos adquiridos
-#26	AnnotatorNotes T18 "Termcat"
-#27	AnnotatorNotes T2 "Termcat"
+#26	AnnotatorNotes T18	"Termcat"
+#27	AnnotatorNotes T2	"Termcat"
 T19	Term-diccionario 55 62	función
-#28	AnnotatorNotes T19 "Termcat"
-#29	AnnotatorNotes T4 "Termcat"
-#30	AnnotatorNotes T1 "Termcat"
+#28	AnnotatorNotes T19	"Termcat"
+#29	AnnotatorNotes T4	"Termcat"
+#30	AnnotatorNotes T1	"Termcat"
 T20	Term-diccionario 101 108	derecho
-#31	AnnotatorNotes T20 "Termcat"
+#31	AnnotatorNotes T20	"Termcat"
 T21	Term-diccionario 277 285	derechos
-#32	AnnotatorNotes T21 "Termcat"
+#32	AnnotatorNotes T21	"Termcat"
 T22	Term-diccionario 192 202	individual
-#33	AnnotatorNotes T22 "Termcat"
+#33	AnnotatorNotes T22	"Termcat"
 T23	Term-diccionario 260 269	perjuicio
-#34	AnnotatorNotes T23 "Termcat"
+#34	AnnotatorNotes T23	"Termcat"
 T24	Term-diccionario 335 343	temporal
-#35	AnnotatorNotes T24 "Termcat"
+#35	AnnotatorNotes T24	"Termcat"
 T25	Term-automatico 311 322	adquisición
-#36	AnnotatorNotes T25 "AttentionRank"
+#36	AnnotatorNotes T25	"AttentionRank"
 T26	Term-automatico 13 22	Promoción
-#37	AnnotatorNotes T26 "AttentionRank"
+#37	AnnotatorNotes T26	"AttentionRank"
 T27	Term-automatico 115 124	promoción
-#38	AnnotatorNotes T27 "AttentionRank"
+#38	AnnotatorNotes T27	"AttentionRank"
 T28	Term-automatico 13 32	Promoción económica
-#39	AnnotatorNotes T28 "AttentionRank"
+#39	AnnotatorNotes T28	"AttentionRank"
 T29	Term-automatico 115 134	promoción económica
-#40	AnnotatorNotes T29 "AttentionRank"
+#40	AnnotatorNotes T29	"AttentionRank"
 T30	Term-automatico 0 8	Artículo
-#41	AnnotatorNotes T30 "AttentionRank"
+#41	AnnotatorNotes T30	"AttentionRank"
 T31	Term-automatico 361 368	Sección
-#42	AnnotatorNotes T31 "AttentionRank"
+#42	AnnotatorNotes T31	"AttentionRank"
 T32	Term-automatico 226 243	apartado anterior
-#43	AnnotatorNotes T32 "AttentionRank"
+#43	AnnotatorNotes T32	"AttentionRank"
 T33	Term-automatico 162 170	convenio
-#44	AnnotatorNotes T33 "AttentionRank"
+#44	AnnotatorNotes T33	"AttentionRank"
 T34	Term-automatico 395 405	salariales
-#45	AnnotatorNotes T34 "AttentionRank"
+#45	AnnotatorNotes T34	"AttentionRank"
 T35	Term-automatico 385 394	garantías
-#46	AnnotatorNotes T35 "AttentionRank"
+#46	AnnotatorNotes T35	"AttentionRank"
 T36	Term-automatico 329 343	tramo temporal
-#47	AnnotatorNotes T36 "AttentionRank"
+#47	AnnotatorNotes T36	"AttentionRank"
 T37	Term-automatico 55 87	función del trabajo desarrollado
-#48	AnnotatorNotes T37 "AttentionRank"
+#48	AnnotatorNotes T37	"AttentionRank"
 T38	Term-automatico 40 50	trabajador
-#49	AnnotatorNotes T38 "AttentionRank"
+#49	AnnotatorNotes T38	"AttentionRank"
 T39	Term-automatico 260 285	perjuicio de los derechos
-#50	AnnotatorNotes T39 "AttentionRank"
+#50	AnnotatorNotes T39	"AttentionRank"
 T40	Term-automatico 374 382	Salarios
-#51	AnnotatorNotes T40 "AttentionRank"
+#51	AnnotatorNotes T40	"AttentionRank"
 T41	Term-automatico 101 108	derecho
-#52	AnnotatorNotes T41 "AttentionRank"
+#52	AnnotatorNotes T41	"AttentionRank"
 T42	Term-automatico 277 285	derechos
-#53	AnnotatorNotes T42 "AttentionRank"
+#53	AnnotatorNotes T42	"AttentionRank"
 T43	Term-automatico 260 296	perjuicio de los derechos adquiridos
-#54	AnnotatorNotes T43 "AttentionRank"
+#54	AnnotatorNotes T43	"AttentionRank"
 T44	Term-automatico 55 62	función
-#55	AnnotatorNotes T44 "AttentionRank"
+#55	AnnotatorNotes T44	"AttentionRank"
 T45	Term-automatico 142 180	términos fijados en convenio colectivo
-#56	AnnotatorNotes T45 "AttentionRank"
+#56	AnnotatorNotes T45	"AttentionRank"
 T46	Term-automatico 183 191	contrato
-#57	AnnotatorNotes T46 "AttentionRank"
+#57	AnnotatorNotes T46	"AttentionRank"
 T47	Term-automatico 162 180	convenio colectivo
-#58	AnnotatorNotes T47 "AttentionRank"
+#58	AnnotatorNotes T47	"AttentionRank"
 T48	Term-automatico 67 74	trabajo
-#59	AnnotatorNotes T48 "AttentionRank"
+#59	AnnotatorNotes T48	"AttentionRank"
 T49	Term-automatico 302 307	curso
-#60	AnnotatorNotes T49 "AttentionRank"
+#60	AnnotatorNotes T49	"AttentionRank"
 T50	Term-automatico 226 234	apartado
-#61	AnnotatorNotes T50 "AttentionRank"
-#62	AnnotatorNotes T12 "LabourLaw"
-#63	AnnotatorNotes T6 "LabourLaw"
-#64	AnnotatorNotes T2 "LabourLaw"
-#65	AnnotatorNotes T8 "LabourLaw"
+#61	AnnotatorNotes T50	"AttentionRank"
+#62	AnnotatorNotes T12	"LabourLaw"
+#63	AnnotatorNotes T6	"LabourLaw"
+#64	AnnotatorNotes T2	"LabourLaw"
+#65	AnnotatorNotes T8	"LabourLaw"
 T51	Term-diccionario 40 50	trabajador
-#66	AnnotatorNotes T51 "LabourLaw"
-#67	AnnotatorNotes T7 "LabourLaw"
-#68	AnnotatorNotes T10 "LabourLaw"
-#69	AnnotatorNotes T20 "LabourLaw"
+#66	AnnotatorNotes T51	"LabourLaw"
+#67	AnnotatorNotes T7	"LabourLaw"
+#68	AnnotatorNotes T10	"LabourLaw"
+#69	AnnotatorNotes T20	"LabourLaw"
 T52	Term-diccionario 277 284	derecho
-#70	AnnotatorNotes T52 "LabourLaw"
-#71	AnnotatorNotes T23 "LabourLaw"
+#70	AnnotatorNotes T52	"LabourLaw"
+#71	AnnotatorNotes T23	"LabourLaw"
 T53	Term-diccionario 142 149	término
-#72	AnnotatorNotes T53 "LabourLaw"
+#72	AnnotatorNotes T53	"LabourLaw"
 T54	Term-diccionario 171 180	colectivo
-#73	AnnotatorNotes T54 "LabourLaw"
-#74	AnnotatorNotes T7 "LabourLaw"
-#75	AnnotatorNotes T10 "LabourLaw"
-#76	AnnotatorNotes T14 "IATE"
-#77	AnnotatorNotes T19 "IATE"
-#78	AnnotatorNotes T7 "IATE"
-#79	AnnotatorNotes T4 "IATE"
-#80	AnnotatorNotes T11 "IATE"
-#81	AnnotatorNotes T13 "IATE"
-#82	AnnotatorNotes T51 "IATE"
-#83	AnnotatorNotes T15 "IATE"
-#84	AnnotatorNotes T8 "IATE"
-#85	AnnotatorNotes T3 "IATE"
+#73	AnnotatorNotes T54	"LabourLaw"
+#74	AnnotatorNotes T7	"LabourLaw"
+#75	AnnotatorNotes T10	"LabourLaw"
+#76	AnnotatorNotes T14	"IATE"
+#77	AnnotatorNotes T19	"IATE"
+#78	AnnotatorNotes T7	"IATE"
+#79	AnnotatorNotes T4	"IATE"
+#80	AnnotatorNotes T11	"IATE"
+#81	AnnotatorNotes T13	"IATE"
+#82	AnnotatorNotes T51	"IATE"
+#83	AnnotatorNotes T15	"IATE"
+#84	AnnotatorNotes T8	"IATE"
+#85	AnnotatorNotes T3	"IATE"
