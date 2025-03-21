@@ -1,78 +1,78 @@
-T1	Term-diccionario 852 856	caso
+T1	Term-refs 852 856	caso
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 323 330	proceso
+T2	Term-refs 323 330	proceso
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 323 340	proceso electoral
+T3	Term-refs 323 340	proceso electoral
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 122 129	trabajo
+T4	Term-refs 122 129	trabajo
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 50 57	empresa
+T5	Term-refs 50 57	empresa
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 1046 1053	empresa
+T6	Term-refs 1046 1053	empresa
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 113 118	lugar
+T7	Term-refs 113 118	lugar
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 583 597	mesa electoral
+T8	Term-refs 583 597	mesa electoral
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 1015 1032	mesas electorales
+T9	Term-refs 1015 1032	mesas electorales
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 583 587	mesa
+T10	Term-refs 583 587	mesa
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 923 927	mesa
+T11	Term-refs 923 927	mesa
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 1164 1168	mesa
+T12	Term-refs 1164 1168	mesa
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 1505 1509	mesa
+T13	Term-refs 1505 1509	mesa
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 1635 1639	mesa
+T14	Term-refs 1635 1639	mesa
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 1696 1700	mesa
+T15	Term-refs 1696 1700	mesa
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 1015 1020	mesas
+T16	Term-refs 1015 1020	mesas
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 757 761	acta
+T17	Term-refs 757 761	acta
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 879 883	acta
+T18	Term-refs 879 883	acta
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 1099 1103	acta
+T19	Term-refs 1099 1103	acta
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 1189 1193	acta
+T20	Term-refs 1189 1193	acta
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 1393 1397	acta
+T21	Term-refs 1393 1397	acta
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 1478 1482	acta
+T22	Term-refs 1478 1482	acta
 #22	AnnotatorNotes T22	"DPEJ"
-T23	Term-diccionario 374 382	personal
+T23	Term-refs 374 382	personal
 #23	AnnotatorNotes T23	"DPEJ"
-T24	Term-diccionario 143 150	jornada
+T24	Term-refs 143 150	jornada
 #24	AnnotatorNotes T24	"DPEJ"
-T25	Term-diccionario 13 21	Votación
+T25	Term-refs 13 21	Votación
 #25	AnnotatorNotes T25	"DPEJ"
-T26	Term-diccionario 76 84	votación
+T26	Term-refs 76 84	votación
 #26	AnnotatorNotes T26	"DPEJ"
-T27	Term-diccionario 301 309	votación
+T27	Term-refs 301 309	votación
 #27	AnnotatorNotes T27	"DPEJ"
-T28	Term-diccionario 570 578	votación
+T28	Term-refs 570 578	votación
 #28	AnnotatorNotes T28	"DPEJ"
-T29	Term-diccionario 1131 1139	votación
+T29	Term-refs 1131 1139	votación
 #29	AnnotatorNotes T29	"DPEJ"
-T30	Term-diccionario 1323 1331	votación
+T30	Term-refs 1323 1331	votación
 #30	AnnotatorNotes T30	"DPEJ"
-T31	Term-diccionario 0 8	Artículo
+T31	Term-refs 0 8	Artículo
 #31	AnnotatorNotes T31	"DPEJ"
-T32	Term-diccionario 719 728	resultado
+T32	Term-refs 719 728	resultado
 #32	AnnotatorNotes T32	"DPEJ"
-T33	Term-diccionario 1108 1117	resultado
+T33	Term-refs 1108 1117	resultado
 #33	AnnotatorNotes T33	"DPEJ"
-T34	Term-diccionario 1307 1316	resultado
+T34	Term-refs 1307 1316	resultado
 #34	AnnotatorNotes T34	"DPEJ"
-T35	Term-diccionario 104 110	centro
+T35	Term-refs 104 110	centro
 #35	AnnotatorNotes T35	"DPEJ"
-T36	Term-diccionario 1056 1062	centro
+T36	Term-refs 1056 1062	centro
 #36	AnnotatorNotes T36	"DPEJ"
-T37	Term-diccionario 1478 1509	acta de constitución de la mesa
+T37	Term-refs 1478 1509	acta de constitución de la mesa
 #37	AnnotatorNotes T37	"DPEJ"
-T38	Term-diccionario 185 191	normas
+T38	Term-refs 185 191	normas
 #38	AnnotatorNotes T38	"DPEJ"
 #39	AnnotatorNotes T19	"Termcat"
 #40	AnnotatorNotes T17	"Termcat"
@@ -80,35 +80,35 @@ T38	Term-diccionario 185 191	normas
 #42	AnnotatorNotes T18	"Termcat"
 #43	AnnotatorNotes T22	"Termcat"
 #44	AnnotatorNotes T20	"Termcat"
-T39	Term-diccionario 1593 1602	autoridad
+T39	Term-refs 1593 1602	autoridad
 #45	AnnotatorNotes T39	"Termcat"
-T40	Term-diccionario 1486 1498	constitución
+T40	Term-refs 1486 1498	constitución
 #46	AnnotatorNotes T40	"Termcat"
-T41	Term-diccionario 1535 1540	plazo
+T41	Term-refs 1535 1540	plazo
 #47	AnnotatorNotes T41	"Termcat"
-T42	Term-diccionario 65 69	acto
+T42	Term-refs 65 69	acto
 #48	AnnotatorNotes T42	"Termcat"
-T43	Term-diccionario 997 1001	Acto
+T43	Term-refs 997 1001	Acto
 #49	AnnotatorNotes T43	"Termcat"
-T44	Term-diccionario 952 965	representante
+T44	Term-refs 952 965	representante
 #50	AnnotatorNotes T44	"Termcat"
-T45	Term-diccionario 1280 1294	representantes
+T45	Term-refs 1280 1294	representantes
 #51	AnnotatorNotes T45	"Termcat"
 #52	AnnotatorNotes T31	"Termcat"
-T46	Term-diccionario 1197 1207	escrutinio
+T46	Term-refs 1197 1207	escrutinio
 #53	AnnotatorNotes T46	"Termcat"
-T47	Term-diccionario 733 743	escrutinio
+T47	Term-refs 733 743	escrutinio
 #54	AnnotatorNotes T47	"Termcat"
 #55	AnnotatorNotes T38	"Termcat"
-T48	Term-diccionario 1067 1074	reunión
+T48	Term-refs 1067 1074	reunión
 #56	AnnotatorNotes T48	"Termcat"
-T49	Term-diccionario 207 211	voto
+T49	Term-refs 207 211	voto
 #57	AnnotatorNotes T49	"Termcat"
-T50	Term-diccionario 348 352	voto
+T50	Term-refs 348 352	voto
 #58	AnnotatorNotes T50	"Termcat"
-T51	Term-diccionario 1426 1431	votos
+T51	Term-refs 1426 1431	votos
 #59	AnnotatorNotes T51	"Termcat"
-T52	Term-diccionario 636 641	votos
+T52	Term-refs 636 641	votos
 #60	AnnotatorNotes T52	"Termcat"
 #61	AnnotatorNotes T25	"Termcat"
 #62	AnnotatorNotes T27	"Termcat"
@@ -116,31 +116,31 @@ T52	Term-diccionario 636 641	votos
 #64	AnnotatorNotes T26	"Termcat"
 #65	AnnotatorNotes T30	"Termcat"
 #66	AnnotatorNotes T29	"Termcat"
-T53	Term-diccionario 688 692	alta
+T53	Term-refs 688 692	alta
 #67	AnnotatorNotes T53	"Termcat"
-T54	Term-diccionario 1593 1610	autoridad laboral
+T54	Term-refs 1593 1610	autoridad laboral
 #68	AnnotatorNotes T54	"Termcat"
 #69	AnnotatorNotes T6	"Termcat"
 #70	AnnotatorNotes T5	"Termcat"
-T55	Term-diccionario 143 158	jornada laboral
+T55	Term-refs 143 158	jornada laboral
 #71	AnnotatorNotes T55	"Termcat"
-T56	Term-diccionario 113 129	lugar de trabajo
+T56	Term-refs 113 129	lugar de trabajo
 #72	AnnotatorNotes T56	"Termcat"
 #73	AnnotatorNotes T8	"Termcat"
 #74	AnnotatorNotes T9	"Termcat"
 #75	AnnotatorNotes T23	"Termcat"
-T57	Term-diccionario 284 294	desarrollo
+T57	Term-refs 284 294	desarrollo
 #76	AnnotatorNotes T57	"Termcat"
-T58	Term-diccionario 253 259	medios
+T58	Term-refs 253 259	medios
 #77	AnnotatorNotes T58	"Termcat"
-T59	Term-diccionario 828 837	protestas
+T59	Term-refs 828 837	protestas
 #78	AnnotatorNotes T59	"Termcat"
 #79	AnnotatorNotes T2	"Termcat"
-T60	Term-diccionario 457 464	calidad
+T60	Term-refs 457 464	calidad
 #80	AnnotatorNotes T60	"Termcat"
-T61	Term-diccionario 1251 1263	candidaturas
+T61	Term-refs 1251 1263	candidaturas
 #81	AnnotatorNotes T61	"Termcat"
-T62	Term-diccionario 174 180	cuenta
+T62	Term-refs 174 180	cuenta
 #82	AnnotatorNotes T62	"Termcat"
 #83	AnnotatorNotes T4	"Termcat"
 #84	AnnotatorNotes T12	"Termcat"
@@ -148,9 +148,9 @@ T62	Term-diccionario 174 180	cuenta
 #86	AnnotatorNotes T15	"Termcat"
 #87	AnnotatorNotes T14	"Termcat"
 #88	AnnotatorNotes T11	"Termcat"
-T63	Term-diccionario 365 372	secreto
+T63	Term-refs 365 372	secreto
 #89	AnnotatorNotes T63	"Termcat"
-T64	Term-diccionario 624 632	recuento
+T64	Term-refs 624 632	recuento
 #90	AnnotatorNotes T64	"Termcat"
 #91	AnnotatorNotes T32	"Termcat"
 #92	AnnotatorNotes T34	"Termcat"
@@ -296,7 +296,7 @@ T133	Term-automatico 970 980	empresario
 T134	Term-automatico 1211 1221	empresario
 #163	AnnotatorNotes T134	"AttentionRank"
 #164	AnnotatorNotes T56	"LabourLaw"
-T135	Term-diccionario 1559 1574	oficina pública
+T135	Term-refs 1559 1574	oficina pública
 #165	AnnotatorNotes T135	"LabourLaw"
 #166	AnnotatorNotes T8	"LabourLaw"
 #167	AnnotatorNotes T54	"LabourLaw"
@@ -310,38 +310,38 @@ T135	Term-diccionario 1559 1574	oficina pública
 #175	AnnotatorNotes T29	"LabourLaw"
 #176	AnnotatorNotes T30	"LabourLaw"
 #177	AnnotatorNotes T44	"LabourLaw"
-T136	Term-diccionario 1280 1293	representante
+T136	Term-refs 1280 1293	representante
 #178	AnnotatorNotes T136	"LabourLaw"
-T137	Term-diccionario 227 237	empresario
+T137	Term-refs 227 237	empresario
 #179	AnnotatorNotes T137	"LabourLaw"
-T138	Term-diccionario 970 980	empresario
+T138	Term-refs 970 980	empresario
 #180	AnnotatorNotes T138	"LabourLaw"
-T139	Term-diccionario 1211 1221	empresario
+T139	Term-refs 1211 1221	empresario
 #181	AnnotatorNotes T139	"LabourLaw"
 #182	AnnotatorNotes T39	"LabourLaw"
-T140	Term-diccionario 27 35	delegado
+T140	Term-refs 27 35	delegado
 #183	AnnotatorNotes T140	"LabourLaw"
 #184	AnnotatorNotes T5	"LabourLaw"
-T141	Term-diccionario 227 234	empresa
+T141	Term-refs 227 234	empresa
 #185	AnnotatorNotes T141	"LabourLaw"
-T142	Term-diccionario 970 977	empresa
+T142	Term-refs 970 977	empresa
 #186	AnnotatorNotes T142	"LabourLaw"
 #187	AnnotatorNotes T6	"LabourLaw"
-T143	Term-diccionario 1211 1218	empresa
+T143	Term-refs 1211 1218	empresa
 #188	AnnotatorNotes T143	"LabourLaw"
-T144	Term-diccionario 39 45	comité
+T144	Term-refs 39 45	comité
 #189	AnnotatorNotes T144	"LabourLaw"
 #190	AnnotatorNotes T48	"LabourLaw"
 #191	AnnotatorNotes T23	"LabourLaw"
-T145	Term-diccionario 374 381	persona
+T145	Term-refs 374 381	persona
 #192	AnnotatorNotes T145	"LabourLaw"
-T146	Term-diccionario 889 894	firma
+T146	Term-refs 889 894	firma
 #193	AnnotatorNotes T146	"LabourLaw"
-T147	Term-diccionario 669 679	presidente
+T147	Term-refs 669 679	presidente
 #194	AnnotatorNotes T147	"IATE"
-T148	Term-diccionario 1147 1157	presidente
+T148	Term-refs 1147 1157	presidente
 #195	AnnotatorNotes T148	"IATE"
-T149	Term-diccionario 1618 1628	presidente
+T149	Term-refs 1618 1628	presidente
 #196	AnnotatorNotes T149	"IATE"
 #197	AnnotatorNotes T31	"IATE"
 #198	AnnotatorNotes T41	"IATE"
@@ -351,7 +351,7 @@ T149	Term-diccionario 1618 1628	presidente
 #202	AnnotatorNotes T137	"IATE"
 #203	AnnotatorNotes T138	"IATE"
 #204	AnnotatorNotes T139	"IATE"
-T150	Term-diccionario 27 36	delegados
+T150	Term-refs 27 36	delegados
 #205	AnnotatorNotes T150	"IATE"
 #206	AnnotatorNotes T2	"IATE"
 #207	AnnotatorNotes T25	"IATE"
@@ -360,7 +360,7 @@ T150	Term-diccionario 27 36	delegados
 #210	AnnotatorNotes T28	"IATE"
 #211	AnnotatorNotes T29	"IATE"
 #212	AnnotatorNotes T30	"IATE"
-T151	Term-diccionario 1682 1689	miembro
+T151	Term-refs 1682 1689	miembro
 #213	AnnotatorNotes T151	"IATE"
 #214	AnnotatorNotes T17	"IATE"
 #215	AnnotatorNotes T18	"IATE"

@@ -1,50 +1,50 @@
-T1	Term-diccionario 808 816	salarial
+T1	Term-refs 808 816	salarial
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 608 612	caso
+T2	Term-refs 608 612	caso
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 773 777	caso
+T3	Term-refs 773 777	caso
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 402 408	órgano
+T4	Term-refs 402 408	órgano
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 870 881	retribución
+T5	Term-refs 870 881	retribución
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 87 94	trabajo
+T6	Term-refs 87 94	trabajo
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 683 690	trabajo
+T7	Term-refs 683 690	trabajo
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 901 908	trabajo
+T8	Term-refs 901 908	trabajo
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 974 981	trabajo
+T9	Term-refs 974 981	trabajo
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 24 32	contrato
+T10	Term-refs 24 32	contrato
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 75 83	contrato
+T11	Term-refs 75 83	contrato
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 389 397	contrato
+T12	Term-refs 389 397	contrato
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 623 631	contrato
+T13	Term-refs 623 631	contrato
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 750 758	contrato
+T14	Term-refs 750 758	contrato
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 962 970	contrato
+T15	Term-refs 962 970	contrato
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 441 450	instancia
+T16	Term-refs 441 450	instancia
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 793 807	discriminación
+T17	Term-refs 793 807	discriminación
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 0 8	Artículo
+T18	Term-refs 0 8	Artículo
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 230 238	artículo
+T19	Term-refs 230 238	artículo
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 471 478	nulidad
+T20	Term-refs 471 478	nulidad
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 781 788	nulidad
+T21	Term-refs 781 788	nulidad
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 12 19	Validez
+T22	Term-refs 12 19	Validez
 #22	AnnotatorNotes T22	"DPEJ"
 #23	AnnotatorNotes T16	"Termcat"
 #24	AnnotatorNotes T5	"Termcat"
-T23	Term-diccionario 933 940	Sección
+T23	Term-refs 933 940	Sección
 #25	AnnotatorNotes T23	"Termcat"
 #26	AnnotatorNotes T13	"Termcat"
 #27	AnnotatorNotes T11	"Termcat"
@@ -56,40 +56,40 @@ T23	Term-diccionario 933 940	Sección
 #33	AnnotatorNotes T21	"Termcat"
 #34	AnnotatorNotes T18	"Termcat"
 #35	AnnotatorNotes T19	"Termcat"
-T24	Term-diccionario 65 70	parte
+T24	Term-refs 65 70	parte
 #36	AnnotatorNotes T24	"Termcat"
-T25	Term-diccionario 369 374	parte
+T25	Term-refs 369 374	parte
 #37	AnnotatorNotes T25	"Termcat"
-T26	Term-diccionario 454 459	parte
+T26	Term-refs 454 459	parte
 #38	AnnotatorNotes T26	"Termcat"
-T27	Term-diccionario 557 562	parte
+T27	Term-refs 557 562	parte
 #39	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 75 94	contrato de trabajo
+T28	Term-refs 75 94	contrato de trabajo
 #40	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 962 981	contrato de trabajo
+T29	Term-refs 962 981	contrato de trabajo
 #41	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 793 816	discriminación salarial
+T30	Term-refs 793 816	discriminación salarial
 #42	AnnotatorNotes T30	"Termcat"
 #43	AnnotatorNotes T7	"Termcat"
 #44	AnnotatorNotes T8	"Termcat"
-T31	Term-diccionario 719 731	remuneración
+T31	Term-refs 719 731	remuneración
 #45	AnnotatorNotes T31	"Termcat"
 #46	AnnotatorNotes T17	"Termcat"
-T32	Term-diccionario 857 864	derecho
+T32	Term-refs 857 864	derecho
 #47	AnnotatorNotes T32	"Termcat"
-T33	Term-diccionario 415 427	jurisdicción
+T33	Term-refs 415 427	jurisdicción
 #48	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 200 208	conforme
+T34	Term-refs 200 208	conforme
 #49	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 415 434	jurisdicción social
+T35	Term-refs 415 434	jurisdicción social
 #50	AnnotatorNotes T35	"Termcat"
 #51	AnnotatorNotes T4	"Termcat"
-T36	Term-diccionario 494 509	pronunciamiento
+T36	Term-refs 494 509	pronunciamiento
 #52	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 821 826	razón
+T37	Term-refs 821 826	razón
 #53	AnnotatorNotes T37	"Termcat"
 #54	AnnotatorNotes T22	"Termcat"
-T38	Term-diccionario 439 459	a instancia de parte
+T38	Term-refs 439 459	a instancia de parte
 #55	AnnotatorNotes T38	"Termcat"
 T39	Term-automatico 821 826	razón
 #56	AnnotatorNotes T39	"AttentionRank"
@@ -176,9 +176,9 @@ T79	Term-automatico 773 777	caso
 #97	AnnotatorNotes T28	"LabourLaw"
 #98	AnnotatorNotes T29	"LabourLaw"
 #99	AnnotatorNotes T35	"LabourLaw"
-T80	Term-diccionario 113 119	válido
+T80	Term-refs 113 119	válido
 #100	AnnotatorNotes T80	"LabourLaw"
-T81	Term-diccionario 759 765	válido
+T81	Term-refs 759 765	válido
 #101	AnnotatorNotes T81	"LabourLaw"
 #102	AnnotatorNotes T33	"LabourLaw"
 #103	AnnotatorNotes T6	"LabourLaw"
@@ -192,23 +192,23 @@ T81	Term-diccionario 759 765	válido
 #111	AnnotatorNotes T14	"LabourLaw"
 #112	AnnotatorNotes T15	"LabourLaw"
 #113	AnnotatorNotes T36	"LabourLaw"
-T82	Term-diccionario 250 260	trabajador
+T82	Term-refs 250 260	trabajador
 #114	AnnotatorNotes T82	"LabourLaw"
-T83	Term-diccionario 651 661	trabajador
+T83	Term-refs 651 661	trabajador
 #115	AnnotatorNotes T83	"LabourLaw"
-T84	Term-diccionario 839 849	trabajador
+T84	Term-refs 839 849	trabajador
 #116	AnnotatorNotes T84	"LabourLaw"
-T85	Term-diccionario 170 178	precepto
+T85	Term-refs 170 178	precepto
 #117	AnnotatorNotes T85	"LabourLaw"
 #118	AnnotatorNotes T17	"LabourLaw"
 #119	AnnotatorNotes T31	"LabourLaw"
-T86	Term-diccionario 534 543	supresión
+T86	Term-refs 534 543	supresión
 #120	AnnotatorNotes T86	"LabourLaw"
 #121	AnnotatorNotes T4	"LabourLaw"
 #122	AnnotatorNotes T32	"LabourLaw"
-T87	Term-diccionario 519 531	subsistencia
+T87	Term-refs 519 531	subsistencia
 #123	AnnotatorNotes T87	"LabourLaw"
-T88	Term-diccionario 830 834	sexo
+T88	Term-refs 830 834	sexo
 #124	AnnotatorNotes T88	"LabourLaw"
 #125	AnnotatorNotes T20	"IATE"
 #126	AnnotatorNotes T21	"IATE"

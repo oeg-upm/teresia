@@ -1,133 +1,133 @@
-T1	Term-diccionario 209 213	caso
+T1	Term-refs 209 213	caso
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 748 752	caso
+T2	Term-refs 748 752	caso
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 1101 1105	caso
+T3	Term-refs 1101 1105	caso
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 1476 1480	caso
+T4	Term-refs 1476 1480	caso
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 153 158	regla
+T5	Term-refs 153 158	regla
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 783 789	ámbito
+T6	Term-refs 783 789	ámbito
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 1038 1044	ámbito
+T7	Term-refs 1038 1044	ámbito
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 1412 1418	ámbito
+T8	Term-refs 1412 1418	ámbito
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 869 876	Trabajo
+T9	Term-refs 869 876	Trabajo
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 1065 1070	lugar
+T10	Term-refs 1065 1070	lugar
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 1117 1125	traslado
+T11	Term-refs 1117 1125	traslado
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 1557 1565	traslado
+T12	Term-refs 1557 1565	traslado
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 566 577	actividades
+T13	Term-refs 566 577	actividades
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 1241 1262	comunidades autónomas
+T14	Term-refs 1241 1262	comunidades autónomas
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 1617 1635	comunidad autónoma
+T15	Term-refs 1617 1635	comunidad autónoma
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 1163 1179	descanso laboral
+T16	Term-refs 1163 1179	descanso laboral
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 1275 1281	límite
+T17	Term-refs 1275 1281	límite
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 393 403	aplicación
+T18	Term-refs 393 403	aplicación
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 1241 1252	comunidades
+T19	Term-refs 1241 1252	comunidades
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 1617 1626	comunidad
+T20	Term-refs 1617 1626	comunidad
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 327 331	años
+T21	Term-refs 327 331	años
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 697 700	año
+T22	Term-refs 697 700	año
 #22	AnnotatorNotes T22	"DPEJ"
-T23	Term-diccionario 1776 1779	año
+T23	Term-refs 1776 1779	año
 #23	AnnotatorNotes T23	"DPEJ"
-T24	Term-diccionario 831 834	Año
+T24	Term-refs 831 834	Año
 #24	AnnotatorNotes T24	"DPEJ"
-T25	Term-diccionario 443 451	artículo
+T25	Term-refs 443 451	artículo
 #25	AnnotatorNotes T25	"DPEJ"
-T26	Term-diccionario 1734 1740	número
+T26	Term-refs 1734 1740	número
 #26	AnnotatorNotes T26	"DPEJ"
 #27	AnnotatorNotes T14	"Termcat"
 #28	AnnotatorNotes T15	"Termcat"
 #29	AnnotatorNotes T19	"Termcat"
 #30	AnnotatorNotes T20	"Termcat"
-T27	Term-diccionario 1545 1553	facultad
+T27	Term-refs 1545 1553	facultad
 #31	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 1354 1363	tradición
+T28	Term-refs 1354 1363	tradición
 #32	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 1535 1538	uso
+T29	Term-refs 1535 1538	uso
 #33	AnnotatorNotes T29	"Termcat"
 #34	AnnotatorNotes T25	"Termcat"
-T30	Term-diccionario 1163 1171	descanso
+T30	Term-refs 1163 1171	descanso
 #35	AnnotatorNotes T30	"Termcat"
-T31	Term-diccionario 41 49	descanso
+T31	Term-refs 41 49	descanso
 #36	AnnotatorNotes T31	"Termcat"
-T32	Term-diccionario 539 547	descanso
+T32	Term-refs 539 547	descanso
 #37	AnnotatorNotes T32	"Termcat"
-T33	Term-diccionario 282 298	descanso semanal
+T33	Term-refs 282 298	descanso semanal
 #38	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 407 423	descanso semanal
+T34	Term-refs 407 423	descanso semanal
 #39	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 1299 1312	días festivos
+T35	Term-refs 1299 1312	días festivos
 #40	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 1202 1209	fiestas
+T36	Term-refs 1202 1209	fiestas
 #41	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 1027 1034	fiestas
+T37	Term-refs 1027 1034	fiestas
 #42	AnnotatorNotes T37	"Termcat"
-T38	Term-diccionario 772 779	fiestas
+T38	Term-refs 772 779	fiestas
 #43	AnnotatorNotes T38	"Termcat"
-T39	Term-diccionario 1744 1751	fiestas
+T39	Term-refs 1744 1751	fiestas
 #44	AnnotatorNotes T39	"Termcat"
-T40	Term-diccionario 1669 1676	fiestas
+T40	Term-refs 1669 1676	fiestas
 #45	AnnotatorNotes T40	"Termcat"
-T41	Term-diccionario 1338 1345	fiestas
+T41	Term-refs 1338 1345	fiestas
 #46	AnnotatorNotes T41	"Termcat"
-T42	Term-diccionario 900 906	Fiesta
+T42	Term-refs 900 906	Fiesta
 #47	AnnotatorNotes T42	"Termcat"
-T43	Term-diccionario 858 864	Fiesta
+T43	Term-refs 858 864	Fiesta
 #48	AnnotatorNotes T43	"Termcat"
-T44	Term-diccionario 1807 1813	fiesta
+T44	Term-refs 1807 1813	fiesta
 #49	AnnotatorNotes T44	"Termcat"
 #50	AnnotatorNotes T9	"Termcat"
-T45	Term-diccionario 596 613	fiestas laborales
+T45	Term-refs 596 613	fiestas laborales
 #51	AnnotatorNotes T45	"Termcat"
-T46	Term-diccionario 1077 1083	semana
+T46	Term-refs 1077 1083	semana
 #52	AnnotatorNotes T46	"Termcat"
 #53	AnnotatorNotes T11	"Termcat"
 #54	AnnotatorNotes T12	"Termcat"
-T47	Term-diccionario 269 277	duración
+T47	Term-refs 269 277	duración
 #55	AnnotatorNotes T47	"Termcat"
-T48	Term-diccionario 28 35	derecho
+T48	Term-refs 28 35	derecho
 #56	AnnotatorNotes T48	"Termcat"
-T49	Term-diccionario 980 988	Gobierno
+T49	Term-refs 980 988	Gobierno
 #57	AnnotatorNotes T49	"Termcat"
-T50	Term-diccionario 122 127	medio
+T50	Term-refs 122 127	medio
 #58	AnnotatorNotes T50	"Termcat"
 #59	AnnotatorNotes T13	"Termcat"
 #60	AnnotatorNotes T18	"Termcat"
-T51	Term-diccionario 306 313	menores
+T51	Term-refs 306 313	menores
 #61	AnnotatorNotes T51	"Termcat"
-T52	Term-diccionario 1419 1427	nacional
+T52	Term-refs 1419 1427	nacional
 #62	AnnotatorNotes T52	"Termcat"
-T53	Term-diccionario 790 798	nacional
+T53	Term-refs 790 798	nacional
 #63	AnnotatorNotes T53	"Termcat"
-T54	Term-diccionario 1045 1053	nacional
+T54	Term-refs 1045 1053	nacional
 #64	AnnotatorNotes T54	"Termcat"
-T55	Term-diccionario 907 915	Nacional
+T55	Term-refs 907 915	Nacional
 #65	AnnotatorNotes T55	"Termcat"
-T56	Term-diccionario 1752 1762	nacionales
+T56	Term-refs 1752 1762	nacionales
 #66	AnnotatorNotes T56	"Termcat"
 #67	AnnotatorNotes T5	"Termcat"
-T57	Term-diccionario 1677 1690	tradicionales
+T57	Term-refs 1677 1690	tradicionales
 #68	AnnotatorNotes T57	"Termcat"
-T58	Term-diccionario 1647 1657	establecer
+T58	Term-refs 1647 1657	establecer
 #69	AnnotatorNotes T58	"Termcat"
-T59	Term-diccionario 1321 1328	señalar
+T59	Term-refs 1321 1328	señalar
 #70	AnnotatorNotes T59	"Termcat"
-T60	Term-diccionario 995 1004	trasladar
+T60	Term-refs 995 1004	trasladar
 #71	AnnotatorNotes T60	"Termcat"
 T61	Term-automatico 1275 1281	límite
 #72	AnnotatorNotes T61	"AttentionRank"
@@ -275,32 +275,32 @@ T132	Term-automatico 900 906	Fiesta
 #143	AnnotatorNotes T132	"AttentionRank"
 T133	Term-automatico 1807 1813	fiesta
 #144	AnnotatorNotes T133	"AttentionRank"
-T134	Term-diccionario 675 682	exceder
+T134	Term-refs 675 682	exceder
 #145	AnnotatorNotes T134	"LabourLaw"
 #146	AnnotatorNotes T18	"LabourLaw"
 #147	AnnotatorNotes T11	"LabourLaw"
 #148	AnnotatorNotes T12	"LabourLaw"
 #149	AnnotatorNotes T31	"LabourLaw"
-T135	Term-diccionario 282 290	descanso
+T135	Term-refs 282 290	descanso
 #150	AnnotatorNotes T135	"LabourLaw"
-T136	Term-diccionario 407 415	descanso
+T136	Term-refs 407 415	descanso
 #151	AnnotatorNotes T136	"LabourLaw"
 #152	AnnotatorNotes T32	"LabourLaw"
 #153	AnnotatorNotes T30	"LabourLaw"
-T137	Term-diccionario 306 311	menor
+T137	Term-refs 306 311	menor
 #154	AnnotatorNotes T137	"LabourLaw"
-T138	Term-diccionario 7 17	trabajador
+T138	Term-refs 7 17	trabajador
 #155	AnnotatorNotes T138	"LabourLaw"
 #156	AnnotatorNotes T6	"LabourLaw"
 #157	AnnotatorNotes T7	"LabourLaw"
 #158	AnnotatorNotes T8	"LabourLaw"
 #159	AnnotatorNotes T47	"LabourLaw"
 #160	AnnotatorNotes T48	"LabourLaw"
-T139	Term-diccionario 1241 1250	comunidad
+T139	Term-refs 1241 1250	comunidad
 #161	AnnotatorNotes T139	"LabourLaw"
 #162	AnnotatorNotes T20	"LabourLaw"
 #163	AnnotatorNotes T27	"LabourLaw"
-T140	Term-diccionario 596 603	fiestas
+T140	Term-refs 596 603	fiestas
 #164	AnnotatorNotes T140	"LabourLaw"
 #165	AnnotatorNotes T38	"LabourLaw"
 #166	AnnotatorNotes T37	"LabourLaw"
@@ -308,18 +308,18 @@ T140	Term-diccionario 596 603	fiestas
 #168	AnnotatorNotes T41	"LabourLaw"
 #169	AnnotatorNotes T40	"LabourLaw"
 #170	AnnotatorNotes T39	"LabourLaw"
-T141	Term-diccionario 81 88	periodo
+T141	Term-refs 81 88	periodo
 #171	AnnotatorNotes T141	"LabourLaw"
 #172	AnnotatorNotes T18	"IATE"
 #173	AnnotatorNotes T25	"IATE"
 #174	AnnotatorNotes T19	"IATE"
 #175	AnnotatorNotes T20	"IATE"
-T142	Term-diccionario 7 19	trabajadores
+T142	Term-refs 7 19	trabajadores
 #176	AnnotatorNotes T142	"IATE"
 #177	AnnotatorNotes T13	"IATE"
-T143	Term-diccionario 627 635	carácter
+T143	Term-refs 627 635	carácter
 #178	AnnotatorNotes T143	"IATE"
-T144	Term-diccionario 1823 1831	carácter
+T144	Term-refs 1823 1831	carácter
 #179	AnnotatorNotes T144	"IATE"
 #180	AnnotatorNotes T31	"IATE"
 #181	AnnotatorNotes T135	"IATE"

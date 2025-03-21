@@ -1,54 +1,54 @@
-T1	Term-diccionario 363 368	casos
+T1	Term-refs 363 368	casos
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 784 789	casos
+T2	Term-refs 784 789	casos
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 40 47	trabajo
+T3	Term-refs 40 47	trabajo
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 1394 1401	trabajo
+T4	Term-refs 1394 1401	trabajo
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 271 283	cumplimiento
+T5	Term-refs 271 283	cumplimiento
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 28 36	contrato
+T6	Term-refs 28 36	contrato
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 745 753	contrato
+T7	Term-refs 745 753	contrato
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 1421 1429	contrato
+T8	Term-refs 1421 1429	contrato
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 1652 1657	forma
+T9	Term-refs 1652 1657	forma
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 885 894	condición
+T10	Term-refs 885 894	condición
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 429 434	causa
+T11	Term-refs 429 434	causa
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 548 557	instancia
+T12	Term-refs 548 557	instancia
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 517 527	suspensión
+T13	Term-refs 517 527	suspensión
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 718 728	suspensión
+T14	Term-refs 718 728	suspensión
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 998 1008	suspensión
+T15	Term-refs 998 1008	suspensión
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 1245 1255	suspensión
+T16	Term-refs 1245 1255	suspensión
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 1406 1416	suspensión
+T17	Term-refs 1406 1416	suspensión
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 1725 1735	suspensión
+T18	Term-refs 1725 1735	suspensión
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 3 13	nacimiento
+T19	Term-refs 3 13	nacimiento
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 291 298	deberes
+T20	Term-refs 291 298	deberes
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 1384 1390	puesto
+T21	Term-refs 1384 1390	puesto
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 245 252	jornada
+T22	Term-refs 245 252	jornada
 #22	AnnotatorNotes T22	"DPEJ"
-T23	Term-diccionario 326 334	artículo
+T23	Term-refs 326 334	artículo
 #23	AnnotatorNotes T23	"DPEJ"
-T24	Term-diccionario 618 623	fecha
+T24	Term-refs 618 623	fecha
 #24	AnnotatorNotes T24	"DPEJ"
 #25	AnnotatorNotes T10	"Termcat"
 #26	AnnotatorNotes T12	"Termcat"
-T25	Term-diccionario 1132 1140	términos
+T25	Term-refs 1132 1140	términos
 #27	AnnotatorNotes T25	"Termcat"
 #28	AnnotatorNotes T7	"Termcat"
 #29	AnnotatorNotes T8	"Termcat"
@@ -57,39 +57,39 @@ T25	Term-diccionario 1132 1140	términos
 #32	AnnotatorNotes T9	"Termcat"
 #33	AnnotatorNotes T19	"Termcat"
 #34	AnnotatorNotes T23	"Termcat"
-T26	Term-diccionario 342 348	Código
+T26	Term-refs 342 348	Código
 #35	AnnotatorNotes T26	"Termcat"
-T27	Term-diccionario 628 632	alta
+T27	Term-refs 628 632	alta
 #36	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 1469 1476	cuidado
+T28	Term-refs 1469 1476	cuidado
 #37	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 302 309	cuidado
+T29	Term-refs 302 309	cuidado
 #38	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 28 47	contrato de trabajo
+T30	Term-refs 28 47	contrato de trabajo
 #39	AnnotatorNotes T30	"Termcat"
-T31	Term-diccionario 1328 1348	descanso obligatorio
+T31	Term-refs 1328 1348	descanso obligatorio
 #40	AnnotatorNotes T31	"Termcat"
-T32	Term-diccionario 813 818	falta
+T32	Term-refs 813 818	falta
 #41	AnnotatorNotes T32	"Termcat"
-T33	Term-diccionario 245 261	jornada completa
+T33	Term-refs 245 261	jornada completa
 #42	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 1384 1401	puesto de trabajo
+T34	Term-refs 1384 1401	puesto de trabajo
 #43	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 1365 1380	reincorporación
+T35	Term-refs 1365 1380	reincorporación
 #44	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 685 692	semanas
+T36	Term-refs 685 692	semanas
 #45	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 1102 1109	semanas
+T37	Term-refs 1102 1109	semanas
 #46	AnnotatorNotes T37	"Termcat"
-T38	Term-diccionario 1317 1324	semanas
+T38	Term-refs 1317 1324	semanas
 #47	AnnotatorNotes T38	"Termcat"
-T39	Term-diccionario 105 112	semanas
+T39	Term-refs 105 112	semanas
 #48	AnnotatorNotes T39	"Termcat"
-T40	Term-diccionario 1527 1534	semanas
+T40	Term-refs 1527 1534	semanas
 #49	AnnotatorNotes T40	"Termcat"
-T41	Term-diccionario 156 163	semanas
+T41	Term-refs 156 163	semanas
 #50	AnnotatorNotes T41	"Termcat"
-T42	Term-diccionario 349 354	Civil
+T42	Term-refs 349 354	Civil
 #51	AnnotatorNotes T42	"Termcat"
 #52	AnnotatorNotes T17	"Termcat"
 #53	AnnotatorNotes T16	"Termcat"
@@ -99,21 +99,21 @@ T42	Term-diccionario 349 354	Civil
 #57	AnnotatorNotes T14	"Termcat"
 #58	AnnotatorNotes T11	"Termcat"
 #59	AnnotatorNotes T5	"Termcat"
-T43	Term-diccionario 668 675	cómputo
+T43	Term-refs 668 675	cómputo
 #60	AnnotatorNotes T43	"Termcat"
-T44	Term-diccionario 1328 1336	descanso
+T44	Term-refs 1328 1336	descanso
 #61	AnnotatorNotes T44	"Termcat"
-T45	Term-diccionario 78 93	madre biológica
+T45	Term-refs 78 93	madre biológica
 #62	AnnotatorNotes T45	"Termcat"
-T46	Term-diccionario 564 579	madre biológica
+T46	Term-refs 564 579	madre biológica
 #63	AnnotatorNotes T46	"Termcat"
-T47	Term-diccionario 760 775	madre biológica
+T47	Term-refs 760 775	madre biológica
 #64	AnnotatorNotes T47	"Termcat"
-T48	Term-diccionario 1480 1485	menor
+T48	Term-refs 1480 1485	menor
 #65	AnnotatorNotes T48	"Termcat"
-T49	Term-diccionario 961 969	superior
+T49	Term-refs 961 969	superior
 #66	AnnotatorNotes T49	"Termcat"
-T50	Term-diccionario 1593 1601	voluntad
+T50	Term-refs 1593 1601	voluntad
 #67	AnnotatorNotes T50	"Termcat"
 T51	Term-automatico 372 387	parto prematuro
 #68	AnnotatorNotes T51	"AttentionRank"
@@ -255,7 +255,7 @@ T119	Term-automatico 784 789	casos
 #136	AnnotatorNotes T119	"AttentionRank"
 #137	AnnotatorNotes T34	"LabourLaw"
 #138	AnnotatorNotes T30	"LabourLaw"
-T120	Term-diccionario 1406 1429	suspensión del contrato
+T120	Term-refs 1406 1429	suspensión del contrato
 #139	AnnotatorNotes T120	"LabourLaw"
 #140	AnnotatorNotes T33	"LabourLaw"
 #141	AnnotatorNotes T22	"LabourLaw"
@@ -267,27 +267,27 @@ T120	Term-diccionario 1406 1429	suspensión del contrato
 #147	AnnotatorNotes T8	"LabourLaw"
 #148	AnnotatorNotes T44	"LabourLaw"
 #149	AnnotatorNotes T48	"LabourLaw"
-T121	Term-diccionario 520 527	pensión
+T121	Term-refs 520 527	pensión
 #150	AnnotatorNotes T121	"LabourLaw"
-T122	Term-diccionario 721 728	pensión
+T122	Term-refs 721 728	pensión
 #151	AnnotatorNotes T122	"LabourLaw"
-T123	Term-diccionario 1001 1008	pensión
+T123	Term-refs 1001 1008	pensión
 #152	AnnotatorNotes T123	"LabourLaw"
-T124	Term-diccionario 1248 1255	pensión
+T124	Term-refs 1248 1255	pensión
 #153	AnnotatorNotes T124	"LabourLaw"
-T125	Term-diccionario 1409 1416	pensión
+T125	Term-refs 1409 1416	pensión
 #154	AnnotatorNotes T125	"LabourLaw"
-T126	Term-diccionario 1728 1735	pensión
+T126	Term-refs 1728 1735	pensión
 #155	AnnotatorNotes T126	"LabourLaw"
 #156	AnnotatorNotes T5	"LabourLaw"
-T127	Term-diccionario 1200 1213	fallecimiento
+T127	Term-refs 1200 1213	fallecimiento
 #157	AnnotatorNotes T127	"LabourLaw"
 #158	AnnotatorNotes T10	"LabourLaw"
-T128	Term-diccionario 291 296	deber
+T128	Term-refs 291 296	deber
 #159	AnnotatorNotes T128	"LabourLaw"
-T129	Term-diccionario 1132 1139	término
+T129	Term-refs 1132 1139	término
 #160	AnnotatorNotes T129	"LabourLaw"
-T130	Term-diccionario 534 542	computar
+T130	Term-refs 534 542	computar
 #161	AnnotatorNotes T130	"LabourLaw"
 #162	AnnotatorNotes T13	"LabourLaw"
 #163	AnnotatorNotes T14	"LabourLaw"
@@ -295,40 +295,40 @@ T130	Term-diccionario 534 542	computar
 #165	AnnotatorNotes T16	"LabourLaw"
 #166	AnnotatorNotes T17	"LabourLaw"
 #167	AnnotatorNotes T18	"LabourLaw"
-T131	Term-diccionario 506 513	periodo
+T131	Term-refs 506 513	periodo
 #168	AnnotatorNotes T131	"LabourLaw"
-T132	Term-diccionario 953 960	periodo
+T132	Term-refs 953 960	periodo
 #169	AnnotatorNotes T132	"LabourLaw"
-T133	Term-diccionario 987 994	periodo
+T133	Term-refs 987 994	periodo
 #170	AnnotatorNotes T133	"LabourLaw"
-T134	Term-diccionario 1234 1241	periodo
+T134	Term-refs 1234 1241	periodo
 #171	AnnotatorNotes T134	"LabourLaw"
-T135	Term-diccionario 479 491	continuación
+T135	Term-refs 479 491	continuación
 #172	AnnotatorNotes T135	"LabourLaw"
-T136	Term-diccionario 922 934	continuación
+T136	Term-refs 922 934	continuación
 #173	AnnotatorNotes T136	"LabourLaw"
-T137	Term-diccionario 210 215	parto
+T137	Term-refs 210 215	parto
 #174	AnnotatorNotes T137	"LabourLaw"
-T138	Term-diccionario 372 377	parto
+T138	Term-refs 372 377	parto
 #175	AnnotatorNotes T138	"LabourLaw"
-T139	Term-diccionario 496 501	parto
+T139	Term-refs 496 501	parto
 #176	AnnotatorNotes T139	"LabourLaw"
-T140	Term-diccionario 708 713	parto
+T140	Term-refs 708 713	parto
 #177	AnnotatorNotes T140	"LabourLaw"
-T141	Term-diccionario 793 798	parto
+T141	Term-refs 793 798	parto
 #178	AnnotatorNotes T141	"LabourLaw"
-T142	Term-diccionario 939 944	parto
+T142	Term-refs 939 944	parto
 #179	AnnotatorNotes T142	"LabourLaw"
-T143	Term-diccionario 1565 1570	parto
+T143	Term-refs 1565 1570	parto
 #180	AnnotatorNotes T143	"LabourLaw"
-T144	Term-diccionario 1761 1766	parto
+T144	Term-refs 1761 1766	parto
 #181	AnnotatorNotes T144	"LabourLaw"
 #182	AnnotatorNotes T23	"IATE"
-T145	Term-diccionario 52 62	progenitor
+T145	Term-refs 52 62	progenitor
 #183	AnnotatorNotes T145	"IATE"
-T146	Term-diccionario 591 601	progenitor
+T146	Term-refs 591 601	progenitor
 #184	AnnotatorNotes T146	"IATE"
-T147	Term-diccionario 1449 1461	progenitores
+T147	Term-refs 1449 1461	progenitores
 #185	AnnotatorNotes T147	"IATE"
 #186	AnnotatorNotes T32	"IATE"
 #187	AnnotatorNotes T13	"IATE"
@@ -344,9 +344,9 @@ T147	Term-diccionario 1449 1461	progenitores
 #197	AnnotatorNotes T8	"IATE"
 #198	AnnotatorNotes T19	"IATE"
 #199	AnnotatorNotes T44	"IATE"
-T148	Term-diccionario 1218 1222	hijo
+T148	Term-refs 1218 1222	hijo
 #200	AnnotatorNotes T148	"IATE"
-T149	Term-diccionario 1780 1784	hijo
+T149	Term-refs 1780 1784	hijo
 #201	AnnotatorNotes T149	"IATE"
-T150	Term-diccionario 1807 1812	meses
+T150	Term-refs 1807 1812	meses
 #202	AnnotatorNotes T150	"IATE"

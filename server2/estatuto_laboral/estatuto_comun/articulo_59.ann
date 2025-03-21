@@ -1,84 +1,84 @@
-T1	Term-diccionario 172 179	acuerdo
+T1	Term-refs 172 179	acuerdo
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 120 128	empresas
+T2	Term-refs 120 128	empresas
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 411 418	empresa
+T3	Term-refs 411 418	empresa
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 276 284	convenio
+T4	Term-refs 276 284	convenio
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 103 112	dirección
+T5	Term-refs 103 112	dirección
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 395 404	dirección
+T6	Term-refs 395 404	dirección
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 885 893	contrato
+T7	Term-refs 885 893	contrato
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 276 294	convenio colectivo
+T8	Term-refs 276 294	convenio colectivo
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 479 486	sanción
+T9	Term-refs 479 486	sanción
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 676 685	reducción
+T10	Term-refs 676 685	reducción
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 0 8	Artículo
+T11	Term-refs 0 8	Artículo
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 587 592	fecha
+T12	Term-refs 587 592	fecha
 #12	AnnotatorNotes T12	"DPEJ"
 #13	AnnotatorNotes T4	"Termcat"
-T13	Term-diccionario 820 832	PREscRIPcIón
+T13	Term-refs 820 832	PREscRIPcIón
 #14	AnnotatorNotes T13	"Termcat"
-T14	Term-diccionario 846 858	Prescripción
+T14	Term-refs 846 858	Prescripción
 #15	AnnotatorNotes T14	"Termcat"
-T15	Term-diccionario 782 787	multa
+T15	Term-refs 782 787	multa
 #16	AnnotatorNotes T15	"Termcat"
-T16	Term-diccionario 833 840	Sección
+T16	Term-refs 833 840	Sección
 #17	AnnotatorNotes T16	"Termcat"
-T17	Term-diccionario 809 815	PLazos
+T17	Term-refs 809 815	PLazos
 #18	AnnotatorNotes T17	"Termcat"
 #19	AnnotatorNotes T7	"Termcat"
 #20	AnnotatorNotes T9	"Termcat"
 #21	AnnotatorNotes T11	"Termcat"
-T18	Term-diccionario 798 806	CAPÍTULO
+T18	Term-refs 798 806	CAPÍTULO
 #22	AnnotatorNotes T18	"Termcat"
-T19	Term-diccionario 531 543	comunicación
+T19	Term-refs 531 543	comunicación
 #23	AnnotatorNotes T19	"Termcat"
 #24	AnnotatorNotes T8	"Termcat"
-T20	Term-diccionario 756 764	descanso
+T20	Term-refs 756 764	descanso
 #25	AnnotatorNotes T20	"Termcat"
 #26	AnnotatorNotes T6	"Termcat"
 #27	AnnotatorNotes T5	"Termcat"
 #28	AnnotatorNotes T2	"Termcat"
 #29	AnnotatorNotes T3	"Termcat"
-T21	Term-diccionario 13 19	Faltas
+T21	Term-refs 13 19	Faltas
 #30	AnnotatorNotes T21	"Termcat"
-T22	Term-diccionario 338 344	faltas
+T22	Term-refs 338 344	faltas
 #31	AnnotatorNotes T22	"Termcat"
-T23	Term-diccionario 201 207	faltas
+T23	Term-refs 201 207	faltas
 #32	AnnotatorNotes T23	"Termcat"
-T24	Term-diccionario 494 507	faltas graves
+T24	Term-refs 494 507	faltas graves
 #33	AnnotatorNotes T24	"Termcat"
-T25	Term-diccionario 726 736	minoración
+T25	Term-refs 726 736	minoración
 #34	AnnotatorNotes T25	"Termcat"
-T26	Term-diccionario 782 796	multa de haber
+T26	Term-refs 782 796	multa de haber
 #35	AnnotatorNotes T26	"Termcat"
-T27	Term-diccionario 708 718	vacaciones
+T27	Term-refs 708 718	vacaciones
 #36	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 692 700	duración
+T28	Term-refs 692 700	duración
 #37	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 744 752	derechos
+T29	Term-refs 744 752	derechos
 #38	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 455 467	jurisdicción
+T30	Term-refs 455 467	jurisdicción
 #39	AnnotatorNotes T30	"Termcat"
 #40	AnnotatorNotes T1	"Termcat"
-T31	Term-diccionario 599 605	hechos
+T31	Term-refs 599 605	hechos
 #41	AnnotatorNotes T31	"Termcat"
-T32	Term-diccionario 791 796	haber
+T32	Term-refs 791 796	haber
 #42	AnnotatorNotes T32	"Termcat"
-T33	Term-diccionario 142 157	incumplimientos
+T33	Term-refs 142 157	incumplimientos
 #43	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 455 474	jurisdicción social
+T34	Term-refs 455 474	jurisdicción social
 #44	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 260 267	legales
+T35	Term-refs 260 267	legales
 #45	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 531 551	comunicación escrita
+T36	Term-refs 531 551	comunicación escrita
 #46	AnnotatorNotes T36	"Termcat"
 T37	Term-automatico 455 474	jurisdicción social
 #47	AnnotatorNotes T37	"AttentionRank"
@@ -161,27 +161,27 @@ T73	Term-automatico 494 507	faltas graves
 #88	AnnotatorNotes T20	"LabourLaw"
 #89	AnnotatorNotes T5	"LabourLaw"
 #90	AnnotatorNotes T6	"LabourLaw"
-T74	Term-diccionario 39 49	trabajador
+T74	Term-refs 39 49	trabajador
 #91	AnnotatorNotes T74	"LabourLaw"
-T75	Term-diccionario 60 70	trabajador
+T75	Term-refs 60 70	trabajador
 #92	AnnotatorNotes T75	"LabourLaw"
-T76	Term-diccionario 555 565	trabajador
+T76	Term-refs 555 565	trabajador
 #93	AnnotatorNotes T76	"LabourLaw"
-T77	Term-diccionario 769 779	trabajador
+T77	Term-refs 769 779	trabajador
 #94	AnnotatorNotes T77	"LabourLaw"
-T78	Term-diccionario 144 156	cumplimiento
+T78	Term-refs 144 156	cumplimiento
 #95	AnnotatorNotes T78	"LabourLaw"
 #96	AnnotatorNotes T9	"LabourLaw"
 #97	AnnotatorNotes T27	"LabourLaw"
-T79	Term-diccionario 120 127	empresa
+T79	Term-refs 120 127	empresa
 #98	AnnotatorNotes T79	"LabourLaw"
 #99	AnnotatorNotes T3	"LabourLaw"
 #100	AnnotatorNotes T28	"LabourLaw"
-T80	Term-diccionario 744 751	derecho
+T80	Term-refs 744 751	derecho
 #101	AnnotatorNotes T80	"LabourLaw"
-T81	Term-diccionario 285 294	colectivo
+T81	Term-refs 285 294	colectivo
 #102	AnnotatorNotes T81	"LabourLaw"
-T82	Term-diccionario 142 156	incumplimiento
+T82	Term-refs 142 156	incumplimiento
 #103	AnnotatorNotes T82	"LabourLaw"
 #104	AnnotatorNotes T11	"IATE"
 #105	AnnotatorNotes T17	"IATE"
@@ -192,12 +192,12 @@ T82	Term-diccionario 142 156	incumplimiento
 #110	AnnotatorNotes T21	"IATE"
 #111	AnnotatorNotes T23	"IATE"
 #112	AnnotatorNotes T22	"IATE"
-T83	Term-diccionario 494 500	faltas
+T83	Term-refs 494 500	faltas
 #113	AnnotatorNotes T83	"IATE"
 #114	AnnotatorNotes T9	"IATE"
-T84	Term-diccionario 39 51	trabajadores
+T84	Term-refs 39 51	trabajadores
 #115	AnnotatorNotes T84	"IATE"
-T85	Term-diccionario 60 72	trabajadores
+T85	Term-refs 60 72	trabajadores
 #116	AnnotatorNotes T85	"IATE"
 #117	AnnotatorNotes T76	"IATE"
 #118	AnnotatorNotes T77	"IATE"

@@ -1,116 +1,116 @@
-T1	Term-diccionario 299 303	caso
+T1	Term-refs 299 303	caso
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 443 447	caso
+T2	Term-refs 443 447	caso
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 974 978	caso
+T3	Term-refs 974 978	caso
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 1412 1416	caso
+T4	Term-refs 1412 1416	caso
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 674 681	acuerdo
+T5	Term-refs 674 681	acuerdo
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 511 518	empresa
+T6	Term-refs 511 518	empresa
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 691 698	empresa
+T7	Term-refs 691 698	empresa
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 1296 1303	empresa
+T8	Term-refs 1296 1303	empresa
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 1547 1554	empresa
+T9	Term-refs 1547 1554	empresa
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 1425 1434	convenios
+T10	Term-refs 1425 1434	convenios
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 73 78	forma
+T11	Term-refs 73 78	forma
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 1196 1205	adoptante
+T12	Term-refs 1196 1205	adoptante
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 1462 1472	adoptantes
+T13	Term-refs 1462 1472	adoptantes
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 146 165	resolución judicial
+T14	Term-refs 146 165	resolución judicial
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 354 364	suspensión
+T15	Term-refs 354 364	suspensión
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 564 574	suspensión
+T16	Term-refs 564 574	suspensión
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 944 954	suspensión
+T17	Term-refs 944 954	suspensión
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 1425 1445	convenios colectivos
+T18	Term-refs 1425 1445	convenios colectivos
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 651 657	tiempo
+T19	Term-refs 651 657	tiempo
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 276 287	acogimiento
+T20	Term-refs 276 287	acogimiento
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 987 995	apartado
+T21	Term-refs 987 995	apartado
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 146 156	resolución
+T22	Term-refs 146 156	resolución
 #22	AnnotatorNotes T22	"DPEJ"
-T23	Term-diccionario 1046 1056	resolución
+T23	Term-refs 1046 1056	resolución
 #23	AnnotatorNotes T23	"DPEJ"
-T24	Term-diccionario 630 637	jornada
+T24	Term-refs 630 637	jornada
 #24	AnnotatorNotes T24	"DPEJ"
-T25	Term-diccionario 215 223	decisión
+T25	Term-refs 215 223	decisión
 #25	AnnotatorNotes T25	"DPEJ"
 #26	AnnotatorNotes T10	"Termcat"
 #27	AnnotatorNotes T22	"Termcat"
 #28	AnnotatorNotes T23	"Termcat"
-T26	Term-diccionario 1383 1391	términos
+T26	Term-refs 1383 1391	términos
 #29	AnnotatorNotes T26	"Termcat"
-T27	Term-diccionario 741 749	términos
+T27	Term-refs 741 749	términos
 #30	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 262 270	adopción
+T28	Term-refs 262 270	adopción
 #31	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 1085 1093	adopción
+T29	Term-refs 1085 1093	adopción
 #32	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 1230 1238	adopción
+T30	Term-refs 1230 1238	adopción
 #33	AnnotatorNotes T30	"Termcat"
-T31	Term-diccionario 194 202	adopción
+T31	Term-refs 194 202	adopción
 #34	AnnotatorNotes T31	"Termcat"
-T32	Term-diccionario 808 816	adopción
+T32	Term-refs 808 816	adopción
 #35	AnnotatorNotes T32	"Termcat"
 #36	AnnotatorNotes T12	"Termcat"
 #37	AnnotatorNotes T13	"Termcat"
-T33	Term-diccionario 205 209	bien
+T33	Term-refs 205 209	bien
 #38	AnnotatorNotes T33	"Termcat"
 #39	AnnotatorNotes T11	"Termcat"
-T34	Term-diccionario 1578 1586	disfrute
+T34	Term-refs 1578 1586	disfrute
 #40	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 401 409	disfrute
+T35	Term-refs 401 409	disfrute
 #41	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 242 248	guarda
+T36	Term-refs 242 248	guarda
 #42	AnnotatorNotes T36	"Termcat"
 #43	AnnotatorNotes T18	"Termcat"
 #44	AnnotatorNotes T6	"Termcat"
 #45	AnnotatorNotes T7	"Termcat"
 #46	AnnotatorNotes T8	"Termcat"
 #47	AnnotatorNotes T9	"Termcat"
-T37	Term-diccionario 630 646	jornada completa
+T37	Term-refs 630 646	jornada completa
 #48	AnnotatorNotes T37	"Termcat"
-T38	Term-diccionario 9 16	semanas
+T38	Term-refs 9 16	semanas
 #49	AnnotatorNotes T38	"Termcat"
-T39	Term-diccionario 1610 1617	semanas
+T39	Term-refs 1610 1617	semanas
 #50	AnnotatorNotes T39	"Termcat"
-T40	Term-diccionario 1026 1033	semanas
+T40	Term-refs 1026 1033	semanas
 #51	AnnotatorNotes T40	"Termcat"
-T41	Term-diccionario 589 596	semanas
+T41	Term-refs 589 596	semanas
 #52	AnnotatorNotes T41	"Termcat"
 #53	AnnotatorNotes T25	"Termcat"
-T42	Term-diccionario 1516 1523	derecho
+T42	Term-refs 1516 1523	derecho
 #54	AnnotatorNotes T42	"Termcat"
-T43	Term-diccionario 1368 1375	derecho
+T43	Term-refs 1368 1375	derecho
 #55	AnnotatorNotes T43	"Termcat"
-T44	Term-diccionario 325 332	derecho
+T44	Term-refs 325 332	derecho
 #56	AnnotatorNotes T44	"Termcat"
-T45	Term-diccionario 1100 1107	derecho
+T45	Term-refs 1100 1107	derecho
 #57	AnnotatorNotes T45	"Termcat"
-T46	Term-diccionario 817 830	internacional
+T46	Term-refs 817 830	internacional
 #58	AnnotatorNotes T46	"Termcat"
-T47	Term-diccionario 1128 1135	persona
+T47	Term-refs 1128 1135	persona
 #59	AnnotatorNotes T47	"Termcat"
-T48	Term-diccionario 704 711	persona
+T48	Term-refs 704 711	persona
 #60	AnnotatorNotes T48	"Termcat"
-T49	Term-diccionario 1254 1261	persona
+T49	Term-refs 1254 1261	persona
 #61	AnnotatorNotes T49	"Termcat"
-T50	Term-diccionario 377 384	persona
+T50	Term-refs 377 384	persona
 #62	AnnotatorNotes T50	"Termcat"
-T51	Term-diccionario 901 915	país de origen
+T51	Term-refs 901 915	país de origen
 #63	AnnotatorNotes T51	"Termcat"
 #64	AnnotatorNotes T17	"Termcat"
 #65	AnnotatorNotes T16	"Termcat"
@@ -118,19 +118,19 @@ T51	Term-diccionario 901 915	país de origen
 #67	AnnotatorNotes T14	"Termcat"
 #68	AnnotatorNotes T20	"Termcat"
 #69	AnnotatorNotes T5	"Termcat"
-T52	Term-diccionario 856 870	desplazamiento
+T52	Term-refs 856 870	desplazamiento
 #70	AnnotatorNotes T52	"Termcat"
-T53	Term-diccionario 1350 1359	ejercicio
+T53	Term-refs 1350 1359	ejercicio
 #71	AnnotatorNotes T53	"Termcat"
-T54	Term-diccionario 1178 1187	ejercicio
+T54	Term-refs 1178 1187	ejercicio
 #72	AnnotatorNotes T54	"Termcat"
-T55	Term-diccionario 1111 1121	individual
+T55	Term-refs 1111 1121	individual
 #73	AnnotatorNotes T55	"Termcat"
-T56	Term-diccionario 314 319	menor
+T56	Term-refs 314 319	menor
 #74	AnnotatorNotes T56	"Termcat"
-T57	Term-diccionario 619 626	régimen
+T57	Term-refs 619 626	régimen
 #75	AnnotatorNotes T57	"Termcat"
-T58	Term-diccionario 1281 1290	comunicar
+T58	Term-refs 1281 1290	comunicar
 #76	AnnotatorNotes T58	"Termcat"
 T59	Term-automatico 651 657	tiempo
 #77	AnnotatorNotes T59	"AttentionRank"
@@ -275,7 +275,7 @@ T128	Term-automatico 1412 1416	caso
 #147	AnnotatorNotes T128	"AttentionRank"
 T129	Term-automatico 987 995	apartado
 #148	AnnotatorNotes T129	"AttentionRank"
-T130	Term-diccionario 651 665	tiempo parcial
+T130	Term-refs 651 665	tiempo parcial
 #149	AnnotatorNotes T130	"LabourLaw"
 #150	AnnotatorNotes T37	"LabourLaw"
 #151	AnnotatorNotes T31	"LabourLaw"
@@ -286,26 +286,26 @@ T130	Term-diccionario 651 665	tiempo parcial
 #156	AnnotatorNotes T24	"LabourLaw"
 #157	AnnotatorNotes T24	"LabourLaw"
 #158	AnnotatorNotes T56	"LabourLaw"
-T131	Term-diccionario 909 915	origen
+T131	Term-refs 909 915	origen
 #159	AnnotatorNotes T131	"LabourLaw"
-T132	Term-diccionario 385 395	trabajador
+T132	Term-refs 385 395	trabajador
 #160	AnnotatorNotes T132	"LabourLaw"
-T133	Term-diccionario 712 722	trabajador
+T133	Term-refs 712 722	trabajador
 #161	AnnotatorNotes T133	"LabourLaw"
-T134	Term-diccionario 1136 1146	trabajador
+T134	Term-refs 1136 1146	trabajador
 #162	AnnotatorNotes T134	"LabourLaw"
-T135	Term-diccionario 1262 1272	trabajador
+T135	Term-refs 1262 1272	trabajador
 #163	AnnotatorNotes T135	"LabourLaw"
-T136	Term-diccionario 357 364	pensión
+T136	Term-refs 357 364	pensión
 #164	AnnotatorNotes T136	"LabourLaw"
-T137	Term-diccionario 567 574	pensión
+T137	Term-refs 567 574	pensión
 #165	AnnotatorNotes T137	"LabourLaw"
-T138	Term-diccionario 947 954	pensión
+T138	Term-refs 947 954	pensión
 #166	AnnotatorNotes T138	"LabourLaw"
 #167	AnnotatorNotes T57	"LabourLaw"
-T139	Term-diccionario 487 492	deber
+T139	Term-refs 487 492	deber
 #168	AnnotatorNotes T139	"LabourLaw"
-T140	Term-diccionario 1274 1279	deber
+T140	Term-refs 1274 1279	deber
 #169	AnnotatorNotes T140	"LabourLaw"
 #170	AnnotatorNotes T6	"LabourLaw"
 #171	AnnotatorNotes T7	"LabourLaw"
@@ -315,18 +315,18 @@ T140	Term-diccionario 1274 1279	deber
 #175	AnnotatorNotes T45	"LabourLaw"
 #176	AnnotatorNotes T43	"LabourLaw"
 #177	AnnotatorNotes T42	"LabourLaw"
-T141	Term-diccionario 741 748	término
+T141	Term-refs 741 748	término
 #178	AnnotatorNotes T141	"LabourLaw"
-T142	Term-diccionario 1383 1390	término
+T142	Term-refs 1383 1390	término
 #179	AnnotatorNotes T142	"LabourLaw"
-T143	Term-diccionario 1435 1444	colectivo
+T143	Term-refs 1435 1444	colectivo
 #180	AnnotatorNotes T143	"LabourLaw"
 #181	AnnotatorNotes T15	"LabourLaw"
 #182	AnnotatorNotes T16	"LabourLaw"
 #183	AnnotatorNotes T17	"LabourLaw"
-T144	Term-diccionario 342 349	periodo
+T144	Term-refs 342 349	periodo
 #184	AnnotatorNotes T144	"LabourLaw"
-T145	Term-diccionario 933 940	periodo
+T145	Term-refs 933 940	periodo
 #185	AnnotatorNotes T145	"LabourLaw"
 #186	AnnotatorNotes T50	"LabourLaw"
 #187	AnnotatorNotes T48	"LabourLaw"
@@ -340,7 +340,7 @@ T145	Term-diccionario 933 940	periodo
 #195	AnnotatorNotes T7	"IATE"
 #196	AnnotatorNotes T8	"IATE"
 #197	AnnotatorNotes T9	"IATE"
-T146	Term-diccionario 885 897	progenitores
+T146	Term-refs 885 897	progenitores
 #198	AnnotatorNotes T146	"IATE"
 #199	AnnotatorNotes T15	"IATE"
 #200	AnnotatorNotes T16	"IATE"
@@ -354,5 +354,5 @@ T146	Term-diccionario 885 897	progenitores
 #208	AnnotatorNotes T10	"IATE"
 #209	AnnotatorNotes T54	"IATE"
 #210	AnnotatorNotes T53	"IATE"
-T147	Term-diccionario 124 129	meses
+T147	Term-refs 124 129	meses
 #211	AnnotatorNotes T147	"IATE"

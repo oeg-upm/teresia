@@ -1,49 +1,49 @@
-T1	Term-diccionario 13 20	Despido
+T1	Term-refs 13 20	Despido
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 118 125	despido
+T2	Term-refs 118 125	despido
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 788 793	acoso
+T3	Term-refs 788 793	acoso
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 901 906	acoso
+T4	Term-refs 901 906	acoso
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 13 34	Despido disciplinario
+T5	Term-refs 13 34	Despido disciplinario
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 509 521	transgresión
+T6	Term-refs 509 521	transgresión
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 54 61	trabajo
+T7	Term-refs 54 61	trabajo
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 309 316	trabajo
+T8	Term-refs 309 316	trabajo
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 359 366	trabajo
+T9	Term-refs 359 366	trabajo
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 601 608	trabajo
+T10	Term-refs 601 608	trabajo
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 673 680	trabajo
+T11	Term-refs 673 680	trabajo
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 773 780	trabajo
+T12	Term-refs 773 780	trabajo
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 452 459	empresa
+T13	Term-refs 452 459	empresa
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 984 991	empresa
+T14	Term-refs 984 991	empresa
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 528 536	buena fe
+T15	Term-refs 528 536	buena fe
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 42 50	contrato
+T16	Term-refs 42 50	contrato
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 901 913	acoso sexual
+T17	Term-refs 901 913	acoso sexual
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 831 839	religión
+T18	Term-refs 831 839	religión
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 84 92	decisión
+T19	Term-refs 84 92	decisión
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 870 874	edad
+T20	Term-refs 870 874	edad
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 0 8	Artículo
+T21	Term-refs 0 8	Artículo
 #21	AnnotatorNotes T21	"DPEJ"
 #22	AnnotatorNotes T5	"Termcat"
 #23	AnnotatorNotes T15	"Termcat"
 #24	AnnotatorNotes T16	"Termcat"
-T22	Term-diccionario 856 868	discapacidad
+T22	Term-refs 856 868	discapacidad
 #25	AnnotatorNotes T22	"Termcat"
 #26	AnnotatorNotes T20	"Termcat"
 #27	AnnotatorNotes T21	"Termcat"
@@ -51,48 +51,48 @@ T22	Term-diccionario 856 868	discapacidad
 #29	AnnotatorNotes T4	"Termcat"
 #30	AnnotatorNotes T2	"Termcat"
 #31	AnnotatorNotes T17	"Termcat"
-T23	Term-diccionario 281 291	asistencia
+T23	Term-refs 281 291	asistencia
 #32	AnnotatorNotes T23	"Termcat"
-T24	Term-diccionario 42 61	contrato de trabajo
+T24	Term-refs 42 61	contrato de trabajo
 #33	AnnotatorNotes T24	"Termcat"
 #34	AnnotatorNotes T14	"Termcat"
 #35	AnnotatorNotes T13	"Termcat"
-T25	Term-diccionario 244 250	faltas
+T25	Term-refs 244 250	faltas
 #36	AnnotatorNotes T25	"Termcat"
 #37	AnnotatorNotes T8	"Termcat"
 #38	AnnotatorNotes T9	"Termcat"
 #39	AnnotatorNotes T12	"Termcat"
 #40	AnnotatorNotes T10	"Termcat"
 #41	AnnotatorNotes T11	"Termcat"
-T26	Term-diccionario 294 305	puntualidad
+T26	Term-refs 294 305	puntualidad
 #42	AnnotatorNotes T26	"Termcat"
-T27	Term-diccionario 658 669	rendimiento
+T27	Term-refs 658 669	rendimiento
 #43	AnnotatorNotes T27	"Termcat"
 #44	AnnotatorNotes T19	"Termcat"
-T28	Term-diccionario 956 964	personas
+T28	Term-refs 956 964	personas
 #45	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 424 432	personas
+T29	Term-refs 424 432	personas
 #46	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 562 580	abuso de confianza
+T30	Term-refs 562 580	abuso de confianza
 #47	AnnotatorNotes T30	"Termcat"
-T31	Term-diccionario 162 170	culpable
+T31	Term-refs 162 170	culpable
 #48	AnnotatorNotes T31	"Termcat"
-T32	Term-diccionario 339 352	desobediencia
+T32	Term-refs 339 352	desobediencia
 #49	AnnotatorNotes T32	"Termcat"
-T33	Term-diccionario 705 715	embriaguez
+T33	Term-refs 705 715	embriaguez
 #50	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 139 153	incumplimiento
+T34	Term-refs 139 153	incumplimiento
 #51	AnnotatorNotes T34	"Termcat"
-T35	Term-diccionario 206 221	incumplimientos
+T35	Term-refs 206 221	incumplimientos
 #52	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 375 382	ofensas
+T36	Term-refs 375 382	ofensas
 #53	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 920 925	razón
+T37	Term-refs 920 925	razón
 #54	AnnotatorNotes T37	"Termcat"
-T38	Term-diccionario 798 803	razón
+T38	Term-refs 798 803	razón
 #55	AnnotatorNotes T38	"Termcat"
 #56	AnnotatorNotes T18	"Termcat"
-T39	Term-diccionario 727 738	toxicomanía
+T39	Term-refs 727 738	toxicomanía
 #57	AnnotatorNotes T39	"Termcat"
 T40	Term-automatico 798 803	razón
 #58	AnnotatorNotes T40	"AttentionRank"
@@ -178,10 +178,10 @@ T80	Term-automatico 937 947	empresario
 #98	AnnotatorNotes T80	"AttentionRank"
 #99	AnnotatorNotes T24	"LabourLaw"
 #100	AnnotatorNotes T15	"LabourLaw"
-T81	Term-diccionario 877 895	orientación sexual
+T81	Term-refs 877 895	orientación sexual
 #101	AnnotatorNotes T81	"LabourLaw"
 #102	AnnotatorNotes T17	"LabourLaw"
-T82	Term-diccionario 807 820	origen racial
+T82	Term-refs 807 820	origen racial
 #103	AnnotatorNotes T82	"LabourLaw"
 #104	AnnotatorNotes T2	"LabourLaw"
 #105	AnnotatorNotes T7	"LabourLaw"
@@ -191,49 +191,49 @@ T82	Term-diccionario 807 820	origen racial
 #109	AnnotatorNotes T11	"LabourLaw"
 #110	AnnotatorNotes T12	"LabourLaw"
 #111	AnnotatorNotes T16	"LabourLaw"
-T83	Term-diccionario 807 813	origen
+T83	Term-refs 807 813	origen
 #112	AnnotatorNotes T83	"LabourLaw"
 #113	AnnotatorNotes T22	"LabourLaw"
-T84	Term-diccionario 175 185	trabajador
+T84	Term-refs 175 185	trabajador
 #114	AnnotatorNotes T84	"LabourLaw"
-T85	Term-diccionario 141 153	cumplimiento
+T85	Term-refs 141 153	cumplimiento
 #115	AnnotatorNotes T85	"LabourLaw"
-T86	Term-diccionario 208 220	cumplimiento
+T86	Term-refs 208 220	cumplimiento
 #116	AnnotatorNotes T86	"LabourLaw"
-T87	Term-diccionario 222 233	contractual
+T87	Term-refs 222 233	contractual
 #117	AnnotatorNotes T87	"LabourLaw"
-T88	Term-diccionario 537 548	contractual
+T88	Term-refs 537 548	contractual
 #118	AnnotatorNotes T88	"LabourLaw"
-T89	Term-diccionario 562 567	abuso
+T89	Term-refs 562 567	abuso
 #119	AnnotatorNotes T89	"LabourLaw"
 #120	AnnotatorNotes T3	"LabourLaw"
 #121	AnnotatorNotes T4	"LabourLaw"
-T90	Term-diccionario 97 107	empresario
+T90	Term-refs 97 107	empresario
 #122	AnnotatorNotes T90	"LabourLaw"
-T91	Term-diccionario 405 415	empresario
+T91	Term-refs 405 415	empresario
 #123	AnnotatorNotes T91	"LabourLaw"
-T92	Term-diccionario 937 947	empresario
+T92	Term-refs 937 947	empresario
 #124	AnnotatorNotes T92	"LabourLaw"
 #125	AnnotatorNotes T18	"LabourLaw"
 #126	AnnotatorNotes T20	"LabourLaw"
-T93	Term-diccionario 97 104	empresa
+T93	Term-refs 97 104	empresa
 #127	AnnotatorNotes T93	"LabourLaw"
-T94	Term-diccionario 405 412	empresa
+T94	Term-refs 405 412	empresa
 #128	AnnotatorNotes T94	"LabourLaw"
 #129	AnnotatorNotes T13	"LabourLaw"
-T95	Term-diccionario 937 944	empresa
+T95	Term-refs 937 944	empresa
 #130	AnnotatorNotes T95	"LabourLaw"
 #131	AnnotatorNotes T14	"LabourLaw"
-T96	Term-diccionario 929 933	sexo
+T96	Term-refs 929 933	sexo
 #132	AnnotatorNotes T96	"LabourLaw"
-T97	Term-diccionario 574 580	fianza
+T97	Term-refs 574 580	fianza
 #133	AnnotatorNotes T97	"LabourLaw"
-T98	Term-diccionario 424 431	persona
+T98	Term-refs 424 431	persona
 #134	AnnotatorNotes T98	"LabourLaw"
-T99	Term-diccionario 956 963	persona
+T99	Term-refs 956 963	persona
 #135	AnnotatorNotes T99	"LabourLaw"
 #136	AnnotatorNotes T34	"LabourLaw"
-T100	Term-diccionario 206 220	incumplimiento
+T100	Term-refs 206 220	incumplimiento
 #137	AnnotatorNotes T100	"LabourLaw"
 #138	AnnotatorNotes T96	"IATE"
 #139	AnnotatorNotes T19	"IATE"

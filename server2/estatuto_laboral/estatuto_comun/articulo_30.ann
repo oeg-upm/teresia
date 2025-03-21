@@ -1,33 +1,33 @@
-T1	Term-diccionario 166 173	trabajo
+T1	Term-refs 166 173	trabajo
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 329 336	trabajo
+T2	Term-refs 329 336	trabajo
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 263 270	salario
+T3	Term-refs 263 270	salario
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 114 122	contrato
+T4	Term-refs 114 122	contrato
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 355 361	tiempo
+T5	Term-refs 355 361	tiempo
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 33 43	prestación
+T6	Term-refs 33 43	prestación
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 85 94	servicios
+T7	Term-refs 85 94	servicios
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 0 8	Artículo
+T8	Term-refs 0 8	Artículo
 #8	AnnotatorNotes T8	"DPEJ"
 #9	AnnotatorNotes T7	"Termcat"
 #10	AnnotatorNotes T4	"Termcat"
-T9	Term-diccionario 178 190	impedimentos
+T9	Term-refs 178 190	impedimentos
 #11	AnnotatorNotes T9	"Termcat"
 #12	AnnotatorNotes T6	"Termcat"
 #13	AnnotatorNotes T8	"Termcat"
 #14	AnnotatorNotes T2	"Termcat"
 #15	AnnotatorNotes T1	"Termcat"
 #16	AnnotatorNotes T3	"Termcat"
-T10	Term-diccionario 250 257	derecho
+T10	Term-refs 250 257	derecho
 #17	AnnotatorNotes T10	"Termcat"
-T11	Term-diccionario 103 110	vigente
+T11	Term-refs 103 110	vigente
 #18	AnnotatorNotes T11	"Termcat"
-T12	Term-diccionario 191 201	imputables
+T12	Term-refs 191 201	imputables
 #19	AnnotatorNotes T12	"Termcat"
 T13	Term-automatico 329 361	trabajo realizado en otro tiempo
 #20	AnnotatorNotes T13	"AttentionRank"
@@ -64,15 +64,15 @@ T27	Term-automatico 133 143	empresario
 #37	AnnotatorNotes T4	"LabourLaw"
 #38	AnnotatorNotes T3	"LabourLaw"
 #39	AnnotatorNotes T6	"LabourLaw"
-T28	Term-diccionario 51 61	trabajador
+T28	Term-refs 51 61	trabajador
 #40	AnnotatorNotes T28	"LabourLaw"
-T29	Term-diccionario 219 229	trabajador
+T29	Term-refs 219 229	trabajador
 #41	AnnotatorNotes T29	"LabourLaw"
-T30	Term-diccionario 133 143	empresario
+T30	Term-refs 133 143	empresario
 #42	AnnotatorNotes T30	"LabourLaw"
-T31	Term-diccionario 85 93	servicio
+T31	Term-refs 85 93	servicio
 #43	AnnotatorNotes T31	"LabourLaw"
-T32	Term-diccionario 133 140	empresa
+T32	Term-refs 133 140	empresa
 #44	AnnotatorNotes T32	"LabourLaw"
 #45	AnnotatorNotes T10	"LabourLaw"
 #46	AnnotatorNotes T8	"IATE"

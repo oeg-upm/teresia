@@ -1,38 +1,38 @@
-T1	Term-diccionario 100 108	acuerdos
+T1	Term-refs 100 108	acuerdos
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 334 351	centro de trabajo
+T2	Term-refs 334 351	centro de trabajo
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 344 351	trabajo
+T3	Term-refs 344 351	trabajo
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 324 331	empresa
+T4	Term-refs 324 331	empresa
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 47 55	asamblea
+T5	Term-refs 47 55	asamblea
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 124 132	conjunto
+T6	Term-refs 124 132	conjunto
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 213 221	personal
+T7	Term-refs 213 221	personal
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 0 8	Artículo
+T8	Term-refs 0 8	Artículo
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 334 340	centro
+T9	Term-refs 334 340	centro
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 175 182	validez
+T10	Term-refs 175 182	validez
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 88 96	adopción
+T11	Term-refs 88 96	adopción
 #11	AnnotatorNotes T11	"Termcat"
 #12	AnnotatorNotes T8	"Termcat"
-T12	Term-diccionario 261 265	voto
+T12	Term-refs 261 265	voto
 #13	AnnotatorNotes T12	"Termcat"
-T13	Term-diccionario 198 202	voto
+T13	Term-refs 198 202	voto
 #14	AnnotatorNotes T13	"Termcat"
-T14	Term-diccionario 60 65	parte
+T14	Term-refs 60 65	parte
 #15	AnnotatorNotes T14	"Termcat"
 #16	AnnotatorNotes T2	"Termcat"
 #17	AnnotatorNotes T4	"Termcat"
 #18	AnnotatorNotes T7	"Termcat"
 #19	AnnotatorNotes T1	"Termcat"
 #20	AnnotatorNotes T5	"Termcat"
-T15	Term-diccionario 240 247	secreto
+T15	Term-refs 240 247	secreto
 #21	AnnotatorNotes T15	"Termcat"
 #22	AnnotatorNotes T10	"Termcat"
 T16	Term-automatico 60 65	parte
@@ -76,14 +76,14 @@ T34	Term-automatico 344 351	trabajo
 #42	AnnotatorNotes T2	"LabourLaw"
 #43	AnnotatorNotes T11	"LabourLaw"
 #44	AnnotatorNotes T3	"LabourLaw"
-T35	Term-diccionario 140 150	trabajador
+T35	Term-refs 140 150	trabajador
 #45	AnnotatorNotes T35	"LabourLaw"
-T36	Term-diccionario 305 315	trabajador
+T36	Term-refs 305 315	trabajador
 #46	AnnotatorNotes T36	"LabourLaw"
 #47	AnnotatorNotes T4	"LabourLaw"
 #48	AnnotatorNotes T10	"LabourLaw"
 #49	AnnotatorNotes T7	"LabourLaw"
-T37	Term-diccionario 213 220	persona
+T37	Term-refs 213 220	persona
 #50	AnnotatorNotes T37	"LabourLaw"
 #51	AnnotatorNotes T14	"IATE"
 #52	AnnotatorNotes T8	"IATE"
@@ -92,7 +92,7 @@ T37	Term-diccionario 213 220	persona
 #55	AnnotatorNotes T4	"IATE"
 #56	AnnotatorNotes T11	"IATE"
 #57	AnnotatorNotes T5	"IATE"
-T38	Term-diccionario 140 152	trabajadores
+T38	Term-refs 140 152	trabajadores
 #58	AnnotatorNotes T38	"IATE"
-T39	Term-diccionario 305 317	trabajadores
+T39	Term-refs 305 317	trabajadores
 #59	AnnotatorNotes T39	"IATE"

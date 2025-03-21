@@ -1,73 +1,73 @@
-T1	Term-diccionario 382 386	caso
+T1	Term-refs 382 386	caso
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 392 398	reglas
+T2	Term-refs 392 398	reglas
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 279 287	acuerdos
+T3	Term-refs 279 287	acuerdos
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 544 552	acuerdos
+T4	Term-refs 544 552	acuerdos
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 834 842	acuerdos
+T5	Term-refs 834 842	acuerdos
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 875 883	acuerdos
+T6	Term-refs 875 883	acuerdos
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 898 906	acuerdos
+T7	Term-refs 898 906	acuerdos
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 308 317	cláusulas
+T8	Term-refs 308 317	cláusulas
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 492 501	cláusulas
+T9	Term-refs 492 501	cláusulas
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 25 36	negociación
+T10	Term-refs 25 36	negociación
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 344 355	negociación
+T11	Term-refs 344 355	negociación
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 77 83	ámbito
+T12	Term-refs 77 83	ámbito
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 478 484	ámbito
+T13	Term-refs 478 484	ámbito
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 580 586	ámbito
+T14	Term-refs 580 586	ámbito
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 45 54	convenios
+T15	Term-refs 45 54	convenios
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 456 465	convenios
+T16	Term-refs 456 465	convenios
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 532 541	convenios
+T17	Term-refs 532 541	convenios
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 1002 1011	convenios
+T18	Term-refs 1002 1011	convenios
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 708 719	conformidad
+T19	Term-refs 708 719	conformidad
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 231 249	comunidad autónoma
+T20	Term-refs 231 249	comunidad autónoma
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 45 65	convenios colectivos
+T21	Term-refs 45 65	convenios colectivos
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 1002 1022	convenios colectivos
+T22	Term-refs 1002 1022	convenios colectivos
 #22	AnnotatorNotes T22	"DPEJ"
-T23	Term-diccionario 747 750	ley
+T23	Term-refs 747 750	ley
 #23	AnnotatorNotes T23	"DPEJ"
-T24	Term-diccionario 989 992	ley
+T24	Term-refs 989 992	ley
 #24	AnnotatorNotes T24	"DPEJ"
-T25	Term-diccionario 544 563	acuerdos colectivos
+T25	Term-refs 544 563	acuerdos colectivos
 #25	AnnotatorNotes T25	"DPEJ"
-T26	Term-diccionario 344 365	negociación colectiva
+T26	Term-refs 344 365	negociación colectiva
 #26	AnnotatorNotes T26	"DPEJ"
-T27	Term-diccionario 946 954	apartado
+T27	Term-refs 946 954	apartado
 #27	AnnotatorNotes T27	"DPEJ"
-T28	Term-diccionario 279 306	acuerdos interprofesionales
+T28	Term-refs 279 306	acuerdos interprofesionales
 #28	AnnotatorNotes T28	"DPEJ"
-T29	Term-diccionario 898 925	acuerdos interprofesionales
+T29	Term-refs 898 925	acuerdos interprofesionales
 #29	AnnotatorNotes T29	"DPEJ"
-T30	Term-diccionario 87 97	aplicación
+T30	Term-refs 87 97	aplicación
 #30	AnnotatorNotes T30	"DPEJ"
-T31	Term-diccionario 231 240	comunidad
+T31	Term-refs 231 240	comunidad
 #31	AnnotatorNotes T31	"DPEJ"
-T32	Term-diccionario 0 8	Artículo
+T32	Term-refs 0 8	Artículo
 #32	AnnotatorNotes T32	"DPEJ"
 #33	AnnotatorNotes T20	"Termcat"
 #34	AnnotatorNotes T15	"Termcat"
 #35	AnnotatorNotes T16	"Termcat"
 #36	AnnotatorNotes T18	"Termcat"
 #37	AnnotatorNotes T17	"Termcat"
-T33	Term-diccionario 681 693	legitimación
+T33	Term-refs 681 693	legitimación
 #38	AnnotatorNotes T33	"Termcat"
 #39	AnnotatorNotes T26	"Termcat"
 #40	AnnotatorNotes T9	"Termcat"
@@ -76,20 +76,20 @@ T33	Term-diccionario 681 693	legitimación
 #43	AnnotatorNotes T23	"Termcat"
 #44	AnnotatorNotes T24	"Termcat"
 #45	AnnotatorNotes T32	"Termcat"
-T34	Term-diccionario 423 433	conflictos
+T34	Term-refs 423 433	conflictos
 #46	AnnotatorNotes T34	"Termcat"
 #47	AnnotatorNotes T10	"Termcat"
-T35	Term-diccionario 106 112	partes
+T35	Term-refs 106 112	partes
 #48	AnnotatorNotes T35	"Termcat"
 #49	AnnotatorNotes T28	"Termcat"
 #50	AnnotatorNotes T29	"Termcat"
-T36	Term-diccionario 77 97	ámbito de aplicación
+T36	Term-refs 77 97	ámbito de aplicación
 #51	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 622 632	sindicatos
+T37	Term-refs 622 632	sindicatos
 #52	AnnotatorNotes T37	"Termcat"
 #53	AnnotatorNotes T22	"Termcat"
 #54	AnnotatorNotes T21	"Termcat"
-T38	Term-diccionario 327 337	estructura
+T38	Term-refs 327 337	estructura
 #55	AnnotatorNotes T38	"Termcat"
 #56	AnnotatorNotes T11	"Termcat"
 #57	AnnotatorNotes T19	"Termcat"
@@ -97,25 +97,25 @@ T38	Term-diccionario 327 337	estructura
 #59	AnnotatorNotes T5	"Termcat"
 #60	AnnotatorNotes T25	"Termcat"
 #61	AnnotatorNotes T30	"Termcat"
-T39	Term-diccionario 437 449	concurrencia
+T39	Term-refs 437 449	concurrencia
 #62	AnnotatorNotes T39	"Termcat"
-T40	Term-diccionario 171 184	empresariales
+T40	Term-refs 171 184	empresariales
 #63	AnnotatorNotes T40	"Termcat"
-T41	Term-diccionario 648 661	empresariales
+T41	Term-refs 648 661	empresariales
 #64	AnnotatorNotes T41	"Termcat"
-T42	Term-diccionario 849 857	materias
+T42	Term-refs 849 857	materias
 #65	AnnotatorNotes T42	"Termcat"
 #66	AnnotatorNotes T2	"Termcat"
-T43	Term-diccionario 564 575	sectoriales
+T43	Term-refs 564 575	sectoriales
 #67	AnnotatorNotes T43	"Termcat"
 #68	AnnotatorNotes T7	"Termcat"
 #69	AnnotatorNotes T4	"Termcat"
 #70	AnnotatorNotes T3	"Termcat"
-T44	Term-diccionario 258 268	establecer
+T44	Term-refs 258 268	establecer
 #71	AnnotatorNotes T44	"Termcat"
-T45	Term-diccionario 410 418	resolver
+T45	Term-refs 410 418	resolver
 #72	AnnotatorNotes T45	"Termcat"
-T46	Term-diccionario 13 21	Unidades
+T46	Term-refs 13 21	Unidades
 #73	AnnotatorNotes T46	"Termcat"
 T47	Term-automatico 279 306	acuerdos interprofesionales
 #74	AnnotatorNotes T47	"AttentionRank"
@@ -214,42 +214,42 @@ T92	Term-automatico 795 806	empresarios
 T93	Term-automatico 946 954	apartado
 #122	AnnotatorNotes T93	"AttentionRank"
 #123	AnnotatorNotes T36	"LabourLaw"
-T94	Term-diccionario 580 594	ámbito estatal
+T94	Term-refs 580 594	ámbito estatal
 #124	AnnotatorNotes T94	"LabourLaw"
 #125	AnnotatorNotes T26	"LabourLaw"
-T95	Term-diccionario 308 316	cláusula
+T95	Term-refs 308 316	cláusula
 #126	AnnotatorNotes T95	"LabourLaw"
-T96	Term-diccionario 492 500	cláusula
+T96	Term-refs 492 500	cláusula
 #127	AnnotatorNotes T96	"LabourLaw"
 #128	AnnotatorNotes T30	"LabourLaw"
-T97	Term-diccionario 780 790	trabajador
+T97	Term-refs 780 790	trabajador
 #129	AnnotatorNotes T97	"LabourLaw"
 #130	AnnotatorNotes T12	"LabourLaw"
 #131	AnnotatorNotes T13	"LabourLaw"
 #132	AnnotatorNotes T14	"LabourLaw"
 #133	AnnotatorNotes T23	"LabourLaw"
 #134	AnnotatorNotes T24	"LabourLaw"
-T98	Term-diccionario 622 631	sindicato
+T98	Term-refs 622 631	sindicato
 #135	AnnotatorNotes T98	"LabourLaw"
-T99	Term-diccionario 795 805	empresario
+T99	Term-refs 795 805	empresario
 #136	AnnotatorNotes T99	"LabourLaw"
 #137	AnnotatorNotes T39	"LabourLaw"
 #138	AnnotatorNotes T19	"LabourLaw"
-T100	Term-diccionario 171 178	empresa
+T100	Term-refs 171 178	empresa
 #139	AnnotatorNotes T100	"LabourLaw"
-T101	Term-diccionario 648 655	empresa
+T101	Term-refs 648 655	empresa
 #140	AnnotatorNotes T101	"LabourLaw"
-T102	Term-diccionario 795 802	empresa
+T102	Term-refs 795 802	empresa
 #141	AnnotatorNotes T102	"LabourLaw"
 #142	AnnotatorNotes T33	"LabourLaw"
 #143	AnnotatorNotes T31	"LabourLaw"
-T103	Term-diccionario 423 432	conflicto
+T103	Term-refs 423 432	conflicto
 #144	AnnotatorNotes T103	"LabourLaw"
-T104	Term-diccionario 55 64	colectivo
+T104	Term-refs 55 64	colectivo
 #145	AnnotatorNotes T104	"LabourLaw"
-T105	Term-diccionario 553 562	colectivo
+T105	Term-refs 553 562	colectivo
 #146	AnnotatorNotes T105	"LabourLaw"
-T106	Term-diccionario 1012 1021	colectivo
+T106	Term-refs 1012 1021	colectivo
 #147	AnnotatorNotes T106	"LabourLaw"
 #148	AnnotatorNotes T30	"IATE"
 #149	AnnotatorNotes T35	"IATE"
@@ -259,19 +259,19 @@ T106	Term-diccionario 1012 1021	colectivo
 #153	AnnotatorNotes T5	"IATE"
 #154	AnnotatorNotes T6	"IATE"
 #155	AnnotatorNotes T7	"IATE"
-T107	Term-diccionario 969 980	tratamiento
+T107	Term-refs 969 980	tratamiento
 #156	AnnotatorNotes T107	"IATE"
 #157	AnnotatorNotes T46	"IATE"
 #158	AnnotatorNotes T19	"IATE"
-T108	Term-diccionario 795 806	empresarios
+T108	Term-refs 795 806	empresarios
 #159	AnnotatorNotes T108	"IATE"
 #160	AnnotatorNotes T38	"IATE"
 #161	AnnotatorNotes T31	"IATE"
 #162	AnnotatorNotes T27	"IATE"
-T109	Term-diccionario 780 792	trabajadores
+T109	Term-refs 780 792	trabajadores
 #163	AnnotatorNotes T109	"IATE"
 #164	AnnotatorNotes T42	"IATE"
-T110	Term-diccionario 209 217	carácter
+T110	Term-refs 209 217	carácter
 #165	AnnotatorNotes T110	"IATE"
 #166	AnnotatorNotes T10	"IATE"
 #167	AnnotatorNotes T11	"IATE"

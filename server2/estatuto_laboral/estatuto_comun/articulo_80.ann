@@ -1,23 +1,23 @@
-T1	Term-diccionario 62 75	orden del día
+T1	Term-refs 62 75	orden del día
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 203 209	acusar
+T2	Term-refs 203 209	acusar
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 13 25	Convocatoria
+T3	Term-refs 13 25	Convocatoria
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 30 42	convocatoria
+T4	Term-refs 30 42	convocatoria
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 62 67	orden
+T5	Term-refs 62 67	orden
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 0 8	Artículo
+T6	Term-refs 0 8	Artículo
 #6	AnnotatorNotes T6	"DPEJ"
 #7	AnnotatorNotes T5	"Termcat"
-T7	Term-diccionario 210 216	recibo
+T7	Term-refs 210 216	recibo
 #8	AnnotatorNotes T7	"Termcat"
 #9	AnnotatorNotes T6	"Termcat"
 #10	AnnotatorNotes T1	"Termcat"
 #11	AnnotatorNotes T3	"Termcat"
 #12	AnnotatorNotes T4	"Termcat"
-T8	Term-diccionario 203 216	acusar recibo
+T8	Term-refs 203 216	acusar recibo
 #13	AnnotatorNotes T8	"Termcat"
 T9	Term-automatico 48 57	expresión
 #14	AnnotatorNotes T9	"AttentionRank"
@@ -46,11 +46,11 @@ T20	Term-automatico 30 42	convocatoria
 T21	Term-automatico 124 134	empresario
 #26	AnnotatorNotes T21	"AttentionRank"
 #27	AnnotatorNotes T4	"LabourLaw"
-T22	Term-diccionario 124 134	empresario
+T22	Term-refs 124 134	empresario
 #28	AnnotatorNotes T22	"LabourLaw"
-T23	Term-diccionario 124 131	empresa
+T23	Term-refs 124 131	empresa
 #29	AnnotatorNotes T23	"LabourLaw"
-T24	Term-diccionario 142 147	renta
+T24	Term-refs 142 147	renta
 #30	AnnotatorNotes T24	"LabourLaw"
 #31	AnnotatorNotes T3	"IATE"
 #32	AnnotatorNotes T4	"IATE"

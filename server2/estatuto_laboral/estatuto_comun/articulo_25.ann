@@ -1,35 +1,35 @@
-T1	Term-diccionario 395 405	salariales
+T1	Term-refs 395 405	salariales
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 67 74	trabajo
+T2	Term-refs 67 74	trabajo
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 162 170	convenio
+T3	Term-refs 162 170	convenio
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 374 382	Salarios
+T4	Term-refs 374 382	Salarios
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 13 32	Promoción económica
+T5	Term-refs 13 32	Promoción económica
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 115 134	promoción económica
+T6	Term-refs 115 134	promoción económica
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 311 322	adquisición
+T7	Term-refs 311 322	adquisición
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 183 191	contrato
+T8	Term-refs 183 191	contrato
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 13 22	Promoción
+T9	Term-refs 13 22	Promoción
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 115 124	promoción
+T10	Term-refs 115 124	promoción
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 385 394	garantías
+T11	Term-refs 385 394	garantías
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 162 180	convenio colectivo
+T12	Term-refs 162 180	convenio colectivo
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 226 234	apartado
+T13	Term-refs 226 234	apartado
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 0 8	Artículo
+T14	Term-refs 0 8	Artículo
 #14	AnnotatorNotes T14	"DPEJ"
 #15	AnnotatorNotes T3	"Termcat"
-T15	Term-diccionario 361 368	Sección
+T15	Term-refs 361 368	Sección
 #16	AnnotatorNotes T15	"Termcat"
-T16	Term-diccionario 142 150	términos
+T16	Term-refs 142 150	términos
 #17	AnnotatorNotes T16	"Termcat"
 #18	AnnotatorNotes T7	"Termcat"
 #19	AnnotatorNotes T8	"Termcat"
@@ -37,25 +37,25 @@ T16	Term-diccionario 142 150	términos
 #21	AnnotatorNotes T14	"Termcat"
 #22	AnnotatorNotes T9	"Termcat"
 #23	AnnotatorNotes T10	"Termcat"
-T17	Term-diccionario 183 202	contrato individual
+T17	Term-refs 183 202	contrato individual
 #24	AnnotatorNotes T17	"Termcat"
 #25	AnnotatorNotes T12	"Termcat"
-T18	Term-diccionario 277 296	derechos adquiridos
+T18	Term-refs 277 296	derechos adquiridos
 #26	AnnotatorNotes T18	"Termcat"
 #27	AnnotatorNotes T2	"Termcat"
-T19	Term-diccionario 55 62	función
+T19	Term-refs 55 62	función
 #28	AnnotatorNotes T19	"Termcat"
 #29	AnnotatorNotes T4	"Termcat"
 #30	AnnotatorNotes T1	"Termcat"
-T20	Term-diccionario 101 108	derecho
+T20	Term-refs 101 108	derecho
 #31	AnnotatorNotes T20	"Termcat"
-T21	Term-diccionario 277 285	derechos
+T21	Term-refs 277 285	derechos
 #32	AnnotatorNotes T21	"Termcat"
-T22	Term-diccionario 192 202	individual
+T22	Term-refs 192 202	individual
 #33	AnnotatorNotes T22	"Termcat"
-T23	Term-diccionario 260 269	perjuicio
+T23	Term-refs 260 269	perjuicio
 #34	AnnotatorNotes T23	"Termcat"
-T24	Term-diccionario 335 343	temporal
+T24	Term-refs 335 343	temporal
 #35	AnnotatorNotes T24	"Termcat"
 T25	Term-automatico 311 322	adquisición
 #36	AnnotatorNotes T25	"AttentionRank"
@@ -113,17 +113,17 @@ T50	Term-automatico 226 234	apartado
 #63	AnnotatorNotes T6	"LabourLaw"
 #64	AnnotatorNotes T2	"LabourLaw"
 #65	AnnotatorNotes T8	"LabourLaw"
-T51	Term-diccionario 40 50	trabajador
+T51	Term-refs 40 50	trabajador
 #66	AnnotatorNotes T51	"LabourLaw"
 #67	AnnotatorNotes T7	"LabourLaw"
 #68	AnnotatorNotes T10	"LabourLaw"
 #69	AnnotatorNotes T20	"LabourLaw"
-T52	Term-diccionario 277 284	derecho
+T52	Term-refs 277 284	derecho
 #70	AnnotatorNotes T52	"LabourLaw"
 #71	AnnotatorNotes T23	"LabourLaw"
-T53	Term-diccionario 142 149	término
+T53	Term-refs 142 149	término
 #72	AnnotatorNotes T53	"LabourLaw"
-T54	Term-diccionario 171 180	colectivo
+T54	Term-refs 171 180	colectivo
 #73	AnnotatorNotes T54	"LabourLaw"
 #74	AnnotatorNotes T7	"LabourLaw"
 #75	AnnotatorNotes T10	"LabourLaw"

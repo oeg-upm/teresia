@@ -1,42 +1,42 @@
-T1	Term-diccionario 202 209	órganos
+T1	Term-refs 202 209	órganos
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 267 274	Órganos
+T2	Term-refs 267 274	Órganos
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 178 185	empresa
+T3	Term-refs 178 185	empresa
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 31 42	conformidad
+T4	Term-refs 31 42	conformidad
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 13 26	Participación
+T5	Term-refs 13 26	Participación
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 112 125	participación
+T6	Term-refs 112 125	participación
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 102 108	formas
+T7	Term-refs 102 108	formas
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 246 252	título
+T8	Term-refs 246 252	título
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 0 8	Artículo
+T9	Term-refs 0 8	Artículo
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 66 74	artículo
+T10	Term-refs 66 74	artículo
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 254 261	Sección
+T11	Term-refs 254 261	Sección
 #11	AnnotatorNotes T11	"Termcat"
 #12	AnnotatorNotes T7	"Termcat"
-T12	Term-diccionario 278 292	representación
+T12	Term-refs 278 292	representación
 #13	AnnotatorNotes T12	"Termcat"
-T13	Term-diccionario 213 227	representación
+T13	Term-refs 213 227	representación
 #14	AnnotatorNotes T13	"Termcat"
 #15	AnnotatorNotes T8	"Termcat"
 #16	AnnotatorNotes T9	"Termcat"
 #17	AnnotatorNotes T10	"Termcat"
 #18	AnnotatorNotes T3	"Termcat"
-T14	Term-diccionario 151 158	derecho
+T14	Term-refs 151 158	derecho
 #19	AnnotatorNotes T14	"Termcat"
 #20	AnnotatorNotes T4	"Termcat"
 #21	AnnotatorNotes T1	"Termcat"
 #22	AnnotatorNotes T2	"Termcat"
 #23	AnnotatorNotes T5	"Termcat"
 #24	AnnotatorNotes T6	"Termcat"
-T15	Term-diccionario 83 92	perjuicio
+T15	Term-refs 83 92	perjuicio
 #25	AnnotatorNotes T15	"Termcat"
 T16	Term-automatico 188 209	través de los órganos
 #26	AnnotatorNotes T16	"AttentionRank"
@@ -75,9 +75,9 @@ T32	Term-automatico 151 158	derecho
 T33	Term-automatico 31 42	conformidad
 #43	AnnotatorNotes T33	"AttentionRank"
 #44	AnnotatorNotes T6	"LabourLaw"
-T34	Term-diccionario 131 141	trabajador
+T34	Term-refs 131 141	trabajador
 #45	AnnotatorNotes T34	"LabourLaw"
-T35	Term-diccionario 202 208	órgano
+T35	Term-refs 202 208	órgano
 #46	AnnotatorNotes T35	"LabourLaw"
 #47	AnnotatorNotes T4	"LabourLaw"
 #48	AnnotatorNotes T3	"LabourLaw"
@@ -90,6 +90,6 @@ T35	Term-diccionario 202 208	órgano
 #55	AnnotatorNotes T4	"IATE"
 #56	AnnotatorNotes T5	"IATE"
 #57	AnnotatorNotes T6	"IATE"
-T36	Term-diccionario 131 143	trabajadores
+T36	Term-refs 131 143	trabajadores
 #58	AnnotatorNotes T36	"IATE"
 #59	AnnotatorNotes T11	"IATE"

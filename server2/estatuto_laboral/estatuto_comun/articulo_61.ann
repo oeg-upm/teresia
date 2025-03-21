@@ -1,56 +1,56 @@
-T1	Term-diccionario 492 496	caso
+T1	Term-refs 492 496	caso
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 440 447	empresa
+T2	Term-refs 440 447	empresa
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 629 636	empresa
+T3	Term-refs 629 636	empresa
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 142 145	Ley
+T4	Term-refs 142 145	Ley
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 183 188	Orden
+T5	Term-refs 183 188	Orden
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 536 542	TÍTULO
+T6	Term-refs 536 542	TÍTULO
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 0 8	Artículo
+T7	Term-refs 0 8	Artículo
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 424 429	fecha
+T8	Term-refs 424 429	fecha
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 218 237	Decreto Legislativo
+T9	Term-refs 218 237	Decreto Legislativo
 #9	AnnotatorNotes T9	"Termcat"
 #10	AnnotatorNotes T5	"Termcat"
-T10	Term-diccionario 13 25	Prescripción
+T10	Term-refs 13 25	Prescripción
 #11	AnnotatorNotes T10	"Termcat"
 #12	AnnotatorNotes T4	"Termcat"
-T11	Term-diccionario 565 579	representación
+T11	Term-refs 565 579	representación
 #13	AnnotatorNotes T11	"Termcat"
-T12	Term-diccionario 664 678	REPREsEntacIón
+T12	Term-refs 664 678	REPREsEntacIón
 #14	AnnotatorNotes T12	"Termcat"
 #15	AnnotatorNotes T6	"Termcat"
 #16	AnnotatorNotes T7	"Termcat"
-T13	Term-diccionario 637 645	CAPÍTULO
+T13	Term-refs 637 645	CAPÍTULO
 #17	AnnotatorNotes T13	"Termcat"
-T14	Term-diccionario 595 602	reunión
+T14	Term-refs 595 602	reunión
 #18	AnnotatorNotes T14	"Termcat"
-T15	Term-diccionario 120 135	texto refundido
+T15	Term-refs 120 135	texto refundido
 #19	AnnotatorNotes T15	"Termcat"
-T16	Term-diccionario 472 480	comisión
+T16	Term-refs 472 480	comisión
 #20	AnnotatorNotes T16	"Termcat"
 #21	AnnotatorNotes T2	"Termcat"
 #22	AnnotatorNotes T3	"Termcat"
-T17	Term-diccionario 298 310	faltas leves
+T17	Term-refs 298 310	faltas leves
 #23	AnnotatorNotes T17	"Termcat"
-T18	Term-diccionario 565 589	representación colectiva
+T18	Term-refs 565 589	representación colectiva
 #24	AnnotatorNotes T18	"Termcat"
-T19	Term-diccionario 553 561	derechos
+T19	Term-refs 553 561	derechos
 #25	AnnotatorNotes T19	"Termcat"
-T20	Term-diccionario 652 659	dEREcho
+T20	Term-refs 652 659	dEREcho
 #26	AnnotatorNotes T20	"Termcat"
-T21	Term-diccionario 453 465	conocimiento
+T21	Term-refs 453 465	conocimiento
 #27	AnnotatorNotes T21	"Termcat"
-T22	Term-diccionario 88 96	conforme
+T22	Term-refs 88 96	conforme
 #28	AnnotatorNotes T22	"Termcat"
-T23	Term-diccionario 213 225	Real Decreto
+T23	Term-refs 213 225	Real Decreto
 #29	AnnotatorNotes T23	"Termcat"
-T24	Term-diccionario 218 225	Decreto
+T24	Term-refs 218 225	Decreto
 #30	AnnotatorNotes T24	"Termcat"
 T25	Term-automatico 298 310	faltas leves
 #31	AnnotatorNotes T25	"AttentionRank"
@@ -111,24 +111,24 @@ T52	Term-automatico 64 74	empresario
 T53	Term-automatico 120 135	texto refundido
 #59	AnnotatorNotes T53	"AttentionRank"
 #60	AnnotatorNotes T15	"LabourLaw"
-T54	Term-diccionario 126 135	refundido
+T54	Term-refs 126 135	refundido
 #61	AnnotatorNotes T54	"LabourLaw"
 #62	AnnotatorNotes T16	"LabourLaw"
-T55	Term-diccionario 526 534	cometido
+T55	Term-refs 526 534	cometido
 #63	AnnotatorNotes T55	"LabourLaw"
-T56	Term-diccionario 280 290	trabajador
+T56	Term-refs 280 290	trabajador
 #64	AnnotatorNotes T56	"LabourLaw"
-T57	Term-diccionario 610 620	trabajador
+T57	Term-refs 610 620	trabajador
 #65	AnnotatorNotes T57	"LabourLaw"
-T58	Term-diccionario 653 656	ERE
+T58	Term-refs 653 656	ERE
 #66	AnnotatorNotes T58	"LabourLaw"
-T59	Term-diccionario 64 74	empresario
+T59	Term-refs 64 74	empresario
 #67	AnnotatorNotes T59	"LabourLaw"
-T60	Term-diccionario 64 71	empresa
+T60	Term-refs 64 71	empresa
 #68	AnnotatorNotes T60	"LabourLaw"
 #69	AnnotatorNotes T2	"LabourLaw"
 #70	AnnotatorNotes T3	"LabourLaw"
-T61	Term-diccionario 553 560	derecho
+T61	Term-refs 553 560	derecho
 #71	AnnotatorNotes T61	"LabourLaw"
 #72	AnnotatorNotes T14	"LabourLaw"
 #73	AnnotatorNotes T6	"IATE"
@@ -137,13 +137,13 @@ T61	Term-diccionario 553 560	derecho
 #76	AnnotatorNotes T3	"IATE"
 #77	AnnotatorNotes T14	"IATE"
 #78	AnnotatorNotes T59	"IATE"
-T62	Term-diccionario 298 304	faltas
+T62	Term-refs 298 304	faltas
 #79	AnnotatorNotes T62	"IATE"
-T63	Term-diccionario 280 292	trabajadores
+T63	Term-refs 280 292	trabajadores
 #80	AnnotatorNotes T63	"IATE"
-T64	Term-diccionario 610 622	trabajadores
+T64	Term-refs 610 622	trabajadores
 #81	AnnotatorNotes T64	"IATE"
 #82	AnnotatorNotes T5	"IATE"
 #83	AnnotatorNotes T16	"IATE"
-T65	Term-diccionario 509 514	meses
+T65	Term-refs 509 514	meses
 #84	AnnotatorNotes T65	"IATE"

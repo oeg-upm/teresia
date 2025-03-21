@@ -1,91 +1,91 @@
-T1	Term-diccionario 677 685	salarial
+T1	Term-refs 677 685	salarial
 #1	AnnotatorNotes T1	"DPEJ"
-T2	Term-diccionario 343 355	organización
+T2	Term-refs 343 355	organización
 #2	AnnotatorNotes T2	"DPEJ"
-T3	Term-diccionario 59 66	trabajo
+T3	Term-refs 59 66	trabajo
 #3	AnnotatorNotes T3	"DPEJ"
-T4	Term-diccionario 162 169	trabajo
+T4	Term-refs 162 169	trabajo
 #4	AnnotatorNotes T4	"DPEJ"
-T5	Term-diccionario 370 377	trabajo
+T5	Term-refs 370 377	trabajo
 #5	AnnotatorNotes T5	"DPEJ"
-T6	Term-diccionario 471 478	trabajo
+T6	Term-refs 471 478	trabajo
 #6	AnnotatorNotes T6	"DPEJ"
-T7	Term-diccionario 550 557	trabajo
+T7	Term-refs 550 557	trabajo
 #7	AnnotatorNotes T7	"DPEJ"
-T8	Term-diccionario 599 606	trabajo
+T8	Term-refs 599 606	trabajo
 #8	AnnotatorNotes T8	"DPEJ"
-T9	Term-diccionario 622 629	trabajo
+T9	Term-refs 622 629	trabajo
 #9	AnnotatorNotes T9	"DPEJ"
-T10	Term-diccionario 701 708	trabajo
+T10	Term-refs 701 708	trabajo
 #10	AnnotatorNotes T10	"DPEJ"
-T11	Term-diccionario 90 97	empresa
+T11	Term-refs 90 97	empresa
 #11	AnnotatorNotes T11	"DPEJ"
-T12	Term-diccionario 384 391	empresa
+T12	Term-refs 384 391	empresa
 #12	AnnotatorNotes T12	"DPEJ"
-T13	Term-diccionario 74 83	dirección
+T13	Term-refs 74 83	dirección
 #13	AnnotatorNotes T13	"DPEJ"
-T14	Term-diccionario 643 650	Sistema
+T14	Term-refs 643 650	Sistema
 #14	AnnotatorNotes T14	"DPEJ"
-T15	Term-diccionario 690 697	Sistema
+T15	Term-refs 690 697	Sistema
 #15	AnnotatorNotes T15	"DPEJ"
-T16	Term-diccionario 589 595	tiempo
+T16	Term-refs 589 595	tiempo
 #16	AnnotatorNotes T16	"DPEJ"
-T17	Term-diccionario 622 638	trabajo a turnos
+T17	Term-refs 622 638	trabajo a turnos
 #17	AnnotatorNotes T17	"DPEJ"
-T18	Term-diccionario 669 676	cuantía
+T18	Term-refs 669 676	cuantía
 #18	AnnotatorNotes T18	"DPEJ"
-T19	Term-diccionario 539 546	Jornada
+T19	Term-refs 539 546	Jornada
 #19	AnnotatorNotes T19	"DPEJ"
-T20	Term-diccionario 760 767	límites
+T20	Term-refs 760 767	límites
 #20	AnnotatorNotes T20	"DPEJ"
-T21	Term-diccionario 572 584	distribución
+T21	Term-refs 572 584	distribución
 #21	AnnotatorNotes T21	"DPEJ"
-T22	Term-diccionario 0 8	Artículo
+T22	Term-refs 0 8	Artículo
 #22	AnnotatorNotes T22	"DPEJ"
 #23	AnnotatorNotes T22	"Termcat"
 #24	AnnotatorNotes T14	"Termcat"
 #25	AnnotatorNotes T15	"Termcat"
-T23	Term-diccionario 311 325	competitividad
+T23	Term-refs 311 325	competitividad
 #26	AnnotatorNotes T23	"Termcat"
-T24	Term-diccionario 456 478	condiciones de trabajo
+T24	Term-refs 456 478	condiciones de trabajo
 #27	AnnotatorNotes T24	"Termcat"
-T25	Term-diccionario 44 66	condiciones de trabajo
+T25	Term-refs 44 66	condiciones de trabajo
 #28	AnnotatorNotes T25	"Termcat"
-T26	Term-diccionario 147 169	condiciones de trabajo
+T26	Term-refs 147 169	condiciones de trabajo
 #29	AnnotatorNotes T26	"Termcat"
 #30	AnnotatorNotes T13	"Termcat"
 #31	AnnotatorNotes T11	"Termcat"
 #32	AnnotatorNotes T12	"Termcat"
 #33	AnnotatorNotes T5	"Termcat"
 #34	AnnotatorNotes T10	"Termcat"
-T27	Term-diccionario 539 557	Jornada de trabajo
+T27	Term-refs 539 557	Jornada de trabajo
 #35	AnnotatorNotes T27	"Termcat"
-T28	Term-diccionario 780 799	movilidad funcional
+T28	Term-refs 780 799	movilidad funcional
 #36	AnnotatorNotes T28	"Termcat"
-T29	Term-diccionario 327 340	productividad
+T29	Term-refs 327 340	productividad
 #37	AnnotatorNotes T29	"Termcat"
-T30	Term-diccionario 654 666	remuneración
+T30	Term-refs 654 666	remuneración
 #38	AnnotatorNotes T30	"Termcat"
-T31	Term-diccionario 711 722	rendimiento
+T31	Term-refs 711 722	rendimiento
 #39	AnnotatorNotes T31	"Termcat"
 #40	AnnotatorNotes T1	"Termcat"
-T32	Term-diccionario 589 606	tiempo de trabajo
+T32	Term-refs 589 606	tiempo de trabajo
 #41	AnnotatorNotes T32	"Termcat"
 #42	AnnotatorNotes T17	"Termcat"
 #43	AnnotatorNotes T8	"Termcat"
 #44	AnnotatorNotes T9	"Termcat"
-T33	Term-diccionario 526 534	materias
+T33	Term-refs 526 534	materias
 #45	AnnotatorNotes T33	"Termcat"
-T34	Term-diccionario 243 253	producción
+T34	Term-refs 243 253	producción
 #46	AnnotatorNotes T34	"Termcat"
 #47	AnnotatorNotes T18	"Termcat"
-T35	Term-diccionario 611 618	Régimen
+T35	Term-refs 611 618	Régimen
 #48	AnnotatorNotes T35	"Termcat"
-T36	Term-diccionario 690 708	Sistema de trabajo
+T36	Term-refs 690 708	Sistema de trabajo
 #49	AnnotatorNotes T36	"Termcat"
-T37	Term-diccionario 632 638	turnos
+T37	Term-refs 632 638	turnos
 #50	AnnotatorNotes T37	"Termcat"
-T38	Term-diccionario 104 111	acordar
+T38	Term-refs 104 111	acordar
 #51	AnnotatorNotes T38	"Termcat"
 T39	Term-automatico 760 767	límites
 #52	AnnotatorNotes T39	"AttentionRank"
@@ -178,7 +178,7 @@ T74	Term-automatico 421 448	modificaciones sustanciales
 #104	AnnotatorNotes T18	"LabourLaw"
 #105	AnnotatorNotes T11	"LabourLaw"
 #106	AnnotatorNotes T12	"LabourLaw"
-T75	Term-diccionario 632 637	turno
+T75	Term-refs 632 637	turno
 #107	AnnotatorNotes T75	"LabourLaw"
 #108	AnnotatorNotes T29	"IATE"
 #109	AnnotatorNotes T22	"IATE"
