@@ -1,0 +1,155 @@
+T1	Term-refs 13 20	Trabajo
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 80 87	trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 612 619	trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 32 40	contrato
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 244 252	contrato
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 194 201	deberes
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 370 377	deberes
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 0 8	Artículo
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 44 49	grupo
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 102 107	grupo
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 260 265	grupo
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 416 421	grupo
+#12	AnnotatorNotes T12	"DPEJ"
+#13	AnnotatorNotes T10	"Termcat"
+#14	AnnotatorNotes T11	"Termcat"
+#15	AnnotatorNotes T9	"Termcat"
+#16	AnnotatorNotes T12	"Termcat"
+#17	AnnotatorNotes T5	"Termcat"
+#18	AnnotatorNotes T4	"Termcat"
+#19	AnnotatorNotes T7	"Termcat"
+#20	AnnotatorNotes T6	"Termcat"
+T13	Term-refs 526 540	representación
+#21	AnnotatorNotes T13	"Termcat"
+T14	Term-refs 435 449	representación
+#22	AnnotatorNotes T14	"Termcat"
+#23	AnnotatorNotes T8	"Termcat"
+T15	Term-refs 634 642	ayudante
+#24	AnnotatorNotes T15	"Termcat"
+#25	AnnotatorNotes T1	"Termcat"
+#26	AnnotatorNotes T3	"Termcat"
+#27	AnnotatorNotes T2	"Termcat"
+T16	Term-refs 183 191	derechos
+#28	AnnotatorNotes T16	"Termcat"
+T17	Term-refs 359 367	derechos
+#29	AnnotatorNotes T17	"Termcat"
+T18	Term-refs 623 631	auxiliar
+#30	AnnotatorNotes T18	"Termcat"
+T19	Term-refs 563 571	conforme
+#31	AnnotatorNotes T19	"Termcat"
+T20	Term-automatico 44 49	grupo
+#32	AnnotatorNotes T20	"AttentionRank"
+T21	Term-automatico 102 107	grupo
+#33	AnnotatorNotes T21	"AttentionRank"
+T22	Term-automatico 260 265	grupo
+#34	AnnotatorNotes T22	"AttentionRank"
+T23	Term-automatico 416 421	grupo
+#35	AnnotatorNotes T23	"AttentionRank"
+T24	Term-automatico 494 517	obligaciones inherentes
+#36	AnnotatorNotes T24	"AttentionRank"
+T25	Term-automatico 0 8	Artículo
+#37	AnnotatorNotes T25	"AttentionRank"
+T26	Term-automatico 387 390	tal
+#38	AnnotatorNotes T26	"AttentionRank"
+T27	Term-automatico 346 354	miembros
+#39	AnnotatorNotes T27	"AttentionRank"
+T28	Term-automatico 115 127	trabajadores
+#40	AnnotatorNotes T28	"AttentionRank"
+T29	Term-automatico 269 281	trabajadores
+#41	AnnotatorNotes T29	"AttentionRank"
+T30	Term-automatico 551 561	trabajador
+#42	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 435 449	representación
+#43	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 526 540	representación
+#44	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 140 156	respecto de cada
+#45	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 183 191	derechos
+#46	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 359 367	derechos
+#47	AnnotatorNotes T35	"AttentionRank"
+T36	Term-automatico 407 411	jefe
+#48	AnnotatorNotes T36	"AttentionRank"
+T37	Term-automatico 32 40	contrato
+#49	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 244 252	contrato
+#50	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 194 201	deberes
+#51	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 370 377	deberes
+#52	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 13 20	Trabajo
+#53	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 80 87	trabajo
+#54	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 612 619	trabajo
+#55	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 60 70	empresario
+#56	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 212 222	empresario
+#57	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 647 657	empresario
+#58	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 269 309	trabajadores considerado en su totalidad
+#59	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 612 631	trabajo un auxiliar
+#60	AnnotatorNotes T48	"AttentionRank"
+#61	AnnotatorNotes T2	"LabourLaw"
+#62	AnnotatorNotes T3	"LabourLaw"
+#63	AnnotatorNotes T4	"LabourLaw"
+#64	AnnotatorNotes T5	"LabourLaw"
+T49	Term-refs 115 125	trabajador
+#65	AnnotatorNotes T49	"LabourLaw"
+T50	Term-refs 269 279	trabajador
+#66	AnnotatorNotes T50	"LabourLaw"
+T51	Term-refs 551 561	trabajador
+#67	AnnotatorNotes T51	"LabourLaw"
+T52	Term-refs 194 199	deber
+#68	AnnotatorNotes T52	"LabourLaw"
+T53	Term-refs 370 375	deber
+#69	AnnotatorNotes T53	"LabourLaw"
+T54	Term-refs 60 70	empresario
+#70	AnnotatorNotes T54	"LabourLaw"
+T55	Term-refs 212 222	empresario
+#71	AnnotatorNotes T55	"LabourLaw"
+T56	Term-refs 647 657	empresario
+#72	AnnotatorNotes T56	"LabourLaw"
+T57	Term-refs 60 67	empresa
+#73	AnnotatorNotes T57	"LabourLaw"
+T58	Term-refs 212 219	empresa
+#74	AnnotatorNotes T58	"LabourLaw"
+T59	Term-refs 647 654	empresa
+#75	AnnotatorNotes T59	"LabourLaw"
+T60	Term-refs 183 190	derecho
+#76	AnnotatorNotes T60	"LabourLaw"
+T61	Term-refs 359 366	derecho
+#77	AnnotatorNotes T61	"LabourLaw"
+#78	AnnotatorNotes T8	"IATE"
+#79	AnnotatorNotes T9	"IATE"
+#80	AnnotatorNotes T10	"IATE"
+#81	AnnotatorNotes T11	"IATE"
+#82	AnnotatorNotes T12	"IATE"
+#83	AnnotatorNotes T54	"IATE"
+#84	AnnotatorNotes T55	"IATE"
+#85	AnnotatorNotes T56	"IATE"
+T62	Term-refs 115 127	trabajadores
+#86	AnnotatorNotes T62	"IATE"
+T63	Term-refs 269 281	trabajadores
+#87	AnnotatorNotes T63	"IATE"
+#88	AnnotatorNotes T51	"IATE"
+T64	Term-refs 346 354	miembros
+#89	AnnotatorNotes T64	"IATE"
+#90	AnnotatorNotes T4	"IATE"
+#91	AnnotatorNotes T5	"IATE"

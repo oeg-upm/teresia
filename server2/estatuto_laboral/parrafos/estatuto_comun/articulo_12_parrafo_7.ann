@@ -1,0 +1,403 @@
+T1	Term-refs 651 655	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 1329 1333	caso
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 583 590	acuerdo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 260 278	edad de jubilación
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 994 1012	edad de jubilación
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 1400 1418	edad de jubilación
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 377 386	Seguridad
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 1091 1100	Seguridad
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 1484 1493	Seguridad
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 475 482	empresa
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 1559 1566	empresa
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 359 370	Ley General
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 1073 1084	Ley General
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1466 1477	Ley General
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 72 80	contrato
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 487 495	contrato
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 835 843	contrato
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 1134 1142	contrato
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 1251 1259	contrato
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 1518 1526	contrato
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 111 123	consecuencia
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 201 207	tiempo
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 932 938	tiempo
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 1306 1312	tiempo
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 359 362	Ley
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 1073 1076	Ley
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 1466 1469	Ley
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 820 828	apartado
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1594 1601	jornada
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 260 264	edad
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 416 420	edad
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 994 998	edad
+#32	AnnotatorNotes T32	"DPEJ"
+T33	Term-refs 1400 1404	edad
+#33	AnnotatorNotes T33	"DPEJ"
+T34	Term-refs 699 702	año
+#34	AnnotatorNotes T34	"DPEJ"
+T35	Term-refs 924 928	años
+#35	AnnotatorNotes T35	"DPEJ"
+T36	Term-refs 901 910	resultado
+#36	AnnotatorNotes T36	"DPEJ"
+T37	Term-refs 1274 1282	términos
+#37	AnnotatorNotes T37	"Termcat"
+#38	AnnotatorNotes T16	"Termcat"
+#39	AnnotatorNotes T17	"Termcat"
+#40	AnnotatorNotes T20	"Termcat"
+#41	AnnotatorNotes T19	"Termcat"
+#42	AnnotatorNotes T15	"Termcat"
+#43	AnnotatorNotes T18	"Termcat"
+#44	AnnotatorNotes T33	"Termcat"
+#45	AnnotatorNotes T30	"Termcat"
+#46	AnnotatorNotes T32	"Termcat"
+#47	AnnotatorNotes T31	"Termcat"
+#48	AnnotatorNotes T27	"Termcat"
+#49	AnnotatorNotes T26	"Termcat"
+#50	AnnotatorNotes T25	"Termcat"
+T38	Term-refs 1051 1066	texto refundido
+#51	AnnotatorNotes T38	"Termcat"
+T39	Term-refs 1444 1459	texto refundido
+#52	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 337 352	texto refundido
+#53	AnnotatorNotes T40	"Termcat"
+T41	Term-refs 599 605	partes
+#54	AnnotatorNotes T41	"Termcat"
+T42	Term-refs 1585 1590	parte
+#55	AnnotatorNotes T42	"Termcat"
+#56	AnnotatorNotes T11	"Termcat"
+#57	AnnotatorNotes T10	"Termcat"
+T43	Term-refs 728 738	jubilación
+#58	AnnotatorNotes T43	"Termcat"
+T44	Term-refs 1408 1418	jubilación
+#59	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 268 278	jubilación
+#60	AnnotatorNotes T45	"Termcat"
+T46	Term-refs 1002 1012	jubilación
+#61	AnnotatorNotes T46	"Termcat"
+T47	Term-refs 131 149	jubilación parcial
+#62	AnnotatorNotes T47	"Termcat"
+T48	Term-refs 1609 1616	vacante
+#63	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 1091 1107	Seguridad Social
+#64	AnnotatorNotes T49	"Termcat"
+T50	Term-refs 377 393	Seguridad Social
+#65	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 1484 1500	Seguridad Social
+#66	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 883 891	duración
+#67	AnnotatorNotes T52	"Termcat"
+T53	Term-refs 535 543	duración
+#68	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 1175 1183	duración
+#69	AnnotatorNotes T54	"Termcat"
+T55	Term-refs 59 67	duración
+#70	AnnotatorNotes T55	"Termcat"
+T56	Term-refs 1505 1513	duración
+#71	AnnotatorNotes T56	"Termcat"
+#72	AnnotatorNotes T8	"Termcat"
+#73	AnnotatorNotes T7	"Termcat"
+#74	AnnotatorNotes T9	"Termcat"
+#75	AnnotatorNotes T3	"Termcat"
+T57	Term-refs 1039 1047	conforme
+#76	AnnotatorNotes T57	"Termcat"
+T58	Term-refs 305 313	conforme
+#77	AnnotatorNotes T58	"Termcat"
+T59	Term-refs 1505 1526	duración del contrato
+#78	AnnotatorNotes T59	"Termcat"
+T60	Term-refs 59 80	duración del contrato
+#79	AnnotatorNotes T60	"Termcat"
+T61	Term-refs 1382 1387	haber
+#80	AnnotatorNotes T61	"Termcat"
+T62	Term-refs 131 141	jubilación
+#81	AnnotatorNotes T62	"Termcat"
+T63	Term-refs 1530 1536	relevo
+#82	AnnotatorNotes T63	"Termcat"
+T64	Term-refs 499 505	relevo
+#83	AnnotatorNotes T64	"Termcat"
+T65	Term-refs 847 853	relevo
+#84	AnnotatorNotes T65	"Termcat"
+T66	Term-refs 84 90	relevo
+#85	AnnotatorNotes T66	"Termcat"
+#86	AnnotatorNotes T36	"Termcat"
+T67	Term-automatico 201 207	tiempo
+#87	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 932 938	tiempo
+#88	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 1306 1312	tiempo
+#89	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 111 123	consecuencia
+#90	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 599 605	partes
+#91	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 1585 1590	parte
+#92	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 583 590	acuerdo
+#93	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 901 910	resultado
+#94	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 699 702	año
+#95	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 924 928	años
+#96	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 84 90	relevo
+#97	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 499 505	relevo
+#98	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 847 853	relevo
+#99	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 1530 1536	relevo
+#100	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 1594 1601	jornada
+#101	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 610 618	periodos
+#102	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 672 679	periodo
+#103	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 739 744	total
+#104	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 377 386	Seguridad
+#105	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 1091 1100	Seguridad
+#106	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 1484 1493	Seguridad
+#107	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 268 288	jubilación ordinaria
+#108	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 1002 1022	jubilación ordinaria
+#109	AnnotatorNotes T89	"AttentionRank"
+T90	Term-automatico 1408 1428	jubilación ordinaria
+#110	AnnotatorNotes T90	"AttentionRank"
+T91	Term-automatico 111 149	consecuencia de una jubilación parcial
+#111	AnnotatorNotes T91	"AttentionRank"
+T92	Term-automatico 776 784	supuesto
+#112	AnnotatorNotes T92	"AttentionRank"
+T93	Term-automatico 1115 1123	supuesto
+#113	AnnotatorNotes T93	"AttentionRank"
+T94	Term-automatico 535 555	duración determinada
+#114	AnnotatorNotes T94	"AttentionRank"
+T95	Term-automatico 1338 1381	trabajador jubilado parcialmente después de
+#115	AnnotatorNotes T95	"AttentionRank"
+T96	Term-automatico 59 67	duración
+#116	AnnotatorNotes T96	"AttentionRank"
+T97	Term-automatico 535 543	duración
+#117	AnnotatorNotes T97	"AttentionRank"
+T98	Term-automatico 883 891	duración
+#118	AnnotatorNotes T98	"AttentionRank"
+T99	Term-automatico 1175 1183	duración
+#119	AnnotatorNotes T99	"AttentionRank"
+T100	Term-automatico 1505 1513	duración
+#120	AnnotatorNotes T100	"AttentionRank"
+T101	Term-automatico 221 231	trabajador
+#121	AnnotatorNotes T101	"AttentionRank"
+T102	Term-automatico 425 435	trabajador
+#122	AnnotatorNotes T102	"AttentionRank"
+T103	Term-automatico 749 759	trabajador
+#123	AnnotatorNotes T103	"AttentionRank"
+T104	Term-automatico 955 965	trabajador
+#124	AnnotatorNotes T104	"AttentionRank"
+T105	Term-automatico 1338 1348	trabajador
+#125	AnnotatorNotes T105	"AttentionRank"
+T106	Term-automatico 583 605	acuerdo con las partes
+#126	AnnotatorNotes T106	"AttentionRank"
+T107	Term-automatico 475 482	empresa
+#127	AnnotatorNotes T107	"AttentionRank"
+T108	Term-automatico 1559 1566	empresa
+#128	AnnotatorNotes T108	"AttentionRank"
+T109	Term-automatico 425 444	trabajador jubilado
+#129	AnnotatorNotes T109	"AttentionRank"
+T110	Term-automatico 1338 1357	trabajador jubilado
+#130	AnnotatorNotes T110	"AttentionRank"
+T111	Term-automatico 359 362	Ley
+#131	AnnotatorNotes T111	"AttentionRank"
+T112	Term-automatico 1073 1076	Ley
+#132	AnnotatorNotes T112	"AttentionRank"
+T113	Term-automatico 1466 1469	Ley
+#133	AnnotatorNotes T113	"AttentionRank"
+T114	Term-automatico 377 393	Seguridad Social
+#134	AnnotatorNotes T114	"AttentionRank"
+T115	Term-automatico 1091 1107	Seguridad Social
+#135	AnnotatorNotes T115	"AttentionRank"
+T116	Term-automatico 1484 1500	Seguridad Social
+#136	AnnotatorNotes T116	"AttentionRank"
+T117	Term-automatico 1594 1608	jornada dejada
+#137	AnnotatorNotes T117	"AttentionRank"
+T118	Term-automatico 672 702	periodo correspondiente al año
+#138	AnnotatorNotes T118	"AttentionRank"
+T119	Term-automatico 221 242	trabajador sustituido
+#139	AnnotatorNotes T119	"AttentionRank"
+T120	Term-automatico 955 976	trabajador sustituido
+#140	AnnotatorNotes T120	"AttentionRank"
+T121	Term-automatico 72 80	contrato
+#141	AnnotatorNotes T121	"AttentionRank"
+T122	Term-automatico 487 495	contrato
+#142	AnnotatorNotes T122	"AttentionRank"
+T123	Term-automatico 835 843	contrato
+#143	AnnotatorNotes T123	"AttentionRank"
+T124	Term-automatico 1134 1142	contrato
+#144	AnnotatorNotes T124	"AttentionRank"
+T125	Term-automatico 1251 1259	contrato
+#145	AnnotatorNotes T125	"AttentionRank"
+T126	Term-automatico 1518 1526	contrato
+#146	AnnotatorNotes T126	"AttentionRank"
+T127	Term-automatico 260 264	edad
+#147	AnnotatorNotes T127	"AttentionRank"
+T128	Term-automatico 416 420	edad
+#148	AnnotatorNotes T128	"AttentionRank"
+T129	Term-automatico 994 998	edad
+#149	AnnotatorNotes T129	"AttentionRank"
+T130	Term-automatico 1400 1404	edad
+#150	AnnotatorNotes T130	"AttentionRank"
+T131	Term-automatico 1245 1259	nuevo contrato
+#151	AnnotatorNotes T131	"AttentionRank"
+T132	Term-automatico 749 768	trabajador relevado
+#152	AnnotatorNotes T132	"AttentionRank"
+T133	Term-automatico 131 149	jubilación parcial
+#153	AnnotatorNotes T133	"AttentionRank"
+T134	Term-automatico 651 655	caso
+#154	AnnotatorNotes T134	"AttentionRank"
+T135	Term-automatico 1329 1333	caso
+#155	AnnotatorNotes T135	"AttentionRank"
+T136	Term-automatico 1204 1214	empresario
+#156	AnnotatorNotes T136	"AttentionRank"
+T137	Term-automatico 337 352	texto refundido
+#157	AnnotatorNotes T137	"AttentionRank"
+T138	Term-automatico 1051 1066	texto refundido
+#158	AnnotatorNotes T138	"AttentionRank"
+T139	Term-automatico 1444 1459	texto refundido
+#159	AnnotatorNotes T139	"AttentionRank"
+T140	Term-automatico 820 828	apartado
+#160	AnnotatorNotes T140	"AttentionRank"
+T141	Term-refs 72 90	contrato de relevo
+#161	AnnotatorNotes T141	"LabourLaw"
+T142	Term-refs 487 505	contrato de relevo
+#162	AnnotatorNotes T142	"LabourLaw"
+T143	Term-refs 835 853	contrato de relevo
+#163	AnnotatorNotes T143	"LabourLaw"
+T144	Term-refs 1518 1536	contrato de relevo
+#164	AnnotatorNotes T144	"LabourLaw"
+#165	AnnotatorNotes T60	"LabourLaw"
+#166	AnnotatorNotes T59	"LabourLaw"
+#167	AnnotatorNotes T4	"LabourLaw"
+#168	AnnotatorNotes T5	"LabourLaw"
+#169	AnnotatorNotes T6	"LabourLaw"
+#170	AnnotatorNotes T47	"LabourLaw"
+#171	AnnotatorNotes T40	"LabourLaw"
+#172	AnnotatorNotes T38	"LabourLaw"
+#173	AnnotatorNotes T39	"LabourLaw"
+T145	Term-refs 672 695	periodo correspondiente
+#174	AnnotatorNotes T145	"LabourLaw"
+#175	AnnotatorNotes T29	"LabourLaw"
+#176	AnnotatorNotes T29	"LabourLaw"
+T146	Term-refs 343 352	refundido
+#177	AnnotatorNotes T146	"LabourLaw"
+T147	Term-refs 1057 1066	refundido
+#178	AnnotatorNotes T147	"LabourLaw"
+T148	Term-refs 1450 1459	refundido
+#179	AnnotatorNotes T148	"LabourLaw"
+#180	AnnotatorNotes T15	"LabourLaw"
+#181	AnnotatorNotes T16	"LabourLaw"
+#182	AnnotatorNotes T17	"LabourLaw"
+#183	AnnotatorNotes T18	"LabourLaw"
+#184	AnnotatorNotes T19	"LabourLaw"
+#185	AnnotatorNotes T20	"LabourLaw"
+T149	Term-refs 221 231	trabajador
+#186	AnnotatorNotes T149	"LabourLaw"
+T150	Term-refs 425 435	trabajador
+#187	AnnotatorNotes T150	"LabourLaw"
+T151	Term-refs 749 759	trabajador
+#188	AnnotatorNotes T151	"LabourLaw"
+T152	Term-refs 955 965	trabajador
+#189	AnnotatorNotes T152	"LabourLaw"
+T153	Term-refs 1338 1348	trabajador
+#190	AnnotatorNotes T153	"LabourLaw"
+T154	Term-refs 436 444	jubilado
+#191	AnnotatorNotes T154	"LabourLaw"
+T155	Term-refs 1349 1357	jubilado
+#192	AnnotatorNotes T155	"LabourLaw"
+T156	Term-refs 854 859	deber
+#193	AnnotatorNotes T156	"LabourLaw"
+T157	Term-refs 1204 1214	empresario
+#194	AnnotatorNotes T157	"LabourLaw"
+#195	AnnotatorNotes T30	"LabourLaw"
+#196	AnnotatorNotes T31	"LabourLaw"
+#197	AnnotatorNotes T32	"LabourLaw"
+#198	AnnotatorNotes T33	"LabourLaw"
+#199	AnnotatorNotes T10	"LabourLaw"
+T158	Term-refs 1204 1211	empresa
+#200	AnnotatorNotes T158	"LabourLaw"
+#201	AnnotatorNotes T11	"LabourLaw"
+#202	AnnotatorNotes T55	"LabourLaw"
+#203	AnnotatorNotes T53	"LabourLaw"
+#204	AnnotatorNotes T52	"LabourLaw"
+#205	AnnotatorNotes T54	"LabourLaw"
+#206	AnnotatorNotes T56	"LabourLaw"
+T159	Term-refs 1274 1281	término
+#207	AnnotatorNotes T159	"LabourLaw"
+#208	AnnotatorNotes T62	"LabourLaw"
+#209	AnnotatorNotes T45	"LabourLaw"
+#210	AnnotatorNotes T43	"LabourLaw"
+#211	AnnotatorNotes T46	"LabourLaw"
+#212	AnnotatorNotes T44	"LabourLaw"
+T160	Term-refs 562 571	prorrogar
+#213	AnnotatorNotes T160	"LabourLaw"
+T161	Term-refs 610 617	periodo
+#214	AnnotatorNotes T161	"LabourLaw"
+T162	Term-refs 672 679	periodo
+#215	AnnotatorNotes T162	"LabourLaw"
+#216	AnnotatorNotes T41	"IATE"
+#217	AnnotatorNotes T42	"IATE"
+#218	AnnotatorNotes T3	"IATE"
+#219	AnnotatorNotes T10	"IATE"
+#220	AnnotatorNotes T11	"IATE"
+#221	AnnotatorNotes T157	"IATE"
+#222	AnnotatorNotes T28	"IATE"
+#223	AnnotatorNotes T149	"IATE"
+#224	AnnotatorNotes T150	"IATE"
+#225	AnnotatorNotes T151	"IATE"
+#226	AnnotatorNotes T152	"IATE"
+#227	AnnotatorNotes T153	"IATE"
+#228	AnnotatorNotes T7	"IATE"
+#229	AnnotatorNotes T8	"IATE"
+#230	AnnotatorNotes T9	"IATE"
+#231	AnnotatorNotes T15	"IATE"
+#232	AnnotatorNotes T16	"IATE"
+#233	AnnotatorNotes T17	"IATE"
+#234	AnnotatorNotes T18	"IATE"
+#235	AnnotatorNotes T19	"IATE"
+#236	AnnotatorNotes T20	"IATE"
+#237	AnnotatorNotes T55	"IATE"
+#238	AnnotatorNotes T53	"IATE"
+#239	AnnotatorNotes T52	"IATE"
+#240	AnnotatorNotes T54	"IATE"
+#241	AnnotatorNotes T56	"IATE"

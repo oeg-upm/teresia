@@ -1,0 +1,263 @@
+T1	Term-refs 63 69	órgano
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 146 163	centro de trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 222 239	centro de trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 156 163	trabajo
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 232 239	trabajo
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 387 394	trabajo
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 24 31	empresa
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 49 56	empresa
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 136 143	empresa
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 297 304	empresa
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 510 517	empresa
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 655 662	empresa
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 729 737	convenio
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1198 1206	convenio
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 39 45	comité
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 500 506	comité
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 802 808	comité
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 960 966	comité
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 39 56	comité de empresa
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 500 517	comité de empresa
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 729 747	convenio colectivo
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 1198 1216	convenio colectivo
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 802 821	comité intercentros
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 960 979	comité intercentros
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 101 109	conjunto
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 463 471	conjunto
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 518 526	conjunto
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 0 8	Artículo
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1040 1050	resultados
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 146 152	centro
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 222 228	centro
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 929 935	centro
+#32	AnnotatorNotes T32	"DPEJ"
+T33	Term-refs 376 383	centros
+#33	AnnotatorNotes T33	"DPEJ"
+T34	Term-refs 540 547	centros
+#34	AnnotatorNotes T34	"DPEJ"
+T35	Term-refs 766 778	constitución
+#35	AnnotatorNotes T35	"Termcat"
+T36	Term-refs 943 955	constitución
+#36	AnnotatorNotes T36	"Termcat"
+#37	AnnotatorNotes T13	"Termcat"
+#38	AnnotatorNotes T14	"Termcat"
+T37	Term-refs 343 353	municipios
+#39	AnnotatorNotes T37	"Termcat"
+T38	Term-refs 598 607	provincia
+#40	AnnotatorNotes T38	"Termcat"
+T39	Term-refs 327 336	provincia
+#41	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 245 250	censo
+#42	AnnotatorNotes T40	"Termcat"
+T41	Term-refs 401 407	censos
+#43	AnnotatorNotes T41	"Termcat"
+#44	AnnotatorNotes T28	"Termcat"
+T42	Term-refs 1019 1029	sindicatos
+#45	AnnotatorNotes T42	"Termcat"
+#46	AnnotatorNotes T3	"Termcat"
+#47	AnnotatorNotes T2	"Termcat"
+#48	AnnotatorNotes T19	"Termcat"
+#49	AnnotatorNotes T20	"Termcat"
+#50	AnnotatorNotes T23	"Termcat"
+#51	AnnotatorNotes T24	"Termcat"
+#52	AnnotatorNotes T21	"Termcat"
+#53	AnnotatorNotes T22	"Termcat"
+#54	AnnotatorNotes T7	"Termcat"
+#55	AnnotatorNotes T9	"Termcat"
+#56	AnnotatorNotes T10	"Termcat"
+#57	AnnotatorNotes T12	"Termcat"
+#58	AnnotatorNotes T6	"Termcat"
+T43	Term-refs 500 526	comité de empresa conjunto
+#59	AnnotatorNotes T43	"Termcat"
+#60	AnnotatorNotes T1	"Termcat"
+T44	Term-refs 995 1011	proporcionalidad
+#61	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 172 179	defensa
+#62	AnnotatorNotes T45	"Termcat"
+#63	AnnotatorNotes T29	"Termcat"
+T46	Term-automatico 1040 1050	resultados
+#64	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 327 336	provincia
+#65	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 598 607	provincia
+#66	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 343 364	municipios limítrofes
+#67	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 781 795	funcionamiento
+#68	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 172 179	defensa
+#69	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 39 45	comité
+#70	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 500 506	comité
+#71	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 802 808	comité
+#72	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 960 966	comité
+#73	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 655 670	empresa propios
+#74	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 0 8	Artículo
+#75	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 1019 1029	sindicatos
+#76	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 729 737	convenio
+#77	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 1198 1206	convenio
+#78	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 802 821	comité intercentros
+#79	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 960 979	comité intercentros
+#80	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 1089 1094	Tales
+#81	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 845 853	miembros
+#82	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 117 129	trabajadores
+#83	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 274 286	trabajadores
+#84	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 434 446	trabajadores
+#85	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 565 577	trabajadores
+#86	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 63 69	órgano
+#87	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 24 31	empresa
+#88	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 49 56	empresa
+#89	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 136 143	empresa
+#90	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 297 304	empresa
+#91	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 510 517	empresa
+#92	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 655 662	empresa
+#93	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 101 109	conjunto
+#94	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 463 471	conjunto
+#95	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 518 526	conjunto
+#96	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 146 152	centro
+#97	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 222 228	centro
+#98	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 929 935	centro
+#99	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 376 383	centros
+#100	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 540 547	centros
+#101	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 729 747	convenio colectivo
+#102	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 1198 1216	convenio colectivo
+#103	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 156 163	trabajo
+#104	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 232 239	trabajo
+#105	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 387 394	trabajo
+#106	AnnotatorNotes T88	"AttentionRank"
+#107	AnnotatorNotes T19	"LabourLaw"
+#108	AnnotatorNotes T20	"LabourLaw"
+#109	AnnotatorNotes T2	"LabourLaw"
+#110	AnnotatorNotes T3	"LabourLaw"
+#111	AnnotatorNotes T21	"LabourLaw"
+#112	AnnotatorNotes T22	"LabourLaw"
+#113	AnnotatorNotes T4	"LabourLaw"
+#114	AnnotatorNotes T5	"LabourLaw"
+#115	AnnotatorNotes T6	"LabourLaw"
+T89	Term-refs 117 127	trabajador
+#116	AnnotatorNotes T89	"LabourLaw"
+T90	Term-refs 274 284	trabajador
+#117	AnnotatorNotes T90	"LabourLaw"
+T91	Term-refs 434 444	trabajador
+#118	AnnotatorNotes T91	"LabourLaw"
+T92	Term-refs 565 575	trabajador
+#119	AnnotatorNotes T92	"LabourLaw"
+T93	Term-refs 1019 1028	sindicato
+#120	AnnotatorNotes T93	"LabourLaw"
+#121	AnnotatorNotes T1	"LabourLaw"
+#122	AnnotatorNotes T7	"LabourLaw"
+#123	AnnotatorNotes T8	"LabourLaw"
+#124	AnnotatorNotes T9	"LabourLaw"
+#125	AnnotatorNotes T10	"LabourLaw"
+#126	AnnotatorNotes T11	"LabourLaw"
+#127	AnnotatorNotes T12	"LabourLaw"
+#128	AnnotatorNotes T15	"LabourLaw"
+#129	AnnotatorNotes T16	"LabourLaw"
+T94	Term-refs 644 650	comité
+#130	AnnotatorNotes T94	"LabourLaw"
+#131	AnnotatorNotes T17	"LabourLaw"
+T95	Term-refs 918 924	comité
+#132	AnnotatorNotes T95	"LabourLaw"
+#133	AnnotatorNotes T18	"LabourLaw"
+T96	Term-refs 1095 1101	comité
+#134	AnnotatorNotes T96	"LabourLaw"
+T97	Term-refs 738 747	colectivo
+#135	AnnotatorNotes T97	"LabourLaw"
+T98	Term-refs 1207 1216	colectivo
+#136	AnnotatorNotes T98	"LabourLaw"
+#137	AnnotatorNotes T28	"IATE"
+#138	AnnotatorNotes T25	"IATE"
+#139	AnnotatorNotes T26	"IATE"
+#140	AnnotatorNotes T27	"IATE"
+#141	AnnotatorNotes T7	"IATE"
+#142	AnnotatorNotes T8	"IATE"
+#143	AnnotatorNotes T9	"IATE"
+#144	AnnotatorNotes T10	"IATE"
+#145	AnnotatorNotes T11	"IATE"
+#146	AnnotatorNotes T12	"IATE"
+#147	AnnotatorNotes T45	"IATE"
+T99	Term-refs 117 129	trabajadores
+#148	AnnotatorNotes T99	"IATE"
+T100	Term-refs 274 286	trabajadores
+#149	AnnotatorNotes T100	"IATE"
+T101	Term-refs 434 446	trabajadores
+#150	AnnotatorNotes T101	"IATE"
+T102	Term-refs 565 577	trabajadores
+#151	AnnotatorNotes T102	"IATE"
+T103	Term-refs 845 853	miembros
+#152	AnnotatorNotes T103	"IATE"
+#153	AnnotatorNotes T39	"IATE"
+#154	AnnotatorNotes T38	"IATE"
+#155	AnnotatorNotes T15	"IATE"
+#156	AnnotatorNotes T16	"IATE"
+#157	AnnotatorNotes T17	"IATE"
+#158	AnnotatorNotes T18	"IATE"
+#159	AnnotatorNotes T13	"IATE"
+#160	AnnotatorNotes T14	"IATE"

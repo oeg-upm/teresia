@@ -1,0 +1,260 @@
+T1	Term-refs 93 110	centro de trabajo
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 103 110	trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 83 90	empresa
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 768 775	empresa
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 905 912	empresa
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 269 277	empresas
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 26 34	personal
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 199 207	personal
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 248 256	personal
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 424 432	personal
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 471 479	personal
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 600 608	personal
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 794 802	personal
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 0 8	Artículo
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 919 927	artículo
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 93 99	centro
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 280 287	centros
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 486 492	número
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 818 824	normas
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 42 56	representación
+#20	AnnotatorNotes T20	"Termcat"
+T21	Term-refs 658 672	representación
+#21	AnnotatorNotes T21	"Termcat"
+#22	AnnotatorNotes T14	"Termcat"
+#23	AnnotatorNotes T15	"Termcat"
+#24	AnnotatorNotes T19	"Termcat"
+T22	Term-refs 408 416	sufragio
+#25	AnnotatorNotes T22	"Termcat"
+#26	AnnotatorNotes T1	"Termcat"
+T23	Term-refs 722 734	competencias
+#27	AnnotatorNotes T23	"Termcat"
+#28	AnnotatorNotes T5	"Termcat"
+#29	AnnotatorNotes T3	"Termcat"
+#30	AnnotatorNotes T4	"Termcat"
+#31	AnnotatorNotes T6	"Termcat"
+#32	AnnotatorNotes T7	"Termcat"
+#33	AnnotatorNotes T11	"Termcat"
+#34	AnnotatorNotes T12	"Termcat"
+#35	AnnotatorNotes T9	"Termcat"
+#36	AnnotatorNotes T13	"Termcat"
+#37	AnnotatorNotes T10	"Termcat"
+#38	AnnotatorNotes T8	"Termcat"
+T24	Term-refs 835 853	sigilo profesional
+#39	AnnotatorNotes T24	"Termcat"
+T25	Term-refs 363 370	mayoría
+#40	AnnotatorNotes T25	"Termcat"
+T26	Term-refs 227 232	haber
+#41	AnnotatorNotes T26	"Termcat"
+T27	Term-refs 434 441	secreto
+#42	AnnotatorNotes T27	"Termcat"
+T28	Term-automatico 835 853	sigilo profesional
+#43	AnnotatorNotes T28	"AttentionRank"
+T29	Term-automatico 818 824	normas
+#44	AnnotatorNotes T29	"AttentionRank"
+T30	Term-automatico 335 338	así
+#45	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 0 8	Artículo
+#46	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 919 927	artículo
+#47	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 486 502	número siguiente
+#48	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 408 422	sufragio libre
+#49	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 882 890	miembros
+#50	AnnotatorNotes T35	"AttentionRank"
+T36	Term-automatico 13 22	Delegados
+#51	AnnotatorNotes T36	"AttentionRank"
+T37	Term-automatico 186 195	delegados
+#52	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 458 467	delegados
+#53	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 587 596	delegados
+#54	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 781 790	delegados
+#55	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 236 244	delegado
+#56	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 42 76	representación de los trabajadores
+#57	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 835 841	sigilo
+#58	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 722 775	competencias establecidas para los comités de empresa
+#59	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 64 76	trabajadores
+#60	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 155 167	trabajadores
+#61	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 318 330	trabajadores
+#62	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 376 388	trabajadores
+#63	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 518 530	trabajadores
+#64	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 83 90	empresa
+#65	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 768 775	empresa
+#66	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 905 912	empresa
+#67	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 269 277	empresas
+#68	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 42 56	representación
+#69	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 658 672	representación
+#70	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 93 99	centro
+#71	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 280 287	centros
+#72	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 486 492	número
+#73	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 13 34	Delegados de personal
+#74	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 186 207	delegados de personal
+#75	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 458 479	delegados de personal
+#76	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 587 608	delegados de personal
+#77	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 781 802	delegados de personal
+#78	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 26 34	personal
+#79	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 199 207	personal
+#80	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 248 256	personal
+#81	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 424 432	personal
+#82	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 471 479	personal
+#83	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 600 608	personal
+#84	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 794 802	personal
+#85	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 103 110	trabajo
+#86	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 644 654	empresario
+#87	AnnotatorNotes T72	"AttentionRank"
+T73	Term-refs 42 76	representación de los trabajadores
+#88	AnnotatorNotes T73	"LabourLaw"
+T74	Term-refs 186 207	delegados de personal
+#89	AnnotatorNotes T74	"LabourLaw"
+T75	Term-refs 458 479	delegados de personal
+#90	AnnotatorNotes T75	"LabourLaw"
+T76	Term-refs 587 608	delegados de personal
+#91	AnnotatorNotes T76	"LabourLaw"
+T77	Term-refs 781 802	delegados de personal
+#92	AnnotatorNotes T77	"LabourLaw"
+#93	AnnotatorNotes T1	"LabourLaw"
+#94	AnnotatorNotes T24	"LabourLaw"
+#95	AnnotatorNotes T2	"LabourLaw"
+T78	Term-refs 64 74	trabajador
+#96	AnnotatorNotes T78	"LabourLaw"
+T79	Term-refs 155 165	trabajador
+#97	AnnotatorNotes T79	"LabourLaw"
+T80	Term-refs 318 328	trabajador
+#98	AnnotatorNotes T80	"LabourLaw"
+T81	Term-refs 376 386	trabajador
+#99	AnnotatorNotes T81	"LabourLaw"
+T82	Term-refs 518 528	trabajador
+#100	AnnotatorNotes T82	"LabourLaw"
+T83	Term-refs 644 654	empresario
+#101	AnnotatorNotes T83	"LabourLaw"
+T84	Term-refs 186 194	delegado
+#102	AnnotatorNotes T84	"LabourLaw"
+T85	Term-refs 236 244	delegado
+#103	AnnotatorNotes T85	"LabourLaw"
+T86	Term-refs 458 466	delegado
+#104	AnnotatorNotes T86	"LabourLaw"
+T87	Term-refs 587 595	delegado
+#105	AnnotatorNotes T87	"LabourLaw"
+T88	Term-refs 781 789	delegado
+#106	AnnotatorNotes T88	"LabourLaw"
+#107	AnnotatorNotes T3	"LabourLaw"
+T89	Term-refs 269 276	empresa
+#108	AnnotatorNotes T89	"LabourLaw"
+T90	Term-refs 644 651	empresa
+#109	AnnotatorNotes T90	"LabourLaw"
+#110	AnnotatorNotes T4	"LabourLaw"
+#111	AnnotatorNotes T5	"LabourLaw"
+T91	Term-refs 757 763	comité
+#112	AnnotatorNotes T91	"LabourLaw"
+T92	Term-refs 894 900	comité
+#113	AnnotatorNotes T92	"LabourLaw"
+T93	Term-refs 722 733	competencia
+#114	AnnotatorNotes T93	"LabourLaw"
+T94	Term-refs 559 564	renta
+#115	AnnotatorNotes T94	"LabourLaw"
+#116	AnnotatorNotes T7	"LabourLaw"
+#117	AnnotatorNotes T8	"LabourLaw"
+#118	AnnotatorNotes T9	"LabourLaw"
+#119	AnnotatorNotes T10	"LabourLaw"
+#120	AnnotatorNotes T11	"LabourLaw"
+#121	AnnotatorNotes T12	"LabourLaw"
+#122	AnnotatorNotes T13	"LabourLaw"
+T95	Term-refs 26 33	persona
+#123	AnnotatorNotes T95	"LabourLaw"
+T96	Term-refs 199 206	persona
+#124	AnnotatorNotes T96	"LabourLaw"
+T97	Term-refs 248 255	persona
+#125	AnnotatorNotes T97	"LabourLaw"
+T98	Term-refs 424 431	persona
+#126	AnnotatorNotes T98	"LabourLaw"
+T99	Term-refs 471 478	persona
+#127	AnnotatorNotes T99	"LabourLaw"
+T100	Term-refs 600 607	persona
+#128	AnnotatorNotes T100	"LabourLaw"
+T101	Term-refs 794 801	persona
+#129	AnnotatorNotes T101	"LabourLaw"
+#130	AnnotatorNotes T14	"IATE"
+#131	AnnotatorNotes T15	"IATE"
+#132	AnnotatorNotes T3	"IATE"
+#133	AnnotatorNotes T4	"IATE"
+#134	AnnotatorNotes T5	"IATE"
+#135	AnnotatorNotes T6	"IATE"
+#136	AnnotatorNotes T83	"IATE"
+T102	Term-refs 13 22	Delegados
+#137	AnnotatorNotes T102	"IATE"
+T103	Term-refs 186 195	delegados
+#138	AnnotatorNotes T103	"IATE"
+T104	Term-refs 458 467	delegados
+#139	AnnotatorNotes T104	"IATE"
+T105	Term-refs 587 596	delegados
+#140	AnnotatorNotes T105	"IATE"
+T106	Term-refs 781 790	delegados
+#141	AnnotatorNotes T106	"IATE"
+#142	AnnotatorNotes T85	"IATE"
+T107	Term-refs 64 76	trabajadores
+#143	AnnotatorNotes T107	"IATE"
+T108	Term-refs 155 167	trabajadores
+#144	AnnotatorNotes T108	"IATE"
+T109	Term-refs 318 330	trabajadores
+#145	AnnotatorNotes T109	"IATE"
+T110	Term-refs 376 388	trabajadores
+#146	AnnotatorNotes T110	"IATE"
+T111	Term-refs 518 530	trabajadores
+#147	AnnotatorNotes T111	"IATE"
+T112	Term-refs 882 890	miembros
+#148	AnnotatorNotes T112	"IATE"

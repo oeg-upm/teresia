@@ -1,0 +1,209 @@
+T1	Term-refs 251 255	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 166 173	acuerdo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 538 546	ausencia
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 193 200	empresa
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 455 462	empresa
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 136 144	convenio
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 50 57	sistema
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 490 498	sistemas
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 427 436	promoción
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 612 619	hombres
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 13 21	Ascensos
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 30 38	ascensos
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 260 268	ascensos
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 413 421	ascensos
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 166 183	acuerdo colectivo
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 550 564	discriminación
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 718 732	discriminación
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 643 650	medidas
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 0 8	Artículo
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 654 660	acción
+#20	AnnotatorNotes T20	"Termcat"
+#21	AnnotatorNotes T6	"Termcat"
+T21	Term-refs 316 323	méritos
+#22	AnnotatorNotes T21	"Termcat"
+T22	Term-refs 427 448	promoción profesional
+#23	AnnotatorNotes T22	"Termcat"
+#24	AnnotatorNotes T3	"Termcat"
+T23	Term-refs 365 375	facultades
+#25	AnnotatorNotes T23	"Termcat"
+T24	Term-refs 207 221	representantes
+#26	AnnotatorNotes T24	"Termcat"
+#27	AnnotatorNotes T19	"Termcat"
+#28	AnnotatorNotes T7	"Termcat"
+#29	AnnotatorNotes T8	"Termcat"
+T25	Term-refs 654 669	acción positiva
+#30	AnnotatorNotes T25	"Termcat"
+T26	Term-refs 325 335	antigüedad
+#31	AnnotatorNotes T26	"Termcat"
+#32	AnnotatorNotes T11	"Termcat"
+#33	AnnotatorNotes T13	"Termcat"
+#34	AnnotatorNotes T12	"Termcat"
+#35	AnnotatorNotes T14	"Termcat"
+#36	AnnotatorNotes T9	"Termcat"
+T27	Term-refs 61 86	clasificación profesional
+#37	AnnotatorNotes T27	"Termcat"
+#38	AnnotatorNotes T17	"Termcat"
+#39	AnnotatorNotes T16	"Termcat"
+#40	AnnotatorNotes T4	"Termcat"
+#41	AnnotatorNotes T5	"Termcat"
+T28	Term-refs 305 314	formación
+#42	AnnotatorNotes T28	"Termcat"
+#43	AnnotatorNotes T15	"Termcat"
+T29	Term-refs 295 301	cuenta
+#44	AnnotatorNotes T29	"Termcat"
+T30	Term-refs 101 109	conforme
+#45	AnnotatorNotes T30	"Termcat"
+T31	Term-refs 602 609	mujeres
+#46	AnnotatorNotes T31	"Termcat"
+T32	Term-refs 524 534	garantizar
+#47	AnnotatorNotes T32	"Termcat"
+#48	AnnotatorNotes T10	"Termcat"
+T33	Term-refs 515 523	objetivo
+#49	AnnotatorNotes T33	"Termcat"
+T34	Term-refs 50 86	sistema de clasificación profesional
+#50	AnnotatorNotes T34	"Termcat"
+#51	AnnotatorNotes T2	"Termcat"
+T35	Term-refs 61 74	clasificación
+#52	AnnotatorNotes T35	"Termcat"
+T36	Term-automatico 207 221	representantes
+#53	AnnotatorNotes T36	"AttentionRank"
+T37	Term-automatico 166 173	acuerdo
+#54	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 515 523	objetivo
+#55	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 427 436	promoción
+#56	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 643 650	medidas
+#57	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 352 355	así
+#58	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 305 314	formación
+#59	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 0 8	Artículo
+#60	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 654 660	acción
+#61	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 136 144	convenio
+#62	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 478 487	criterios
+#63	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 550 564	discriminación
+#64	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 718 732	discriminación
+#65	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 602 609	mujeres
+#66	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 50 57	sistema
+#67	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 490 498	sistemas
+#68	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 229 241	trabajadores
+#69	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 340 350	trabajador
+#70	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 193 200	empresa
+#71	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 455 462	empresa
+#72	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 654 669	acción positiva
+#73	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 612 619	hombres
+#74	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 538 546	ausencia
+#75	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 13 21	Ascensos
+#76	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 30 38	ascensos
+#77	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 260 268	ascensos
+#78	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 413 421	ascensos
+#79	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 61 86	clasificación profesional
+#80	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 251 255	caso
+#81	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 394 404	empresario
+#82	AnnotatorNotes T65	"AttentionRank"
+#83	AnnotatorNotes T34	"LabourLaw"
+#84	AnnotatorNotes T25	"LabourLaw"
+#85	AnnotatorNotes T15	"LabourLaw"
+#86	AnnotatorNotes T20	"LabourLaw"
+T66	Term-refs 643 649	medida
+#87	AnnotatorNotes T66	"LabourLaw"
+T67	Term-refs 207 220	representante
+#88	AnnotatorNotes T67	"LabourLaw"
+T68	Term-refs 229 239	trabajador
+#89	AnnotatorNotes T68	"LabourLaw"
+T69	Term-refs 340 350	trabajador
+#90	AnnotatorNotes T69	"LabourLaw"
+T70	Term-refs 316 322	mérito
+#91	AnnotatorNotes T70	"LabourLaw"
+T71	Term-refs 478 486	criterio
+#92	AnnotatorNotes T71	"LabourLaw"
+#93	AnnotatorNotes T16	"LabourLaw"
+#94	AnnotatorNotes T17	"LabourLaw"
+#95	AnnotatorNotes T28	"LabourLaw"
+#96	AnnotatorNotes T26	"LabourLaw"
+T72	Term-refs 394 404	empresario
+#97	AnnotatorNotes T72	"LabourLaw"
+#98	AnnotatorNotes T9	"LabourLaw"
+#99	AnnotatorNotes T3	"LabourLaw"
+T73	Term-refs 154 161	defecto
+#100	AnnotatorNotes T73	"LabourLaw"
+T74	Term-refs 331 335	edad
+#101	AnnotatorNotes T74	"LabourLaw"
+#102	AnnotatorNotes T4	"LabourLaw"
+T75	Term-refs 394 401	empresa
+#103	AnnotatorNotes T75	"LabourLaw"
+#104	AnnotatorNotes T5	"LabourLaw"
+T76	Term-refs 30 37	ascenso
+#105	AnnotatorNotes T76	"LabourLaw"
+T77	Term-refs 260 267	ascenso
+#106	AnnotatorNotes T77	"LabourLaw"
+T78	Term-refs 413 420	ascenso
+#107	AnnotatorNotes T78	"LabourLaw"
+T79	Term-refs 365 373	facultad
+#108	AnnotatorNotes T79	"LabourLaw"
+T80	Term-refs 174 183	colectivo
+#109	AnnotatorNotes T80	"LabourLaw"
+#110	AnnotatorNotes T3	"LabourLaw"
+#111	AnnotatorNotes T9	"LabourLaw"
+#112	AnnotatorNotes T10	"IATE"
+#113	AnnotatorNotes T16	"IATE"
+#114	AnnotatorNotes T17	"IATE"
+#115	AnnotatorNotes T19	"IATE"
+#116	AnnotatorNotes T2	"IATE"
+#117	AnnotatorNotes T4	"IATE"
+#118	AnnotatorNotes T5	"IATE"
+#119	AnnotatorNotes T72	"IATE"
+#120	AnnotatorNotes T20	"IATE"
+#121	AnnotatorNotes T31	"IATE"
+T81	Term-refs 229 241	trabajadores
+#122	AnnotatorNotes T81	"IATE"
+#123	AnnotatorNotes T69	"IATE"
+#124	AnnotatorNotes T7	"IATE"
+#125	AnnotatorNotes T8	"IATE"
+#126	AnnotatorNotes T24	"IATE"
+#127	AnnotatorNotes T6	"IATE"
+#128	AnnotatorNotes T28	"IATE"

@@ -1,0 +1,234 @@
+T1	Term-refs 837 841	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 214 221	proceso
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 48 65	centro de trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 99 106	colegio
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 214 231	proceso electoral
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 58 65	trabajo
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 38 45	empresa
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 454 461	empresa
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 156 164	fracción
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 13 27	Mesa electoral
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 13 17	Mesa
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 85 89	mesa
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 172 176	mesa
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 368 372	mesa
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 641 645	mesa
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 725 729	mesa
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 876 880	mesa
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 652 657	orden
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 291 295	acta
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 519 523	edad
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 683 687	edad
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 245 253	votación
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 959 967	votación
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 0 8	Artículo
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 48 54	centro
+#25	AnnotatorNotes T25	"DPEJ"
+#26	AnnotatorNotes T19	"Termcat"
+#27	AnnotatorNotes T18	"Termcat"
+#28	AnnotatorNotes T21	"Termcat"
+T26	Term-refs 513 523	menor edad
+#29	AnnotatorNotes T26	"Termcat"
+T27	Term-refs 333 344	reclamación
+#30	AnnotatorNotes T27	"Termcat"
+T28	Term-refs 924 937	representante
+#31	AnnotatorNotes T28	"Termcat"
+T29	Term-refs 625 634	titulares
+#32	AnnotatorNotes T29	"Termcat"
+#33	AnnotatorNotes T24	"Termcat"
+T30	Term-refs 973 983	escrutinio
+#34	AnnotatorNotes T30	"Termcat"
+T31	Term-refs 267 277	escrutinio
+#35	AnnotatorNotes T31	"Termcat"
+#36	AnnotatorNotes T22	"Termcat"
+#37	AnnotatorNotes T23	"Termcat"
+T32	Term-refs 437 447	antigüedad
+#38	AnnotatorNotes T32	"Termcat"
+T33	Term-refs 670 680	antigüedad
+#39	AnnotatorNotes T33	"Termcat"
+#40	AnnotatorNotes T3	"Termcat"
+#41	AnnotatorNotes T8	"Termcat"
+#42	AnnotatorNotes T7	"Termcat"
+#43	AnnotatorNotes T10	"Termcat"
+#44	AnnotatorNotes T2	"Termcat"
+T34	Term-refs 818 829	candidatura
+#45	AnnotatorNotes T34	"Termcat"
+T35	Term-refs 513 518	menor
+#46	AnnotatorNotes T35	"Termcat"
+#47	AnnotatorNotes T17	"Termcat"
+#48	AnnotatorNotes T13	"Termcat"
+#49	AnnotatorNotes T15	"Termcat"
+#50	AnnotatorNotes T14	"Termcat"
+#51	AnnotatorNotes T16	"Termcat"
+#52	AnnotatorNotes T12	"Termcat"
+T36	Term-refs 314 322	resolver
+#53	AnnotatorNotes T36	"Termcat"
+T37	Term-refs 912 920	designar
+#54	AnnotatorNotes T37	"Termcat"
+T38	Term-refs 849 856	nombrar
+#55	AnnotatorNotes T38	"Termcat"
+T39	Term-automatico 924 937	representante
+#56	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 13 27	Mesa electoral
+#57	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 131 153	trabajadores electores
+#58	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 13 17	Mesa
+#59	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 85 89	mesa
+#60	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 172 176	mesa
+#61	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 368 372	mesa
+#62	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 641 645	mesa
+#63	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 725 729	mesa
+#64	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 876 880	mesa
+#65	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 0 8	Artículo
+#66	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 395 405	presidente
+#67	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 652 680	orden indicado de antigüedad
+#68	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 131 143	trabajadores
+#69	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 596 608	trabajadores
+#70	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 419 429	trabajador
+#71	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 291 311	acta correspondiente
+#72	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 214 231	proceso electoral
+#73	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 38 45	empresa
+#74	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 454 461	empresa
+#75	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 740 749	candidato
+#76	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 806 815	candidato
+#77	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 214 221	proceso
+#78	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 48 54	centro
+#79	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 99 106	colegio
+#80	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 291 295	acta
+#81	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 652 657	orden
+#82	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 245 253	votación
+#83	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 959 967	votación
+#84	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 156 164	fracción
+#85	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 519 523	edad
+#86	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 683 687	edad
+#87	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 144 153	electores
+#88	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 492 501	electores
+#89	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 58 65	trabajo
+#90	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 860 871	interventor
+#91	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 549 559	secretario
+#92	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 837 841	caso
+#93	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 895 905	empresario
+#94	AnnotatorNotes T77	"AttentionRank"
+#95	AnnotatorNotes T3	"LabourLaw"
+#96	AnnotatorNotes T6	"LabourLaw"
+T78	Term-refs 158 164	acción
+#97	AnnotatorNotes T78	"LabourLaw"
+#98	AnnotatorNotes T35	"LabourLaw"
+#99	AnnotatorNotes T22	"LabourLaw"
+#100	AnnotatorNotes T23	"LabourLaw"
+#101	AnnotatorNotes T28	"LabourLaw"
+T79	Term-refs 131 141	trabajador
+#102	AnnotatorNotes T79	"LabourLaw"
+T80	Term-refs 419 429	trabajador
+#103	AnnotatorNotes T80	"LabourLaw"
+T81	Term-refs 596 606	trabajador
+#104	AnnotatorNotes T81	"LabourLaw"
+T82	Term-refs 625 632	titular
+#105	AnnotatorNotes T82	"LabourLaw"
+#106	AnnotatorNotes T32	"LabourLaw"
+#107	AnnotatorNotes T33	"LabourLaw"
+T83	Term-refs 895 905	empresario
+#108	AnnotatorNotes T83	"LabourLaw"
+T84	Term-refs 443 447	edad
+#109	AnnotatorNotes T84	"LabourLaw"
+#110	AnnotatorNotes T20	"LabourLaw"
+T85	Term-refs 676 680	edad
+#111	AnnotatorNotes T85	"LabourLaw"
+#112	AnnotatorNotes T21	"LabourLaw"
+#113	AnnotatorNotes T7	"LabourLaw"
+#114	AnnotatorNotes T8	"LabourLaw"
+T86	Term-refs 895 902	empresa
+#115	AnnotatorNotes T86	"LabourLaw"
+#116	AnnotatorNotes T27	"LabourLaw"
+T87	Term-refs 395 405	presidente
+#117	AnnotatorNotes T87	"IATE"
+#118	AnnotatorNotes T24	"IATE"
+#119	AnnotatorNotes T7	"IATE"
+#120	AnnotatorNotes T8	"IATE"
+#121	AnnotatorNotes T83	"IATE"
+T88	Term-refs 131 143	trabajadores
+#122	AnnotatorNotes T88	"IATE"
+T89	Term-refs 596 608	trabajadores
+#123	AnnotatorNotes T89	"IATE"
+#124	AnnotatorNotes T80	"IATE"
+#125	AnnotatorNotes T2	"IATE"
+#126	AnnotatorNotes T22	"IATE"
+#127	AnnotatorNotes T23	"IATE"
+#128	AnnotatorNotes T18	"IATE"
+T90	Term-refs 549 559	secretario
+#129	AnnotatorNotes T90	"IATE"
+#130	AnnotatorNotes T4	"IATE"
+#131	AnnotatorNotes T19	"IATE"
+#132	AnnotatorNotes T9	"IATE"
+#133	AnnotatorNotes T28	"IATE"
+#134	AnnotatorNotes T11	"IATE"
+#135	AnnotatorNotes T12	"IATE"
+#136	AnnotatorNotes T13	"IATE"
+#137	AnnotatorNotes T14	"IATE"
+#138	AnnotatorNotes T15	"IATE"
+#139	AnnotatorNotes T16	"IATE"
+#140	AnnotatorNotes T17	"IATE"
+T91	Term-refs 740 749	candidato
+#141	AnnotatorNotes T91	"IATE"
+T92	Term-refs 806 815	candidato
+#142	AnnotatorNotes T92	"IATE"

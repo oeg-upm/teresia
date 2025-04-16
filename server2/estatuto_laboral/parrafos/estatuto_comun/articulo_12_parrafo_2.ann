@@ -1,0 +1,400 @@
+T1	Term-refs 541 545	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 1187 1191	caso
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 1743 1747	caso
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 1751 1759	ausencia
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 690 697	trabajo
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 287 295	convenio
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 1635 1644	convenios
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 916 924	salarios
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 13 21	contrato
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 1256 1264	contrato
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 156 161	forma
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 1825 1832	hombres
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 287 305	convenio colectivo
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1635 1655	convenios colectivos
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 24 30	tiempo
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 119 125	tiempo
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 329 335	tiempo
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 700 706	tiempo
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 792 798	tiempo
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 1416 1422	tiempo
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 1482 1488	tiempo
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 1695 1701	tiempo
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 521 529	apartado
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 730 738	apartado
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 1047 1055	apartado
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 68 75	jornada
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 230 237	jornada
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 762 769	jornada
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1134 1141	jornada
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 1290 1297	jornada
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 673 679	límite
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 1763 1777	discriminación
+#32	AnnotatorNotes T32	"DPEJ"
+T33	Term-refs 1374 1383	servicios
+#33	AnnotatorNotes T33	"DPEJ"
+T34	Term-refs 1178 1182	años
+#34	AnnotatorNotes T34	"DPEJ"
+T35	Term-refs 433 441	artículo
+#35	AnnotatorNotes T35	"DPEJ"
+#36	AnnotatorNotes T6	"Termcat"
+#37	AnnotatorNotes T7	"Termcat"
+T36	Term-refs 1314 1320	prueba
+#38	AnnotatorNotes T36	"Termcat"
+#39	AnnotatorNotes T33	"Termcat"
+#40	AnnotatorNotes T4	"Termcat"
+#41	AnnotatorNotes T10	"Termcat"
+#42	AnnotatorNotes T9	"Termcat"
+T37	Term-refs 273 277	cosa
+#43	AnnotatorNotes T37	"Termcat"
+#44	AnnotatorNotes T11	"Termcat"
+T38	Term-refs 906 912	recibo
+#45	AnnotatorNotes T38	"Termcat"
+#46	AnnotatorNotes T35	"Termcat"
+T39	Term-refs 930 937	resumen
+#47	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 1521 1529	atención
+#48	AnnotatorNotes T40	"Termcat"
+#49	AnnotatorNotes T13	"Termcat"
+#50	AnnotatorNotes T14	"Termcat"
+#51	AnnotatorNotes T32	"Termcat"
+T41	Term-refs 1683 1690	función
+#52	AnnotatorNotes T41	"Termcat"
+T42	Term-refs 466 487	horas complementarias
+#53	AnnotatorNotes T42	"Termcat"
+T43	Term-refs 363 384	horas extraordinarias
+#54	AnnotatorNotes T43	"Termcat"
+T44	Term-refs 1290 1306	jornada completa
+#55	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 230 244	jornada diaria
+#56	AnnotatorNotes T45	"Termcat"
+T46	Term-refs 68 82	jornada diaria
+#57	AnnotatorNotes T46	"Termcat"
+#58	AnnotatorNotes T8	"Termcat"
+T47	Term-refs 690 714	trabajo a tiempo parcial
+#59	AnnotatorNotes T47	"Termcat"
+T48	Term-refs 1450 1458	derechos
+#60	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 1553 1561	derechos
+#61	AnnotatorNotes T49	"Termcat"
+T50	Term-refs 1392 1400	personas
+#62	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 750 757	efectos
+#63	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 1121 1130	registros
+#64	AnnotatorNotes T52	"Termcat"
+T53	Term-refs 1243 1251	registro
+#65	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 1815 1822	mujeres
+#66	AnnotatorNotes T54	"Termcat"
+T55	Term-refs 51 60	ejecución
+#67	AnnotatorNotes T55	"Termcat"
+#68	AnnotatorNotes T12	"Termcat"
+T56	Term-refs 1195 1209	incumplimiento
+#69	AnnotatorNotes T56	"Termcat"
+T57	Term-refs 208 220	interrupción
+#70	AnnotatorNotes T57	"Termcat"
+T58	Term-refs 680 685	legal
+#71	AnnotatorNotes T58	"Termcat"
+T59	Term-refs 1601 1608	legales
+#72	AnnotatorNotes T59	"Termcat"
+T60	Term-refs 162 169	partida
+#73	AnnotatorNotes T60	"Termcat"
+T61	Term-automatico 673 679	límite
+#74	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 24 30	tiempo
+#75	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 119 125	tiempo
+#76	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 329 335	tiempo
+#77	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 700 706	tiempo
+#78	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 792 798	tiempo
+#79	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 1416 1422	tiempo
+#80	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 1482 1488	tiempo
+#81	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 1695 1701	tiempo
+#82	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 119 134	tiempo completo
+#83	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 1482 1497	tiempo completo
+#84	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 1121 1130	registros
+#85	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 1243 1251	registro
+#86	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 1178 1182	años
+#87	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 821 824	día
+#88	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 827 830	día
+#89	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 68 75	jornada
+#90	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 230 237	jornada
+#91	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 762 769	jornada
+#92	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 1134 1141	jornada
+#93	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 1290 1297	jornada
+#94	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 1659 1665	manera
+#95	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 1153 1160	periodo
+#96	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 906 912	recibo
+#97	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 1350 1358	carácter
+#98	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 68 82	jornada diaria
+#99	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 230 244	jornada diaria
+#100	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 433 441	artículo
+#101	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 399 408	supuestos
+#102	AnnotatorNotes T89	"AttentionRank"
+T90	Term-automatico 1392 1400	personas
+#103	AnnotatorNotes T90	"AttentionRank"
+T91	Term-automatico 562 578	horas ordinarias
+#104	AnnotatorNotes T91	"AttentionRank"
+T92	Term-automatico 976 979	mes
+#105	AnnotatorNotes T92	"AttentionRank"
+T93	Term-automatico 1392 1413	personas trabajadoras
+#106	AnnotatorNotes T93	"AttentionRank"
+#107	AnnotatorNotes T93	"AttentionRank"
+T94	Term-automatico 287 295	convenio
+#108	AnnotatorNotes T94	"AttentionRank"
+T95	Term-automatico 1635 1644	convenios
+#109	AnnotatorNotes T95	"AttentionRank"
+T96	Term-automatico 1547 1552	tales
+#110	AnnotatorNotes T96	"AttentionRank"
+T97	Term-automatico 1683 1711	función del tiempo trabajado
+#111	AnnotatorNotes T97	"AttentionRank"
+T98	Term-automatico 1763 1777	discriminación
+#112	AnnotatorNotes T98	"AttentionRank"
+T99	Term-automatico 1815 1822	mujeres
+#113	AnnotatorNotes T99	"AttentionRank"
+T100	Term-automatico 1635 1655	convenios colectivos
+#114	AnnotatorNotes T100	"AttentionRank"
+#115	AnnotatorNotes T100	"AttentionRank"
+T101	Term-automatico 1374 1383	servicios
+#116	AnnotatorNotes T101	"AttentionRank"
+T102	Term-automatico 1401 1413	trabajadoras
+#117	AnnotatorNotes T102	"AttentionRank"
+T103	Term-automatico 104 116	trabajadores
+#118	AnnotatorNotes T103	"AttentionRank"
+T104	Term-automatico 314 326	trabajadores
+#119	AnnotatorNotes T104	"AttentionRank"
+T105	Term-automatico 777 789	trabajadores
+#120	AnnotatorNotes T105	"AttentionRank"
+T106	Term-automatico 1467 1479	trabajadores
+#121	AnnotatorNotes T106	"AttentionRank"
+T107	Term-automatico 881 891	trabajador
+#122	AnnotatorNotes T107	"AttentionRank"
+T108	Term-automatico 1587 1608	disposiciones legales
+#123	AnnotatorNotes T108	"AttentionRank"
+T109	Term-automatico 363 384	horas extraordinarias
+#124	AnnotatorNotes T109	"AttentionRank"
+T110	Term-automatico 363 368	horas
+#125	AnnotatorNotes T110	"AttentionRank"
+T111	Term-automatico 466 471	horas
+#126	AnnotatorNotes T111	"AttentionRank"
+T112	Term-automatico 562 567	horas
+#127	AnnotatorNotes T112	"AttentionRank"
+T113	Term-automatico 951 956	horas
+#128	AnnotatorNotes T113	"AttentionRank"
+T114	Term-automatico 156 161	forma
+#129	AnnotatorNotes T114	"AttentionRank"
+T115	Term-automatico 466 487	horas complementarias
+#130	AnnotatorNotes T115	"AttentionRank"
+T116	Term-automatico 700 738	tiempo parcial definido en el apartado
+#131	AnnotatorNotes T116	"AttentionRank"
+T117	Term-automatico 451 462	realización
+#132	AnnotatorNotes T117	"AttentionRank"
+T118	Term-automatico 916 924	salarios
+#133	AnnotatorNotes T118	"AttentionRank"
+T119	Term-automatico 1314 1320	prueba
+#134	AnnotatorNotes T119	"AttentionRank"
+T120	Term-automatico 1450 1458	derechos
+#135	AnnotatorNotes T120	"AttentionRank"
+T121	Term-automatico 1553 1561	derechos
+#136	AnnotatorNotes T121	"AttentionRank"
+T122	Term-automatico 1825 1832	hombres
+#137	AnnotatorNotes T122	"AttentionRank"
+T123	Term-automatico 1683 1690	función
+#138	AnnotatorNotes T123	"AttentionRank"
+T124	Term-automatico 1751 1759	ausencia
+#139	AnnotatorNotes T124	"AttentionRank"
+T125	Term-automatico 13 21	contrato
+#140	AnnotatorNotes T125	"AttentionRank"
+T126	Term-automatico 1256 1264	contrato
+#141	AnnotatorNotes T126	"AttentionRank"
+T127	Term-automatico 750 757	efectos
+#142	AnnotatorNotes T127	"AttentionRank"
+T128	Term-automatico 287 305	convenio colectivo
+#143	AnnotatorNotes T128	"AttentionRank"
+T129	Term-automatico 24 38	tiempo parcial
+#144	AnnotatorNotes T129	"AttentionRank"
+T130	Term-automatico 329 343	tiempo parcial
+#145	AnnotatorNotes T130	"AttentionRank"
+T131	Term-automatico 700 714	tiempo parcial
+#146	AnnotatorNotes T131	"AttentionRank"
+T132	Term-automatico 792 806	tiempo parcial
+#147	AnnotatorNotes T132	"AttentionRank"
+T133	Term-automatico 1416 1430	tiempo parcial
+#148	AnnotatorNotes T133	"AttentionRank"
+T134	Term-automatico 690 697	trabajo
+#149	AnnotatorNotes T134	"AttentionRank"
+T135	Term-automatico 541 545	caso
+#150	AnnotatorNotes T135	"AttentionRank"
+T136	Term-automatico 1187 1191	caso
+#151	AnnotatorNotes T136	"AttentionRank"
+T137	Term-automatico 1743 1747	caso
+#152	AnnotatorNotes T137	"AttentionRank"
+T138	Term-automatico 1062 1072	empresario
+#153	AnnotatorNotes T138	"AttentionRank"
+T139	Term-automatico 521 529	apartado
+#154	AnnotatorNotes T139	"AttentionRank"
+T140	Term-automatico 730 738	apartado
+#155	AnnotatorNotes T140	"AttentionRank"
+T141	Term-automatico 1047 1055	apartado
+#156	AnnotatorNotes T141	"AttentionRank"
+T142	Term-refs 13 38	contrato a tiempo parcial
+#157	AnnotatorNotes T142	"LabourLaw"
+#158	AnnotatorNotes T13	"LabourLaw"
+T143	Term-refs 24 38	tiempo parcial
+#159	AnnotatorNotes T143	"LabourLaw"
+T144	Term-refs 329 343	tiempo parcial
+#160	AnnotatorNotes T144	"LabourLaw"
+T145	Term-refs 700 714	tiempo parcial
+#161	AnnotatorNotes T145	"LabourLaw"
+T146	Term-refs 792 806	tiempo parcial
+#162	AnnotatorNotes T146	"LabourLaw"
+T147	Term-refs 1416 1430	tiempo parcial
+#163	AnnotatorNotes T147	"LabourLaw"
+#164	AnnotatorNotes T44	"LabourLaw"
+#165	AnnotatorNotes T26	"LabourLaw"
+#166	AnnotatorNotes T27	"LabourLaw"
+#167	AnnotatorNotes T28	"LabourLaw"
+#168	AnnotatorNotes T29	"LabourLaw"
+#169	AnnotatorNotes T30	"LabourLaw"
+T148	Term-refs 661 668	exceder
+#170	AnnotatorNotes T148	"LabourLaw"
+#171	AnnotatorNotes T26	"LabourLaw"
+#172	AnnotatorNotes T27	"LabourLaw"
+#173	AnnotatorNotes T28	"LabourLaw"
+#174	AnnotatorNotes T29	"LabourLaw"
+#175	AnnotatorNotes T30	"LabourLaw"
+#176	AnnotatorNotes T5	"LabourLaw"
+#177	AnnotatorNotes T9	"LabourLaw"
+#178	AnnotatorNotes T10	"LabourLaw"
+T149	Term-refs 916 923	salario
+#179	AnnotatorNotes T149	"LabourLaw"
+T150	Term-refs 104 114	trabajador
+#180	AnnotatorNotes T150	"LabourLaw"
+T151	Term-refs 314 324	trabajador
+#181	AnnotatorNotes T151	"LabourLaw"
+T152	Term-refs 777 787	trabajador
+#182	AnnotatorNotes T152	"LabourLaw"
+T153	Term-refs 881 891	trabajador
+#183	AnnotatorNotes T153	"LabourLaw"
+T154	Term-refs 1401 1411	trabajador
+#184	AnnotatorNotes T154	"LabourLaw"
+T155	Term-refs 1467 1477	trabajador
+#185	AnnotatorNotes T155	"LabourLaw"
+T156	Term-refs 1197 1209	cumplimiento
+#186	AnnotatorNotes T156	"LabourLaw"
+#187	AnnotatorNotes T32	"LabourLaw"
+T157	Term-refs 1073 1078	deber
+#188	AnnotatorNotes T157	"LabourLaw"
+T158	Term-refs 1062 1072	empresario
+#189	AnnotatorNotes T158	"LabourLaw"
+#190	AnnotatorNotes T4	"LabourLaw"
+T159	Term-refs 1374 1382	servicio
+#191	AnnotatorNotes T159	"LabourLaw"
+T160	Term-refs 1062 1069	empresa
+#192	AnnotatorNotes T160	"LabourLaw"
+T161	Term-refs 1450 1457	derecho
+#193	AnnotatorNotes T161	"LabourLaw"
+T162	Term-refs 1553 1560	derecho
+#194	AnnotatorNotes T162	"LabourLaw"
+T163	Term-refs 296 305	colectivo
+#195	AnnotatorNotes T163	"LabourLaw"
+T164	Term-refs 1645 1654	colectivo
+#196	AnnotatorNotes T164	"LabourLaw"
+#197	AnnotatorNotes T57	"LabourLaw"
+T165	Term-refs 1153 1160	periodo
+#198	AnnotatorNotes T165	"LabourLaw"
+#199	AnnotatorNotes T4	"LabourLaw"
+T166	Term-refs 1392 1399	persona
+#200	AnnotatorNotes T166	"LabourLaw"
+#201	AnnotatorNotes T56	"LabourLaw"
+#202	AnnotatorNotes T12	"IATE"
+T167	Term-refs 451 462	realización
+#203	AnnotatorNotes T167	"IATE"
+#204	AnnotatorNotes T32	"IATE"
+#205	AnnotatorNotes T35	"IATE"
+#206	AnnotatorNotes T41	"IATE"
+#207	AnnotatorNotes T158	"IATE"
+#208	AnnotatorNotes T8	"IATE"
+#209	AnnotatorNotes T52	"IATE"
+#210	AnnotatorNotes T53	"IATE"
+#211	AnnotatorNotes T23	"IATE"
+#212	AnnotatorNotes T24	"IATE"
+#213	AnnotatorNotes T25	"IATE"
+#214	AnnotatorNotes T54	"IATE"
+#215	AnnotatorNotes T36	"IATE"
+T168	Term-refs 104 116	trabajadores
+#216	AnnotatorNotes T168	"IATE"
+T169	Term-refs 314 326	trabajadores
+#217	AnnotatorNotes T169	"IATE"
+T170	Term-refs 777 789	trabajadores
+#218	AnnotatorNotes T170	"IATE"
+T171	Term-refs 1467 1479	trabajadores
+#219	AnnotatorNotes T171	"IATE"
+#220	AnnotatorNotes T153	"IATE"
+T172	Term-refs 1350 1358	carácter
+#221	AnnotatorNotes T172	"IATE"
+#222	AnnotatorNotes T9	"IATE"
+#223	AnnotatorNotes T10	"IATE"
+#224	AnnotatorNotes T51	"IATE"
+#225	AnnotatorNotes T6	"IATE"
+#226	AnnotatorNotes T7	"IATE"
+T173	Term-refs 976 979	mes
+#227	AnnotatorNotes T173	"IATE"

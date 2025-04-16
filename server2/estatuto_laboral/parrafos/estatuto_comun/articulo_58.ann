@@ -1,0 +1,106 @@
+T1	Term-refs 41 45	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 146 153	trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 171 178	empresa
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 133 142	contratos
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 92 102	suspensión
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 78 90	modificación
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 228 231	Ley
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 13 36	Procedimiento concursal
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 105 114	extinción
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 0 8	Artículo
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 13 26	Procedimiento
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 49 57	concurso
+#12	AnnotatorNotes T12	"Termcat"
+#13	AnnotatorNotes T4	"Termcat"
+#14	AnnotatorNotes T7	"Termcat"
+T13	Term-refs 159 167	sucesión
+#15	AnnotatorNotes T13	"Termcat"
+#16	AnnotatorNotes T10	"Termcat"
+T14	Term-refs 267 275	CAPÍTULO
+#17	AnnotatorNotes T14	"Termcat"
+#18	AnnotatorNotes T8	"Termcat"
+T15	Term-refs 279 285	FaLtas
+#19	AnnotatorNotes T15	"Termcat"
+#20	AnnotatorNotes T2	"Termcat"
+T16	Term-refs 159 178	sucesión de empresa
+#21	AnnotatorNotes T16	"Termcat"
+#22	AnnotatorNotes T9	"Termcat"
+#23	AnnotatorNotes T6	"Termcat"
+#24	AnnotatorNotes T5	"Termcat"
+T17	Term-refs 27 36	concursal
+#25	AnnotatorNotes T17	"Termcat"
+T18	Term-refs 256 265	Concursal
+#26	AnnotatorNotes T18	"Termcat"
+#27	AnnotatorNotes T3	"Termcat"
+#28	AnnotatorNotes T11	"Termcat"
+T19	Term-refs 197 211	especialidades
+#29	AnnotatorNotes T19	"Termcat"
+T20	Term-automatico 0 8	Artículo
+#30	AnnotatorNotes T20	"AttentionRank"
+T21	Term-automatico 65 74	supuestos
+#31	AnnotatorNotes T21	"AttentionRank"
+T22	Term-automatico 279 285	FaLtas
+#32	AnnotatorNotes T22	"AttentionRank"
+T23	Term-automatico 13 26	Procedimiento
+#33	AnnotatorNotes T23	"AttentionRank"
+T24	Term-automatico 105 114	extinción
+#34	AnnotatorNotes T24	"AttentionRank"
+T25	Term-automatico 92 102	suspensión
+#35	AnnotatorNotes T25	"AttentionRank"
+T26	Term-automatico 78 90	modificación
+#36	AnnotatorNotes T26	"AttentionRank"
+T27	Term-automatico 159 167	sucesión
+#37	AnnotatorNotes T27	"AttentionRank"
+T28	Term-automatico 306 318	tRaBajadoREs
+#38	AnnotatorNotes T28	"AttentionRank"
+T29	Term-automatico 171 178	empresa
+#39	AnnotatorNotes T29	"AttentionRank"
+T30	Term-automatico 13 36	Procedimiento concursal
+#40	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 41 57	caso de concurso
+#41	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 228 231	Ley
+#42	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 49 57	concurso
+#43	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 133 142	contratos
+#44	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 146 153	trabajo
+#45	AnnotatorNotes T35	"AttentionRank"
+T36	Term-automatico 41 45	caso
+#46	AnnotatorNotes T36	"AttentionRank"
+#47	AnnotatorNotes T16	"LabourLaw"
+#48	AnnotatorNotes T6	"LabourLaw"
+#49	AnnotatorNotes T2	"LabourLaw"
+T37	Term-refs 133 141	contrato
+#50	AnnotatorNotes T37	"LabourLaw"
+T38	Term-refs 95 102	pensión
+#51	AnnotatorNotes T38	"LabourLaw"
+T39	Term-refs 183 190	aplicar
+#52	AnnotatorNotes T39	"LabourLaw"
+#53	AnnotatorNotes T3	"LabourLaw"
+T40	Term-refs 161 167	cesión
+#54	AnnotatorNotes T40	"LabourLaw"
+#55	AnnotatorNotes T5	"LabourLaw"
+#56	AnnotatorNotes T9	"IATE"
+#57	AnnotatorNotes T6	"IATE"
+#58	AnnotatorNotes T10	"IATE"
+#59	AnnotatorNotes T3	"IATE"
+#60	AnnotatorNotes T15	"IATE"
+#61	AnnotatorNotes T5	"IATE"
+#62	AnnotatorNotes T11	"IATE"
+T41	Term-refs 306 318	tRaBajadoREs
+#63	AnnotatorNotes T41	"IATE"
+#64	AnnotatorNotes T4	"IATE"
+#65	AnnotatorNotes T13	"IATE"

@@ -1,0 +1,379 @@
+T1	Term-refs 852 856	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 323 330	proceso
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 323 340	proceso electoral
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 122 129	trabajo
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 50 57	empresa
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 1046 1053	empresa
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 113 118	lugar
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 583 597	mesa electoral
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 1015 1032	mesas electorales
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 583 587	mesa
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 923 927	mesa
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 1164 1168	mesa
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 1505 1509	mesa
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1635 1639	mesa
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 1696 1700	mesa
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 1015 1020	mesas
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 757 761	acta
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 879 883	acta
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 1099 1103	acta
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 1189 1193	acta
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 1393 1397	acta
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 1478 1482	acta
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 374 382	personal
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 143 150	jornada
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 13 21	Votación
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 76 84	votación
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 301 309	votación
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 570 578	votación
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1131 1139	votación
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 1323 1331	votación
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 0 8	Artículo
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 719 728	resultado
+#32	AnnotatorNotes T32	"DPEJ"
+T33	Term-refs 1108 1117	resultado
+#33	AnnotatorNotes T33	"DPEJ"
+T34	Term-refs 1307 1316	resultado
+#34	AnnotatorNotes T34	"DPEJ"
+T35	Term-refs 104 110	centro
+#35	AnnotatorNotes T35	"DPEJ"
+T36	Term-refs 1056 1062	centro
+#36	AnnotatorNotes T36	"DPEJ"
+T37	Term-refs 1478 1509	acta de constitución de la mesa
+#37	AnnotatorNotes T37	"DPEJ"
+T38	Term-refs 185 191	normas
+#38	AnnotatorNotes T38	"DPEJ"
+#39	AnnotatorNotes T19	"Termcat"
+#40	AnnotatorNotes T17	"Termcat"
+#41	AnnotatorNotes T21	"Termcat"
+#42	AnnotatorNotes T18	"Termcat"
+#43	AnnotatorNotes T22	"Termcat"
+#44	AnnotatorNotes T20	"Termcat"
+T39	Term-refs 1593 1602	autoridad
+#45	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 1486 1498	constitución
+#46	AnnotatorNotes T40	"Termcat"
+T41	Term-refs 1535 1540	plazo
+#47	AnnotatorNotes T41	"Termcat"
+T42	Term-refs 65 69	acto
+#48	AnnotatorNotes T42	"Termcat"
+T43	Term-refs 997 1001	Acto
+#49	AnnotatorNotes T43	"Termcat"
+T44	Term-refs 952 965	representante
+#50	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 1280 1294	representantes
+#51	AnnotatorNotes T45	"Termcat"
+#52	AnnotatorNotes T31	"Termcat"
+T46	Term-refs 1197 1207	escrutinio
+#53	AnnotatorNotes T46	"Termcat"
+T47	Term-refs 733 743	escrutinio
+#54	AnnotatorNotes T47	"Termcat"
+#55	AnnotatorNotes T38	"Termcat"
+T48	Term-refs 1067 1074	reunión
+#56	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 207 211	voto
+#57	AnnotatorNotes T49	"Termcat"
+T50	Term-refs 348 352	voto
+#58	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 1426 1431	votos
+#59	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 636 641	votos
+#60	AnnotatorNotes T52	"Termcat"
+#61	AnnotatorNotes T25	"Termcat"
+#62	AnnotatorNotes T27	"Termcat"
+#63	AnnotatorNotes T28	"Termcat"
+#64	AnnotatorNotes T26	"Termcat"
+#65	AnnotatorNotes T30	"Termcat"
+#66	AnnotatorNotes T29	"Termcat"
+T53	Term-refs 688 692	alta
+#67	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 1593 1610	autoridad laboral
+#68	AnnotatorNotes T54	"Termcat"
+#69	AnnotatorNotes T6	"Termcat"
+#70	AnnotatorNotes T5	"Termcat"
+T55	Term-refs 143 158	jornada laboral
+#71	AnnotatorNotes T55	"Termcat"
+T56	Term-refs 113 129	lugar de trabajo
+#72	AnnotatorNotes T56	"Termcat"
+#73	AnnotatorNotes T8	"Termcat"
+#74	AnnotatorNotes T9	"Termcat"
+#75	AnnotatorNotes T23	"Termcat"
+T57	Term-refs 284 294	desarrollo
+#76	AnnotatorNotes T57	"Termcat"
+T58	Term-refs 253 259	medios
+#77	AnnotatorNotes T58	"Termcat"
+T59	Term-refs 828 837	protestas
+#78	AnnotatorNotes T59	"Termcat"
+#79	AnnotatorNotes T2	"Termcat"
+T60	Term-refs 457 464	calidad
+#80	AnnotatorNotes T60	"Termcat"
+T61	Term-refs 1251 1263	candidaturas
+#81	AnnotatorNotes T61	"Termcat"
+T62	Term-refs 174 180	cuenta
+#82	AnnotatorNotes T62	"Termcat"
+#83	AnnotatorNotes T4	"Termcat"
+#84	AnnotatorNotes T12	"Termcat"
+#85	AnnotatorNotes T13	"Termcat"
+#86	AnnotatorNotes T15	"Termcat"
+#87	AnnotatorNotes T14	"Termcat"
+#88	AnnotatorNotes T11	"Termcat"
+T63	Term-refs 365 372	secreto
+#89	AnnotatorNotes T63	"Termcat"
+T64	Term-refs 624 632	recuento
+#90	AnnotatorNotes T64	"Termcat"
+#91	AnnotatorNotes T32	"Termcat"
+#92	AnnotatorNotes T34	"Termcat"
+#93	AnnotatorNotes T33	"Termcat"
+T65	Term-automatico 284 294	desarrollo
+#94	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 952 965	representante
+#95	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 1280 1294	representantes
+#96	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 583 597	mesa electoral
+#97	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 1015 1032	mesas electorales
+#98	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 277 294	normal desarrollo
+#99	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 1067 1074	reunión
+#100	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 1593 1602	autoridad
+#101	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 719 728	resultado
+#102	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 1108 1117	resultado
+#103	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 1307 1316	resultado
+#104	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 1549 1553	días
+#105	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 1559 1574	oficina pública
+#106	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 143 150	jornada
+#107	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 185 191	normas
+#108	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 583 587	mesa
+#109	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 923 927	mesa
+#110	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 1164 1168	mesa
+#111	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 1505 1509	mesa
+#112	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 1635 1639	mesa
+#113	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 1696 1700	mesa
+#114	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 1015 1020	mesas
+#115	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 1265 1268	así
+#116	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 65 69	acto
+#117	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 997 1001	Acto
+#118	AnnotatorNotes T89	"AttentionRank"
+T90	Term-automatico 0 8	Artículo
+#119	AnnotatorNotes T90	"AttentionRank"
+T91	Term-automatico 768 786	modelo normalizado
+#120	AnnotatorNotes T91	"AttentionRank"
+T92	Term-automatico 1593 1610	autoridad laboral
+#121	AnnotatorNotes T92	"AttentionRank"
+T93	Term-automatico 113 118	lugar
+#122	AnnotatorNotes T93	"AttentionRank"
+T94	Term-automatico 669 679	presidente
+#123	AnnotatorNotes T94	"AttentionRank"
+T95	Term-automatico 1147 1157	presidente
+#124	AnnotatorNotes T95	"AttentionRank"
+T96	Term-automatico 1618 1628	presidente
+#125	AnnotatorNotes T96	"AttentionRank"
+T97	Term-automatico 1682 1689	miembro
+#126	AnnotatorNotes T97	"AttentionRank"
+T98	Term-automatico 27 36	delegados
+#127	AnnotatorNotes T98	"AttentionRank"
+T99	Term-automatico 216 222	correo
+#128	AnnotatorNotes T99	"AttentionRank"
+T100	Term-automatico 323 340	proceso electoral
+#129	AnnotatorNotes T100	"AttentionRank"
+T101	Term-automatico 1535 1540	plazo
+#130	AnnotatorNotes T101	"AttentionRank"
+T102	Term-automatico 50 57	empresa
+#131	AnnotatorNotes T102	"AttentionRank"
+T103	Term-automatico 1046 1053	empresa
+#132	AnnotatorNotes T103	"AttentionRank"
+T104	Term-automatico 323 330	proceso
+#133	AnnotatorNotes T104	"AttentionRank"
+T105	Term-automatico 104 110	centro
+#134	AnnotatorNotes T105	"AttentionRank"
+T106	Term-automatico 1056 1062	centro
+#135	AnnotatorNotes T106	"AttentionRank"
+T107	Term-automatico 757 761	acta
+#136	AnnotatorNotes T107	"AttentionRank"
+T108	Term-automatico 879 883	acta
+#137	AnnotatorNotes T108	"AttentionRank"
+T109	Term-automatico 1099 1103	acta
+#138	AnnotatorNotes T109	"AttentionRank"
+T110	Term-automatico 1189 1193	acta
+#139	AnnotatorNotes T110	"AttentionRank"
+T111	Term-automatico 1393 1397	acta
+#140	AnnotatorNotes T111	"AttentionRank"
+T112	Term-automatico 1478 1482	acta
+#141	AnnotatorNotes T112	"AttentionRank"
+T113	Term-automatico 207 211	voto
+#142	AnnotatorNotes T113	"AttentionRank"
+T114	Term-automatico 348 352	voto
+#143	AnnotatorNotes T114	"AttentionRank"
+T115	Term-automatico 636 641	votos
+#144	AnnotatorNotes T115	"AttentionRank"
+T116	Term-automatico 1426 1431	votos
+#145	AnnotatorNotes T116	"AttentionRank"
+T117	Term-automatico 862 865	vez
+#146	AnnotatorNotes T117	"AttentionRank"
+T118	Term-automatico 13 21	Votación
+#147	AnnotatorNotes T118	"AttentionRank"
+T119	Term-automatico 76 84	votación
+#148	AnnotatorNotes T119	"AttentionRank"
+T120	Term-automatico 301 309	votación
+#149	AnnotatorNotes T120	"AttentionRank"
+T121	Term-automatico 570 578	votación
+#150	AnnotatorNotes T121	"AttentionRank"
+T122	Term-automatico 1131 1139	votación
+#151	AnnotatorNotes T122	"AttentionRank"
+T123	Term-automatico 1323 1331	votación
+#152	AnnotatorNotes T123	"AttentionRank"
+T124	Term-automatico 684 687	voz
+#153	AnnotatorNotes T124	"AttentionRank"
+T125	Term-automatico 374 382	personal
+#154	AnnotatorNotes T125	"AttentionRank"
+T126	Term-automatico 1426 1437	votos nulos
+#155	AnnotatorNotes T126	"AttentionRank"
+T127	Term-automatico 122 129	trabajo
+#156	AnnotatorNotes T127	"AttentionRank"
+T128	Term-automatico 933 946	interventores
+#157	AnnotatorNotes T128	"AttentionRank"
+T129	Term-automatico 1230 1243	interventores
+#158	AnnotatorNotes T129	"AttentionRank"
+T130	Term-automatico 1459 1472	interventores
+#159	AnnotatorNotes T130	"AttentionRank"
+T131	Term-automatico 852 856	caso
+#160	AnnotatorNotes T131	"AttentionRank"
+T132	Term-automatico 227 237	empresario
+#161	AnnotatorNotes T132	"AttentionRank"
+T133	Term-automatico 970 980	empresario
+#162	AnnotatorNotes T133	"AttentionRank"
+T134	Term-automatico 1211 1221	empresario
+#163	AnnotatorNotes T134	"AttentionRank"
+#164	AnnotatorNotes T56	"LabourLaw"
+T135	Term-refs 1559 1574	oficina pública
+#165	AnnotatorNotes T135	"LabourLaw"
+#166	AnnotatorNotes T8	"LabourLaw"
+#167	AnnotatorNotes T54	"LabourLaw"
+#168	AnnotatorNotes T55	"LabourLaw"
+#169	AnnotatorNotes T24	"LabourLaw"
+#170	AnnotatorNotes T24	"LabourLaw"
+#171	AnnotatorNotes T4	"LabourLaw"
+#172	AnnotatorNotes T26	"LabourLaw"
+#173	AnnotatorNotes T27	"LabourLaw"
+#174	AnnotatorNotes T28	"LabourLaw"
+#175	AnnotatorNotes T29	"LabourLaw"
+#176	AnnotatorNotes T30	"LabourLaw"
+#177	AnnotatorNotes T44	"LabourLaw"
+T136	Term-refs 1280 1293	representante
+#178	AnnotatorNotes T136	"LabourLaw"
+T137	Term-refs 227 237	empresario
+#179	AnnotatorNotes T137	"LabourLaw"
+T138	Term-refs 970 980	empresario
+#180	AnnotatorNotes T138	"LabourLaw"
+T139	Term-refs 1211 1221	empresario
+#181	AnnotatorNotes T139	"LabourLaw"
+#182	AnnotatorNotes T39	"LabourLaw"
+T140	Term-refs 27 35	delegado
+#183	AnnotatorNotes T140	"LabourLaw"
+#184	AnnotatorNotes T5	"LabourLaw"
+T141	Term-refs 227 234	empresa
+#185	AnnotatorNotes T141	"LabourLaw"
+T142	Term-refs 970 977	empresa
+#186	AnnotatorNotes T142	"LabourLaw"
+#187	AnnotatorNotes T6	"LabourLaw"
+T143	Term-refs 1211 1218	empresa
+#188	AnnotatorNotes T143	"LabourLaw"
+T144	Term-refs 39 45	comité
+#189	AnnotatorNotes T144	"LabourLaw"
+#190	AnnotatorNotes T48	"LabourLaw"
+#191	AnnotatorNotes T23	"LabourLaw"
+T145	Term-refs 374 381	persona
+#192	AnnotatorNotes T145	"LabourLaw"
+T146	Term-refs 889 894	firma
+#193	AnnotatorNotes T146	"LabourLaw"
+T147	Term-refs 669 679	presidente
+#194	AnnotatorNotes T147	"IATE"
+T148	Term-refs 1147 1157	presidente
+#195	AnnotatorNotes T148	"IATE"
+T149	Term-refs 1618 1628	presidente
+#196	AnnotatorNotes T149	"IATE"
+#197	AnnotatorNotes T31	"IATE"
+#198	AnnotatorNotes T41	"IATE"
+#199	AnnotatorNotes T5	"IATE"
+#200	AnnotatorNotes T6	"IATE"
+#201	AnnotatorNotes T48	"IATE"
+#202	AnnotatorNotes T137	"IATE"
+#203	AnnotatorNotes T138	"IATE"
+#204	AnnotatorNotes T139	"IATE"
+T150	Term-refs 27 36	delegados
+#205	AnnotatorNotes T150	"IATE"
+#206	AnnotatorNotes T2	"IATE"
+#207	AnnotatorNotes T25	"IATE"
+#208	AnnotatorNotes T26	"IATE"
+#209	AnnotatorNotes T27	"IATE"
+#210	AnnotatorNotes T28	"IATE"
+#211	AnnotatorNotes T29	"IATE"
+#212	AnnotatorNotes T30	"IATE"
+T151	Term-refs 1682 1689	miembro
+#213	AnnotatorNotes T151	"IATE"
+#214	AnnotatorNotes T17	"IATE"
+#215	AnnotatorNotes T18	"IATE"
+#216	AnnotatorNotes T19	"IATE"
+#217	AnnotatorNotes T20	"IATE"
+#218	AnnotatorNotes T21	"IATE"
+#219	AnnotatorNotes T22	"IATE"
+#220	AnnotatorNotes T44	"IATE"
+#221	AnnotatorNotes T45	"IATE"
+#222	AnnotatorNotes T10	"IATE"
+#223	AnnotatorNotes T11	"IATE"
+#224	AnnotatorNotes T12	"IATE"
+#225	AnnotatorNotes T13	"IATE"
+#226	AnnotatorNotes T14	"IATE"
+#227	AnnotatorNotes T15	"IATE"
+#228	AnnotatorNotes T16	"IATE"

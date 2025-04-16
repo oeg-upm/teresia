@@ -1,0 +1,98 @@
+T1	Term-refs 13 20	Trabajo
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 75 82	trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 142 149	trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 203 210	tRaBajo
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 190 198	contRato
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 237 245	contrato
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 13 32	Trabajo a distancia
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 75 94	trabajo a distancia
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 142 161	trabajo a distancia
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 127 130	Ley
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 175 184	contEnIdo
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 0 8	Artículo
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 211 218	Sección
+#13	AnnotatorNotes T13	"Termcat"
+T14	Term-refs 102 110	términos
+#14	AnnotatorNotes T14	"Termcat"
+#15	AnnotatorNotes T5	"Termcat"
+#16	AnnotatorNotes T6	"Termcat"
+#17	AnnotatorNotes T10	"Termcat"
+#18	AnnotatorNotes T12	"Termcat"
+T15	Term-refs 163 171	CAPÍTULO
+#19	AnnotatorNotes T15	"Termcat"
+#20	AnnotatorNotes T4	"Termcat"
+#21	AnnotatorNotes T7	"Termcat"
+#22	AnnotatorNotes T8	"Termcat"
+#23	AnnotatorNotes T9	"Termcat"
+T16	Term-refs 224 232	Duración
+#24	AnnotatorNotes T16	"Termcat"
+T17	Term-refs 38 46	personas
+#25	AnnotatorNotes T17	"Termcat"
+T18	Term-refs 224 245	Duración del contrato
+#26	AnnotatorNotes T18	"Termcat"
+#27	AnnotatorNotes T1	"Termcat"
+#28	AnnotatorNotes T2	"Termcat"
+#29	AnnotatorNotes T3	"Termcat"
+T19	Term-automatico 175 184	contEnIdo
+#30	AnnotatorNotes T19	"AttentionRank"
+T20	Term-automatico 0 8	Artículo
+#31	AnnotatorNotes T20	"AttentionRank"
+T21	Term-automatico 211 218	Sección
+#32	AnnotatorNotes T21	"AttentionRank"
+T22	Term-automatico 38 46	personas
+#33	AnnotatorNotes T22	"AttentionRank"
+T23	Term-automatico 38 59	personas trabajadoras
+#34	AnnotatorNotes T23	"AttentionRank"
+#35	AnnotatorNotes T23	"AttentionRank"
+T24	Term-automatico 224 232	Duración
+#36	AnnotatorNotes T24	"AttentionRank"
+T25	Term-automatico 23 32	distancia
+#37	AnnotatorNotes T25	"AttentionRank"
+T26	Term-automatico 85 94	distancia
+#38	AnnotatorNotes T26	"AttentionRank"
+T27	Term-automatico 152 161	distancia
+#39	AnnotatorNotes T27	"AttentionRank"
+T28	Term-automatico 47 59	trabajadoras
+#40	AnnotatorNotes T28	"AttentionRank"
+T29	Term-automatico 127 130	Ley
+#41	AnnotatorNotes T29	"AttentionRank"
+T30	Term-automatico 190 198	contRato
+#42	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 237 245	contrato
+#43	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 13 20	Trabajo
+#44	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 75 82	trabajo
+#45	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 142 149	trabajo
+#46	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 203 210	tRaBajo
+#47	AnnotatorNotes T35	"AttentionRank"
+#48	AnnotatorNotes T8	"LabourLaw"
+#49	AnnotatorNotes T9	"LabourLaw"
+#50	AnnotatorNotes T2	"LabourLaw"
+#51	AnnotatorNotes T3	"LabourLaw"
+#52	AnnotatorNotes T6	"LabourLaw"
+T36	Term-refs 47 57	trabajador
+#53	AnnotatorNotes T36	"LabourLaw"
+T37	Term-refs 102 109	término
+#54	AnnotatorNotes T37	"LabourLaw"
+T38	Term-refs 38 45	persona
+#55	AnnotatorNotes T38	"LabourLaw"
+#56	AnnotatorNotes T12	"IATE"
+#57	AnnotatorNotes T13	"IATE"
+#58	AnnotatorNotes T5	"IATE"
+#59	AnnotatorNotes T6	"IATE"
+#60	AnnotatorNotes T16	"IATE"

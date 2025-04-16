@@ -1,0 +1,345 @@
+T1	Term-refs 911 915	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 106 113	acuerdo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 970 977	acuerdo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 792 800	ausencia
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 66 77	negociación
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 1099 1117	prestación laboral
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 705 712	trabajo
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 1141 1148	trabajo
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 123 130	empresa
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 13 20	Sistema
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 191 198	sistema
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 619 627	sistemas
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 893 901	sistemas
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1129 1137	contrato
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 866 873	hombres
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 1456 1462	tiempo
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 66 87	negociación colectiva
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 505 522	responsabilidades
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 694 701	puestos
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 417 427	prestación
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 1099 1109	prestación
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 804 818	discriminación
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 393 402	contenido
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 1083 1092	contenido
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 0 8	Artículo
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 949 957	artículo
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 261 267	grupos
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 572 578	grupos
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 303 308	grupo
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 1043 1048	grupo
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 1207 1212	grupo
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 1361 1366	grupo
+#32	AnnotatorNotes T32	"DPEJ"
+#33	AnnotatorNotes T28	"Termcat"
+#34	AnnotatorNotes T27	"Termcat"
+#35	AnnotatorNotes T31	"Termcat"
+#36	AnnotatorNotes T29	"Termcat"
+#37	AnnotatorNotes T30	"Termcat"
+#38	AnnotatorNotes T32	"Termcat"
+#39	AnnotatorNotes T17	"Termcat"
+#40	AnnotatorNotes T4	"Termcat"
+#41	AnnotatorNotes T14	"Termcat"
+#42	AnnotatorNotes T20	"Termcat"
+#43	AnnotatorNotes T21	"Termcat"
+T33	Term-refs 137 151	representantes
+#44	AnnotatorNotes T33	"Termcat"
+#45	AnnotatorNotes T25	"Termcat"
+#46	AnnotatorNotes T26	"Termcat"
+#47	AnnotatorNotes T10	"Termcat"
+#48	AnnotatorNotes T11	"Termcat"
+#49	AnnotatorNotes T12	"Termcat"
+#50	AnnotatorNotes T13	"Termcat"
+T34	Term-refs 353 362	aptitudes
+#51	AnnotatorNotes T34	"Termcat"
+T35	Term-refs 24 49	clasificación profesional
+#52	AnnotatorNotes T35	"Termcat"
+T36	Term-refs 202 227	clasificación profesional
+#53	AnnotatorNotes T36	"Termcat"
+T37	Term-refs 1129 1148	contrato de trabajo
+#54	AnnotatorNotes T37	"Termcat"
+#55	AnnotatorNotes T22	"Termcat"
+#56	AnnotatorNotes T9	"Termcat"
+#57	AnnotatorNotes T7	"Termcat"
+T38	Term-refs 572 592	grupos profesionales
+#58	AnnotatorNotes T38	"Termcat"
+T39	Term-refs 261 281	grupos profesionales
+#59	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 1207 1224	grupo profesional
+#60	AnnotatorNotes T40	"Termcat"
+T41	Term-refs 303 320	grupo profesional
+#61	AnnotatorNotes T41	"Termcat"
+T42	Term-refs 1043 1060	grupo profesional
+#62	AnnotatorNotes T42	"Termcat"
+T43	Term-refs 1287 1299	polivalencia
+#63	AnnotatorNotes T43	"Termcat"
+T44	Term-refs 455 461	tareas
+#64	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 252 257	medio
+#65	AnnotatorNotes T45	"Termcat"
+#66	AnnotatorNotes T5	"Termcat"
+T46	Term-refs 554 564	definición
+#67	AnnotatorNotes T46	"Termcat"
+#68	AnnotatorNotes T3	"Termcat"
+#69	AnnotatorNotes T2	"Termcat"
+T47	Term-refs 647 655	análisis
+#70	AnnotatorNotes T47	"Termcat"
+T48	Term-refs 353 376	aptitudes profesionales
+#71	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 856 863	mujeres
+#72	AnnotatorNotes T49	"Termcat"
+T50	Term-refs 778 788	garantizar
+#73	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 686 692	género
+#74	AnnotatorNotes T51	"Termcat"
+#75	AnnotatorNotes T15	"Termcat"
+T52	Term-refs 1287 1309	polivalencia funcional
+#76	AnnotatorNotes T52	"Termcat"
+#77	AnnotatorNotes T18	"Termcat"
+T53	Term-refs 13 49	Sistema de clasificación profesional
+#78	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 191 227	sistema de clasificación profesional
+#79	AnnotatorNotes T54	"Termcat"
+T55	Term-refs 24 37	clasificación
+#80	AnnotatorNotes T55	"Termcat"
+T56	Term-refs 202 215	clasificación
+#81	AnnotatorNotes T56	"Termcat"
+T57	Term-refs 474 488	especialidades
+#82	AnnotatorNotes T57	"Termcat"
+T58	Term-automatico 261 267	grupos
+#83	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 572 578	grupos
+#84	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 303 308	grupo
+#85	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 1043 1048	grupo
+#86	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 1207 1212	grupo
+#87	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 1361 1366	grupo
+#88	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 393 402	contenido
+#89	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 1083 1092	contenido
+#90	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 1456 1462	tiempo
+#91	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 1400 1423	virtud de las funciones
+#92	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 137 151	representantes
+#93	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 106 130	acuerdo entre la empresa
+#94	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 106 113	acuerdo
+#95	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 970 977	acuerdo
+#96	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 66 87	negociación colectiva
+#97	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 1400 1406	virtud
+#98	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 970 997	acuerdo entre el trabajador
+#99	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 0 8	Artículo
+#100	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 949 957	artículo
+#101	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 261 281	grupos profesionales
+#102	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 572 592	grupos profesionales
+#103	AnnotatorNotes T78	"AttentionRank"
+#104	AnnotatorNotes T77	"AttentionRank"
+#105	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 1099 1117	prestación laboral
+#106	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 607 616	criterios
+#107	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 714 723	criterios
+#108	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 881 890	criterios
+#109	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 804 818	discriminación
+#110	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 676 682	sesgos
+#111	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 856 863	mujeres
+#112	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 13 20	Sistema
+#113	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 191 198	sistema
+#114	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 619 627	sistemas
+#115	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 893 901	sistemas
+#116	AnnotatorNotes T89	"AttentionRank"
+T90	Term-automatico 66 77	negociación
+#117	AnnotatorNotes T90	"AttentionRank"
+T91	Term-automatico 159 171	trabajadores
+#118	AnnotatorNotes T91	"AttentionRank"
+T92	Term-automatico 235 247	trabajadores
+#119	AnnotatorNotes T92	"AttentionRank"
+T93	Term-automatico 536 546	trabajador
+#120	AnnotatorNotes T93	"AttentionRank"
+T94	Term-automatico 987 997	trabajador
+#121	AnnotatorNotes T94	"AttentionRank"
+T95	Term-automatico 1029 1039	trabajador
+#122	AnnotatorNotes T95	"AttentionRank"
+T96	Term-automatico 694 701	puestos
+#123	AnnotatorNotes T96	"AttentionRank"
+T97	Term-automatico 123 130	empresa
+#124	AnnotatorNotes T97	"AttentionRank"
+T98	Term-automatico 505 522	responsabilidades
+#125	AnnotatorNotes T98	"AttentionRank"
+T99	Term-automatico 417 427	prestación
+#126	AnnotatorNotes T99	"AttentionRank"
+T100	Term-automatico 1099 1109	prestación
+#127	AnnotatorNotes T100	"AttentionRank"
+T101	Term-automatico 303 320	grupo profesional
+#128	AnnotatorNotes T101	"AttentionRank"
+T102	Term-automatico 1043 1060	grupo profesional
+#129	AnnotatorNotes T102	"AttentionRank"
+T103	Term-automatico 1207 1224	grupo profesional
+#130	AnnotatorNotes T103	"AttentionRank"
+T104	Term-automatico 647 669	análisis correlacional
+#131	AnnotatorNotes T104	"AttentionRank"
+T105	Term-automatico 1177 1233	funciones correspondientes al grupo profesional asignado
+#132	AnnotatorNotes T105	"AttentionRank"
+T106	Term-automatico 1152 1163	realización
+#133	AnnotatorNotes T106	"AttentionRank"
+T107	Term-automatico 1315 1326	realización
+#134	AnnotatorNotes T107	"AttentionRank"
+T108	Term-automatico 866 873	hombres
+#135	AnnotatorNotes T108	"AttentionRank"
+T109	Term-automatico 792 800	ausencia
+#136	AnnotatorNotes T109	"AttentionRank"
+T110	Term-automatico 1129 1137	contrato
+#137	AnnotatorNotes T110	"AttentionRank"
+T111	Term-automatico 24 49	clasificación profesional
+#138	AnnotatorNotes T111	"AttentionRank"
+T112	Term-automatico 202 227	clasificación profesional
+#139	AnnotatorNotes T112	"AttentionRank"
+T113	Term-automatico 705 712	trabajo
+#140	AnnotatorNotes T113	"AttentionRank"
+T114	Term-automatico 1141 1148	trabajo
+#141	AnnotatorNotes T114	"AttentionRank"
+T115	Term-automatico 1287 1309	polivalencia funcional
+#142	AnnotatorNotes T115	"AttentionRank"
+T116	Term-automatico 911 915	caso
+#143	AnnotatorNotes T116	"AttentionRank"
+T117	Term-automatico 1003 1013	empresario
+#144	AnnotatorNotes T117	"AttentionRank"
+#145	AnnotatorNotes T54	"LabourLaw"
+#146	AnnotatorNotes T37	"LabourLaw"
+T118	Term-refs 1118 1137	objeto del contrato
+#147	AnnotatorNotes T118	"LabourLaw"
+#148	AnnotatorNotes T41	"LabourLaw"
+#149	AnnotatorNotes T42	"LabourLaw"
+#150	AnnotatorNotes T40	"LabourLaw"
+#151	AnnotatorNotes T17	"LabourLaw"
+#152	AnnotatorNotes T7	"LabourLaw"
+#153	AnnotatorNotes T8	"LabourLaw"
+#154	AnnotatorNotes T14	"LabourLaw"
+T119	Term-refs 505 520	responsabilidad
+#155	AnnotatorNotes T119	"LabourLaw"
+#156	AnnotatorNotes T20	"LabourLaw"
+#157	AnnotatorNotes T21	"LabourLaw"
+T120	Term-refs 137 150	representante
+#158	AnnotatorNotes T120	"LabourLaw"
+T121	Term-refs 159 169	trabajador
+#159	AnnotatorNotes T121	"LabourLaw"
+T122	Term-refs 235 245	trabajador
+#160	AnnotatorNotes T122	"LabourLaw"
+T123	Term-refs 536 546	trabajador
+#161	AnnotatorNotes T123	"LabourLaw"
+T124	Term-refs 987 997	trabajador
+#162	AnnotatorNotes T124	"LabourLaw"
+T125	Term-refs 1029 1039	trabajador
+#163	AnnotatorNotes T125	"LabourLaw"
+T126	Term-refs 607 615	criterio
+#164	AnnotatorNotes T126	"LabourLaw"
+T127	Term-refs 714 722	criterio
+#165	AnnotatorNotes T127	"LabourLaw"
+T128	Term-refs 881 889	criterio
+#166	AnnotatorNotes T128	"LabourLaw"
+#167	AnnotatorNotes T22	"LabourLaw"
+#168	AnnotatorNotes T47	"LabourLaw"
+T129	Term-refs 1003 1013	empresario
+#169	AnnotatorNotes T129	"LabourLaw"
+#170	AnnotatorNotes T23	"LabourLaw"
+#171	AnnotatorNotes T24	"LabourLaw"
+#172	AnnotatorNotes T4	"LabourLaw"
+T130	Term-refs 97 104	defecto
+#173	AnnotatorNotes T130	"LabourLaw"
+#174	AnnotatorNotes T9	"LabourLaw"
+T131	Term-refs 1003 1010	empresa
+#175	AnnotatorNotes T131	"LabourLaw"
+#176	AnnotatorNotes T4	"LabourLaw"
+#177	AnnotatorNotes T15	"IATE"
+T132	Term-refs 1152 1163	realización
+#178	AnnotatorNotes T132	"IATE"
+T133	Term-refs 1315 1326	realización
+#179	AnnotatorNotes T133	"IATE"
+#180	AnnotatorNotes T22	"IATE"
+#181	AnnotatorNotes T25	"IATE"
+#182	AnnotatorNotes T26	"IATE"
+#183	AnnotatorNotes T2	"IATE"
+#184	AnnotatorNotes T3	"IATE"
+#185	AnnotatorNotes T18	"IATE"
+#186	AnnotatorNotes T27	"IATE"
+#187	AnnotatorNotes T28	"IATE"
+#188	AnnotatorNotes T29	"IATE"
+#189	AnnotatorNotes T30	"IATE"
+#190	AnnotatorNotes T31	"IATE"
+#191	AnnotatorNotes T32	"IATE"
+#192	AnnotatorNotes T9	"IATE"
+#193	AnnotatorNotes T129	"IATE"
+#194	AnnotatorNotes T49	"IATE"
+T134	Term-refs 159 171	trabajadores
+#195	AnnotatorNotes T134	"IATE"
+T135	Term-refs 235 247	trabajadores
+#196	AnnotatorNotes T135	"IATE"
+#197	AnnotatorNotes T123	"IATE"
+#198	AnnotatorNotes T124	"IATE"
+#199	AnnotatorNotes T125	"IATE"
+T136	Term-refs 676 682	sesgos
+#200	AnnotatorNotes T136	"IATE"
+#201	AnnotatorNotes T20	"IATE"
+#202	AnnotatorNotes T21	"IATE"
+#203	AnnotatorNotes T14	"IATE"
+#204	AnnotatorNotes T5	"IATE"
+#205	AnnotatorNotes T10	"IATE"
+#206	AnnotatorNotes T11	"IATE"
+#207	AnnotatorNotes T12	"IATE"
+#208	AnnotatorNotes T13	"IATE"
+#209	AnnotatorNotes T33	"IATE"

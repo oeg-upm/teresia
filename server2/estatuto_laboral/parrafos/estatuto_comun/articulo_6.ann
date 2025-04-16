@@ -1,0 +1,196 @@
+T1	Term-refs 618 623	casos
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 171 189	trabajos nocturnos
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 53 61	admisión
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 703 708	salud
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 12 19	Trabajo
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 65 72	trabajo
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 227 234	trabajo
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 171 179	trabajos
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 379 386	Riesgos
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 202 213	actividades
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 379 396	Riesgos Laborales
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 330 333	Ley
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 216 223	puestos
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 755 762	permiso
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 100 104	años
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 147 151	años
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 513 517	años
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 566 570	años
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 0 8	Artículo
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 407 413	normas
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 645 654	autoridad
+#21	AnnotatorNotes T21	"Termcat"
+#22	AnnotatorNotes T14	"Termcat"
+T22	Term-refs 797 802	actos
+#23	AnnotatorNotes T22	"Termcat"
+#24	AnnotatorNotes T12	"Termcat"
+#25	AnnotatorNotes T19	"Termcat"
+T23	Term-refs 525 537	intervención
+#26	AnnotatorNotes T23	"Termcat"
+#27	AnnotatorNotes T20	"Termcat"
+T24	Term-refs 645 662	autoridad laboral
+#28	AnnotatorNotes T24	"Termcat"
+#29	AnnotatorNotes T5	"Termcat"
+#30	AnnotatorNotes T7	"Termcat"
+#31	AnnotatorNotes T6	"Termcat"
+T25	Term-refs 720 741	formación profesional
+#32	AnnotatorNotes T25	"Termcat"
+T26	Term-refs 464 485	horas extraordinarias
+#33	AnnotatorNotes T26	"Termcat"
+T27	Term-refs 687 694	peligro
+#34	AnnotatorNotes T27	"Termcat"
+T28	Term-refs 365 396	Prevención de Riesgos Laborales
+#35	AnnotatorNotes T28	"Termcat"
+#36	AnnotatorNotes T2	"Termcat"
+#37	AnnotatorNotes T10	"Termcat"
+#38	AnnotatorNotes T3	"Termcat"
+T29	Term-refs 300 308	conforme
+#39	AnnotatorNotes T29	"Termcat"
+T30	Term-refs 287 299	contratación
+#40	AnnotatorNotes T30	"Termcat"
+#41	AnnotatorNotes T8	"Termcat"
+T31	Term-refs 27 34	menores
+#42	AnnotatorNotes T31	"Termcat"
+T32	Term-refs 126 133	menores
+#43	AnnotatorNotes T32	"Termcat"
+T33	Term-refs 545 552	menores
+#44	AnnotatorNotes T33	"Termcat"
+T34	Term-refs 79 86	menores
+#45	AnnotatorNotes T34	"Termcat"
+T35	Term-refs 492 499	menores
+#46	AnnotatorNotes T35	"Termcat"
+#47	AnnotatorNotes T9	"Termcat"
+T36	Term-refs 365 375	Prevención
+#48	AnnotatorNotes T36	"Termcat"
+T37	Term-automatico 171 189	trabajos nocturnos
+#49	AnnotatorNotes T37	"AttentionRank"
+#50	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 645 654	autoridad
+#51	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 100 104	años
+#52	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 147 151	años
+#53	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 513 517	años
+#54	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 566 570	años
+#55	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 379 386	Riesgos
+#56	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 703 708	salud
+#57	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 407 413	normas
+#58	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 797 802	actos
+#59	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 113 133	trabajadores menores
+#60	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 720 729	formación
+#61	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 0 8	Artículo
+#62	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 645 662	autoridad laboral
+#63	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 202 213	actividades
+#64	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 235 249	respecto a los
+#65	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 755 762	permiso
+#66	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 113 125	trabajadores
+#67	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 216 223	puestos
+#68	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 464 485	horas extraordinarias
+#69	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 464 469	horas
+#70	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 330 333	Ley
+#71	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 53 61	admisión
+#72	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 379 396	Riesgos Laborales
+#73	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 287 299	contratación
+#74	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 113 136	trabajadores menores de
+#75	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 574 595	espectáculos públicos
+#76	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 618 637	casos excepcionales
+#77	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 525 555	intervención de los menores de
+#78	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 12 19	Trabajo
+#79	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 65 72	trabajo
+#80	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 227 234	trabajo
+#81	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 171 179	trabajos
+#82	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 720 741	formación profesional
+#83	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 618 623	casos
+#84	AnnotatorNotes T71	"AttentionRank"
+#85	AnnotatorNotes T25	"LabourLaw"
+#86	AnnotatorNotes T24	"LabourLaw"
+#87	AnnotatorNotes T6	"LabourLaw"
+T72	Term-refs 171 178	trabajo
+#88	AnnotatorNotes T72	"LabourLaw"
+#89	AnnotatorNotes T7	"LabourLaw"
+T73	Term-refs 27 32	menor
+#90	AnnotatorNotes T73	"LabourLaw"
+T74	Term-refs 79 84	menor
+#91	AnnotatorNotes T74	"LabourLaw"
+T75	Term-refs 126 131	menor
+#92	AnnotatorNotes T75	"LabourLaw"
+T76	Term-refs 492 497	menor
+#93	AnnotatorNotes T76	"LabourLaw"
+T77	Term-refs 545 550	menor
+#94	AnnotatorNotes T77	"LabourLaw"
+T78	Term-refs 604 613	autorizar
+#95	AnnotatorNotes T78	"LabourLaw"
+T79	Term-refs 113 123	trabajador
+#96	AnnotatorNotes T79	"LabourLaw"
+#97	AnnotatorNotes T30	"LabourLaw"
+T80	Term-refs 720 729	formación
+#98	AnnotatorNotes T80	"LabourLaw"
+T81	Term-refs 763 768	deber
+#99	AnnotatorNotes T81	"LabourLaw"
+#100	AnnotatorNotes T21	"LabourLaw"
+#101	AnnotatorNotes T3	"LabourLaw"
+#102	AnnotatorNotes T14	"LabourLaw"
+#103	AnnotatorNotes T9	"LabourLaw"
+#104	AnnotatorNotes T14	"LabourLaw"
+T82	Term-refs 183 188	turno
+#105	AnnotatorNotes T82	"LabourLaw"
+#106	AnnotatorNotes T14	"LabourLaw"
+#107	AnnotatorNotes T3	"IATE"
+#108	AnnotatorNotes T19	"IATE"
+#109	AnnotatorNotes T9	"IATE"
+#110	AnnotatorNotes T14	"IATE"
+T83	Term-refs 113 125	trabajadores
+#111	AnnotatorNotes T83	"IATE"
+#112	AnnotatorNotes T10	"IATE"
+#113	AnnotatorNotes T80	"IATE"

@@ -1,0 +1,186 @@
+T1	Term-refs 547 551	caso
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 167 173	reglas
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 135 142	trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 585 592	trabajo
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 644 651	trabajo
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 425 432	empresa
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 180 188	buena fe
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 147 158	conformidad
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 572 581	contratos
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 632 640	contrato
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 244 251	riesgos
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 409 418	actividad
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 244 261	riesgos laborales
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 466 469	ley
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 12 19	Deberes
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 60 67	deberes
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 125 131	puesto
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 293 300	órdenes
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 219 226	medidas
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 0 8	Artículo
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 594 601	Sección
+#21	AnnotatorNotes T21	"Termcat"
+T22	Term-refs 441 449	términos
+#22	AnnotatorNotes T22	"Termcat"
+#23	AnnotatorNotes T7	"Termcat"
+#24	AnnotatorNotes T9	"Termcat"
+#25	AnnotatorNotes T10	"Termcat"
+#26	AnnotatorNotes T15	"Termcat"
+#27	AnnotatorNotes T16	"Termcat"
+T23	Term-refs 363 373	facultades
+#28	AnnotatorNotes T23	"Termcat"
+#29	AnnotatorNotes T14	"Termcat"
+#30	AnnotatorNotes T20	"Termcat"
+T24	Term-refs 632 651	contrato de trabajo
+#31	AnnotatorNotes T24	"Termcat"
+#32	AnnotatorNotes T6	"Termcat"
+#33	AnnotatorNotes T4	"Termcat"
+T25	Term-refs 125 142	puesto de trabajo
+#34	AnnotatorNotes T25	"Termcat"
+T26	Term-refs 230 261	prevención de riesgos laborales
+#35	AnnotatorNotes T26	"Termcat"
+T27	Term-refs 503 516	productividad
+#36	AnnotatorNotes T27	"Termcat"
+T28	Term-refs 374 384	directivas
+#37	AnnotatorNotes T28	"Termcat"
+#38	AnnotatorNotes T8	"Termcat"
+T29	Term-refs 619 627	eficacia
+#39	AnnotatorNotes T29	"Termcat"
+T30	Term-refs 191 201	diligencia
+#40	AnnotatorNotes T30	"Termcat"
+#41	AnnotatorNotes T12	"Termcat"
+T31	Term-refs 338 347	ejercicio
+#42	AnnotatorNotes T31	"Termcat"
+T32	Term-refs 490 496	mejora
+#43	AnnotatorNotes T32	"Termcat"
+#44	AnnotatorNotes T2	"Termcat"
+#45	AnnotatorNotes T11	"Termcat"
+T33	Term-refs 230 240	prevención
+#46	AnnotatorNotes T33	"Termcat"
+T34	Term-automatico 338 347	ejercicio
+#47	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 180 188	buena fe
+#48	AnnotatorNotes T35	"AttentionRank"
+T36	Term-automatico 167 173	reglas
+#49	AnnotatorNotes T36	"AttentionRank"
+T37	Term-automatico 244 251	riesgos
+#50	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 219 226	medidas
+#51	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 147 173	conformidad con las reglas
+#52	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 0 8	Artículo
+#53	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 96 118	obligaciones concretas
+#54	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 594 601	Sección
+#55	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 60 75	deberes básicos
+#56	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 409 418	actividad
+#57	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 35 47	trabajadores
+#58	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 125 131	puesto
+#59	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 425 432	empresa
+#60	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 466 469	ley
+#61	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 244 261	riesgos laborales
+#62	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 560 581	respectivos contratos
+#63	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 338 355	ejercicio regular
+#64	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 147 158	conformidad
+#65	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 293 300	órdenes
+#66	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 572 581	contratos
+#67	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 632 640	contrato
+#68	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 12 19	Deberes
+#69	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 60 67	deberes
+#70	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 503 516	productividad
+#71	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 135 142	trabajo
+#72	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 585 592	trabajo
+#73	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 644 651	trabajo
+#74	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 547 551	caso
+#75	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 321 331	empresario
+#76	AnnotatorNotes T63	"AttentionRank"
+#77	AnnotatorNotes T25	"LabourLaw"
+#78	AnnotatorNotes T24	"LabourLaw"
+#79	AnnotatorNotes T7	"LabourLaw"
+T64	Term-refs 392 401	concurrir
+#80	AnnotatorNotes T64	"LabourLaw"
+#81	AnnotatorNotes T27	"LabourLaw"
+#82	AnnotatorNotes T3	"LabourLaw"
+#83	AnnotatorNotes T4	"LabourLaw"
+#84	AnnotatorNotes T5	"LabourLaw"
+#85	AnnotatorNotes T33	"LabourLaw"
+T65	Term-refs 244 250	riesgo
+#86	AnnotatorNotes T65	"LabourLaw"
+T66	Term-refs 572 580	contrato
+#87	AnnotatorNotes T66	"LabourLaw"
+#88	AnnotatorNotes T10	"LabourLaw"
+T67	Term-refs 219 225	medida
+#89	AnnotatorNotes T67	"LabourLaw"
+T68	Term-refs 35 45	trabajador
+#90	AnnotatorNotes T68	"LabourLaw"
+#91	AnnotatorNotes T14	"LabourLaw"
+T69	Term-refs 60 65	deber
+#92	AnnotatorNotes T69	"LabourLaw"
+T70	Term-refs 321 331	empresario
+#93	AnnotatorNotes T70	"LabourLaw"
+#94	AnnotatorNotes T8	"LabourLaw"
+T71	Term-refs 321 328	empresa
+#95	AnnotatorNotes T71	"LabourLaw"
+#96	AnnotatorNotes T6	"LabourLaw"
+T72	Term-refs 441 448	término
+#97	AnnotatorNotes T72	"LabourLaw"
+#98	AnnotatorNotes T30	"LabourLaw"
+T73	Term-refs 363 371	facultad
+#99	AnnotatorNotes T73	"LabourLaw"
+#100	AnnotatorNotes T27	"IATE"
+#101	AnnotatorNotes T20	"IATE"
+#102	AnnotatorNotes T11	"IATE"
+#103	AnnotatorNotes T6	"IATE"
+#104	AnnotatorNotes T8	"IATE"
+#105	AnnotatorNotes T70	"IATE"
+T74	Term-refs 35 47	trabajadores
+#106	AnnotatorNotes T74	"IATE"
+#107	AnnotatorNotes T18	"IATE"
+#108	AnnotatorNotes T21	"IATE"
+#109	AnnotatorNotes T12	"IATE"
+#110	AnnotatorNotes T9	"IATE"
+#111	AnnotatorNotes T10	"IATE"
+#112	AnnotatorNotes T31	"IATE"

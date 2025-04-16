@@ -1,0 +1,98 @@
+T1	Term-refs 100 108	acuerdos
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 334 351	centro de trabajo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 344 351	trabajo
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 324 331	empresa
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 47 55	asamblea
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 124 132	conjunto
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 213 221	personal
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 0 8	Artículo
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 334 340	centro
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 175 182	validez
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 88 96	adopción
+#11	AnnotatorNotes T11	"Termcat"
+#12	AnnotatorNotes T8	"Termcat"
+T12	Term-refs 261 265	voto
+#13	AnnotatorNotes T12	"Termcat"
+T13	Term-refs 198 202	voto
+#14	AnnotatorNotes T13	"Termcat"
+T14	Term-refs 60 65	parte
+#15	AnnotatorNotes T14	"Termcat"
+#16	AnnotatorNotes T2	"Termcat"
+#17	AnnotatorNotes T4	"Termcat"
+#18	AnnotatorNotes T7	"Termcat"
+#19	AnnotatorNotes T1	"Termcat"
+#20	AnnotatorNotes T5	"Termcat"
+T15	Term-refs 240 247	secreto
+#21	AnnotatorNotes T15	"Termcat"
+#22	AnnotatorNotes T10	"Termcat"
+T16	Term-automatico 60 65	parte
+#23	AnnotatorNotes T16	"AttentionRank"
+T17	Term-automatico 100 108	acuerdos
+#24	AnnotatorNotes T17	"AttentionRank"
+T18	Term-automatico 73 84	convocantes
+#25	AnnotatorNotes T18	"AttentionRank"
+T19	Term-automatico 47 55	asamblea
+#26	AnnotatorNotes T19	"AttentionRank"
+T20	Term-automatico 284 289	mitad
+#27	AnnotatorNotes T20	"AttentionRank"
+T21	Term-automatico 0 8	Artículo
+#28	AnnotatorNotes T21	"AttentionRank"
+T22	Term-automatico 198 212	voto favorable
+#29	AnnotatorNotes T22	"AttentionRank"
+T23	Term-automatico 270 276	correo
+#30	AnnotatorNotes T23	"AttentionRank"
+T24	Term-automatico 140 152	trabajadores
+#31	AnnotatorNotes T24	"AttentionRank"
+T25	Term-automatico 305 317	trabajadores
+#32	AnnotatorNotes T25	"AttentionRank"
+T26	Term-automatico 324 331	empresa
+#33	AnnotatorNotes T26	"AttentionRank"
+T27	Term-automatico 124 132	conjunto
+#34	AnnotatorNotes T27	"AttentionRank"
+T28	Term-automatico 334 340	centro
+#35	AnnotatorNotes T28	"AttentionRank"
+T29	Term-automatico 198 202	voto
+#36	AnnotatorNotes T29	"AttentionRank"
+T30	Term-automatico 261 265	voto
+#37	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 88 96	adopción
+#38	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 175 182	validez
+#39	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 213 221	personal
+#40	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 344 351	trabajo
+#41	AnnotatorNotes T34	"AttentionRank"
+#42	AnnotatorNotes T2	"LabourLaw"
+#43	AnnotatorNotes T11	"LabourLaw"
+#44	AnnotatorNotes T3	"LabourLaw"
+T35	Term-refs 140 150	trabajador
+#45	AnnotatorNotes T35	"LabourLaw"
+T36	Term-refs 305 315	trabajador
+#46	AnnotatorNotes T36	"LabourLaw"
+#47	AnnotatorNotes T4	"LabourLaw"
+#48	AnnotatorNotes T10	"LabourLaw"
+#49	AnnotatorNotes T7	"LabourLaw"
+T37	Term-refs 213 220	persona
+#50	AnnotatorNotes T37	"LabourLaw"
+#51	AnnotatorNotes T14	"IATE"
+#52	AnnotatorNotes T8	"IATE"
+#53	AnnotatorNotes T6	"IATE"
+#54	AnnotatorNotes T1	"IATE"
+#55	AnnotatorNotes T4	"IATE"
+#56	AnnotatorNotes T11	"IATE"
+#57	AnnotatorNotes T5	"IATE"
+T38	Term-refs 140 152	trabajadores
+#58	AnnotatorNotes T38	"IATE"
+T39	Term-refs 305 317	trabajadores
+#59	AnnotatorNotes T39	"IATE"

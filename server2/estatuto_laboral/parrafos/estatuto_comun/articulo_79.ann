@@ -1,0 +1,179 @@
+T1	Term-refs 326 331	casos
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 184 191	acuerdo
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 766 771	letra
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 62 79	centro de trabajo
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 248 265	centro de trabajo
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 72 79	trabajo
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 169 176	trabajo
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 258 265	trabajo
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 630 637	empresa
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 672 681	convenios
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 13 18	Lugar
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 37 42	lugar
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 141 146	lugar
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 672 692	convenios colectivos
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 292 300	asamblea
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 379 382	ley
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 515 528	resarcimiento
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 709 719	aplicación
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 0 8	Artículo
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 62 68	centro
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 248 254	centro
+#21	AnnotatorNotes T21	"DPEJ"
+#22	AnnotatorNotes T10	"Termcat"
+T22	Term-refs 537 542	daños
+#23	AnnotatorNotes T22	"Termcat"
+#24	AnnotatorNotes T16	"Termcat"
+#25	AnnotatorNotes T17	"Termcat"
+#26	AnnotatorNotes T19	"Termcat"
+T23	Term-refs 590 597	reunión
+#27	AnnotatorNotes T23	"Termcat"
+T24	Term-refs 46 53	reunión
+#28	AnnotatorNotes T24	"Termcat"
+T25	Term-refs 447 454	reunión
+#29	AnnotatorNotes T25	"Termcat"
+T26	Term-refs 22 29	reunión
+#30	AnnotatorNotes T26	"Termcat"
+#31	AnnotatorNotes T5	"Termcat"
+#32	AnnotatorNotes T4	"Termcat"
+#33	AnnotatorNotes T14	"Termcat"
+#34	AnnotatorNotes T9	"Termcat"
+#35	AnnotatorNotes T7	"Termcat"
+T27	Term-refs 611 617	Cierre
+#36	AnnotatorNotes T27	"Termcat"
+#37	AnnotatorNotes T2	"Termcat"
+#38	AnnotatorNotes T18	"Termcat"
+#39	AnnotatorNotes T15	"Termcat"
+T28	Term-refs 274 285	celebración
+#40	AnnotatorNotes T28	"Termcat"
+T29	Term-refs 618 623	legal
+#41	AnnotatorNotes T29	"Termcat"
+T30	Term-automatico 22 29	reunión
+#42	AnnotatorNotes T30	"AttentionRank"
+T31	Term-automatico 46 53	reunión
+#43	AnnotatorNotes T31	"AttentionRank"
+T32	Term-automatico 447 454	reunión
+#44	AnnotatorNotes T32	"AttentionRank"
+T33	Term-automatico 590 597	reunión
+#45	AnnotatorNotes T33	"AttentionRank"
+T34	Term-automatico 515 528	resarcimiento
+#46	AnnotatorNotes T34	"AttentionRank"
+T35	Term-automatico 184 191	acuerdo
+#47	AnnotatorNotes T35	"AttentionRank"
+T36	Term-automatico 537 542	daños
+#48	AnnotatorNotes T36	"AttentionRank"
+T37	Term-automatico 292 300	asamblea
+#49	AnnotatorNotes T37	"AttentionRank"
+T38	Term-automatico 709 719	aplicación
+#50	AnnotatorNotes T38	"AttentionRank"
+T39	Term-automatico 0 8	Artículo
+#51	AnnotatorNotes T39	"AttentionRank"
+T40	Term-automatico 425 430	meses
+#52	AnnotatorNotes T40	"AttentionRank"
+T41	Term-automatico 672 681	convenios
+#53	AnnotatorNotes T41	"AttentionRank"
+T42	Term-automatico 13 18	Lugar
+#54	AnnotatorNotes T42	"AttentionRank"
+T43	Term-automatico 37 42	lugar
+#55	AnnotatorNotes T43	"AttentionRank"
+T44	Term-automatico 141 146	lugar
+#56	AnnotatorNotes T44	"AttentionRank"
+T45	Term-automatico 184 209	acuerdo con el empresario
+#57	AnnotatorNotes T45	"AttentionRank"
+T46	Term-automatico 315 331	siguientes casos
+#58	AnnotatorNotes T46	"AttentionRank"
+T47	Term-automatico 672 692	convenios colectivos
+#59	AnnotatorNotes T47	"AttentionRank"
+#60	AnnotatorNotes T47	"AttentionRank"
+T48	Term-automatico 630 637	empresa
+#61	AnnotatorNotes T48	"AttentionRank"
+T49	Term-automatico 160 165	horas
+#62	AnnotatorNotes T49	"AttentionRank"
+T50	Term-automatico 379 382	ley
+#63	AnnotatorNotes T50	"AttentionRank"
+T51	Term-automatico 62 68	centro
+#64	AnnotatorNotes T51	"AttentionRank"
+T52	Term-automatico 248 254	centro
+#65	AnnotatorNotes T52	"AttentionRank"
+T53	Term-automatico 643 665	reuniones informativas
+#66	AnnotatorNotes T53	"AttentionRank"
+T54	Term-automatico 766 771	letra
+#67	AnnotatorNotes T54	"AttentionRank"
+T55	Term-automatico 72 79	trabajo
+#68	AnnotatorNotes T55	"AttentionRank"
+T56	Term-automatico 169 176	trabajo
+#69	AnnotatorNotes T56	"AttentionRank"
+T57	Term-automatico 258 265	trabajo
+#70	AnnotatorNotes T57	"AttentionRank"
+T58	Term-automatico 326 331	casos
+#71	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 199 209	empresario
+#72	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 217 227	empresario
+#73	AnnotatorNotes T60	"AttentionRank"
+T61	Term-refs 37 53	lugar de reunión
+#74	AnnotatorNotes T61	"LabourLaw"
+#75	AnnotatorNotes T4	"LabourLaw"
+#76	AnnotatorNotes T5	"LabourLaw"
+#77	AnnotatorNotes T6	"LabourLaw"
+#78	AnnotatorNotes T7	"LabourLaw"
+#79	AnnotatorNotes T8	"LabourLaw"
+#80	AnnotatorNotes T18	"LabourLaw"
+#81	AnnotatorNotes T16	"LabourLaw"
+T62	Term-refs 228 233	deber
+#82	AnnotatorNotes T62	"LabourLaw"
+T63	Term-refs 199 209	empresario
+#83	AnnotatorNotes T63	"LabourLaw"
+T64	Term-refs 217 227	empresario
+#84	AnnotatorNotes T64	"LabourLaw"
+T65	Term-refs 199 206	empresa
+#85	AnnotatorNotes T65	"LabourLaw"
+T66	Term-refs 217 224	empresa
+#86	AnnotatorNotes T66	"LabourLaw"
+#87	AnnotatorNotes T9	"LabourLaw"
+#88	AnnotatorNotes T26	"LabourLaw"
+#89	AnnotatorNotes T24	"LabourLaw"
+#90	AnnotatorNotes T25	"LabourLaw"
+#91	AnnotatorNotes T23	"LabourLaw"
+T67	Term-refs 682 691	colectivo
+#92	AnnotatorNotes T67	"LabourLaw"
+T68	Term-refs 503 509	fianza
+#93	AnnotatorNotes T68	"LabourLaw"
+T69	Term-refs 643 650	reunion
+#94	AnnotatorNotes T69	"LabourLaw"
+#95	AnnotatorNotes T18	"IATE"
+#96	AnnotatorNotes T19	"IATE"
+#97	AnnotatorNotes T2	"IATE"
+#98	AnnotatorNotes T9	"IATE"
+#99	AnnotatorNotes T26	"IATE"
+#100	AnnotatorNotes T24	"IATE"
+#101	AnnotatorNotes T25	"IATE"
+#102	AnnotatorNotes T23	"IATE"
+#103	AnnotatorNotes T63	"IATE"
+#104	AnnotatorNotes T64	"IATE"
+#105	AnnotatorNotes T15	"IATE"
+#106	AnnotatorNotes T22	"IATE"
+#107	AnnotatorNotes T10	"IATE"
+T70	Term-refs 425 430	meses
+#108	AnnotatorNotes T70	"IATE"
+#109	AnnotatorNotes T3	"IATE"
