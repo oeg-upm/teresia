@@ -1,0 +1,247 @@
+T1	Term-refs 1348 1357	capacidad
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 646 650	caso
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 1024 1028	caso
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 669 673	pago
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 847 851	pago
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 936 940	pago
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 154 162	Acuerdos
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 242 249	acuerdo
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 332 339	acuerdo
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 610 617	acuerdo
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 750 757	acuerdo
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 1070 1077	acuerdo
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 1476 1483	acuerdo
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 507 515	acuerdos
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 92 98	plazos
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 1153 1159	plazos
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 415 423	relación
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 947 963	deuda tributaria
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 166 176	denegación
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 519 529	denegación
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 874 884	DENEGACIÓN
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 119 124	anexo
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 266 271	anexo
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 631 636	anexo
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 853 858	ANEXO
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 888 901	APLAZAMIENTOS
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 1099 1111	aplazamiento
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 904 920	FRACCIONAMIENTOS
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1081 1096	fraccionamiento
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 1464 1472	petición
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 463 472	solicitud
+#31	AnnotatorNotes T31	"Termcat"
+T32	Term-refs 1371 1379	recursos
+#32	AnnotatorNotes T32	"Termcat"
+#33	AnnotatorNotes T15	"Termcat"
+#34	AnnotatorNotes T16	"Termcat"
+T33	Term-refs 998 1005	tributo
+#35	AnnotatorNotes T33	"Termcat"
+T34	Term-refs 358 364	deudas
+#36	AnnotatorNotes T34	"Termcat"
+T35	Term-refs 781 787	deudas
+#37	AnnotatorNotes T35	"Termcat"
+T36	Term-refs 180 186	deudas
+#38	AnnotatorNotes T36	"Termcat"
+T37	Term-refs 27 33	deudas
+#39	AnnotatorNotes T37	"Termcat"
+T38	Term-refs 533 539	deudas
+#40	AnnotatorNotes T38	"Termcat"
+T39	Term-refs 1419 1424	deuda
+#41	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 947 952	deuda
+#42	AnnotatorNotes T40	"Termcat"
+#43	AnnotatorNotes T6	"Termcat"
+#44	AnnotatorNotes T5	"Termcat"
+#45	AnnotatorNotes T4	"Termcat"
+T41	Term-refs 1128 1133	poder
+#46	AnnotatorNotes T41	"Termcat"
+#47	AnnotatorNotes T24	"Termcat"
+#48	AnnotatorNotes T22	"Termcat"
+#49	AnnotatorNotes T23	"Termcat"
+#50	AnnotatorNotes T25	"Termcat"
+T42	Term-refs 984 989	norma
+#51	AnnotatorNotes T42	"Termcat"
+#52	AnnotatorNotes T30	"Termcat"
+T43	Term-refs 58 63	parte
+#53	AnnotatorNotes T43	"Termcat"
+#54	AnnotatorNotes T1	"Termcat"
+T44	Term-refs 1400 1412	satisfacción
+#55	AnnotatorNotes T44	"Termcat"
+#56	AnnotatorNotes T7	"Termcat"
+#57	AnnotatorNotes T13	"Termcat"
+#58	AnnotatorNotes T10	"Termcat"
+#59	AnnotatorNotes T9	"Termcat"
+#60	AnnotatorNotes T12	"Termcat"
+#61	AnnotatorNotes T11	"Termcat"
+#62	AnnotatorNotes T8	"Termcat"
+#63	AnnotatorNotes T14	"Termcat"
+#64	AnnotatorNotes T26	"Termcat"
+#65	AnnotatorNotes T27	"Termcat"
+T45	Term-refs 449 456	archivo
+#66	AnnotatorNotes T45	"Termcat"
+T46	Term-refs 659 665	cartas
+#67	AnnotatorNotes T46	"Termcat"
+T47	Term-refs 837 843	cartas
+#68	AnnotatorNotes T47	"Termcat"
+#69	AnnotatorNotes T18	"Termcat"
+T48	Term-refs 738 745	emisión
+#70	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 320 327	emisión
+#71	AnnotatorNotes T49	"Termcat"
+T50	Term-refs 1116 1121	hecho
+#72	AnnotatorNotes T50	"Termcat"
+#73	AnnotatorNotes T28	"Termcat"
+#74	AnnotatorNotes T29	"Termcat"
+T51	Term-refs 863 870	MOTIVOS
+#75	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 1506 1515	normativa
+#76	AnnotatorNotes T52	"Termcat"
+T53	Term-refs 285 292	cuantía
+#77	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 1258 1267	tesorería
+#78	AnnotatorNotes T54	"Termcat"
+#79	AnnotatorNotes T31	"Tributario"
+#80	AnnotatorNotes T7	"Tributario"
+#81	AnnotatorNotes T8	"Tributario"
+#82	AnnotatorNotes T9	"Tributario"
+#83	AnnotatorNotes T10	"Tributario"
+#84	AnnotatorNotes T11	"Tributario"
+#85	AnnotatorNotes T12	"Tributario"
+#86	AnnotatorNotes T13	"Tributario"
+#87	AnnotatorNotes T14	"Tributario"
+#88	AnnotatorNotes T28	"Tributario"
+#89	AnnotatorNotes T29	"Tributario"
+#90	AnnotatorNotes T4	"Tributario"
+#91	AnnotatorNotes T5	"Tributario"
+#92	AnnotatorNotes T6	"Tributario"
+#93	AnnotatorNotes T32	"Tributario"
+#94	AnnotatorNotes T22	"Tributario"
+#95	AnnotatorNotes T23	"Tributario"
+#96	AnnotatorNotes T24	"Tributario"
+#97	AnnotatorNotes T25	"Tributario"
+#98	AnnotatorNotes T49	"Tributario"
+#99	AnnotatorNotes T48	"Tributario"
+T55	Term-refs 309 316	momento
+#100	AnnotatorNotes T55	"Tributario"
+T56	Term-refs 724 731	momento
+#101	AnnotatorNotes T56	"Tributario"
+T57	Term-refs 769 776	momento
+#102	AnnotatorNotes T57	"Tributario"
+T58	Term-refs 924 931	momento
+#103	AnnotatorNotes T58	"Tributario"
+T59	Term-refs 1055 1062	momento
+#104	AnnotatorNotes T59	"Tributario"
+#105	AnnotatorNotes T30	"Tributario"
+#106	AnnotatorNotes T1	"Tributario"
+#107	AnnotatorNotes T15	"Tributario"
+#108	AnnotatorNotes T16	"Tributario"
+T60	Term-automatico 358 364	deudas
+#109	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 781 787	deudas
+#110	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 180 186	deudas
+#111	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 27 33	deudas
+#112	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 533 539	deudas
+#113	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 1419 1424	deuda
+#114	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 154 162	Acuerdos
+#115	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 610 617	acuerdo
+#116	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 332 339	acuerdo
+#117	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 1070 1077	acuerdo
+#118	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 750 757	acuerdo
+#119	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 242 249	acuerdo
+#120	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 507 515	acuerdos
+#121	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 1153 1186	plazos fijados inicialmente en el
+#122	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 1055 1062	momento
+#123	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 309 316	momento
+#124	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 769 776	momento
+#125	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 724 731	momento
+#126	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 924 931	momento
+#127	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 936 940	pago
+#128	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 847 851	pago
+#129	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 669 673	pago
+#130	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 77 84	importe
+#131	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 572 579	importe
+#132	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 686 693	importe
+#133	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 477 498	respecto a las mismas
+#134	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 166 176	denegación
+#135	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 519 529	denegación
+#136	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 874 884	DENEGACIÓN
+#137	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 1464 1487	petición de acuerdo con
+#138	AnnotatorNotes T89	"AttentionRank"
+T90	Term-automatico 1348 1357	capacidad
+#139	AnnotatorNotes T90	"AttentionRank"
+T91	Term-automatico 947 963	deuda tributaria
+#140	AnnotatorNotes T91	"AttentionRank"
+T92	Term-automatico 190 207	período ejecutivo
+#141	AnnotatorNotes T92	"AttentionRank"
+T93	Term-automatico 631 636	anexo
+#142	AnnotatorNotes T93	"AttentionRank"
+T94	Term-automatico 119 124	anexo
+#143	AnnotatorNotes T94	"AttentionRank"
+T95	Term-automatico 266 271	anexo
+#144	AnnotatorNotes T95	"AttentionRank"
+T96	Term-automatico 853 858	ANEXO
+#145	AnnotatorNotes T96	"AttentionRank"
+T97	Term-automatico 543 561	período voluntario
+#146	AnnotatorNotes T97	"AttentionRank"
+T98	Term-automatico 904 920	FRACCIONAMIENTOS
+#147	AnnotatorNotes T98	"AttentionRank"
+T99	Term-automatico 1081 1096	fraccionamiento
+#148	AnnotatorNotes T99	"AttentionRank"

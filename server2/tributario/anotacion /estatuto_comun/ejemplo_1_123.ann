@@ -1,0 +1,225 @@
+T1	Term-refs 1126 1131	firma
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 285 297	notificación
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 626 639	procedimiento
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 1126 1143	firma electrónica
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 1097 1104	sistema
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 1669 1677	sistemas
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 1052 1056	pago
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 1488 1492	pago
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 1749 1753	pago
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 835 841	opción
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 979 985	opción
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 934 938	Sede
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 1599 1608	Entidades
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 1774 1781	acuerdo
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 1188 1199	Certificado
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 31 36	plazo
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 177 182	plazo
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 264 269	plazo
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 411 416	plazo
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 626 650	procedimiento de apremio
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 161 172	vencimiento
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 390 401	vencimiento
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 788 794	adeudo
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 1274 1280	adeudo
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 1357 1365	Atención
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 304 314	denegación
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 494 504	DENEGACIÓN
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 77 88	liquidación
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 1188 1211	Certificado electrónico
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 1380 1391	Recaudación
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 1108 1123	autentificación
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 934 950	Sede Electrónica
+#32	AnnotatorNotes T32	"DPEJ"
+T33	Term-refs 225 230	fecha
+#33	AnnotatorNotes T33	"DPEJ"
+T34	Term-refs 381 386	fecha
+#34	AnnotatorNotes T34	"DPEJ"
+T35	Term-refs 643 650	apremio
+#35	AnnotatorNotes T35	"DPEJ"
+T36	Term-refs 1168 1175	Agencia
+#36	AnnotatorNotes T36	"Termcat"
+#37	AnnotatorNotes T29	"Termcat"
+#38	AnnotatorNotes T13	"Termcat"
+T37	Term-refs 510 521	SOLICITUDES
+#39	AnnotatorNotes T37	"Termcat"
+T38	Term-refs 549 558	solicitud
+#40	AnnotatorNotes T38	"Termcat"
+#41	AnnotatorNotes T2	"Termcat"
+#42	AnnotatorNotes T32	"Termcat"
+#43	AnnotatorNotes T4	"Termcat"
+#44	AnnotatorNotes T19	"Termcat"
+#45	AnnotatorNotes T17	"Termcat"
+#46	AnnotatorNotes T16	"Termcat"
+#47	AnnotatorNotes T18	"Termcat"
+#48	AnnotatorNotes T15	"Termcat"
+T39	Term-refs 994 1000	deudas
+#49	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 1009 1015	deudas
+#50	AnnotatorNotes T40	"Termcat"
+#51	AnnotatorNotes T28	"Termcat"
+#52	AnnotatorNotes T7	"Termcat"
+#53	AnnotatorNotes T9	"Termcat"
+#54	AnnotatorNotes T8	"Termcat"
+T41	Term-refs 1229 1245	personas físicas
+#55	AnnotatorNotes T41	"Termcat"
+T42	Term-refs 1318 1332	persona física
+#56	AnnotatorNotes T42	"Termcat"
+T43	Term-refs 1024 1031	titular
+#57	AnnotatorNotes T43	"Termcat"
+#58	AnnotatorNotes T21	"Termcat"
+#59	AnnotatorNotes T22	"Termcat"
+#60	AnnotatorNotes T5	"Termcat"
+#61	AnnotatorNotes T6	"Termcat"
+#62	AnnotatorNotes T25	"Termcat"
+T44	Term-refs 695 702	ingreso
+#63	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 235 242	ingreso
+#64	AnnotatorNotes T45	"Termcat"
+T46	Term-refs 598 605	ingreso
+#65	AnnotatorNotes T46	"Termcat"
+T47	Term-refs 186 193	ingreso
+#66	AnnotatorNotes T47	"Termcat"
+T48	Term-refs 336 343	ingreso
+#67	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 17 24	ingreso
+#68	AnnotatorNotes T49	"Termcat"
+#69	AnnotatorNotes T31	"Termcat"
+T50	Term-refs 1229 1237	personas
+#70	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 1318 1325	persona
+#71	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 753 759	medios
+#72	AnnotatorNotes T52	"Termcat"
+#73	AnnotatorNotes T1	"Termcat"
+#74	AnnotatorNotes T14	"Termcat"
+T53	Term-refs 1284 1290	cuenta
+#75	AnnotatorNotes T53	"Termcat"
+T54	Term-refs 1651 1657	cuenta
+#76	AnnotatorNotes T54	"Termcat"
+T55	Term-refs 798 804	cuenta
+#77	AnnotatorNotes T55	"Termcat"
+#78	AnnotatorNotes T35	"Termcat"
+T56	Term-refs 109 115	demora
+#79	AnnotatorNotes T56	"Termcat"
+T57	Term-refs 480 487	EFECTOS
+#80	AnnotatorNotes T57	"Termcat"
+#81	AnnotatorNotes T11	"Termcat"
+#82	AnnotatorNotes T10	"Termcat"
+T58	Term-refs 525 542	PERIODO EJECUTIVO
+#83	AnnotatorNotes T58	"Termcat"
+T59	Term-refs 422 431	perjuicio
+#84	AnnotatorNotes T59	"Termcat"
+#85	AnnotatorNotes T3	"Termcat"
+#86	AnnotatorNotes T30	"Termcat"
+T60	Term-refs 1575 1585	sucursales
+#87	AnnotatorNotes T60	"Termcat"
+T61	Term-refs 1082 1090	disponer
+#88	AnnotatorNotes T61	"Termcat"
+T62	Term-refs 1517 1525	disponer
+#89	AnnotatorNotes T62	"Termcat"
+#90	AnnotatorNotes T37	"Tributario"
+#91	AnnotatorNotes T38	"Tributario"
+#92	AnnotatorNotes T14	"Tributario"
+#93	AnnotatorNotes T31	"Tributario"
+#94	AnnotatorNotes T7	"Tributario"
+#95	AnnotatorNotes T8	"Tributario"
+#96	AnnotatorNotes T9	"Tributario"
+T63	Term-refs 381 401	fecha de vencimiento
+#97	AnnotatorNotes T63	"Tributario"
+T64	Term-refs 1564 1572	oficinas
+#98	AnnotatorNotes T64	"Tributario"
+#99	AnnotatorNotes T5	"Tributario"
+#100	AnnotatorNotes T6	"Tributario"
+#101	AnnotatorNotes T32	"Tributario"
+#102	AnnotatorNotes T3	"Tributario"
+#103	AnnotatorNotes T4	"Tributario"
+#104	AnnotatorNotes T15	"Tributario"
+#105	AnnotatorNotes T13	"Tributario"
+#106	AnnotatorNotes T10	"Tributario"
+#107	AnnotatorNotes T11	"Tributario"
+#108	AnnotatorNotes T28	"Tributario"
+#109	AnnotatorNotes T21	"Tributario"
+#110	AnnotatorNotes T22	"Tributario"
+#111	AnnotatorNotes T29	"Tributario"
+#112	AnnotatorNotes T16	"Tributario"
+#113	AnnotatorNotes T17	"Tributario"
+#114	AnnotatorNotes T18	"Tributario"
+#115	AnnotatorNotes T19	"Tributario"
+#116	AnnotatorNotes T1	"Tributario"
+#117	AnnotatorNotes T2	"Tributario"
+T65	Term-automatico 129 314	partir del día siguiente al del vencimiento del plazo de ingreso en período voluntario hasta la fecha del ingreso realizado durante el plazo abierto con la notificación de la denegación
+#118	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 695 702	ingreso
+#119	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 598 605	ingreso
+#120	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 17 24	ingreso
+#121	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 336 343	ingreso
+#122	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 1749 1753	pago
+#123	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 1284 1290	cuenta
+#124	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 1651 1657	cuenta
+#125	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 798 804	cuenta
+#126	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 1052 1068	pago electrónico
+#127	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 381 386	fecha
+#128	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 1151 1160	admitidos
+#129	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 1126 1131	firma
+#130	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 1488 1503	pago telefónico
+#131	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 788 794	adeudo
+#132	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 1274 1280	adeudo
+#133	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 1097 1104	sistema
+#134	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 1669 1677	sistemas
+#135	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 31 52	plazo arriba indicado
+#136	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 626 639	procedimiento
+#137	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 1464 1469	horas
+#138	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 966 985	través de la opción
+#139	AnnotatorNotes T86	"AttentionRank"

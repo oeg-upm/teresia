@@ -1,0 +1,231 @@
+T1	Term-refs 1089 1094	firma
+#1	AnnotatorNotes T1	"DPEJ"
+T2	Term-refs 403 417	procedimientos
+#2	AnnotatorNotes T2	"DPEJ"
+T3	Term-refs 1089 1106	firma electrónica
+#3	AnnotatorNotes T3	"DPEJ"
+T4	Term-refs 1060 1067	sistema
+#4	AnnotatorNotes T4	"DPEJ"
+T5	Term-refs 1632 1640	sistemas
+#5	AnnotatorNotes T5	"DPEJ"
+T6	Term-refs 491 504	domiciliación
+#6	AnnotatorNotes T6	"DPEJ"
+T7	Term-refs 10 22	modificación
+#7	AnnotatorNotes T7	"DPEJ"
+T8	Term-refs 366 378	modificación
+#8	AnnotatorNotes T8	"DPEJ"
+T9	Term-refs 509 513	pago
+#9	AnnotatorNotes T9	"DPEJ"
+T10	Term-refs 610 614	pago
+#10	AnnotatorNotes T10	"DPEJ"
+T11	Term-refs 1015 1019	pago
+#11	AnnotatorNotes T11	"DPEJ"
+T12	Term-refs 1451 1455	pago
+#12	AnnotatorNotes T12	"DPEJ"
+T13	Term-refs 1712 1716	pago
+#13	AnnotatorNotes T13	"DPEJ"
+T14	Term-refs 797 803	opción
+#14	AnnotatorNotes T14	"DPEJ"
+T15	Term-refs 942 948	opción
+#15	AnnotatorNotes T15	"DPEJ"
+T16	Term-refs 896 900	Sede
+#16	AnnotatorNotes T16	"DPEJ"
+T17	Term-refs 1562 1571	Entidades
+#17	AnnotatorNotes T17	"DPEJ"
+T18	Term-refs 1739 1746	acuerdo
+#18	AnnotatorNotes T18	"DPEJ"
+T19	Term-refs 1151 1162	Certificado
+#19	AnnotatorNotes T19	"DPEJ"
+T20	Term-refs 119 125	plazos
+#20	AnnotatorNotes T20	"DPEJ"
+T21	Term-refs 276 282	plazos
+#21	AnnotatorNotes T21	"DPEJ"
+T22	Term-refs 622 634	vencimientos
+#22	AnnotatorNotes T22	"DPEJ"
+T23	Term-refs 750 756	adeudo
+#23	AnnotatorNotes T23	"DPEJ"
+T24	Term-refs 1237 1243	adeudo
+#24	AnnotatorNotes T24	"DPEJ"
+T25	Term-refs 1320 1328	Atención
+#25	AnnotatorNotes T25	"DPEJ"
+T26	Term-refs 1151 1174	Certificado electrónico
+#26	AnnotatorNotes T26	"DPEJ"
+T27	Term-refs 1343 1354	Recaudación
+#27	AnnotatorNotes T27	"DPEJ"
+T28	Term-refs 1071 1086	autentificación
+#28	AnnotatorNotes T28	"DPEJ"
+T29	Term-refs 896 912	Sede Electrónica
+#29	AnnotatorNotes T29	"DPEJ"
+T30	Term-refs 638 651	aplazamientos
+#30	AnnotatorNotes T30	"DPEJ"
+T31	Term-refs 654 670	fraccionamientos
+#31	AnnotatorNotes T31	"DPEJ"
+T32	Term-refs 1131 1138	Agencia
+#32	AnnotatorNotes T32	"Termcat"
+#33	AnnotatorNotes T26	"Termcat"
+#34	AnnotatorNotes T17	"Termcat"
+T33	Term-refs 351 362	solicitudes
+#35	AnnotatorNotes T33	"Termcat"
+#36	AnnotatorNotes T29	"Termcat"
+#37	AnnotatorNotes T3	"Termcat"
+#38	AnnotatorNotes T21	"Termcat"
+#39	AnnotatorNotes T20	"Termcat"
+#40	AnnotatorNotes T19	"Termcat"
+T34	Term-refs 957 963	deudas
+#41	AnnotatorNotes T34	"Termcat"
+T35	Term-refs 972 978	deudas
+#42	AnnotatorNotes T35	"Termcat"
+#43	AnnotatorNotes T13	"Termcat"
+#44	AnnotatorNotes T11	"Termcat"
+#45	AnnotatorNotes T12	"Termcat"
+#46	AnnotatorNotes T9	"Termcat"
+#47	AnnotatorNotes T10	"Termcat"
+T36	Term-refs 1192 1208	personas físicas
+#48	AnnotatorNotes T36	"Termcat"
+T37	Term-refs 1281 1295	persona física
+#49	AnnotatorNotes T37	"Termcat"
+T38	Term-refs 987 994	titular
+#50	AnnotatorNotes T38	"Termcat"
+#51	AnnotatorNotes T22	"Termcat"
+#52	AnnotatorNotes T4	"Termcat"
+#53	AnnotatorNotes T5	"Termcat"
+#54	AnnotatorNotes T25	"Termcat"
+#55	AnnotatorNotes T28	"Termcat"
+T39	Term-refs 1192 1200	personas
+#56	AnnotatorNotes T39	"Termcat"
+T40	Term-refs 1281 1288	persona
+#57	AnnotatorNotes T40	"Termcat"
+T41	Term-refs 715 721	medios
+#58	AnnotatorNotes T41	"Termcat"
+#59	AnnotatorNotes T7	"Termcat"
+#60	AnnotatorNotes T8	"Termcat"
+#61	AnnotatorNotes T1	"Termcat"
+#62	AnnotatorNotes T18	"Termcat"
+#63	AnnotatorNotes T30	"Termcat"
+T42	Term-refs 760 766	cuenta
+#64	AnnotatorNotes T42	"Termcat"
+T43	Term-refs 1614 1620	cuenta
+#65	AnnotatorNotes T43	"Termcat"
+T44	Term-refs 1247 1253	cuenta
+#66	AnnotatorNotes T44	"Termcat"
+T45	Term-refs 544 550	cuenta
+#67	AnnotatorNotes T45	"Termcat"
+#68	AnnotatorNotes T6	"Termcat"
+T46	Term-refs 582 589	efectos
+#69	AnnotatorNotes T46	"Termcat"
+T47	Term-refs 252 259	efectos
+#70	AnnotatorNotes T47	"Termcat"
+T48	Term-refs 455 462	efectos
+#71	AnnotatorNotes T48	"Termcat"
+T49	Term-refs 95 102	efectos
+#72	AnnotatorNotes T49	"Termcat"
+#73	AnnotatorNotes T31	"Termcat"
+#74	AnnotatorNotes T14	"Termcat"
+#75	AnnotatorNotes T15	"Termcat"
+#76	AnnotatorNotes T2	"Termcat"
+#77	AnnotatorNotes T27	"Termcat"
+T50	Term-refs 1538 1548	sucursales
+#78	AnnotatorNotes T50	"Termcat"
+T51	Term-refs 1480 1488	disponer
+#79	AnnotatorNotes T51	"Termcat"
+T52	Term-refs 1045 1053	disponer
+#80	AnnotatorNotes T52	"Termcat"
+#81	AnnotatorNotes T33	"Tributario"
+#82	AnnotatorNotes T18	"Tributario"
+#83	AnnotatorNotes T31	"Tributario"
+#84	AnnotatorNotes T28	"Tributario"
+#85	AnnotatorNotes T9	"Tributario"
+#86	AnnotatorNotes T10	"Tributario"
+#87	AnnotatorNotes T11	"Tributario"
+#88	AnnotatorNotes T12	"Tributario"
+#89	AnnotatorNotes T13	"Tributario"
+T53	Term-refs 82 85	mes
+#90	AnnotatorNotes T53	"Tributario"
+T54	Term-refs 169 172	mes
+#91	AnnotatorNotes T54	"Tributario"
+T55	Term-refs 239 242	mes
+#92	AnnotatorNotes T55	"Tributario"
+T56	Term-refs 327 330	mes
+#93	AnnotatorNotes T56	"Tributario"
+T57	Term-refs 1527 1535	oficinas
+#94	AnnotatorNotes T57	"Tributario"
+#95	AnnotatorNotes T4	"Tributario"
+#96	AnnotatorNotes T5	"Tributario"
+#97	AnnotatorNotes T7	"Tributario"
+#98	AnnotatorNotes T8	"Tributario"
+#99	AnnotatorNotes T29	"Tributario"
+#100	AnnotatorNotes T2	"Tributario"
+#101	AnnotatorNotes T3	"Tributario"
+#102	AnnotatorNotes T19	"Tributario"
+#103	AnnotatorNotes T17	"Tributario"
+#104	AnnotatorNotes T14	"Tributario"
+#105	AnnotatorNotes T15	"Tributario"
+#106	AnnotatorNotes T22	"Tributario"
+#107	AnnotatorNotes T26	"Tributario"
+#108	AnnotatorNotes T20	"Tributario"
+#109	AnnotatorNotes T21	"Tributario"
+#110	AnnotatorNotes T1	"Tributario"
+T58	Term-automatico 531 589	través de la cuenta inicialmente designada a estos efectos
+#111	AnnotatorNotes T58	"AttentionRank"
+T59	Term-automatico 1712 1716	pago
+#112	AnnotatorNotes T59	"AttentionRank"
+T60	Term-automatico 509 513	pago
+#113	AnnotatorNotes T60	"AttentionRank"
+T61	Term-automatico 610 614	pago
+#114	AnnotatorNotes T61	"AttentionRank"
+T62	Term-automatico 1451 1455	pago
+#115	AnnotatorNotes T62	"AttentionRank"
+T63	Term-automatico 260 282	respecto de los plazos
+#116	AnnotatorNotes T63	"AttentionRank"
+T64	Term-automatico 103 125	respecto de los plazos
+#117	AnnotatorNotes T64	"AttentionRank"
+T65	Term-automatico 82 85	mes
+#118	AnnotatorNotes T65	"AttentionRank"
+T66	Term-automatico 169 172	mes
+#119	AnnotatorNotes T66	"AttentionRank"
+T67	Term-automatico 239 242	mes
+#120	AnnotatorNotes T67	"AttentionRank"
+T68	Term-automatico 327 330	mes
+#121	AnnotatorNotes T68	"AttentionRank"
+T69	Term-automatico 1237 1243	adeudo
+#122	AnnotatorNotes T69	"AttentionRank"
+T70	Term-automatico 750 756	adeudo
+#123	AnnotatorNotes T70	"AttentionRank"
+T71	Term-automatico 66 70	días
+#124	AnnotatorNotes T71	"AttentionRank"
+T72	Term-automatico 159 162	día
+#125	AnnotatorNotes T72	"AttentionRank"
+T73	Term-automatico 316 319	día
+#126	AnnotatorNotes T73	"AttentionRank"
+T74	Term-automatico 218 221	día
+#127	AnnotatorNotes T74	"AttentionRank"
+T75	Term-automatico 760 766	cuenta
+#128	AnnotatorNotes T75	"AttentionRank"
+T76	Term-automatico 1614 1620	cuenta
+#129	AnnotatorNotes T76	"AttentionRank"
+T77	Term-automatico 1247 1253	cuenta
+#130	AnnotatorNotes T77	"AttentionRank"
+T78	Term-automatico 285 295	fracciones
+#131	AnnotatorNotes T78	"AttentionRank"
+T79	Term-automatico 128 138	fracciones
+#132	AnnotatorNotes T79	"AttentionRank"
+T80	Term-automatico 252 259	efectos
+#133	AnnotatorNotes T80	"AttentionRank"
+T81	Term-automatico 455 462	efectos
+#134	AnnotatorNotes T81	"AttentionRank"
+T82	Term-automatico 95 102	efectos
+#135	AnnotatorNotes T82	"AttentionRank"
+T83	Term-automatico 654 670	fraccionamientos
+#136	AnnotatorNotes T83	"AttentionRank"
+T84	Term-automatico 929 948	través de la opción
+#137	AnnotatorNotes T84	"AttentionRank"
+T85	Term-automatico 10 22	modificación
+#138	AnnotatorNotes T85	"AttentionRank"
+T86	Term-automatico 366 378	modificación
+#139	AnnotatorNotes T86	"AttentionRank"
+T87	Term-automatico 1015 1031	pago electrónico
+#140	AnnotatorNotes T87	"AttentionRank"
+T88	Term-automatico 638 651	aplazamientos
+#141	AnnotatorNotes T88	"AttentionRank"
+T89	Term-automatico 491 504	domiciliación
+#142	AnnotatorNotes T89	"AttentionRank"
