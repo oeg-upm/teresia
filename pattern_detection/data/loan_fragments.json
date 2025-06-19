@@ -1,0 +1,37 @@
+[
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, en (español|inglés|francés|alemán|portugués))",
+    "term": "sesgo de confirmación",
+    "fragment": "En los estudios de toma de decisiones, el sesgo de confirmación, en inglés \"confirmation bias\", se refiere a la tendencia a buscar, interpretar y recordar información de forma que confirme las propias creencias, ignorando o minimizando datos contradictorios para mantener la coherencia cognitiva."
+  },
+  {
+    "pattern": "(?P<context>también conocido en (español|inglés|francés|alemán|portugués) como)",
+    "term": "procrastinación",
+    "fragment": "Este comportamiento, también conocido en alemán como \"Aufschieberitis\", se caracteriza por el aplazamiento voluntario de tareas necesarias, acompañado de una sensación subjetiva de urgencia que provoca estrés cuando se acerca el plazo de entrega."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,5} proviene del \\w{4,11})",
+    "term": "autoencoder",
+    "fragment": "En el campo del aprendizaje profundo, el autoencoder proviene del griego y se utiliza para aprender representaciones compactas de los datos de entrada mediante un esquema de codificación y decodificación que minimiza la pérdida de información."
+  },
+  {
+    "pattern": "(?P<context>proviene del \\w{4,11} )(?P<term>__TERM__)",
+    "term": "psicología",
+    "fragment": "La etimología de la palabra proviene del griego psicología y describe la disciplina científica dedicada al estudio de la mente, los procesos cognitivos y el comportamiento humano tanto en contextos normales como patológicos."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, que proviene del \\w{4,11})",
+    "term": "neuroplasticidad",
+    "fragment": "La neuroplasticidad, que proviene del griego, hace referencia a la capacidad del sistema nervioso para reorganizar sus conexiones estructurales y funcionales en respuesta a experiencias, aprendizajes y lesiones, facilitando la adaptación y recuperación cerebral."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, que se origina en el \\w{4,11})",
+    "term": "overfitting",
+    "fragment": "El fenómeno overfitting, que se origina en el inglés, ocurre cuando un modelo de machine learning ajusta excesivamente sus parámetros a los datos de entrenamiento, perdiendo capacidad de generalización y obteniendo malos resultantes en datos nuevos."
+  },
+  {
+    "pattern": "(?P<context>que se origina en el \\w{4,11} )(?P<term>__TERM__)",
+    "term": "memoria",
+    "fragment": "En los enfoques cognitivos, se origina en el latín memoria como concepto central para describir el proceso mediante el cual el cerebro codifica, almacena y recupera información a lo largo del tiempo."
+  }
+]
