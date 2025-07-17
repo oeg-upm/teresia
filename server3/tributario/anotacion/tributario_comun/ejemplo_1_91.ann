@@ -1,0 +1,121 @@
+T1	Term-DPEJ 696 709	requerimiento
+T2	Term-DPEJ 896 909	requerimiento
+T3	Term-DPEJ 1143 1156	requerimiento
+T4	Term-DPEJ 783 791	embargos
+T5	Term-DPEJ 939 958	medios electrónicos
+T6	Term-DPEJ 1515 1519	caso
+T7	Term-DPEJ 546 553	hábiles
+T8	Term-DPEJ 407 420	documentación
+T9	Term-DPEJ 1563 1567	pago
+T10	Term-DPEJ 757 763	opción
+T11	Term-DPEJ 986 993	acuerdo
+T12	Term-DPEJ 1460 1467	recargo
+T13	Term-DPEJ 522 527	plazo
+T14	Term-DPEJ 1163 1168	plazo
+T15	Term-DPEJ 113 118	Anexo
+T16	Term-DPEJ 394 399	Anexo
+T17	Term-DPEJ 913 918	datos
+T18	Term-DPEJ 129 138	documento
+T19	Term-DPEJ 658 667	documento
+T20	Term-DPEJ 251 261	documentos
+T21	Term-DPEJ 361 371	documentos
+T22	Term-DPEJ 922 934	presentación
+T23	Term-DPEJ 541 553	días hábiles
+T24	Term-DPEJ 1554 1559	fecha
+T25	Term-DPEJ 37 49	aplazamiento
+T26	Term-DPEJ 773 781	apremios
+T27	Term-DPEJ 52 67	fraccionamiento
+T28	Term-DPEJ 738 747	dirección
+T29	Term-Termcat 541 553	días hábiles
+T30	Term-Termcat 1210 1219	solicitud
+T31	Term-Termcat 24 33	solicitud
+T32	Term-Termcat 1310 1319	solicitud
+T33	Term-Termcat 939 958	medios electrónicos
+T34	Term-Termcat 696 709	requerimiento
+T35	Term-Termcat 896 909	requerimiento
+T36	Term-Termcat 1143 1156	requerimiento
+T37	Term-Termcat 1163 1168	plazo
+T38	Term-Termcat 522 527	plazo
+T39	Term-Termcat 6 17	tramitación
+T40	Term-Termcat 88 94	deudas
+T41	Term-Termcat 1279 1285	deudas
+T42	Term-Termcat 877 883	deudas
+T43	Term-Termcat 765 771	Deudas
+T44	Term-Termcat 1574 1579	deuda
+T45	Term-Termcat 1563 1567	pago
+T46	Term-Termcat 794 802	subastas
+T47	Term-Termcat 113 118	Anexo
+T48	Term-Termcat 394 399	Anexo
+T49	Term-Termcat 1244 1251	trámite
+T50	Term-Termcat 738 747	dirección
+T51	Term-Termcat 1400 1407	ingreso
+T52	Term-Termcat 185 195	requisitos
+T53	Term-Termcat 783 791	embargos
+T54	Term-Termcat 1116 1122	medios
+T55	Term-Termcat 939 945	medios
+T56	Term-Termcat 986 993	acuerdo
+T57	Term-Termcat 37 49	aplazamiento
+T58	Term-Termcat 773 781	apremios
+T59	Term-Termcat 1538 1544	demora
+T60	Term-Termcat 593 601	festivos
+T61	Term-Termcat 658 667	documento
+T62	Term-Termcat 129 138	documento
+T63	Term-Termcat 361 371	documentos
+T64	Term-Termcat 251 261	documentos
+T65	Term-Termcat 457 465	registro
+T66	Term-Termcat 52 67	fraccionamiento
+T67	Term-Termcat 1001 1010	normativa
+T68	Term-Termcat 215 224	normativa
+T69	Term-Termcat 757 763	opción
+T70	Term-Termcat 1424 1441	periodo ejecutivo
+T71	Term-Termcat 1472 1489	periodo ejecutivo
+T72	Term-Termcat 1338 1356	periodo voluntario
+T73	Term-Termcat 1460 1467	recargo
+T74	Term-Termcat 1011 1018	vigente
+T75	Term-Termcat 407 420	documentación
+T76	Term-Termcat 640 649	recepción
+T77	Term-Tributario 24 33	solicitud
+T78	Term-Tributario 1210 1219	solicitud
+T79	Term-Tributario 1310 1319	solicitud
+T80	Term-Tributario 986 993	acuerdo
+T81	Term-Tributario 52 67	fraccionamiento
+T82	Term-Tributario 1563 1567	pago
+T83	Term-Tributario 922 934	presentación
+T84	Term-Tributario 113 118	Anexo
+T85	Term-Tributario 394 399	Anexo
+T86	Term-Tributario 492 499	oficina
+T87	Term-Tributario 1296 1303	momento
+T88	Term-Tributario 696 709	requerimiento
+T89	Term-Tributario 896 909	requerimiento
+T90	Term-Tributario 1143 1156	requerimiento
+T91	Term-Tributario 757 763	opción
+T92	Term-Tributario 913 918	datos
+T93	Term-Tributario 738 747	dirección
+T94	Term-Tributario 541 553	días hábiles
+T95	Term-Tributario 522 527	plazo
+T96	Term-Tributario 1163 1168	plazo
+T97	Term-AttentionRank 621 667	día siguiente a la recepción de este documento
+T98	Term-AttentionRank 88 94	deudas
+T99	Term-AttentionRank 1279 1285	deudas
+T100	Term-AttentionRank 877 883	deudas
+T101	Term-AttentionRank 765 771	Deudas
+T102	Term-AttentionRank 1574 1579	deuda
+T103	Term-AttentionRank 696 709	requerimiento
+T104	Term-AttentionRank 896 909	requerimiento
+T105	Term-AttentionRank 1143 1156	requerimiento
+T106	Term-AttentionRank 986 1018	acuerdo con la normativa vigente
+T107	Term-AttentionRank 1424 1441	periodo ejecutivo
+T108	Term-AttentionRank 1472 1489	periodo ejecutivo
+T109	Term-AttentionRank 1210 1219	solicitud
+T110	Term-AttentionRank 24 33	solicitud
+T111	Term-AttentionRank 1310 1319	solicitud
+T112	Term-AttentionRank 1099 1122	través de dichos medios
+T113	Term-AttentionRank 1338 1356	periodo voluntario
+T114	Term-AttentionRank 522 534	plazo máximo
+T115	Term-AttentionRank 783 791	embargos
+T116	Term-AttentionRank 541 553	días hábiles
+T117	Term-AttentionRank 738 747	dirección
+T118	Term-AttentionRank 773 781	apremios
+T119	Term-AttentionRank 361 371	documentos
+T120	Term-AttentionRank 251 261	documentos
+T121	Term-AttentionRank 407 431	documentación solicitada

@@ -1,0 +1,141 @@
+T1	Term-DPEJ 1443 1457	requerimientos
+T2	Term-DPEJ 1513 1520	Gestión
+T3	Term-DPEJ 943 955	notificación
+T4	Term-DPEJ 203 207	caso
+T5	Term-DPEJ 497 502	casos
+T6	Term-DPEJ 919 926	hábiles
+T7	Term-DPEJ 1633 1638	hábil
+T8	Term-DPEJ 1162 1175	domiciliación
+T9	Term-DPEJ 132 154	vencimiento anticipado
+T10	Term-DPEJ 808 812	pago
+T11	Term-DPEJ 1189 1193	pago
+T12	Term-DPEJ 1347 1353	opción
+T13	Term-DPEJ 469 473	sede
+T14	Term-DPEJ 1253 1257	Sede
+T15	Term-DPEJ 747 754	acuerdo
+T16	Term-DPEJ 964 971	acuerdo
+T17	Term-DPEJ 640 646	plazos
+T18	Term-DPEJ 1005 1011	plazos
+T19	Term-DPEJ 1202 1208	plazos
+T20	Term-DPEJ 900 905	plazo
+T21	Term-DPEJ 1068 1073	plazo
+T22	Term-DPEJ 132 143	vencimiento
+T23	Term-DPEJ 719 730	vencimiento
+T24	Term-DPEJ 1552 1563	vencimiento
+T25	Term-DPEJ 375 383	atención
+T26	Term-DPEJ 417 425	Atención
+T27	Term-DPEJ 611 620	documento
+T28	Term-DPEJ 914 926	días hábiles
+T29	Term-DPEJ 1629 1638	día hábil
+T30	Term-DPEJ 469 485	sede electrónica
+T31	Term-DPEJ 1253 1269	Sede Electrónica
+T32	Term-DPEJ 709 715	fechas
+T33	Term-DPEJ 854 866	aplazamiento
+T34	Term-DPEJ 1479 1492	aplazamientos
+T35	Term-DPEJ 1524 1537	aplazamientos
+T36	Term-DPEJ 387 400	contribuyente
+T37	Term-DPEJ 869 884	fraccionamiento
+T38	Term-DPEJ 1495 1511	fraccionamientos
+T39	Term-DPEJ 1326 1335	dirección
+T40	Term-Termcat 1276 1283	Agencia
+T41	Term-Termcat 914 926	días hábiles
+T42	Term-Termcat 1629 1638	día hábil
+T43	Term-Termcat 55 64	solicitud
+T44	Term-Termcat 943 955	notificación
+T45	Term-Termcat 1443 1457	requerimientos
+T46	Term-Termcat 469 485	sede electrónica
+T47	Term-Termcat 1253 1269	Sede Electrónica
+T48	Term-Termcat 1202 1208	plazos
+T49	Term-Termcat 640 646	plazos
+T50	Term-Termcat 1005 1011	plazos
+T51	Term-Termcat 1068 1073	plazo
+T52	Term-Termcat 900 905	plazo
+T53	Term-Termcat 543 549	Seguro
+T54	Term-Termcat 68 80	compensación
+T55	Term-Termcat 1403 1409	deudas
+T56	Term-Termcat 162 168	deudas
+T57	Term-Termcat 808 812	pago
+T58	Term-Termcat 1189 1193	pago
+T59	Term-Termcat 1552 1563	vencimiento
+T60	Term-Termcat 719 730	vencimiento
+T61	Term-Termcat 132 143	vencimiento
+T62	Term-Termcat 536 542	Código
+T63	Term-Termcat 1355 1363	Trámites
+T64	Term-Termcat 1295 1309	Administración
+T65	Term-Termcat 375 383	atención
+T66	Term-Termcat 417 425	Atención
+T67	Term-Termcat 1326 1335	dirección
+T68	Term-Termcat 990 997	ingreso
+T69	Term-Termcat 832 840	vigencia
+T70	Term-Termcat 747 754	acuerdo
+T71	Term-Termcat 964 971	acuerdo
+T72	Term-Termcat 1295 1320	Administración Tributaria
+T73	Term-Termcat 854 866	aplazamiento
+T74	Term-Termcat 1524 1537	aplazamientos
+T75	Term-Termcat 1479 1492	aplazamientos
+T76	Term-Termcat 762 768	cuenta
+T77	Term-Termcat 1137 1143	cuenta
+T78	Term-Termcat 387 400	contribuyente
+T79	Term-Termcat 666 672	demora
+T80	Term-Termcat 258 264	demora
+T81	Term-Termcat 1588 1595	festivo
+T82	Term-Termcat 611 620	documento
+T83	Term-Termcat 1162 1175	domiciliación
+T84	Term-Termcat 869 884	fraccionamiento
+T85	Term-Termcat 1495 1511	fraccionamientos
+T86	Term-Termcat 1513 1520	Gestión
+T87	Term-Termcat 1347 1353	opción
+T88	Term-Termcat 314 320	acudir
+T89	Term-Termcat 278 289	procedentes
+T90	Term-Tributario 55 64	solicitud
+T91	Term-Tributario 747 754	acuerdo
+T92	Term-Tributario 964 971	acuerdo
+T93	Term-Tributario 869 884	fraccionamiento
+T94	Term-Tributario 1495 1511	fraccionamientos
+T95	Term-Tributario 808 812	pago
+T96	Term-Tributario 1189 1193	pago
+T97	Term-Tributario 1137 1152	cuenta bancaria
+T98	Term-Tributario 332 340	oficinas
+T99	Term-Tributario 536 542	Código
+T100	Term-Tributario 469 485	sede electrónica
+T101	Term-Tributario 1253 1269	Sede Electrónica
+T102	Term-Tributario 387 400	contribuyente
+T103	Term-Tributario 22 29	momento
+T104	Term-Tributario 1443 1457	requerimientos
+T105	Term-Tributario 1347 1353	opción
+T106	Term-Tributario 543 549	Seguro
+T107	Term-Tributario 132 143	vencimiento
+T108	Term-Tributario 719 730	vencimiento
+T109	Term-Tributario 1552 1563	vencimiento
+T110	Term-Tributario 1326 1335	dirección
+T111	Term-Tributario 914 926	días hábiles
+T112	Term-Tributario 1629 1638	día hábil
+T113	Term-Tributario 640 646	plazos
+T114	Term-Tributario 1005 1011	plazos
+T115	Term-Tributario 1202 1208	plazos
+T116	Term-Tributario 900 905	plazo
+T117	Term-Tributario 1068 1073	plazo
+T118	Term-Tributario 943 955	notificación
+T119	Term-AttentionRank 132 178	vencimiento anticipado de las deudas aplazadas
+T120	Term-AttentionRank 1202 1208	plazos
+T121	Term-AttentionRank 640 646	plazos
+T122	Term-AttentionRank 1068 1073	plazo
+T123	Term-AttentionRank 900 905	plazo
+T124	Term-AttentionRank 469 485	sede electrónica
+T125	Term-AttentionRank 1253 1269	Sede Electrónica
+T126	Term-AttentionRank 869 884	fraccionamiento
+T127	Term-AttentionRank 1495 1511	fraccionamientos
+T128	Term-AttentionRank 719 754	vencimiento señaladas en el acuerdo
+T129	Term-AttentionRank 1524 1537	aplazamientos
+T130	Term-AttentionRank 1479 1492	aplazamientos
+T131	Term-AttentionRank 1162 1184	domiciliación bancaria
+T132	Term-AttentionRank 1005 1022	plazos concedidos
+T133	Term-AttentionRank 578 602	pie de la primera página
+T134	Term-AttentionRank 808 812	pago
+T135	Term-AttentionRank 1189 1193	pago
+T136	Term-AttentionRank 1629 1648	día hábil inmediato
+T137	Term-AttentionRank 68 103	compensación señalada anteriormente
+T138	Term-AttentionRank 914 918	días
+T139	Term-AttentionRank 1545 1548	día
+T140	Term-AttentionRank 1403 1409	deudas
+T141	Term-AttentionRank 930 955	partir de la notificación

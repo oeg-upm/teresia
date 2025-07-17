@@ -1,0 +1,168 @@
+T1	Term-DPEJ 102 115	requerimiento
+T2	Term-DPEJ 242 255	requerimiento
+T3	Term-DPEJ 1766 1772	número
+T4	Term-DPEJ 765 771	bienes
+T5	Term-DPEJ 0 12	NOTIFICACIÓN
+T6	Term-DPEJ 589 601	notificación
+T7	Term-DPEJ 835 847	notificación
+T8	Term-DPEJ 552 565	procedimiento
+T9	Term-DPEJ 692 705	procedimiento
+T10	Term-DPEJ 783 787	caso
+T11	Term-DPEJ 1470 1474	caso
+T12	Term-DPEJ 1225 1232	escrito
+T13	Term-DPEJ 208 212	pago
+T14	Term-DPEJ 1336 1347	reclamación
+T15	Term-DPEJ 1182 1196	encabezamiento
+T16	Term-DPEJ 262 267	plazo
+T17	Term-DPEJ 485 490	plazo
+T18	Term-DPEJ 1010 1015	plazo
+T19	Term-DPEJ 552 576	procedimiento de apremio
+T20	Term-DPEJ 692 716	procedimiento de apremio
+T21	Term-DPEJ 1115 1136	recurso de reposición
+T22	Term-DPEJ 1609 1617	relación
+T23	Term-DPEJ 469 480	vencimiento
+T24	Term-DPEJ 1662 1678	domicilio fiscal
+T25	Term-DPEJ 119 124	datos
+T26	Term-DPEJ 127 137	documentos
+T27	Term-DPEJ 1084 1093	documento
+T28	Term-DPEJ 1205 1214	documento
+T29	Term-DPEJ 1776 1786	expediente
+T30	Term-DPEJ 1662 1671	domicilio
+T31	Term-DPEJ 1691 1700	domicilio
+T32	Term-DPEJ 1158 1164	órgano
+T33	Term-DPEJ 78 83	fecha
+T34	Term-DPEJ 340 345	fecha
+T35	Term-DPEJ 1755 1760	fecha
+T36	Term-DPEJ 1126 1136	reposición
+T37	Term-DPEJ 44 56	APLAZAMIENTO
+T38	Term-DPEJ 174 186	aplazamiento
+T39	Term-DPEJ 569 576	apremio
+T40	Term-DPEJ 709 716	apremio
+T41	Term-DPEJ 59 74	FRACCIONAMIENTO
+T42	Term-DPEJ 189 204	fraccionamiento
+T43	Term-Termcat 31 40	SOLICITUD
+T44	Term-Termcat 627 636	solicitud
+T45	Term-Termcat 919 928	solicitud
+T46	Term-Termcat 819 828	solicitud
+T47	Term-Termcat 309 318	solicitud
+T48	Term-Termcat 161 170	solicitud
+T49	Term-Termcat 354 363	solicitud
+T50	Term-Termcat 0 12	NOTIFICACIÓN
+T51	Term-Termcat 589 601	notificación
+T52	Term-Termcat 835 847	notificación
+T53	Term-Termcat 877 884	recurso
+T54	Term-Termcat 1621 1628	recurso
+T55	Term-Termcat 1115 1136	recurso de reposición
+T56	Term-Termcat 242 255	requerimiento
+T57	Term-Termcat 102 115	requerimiento
+T58	Term-Termcat 1010 1015	plazo
+T59	Term-Termcat 485 490	plazo
+T60	Term-Termcat 262 267	plazo
+T61	Term-Termcat 857 861	acto
+T62	Term-Termcat 1734 1738	acto
+T63	Term-Termcat 1295 1299	acto
+T64	Term-Termcat 750 761	enajenación
+T65	Term-Termcat 765 771	bienes
+T66	Term-Termcat 1662 1671	domicilio
+T67	Term-Termcat 1691 1700	domicilio
+T68	Term-Termcat 1526 1532	nombre
+T69	Term-Termcat 1428 1434	nombre
+T70	Term-Termcat 208 212	pago
+T71	Term-Termcat 1336 1347	reclamación
+T72	Term-Termcat 1500 1513	representante
+T73	Term-Termcat 469 480	vencimiento
+T74	Term-Termcat 494 501	ingreso
+T75	Term-Termcat 1182 1196	encabezamiento
+T76	Term-Termcat 735 746	actuaciones
+T77	Term-Termcat 44 56	APLAZAMIENTO
+T78	Term-Termcat 174 186	aplazamiento
+T79	Term-Termcat 750 771	enajenación de bienes
+T80	Term-Termcat 17 24	ARCHIVO
+T81	Term-Termcat 1279 1287	conforme
+T82	Term-Termcat 709 716	apremio
+T83	Term-Termcat 569 576	apremio
+T84	Term-Termcat 127 137	documentos
+T85	Term-Termcat 1084 1093	documento
+T86	Term-Termcat 1205 1214	documento
+T87	Term-Termcat 1662 1678	domicilio fiscal
+T88	Term-Termcat 371 378	efectos
+T89	Term-Termcat 1776 1786	expediente
+T90	Term-Termcat 59 74	FRACCIONAMIENTO
+T91	Term-Termcat 189 212	fraccionamiento de pago
+T92	Term-Termcat 1319 1324	haber
+T93	Term-Termcat 1412 1423	información
+T94	Term-Termcat 954 960	motivo
+T95	Term-Termcat 1158 1164	órgano
+T96	Term-Termcat 652 669	periodo ejecutivo
+T97	Term-Termcat 427 444	periodo ejecutivo
+T98	Term-Termcat 382 400	periodo voluntario
+T99	Term-Termcat 505 523	periodo voluntario
+T100	Term-Termcat 692 705	procedimiento
+T101	Term-Termcat 552 565	procedimiento
+T102	Term-Termcat 608 619	providencia
+T103	Term-Termcat 1437 1449	razón social
+T104	Term-Termcat 980 988	recurrir
+T105	Term-Termcat 1672 1678	fiscal
+T106	Term-Termcat 1066 1075	recepción
+T107	Term-Termcat 1115 1122	recurso
+T108	Term-Tributario 31 40	SOLICITUD
+T109	Term-Tributario 161 170	solicitud
+T110	Term-Tributario 309 318	solicitud
+T111	Term-Tributario 354 363	solicitud
+T112	Term-Tributario 627 636	solicitud
+T113	Term-Tributario 819 828	solicitud
+T114	Term-Tributario 919 928	solicitud
+T115	Term-Tributario 59 74	FRACCIONAMIENTO
+T116	Term-Tributario 189 204	fraccionamiento
+T117	Term-Tributario 208 212	pago
+T118	Term-Tributario 1022 1025	mes
+T119	Term-Tributario 1776 1786	expediente
+T120	Term-Tributario 877 884	recurso
+T121	Term-Tributario 1115 1122	recurso
+T122	Term-Tributario 1621 1628	recurso
+T123	Term-Tributario 1662 1678	domicilio fiscal
+T124	Term-Tributario 1336 1347	reclamación
+T125	Term-Tributario 608 619	providencia
+T126	Term-Tributario 552 565	procedimiento
+T127	Term-Tributario 692 705	procedimiento
+T128	Term-Tributario 1437 1442	razón
+T129	Term-Tributario 102 115	requerimiento
+T130	Term-Tributario 242 255	requerimiento
+T131	Term-Tributario 119 124	datos
+T132	Term-Tributario 469 480	vencimiento
+T133	Term-Tributario 262 267	plazo
+T134	Term-Tributario 485 490	plazo
+T135	Term-Tributario 1010 1015	plazo
+T136	Term-Tributario 0 12	NOTIFICACIÓN
+T137	Term-Tributario 589 601	notificación
+T138	Term-Tributario 835 847	notificación
+T139	Term-AttentionRank 448 523	día siguiente al del vencimiento del plazo de ingreso en periodo voluntario
+T140	Term-AttentionRank 1022 1093	mes contado desde el día siguiente al de la recepción de este documento
+T141	Term-AttentionRank 692 716	procedimiento de apremio
+T142	Term-AttentionRank 552 576	procedimiento de apremio
+T143	Term-AttentionRank 31 40	SOLICITUD
+T144	Term-AttentionRank 627 636	solicitud
+T145	Term-AttentionRank 919 928	solicitud
+T146	Term-AttentionRank 819 828	solicitud
+T147	Term-AttentionRank 309 318	solicitud
+T148	Term-AttentionRank 161 170	solicitud
+T149	Term-AttentionRank 354 363	solicitud
+T150	Term-AttentionRank 1642 1678	lugar distinto a su domicilio fiscal
+T151	Term-AttentionRank 857 861	acto
+T152	Term-AttentionRank 1734 1738	acto
+T153	Term-AttentionRank 1295 1299	acto
+T154	Term-AttentionRank 1010 1015	plazo
+T155	Term-AttentionRank 652 669	periodo ejecutivo
+T156	Term-AttentionRank 427 444	periodo ejecutivo
+T157	Term-AttentionRank 877 884	recurso
+T158	Term-AttentionRank 1621 1628	recurso
+T159	Term-AttentionRank 1115 1122	recurso
+T160	Term-AttentionRank 382 400	periodo voluntario
+T161	Term-AttentionRank 1755 1760	fecha
+T162	Term-AttentionRank 78 83	fecha
+T163	Term-AttentionRank 340 345	fecha
+T164	Term-AttentionRank 0 12	NOTIFICACIÓN
+T165	Term-AttentionRank 589 601	notificación
+T166	Term-AttentionRank 835 847	notificación
+T167	Term-AttentionRank 1490 1513	través de representante
+T168	Term-AttentionRank 262 282	plazo señalado en el

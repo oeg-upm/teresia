@@ -1,0 +1,152 @@
+T1	Term-DPEJ 1284 1289	firma
+T2	Term-DPEJ 1284 1301	firma electrónica
+T3	Term-DPEJ 1255 1262	sistema
+T4	Term-DPEJ 822 827	hábil
+T5	Term-DPEJ 27 31	pago
+T6	Term-DPEJ 402 406	pago
+T7	Term-DPEJ 436 440	pago
+T8	Term-DPEJ 556 560	pago
+T9	Term-DPEJ 677 681	pago
+T10	Term-DPEJ 747 751	pago
+T11	Term-DPEJ 810 814	pago
+T12	Term-DPEJ 1210 1214	pago
+T13	Term-DPEJ 1646 1650	pago
+T14	Term-DPEJ 992 998	opción
+T15	Term-DPEJ 1137 1143	opción
+T16	Term-DPEJ 1091 1095	Sede
+T17	Term-DPEJ 1346 1357	Certificado
+T18	Term-DPEJ 475 481	plazos
+T19	Term-DPEJ 547 552	plazo
+T20	Term-DPEJ 668 673	plazo
+T21	Term-DPEJ 801 806	plazo
+T22	Term-DPEJ 945 951	adeudo
+T23	Term-DPEJ 1432 1438	adeudo
+T24	Term-DPEJ 1515 1523	Atención
+T25	Term-DPEJ 310 315	Anexo
+T26	Term-DPEJ 1346 1369	Certificado electrónico
+T27	Term-DPEJ 503 512	documento
+T28	Term-DPEJ 619 628	documento
+T29	Term-DPEJ 818 827	día hábil
+T30	Term-DPEJ 1538 1549	Recaudación
+T31	Term-DPEJ 1266 1281	autentificación
+T32	Term-DPEJ 1091 1107	Sede Electrónica
+T33	Term-Termcat 1326 1333	Agencia
+T34	Term-Termcat 1346 1369	Certificado electrónico
+T35	Term-Termcat 818 827	día hábil
+T36	Term-Termcat 66 75	solicitud
+T37	Term-Termcat 1091 1107	Sede Electrónica
+T38	Term-Termcat 1284 1301	firma electrónica
+T39	Term-Termcat 475 481	plazos
+T40	Term-Termcat 801 806	plazo
+T41	Term-Termcat 668 673	plazo
+T42	Term-Termcat 547 552	plazo
+T43	Term-Termcat 427 440	carta de pago
+T44	Term-Termcat 1346 1357	Certificado
+T45	Term-Termcat 1152 1158	deudas
+T46	Term-Termcat 1167 1173	deudas
+T47	Term-Termcat 287 293	deudas
+T48	Term-Termcat 53 59	deudas
+T49	Term-Termcat 413 418	deuda
+T50	Term-Termcat 402 406	pago
+T51	Term-Termcat 27 31	pago
+T52	Term-Termcat 677 681	pago
+T53	Term-Termcat 1210 1214	pago
+T54	Term-Termcat 747 751	pago
+T55	Term-Termcat 1646 1650	pago
+T56	Term-Termcat 556 560	pago
+T57	Term-Termcat 810 814	pago
+T58	Term-Termcat 1387 1403	personas físicas
+T59	Term-Termcat 1476 1490	persona física
+T60	Term-Termcat 1182 1189	titular
+T61	Term-Termcat 310 315	Anexo
+T62	Term-Termcat 1255 1262	sistema
+T63	Term-Termcat 1515 1523	Atención
+T64	Term-Termcat 852 859	ingreso
+T65	Term-Termcat 163 173	requisitos
+T66	Term-Termcat 1266 1281	autentificación
+T67	Term-Termcat 376 381	euros
+T68	Term-Termcat 1387 1395	personas
+T69	Term-Termcat 1476 1483	persona
+T70	Term-Termcat 910 916	medios
+T71	Term-Termcat 1284 1289	firma
+T72	Term-Termcat 427 432	carta
+T73	Term-Termcat 1442 1448	cuenta
+T74	Term-Termcat 955 961	cuenta
+T75	Term-Termcat 254 260	demora
+T76	Term-Termcat 139 145	demora
+T77	Term-Termcat 776 783	festivo
+T78	Term-Termcat 503 512	documento
+T79	Term-Termcat 619 628	documento
+T80	Term-Termcat 190 199	normativa
+T81	Term-Termcat 992 998	opción
+T82	Term-Termcat 1137 1143	opción
+T83	Term-Termcat 436 440	pago
+T84	Term-Termcat 1538 1549	Recaudación
+T85	Term-Termcat 200 207	vigente
+T86	Term-Termcat 1675 1683	disponer
+T87	Term-Termcat 1240 1248	disponer
+T88	Term-Termcat 106 116	procedente
+T89	Term-Tributario 66 75	solicitud
+T90	Term-Tributario 1266 1281	autentificación
+T91	Term-Tributario 27 31	pago
+T92	Term-Tributario 402 406	pago
+T93	Term-Tributario 436 440	pago
+T94	Term-Tributario 556 560	pago
+T95	Term-Tributario 677 681	pago
+T96	Term-Tributario 747 751	pago
+T97	Term-Tributario 810 814	pago
+T98	Term-Tributario 1210 1214	pago
+T99	Term-Tributario 1646 1650	pago
+T100	Term-Tributario 539 542	mes
+T101	Term-Tributario 584 587	mes
+T102	Term-Tributario 660 663	mes
+T103	Term-Tributario 712 715	mes
+T104	Term-Tributario 310 315	Anexo
+T105	Term-Tributario 1255 1262	sistema
+T106	Term-Tributario 1091 1107	Sede Electrónica
+T107	Term-Tributario 1284 1301	firma electrónica
+T108	Term-Tributario 1346 1357	Certificado
+T109	Term-Tributario 992 998	opción
+T110	Term-Tributario 1137 1143	opción
+T111	Term-Tributario 1346 1369	Certificado electrónico
+T112	Term-Tributario 818 827	día hábil
+T113	Term-Tributario 475 481	plazos
+T114	Term-Tributario 547 552	plazo
+T115	Term-Tributario 668 673	plazo
+T116	Term-Tributario 801 806	plazo
+T117	Term-Tributario 1284 1289	firma
+T118	Term-AttentionRank 402 406	pago
+T119	Term-AttentionRank 27 31	pago
+T120	Term-AttentionRank 677 681	pago
+T121	Term-AttentionRank 436 440	pago
+T122	Term-AttentionRank 747 751	pago
+T123	Term-AttentionRank 556 560	pago
+T124	Term-AttentionRank 810 814	pago
+T125	Term-AttentionRank 523 527	días
+T126	Term-AttentionRank 639 643	días
+T127	Term-AttentionRank 740 743	día
+T128	Term-AttentionRank 573 576	día
+T129	Term-AttentionRank 694 697	día
+T130	Term-AttentionRank 163 207	requisitos previstos en la normativa vigente
+T131	Term-AttentionRank 584 587	mes
+T132	Term-AttentionRank 539 542	mes
+T133	Term-AttentionRank 660 663	mes
+T134	Term-AttentionRank 1432 1438	adeudo
+T135	Term-AttentionRank 945 951	adeudo
+T136	Term-AttentionRank 1152 1158	deudas
+T137	Term-AttentionRank 1167 1173	deudas
+T138	Term-AttentionRank 287 293	deudas
+T139	Term-AttentionRank 53 59	deudas
+T140	Term-AttentionRank 413 418	deuda
+T141	Term-AttentionRank 475 481	plazos
+T142	Term-AttentionRank 801 806	plazo
+T143	Term-AttentionRank 668 673	plazo
+T144	Term-AttentionRank 547 552	plazo
+T145	Term-AttentionRank 818 837	día hábil inmediato
+T146	Term-AttentionRank 1124 1143	través de la opción
+T147	Term-AttentionRank 66 91	solicitud arriba indicada
+T148	Term-AttentionRank 852 859	ingreso
+T149	Term-AttentionRank 1210 1226	pago electrónico
+T150	Term-AttentionRank 704 725	segundo mes posterior
+T151	Term-AttentionRank 337 344	cálculo
+T152	Term-AttentionRank 1646 1661	pago telefónico

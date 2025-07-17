@@ -1,0 +1,159 @@
+T1	Term-DPEJ 1742 1755	requerimiento
+T2	Term-DPEJ 1392 1402	patrimonio
+T3	Term-DPEJ 798 802	aval
+T4	Term-DPEJ 537 545	apartado
+T5	Term-DPEJ 58 66	garantía
+T6	Term-DPEJ 74 82	garantía
+T7	Term-DPEJ 448 456	garantía
+T8	Term-DPEJ 732 740	garantía
+T9	Term-DPEJ 839 847	garantía
+T10	Term-DPEJ 1295 1303	garantía
+T11	Term-DPEJ 28 34	bienes
+T12	Term-DPEJ 201 207	bienes
+T13	Term-DPEJ 694 700	bienes
+T14	Term-DPEJ 162 168	Bienes
+T15	Term-DPEJ 336 356	informe de auditoría
+T16	Term-DPEJ 1011 1031	Informe de auditoría
+T17	Term-DPEJ 1458 1467	capacidad
+T18	Term-DPEJ 126 132	prenda
+T19	Term-DPEJ 1212 1220	artículo
+T20	Term-DPEJ 104 123	hipoteca mobiliaria
+T21	Term-DPEJ 569 582	documentación
+T22	Term-DPEJ 1666 1679	documentación
+T23	Term-DPEJ 28 44	bienes inmuebles
+T24	Term-DPEJ 806 813	entidad
+T25	Term-DPEJ 134 145	Certificado
+T26	Term-DPEJ 860 871	certificado
+T27	Term-DPEJ 104 112	hipoteca
+T28	Term-DPEJ 162 176	Bienes Muebles
+T29	Term-DPEJ 506 516	documentos
+T30	Term-DPEJ 885 892	caución
+T31	Term-DPEJ 806 824	entidad de crédito
+T32	Term-DPEJ 336 343	informe
+T33	Term-DPEJ 1011 1018	Informe
+T34	Term-DPEJ 1819 1824	fecha
+T35	Term-DPEJ 1136 1148	aplazamiento
+T36	Term-DPEJ 1149 1164	fraccionamiento
+T37	Term-DPEJ 323 333	resultados
+T38	Term-DPEJ 976 986	resultados
+T39	Term-Termcat 134 145	Certificado
+T40	Term-Termcat 860 871	certificado
+T41	Term-Termcat 614 637	Declaración responsable
+T42	Term-Termcat 1305 1328	Declaración responsable
+T43	Term-Termcat 336 343	informe
+T44	Term-Termcat 1011 1018	Informe
+T45	Term-Termcat 1267 1275	dispensa
+T46	Term-Termcat 420 428	dispensa
+T47	Term-Termcat 806 813	entidad
+T48	Term-Termcat 481 490	solicitud
+T49	Term-Termcat 1485 1490	nivel
+T50	Term-Termcat 1742 1755	requerimiento
+T51	Term-Termcat 276 287	adquisición
+T52	Term-Termcat 875 881	seguro
+T53	Term-Termcat 798 802	aval
+T54	Term-Termcat 694 700	bienes
+T55	Term-Termcat 201 207	bienes
+T56	Term-Termcat 28 44	bienes inmuebles
+T57	Term-Termcat 162 176	Bienes Muebles
+T58	Term-Termcat 885 892	caución
+T59	Term-Termcat 827 835	sociedad
+T60	Term-Termcat 817 824	crédito
+T61	Term-Termcat 1625 1630	forma
+T62	Term-Termcat 732 740	garantía
+T63	Term-Termcat 1295 1303	garantía
+T64	Term-Termcat 448 456	garantía
+T65	Term-Termcat 839 847	garantía
+T66	Term-Termcat 74 82	garantía
+T67	Term-Termcat 58 66	garantía
+T68	Term-Termcat 104 112	hipoteca
+T69	Term-Termcat 1392 1402	patrimonio
+T70	Term-Termcat 126 132	prenda
+T71	Term-Termcat 1727 1733	recibo
+T72	Term-Termcat 1212 1220	artículo
+T73	Term-Termcat 1458 1478	capacidad productiva
+T74	Term-Termcat 1494 1500	empleo
+T75	Term-Termcat 703 710	derecho
+T76	Term-Termcat 1022 1031	auditoría
+T77	Term-Termcat 347 356	auditoría
+T78	Term-Termcat 1507 1516	actividad
+T79	Term-Termcat 1136 1148	aplazamiento
+T80	Term-Termcat 956 963	Balance
+T81	Term-Termcat 303 310	Balance
+T82	Term-Termcat 11 20	catastral
+T83	Term-Termcat 1458 1467	capacidad
+T84	Term-Termcat 313 333	cuenta de resultados
+T85	Term-Termcat 966 986	cuenta de resultados
+T86	Term-Termcat 614 625	Declaración
+T87	Term-Termcat 1305 1316	Declaración
+T88	Term-Termcat 506 516	documentos
+T89	Term-Termcat 1345 1355	documental
+T90	Term-Termcat 756 766	documental
+T91	Term-Termcat 654 664	documental
+T92	Term-Termcat 150 158	Registro
+T93	Term-Termcat 1376 1385	ejecución
+T94	Term-Termcat 380 389	ejercicio
+T95	Term-Termcat 265 272	factura
+T96	Term-Termcat 1149 1164	fraccionamiento
+T97	Term-Termcat 104 123	hipoteca mobiliaria
+T98	Term-Termcat 1601 1617	Hacienda Pública
+T99	Term-Termcat 1080 1091	información
+T100	Term-Termcat 1842 1853	información
+T101	Term-Termcat 1044 1048	Plan
+T102	Term-Termcat 827 857	sociedad de garantía recíproca
+T103	Term-Termcat 1666 1679	documentación
+T104	Term-Termcat 569 582	documentación
+T105	Term-Termcat 976 986	resultados
+T106	Term-Termcat 323 333	resultados
+T107	Term-Termcat 1254 1263	solicitar
+T108	Term-Termcat 1565 1575	quebrantos
+T109	Term-Tributario 481 490	solicitud
+T110	Term-Tributario 1149 1164	fraccionamiento
+T111	Term-Tributario 58 66	garantía
+T112	Term-Tributario 74 82	garantía
+T113	Term-Tributario 448 456	garantía
+T114	Term-Tributario 732 740	garantía
+T115	Term-Tributario 839 847	garantía
+T116	Term-Tributario 1295 1303	garantía
+T117	Term-Tributario 537 545	apartado
+T118	Term-Tributario 336 343	informe
+T119	Term-Tributario 1011 1018	Informe
+T120	Term-Tributario 134 145	Certificado
+T121	Term-Tributario 860 871	certificado
+T122	Term-Tributario 1742 1755	requerimiento
+T123	Term-Tributario 1212 1220	artículo
+T124	Term-Tributario 1458 1467	capacidad
+T125	Term-Tributario 806 813	entidad
+T126	Term-Tributario 875 881	seguro
+T127	Term-Tributario 817 824	crédito
+T128	Term-Tributario 839 857	garantía recíproca
+T129	Term-Tributario 640 653	justificación
+T130	Term-Tributario 1331 1344	justificación
+T131	Term-Tributario 742 755	Justificación
+T132	Term-Tributario 798 802	aval
+T133	Term-AttentionRank 1267 1281	dispensa total
+T134	Term-AttentionRank 420 434	dispensa total
+T135	Term-AttentionRank 732 740	garantía
+T136	Term-AttentionRank 1295 1303	garantía
+T137	Term-AttentionRank 448 456	garantía
+T138	Term-AttentionRank 58 66	garantía
+T139	Term-AttentionRank 104 123	hipoteca mobiliaria
+T140	Term-AttentionRank 694 700	bienes
+T141	Term-AttentionRank 28 34	bienes
+T142	Term-AttentionRank 201 207	bienes
+T143	Term-AttentionRank 162 168	Bienes
+T144	Term-AttentionRank 1331 1344	justificación
+T145	Term-AttentionRank 640 653	justificación
+T146	Term-AttentionRank 742 755	Justificación
+T147	Term-AttentionRank 839 857	garantía recíproca
+T148	Term-AttentionRank 1727 1755	recibo de este requerimiento
+T149	Term-AttentionRank 916 954	gestiones efectuadas para su obtención
+T150	Term-AttentionRank 885 892	caución
+T151	Term-AttentionRank 966 972	cuenta
+T152	Term-AttentionRank 313 319	cuenta
+T153	Term-AttentionRank 976 986	resultados
+T154	Term-AttentionRank 323 333	resultados
+T155	Term-AttentionRank 74 91	garantía ofrecida
+T156	Term-AttentionRank 336 343	informe
+T157	Term-AttentionRank 1011 1018	Informe
+T158	Term-AttentionRank 1625 1658	forma prevista reglamentariamente
+T159	Term-AttentionRank 1212 1220	artículo

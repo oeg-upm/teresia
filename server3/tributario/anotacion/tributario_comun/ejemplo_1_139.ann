@@ -1,0 +1,172 @@
+T1	Term-DPEJ 1027 1039	notificación
+T2	Term-DPEJ 1642 1654	notificación
+T3	Term-DPEJ 1610 1623	procedimiento
+T4	Term-DPEJ 1677 1699	providencia de apremio
+T5	Term-DPEJ 1386 1391	hábil
+T6	Term-DPEJ 281 294	documentación
+T7	Term-DPEJ 81 85	pago
+T8	Term-DPEJ 850 854	pago
+T9	Term-DPEJ 926 930	pago
+T10	Term-DPEJ 1311 1315	pago
+T11	Term-DPEJ 1374 1378	pago
+T12	Term-DPEJ 1520 1524	pago
+T13	Term-DPEJ 473 478	pagos
+T14	Term-DPEJ 954 959	plazo
+T15	Term-DPEJ 1105 1110	plazo
+T16	Term-DPEJ 1229 1234	plazo
+T17	Term-DPEJ 1365 1370	plazo
+T18	Term-DPEJ 1511 1516	plazo
+T19	Term-DPEJ 1610 1634	procedimiento de apremio
+T20	Term-DPEJ 745 755	DENEGACIÓN
+T21	Term-DPEJ 146 151	Anexo
+T22	Term-DPEJ 721 726	Anexo
+T23	Term-DPEJ 312 317	datos
+T24	Term-DPEJ 1061 1070	documento
+T25	Term-DPEJ 1180 1189	documento
+T26	Term-DPEJ 349 359	expediente
+T27	Term-DPEJ 1382 1391	día hábil
+T28	Term-DPEJ 21 33	aplazamiento
+T29	Term-DPEJ 511 523	aplazamiento
+T30	Term-DPEJ 1434 1446	aplazamiento
+T31	Term-DPEJ 1627 1634	apremio
+T32	Term-DPEJ 1692 1699	apremio
+T33	Term-DPEJ 36 51	fraccionamiento
+T34	Term-DPEJ 1449 1464	fraccionamiento
+T35	Term-DPEJ 9 17	petición
+T36	Term-DPEJ 203 211	petición
+T37	Term-DPEJ 226 234	petición
+T38	Term-Termcat 1382 1391	día hábil
+T39	Term-Termcat 761 772	SOLICITUDES
+T40	Term-Termcat 875 884	solicitud
+T41	Term-Termcat 1642 1654	notificación
+T42	Term-Termcat 1027 1039	notificación
+T43	Term-Termcat 1365 1370	plazo
+T44	Term-Termcat 1105 1110	plazo
+T45	Term-Termcat 1229 1234	plazo
+T46	Term-Termcat 1511 1516	plazo
+T47	Term-Termcat 954 959	plazo
+T48	Term-Termcat 799 805	deudas
+T49	Term-Termcat 1422 1428	deudas
+T50	Term-Termcat 624 630	deudas
+T51	Term-Termcat 1311 1315	pago
+T52	Term-Termcat 81 85	pago
+T53	Term-Termcat 1374 1378	pago
+T54	Term-Termcat 850 854	pago
+T55	Term-Termcat 1520 1524	pago
+T56	Term-Termcat 926 930	pago
+T57	Term-Termcat 473 478	pagos
+T58	Term-Termcat 721 726	Anexo
+T59	Term-Termcat 146 151	Anexo
+T60	Term-Termcat 203 211	petición
+T61	Term-Termcat 9 17	petición
+T62	Term-Termcat 226 234	petición
+T63	Term-Termcat 1002 1009	ingreso
+T64	Term-Termcat 669 676	ingreso
+T65	Term-Termcat 1114 1121	ingreso
+T66	Term-Termcat 1238 1245	ingreso
+T67	Term-Termcat 94 101	ingreso
+T68	Term-Termcat 271 275	base
+T69	Term-Termcat 174 179	euros
+T70	Term-Termcat 511 523	aplazamiento
+T71	Term-Termcat 1434 1446	aplazamiento
+T72	Term-Termcat 21 33	aplazamiento
+T73	Term-Termcat 916 922	cartas
+T74	Term-Termcat 495 504	concesión
+T75	Term-Termcat 1627 1634	apremio
+T76	Term-Termcat 1340 1347	festivo
+T77	Term-Termcat 1180 1189	documento
+T78	Term-Termcat 1061 1070	documento
+T79	Term-Termcat 731 738	EFECTOS
+T80	Term-Termcat 979 986	efectos
+T81	Term-Termcat 349 359	expediente
+T82	Term-Termcat 36 51	fraccionamiento
+T83	Term-Termcat 1449 1464	fraccionamiento
+T84	Term-Termcat 638 654	Hacienda Pública
+T85	Term-Termcat 559 573	incumplimiento
+T86	Term-Termcat 680 697	periodo ejecutivo
+T87	Term-Termcat 1570 1587	periodo ejecutivo
+T88	Term-Termcat 776 794	PERIODO VOLUNTARIO
+T89	Term-Termcat 1480 1498	periodo voluntario
+T90	Term-Termcat 1610 1623	procedimiento
+T91	Term-Termcat 1677 1699	providencia de apremio
+T92	Term-Termcat 1692 1699	apremio
+T93	Term-Termcat 281 294	documentación
+T94	Term-Termcat 1677 1688	providencia
+T95	Term-Termcat 0 5	Vista
+T96	Term-Tributario 761 772	SOLICITUDES
+T97	Term-Tributario 875 884	solicitud
+T98	Term-Tributario 36 51	fraccionamiento
+T99	Term-Tributario 1449 1464	fraccionamiento
+T100	Term-Tributario 81 85	pago
+T101	Term-Tributario 850 854	pago
+T102	Term-Tributario 926 930	pago
+T103	Term-Tributario 1311 1315	pago
+T104	Term-Tributario 1374 1378	pago
+T105	Term-Tributario 1520 1524	pago
+T106	Term-Tributario 473 478	pagos
+T107	Term-Tributario 1097 1100	mes
+T108	Term-Tributario 1145 1148	mes
+T109	Term-Tributario 1221 1224	mes
+T110	Term-Tributario 1276 1279	mes
+T111	Term-Tributario 349 359	expediente
+T112	Term-Tributario 146 151	Anexo
+T113	Term-Tributario 721 726	Anexo
+T114	Term-Tributario 1677 1688	providencia
+T115	Term-Tributario 1610 1623	procedimiento
+T116	Term-Tributario 861 868	momento
+T117	Term-Tributario 9 17	petición
+T118	Term-Tributario 203 211	petición
+T119	Term-Tributario 226 234	petición
+T120	Term-Tributario 312 317	datos
+T121	Term-Tributario 1382 1391	día hábil
+T122	Term-Tributario 954 959	plazo
+T123	Term-Tributario 1105 1110	plazo
+T124	Term-Tributario 1229 1234	plazo
+T125	Term-Tributario 1365 1370	plazo
+T126	Term-Tributario 1511 1516	plazo
+T127	Term-Tributario 1027 1039	notificación
+T128	Term-Tributario 1642 1654	notificación
+T129	Term-AttentionRank 473 523	pagos derivados de la concesión de un aplazamiento
+T130	Term-AttentionRank 1311 1315	pago
+T131	Term-AttentionRank 81 85	pago
+T132	Term-AttentionRank 1374 1378	pago
+T133	Term-AttentionRank 850 854	pago
+T134	Term-AttentionRank 1520 1524	pago
+T135	Term-AttentionRank 926 930	pago
+T136	Term-AttentionRank 1200 1204	días
+T137	Term-AttentionRank 1081 1085	días
+T138	Term-AttentionRank 1258 1261	día
+T139	Term-AttentionRank 1304 1307	día
+T140	Term-AttentionRank 1134 1137	día
+T141	Term-AttentionRank 1365 1370	plazo
+T142	Term-AttentionRank 1105 1110	plazo
+T143	Term-AttentionRank 1229 1234	plazo
+T144	Term-AttentionRank 1511 1516	plazo
+T145	Term-AttentionRank 954 959	plazo
+T146	Term-AttentionRank 1221 1224	mes
+T147	Term-AttentionRank 1276 1279	mes
+T148	Term-AttentionRank 1097 1100	mes
+T149	Term-AttentionRank 1145 1148	mes
+T150	Term-AttentionRank 1002 1009	ingreso
+T151	Term-AttentionRank 669 676	ingreso
+T152	Term-AttentionRank 1114 1121	ingreso
+T153	Term-AttentionRank 1238 1245	ingreso
+T154	Term-AttentionRank 94 101	ingreso
+T155	Term-AttentionRank 776 794	PERIODO VOLUNTARIO
+T156	Term-AttentionRank 1480 1498	periodo voluntario
+T157	Term-AttentionRank 36 51	fraccionamiento
+T158	Term-AttentionRank 1449 1464	fraccionamiento
+T159	Term-AttentionRank 680 697	periodo ejecutivo
+T160	Term-AttentionRank 1570 1587	periodo ejecutivo
+T161	Term-AttentionRank 271 303	base a la documentación aportada
+T162	Term-AttentionRank 1627 1634	apremio
+T163	Term-AttentionRank 1692 1699	apremio
+T164	Term-AttentionRank 799 805	deudas
+T165	Term-AttentionRank 1422 1428	deudas
+T166	Term-AttentionRank 624 630	deudas
+T167	Term-AttentionRank 1434 1446	aplazamiento
+T168	Term-AttentionRank 21 33	aplazamiento
+T169	Term-AttentionRank 1382 1401	día hábil inmediato
+T170	Term-AttentionRank 203 211	petición
+T171	Term-AttentionRank 9 17	petición
+T172	Term-AttentionRank 226 234	petición

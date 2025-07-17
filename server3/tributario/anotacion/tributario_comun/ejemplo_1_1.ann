@@ -1,0 +1,143 @@
+T1	Term-DPEJ 1741 1751	suspensión
+T2	Term-DPEJ 222 234	notificación
+T3	Term-DPEJ 281 285	caso
+T4	Term-DPEJ 129 137	sistemas
+T5	Term-DPEJ 686 696	Resolución
+T6	Term-DPEJ 329 352	entidades colaboradoras
+T7	Term-DPEJ 441 464	entidades colaboradoras
+T8	Term-DPEJ 199 203	pago
+T9	Term-DPEJ 626 630	pago
+T10	Term-DPEJ 777 781	pago
+T11	Term-DPEJ 938 942	pago
+T12	Term-DPEJ 1072 1076	pago
+T13	Term-DPEJ 1151 1155	pago
+T14	Term-DPEJ 1624 1635	reclamación
+T15	Term-DPEJ 504 508	Sede
+T16	Term-DPEJ 59 68	Entidades
+T17	Term-DPEJ 329 338	entidades
+T18	Term-DPEJ 441 450	entidades
+T19	Term-DPEJ 581 590	entidades
+T20	Term-DPEJ 1468 1475	acuerdo
+T21	Term-DPEJ 867 875	recargos
+T22	Term-DPEJ 768 773	plazo
+T23	Term-DPEJ 1096 1102	plazos
+T24	Term-DPEJ 1240 1258	deudas tributarias
+T25	Term-DPEJ 186 195	documento
+T26	Term-DPEJ 661 669	términos
+T27	Term-DPEJ 504 520	Sede Electrónica
+T28	Term-DPEJ 928 933	fecha
+T29	Term-DPEJ 1624 1660	reclamación económico-administrativa
+T30	Term-DPEJ 1194 1206	aplazamiento
+T31	Term-DPEJ 1209 1224	fraccionamiento
+T32	Term-DPEJ 963 971	petición
+T33	Term-DPEJ 727 736	Dirección
+T34	Term-Termcat 727 744	Dirección General
+T35	Term-Termcat 59 68	Entidades
+T36	Term-Termcat 329 338	entidades
+T37	Term-Termcat 581 590	entidades
+T38	Term-Termcat 441 450	entidades
+T39	Term-Termcat 1458 1464	Estado
+T40	Term-Termcat 222 234	notificación
+T41	Term-Termcat 1624 1660	reclamación económico-administrativa
+T42	Term-Termcat 1614 1621	recurso
+T43	Term-Termcat 1669 1676	recurso
+T44	Term-Termcat 1785 1793	recursos
+T45	Term-Termcat 686 696	Resolución
+T46	Term-Termcat 504 520	Sede Electrónica
+T47	Term-Termcat 661 669	términos
+T48	Term-Termcat 768 773	plazo
+T49	Term-Termcat 1096 1102	plazos
+T50	Term-Termcat 1763 1774	tramitación
+T51	Term-Termcat 381 393	Cooperativas
+T52	Term-Termcat 397 404	Crédito
+T53	Term-Termcat 1083 1088	deuda
+T54	Term-Termcat 949 954	deuda
+T55	Term-Termcat 1240 1246	deudas
+T56	Term-Termcat 1041 1046	forma
+T57	Term-Termcat 1483 1486	Ley
+T58	Term-Termcat 938 942	pago
+T59	Term-Termcat 777 781	pago
+T60	Term-Termcat 1072 1076	pago
+T61	Term-Termcat 199 203	pago
+T62	Term-Termcat 626 630	pago
+T63	Term-Termcat 1151 1155	pago
+T64	Term-Termcat 1624 1635	reclamación
+T65	Term-Termcat 963 971	petición
+T66	Term-Termcat 129 137	sistemas
+T67	Term-Termcat 1448 1454	ayudas
+T68	Term-Termcat 727 736	Dirección
+T69	Term-Termcat 290 297	ingreso
+T70	Term-Termcat 538 546	ingresos
+T71	Term-Termcat 1364 1372	ingresos
+T72	Term-Termcat 1741 1751	suspensión
+T73	Term-Termcat 1468 1475	acuerdo
+T74	Term-Termcat 1194 1206	aplazamiento
+T75	Term-Termcat 354 360	Bancos
+T76	Term-Termcat 111 117	cuenta
+T77	Term-Termcat 1375 1381	cuenta
+T78	Term-Termcat 912 918	demora
+T79	Term-Termcat 1240 1258	deudas tributarias
+T80	Term-Termcat 186 195	documento
+T81	Term-Termcat 1529 1538	ejecución
+T82	Term-Termcat 1405 1414	ejecución
+T83	Term-Termcat 1209 1224	fraccionamiento
+T84	Term-Termcat 1483 1505	Ley General Tributaria
+T85	Term-Termcat 867 875	recargos
+T86	Term-Termcat 35 45	sucursales
+T87	Term-Termcat 1555 1561	firmes
+T88	Term-Tributario 1468 1475	acuerdo
+T89	Term-Tributario 1209 1224	fraccionamiento
+T90	Term-Tributario 199 203	pago
+T91	Term-Tributario 626 630	pago
+T92	Term-Tributario 777 781	pago
+T93	Term-Tributario 938 942	pago
+T94	Term-Tributario 1072 1076	pago
+T95	Term-Tributario 1151 1155	pago
+T96	Term-Tributario 1614 1621	recurso
+T97	Term-Tributario 1669 1676	recurso
+T98	Term-Tributario 1785 1793	recursos
+T99	Term-Tributario 24 32	oficinas
+T100	Term-Tributario 129 137	sistemas
+T101	Term-Tributario 1624 1635	reclamación
+T102	Term-Tributario 504 520	Sede Electrónica
+T103	Term-Tributario 963 971	petición
+T104	Term-Tributario 1741 1751	suspensión
+T105	Term-Tributario 727 744	Dirección General
+T106	Term-Tributario 59 68	Entidades
+T107	Term-Tributario 329 338	entidades
+T108	Term-Tributario 441 450	entidades
+T109	Term-Tributario 581 590	entidades
+T110	Term-Tributario 397 404	Crédito
+T111	Term-Tributario 686 696	Resolución
+T112	Term-Tributario 727 736	Dirección
+T113	Term-Tributario 768 773	plazo
+T114	Term-Tributario 1096 1102	plazos
+T115	Term-Tributario 222 234	notificación
+T116	Term-AttentionRank 938 942	pago
+T117	Term-AttentionRank 777 781	pago
+T118	Term-AttentionRank 1072 1076	pago
+T119	Term-AttentionRank 199 203	pago
+T120	Term-AttentionRank 626 630	pago
+T121	Term-AttentionRank 1151 1155	pago
+T122	Term-AttentionRank 315 352	través de las entidades colaboradoras
+T123	Term-AttentionRank 441 464	entidades colaboradoras
+T124	Term-AttentionRank 290 297	ingreso
+T125	Term-AttentionRank 538 546	ingresos
+T126	Term-AttentionRank 1364 1372	ingresos
+T127	Term-AttentionRank 1614 1621	recurso
+T128	Term-AttentionRank 1669 1676	recurso
+T129	Term-AttentionRank 1785 1793	recursos
+T130	Term-AttentionRank 571 590	través de entidades
+T131	Term-AttentionRank 1229 1258	siguientes deudas tributarias
+T132	Term-AttentionRank 1542 1561	resoluciones firmes
+T133	Term-AttentionRank 111 117	cuenta
+T134	Term-AttentionRank 1375 1381	cuenta
+T135	Term-AttentionRank 1283 1307	obligaciones tributarias
+T136	Term-AttentionRank 867 875	recargos
+T137	Term-AttentionRank 1511 1522	resultantes
+T138	Term-AttentionRank 1387 1398	resultantes
+T139	Term-AttentionRank 768 773	plazo
+T140	Term-AttentionRank 1096 1102	plazos
+T141	Term-AttentionRank 1083 1088	deuda
+T142	Term-AttentionRank 949 954	deuda
+T143	Term-AttentionRank 1329 1338	retenedor

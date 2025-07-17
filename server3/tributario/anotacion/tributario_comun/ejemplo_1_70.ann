@@ -1,0 +1,185 @@
+T1	Term-DPEJ 252 270	pagos fraccionados
+T2	Term-DPEJ 109 115	cuotas
+T3	Term-DPEJ 1068 1073	firma
+T4	Term-DPEJ 1210 1229	medios electrónicos
+T5	Term-DPEJ 1068 1085	firma electrónica
+T6	Term-DPEJ 2114 2121	escrito
+T7	Term-DPEJ 1039 1046	sistema
+T8	Term-DPEJ 252 257	pagos
+T9	Term-DPEJ 915 919	pago
+T10	Term-DPEJ 1628 1632	pago
+T11	Term-DPEJ 1673 1677	pago
+T12	Term-DPEJ 1832 1836	pago
+T13	Term-DPEJ 464 470	opción
+T14	Term-DPEJ 1446 1452	opción
+T15	Term-DPEJ 2228 2239	reclamación
+T16	Term-DPEJ 427 431	Sede
+T17	Term-DPEJ 1410 1414	Sede
+T18	Term-DPEJ 1257 1264	acuerdo
+T19	Term-DPEJ 1867 1874	acuerdo
+T20	Term-DPEJ 2096 2103	acuerdo
+T21	Term-DPEJ 2184 2191	acuerdo
+T22	Term-DPEJ 1130 1141	Certificado
+T23	Term-DPEJ 1618 1624	plazos
+T24	Term-DPEJ 1934 1939	plazo
+T25	Term-DPEJ 2043 2064	recurso de reposición
+T26	Term-DPEJ 663 671	Atención
+T27	Term-DPEJ 882 898	domicilio fiscal
+T28	Term-DPEJ 1130 1153	Certificado electrónico
+T29	Term-DPEJ 2012 2021	documento
+T30	Term-DPEJ 882 891	domicilio
+T31	Term-DPEJ 1193 1205	presentación
+T32	Term-DPEJ 2074 2080	órgano
+T33	Term-DPEJ 275 300	Impuesto sobre Sociedades
+T34	Term-DPEJ 686 697	Recaudación
+T35	Term-DPEJ 1528 1539	Recaudación
+T36	Term-DPEJ 1050 1065	autentificación
+T37	Term-DPEJ 427 443	Sede Electrónica
+T38	Term-DPEJ 1410 1426	Sede electrónica
+T39	Term-DPEJ 1650 1655	fecha
+T40	Term-DPEJ 2054 2064	reposición
+T41	Term-DPEJ 321 333	aplazamiento
+T42	Term-DPEJ 583 595	aplazamiento
+T43	Term-DPEJ 1798 1810	aplazamiento
+T44	Term-DPEJ 1709 1722	aplazamientos
+T45	Term-DPEJ 336 351	fraccionamiento
+T46	Term-DPEJ 598 613	fraccionamiento
+T47	Term-DPEJ 1813 1828	fraccionamiento
+T48	Term-DPEJ 275 283	Impuesto
+T49	Term-Termcat 1110 1117	Agencia
+T50	Term-Termcat 1130 1153	Certificado electrónico
+T51	Term-Termcat 275 283	Impuesto
+T52	Term-Termcat 306 317	solicitudes
+T53	Term-Termcat 1210 1229	medios electrónicos
+T54	Term-Termcat 2043 2064	recurso de reposición
+T55	Term-Termcat 427 443	Sede Electrónica
+T56	Term-Termcat 1410 1426	Sede electrónica
+T57	Term-Termcat 1068 1085	firma electrónica
+T58	Term-Termcat 1618 1624	plazos
+T59	Term-Termcat 1934 1939	plazo
+T60	Term-Termcat 18 26	tributos
+T61	Term-Termcat 1130 1141	Certificado
+T62	Term-Termcat 290 300	Sociedades
+T63	Term-Termcat 797 807	Delegación
+T64	Term-Termcat 617 623	deudas
+T65	Term-Termcat 544 550	deudas
+T66	Term-Termcat 882 891	domicilio
+T67	Term-Termcat 990 995	forma
+T68	Term-Termcat 252 257	pagos
+T69	Term-Termcat 1832 1836	pago
+T70	Term-Termcat 1673 1677	pago
+T71	Term-Termcat 915 919	pago
+T72	Term-Termcat 1628 1632	pago
+T73	Term-Termcat 1171 1187	personas físicas
+T74	Term-Termcat 109 115	cuotas
+T75	Term-Termcat 2228 2239	reclamación
+T76	Term-Termcat 978 986	trámites
+T77	Term-Termcat 1039 1046	sistema
+T78	Term-Termcat 1881 1895	Administración
+T79	Term-Termcat 810 824	Administración
+T80	Term-Termcat 840 858	ámbito territorial
+T81	Term-Termcat 1506 1516	asistencia
+T82	Term-Termcat 1580 1590	asistencia
+T83	Term-Termcat 1469 1479	asistencia
+T84	Term-Termcat 663 671	Atención
+T85	Term-Termcat 927 939	concertación
+T86	Term-Termcat 1050 1065	autentificación
+T87	Term-Termcat 1171 1179	personas
+T88	Term-Termcat 1387 1393	medios
+T89	Term-Termcat 1210 1216	medios
+T90	Term-Termcat 1068 1073	firma
+T91	Term-Termcat 557 571	Identificación
+T92	Term-Termcat 2184 2191	acuerdo
+T93	Term-Termcat 1257 1264	acuerdo
+T94	Term-Termcat 1867 1874	acuerdo
+T95	Term-Termcat 2096 2103	acuerdo
+T96	Term-Termcat 1798 1810	aplazamiento
+T97	Term-Termcat 321 333	aplazamiento
+T98	Term-Termcat 583 595	aplazamiento
+T99	Term-Termcat 1709 1722	aplazamientos
+T100	Term-Termcat 1849 1857	conforme
+T101	Term-Termcat 2168 2176	conforme
+T102	Term-Termcat 2012 2021	documento
+T103	Term-Termcat 882 898	domicilio fiscal
+T104	Term-Termcat 598 613	fraccionamiento
+T105	Term-Termcat 336 351	fraccionamiento
+T106	Term-Termcat 1813 1836	fraccionamiento de pago
+T107	Term-Termcat 2211 2216	haber
+T108	Term-Termcat 275 300	Impuesto sobre Sociedades
+T109	Term-Termcat 1272 1281	normativa
+T110	Term-Termcat 1446 1452	opción
+T111	Term-Termcat 464 470	opción
+T112	Term-Termcat 2074 2080	órgano
+T113	Term-Termcat 252 270	pagos fraccionados
+T114	Term-Termcat 1528 1539	Recaudación
+T115	Term-Termcat 686 697	Recaudación
+T116	Term-Termcat 1904 1912	recurrir
+T117	Term-Termcat 1282 1289	vigente
+T118	Term-Termcat 1024 1032	disponer
+T119	Term-Termcat 892 898	fiscal
+T120	Term-Termcat 1639 1646	conocer
+T121	Term-Termcat 1729 1736	conocer
+T122	Term-Termcat 1994 2003	recepción
+T123	Term-Termcat 2043 2050	recurso
+T124	Term-Termcat 573 582	Solicitar
+T125	Term-Termcat 1785 1794	solicitar
+T126	Term-Tributario 306 317	solicitudes
+T127	Term-Tributario 1257 1264	acuerdo
+T128	Term-Tributario 1867 1874	acuerdo
+T129	Term-Tributario 2096 2103	acuerdo
+T130	Term-Tributario 2184 2191	acuerdo
+T131	Term-Tributario 336 351	fraccionamiento
+T132	Term-Tributario 598 613	fraccionamiento
+T133	Term-Tributario 1813 1828	fraccionamiento
+T134	Term-Tributario 1050 1065	autentificación
+T135	Term-Tributario 252 257	pagos
+T136	Term-Tributario 915 919	pago
+T137	Term-Tributario 1628 1632	pago
+T138	Term-Tributario 1673 1677	pago
+T139	Term-Tributario 1832 1836	pago
+T140	Term-Tributario 1193 1205	presentación
+T141	Term-Tributario 1953 1956	mes
+T142	Term-Tributario 2043 2050	recurso
+T143	Term-Tributario 882 898	domicilio fiscal
+T144	Term-Tributario 1039 1046	sistema
+T145	Term-Tributario 2228 2239	reclamación
+T146	Term-Tributario 427 443	Sede Electrónica
+T147	Term-Tributario 1410 1426	Sede electrónica
+T148	Term-Tributario 1068 1085	firma electrónica
+T149	Term-Tributario 1130 1141	Certificado
+T150	Term-Tributario 840 858	ámbito territorial
+T151	Term-Tributario 464 470	opción
+T152	Term-Tributario 1446 1452	opción
+T153	Term-Tributario 1130 1153	Certificado electrónico
+T154	Term-Tributario 109 115	cuotas
+T155	Term-Tributario 1618 1624	plazos
+T156	Term-Tributario 1934 1939	plazo
+T157	Term-Tributario 1068 1073	firma
+T158	Term-AttentionRank 1953 2021	mes contado desde el día siguiente al de recepción de este documento
+T159	Term-AttentionRank 1832 1836	pago
+T160	Term-AttentionRank 1673 1677	pago
+T161	Term-AttentionRank 915 919	pago
+T162	Term-AttentionRank 1628 1632	pago
+T163	Term-AttentionRank 1469 1487	asistencia virtual
+T164	Term-AttentionRank 1506 1524	asistencia virtual
+T165	Term-AttentionRank 1580 1598	asistencia virtual
+T166	Term-AttentionRank 252 270	pagos fraccionados
+T167	Term-AttentionRank 598 613	fraccionamiento
+T168	Term-AttentionRank 1813 1828	fraccionamiento
+T169	Term-AttentionRank 336 351	fraccionamiento
+T170	Term-AttentionRank 2184 2191	acuerdo
+T171	Term-AttentionRank 1867 1874	acuerdo
+T172	Term-AttentionRank 2096 2103	acuerdo
+T173	Term-AttentionRank 1257 1289	acuerdo con la normativa vigente
+T174	Term-AttentionRank 990 1009	forma no presencial
+T175	Term-AttentionRank 109 128	cuotas repercutidas
+T176	Term-AttentionRank 1193 1205	presentación
+T177	Term-AttentionRank 1798 1810	aplazamiento
+T178	Term-AttentionRank 321 333	aplazamiento
+T179	Term-AttentionRank 583 595	aplazamiento
+T180	Term-AttentionRank 1709 1722	aplazamientos
+T181	Term-AttentionRank 306 317	solicitudes
+T182	Term-AttentionRank 187 211	obligaciones tributarias
+T183	Term-AttentionRank 1740 1747	cálculo
+T184	Term-AttentionRank 1446 1452	opción
+T185	Term-AttentionRank 464 470	opción

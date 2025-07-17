@@ -1,0 +1,205 @@
+T1	Term-DPEJ 2040 2050	Suspensión
+T2	Term-DPEJ 1146 1151	firma
+T3	Term-DPEJ 2207 2215	garantía
+T4	Term-DPEJ 395 401	número
+T5	Term-DPEJ 1195 1214	medios electrónicos
+T6	Term-DPEJ 1515 1528	Procedimiento
+T7	Term-DPEJ 1146 1163	firma electrónica
+T8	Term-DPEJ 96 100	caso
+T9	Term-DPEJ 662 669	escrito
+T10	Term-DPEJ 1134 1142	sistemas
+T11	Term-DPEJ 1877 1887	Resolución
+T12	Term-DPEJ 1435 1443	Artículo
+T13	Term-DPEJ 1688 1696	Artículo
+T14	Term-DPEJ 1719 1727	Artículo
+T15	Term-DPEJ 1865 1873	Artículo
+T16	Term-DPEJ 1938 1946	Artículo
+T17	Term-DPEJ 1487 1496	Artículos
+T18	Term-DPEJ 2084 2093	Artículos
+T19	Term-DPEJ 1859 1863	pago
+T20	Term-DPEJ 613 624	reclamación
+T21	Term-DPEJ 781 792	reclamación
+T22	Term-DPEJ 969 980	reclamación
+T23	Term-DPEJ 1447 1458	Reclamación
+T24	Term-DPEJ 1044 1048	sede
+T25	Term-DPEJ 360 367	acuerdo
+T26	Term-DPEJ 521 528	acuerdo
+T27	Term-DPEJ 704 711	acuerdo
+T28	Term-DPEJ 1242 1249	acuerdo
+T29	Term-DPEJ 1711 1717	plazos
+T30	Term-DPEJ 939 960	recurso de reposición
+T31	Term-DPEJ 596 607	disposición
+T32	Term-DPEJ 235 243	relación
+T33	Term-DPEJ 1995 2013	vía administrativa
+T34	Term-DPEJ 288 304	domicilio fiscal
+T35	Term-DPEJ 405 415	expediente
+T36	Term-DPEJ 440 450	expediente
+T37	Term-DPEJ 288 297	domicilio
+T38	Term-DPEJ 317 326	domicilio
+T39	Term-DPEJ 1178 1190	presentación
+T40	Term-DPEJ 682 688	Órgano
+T41	Term-DPEJ 887 893	órgano
+T42	Term-DPEJ 1753 1764	Recaudación
+T43	Term-DPEJ 1044 1060	sede electrónica
+T44	Term-DPEJ 384 389	fecha
+T45	Term-DPEJ 950 960	reposición
+T46	Term-DPEJ 781 817	reclamación económico-administrativa
+T47	Term-DPEJ 1823 1836	aplazamientos
+T48	Term-DPEJ 1906 1918	aplazamiento
+T49	Term-DPEJ 2238 2250	aplazamiento
+T50	Term-DPEJ 1839 1855	fraccionamientos
+T51	Term-DPEJ 1921 1936	fraccionamiento
+T52	Term-DPEJ 2253 2268	fraccionamiento
+T53	Term-DPEJ 1515 1549	Procedimiento Administrativo Común
+T54	Term-DPEJ 1515 1543	Procedimiento Administrativo
+T55	Term-Termcat 1067 1074	Agencia
+T56	Term-Termcat 2020 2027	Decreto
+T57	Term-Termcat 1891 1902	solicitudes
+T58	Term-Termcat 2223 2234	solicitudes
+T59	Term-Termcat 1195 1214	medios electrónicos
+T60	Term-Termcat 2102 2107	Orden
+T61	Term-Termcat 1515 1549	Procedimiento Administrativo Común
+T62	Term-Termcat 781 817	reclamación económico-administrativa
+T63	Term-Termcat 247 254	recurso
+T64	Term-Termcat 939 960	recurso de reposición
+T65	Term-Termcat 1950 1960	Reglamento
+T66	Term-Termcat 1731 1741	Reglamento
+T67	Term-Termcat 1877 1887	Resolución
+T68	Term-Termcat 1044 1060	sede electrónica
+T69	Term-Termcat 1146 1163	firma electrónica
+T70	Term-Termcat 1711 1717	plazos
+T71	Term-Termcat 1995 2013	vía administrativa
+T72	Term-Termcat 2054 2082	vía económico-administrativa
+T73	Term-Termcat 317 326	domicilio
+T74	Term-Termcat 288 297	domicilio
+T75	Term-Termcat 2207 2215	garantía
+T76	Term-Termcat 1507 1510	Ley
+T77	Term-Termcat 1584 1587	Ley
+T78	Term-Termcat 54 60	nombre
+T79	Term-Termcat 152 158	nombre
+T80	Term-Termcat 1609 1619	obligación
+T81	Term-Termcat 2185 2195	obligación
+T82	Term-Termcat 1859 1863	pago
+T83	Term-Termcat 456 461	poder
+T84	Term-Termcat 969 980	reclamación
+T85	Term-Termcat 781 792	reclamación
+T86	Term-Termcat 613 624	reclamación
+T87	Term-Termcat 1447 1458	Reclamación
+T88	Term-Termcat 126 139	representante
+T89	Term-Termcat 1435 1443	Artículo
+T90	Term-Termcat 1688 1696	Artículo
+T91	Term-Termcat 1938 1946	Artículo
+T92	Term-Termcat 1865 1873	Artículo
+T93	Term-Termcat 1719 1727	Artículo
+T94	Term-Termcat 2084 2093	Artículos
+T95	Term-Termcat 1487 1496	Artículos
+T96	Term-Termcat 1700 1717	Cómputo de plazos
+T97	Term-Termcat 1134 1142	sistemas
+T98	Term-Termcat 1089 1103	Administración
+T99	Term-Termcat 1796 1808	Competencias
+T100	Term-Termcat 894 907	independiente
+T101	Term-Termcat 1983 1991	revisión
+T102	Term-Termcat 1599 1606	Derecho
+T103	Term-Termcat 2271 2276	euros
+T104	Term-Termcat 1372 1378	medios
+T105	Term-Termcat 1195 1201	medios
+T106	Term-Termcat 1146 1151	firma
+T107	Term-Termcat 2040 2050	Suspensión
+T108	Term-Termcat 1515 1543	Procedimiento Administrativo
+T109	Term-Termcat 596 607	disposición
+T110	Term-Termcat 704 711	acuerdo
+T111	Term-Termcat 1242 1249	acuerdo
+T112	Term-Termcat 360 367	acuerdo
+T113	Term-Termcat 521 528	acuerdo
+T114	Term-Termcat 1089 1114	Administración Tributaria
+T115	Term-Termcat 1823 1836	aplazamientos
+T116	Term-Termcat 2238 2250	aplazamiento
+T117	Term-Termcat 1906 1918	aplazamiento
+T118	Term-Termcat 1700 1707	Cómputo
+T119	Term-Termcat 505 513	conforme
+T120	Term-Termcat 288 304	domicilio fiscal
+T121	Term-Termcat 440 450	expediente
+T122	Term-Termcat 405 415	expediente
+T123	Term-Termcat 1839 1855	fraccionamientos
+T124	Term-Termcat 1921 1936	fraccionamiento
+T125	Term-Termcat 2253 2268	fraccionamiento
+T126	Term-Termcat 38 49	información
+T127	Term-Termcat 747 758	información
+T128	Term-Termcat 1812 1819	materia
+T129	Term-Termcat 1972 1979	materia
+T130	Term-Termcat 1257 1266	normativa
+T131	Term-Termcat 682 688	Órgano
+T132	Term-Termcat 887 893	órgano
+T133	Term-Termcat 1515 1528	Procedimiento
+T134	Term-Termcat 1753 1764	Recaudación
+T135	Term-Termcat 63 75	razón social
+T136	Term-Termcat 2015 2027	Real Decreto
+T137	Term-Termcat 839 847	Tribunal
+T138	Term-Termcat 1267 1274	vigente
+T139	Term-Termcat 536 542	acudir
+T140	Term-Termcat 298 304	fiscal
+T141	Term-Termcat 875 885	competente
+T142	Term-Termcat 429 436	conocer
+T143	Term-Termcat 939 946	recurso
+T144	Term-Tributario 1796 1808	Competencias
+T145	Term-Tributario 1891 1902	solicitudes
+T146	Term-Tributario 2223 2234	solicitudes
+T147	Term-Tributario 360 367	acuerdo
+T148	Term-Tributario 521 528	acuerdo
+T149	Term-Tributario 704 711	acuerdo
+T150	Term-Tributario 1242 1249	acuerdo
+T151	Term-Tributario 1839 1855	fraccionamientos
+T152	Term-Tributario 1921 1936	fraccionamiento
+T153	Term-Tributario 2253 2268	fraccionamiento
+T154	Term-Tributario 1859 1863	pago
+T155	Term-Tributario 1178 1190	presentación
+T156	Term-Tributario 405 415	expediente
+T157	Term-Tributario 440 450	expediente
+T158	Term-Tributario 247 254	recurso
+T159	Term-Tributario 939 946	recurso
+T160	Term-Tributario 2207 2215	garantía
+T161	Term-Tributario 288 304	domicilio fiscal
+T162	Term-Tributario 548 555	oficina
+T163	Term-Tributario 1134 1142	sistemas
+T164	Term-Tributario 613 624	reclamación
+T165	Term-Tributario 781 792	reclamación
+T166	Term-Tributario 969 980	reclamación
+T167	Term-Tributario 1447 1458	Reclamación
+T168	Term-Tributario 1044 1060	sede electrónica
+T169	Term-Tributario 1515 1528	Procedimiento
+T170	Term-Tributario 63 68	razón
+T171	Term-Tributario 1146 1163	firma electrónica
+T172	Term-Tributario 1435 1443	Artículo
+T173	Term-Tributario 1688 1696	Artículo
+T174	Term-Tributario 1719 1727	Artículo
+T175	Term-Tributario 1865 1873	Artículo
+T176	Term-Tributario 1938 1946	Artículo
+T177	Term-Tributario 1487 1496	Artículos
+T178	Term-Tributario 2084 2093	Artículos
+T179	Term-Tributario 2040 2050	Suspensión
+T180	Term-Tributario 1609 1619	obligación
+T181	Term-Tributario 2185 2195	obligación
+T182	Term-Tributario 2102 2107	Orden
+T183	Term-Tributario 1877 1887	Resolución
+T184	Term-Tributario 1711 1717	plazos
+T185	Term-Tributario 1146 1151	firma
+T186	Term-AttentionRank 781 802	reclamación económico
+T187	Term-AttentionRank 613 634	reclamación económico
+T188	Term-AttentionRank 969 990	reclamación económico
+T189	Term-AttentionRank 1447 1468	Reclamación económico
+T190	Term-AttentionRank 704 711	acuerdo
+T191	Term-AttentionRank 360 367	acuerdo
+T192	Term-AttentionRank 521 528	acuerdo
+T193	Term-AttentionRank 1031 1060	través de la sede electrónica
+T194	Term-AttentionRank 268 304	lugar distinto a su domicilio fiscal
+T195	Term-AttentionRank 116 139	través de representante
+T196	Term-AttentionRank 235 254	relación al recurso
+T197	Term-AttentionRank 1242 1274	acuerdo con la normativa vigente
+T198	Term-AttentionRank 1395 1419	tecnologías informáticas
+T199	Term-AttentionRank 1178 1190	presentación
+T200	Term-AttentionRank 747 774	información arriba indicada
+T201	Term-AttentionRank 1146 1163	firma electrónica
+T202	Term-AttentionRank 1355 1378	través de dichos medios
+T203	Term-AttentionRank 395 401	número
+T204	Term-AttentionRank 1195 1214	medios electrónicos
+T205	Term-AttentionRank 63 68	razón

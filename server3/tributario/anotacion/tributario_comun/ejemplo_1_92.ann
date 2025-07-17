@@ -1,0 +1,129 @@
+T1	Term-DPEJ 1445 1453	garantía
+T2	Term-DPEJ 1494 1503	garantías
+T3	Term-DPEJ 789 793	caso
+T4	Term-DPEJ 1592 1596	caso
+T5	Term-DPEJ 653 663	resolución
+T6	Term-DPEJ 81 85	pago
+T7	Term-DPEJ 237 241	pago
+T8	Term-DPEJ 1011 1015	pago
+T9	Term-DPEJ 1827 1831	pago
+T10	Term-DPEJ 572 580	potestad
+T11	Term-DPEJ 572 593	potestad discrecional
+T12	Term-DPEJ 1779 1786	acuerdo
+T13	Term-DPEJ 1240 1247	recargo
+T14	Term-DPEJ 497 503	plazos
+T15	Term-DPEJ 669 675	plazos
+T16	Term-DPEJ 799 805	plazos
+T17	Term-DPEJ 963 968	plazo
+T18	Term-DPEJ 1092 1103	liquidación
+T19	Term-DPEJ 1299 1310	liquidación
+T20	Term-DPEJ 146 151	Anexo
+T21	Term-DPEJ 305 310	Anexo
+T22	Term-DPEJ 1277 1282	Anexo
+T23	Term-DPEJ 1712 1724	presentación
+T24	Term-DPEJ 1134 1146	aplazamiento
+T25	Term-DPEJ 9 17	petición
+T26	Term-DPEJ 1665 1681	deudas aduaneras
+T27	Term-Termcat 763 772	solicitud
+T28	Term-Termcat 1342 1351	solicitud
+T29	Term-Termcat 1610 1619	solicitud
+T30	Term-Termcat 859 874	interés público
+T31	Term-Termcat 572 593	potestad discrecional
+T32	Term-Termcat 471 479	recursos
+T33	Term-Termcat 653 663	resolución
+T34	Term-Termcat 669 675	plazos
+T35	Term-Termcat 799 805	plazos
+T36	Term-Termcat 497 503	plazos
+T37	Term-Termcat 963 968	plazo
+T38	Term-Termcat 1665 1671	deudas
+T39	Term-Termcat 944 949	forma
+T40	Term-Termcat 1445 1453	garantía
+T41	Term-Termcat 1494 1503	garantías
+T42	Term-Termcat 457 467	generación
+T43	Term-Termcat 859 866	interés
+T44	Term-Termcat 1092 1103	liquidación
+T45	Term-Termcat 1299 1310	liquidación
+T46	Term-Termcat 1827 1831	pago
+T47	Term-Termcat 81 85	pago
+T48	Term-Termcat 1011 1015	pago
+T49	Term-Termcat 237 241	pago
+T50	Term-Termcat 572 580	potestad
+T51	Term-Termcat 1277 1282	Anexo
+T52	Term-Termcat 305 310	Anexo
+T53	Term-Termcat 146 151	Anexo
+T54	Term-Termcat 9 17	petición
+T55	Term-Termcat 534 548	Administración
+T56	Term-Termcat 94 101	ingreso
+T57	Term-Termcat 1399 1409	requisitos
+T58	Term-Termcat 1901 1909	vigencia
+T59	Term-Termcat 1191 1195	base
+T60	Term-Termcat 172 177	euros
+T61	Term-Termcat 994 1006	autorización
+T62	Term-Termcat 1779 1786	acuerdo
+T63	Term-Termcat 1134 1146	aplazamiento
+T64	Term-Termcat 1955 1966	cancelación
+T65	Term-Termcat 729 743	circunstancias
+T66	Term-Termcat 718 724	cuenta
+T67	Term-Termcat 429 435	cuenta
+T68	Term-Termcat 1536 1545	concesión
+T69	Term-Termcat 842 851	conformes
+T70	Term-Termcat 1120 1126	demora
+T71	Term-Termcat 1331 1337	demora
+T72	Term-Termcat 556 565	ejercicio
+T73	Term-Termcat 1914 1928	incumplimiento
+T74	Term-Termcat 1574 1584	mercancías
+T75	Term-Termcat 611 620	normativa
+T76	Term-Termcat 1169 1186	periodo ejecutivo
+T77	Term-Termcat 1252 1269	periodo ejecutivo
+T78	Term-Termcat 1459 1468	perjuicio
+T79	Term-Termcat 1240 1247	recargo
+T80	Term-Termcat 639 646	señalar
+T81	Term-Termcat 729 756	circunstancias concurrentes
+T82	Term-Termcat 0 5	Vista
+T83	Term-Tributario 763 772	solicitud
+T84	Term-Tributario 1342 1351	solicitud
+T85	Term-Tributario 1610 1619	solicitud
+T86	Term-Tributario 1779 1786	acuerdo
+T87	Term-Tributario 81 85	pago
+T88	Term-Tributario 237 241	pago
+T89	Term-Tributario 1011 1015	pago
+T90	Term-Tributario 1827 1831	pago
+T91	Term-Tributario 1712 1724	presentación
+T92	Term-Tributario 471 479	recursos
+T93	Term-Tributario 1445 1453	garantía
+T94	Term-Tributario 1494 1503	garantías
+T95	Term-Tributario 146 151	Anexo
+T96	Term-Tributario 305 310	Anexo
+T97	Term-Tributario 1277 1282	Anexo
+T98	Term-Tributario 1665 1681	deudas aduaneras
+T99	Term-Tributario 9 17	petición
+T100	Term-Tributario 859 866	interés
+T101	Term-Tributario 653 663	resolución
+T102	Term-Tributario 1092 1103	liquidación
+T103	Term-Tributario 1299 1310	liquidación
+T104	Term-Tributario 497 503	plazos
+T105	Term-Tributario 669 675	plazos
+T106	Term-Tributario 799 805	plazos
+T107	Term-Tributario 963 968	plazo
+T108	Term-Tributario 572 593	potestad discrecional
+T109	Term-AttentionRank 1134 1146	aplazamiento
+T110	Term-AttentionRank 1827 1831	pago
+T111	Term-AttentionRank 81 85	pago
+T112	Term-AttentionRank 237 241	pago
+T113	Term-AttentionRank 1732 1772	correspondientes declaraciones aduaneras
+T114	Term-AttentionRank 367 392	dificultades transitorias
+T115	Term-AttentionRank 1665 1681	deudas aduaneras
+T116	Term-AttentionRank 1865 1889	obligaciones tributarias
+T117	Term-AttentionRank 915 939	obligaciones tributarias
+T118	Term-AttentionRank 1169 1186	periodo ejecutivo
+T119	Term-AttentionRank 1252 1269	periodo ejecutivo
+T120	Term-AttentionRank 572 593	potestad discrecional
+T121	Term-AttentionRank 889 907	cumplimento exacto
+T122	Term-AttentionRank 975 1006	consecuencia de la autorización
+T123	Term-AttentionRank 763 772	solicitud
+T124	Term-AttentionRank 1342 1351	solicitud
+T125	Term-AttentionRank 1610 1619	solicitud
+T126	Term-AttentionRank 799 815	plazos acordados
+T127	Term-AttentionRank 1011 1024	pago aplazado
+T128	Term-AttentionRank 1459 1486	perjuicio del mantenimiento
+T129	Term-AttentionRank 842 851	conformes

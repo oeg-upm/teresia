@@ -1,0 +1,157 @@
+T1	Term-DPEJ 1032 1045	procedimiento
+T2	Term-DPEJ 1410 1423	procedimiento
+T3	Term-DPEJ 8 12	caso
+T4	Term-DPEJ 612 616	caso
+T5	Term-DPEJ 1064 1068	caso
+T6	Term-DPEJ 428 438	Resolución
+T7	Term-DPEJ 71 94	entidades colaboradoras
+T8	Term-DPEJ 183 206	entidades colaboradoras
+T9	Term-DPEJ 368 372	pago
+T10	Term-DPEJ 531 535	pago
+T11	Term-DPEJ 246 250	Sede
+T12	Term-DPEJ 71 80	entidades
+T13	Term-DPEJ 183 192	entidades
+T14	Term-DPEJ 323 332	entidades
+T15	Term-DPEJ 1278 1285	acuerdo
+T16	Term-DPEJ 1484 1491	acuerdo
+T17	Term-DPEJ 819 826	recargo
+T18	Term-DPEJ 521 527	plazos
+T19	Term-DPEJ 1786 1791	plazo
+T20	Term-DPEJ 1032 1056	procedimiento de apremio
+T21	Term-DPEJ 1410 1434	procedimiento de apremio
+T22	Term-DPEJ 1649 1660	vencimiento
+T23	Term-DPEJ 1770 1781	vencimiento
+T24	Term-DPEJ 1843 1854	vencimiento
+T25	Term-DPEJ 403 411	términos
+T26	Term-DPEJ 246 262	Sede Electrónica
+T27	Term-DPEJ 1834 1839	fecha
+T28	Term-DPEJ 635 647	aplazamiento
+T29	Term-DPEJ 682 694	aplazamiento
+T30	Term-DPEJ 899 911	aplazamiento
+T31	Term-DPEJ 1001 1013	aplazamiento
+T32	Term-DPEJ 778 785	apremio
+T33	Term-DPEJ 1049 1056	apremio
+T34	Term-DPEJ 1427 1434	apremio
+T35	Term-DPEJ 1087 1102	fraccionamiento
+T36	Term-DPEJ 1289 1304	fraccionamiento
+T37	Term-DPEJ 1495 1510	fraccionamiento
+T38	Term-DPEJ 1110 1118	fracción
+T39	Term-DPEJ 1667 1675	fracción
+T40	Term-DPEJ 1861 1869	fracción
+T41	Term-DPEJ 469 478	Dirección
+T42	Term-Termcat 469 486	Dirección General
+T43	Term-Termcat 71 80	entidades
+T44	Term-Termcat 183 192	entidades
+T45	Term-Termcat 323 332	entidades
+T46	Term-Termcat 1219 1228	solicitud
+T47	Term-Termcat 1584 1593	solicitud
+T48	Term-Termcat 1377 1386	solicitud
+T49	Term-Termcat 428 438	Resolución
+T50	Term-Termcat 246 262	Sede Electrónica
+T51	Term-Termcat 403 411	términos
+T52	Term-Termcat 521 527	plazos
+T53	Term-Termcat 1786 1791	plazo
+T54	Term-Termcat 771 774	vía
+T55	Term-Termcat 123 135	Cooperativas
+T56	Term-Termcat 139 146	Crédito
+T57	Term-Termcat 1255 1261	deudas
+T58	Term-Termcat 1140 1146	deudas
+T59	Term-Termcat 1461 1467	deudas
+T60	Term-Termcat 368 372	pago
+T61	Term-Termcat 531 535	pago
+T62	Term-Termcat 44 50	Tesoro
+T63	Term-Termcat 1843 1854	vencimiento
+T64	Term-Termcat 1770 1781	vencimiento
+T65	Term-Termcat 1649 1660	vencimiento
+T66	Term-Termcat 469 478	Dirección
+T67	Term-Termcat 1795 1802	ingreso
+T68	Term-Termcat 17 24	ingreso
+T69	Term-Termcat 280 288	ingresos
+T70	Term-Termcat 1278 1285	acuerdo
+T71	Term-Termcat 1484 1491	acuerdo
+T72	Term-Termcat 682 694	aplazamiento
+T73	Term-Termcat 1001 1013	aplazamiento
+T74	Term-Termcat 635 647	aplazamiento
+T75	Term-Termcat 899 911	aplazamiento
+T76	Term-Termcat 96 102	Bancos
+T77	Term-Termcat 985 996	cancelación
+T78	Term-Termcat 1427 1434	apremio
+T79	Term-Termcat 1049 1056	apremio
+T80	Term-Termcat 1726 1732	demora
+T81	Term-Termcat 807 813	demora
+T82	Term-Termcat 597 604	efectos
+T83	Term-Termcat 44 58	Tesoro Público
+T84	Term-Termcat 1087 1102	fraccionamiento
+T85	Term-Termcat 1289 1304	fraccionamiento
+T86	Term-Termcat 1495 1510	fraccionamiento
+T87	Term-Termcat 831 848	periodo ejecutivo
+T88	Term-Termcat 1410 1423	procedimiento
+T89	Term-Termcat 1032 1045	procedimiento
+T90	Term-Termcat 819 826	recargo
+T91	Term-Termcat 771 785	vía de apremio
+T92	Term-Termcat 886 895	solicitar
+T93	Term-Termcat 669 678	solicitar
+T94	Term-Tributario 1219 1228	solicitud
+T95	Term-Tributario 1377 1386	solicitud
+T96	Term-Tributario 1584 1593	solicitud
+T97	Term-Tributario 1278 1285	acuerdo
+T98	Term-Tributario 1484 1491	acuerdo
+T99	Term-Tributario 1087 1102	fraccionamiento
+T100	Term-Tributario 1289 1304	fraccionamiento
+T101	Term-Tributario 1495 1510	fraccionamiento
+T102	Term-Tributario 368 372	pago
+T103	Term-Tributario 531 535	pago
+T104	Term-Tributario 1834 1854	fecha de vencimiento
+T105	Term-Tributario 246 262	Sede Electrónica
+T106	Term-Tributario 1032 1045	procedimiento
+T107	Term-Tributario 1410 1423	procedimiento
+T108	Term-Tributario 658 665	momento
+T109	Term-Tributario 875 882	momento
+T110	Term-Tributario 1193 1200	momento
+T111	Term-Tributario 1351 1358	momento
+T112	Term-Tributario 1558 1565	momento
+T113	Term-Tributario 469 486	Dirección General
+T114	Term-Tributario 71 80	entidades
+T115	Term-Tributario 183 192	entidades
+T116	Term-Tributario 323 332	entidades
+T117	Term-Tributario 139 146	Crédito
+T118	Term-Tributario 428 438	Resolución
+T119	Term-Tributario 1110 1118	fracción
+T120	Term-Tributario 1667 1675	fracción
+T121	Term-Tributario 1861 1869	fracción
+T122	Term-Tributario 1649 1660	vencimiento
+T123	Term-Tributario 1770 1781	vencimiento
+T124	Term-Tributario 1843 1854	vencimiento
+T125	Term-Tributario 469 478	Dirección
+T126	Term-Tributario 521 527	plazos
+T127	Term-Tributario 1786 1791	plazo
+T128	Term-AttentionRank 1753 1880	día siguiente al vencimiento del plazo de ingreso en período voluntario hasta la fecha de vencimiento de la fracción incumplida
+T129	Term-AttentionRank 1461 1510	deudas incluidas en el acuerdo de fraccionamiento
+T130	Term-AttentionRank 1255 1304	deudas incluidas en el acuerdo de fraccionamiento
+T131	Term-AttentionRank 1110 1129	fracción incumplida
+T132	Term-AttentionRank 1667 1686	fracción incumplida
+T133	Term-AttentionRank 1610 1627	período ejecutivo
+T134	Term-AttentionRank 1169 1186	período ejecutivo
+T135	Term-AttentionRank 1327 1344	período ejecutivo
+T136	Term-AttentionRank 950 967	período ejecutivo
+T137	Term-AttentionRank 1087 1102	fraccionamiento
+T138	Term-AttentionRank 1427 1434	apremio
+T139	Term-AttentionRank 778 785	apremio
+T140	Term-AttentionRank 1049 1056	apremio
+T141	Term-AttentionRank 313 332	través de entidades
+T142	Term-AttentionRank 1533 1551	período voluntario
+T143	Term-AttentionRank 733 751	período voluntario
+T144	Term-AttentionRank 368 372	pago
+T145	Term-AttentionRank 531 535	pago
+T146	Term-AttentionRank 1558 1565	momento
+T147	Term-AttentionRank 875 882	momento
+T148	Term-AttentionRank 658 665	momento
+T149	Term-AttentionRank 1193 1200	momento
+T150	Term-AttentionRank 1351 1358	momento
+T151	Term-AttentionRank 1631 1644	día siguiente
+T152	Term-AttentionRank 831 848	periodo ejecutivo
+T153	Term-AttentionRank 183 206	entidades colaboradoras
+T154	Term-AttentionRank 1064 1068	caso
+T155	Term-AttentionRank 612 616	caso
+T156	Term-AttentionRank 8 12	caso
+T157	Term-AttentionRank 61 94	través de entidades colaboradoras

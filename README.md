@@ -19,5 +19,7 @@ Also, termcat over tributario1 can be added, but it is not.
 
 * server1: contains everything related to the pre-annotation layers and server tests, aimed at visualizing the results in BRAT. Version 01 and parse from gold_standard1.
 
-* server1: Version 02 and parse from gold_standard2.
+* server2: Version 02 and parse from gold_standard2.
+
+* server3: Version 03 and parse from gold_standard2 but with phraseology and labels changed.
 

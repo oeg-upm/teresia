@@ -1,0 +1,145 @@
+T1	Term-DPEJ 1637 1642	firma
+T2	Term-DPEJ 410 422	notificación
+T3	Term-DPEJ 751 764	procedimiento
+T4	Term-DPEJ 1637 1654	firma electrónica
+T5	Term-DPEJ 1021 1026	casos
+T6	Term-DPEJ 1626 1633	sistema
+T7	Term-DPEJ 1175 1198	entidades colaboradoras
+T8	Term-DPEJ 1149 1153	pago
+T9	Term-DPEJ 1325 1329	pago
+T10	Term-DPEJ 1572 1576	pago
+T11	Term-DPEJ 1491 1497	opción
+T12	Term-DPEJ 993 997	sede
+T13	Term-DPEJ 1397 1401	Sede
+T14	Term-DPEJ 1175 1184	entidades
+T15	Term-DPEJ 84 91	acuerdo
+T16	Term-DPEJ 156 161	plazo
+T17	Term-DPEJ 302 307	plazo
+T18	Term-DPEJ 389 394	plazo
+T19	Term-DPEJ 536 541	plazo
+T20	Term-DPEJ 751 775	procedimiento de apremio
+T21	Term-DPEJ 286 297	vencimiento
+T22	Term-DPEJ 515 526	vencimiento
+T23	Term-DPEJ 1339 1345	adeudo
+T24	Term-DPEJ 901 909	atención
+T25	Term-DPEJ 943 951	Atención
+T26	Term-DPEJ 429 439	denegación
+T27	Term-DPEJ 619 629	DENEGACIÓN
+T28	Term-DPEJ 46 57	liquidación
+T29	Term-DPEJ 202 213	liquidación
+T30	Term-DPEJ 1135 1144	documento
+T31	Term-DPEJ 993 1009	sede electrónica
+T32	Term-DPEJ 1397 1413	Sede Electrónica
+T33	Term-DPEJ 350 355	fecha
+T34	Term-DPEJ 506 511	fecha
+T35	Term-DPEJ 768 775	apremio
+T36	Term-DPEJ 913 926	contribuyente
+T37	Term-DPEJ 1470 1479	dirección
+T38	Term-Termcat 1679 1686	Agencia
+T39	Term-Termcat 1420 1427	Agencia
+T40	Term-Termcat 1175 1184	entidades
+T41	Term-Termcat 635 646	SOLICITUDES
+T42	Term-Termcat 674 683	solicitud
+T43	Term-Termcat 410 422	notificación
+T44	Term-Termcat 993 1009	sede electrónica
+T45	Term-Termcat 1397 1413	Sede Electrónica
+T46	Term-Termcat 1626 1654	sistema de firma electrónica
+T47	Term-Termcat 389 394	plazo
+T48	Term-Termcat 302 307	plazo
+T49	Term-Termcat 156 161	plazo
+T50	Term-Termcat 536 541	plazo
+T51	Term-Termcat 1067 1073	Seguro
+T52	Term-Termcat 1227 1239	Cooperativas
+T53	Term-Termcat 1243 1250	Crédito
+T54	Term-Termcat 1547 1553	deudas
+T55	Term-Termcat 202 213	liquidación
+T56	Term-Termcat 46 57	liquidación
+T57	Term-Termcat 1325 1329	pago
+T58	Term-Termcat 1149 1153	pago
+T59	Term-Termcat 1572 1576	pago
+T60	Term-Termcat 1637 1654	firma electrónica
+T61	Term-Termcat 515 526	vencimiento
+T62	Term-Termcat 286 297	vencimiento
+T63	Term-Termcat 1060 1066	Código
+T64	Term-Termcat 1499 1507	Trámites
+T65	Term-Termcat 1626 1633	sistema
+T66	Term-Termcat 1439 1453	Administración
+T67	Term-Termcat 901 909	atención
+T68	Term-Termcat 943 951	Atención
+T69	Term-Termcat 1470 1479	dirección
+T70	Term-Termcat 723 730	ingreso
+T71	Term-Termcat 360 367	ingreso
+T72	Term-Termcat 311 318	ingreso
+T73	Term-Termcat 461 468	ingreso
+T74	Term-Termcat 142 149	ingreso
+T75	Term-Termcat 1637 1642	firma
+T76	Term-Termcat 84 91	acuerdo
+T77	Term-Termcat 1439 1464	Administración Tributaria
+T78	Term-Termcat 1200 1206	Bancos
+T79	Term-Termcat 1283 1289	cuenta
+T80	Term-Termcat 1352 1368	cuenta corriente
+T81	Term-Termcat 768 775	apremio
+T82	Term-Termcat 913 926	contribuyente
+T83	Term-Termcat 74 80	demora
+T84	Term-Termcat 234 240	demora
+T85	Term-Termcat 1135 1144	documento
+T86	Term-Termcat 605 612	EFECTOS
+T87	Term-Termcat 1491 1497	opción
+T88	Term-Termcat 650 667	PERIODO EJECUTIVO
+T89	Term-Termcat 547 556	perjuicio
+T90	Term-Termcat 751 764	procedimiento
+T91	Term-Termcat 1611 1619	disponer
+T92	Term-Termcat 840 846	acudir
+T93	Term-Tributario 635 646	SOLICITUDES
+T94	Term-Tributario 674 683	solicitud
+T95	Term-Tributario 84 91	acuerdo
+T96	Term-Tributario 1149 1153	pago
+T97	Term-Tributario 1325 1329	pago
+T98	Term-Tributario 1572 1576	pago
+T99	Term-Tributario 506 526	fecha de vencimiento
+T100	Term-Tributario 858 866	oficinas
+T101	Term-Tributario 1626 1633	sistema
+T102	Term-Tributario 1060 1066	Código
+T103	Term-Tributario 993 1009	sede electrónica
+T104	Term-Tributario 1397 1413	Sede Electrónica
+T105	Term-Tributario 751 764	procedimiento
+T106	Term-Tributario 1637 1654	firma electrónica
+T107	Term-Tributario 913 926	contribuyente
+T108	Term-Tributario 1175 1184	entidades
+T109	Term-Tributario 1491 1497	opción
+T110	Term-Tributario 1067 1073	Seguro
+T111	Term-Tributario 1243 1250	Crédito
+T112	Term-Tributario 46 57	liquidación
+T113	Term-Tributario 202 213	liquidación
+T114	Term-Tributario 286 297	vencimiento
+T115	Term-Tributario 515 526	vencimiento
+T116	Term-Tributario 1470 1479	dirección
+T117	Term-Tributario 156 161	plazo
+T118	Term-Tributario 302 307	plazo
+T119	Term-Tributario 389 394	plazo
+T120	Term-Tributario 536 541	plazo
+T121	Term-Tributario 1637 1642	firma
+T122	Term-Tributario 410 422	notificación
+T123	Term-AttentionRank 254 439	partir del día siguiente al del vencimiento del plazo de ingreso en período voluntario hasta la fecha del ingreso realizado durante el plazo abierto con la notificación de la denegación
+T124	Term-AttentionRank 1325 1329	pago
+T125	Term-AttentionRank 1149 1153	pago
+T126	Term-AttentionRank 1572 1576	pago
+T127	Term-AttentionRank 723 730	ingreso
+T128	Term-AttentionRank 142 149	ingreso
+T129	Term-AttentionRank 461 468	ingreso
+T130	Term-AttentionRank 993 1009	sede electrónica
+T131	Term-AttentionRank 1397 1413	Sede Electrónica
+T132	Term-AttentionRank 506 511	fecha
+T133	Term-AttentionRank 1662 1671	admitidos
+T134	Term-AttentionRank 1626 1633	sistema
+T135	Term-AttentionRank 221 230	intereses
+T136	Term-AttentionRank 473 482	intereses
+T137	Term-AttentionRank 61 70	intereses
+T138	Term-AttentionRank 751 764	procedimiento
+T139	Term-AttentionRank 156 177	plazo arriba indicado
+T140	Term-AttentionRank 1175 1198	entidades colaboradoras
+T141	Term-AttentionRank 803 815	anterioridad
+T142	Term-AttentionRank 590 603	posterioridad
+T143	Term-AttentionRank 4 17	posterioridad
+T144	Term-AttentionRank 1637 1654	firma electrónica
+T145	Term-AttentionRank 913 926	contribuyente

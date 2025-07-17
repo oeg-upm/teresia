@@ -1,0 +1,138 @@
+T1	Term-DPEJ 1746 1752	número
+T2	Term-DPEJ 182 195	procedimiento
+T3	Term-DPEJ 645 658	procedimiento
+T4	Term-DPEJ 1447 1451	caso
+T5	Term-DPEJ 1200 1207	escrito
+T6	Term-DPEJ 1314 1325	reclamación
+T7	Term-DPEJ 1157 1171	encabezamiento
+T8	Term-DPEJ 917 924	acuerdo
+T9	Term-DPEJ 1270 1277	acuerdo
+T10	Term-DPEJ 1711 1718	acuerdo
+T11	Term-DPEJ 444 451	recargo
+T12	Term-DPEJ 350 355	plazo
+T13	Term-DPEJ 423 428	plazo
+T14	Term-DPEJ 800 805	plazo
+T15	Term-DPEJ 985 990	plazo
+T16	Term-DPEJ 182 206	procedimiento de apremio
+T17	Term-DPEJ 645 669	procedimiento de apremio
+T18	Term-DPEJ 1090 1111	recurso de reposición
+T19	Term-DPEJ 1586 1594	relación
+T20	Term-DPEJ 318 329	vencimiento
+T21	Term-DPEJ 334 345	vencimiento
+T22	Term-DPEJ 407 418	vencimiento
+T23	Term-DPEJ 784 795	vencimiento
+T24	Term-DPEJ 849 860	vencimiento
+T25	Term-DPEJ 1639 1655	domicilio fiscal
+T26	Term-DPEJ 1059 1068	documento
+T27	Term-DPEJ 1180 1189	documento
+T28	Term-DPEJ 1756 1766	expediente
+T29	Term-DPEJ 1639 1648	domicilio
+T30	Term-DPEJ 1668 1677	domicilio
+T31	Term-DPEJ 1133 1139	órgano
+T32	Term-DPEJ 398 403	fecha
+T33	Term-DPEJ 840 845	fecha
+T34	Term-DPEJ 1735 1740	fecha
+T35	Term-DPEJ 1101 1111	reposición
+T36	Term-DPEJ 199 206	apremio
+T37	Term-DPEJ 662 669	apremio
+T38	Term-DPEJ 6 14	fracción
+T39	Term-DPEJ 158 166	fracción
+T40	Term-DPEJ 239 247	fracción
+T41	Term-DPEJ 867 875	fracción
+T42	Term-Termcat 116 125	solicitud
+T43	Term-Termcat 1598 1605	recurso
+T44	Term-Termcat 1090 1111	recurso de reposición
+T45	Term-Termcat 985 990	plazo
+T46	Term-Termcat 800 805	plazo
+T47	Term-Termcat 423 428	plazo
+T48	Term-Termcat 350 355	plazo
+T49	Term-Termcat 36 42	deudas
+T50	Term-Termcat 692 698	deudas
+T51	Term-Termcat 1668 1677	domicilio
+T52	Term-Termcat 1639 1648	domicilio
+T53	Term-Termcat 1405 1411	nombre
+T54	Term-Termcat 1503 1509	nombre
+T55	Term-Termcat 1314 1325	reclamación
+T56	Term-Termcat 1477 1490	representante
+T57	Term-Termcat 849 860	vencimiento
+T58	Term-Termcat 407 418	vencimiento
+T59	Term-Termcat 334 345	vencimiento
+T60	Term-Termcat 318 329	vencimiento
+T61	Term-Termcat 784 795	vencimiento
+T62	Term-Termcat 931 945	Administración
+T63	Term-Termcat 359 366	ingreso
+T64	Term-Termcat 528 535	ingreso
+T65	Term-Termcat 809 816	ingreso
+T66	Term-Termcat 1157 1171	encabezamiento
+T67	Term-Termcat 1711 1718	acuerdo
+T68	Term-Termcat 1270 1277	acuerdo
+T69	Term-Termcat 917 924	acuerdo
+T70	Term-Termcat 899 907	conforme
+T71	Term-Termcat 1254 1262	conforme
+T72	Term-Termcat 662 669	apremio
+T73	Term-Termcat 199 206	apremio
+T74	Term-Termcat 266 272	demora
+T75	Term-Termcat 736 742	demora
+T76	Term-Termcat 1180 1189	documento
+T77	Term-Termcat 1059 1068	documento
+T78	Term-Termcat 1639 1655	domicilio fiscal
+T79	Term-Termcat 1756 1766	expediente
+T80	Term-Termcat 1297 1302	haber
+T81	Term-Termcat 1389 1400	información
+T82	Term-Termcat 1133 1139	órgano
+T83	Term-Termcat 645 658	procedimiento
+T84	Term-Termcat 182 195	procedimiento
+T85	Term-Termcat 1414 1426	razón social
+T86	Term-Termcat 444 451	recargo
+T87	Term-Termcat 955 963	recurrir
+T88	Term-Termcat 1649 1655	fiscal
+T89	Term-Termcat 1041 1050	recepción
+T90	Term-Termcat 1090 1097	recurso
+T91	Term-Tributario 116 125	solicitud
+T92	Term-Tributario 917 924	acuerdo
+T93	Term-Tributario 1270 1277	acuerdo
+T94	Term-Tributario 1711 1718	acuerdo
+T95	Term-Tributario 997 1000	mes
+T96	Term-Tributario 1756 1766	expediente
+T97	Term-Tributario 1090 1097	recurso
+T98	Term-Tributario 1598 1605	recurso
+T99	Term-Tributario 398 418	fecha de vencimiento
+T100	Term-Tributario 840 860	fecha de vencimiento
+T101	Term-Tributario 1639 1655	domicilio fiscal
+T102	Term-Tributario 1314 1325	reclamación
+T103	Term-Tributario 182 195	procedimiento
+T104	Term-Tributario 645 658	procedimiento
+T105	Term-Tributario 1414 1419	razón
+T106	Term-Tributario 90 97	momento
+T107	Term-Tributario 6 14	fracción
+T108	Term-Tributario 158 166	fracción
+T109	Term-Tributario 239 247	fracción
+T110	Term-Tributario 867 875	fracción
+T111	Term-Tributario 318 329	vencimiento
+T112	Term-Tributario 334 345	vencimiento
+T113	Term-Tributario 407 418	vencimiento
+T114	Term-Tributario 784 795	vencimiento
+T115	Term-Tributario 849 860	vencimiento
+T116	Term-Tributario 350 355	plazo
+T117	Term-Tributario 423 428	plazo
+T118	Term-Tributario 800 805	plazo
+T119	Term-Tributario 985 990	plazo
+T120	Term-AttentionRank 286 438	partir del día siguiente al del vencimiento del vencimiento del plazo de ingreso en período voluntario hasta la fecha de vencimiento del plazo concedido
+T121	Term-AttentionRank 763 886	día siguiente al del vencimiento del plazo de ingreso en voluntaria hasta la fecha de vencimiento de la fracción incumplida
+T122	Term-AttentionRank 997 1068	mes contado desde el día siguiente al de la recepción de este documento
+T123	Term-AttentionRank 985 990	plazo
+T124	Term-AttentionRank 1711 1718	acuerdo
+T125	Term-AttentionRank 1270 1277	acuerdo
+T126	Term-AttentionRank 917 924	acuerdo
+T127	Term-AttentionRank 1735 1740	fecha
+T128	Term-AttentionRank 1619 1655	lugar distinto a su domicilio fiscal
+T129	Term-AttentionRank 528 535	ingreso
+T130	Term-AttentionRank 1090 1097	recurso
+T131	Term-AttentionRank 65 83	período voluntario
+T132	Term-AttentionRank 1586 1605	relación al recurso
+T133	Term-AttentionRank 1746 1752	número
+T134	Term-AttentionRank 1467 1490	través de representante
+T135	Term-AttentionRank 645 658	procedimiento
+T136	Term-AttentionRank 182 195	procedimiento
+T137	Term-AttentionRank 662 669	apremio
+T138	Term-AttentionRank 199 206	apremio

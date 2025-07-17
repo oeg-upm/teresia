@@ -1,0 +1,163 @@
+T1	Term-DPEJ 560 565	firma
+T2	Term-DPEJ 560 577	firma electrónica
+T3	Term-DPEJ 531 538	sistema
+T4	Term-DPEJ 1155 1163	sistemas
+T5	Term-DPEJ 1348 1358	Resolución
+T6	Term-DPEJ 95 100	hábil
+T7	Term-DPEJ 259 282	entidades colaboradoras
+T8	Term-DPEJ 709 732	entidades colaboradoras
+T9	Term-DPEJ 20 24	pago
+T10	Term-DPEJ 83 87	pago
+T11	Term-DPEJ 168 172	pago
+T12	Term-DPEJ 224 228	pago
+T13	Term-DPEJ 486 490	pago
+T14	Term-DPEJ 986 990	pago
+T15	Term-DPEJ 1288 1292	pago
+T16	Term-DPEJ 1704 1708	pago
+T17	Term-DPEJ 204 208	PAGO
+T18	Term-DPEJ 1203 1208	pagos
+T19	Term-DPEJ 1658 1662	Pago
+T20	Term-DPEJ 361 367	opción
+T21	Term-DPEJ 215 219	Sede
+T22	Term-DPEJ 259 268	entidades
+T23	Term-DPEJ 709 718	entidades
+T24	Term-DPEJ 1243 1252	entidades
+T25	Term-DPEJ 1085 1094	Entidades
+T26	Term-DPEJ 622 633	Certificado
+T27	Term-DPEJ 74 79	plazo
+T28	Term-DPEJ 194 200	PLAZOS
+T29	Term-DPEJ 774 780	adeudo
+T30	Term-DPEJ 857 865	Atención
+T31	Term-DPEJ 1715 1726	liquidación
+T32	Term-DPEJ 622 645	Certificado electrónico
+T33	Term-DPEJ 1323 1331	términos
+T34	Term-DPEJ 91 100	día hábil
+T35	Term-DPEJ 880 891	Recaudación
+T36	Term-DPEJ 1497 1508	recaudación
+T37	Term-DPEJ 542 557	autentificación
+T38	Term-DPEJ 133 138	fecha
+T39	Term-DPEJ 1478 1490	colaboración
+T40	Term-DPEJ 459 468	dirección
+T41	Term-DPEJ 1389 1398	Dirección
+T42	Term-Termcat 602 609	Agencia
+T43	Term-Termcat 622 645	Certificado electrónico
+T44	Term-Termcat 91 100	día hábil
+T45	Term-Termcat 1389 1406	Dirección General
+T46	Term-Termcat 1243 1252	entidades
+T47	Term-Termcat 709 718	entidades
+T48	Term-Termcat 259 268	entidades
+T49	Term-Termcat 1085 1094	Entidades
+T50	Term-Termcat 1348 1358	Resolución
+T51	Term-Termcat 560 577	firma electrónica
+T52	Term-Termcat 1323 1331	términos
+T53	Term-Termcat 74 79	plazo
+T54	Term-Termcat 194 200	PLAZOS
+T55	Term-Termcat 1649 1662	Carta de Pago
+T56	Term-Termcat 622 633	Certificado
+T57	Term-Termcat 311 323	Cooperativas
+T58	Term-Termcat 327 334	Crédito
+T59	Term-Termcat 1715 1726	liquidación
+T60	Term-Termcat 168 172	pago
+T61	Term-Termcat 20 24	pago
+T62	Term-Termcat 224 228	pago
+T63	Term-Termcat 83 87	pago
+T64	Term-Termcat 986 990	pago
+T65	Term-Termcat 1288 1292	pago
+T66	Term-Termcat 1704 1708	pago
+T67	Term-Termcat 486 490	pago
+T68	Term-Termcat 204 208	PAGO
+T69	Term-Termcat 1203 1208	pagos
+T70	Term-Termcat 663 679	personas físicas
+T71	Term-Termcat 818 832	persona física
+T72	Term-Termcat 1440 1446	Tesoro
+T73	Term-Termcat 1478 1490	colaboración
+T74	Term-Termcat 531 538	sistema
+T75	Term-Termcat 1155 1163	sistemas
+T76	Term-Termcat 1567 1581	Administración
+T77	Term-Termcat 857 865	Atención
+T78	Term-Termcat 459 468	dirección
+T79	Term-Termcat 1389 1398	Dirección
+T80	Term-Termcat 1590 1598	ingresos
+T81	Term-Termcat 542 557	autentificación
+T82	Term-Termcat 663 671	personas
+T83	Term-Termcat 818 825	persona
+T84	Term-Termcat 560 565	firma
+T85	Term-Termcat 1432 1437	ABONO
+T86	Term-Termcat 284 290	Bancos
+T87	Term-Termcat 1649 1654	Carta
+T88	Term-Termcat 784 790	cuenta
+T89	Term-Termcat 1456 1462	cuenta
+T90	Term-Termcat 1137 1143	cuenta
+T91	Term-Termcat 49 56	festivo
+T92	Term-Termcat 1440 1454	Tesoro Público
+T93	Term-Termcat 361 367	opción
+T94	Term-Termcat 1658 1662	Pago
+T95	Term-Termcat 880 891	Recaudación
+T96	Term-Termcat 1497 1508	recaudación
+T97	Term-Termcat 1061 1071	sucursales
+T98	Term-Termcat 516 524	disponer
+T99	Term-Termcat 1015 1023	disponer
+T100	Term-Tributario 648 653	clave
+T101	Term-Tributario 542 557	autentificación
+T102	Term-Tributario 20 24	pago
+T103	Term-Tributario 83 87	pago
+T104	Term-Tributario 168 172	pago
+T105	Term-Tributario 224 228	pago
+T106	Term-Tributario 486 490	pago
+T107	Term-Tributario 986 990	pago
+T108	Term-Tributario 1288 1292	pago
+T109	Term-Tributario 1704 1708	pago
+T110	Term-Tributario 204 208	PAGO
+T111	Term-Tributario 1203 1208	pagos
+T112	Term-Tributario 1658 1662	Pago
+T113	Term-Tributario 531 538	sistema
+T114	Term-Tributario 1155 1163	sistemas
+T115	Term-Tributario 560 577	firma electrónica
+T116	Term-Tributario 622 633	Certificado
+T117	Term-Tributario 1389 1406	Dirección General
+T118	Term-Tributario 259 268	entidades
+T119	Term-Tributario 709 718	entidades
+T120	Term-Tributario 1243 1252	entidades
+T121	Term-Tributario 1085 1094	Entidades
+T122	Term-Tributario 361 367	opción
+T123	Term-Tributario 327 334	Crédito
+T124	Term-Tributario 1348 1358	Resolución
+T125	Term-Tributario 1715 1726	liquidación
+T126	Term-Tributario 459 468	dirección
+T127	Term-Tributario 1389 1398	Dirección
+T128	Term-Tributario 622 645	Certificado electrónico
+T129	Term-Tributario 91 100	día hábil
+T130	Term-Tributario 74 79	plazo
+T131	Term-Tributario 194 200	PLAZOS
+T132	Term-Tributario 560 565	firma
+T133	Term-Tributario 133 145	fecha límite
+T134	Term-AttentionRank 168 172	pago
+T135	Term-AttentionRank 20 24	pago
+T136	Term-AttentionRank 1288 1292	pago
+T137	Term-AttentionRank 224 228	pago
+T138	Term-AttentionRank 83 87	pago
+T139	Term-AttentionRank 1704 1708	pago
+T140	Term-AttentionRank 204 208	PAGO
+T141	Term-AttentionRank 1203 1208	pagos
+T142	Term-AttentionRank 1658 1662	Pago
+T143	Term-AttentionRank 245 282	través de las entidades colaboradoras
+T144	Term-AttentionRank 784 790	cuenta
+T145	Term-AttentionRank 1456 1462	cuenta
+T146	Term-AttentionRank 1137 1143	cuenta
+T147	Term-AttentionRank 709 732	entidades colaboradoras
+T148	Term-AttentionRank 459 468	dirección
+T149	Term-AttentionRank 1389 1398	Dirección
+T150	Term-AttentionRank 531 538	sistema
+T151	Term-AttentionRank 1155 1163	sistemas
+T152	Term-AttentionRank 880 891	Recaudación
+T153	Term-AttentionRank 1497 1508	recaudación
+T154	Term-AttentionRank 1233 1252	través de entidades
+T155	Term-AttentionRank 486 502	pago electrónico
+T156	Term-AttentionRank 133 145	fecha límite
+T157	Term-AttentionRank 91 94	día
+T158	Term-AttentionRank 13 16	día
+T159	Term-AttentionRank 986 1001	pago telefónico
+T160	Term-AttentionRank 1061 1081	sucursales bancarias
+T161	Term-AttentionRank 560 565	firma
+T162	Term-AttentionRank 74 79	plazo
+T163	Term-AttentionRank 194 200	PLAZOS

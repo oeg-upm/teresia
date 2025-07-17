@@ -1,0 +1,142 @@
+T1	Term-DPEJ 1692 1697	firma
+T2	Term-DPEJ 954 960	número
+T3	Term-DPEJ 1692 1709	firma electrónica
+T4	Term-DPEJ 9 14	casos
+T5	Term-DPEJ 655 659	caso
+T6	Term-DPEJ 406 413	escrito
+T7	Term-DPEJ 1206 1213	escrito
+T8	Term-DPEJ 1680 1688	sistemas
+T9	Term-DPEJ 521 532	reclamación
+T10	Term-DPEJ 1157 1168	reclamación
+T11	Term-DPEJ 1325 1336	reclamación
+T12	Term-DPEJ 1515 1526	reclamación
+T13	Term-DPEJ 1590 1594	sede
+T14	Term-DPEJ 163 170	acuerdo
+T15	Term-DPEJ 389 396	acuerdo
+T16	Term-DPEJ 476 483	acuerdo
+T17	Term-DPEJ 919 926	acuerdo
+T18	Term-DPEJ 1248 1255	acuerdo
+T19	Term-DPEJ 231 236	plazo
+T20	Term-DPEJ 336 357	recurso de reposición
+T21	Term-DPEJ 1485 1506	recurso de reposición
+T22	Term-DPEJ 1140 1151	disposición
+T23	Term-DPEJ 794 802	relación
+T24	Term-DPEJ 847 863	domicilio fiscal
+T25	Term-DPEJ 123 132	documento
+T26	Term-DPEJ 305 314	documento
+T27	Term-DPEJ 964 974	expediente
+T28	Term-DPEJ 999 1009	expediente
+T29	Term-DPEJ 847 856	domicilio
+T30	Term-DPEJ 876 885	domicilio
+T31	Term-DPEJ 367 373	órgano
+T32	Term-DPEJ 1226 1232	órgano
+T33	Term-DPEJ 1433 1439	órgano
+T34	Term-DPEJ 1590 1606	sede electrónica
+T35	Term-DPEJ 943 948	fecha
+T36	Term-DPEJ 347 357	reposición
+T37	Term-DPEJ 1496 1506	reposición
+T38	Term-Termcat 1613 1620	Agencia
+T39	Term-Termcat 806 813	recurso
+T40	Term-Termcat 336 357	recurso de reposición
+T41	Term-Termcat 1485 1506	recurso de reposición
+T42	Term-Termcat 1590 1606	sede electrónica
+T43	Term-Termcat 1692 1709	firma electrónica
+T44	Term-Termcat 231 236	plazo
+T45	Term-Termcat 55 61	Seguro
+T46	Term-Termcat 847 856	domicilio
+T47	Term-Termcat 876 885	domicilio
+T48	Term-Termcat 711 717	nombre
+T49	Term-Termcat 613 619	nombre
+T50	Term-Termcat 1015 1020	poder
+T51	Term-Termcat 1325 1336	reclamación
+T52	Term-Termcat 521 532	reclamación
+T53	Term-Termcat 1515 1526	reclamación
+T54	Term-Termcat 1157 1168	reclamación
+T55	Term-Termcat 685 698	representante
+T56	Term-Termcat 48 54	Código
+T57	Term-Termcat 1680 1688	sistemas
+T58	Term-Termcat 1635 1649	Administración
+T59	Term-Termcat 177 191	Administración
+T60	Term-Termcat 1440 1453	independiente
+T61	Term-Termcat 1692 1697	firma
+T62	Term-Termcat 1140 1151	disposición
+T63	Term-Termcat 476 483	acuerdo
+T64	Term-Termcat 919 926	acuerdo
+T65	Term-Termcat 389 396	acuerdo
+T66	Term-Termcat 163 170	acuerdo
+T67	Term-Termcat 1248 1255	acuerdo
+T68	Term-Termcat 1635 1660	Administración Tributaria
+T69	Term-Termcat 1064 1072	conforme
+T70	Term-Termcat 145 153	conforme
+T71	Term-Termcat 460 468	conforme
+T72	Term-Termcat 305 314	documento
+T73	Term-Termcat 123 132	documento
+T74	Term-Termcat 847 863	domicilio fiscal
+T75	Term-Termcat 964 974	expediente
+T76	Term-Termcat 999 1009	expediente
+T77	Term-Termcat 504 509	haber
+T78	Term-Termcat 1291 1302	información
+T79	Term-Termcat 597 608	información
+T80	Term-Termcat 367 373	órgano
+T81	Term-Termcat 1433 1439	órgano
+T82	Term-Termcat 1226 1232	órgano
+T83	Term-Termcat 622 634	razón social
+T84	Term-Termcat 201 209	recurrir
+T85	Term-Termcat 1385 1393	Tribunal
+T86	Term-Termcat 1080 1086	acudir
+T87	Term-Termcat 857 863	fiscal
+T88	Term-Termcat 1421 1431	competente
+T89	Term-Termcat 988 995	conocer
+T90	Term-Termcat 287 296	recepción
+T91	Term-Termcat 1485 1492	recurso
+T92	Term-Termcat 336 343	recurso
+T93	Term-Tributario 163 170	acuerdo
+T94	Term-Tributario 389 396	acuerdo
+T95	Term-Tributario 476 483	acuerdo
+T96	Term-Tributario 919 926	acuerdo
+T97	Term-Tributario 1248 1255	acuerdo
+T98	Term-Tributario 243 246	mes
+T99	Term-Tributario 964 974	expediente
+T100	Term-Tributario 999 1009	expediente
+T101	Term-Tributario 336 343	recurso
+T102	Term-Tributario 806 813	recurso
+T103	Term-Tributario 1485 1492	recurso
+T104	Term-Tributario 847 863	domicilio fiscal
+T105	Term-Tributario 1092 1099	oficina
+T106	Term-Tributario 1680 1688	sistemas
+T107	Term-Tributario 48 54	Código
+T108	Term-Tributario 521 532	reclamación
+T109	Term-Tributario 1157 1168	reclamación
+T110	Term-Tributario 1325 1336	reclamación
+T111	Term-Tributario 1515 1526	reclamación
+T112	Term-Tributario 1590 1606	sede electrónica
+T113	Term-Tributario 622 627	razón
+T114	Term-Tributario 1692 1709	firma electrónica
+T115	Term-Tributario 55 61	Seguro
+T116	Term-Tributario 231 236	plazo
+T117	Term-Tributario 1692 1697	firma
+T118	Term-AttentionRank 243 314	mes contado desde el día siguiente al de la recepción de este documento
+T119	Term-AttentionRank 1325 1346	reclamación económico
+T120	Term-AttentionRank 521 542	reclamación económico
+T121	Term-AttentionRank 1157 1178	reclamación económico
+T122	Term-AttentionRank 1515 1536	reclamación económico
+T123	Term-AttentionRank 476 483	acuerdo
+T124	Term-AttentionRank 919 926	acuerdo
+T125	Term-AttentionRank 389 396	acuerdo
+T126	Term-AttentionRank 163 170	acuerdo
+T127	Term-AttentionRank 1248 1255	acuerdo
+T128	Term-AttentionRank 1577 1606	través de la sede electrónica
+T129	Term-AttentionRank 827 863	lugar distinto a su domicilio fiscal
+T130	Term-AttentionRank 1206 1232	escrito dirigido al órgano
+T131	Term-AttentionRank 1485 1492	recurso
+T132	Term-AttentionRank 336 343	recurso
+T133	Term-AttentionRank 675 698	través de representante
+T134	Term-AttentionRank 794 813	relación al recurso
+T135	Term-AttentionRank 367 373	órgano
+T136	Term-AttentionRank 1433 1439	órgano
+T137	Term-AttentionRank 90 114	pie de la primera página
+T138	Term-AttentionRank 347 357	reposición
+T139	Term-AttentionRank 1496 1506	reposición
+T140	Term-AttentionRank 587 608	siguiente información
+T141	Term-AttentionRank 231 236	plazo
+T142	Term-AttentionRank 954 960	número

@@ -1,0 +1,147 @@
+T1	Term-DPEJ 352 365	procedimiento
+T2	Term-DPEJ 1006 1019	procedimiento
+T3	Term-DPEJ 1469 1482	procedimiento
+T4	Term-DPEJ 6 10	caso
+T5	Term-DPEJ 220 227	acuerdo
+T6	Term-DPEJ 426 433	acuerdo
+T7	Term-DPEJ 1268 1275	recargo
+T8	Term-DPEJ 728 733	plazo
+T9	Term-DPEJ 1174 1179	plazo
+T10	Term-DPEJ 1247 1252	plazo
+T11	Term-DPEJ 1624 1629	plazo
+T12	Term-DPEJ 352 376	procedimiento de apremio
+T13	Term-DPEJ 1006 1030	procedimiento de apremio
+T14	Term-DPEJ 1469 1493	procedimiento de apremio
+T15	Term-DPEJ 591 602	vencimiento
+T16	Term-DPEJ 712 723	vencimiento
+T17	Term-DPEJ 785 796	vencimiento
+T18	Term-DPEJ 1142 1153	vencimiento
+T19	Term-DPEJ 1158 1169	vencimiento
+T20	Term-DPEJ 1231 1242	vencimiento
+T21	Term-DPEJ 1608 1619	vencimiento
+T22	Term-DPEJ 1673 1684	vencimiento
+T23	Term-DPEJ 776 781	fecha
+T24	Term-DPEJ 1222 1227	fecha
+T25	Term-DPEJ 1664 1669	fecha
+T26	Term-DPEJ 369 376	apremio
+T27	Term-DPEJ 1023 1030	apremio
+T28	Term-DPEJ 1486 1493	apremio
+T29	Term-DPEJ 29 44	fraccionamiento
+T30	Term-DPEJ 231 246	fraccionamiento
+T31	Term-DPEJ 437 452	fraccionamiento
+T32	Term-DPEJ 52 60	fracción
+T33	Term-DPEJ 609 617	fracción
+T34	Term-DPEJ 803 811	fracción
+T35	Term-DPEJ 830 838	fracción
+T36	Term-DPEJ 982 990	fracción
+T37	Term-DPEJ 1063 1071	fracción
+T38	Term-DPEJ 1691 1699	fracción
+T39	Term-Termcat 161 170	solicitud
+T40	Term-Termcat 319 328	solicitud
+T41	Term-Termcat 526 535	solicitud
+T42	Term-Termcat 940 949	solicitud
+T43	Term-Termcat 1174 1179	plazo
+T44	Term-Termcat 728 733	plazo
+T45	Term-Termcat 1624 1629	plazo
+T46	Term-Termcat 1247 1252	plazo
+T47	Term-Termcat 403 409	deudas
+T48	Term-Termcat 1516 1522	deudas
+T49	Term-Termcat 197 203	deudas
+T50	Term-Termcat 860 866	deudas
+T51	Term-Termcat 82 88	deudas
+T52	Term-Termcat 712 723	vencimiento
+T53	Term-Termcat 1608 1619	vencimiento
+T54	Term-Termcat 591 602	vencimiento
+T55	Term-Termcat 1673 1684	vencimiento
+T56	Term-Termcat 1158 1169	vencimiento
+T57	Term-Termcat 1142 1153	vencimiento
+T58	Term-Termcat 785 796	vencimiento
+T59	Term-Termcat 1231 1242	vencimiento
+T60	Term-Termcat 1183 1190	ingreso
+T61	Term-Termcat 1352 1359	ingreso
+T62	Term-Termcat 737 744	ingreso
+T63	Term-Termcat 1633 1640	ingreso
+T64	Term-Termcat 220 227	acuerdo
+T65	Term-Termcat 426 433	acuerdo
+T66	Term-Termcat 1486 1493	apremio
+T67	Term-Termcat 369 376	apremio
+T68	Term-Termcat 1023 1030	apremio
+T69	Term-Termcat 1090 1096	demora
+T70	Term-Termcat 1560 1566	demora
+T71	Term-Termcat 668 674	demora
+T72	Term-Termcat 437 452	fraccionamiento
+T73	Term-Termcat 29 44	fraccionamiento
+T74	Term-Termcat 231 246	fraccionamiento
+T75	Term-Termcat 352 365	procedimiento
+T76	Term-Termcat 1469 1482	procedimiento
+T77	Term-Termcat 1006 1019	procedimiento
+T78	Term-Termcat 1268 1275	recargo
+T79	Term-Tributario 161 170	solicitud
+T80	Term-Tributario 319 328	solicitud
+T81	Term-Tributario 526 535	solicitud
+T82	Term-Tributario 940 949	solicitud
+T83	Term-Tributario 220 227	acuerdo
+T84	Term-Tributario 426 433	acuerdo
+T85	Term-Tributario 29 44	fraccionamiento
+T86	Term-Tributario 231 246	fraccionamiento
+T87	Term-Tributario 437 452	fraccionamiento
+T88	Term-Tributario 776 796	fecha de vencimiento
+T89	Term-Tributario 1222 1242	fecha de vencimiento
+T90	Term-Tributario 1664 1684	fecha de vencimiento
+T91	Term-Tributario 352 365	procedimiento
+T92	Term-Tributario 1006 1019	procedimiento
+T93	Term-Tributario 1469 1482	procedimiento
+T94	Term-Tributario 135 142	momento
+T95	Term-Tributario 293 300	momento
+T96	Term-Tributario 500 507	momento
+T97	Term-Tributario 914 921	momento
+T98	Term-Tributario 52 60	fracción
+T99	Term-Tributario 609 617	fracción
+T100	Term-Tributario 803 811	fracción
+T101	Term-Tributario 830 838	fracción
+T102	Term-Tributario 982 990	fracción
+T103	Term-Tributario 1063 1071	fracción
+T104	Term-Tributario 1691 1699	fracción
+T105	Term-Tributario 591 602	vencimiento
+T106	Term-Tributario 712 723	vencimiento
+T107	Term-Tributario 785 796	vencimiento
+T108	Term-Tributario 1142 1153	vencimiento
+T109	Term-Tributario 1158 1169	vencimiento
+T110	Term-Tributario 1231 1242	vencimiento
+T111	Term-Tributario 1608 1619	vencimiento
+T112	Term-Tributario 1673 1684	vencimiento
+T113	Term-Tributario 728 733	plazo
+T114	Term-Tributario 1174 1179	plazo
+T115	Term-Tributario 1247 1252	plazo
+T116	Term-Tributario 1624 1629	plazo
+T117	Term-AttentionRank 1110 1262	partir del día siguiente al del vencimiento del vencimiento del plazo de ingreso en período voluntario hasta la fecha de vencimiento del plazo concedido
+T118	Term-AttentionRank 1587 1710	día siguiente al del vencimiento del plazo de ingreso en voluntaria hasta la fecha de vencimiento de la fracción incumplida
+T119	Term-AttentionRank 695 822	día siguiente al vencimiento del plazo de ingreso en período voluntario hasta la fecha de vencimiento de la fracción incumplida
+T120	Term-AttentionRank 197 246	deudas incluidas en el acuerdo de fraccionamiento
+T121	Term-AttentionRank 403 452	deudas incluidas en el acuerdo de fraccionamiento
+T122	Term-AttentionRank 830 849	fracción incumplida
+T123	Term-AttentionRank 52 71	fracción incumplida
+T124	Term-AttentionRank 609 628	fracción incumplida
+T125	Term-AttentionRank 573 586	día siguiente
+T126	Term-AttentionRank 1280 1297	período ejecutivo
+T127	Term-AttentionRank 552 569	período ejecutivo
+T128	Term-AttentionRank 111 128	período ejecutivo
+T129	Term-AttentionRank 269 286	período ejecutivo
+T130	Term-AttentionRank 889 907	período voluntario
+T131	Term-AttentionRank 475 493	período voluntario
+T132	Term-AttentionRank 29 44	fraccionamiento
+T133	Term-AttentionRank 1486 1493	apremio
+T134	Term-AttentionRank 369 376	apremio
+T135	Term-AttentionRank 1023 1030	apremio
+T136	Term-AttentionRank 1352 1359	ingreso
+T137	Term-AttentionRank 352 365	procedimiento
+T138	Term-AttentionRank 1469 1482	procedimiento
+T139	Term-AttentionRank 1006 1019	procedimiento
+T140	Term-AttentionRank 293 300	momento
+T141	Term-AttentionRank 500 507	momento
+T142	Term-AttentionRank 914 921	momento
+T143	Term-AttentionRank 135 142	momento
+T144	Term-AttentionRank 591 602	vencimiento
+T145	Term-AttentionRank 655 664	intereses
+T146	Term-AttentionRank 1547 1556	intereses
+T147	Term-AttentionRank 1077 1086	intereses

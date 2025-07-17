@@ -1,0 +1,155 @@
+T1	Term-DPEJ 1373 1379	número
+T2	Term-DPEJ 0 12	NOTIFICACIÓN
+T3	Term-DPEJ 442 454	notificación
+T4	Term-DPEJ 350 363	procedimiento
+T5	Term-DPEJ 1077 1081	caso
+T6	Term-DPEJ 832 839	escrito
+T7	Term-DPEJ 1625 1632	escrito
+T8	Term-DPEJ 943 954	reclamación
+T9	Term-DPEJ 1576 1587	reclamación
+T10	Term-DPEJ 1771 1782	reclamación
+T11	Term-DPEJ 789 803	encabezamiento
+T12	Term-DPEJ 1669 1683	encabezamiento
+T13	Term-DPEJ 617 622	plazo
+T14	Term-DPEJ 236 256	créditos concursales
+T15	Term-DPEJ 722 743	recurso de reposición
+T16	Term-DPEJ 1559 1570	disposición
+T17	Term-DPEJ 1216 1224	relación
+T18	Term-DPEJ 79 83	auto
+T19	Term-DPEJ 1269 1285	domicilio fiscal
+T20	Term-DPEJ 691 700	documento
+T21	Term-DPEJ 812 821	documento
+T22	Term-DPEJ 1692 1701	documento
+T23	Term-DPEJ 1383 1393	expediente
+T24	Term-DPEJ 1418 1428	expediente
+T25	Term-DPEJ 1269 1278	domicilio
+T26	Term-DPEJ 1298 1307	domicilio
+T27	Term-DPEJ 765 771	órgano
+T28	Term-DPEJ 1645 1651	órgano
+T29	Term-DPEJ 1879 1885	órgano
+T30	Term-DPEJ 87 92	fecha
+T31	Term-DPEJ 1362 1367	fecha
+T32	Term-DPEJ 733 743	reposición
+T33	Term-DPEJ 44 56	APLAZAMIENTO
+T34	Term-DPEJ 178 190	aplazamiento
+T35	Term-DPEJ 381 393	aplazamiento
+T36	Term-DPEJ 59 74	FRACCIONAMIENTO
+T37	Term-DPEJ 193 208	fraccionamiento
+T38	Term-DPEJ 396 411	fraccionamiento
+T39	Term-Termcat 114 122	concurso
+T40	Term-Termcat 31 40	SOLICITUD
+T41	Term-Termcat 368 377	solicitud
+T42	Term-Termcat 280 289	solicitud
+T43	Term-Termcat 165 174	solicitud
+T44	Term-Termcat 526 535	solicitud
+T45	Term-Termcat 0 12	NOTIFICACIÓN
+T46	Term-Termcat 442 454	notificación
+T47	Term-Termcat 484 491	recurso
+T48	Term-Termcat 1228 1235	recurso
+T49	Term-Termcat 722 743	recurso de reposición
+T50	Term-Termcat 617 622	plazo
+T51	Term-Termcat 464 468	acto
+T52	Term-Termcat 902 906	acto
+T53	Term-Termcat 1341 1345	acto
+T54	Term-Termcat 114 136	concurso de acreedores
+T55	Term-Termcat 236 244	créditos
+T56	Term-Termcat 142 148	deudas
+T57	Term-Termcat 1298 1307	domicilio
+T58	Term-Termcat 1269 1278	domicilio
+T59	Term-Termcat 1035 1041	nombre
+T60	Term-Termcat 1133 1139	nombre
+T61	Term-Termcat 1434 1439	poder
+T62	Term-Termcat 1771 1782	reclamación
+T63	Term-Termcat 1576 1587	reclamación
+T64	Term-Termcat 943 954	reclamación
+T65	Term-Termcat 1107 1120	representante
+T66	Term-Termcat 1886 1899	independiente
+T67	Term-Termcat 1559 1570	disposición
+T68	Term-Termcat 789 803	encabezamiento
+T69	Term-Termcat 1669 1683	encabezamiento
+T70	Term-Termcat 44 56	APLAZAMIENTO
+T71	Term-Termcat 178 190	aplazamiento
+T72	Term-Termcat 381 393	aplazamiento
+T73	Term-Termcat 17 24	ARCHIVO
+T74	Term-Termcat 79 83	auto
+T75	Term-Termcat 245 256	concursales
+T76	Term-Termcat 886 894	conforme
+T77	Term-Termcat 1483 1491	conforme
+T78	Term-Termcat 812 821	documento
+T79	Term-Termcat 1692 1701	documento
+T80	Term-Termcat 691 700	documento
+T81	Term-Termcat 1269 1285	domicilio fiscal
+T82	Term-Termcat 1418 1428	expediente
+T83	Term-Termcat 1383 1393	expediente
+T84	Term-Termcat 59 74	FRACCIONAMIENTO
+T85	Term-Termcat 193 208	fraccionamiento
+T86	Term-Termcat 396 411	fraccionamiento
+T87	Term-Termcat 926 931	haber
+T88	Term-Termcat 1019 1030	información
+T89	Term-Termcat 1737 1748	información
+T90	Term-Termcat 561 567	motivo
+T91	Term-Termcat 1879 1885	órgano
+T92	Term-Termcat 1645 1651	órgano
+T93	Term-Termcat 765 771	órgano
+T94	Term-Termcat 350 363	procedimiento
+T95	Term-Termcat 1044 1056	razón social
+T96	Term-Termcat 587 595	recurrir
+T97	Term-Termcat 1831 1839	Tribunal
+T98	Term-Termcat 1499 1505	acudir
+T99	Term-Termcat 1279 1285	fiscal
+T100	Term-Termcat 1867 1877	competente
+T101	Term-Termcat 1407 1414	conocer
+T102	Term-Termcat 673 682	recepción
+T103	Term-Termcat 722 729	recurso
+T104	Term-Tributario 79 83	auto
+T105	Term-Tributario 31 40	SOLICITUD
+T106	Term-Tributario 165 174	solicitud
+T107	Term-Tributario 280 289	solicitud
+T108	Term-Tributario 368 377	solicitud
+T109	Term-Tributario 526 535	solicitud
+T110	Term-Tributario 59 74	FRACCIONAMIENTO
+T111	Term-Tributario 193 208	fraccionamiento
+T112	Term-Tributario 396 411	fraccionamiento
+T113	Term-Tributario 629 632	mes
+T114	Term-Tributario 1383 1393	expediente
+T115	Term-Tributario 1418 1428	expediente
+T116	Term-Tributario 484 491	recurso
+T117	Term-Tributario 722 729	recurso
+T118	Term-Tributario 1228 1235	recurso
+T119	Term-Tributario 1269 1285	domicilio fiscal
+T120	Term-Tributario 1511 1518	oficina
+T121	Term-Tributario 943 954	reclamación
+T122	Term-Tributario 1576 1587	reclamación
+T123	Term-Tributario 1771 1782	reclamación
+T124	Term-Tributario 350 363	procedimiento
+T125	Term-Tributario 1044 1049	razón
+T126	Term-Tributario 236 244	créditos
+T127	Term-Tributario 617 622	plazo
+T128	Term-Tributario 0 12	NOTIFICACIÓN
+T129	Term-Tributario 442 454	notificación
+T130	Term-AttentionRank 629 700	mes contado desde el día siguiente al de la recepción de este documento
+T131	Term-AttentionRank 1576 1597	reclamación económico
+T132	Term-AttentionRank 943 964	reclamación económico
+T133	Term-AttentionRank 1771 1792	reclamación económico
+T134	Term-AttentionRank 142 190	deudas incluidas en la solicitud de aplazamiento
+T135	Term-AttentionRank 31 40	SOLICITUD
+T136	Term-AttentionRank 368 377	solicitud
+T137	Term-AttentionRank 280 289	solicitud
+T138	Term-AttentionRank 526 535	solicitud
+T139	Term-AttentionRank 1625 1651	escrito dirigido al órgano
+T140	Term-AttentionRank 59 74	FRACCIONAMIENTO
+T141	Term-AttentionRank 193 208	fraccionamiento
+T142	Term-AttentionRank 396 411	fraccionamiento
+T143	Term-AttentionRank 464 468	acto
+T144	Term-AttentionRank 902 906	acto
+T145	Term-AttentionRank 1341 1345	acto
+T146	Term-AttentionRank 236 256	créditos concursales
+T147	Term-AttentionRank 1249 1285	lugar distinto a su domicilio fiscal
+T148	Term-AttentionRank 789 803	encabezamiento
+T149	Term-AttentionRank 1669 1683	encabezamiento
+T150	Term-AttentionRank 722 729	recurso
+T151	Term-AttentionRank 484 491	recurso
+T152	Term-AttentionRank 1097 1120	través de representante
+T153	Term-AttentionRank 1216 1235	relación al recurso
+T154	Term-AttentionRank 561 577	motivo no válido
+T155	Term-AttentionRank 79 83	auto

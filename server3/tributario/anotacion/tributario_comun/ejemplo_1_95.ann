@@ -1,0 +1,160 @@
+T1	Term-DPEJ 810 819	capacidad
+T2	Term-DPEJ 357 361	caso
+T3	Term-DPEJ 486 490	caso
+T4	Term-DPEJ 1194 1199	casos
+T5	Term-DPEJ 1625 1632	escrito
+T6	Term-DPEJ 362 381	efectos suspensivos
+T7	Term-DPEJ 95 107	modificación
+T8	Term-DPEJ 69 73	PAGO
+T9	Term-DPEJ 184 188	pago
+T10	Term-DPEJ 398 402	pago
+T11	Term-DPEJ 1740 1751	reclamación
+T12	Term-DPEJ 1166 1170	sede
+T13	Term-DPEJ 532 539	acuerdo
+T14	Term-DPEJ 938 945	acuerdo
+T15	Term-DPEJ 1346 1353	acuerdo
+T16	Term-DPEJ 1608 1615	acuerdo
+T17	Term-DPEJ 1695 1702	acuerdo
+T18	Term-DPEJ 615 621	plazos
+T19	Term-DPEJ 1413 1418	plazo
+T20	Term-DPEJ 1555 1576	recurso de reposición
+T21	Term-DPEJ 409 425	deuda tributaria
+T22	Term-DPEJ 1074 1082	atención
+T23	Term-DPEJ 1116 1124	Atención
+T24	Term-DPEJ 0 10	DENEGACIÓN
+T25	Term-DPEJ 249 254	Anexo
+T26	Term-DPEJ 1308 1317	documento
+T27	Term-DPEJ 1494 1503	documento
+T28	Term-DPEJ 1586 1592	órgano
+T29	Term-DPEJ 1166 1182	sede electrónica
+T30	Term-DPEJ 1566 1576	reposición
+T31	Term-DPEJ 37 49	APLAZAMIENTO
+T32	Term-DPEJ 111 123	aplazamiento
+T33	Term-DPEJ 561 573	aplazamiento
+T34	Term-DPEJ 1086 1099	contribuyente
+T35	Term-DPEJ 50 65	FRACCIONAMIENTO
+T36	Term-DPEJ 126 141	fraccionamiento
+T37	Term-DPEJ 543 558	fraccionamiento
+T38	Term-DPEJ 83 91	petición
+T39	Term-DPEJ 305 313	petición
+T40	Term-DPEJ 328 336	petición
+T41	Term-DPEJ 926 934	petición
+T42	Term-Termcat 833 841	recursos
+T43	Term-Termcat 1555 1576	recurso de reposición
+T44	Term-Termcat 1166 1182	sede electrónica
+T45	Term-Termcat 615 621	plazos
+T46	Term-Termcat 1413 1418	plazo
+T47	Term-Termcat 460 467	tributo
+T48	Term-Termcat 1240 1246	Seguro
+T49	Term-Termcat 409 414	deuda
+T50	Term-Termcat 881 886	deuda
+T51	Term-Termcat 69 73	PAGO
+T52	Term-Termcat 184 188	pago
+T53	Term-Termcat 398 402	pago
+T54	Term-Termcat 590 595	poder
+T55	Term-Termcat 1740 1751	reclamación
+T56	Term-Termcat 249 254	Anexo
+T57	Term-Termcat 1233 1239	Código
+T58	Term-Termcat 446 451	norma
+T59	Term-Termcat 328 336	petición
+T60	Term-Termcat 926 934	petición
+T61	Term-Termcat 83 91	petición
+T62	Term-Termcat 305 313	petición
+T63	Term-Termcat 1360 1374	Administración
+T64	Term-Termcat 1074 1082	atención
+T65	Term-Termcat 1116 1124	Atención
+T66	Term-Termcat 810 819	capacidad
+T67	Term-Termcat 197 204	ingreso
+T68	Term-Termcat 276 281	euros
+T69	Term-Termcat 95 107	modificación
+T70	Term-Termcat 862 874	satisfacción
+T71	Term-Termcat 938 945	acuerdo
+T72	Term-Termcat 1695 1702	acuerdo
+T73	Term-Termcat 1346 1353	acuerdo
+T74	Term-Termcat 1608 1615	acuerdo
+T75	Term-Termcat 532 539	acuerdo
+T76	Term-Termcat 37 49	APLAZAMIENTO
+T77	Term-Termcat 561 573	aplazamiento
+T78	Term-Termcat 111 123	aplazamiento
+T79	Term-Termcat 1679 1687	conforme
+T80	Term-Termcat 1330 1338	conforme
+T81	Term-Termcat 1086 1099	contribuyente
+T82	Term-Termcat 409 425	deuda tributaria
+T83	Term-Termcat 1494 1503	documento
+T84	Term-Termcat 1308 1317	documento
+T85	Term-Termcat 362 381	efectos suspensivos
+T86	Term-Termcat 578 583	hecho
+T87	Term-Termcat 543 558	fraccionamiento
+T88	Term-Termcat 126 141	fraccionamiento
+T89	Term-Termcat 50 73	FRACCIONAMIENTO DE PAGO
+T90	Term-Termcat 1723 1728	haber
+T91	Term-Termcat 968 977	normativa
+T92	Term-Termcat 1586 1592	órgano
+T93	Term-Termcat 1383 1391	recurrir
+T94	Term-Termcat 720 729	tesorería
+T95	Term-Termcat 1013 1019	acudir
+T96	Term-Termcat 1476 1485	recepción
+T97	Term-Termcat 1555 1562	recurso
+T98	Term-Termcat 74 79	Vista
+T99	Term-Tributario 532 539	acuerdo
+T100	Term-Tributario 938 945	acuerdo
+T101	Term-Tributario 1346 1353	acuerdo
+T102	Term-Tributario 1608 1615	acuerdo
+T103	Term-Tributario 1695 1702	acuerdo
+T104	Term-Tributario 50 65	FRACCIONAMIENTO
+T105	Term-Tributario 126 141	fraccionamiento
+T106	Term-Tributario 543 558	fraccionamiento
+T107	Term-Tributario 69 73	PAGO
+T108	Term-Tributario 184 188	pago
+T109	Term-Tributario 398 402	pago
+T110	Term-Tributario 1432 1435	mes
+T111	Term-Tributario 833 841	recursos
+T112	Term-Tributario 1555 1562	recurso
+T113	Term-Tributario 249 254	Anexo
+T114	Term-Tributario 362 381	efectos suspensivos
+T115	Term-Tributario 1031 1039	oficinas
+T116	Term-Tributario 1527 1534	oficina
+T117	Term-Tributario 1233 1239	Código
+T118	Term-Tributario 1740 1751	reclamación
+T119	Term-Tributario 95 107	modificación
+T120	Term-Tributario 1166 1182	sede electrónica
+T121	Term-Tributario 1086 1099	contribuyente
+T122	Term-Tributario 386 393	momento
+T123	Term-Tributario 517 524	momento
+T124	Term-Tributario 83 91	petición
+T125	Term-Tributario 305 313	petición
+T126	Term-Tributario 328 336	petición
+T127	Term-Tributario 926 934	petición
+T128	Term-Tributario 810 819	capacidad
+T129	Term-Tributario 1240 1246	Seguro
+T130	Term-Tributario 615 621	plazos
+T131	Term-Tributario 1413 1418	plazo
+T132	Term-AttentionRank 1432 1503	mes contado desde el día siguiente al de la recepción de este documento
+T133	Term-AttentionRank 1346 1353	acuerdo
+T134	Term-AttentionRank 1608 1615	acuerdo
+T135	Term-AttentionRank 532 539	acuerdo
+T136	Term-AttentionRank 1695 1702	acuerdo
+T137	Term-AttentionRank 615 648	plazos fijados inicialmente en el
+T138	Term-AttentionRank 69 73	PAGO
+T139	Term-AttentionRank 184 188	pago
+T140	Term-AttentionRank 398 402	pago
+T141	Term-AttentionRank 50 65	FRACCIONAMIENTO
+T142	Term-AttentionRank 543 558	fraccionamiento
+T143	Term-AttentionRank 126 141	fraccionamiento
+T144	Term-AttentionRank 409 414	deuda
+T145	Term-AttentionRank 881 886	deuda
+T146	Term-AttentionRank 1166 1182	sede electrónica
+T147	Term-AttentionRank 37 49	APLAZAMIENTO
+T148	Term-AttentionRank 561 573	aplazamiento
+T149	Term-AttentionRank 111 123	aplazamiento
+T150	Term-AttentionRank 328 336	petición
+T151	Term-AttentionRank 83 91	petición
+T152	Term-AttentionRank 305 313	petición
+T153	Term-AttentionRank 357 361	caso
+T154	Term-AttentionRank 486 490	caso
+T155	Term-AttentionRank 1194 1199	casos
+T156	Term-AttentionRank 1740 1761	reclamación económico
+T157	Term-AttentionRank 362 381	efectos suspensivos
+T158	Term-AttentionRank 1275 1299	pie de la primera página
+T159	Term-AttentionRank 810 819	capacidad
+T160	Term-AttentionRank 926 949	petición de acuerdo con

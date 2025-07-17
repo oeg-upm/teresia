@@ -1,0 +1,131 @@
+T1	Term-DPEJ 1328 1335	gestión
+T2	Term-DPEJ 1271 1279	apartado
+T3	Term-DPEJ 1058 1070	notificación
+T4	Term-DPEJ 1620 1624	caso
+T5	Term-DPEJ 959 966	SISTEMA
+T6	Term-DPEJ 1009 1016	Sistema
+T7	Term-DPEJ 1704 1711	sistema
+T8	Term-DPEJ 815 823	artículo
+T9	Term-DPEJ 416 420	pago
+T10	Term-DPEJ 1105 1123	correo electrónico
+T11	Term-DPEJ 1493 1511	correo electrónico
+T12	Term-DPEJ 1234 1238	sede
+T13	Term-DPEJ 1628 1637	entidades
+T14	Term-DPEJ 166 174	acuerdos
+T15	Term-DPEJ 269 276	acuerdo
+T16	Term-DPEJ 1585 1596	certificado
+T17	Term-DPEJ 643 647	tipo
+T18	Term-DPEJ 74 82	relación
+T19	Term-DPEJ 580 592	vencimientos
+T20	Term-DPEJ 178 188	denegación
+T21	Term-DPEJ 297 308	LIQUIDACIÓN
+T22	Term-DPEJ 497 508	liquidación
+T23	Term-DPEJ 290 295	anexo
+T24	Term-DPEJ 1459 1464	datos
+T25	Term-DPEJ 764 773	Documento
+T26	Term-DPEJ 859 870	Recaudación
+T27	Term-DPEJ 1234 1250	sede electrónica
+T28	Term-DPEJ 362 374	APLAZAMIENTO
+T29	Term-DPEJ 332 341	RESULTADO
+T30	Term-Termcat 1585 1596	certificado
+T31	Term-Termcat 1628 1637	entidades
+T32	Term-Termcat 122 131	solicitud
+T33	Term-Termcat 1058 1070	notificación
+T34	Term-Termcat 1415 1424	servicios
+T35	Term-Termcat 1234 1250	sede electrónica
+T36	Term-Termcat 921 927	Seguro
+T37	Term-Termcat 17 23	deudas
+T38	Term-Termcat 192 198	deudas
+T39	Term-Termcat 297 308	LIQUIDACIÓN
+T40	Term-Termcat 497 508	liquidación
+T41	Term-Termcat 718 723	leyes
+T42	Term-Termcat 800 803	Ley
+T43	Term-Termcat 1076 1082	nombre
+T44	Term-Termcat 416 420	pago
+T45	Term-Termcat 1648 1669	personalidad jurídica
+T46	Term-Termcat 1534 1539	Renta
+T47	Term-Termcat 1600 1613	representante
+T48	Term-Termcat 580 592	vencimientos
+T49	Term-Termcat 290 295	anexo
+T50	Term-Termcat 815 823	artículo
+T51	Term-Termcat 914 920	Código
+T52	Term-Termcat 959 966	SISTEMA
+T53	Term-Termcat 1009 1016	Sistema
+T54	Term-Termcat 1704 1711	sistema
+T55	Term-Termcat 835 846	Dependencia
+T56	Term-Termcat 880 892	Autenticidad
+T57	Term-Termcat 1339 1347	usuarios
+T58	Term-Termcat 399 411	autorización
+T59	Term-Termcat 1281 1292	Suscripción
+T60	Term-Termcat 1689 1700	suscripción
+T61	Term-Termcat 166 174	acuerdos
+T62	Term-Termcat 269 276	acuerdo
+T63	Term-Termcat 362 374	APLAZAMIENTO
+T64	Term-Termcat 1368 1378	aplicación
+T65	Term-Termcat 108 115	archivo
+T66	Term-Termcat 970 976	AVISOS
+T67	Term-Termcat 1020 1026	Avisos
+T68	Term-Termcat 1295 1301	avisos
+T69	Term-Termcat 1715 1721	avisos
+T70	Term-Termcat 348 357	CONCESIÓN
+T71	Term-Termcat 631 639	conforme
+T72	Term-Termcat 325 331	DEMORA
+T73	Term-Termcat 525 531	demora
+T74	Term-Termcat 564 570	demora
+T75	Term-Termcat 764 773	Documento
+T76	Term-Termcat 596 606	ejercicios
+T77	Term-Termcat 643 647	tipo
+T78	Term-Termcat 607 614	futuros
+T79	Term-Termcat 1328 1335	gestión
+T80	Term-Termcat 673 682	perjuicio
+T81	Term-Termcat 735 747	presupuestos
+T82	Term-Termcat 859 870	Recaudación
+T83	Term-Termcat 660 667	vigente
+T84	Term-Termcat 1379 1384	móvil
+T85	Term-Termcat 1648 1660	personalidad
+T86	Term-Termcat 332 341	RESULTADO
+T87	Term-Tributario 701 710	recálculo
+T88	Term-Tributario 122 131	solicitud
+T89	Term-Tributario 166 174	acuerdos
+T90	Term-Tributario 269 276	acuerdo
+T91	Term-Tributario 416 420	pago
+T92	Term-Tributario 290 295	anexo
+T93	Term-Tributario 1271 1279	apartado
+T94	Term-Tributario 959 966	SISTEMA
+T95	Term-Tributario 1009 1016	Sistema
+T96	Term-Tributario 1704 1711	sistema
+T97	Term-Tributario 914 920	Código
+T98	Term-Tributario 1234 1250	sede electrónica
+T99	Term-Tributario 1585 1596	certificado
+T100	Term-Tributario 1105 1123	correo electrónico
+T101	Term-Tributario 1493 1511	correo electrónico
+T102	Term-Tributario 815 823	artículo
+T103	Term-Tributario 1628 1637	entidades
+T104	Term-Tributario 921 927	Seguro
+T105	Term-Tributario 1459 1464	datos
+T106	Term-Tributario 297 308	LIQUIDACIÓN
+T107	Term-Tributario 497 508	liquidación
+T108	Term-Tributario 580 592	vencimientos
+T109	Term-Tributario 1058 1070	notificación
+T110	Term-AttentionRank 1493 1511	correo electrónico
+T111	Term-AttentionRank 1105 1123	correo electrónico
+T112	Term-AttentionRank 959 966	SISTEMA
+T113	Term-AttentionRank 1009 1016	Sistema
+T114	Term-AttentionRank 1704 1711	sistema
+T115	Term-AttentionRank 970 976	AVISOS
+T116	Term-AttentionRank 1020 1026	Avisos
+T117	Term-AttentionRank 1715 1721	avisos
+T118	Term-AttentionRank 701 710	recálculo
+T119	Term-AttentionRank 136 157	respecto a las mismas
+T120	Term-AttentionRank 643 667	tipo actualmente vigente
+T121	Term-AttentionRank 718 731	leyes anuales
+T122	Term-AttentionRank 1234 1250	sede electrónica
+T123	Term-AttentionRank 312 321	INTERESES
+T124	Term-AttentionRank 512 521	intereses
+T125	Term-AttentionRank 551 560	intereses
+T126	Term-AttentionRank 416 429	pago aplazado
+T127	Term-AttentionRank 1459 1474	datos relativos
+T128	Term-AttentionRank 580 592	vencimientos
+T129	Term-AttentionRank 1295 1314	avisos informativos
+T130	Term-AttentionRank 17 23	deudas
+T131	Term-AttentionRank 192 198	deudas

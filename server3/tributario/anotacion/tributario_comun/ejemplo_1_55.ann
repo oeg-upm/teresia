@@ -1,0 +1,148 @@
+T1	Term-DPEJ 1412 1420	garantía
+T2	Term-DPEJ 790 794	caso
+T3	Term-DPEJ 654 664	resolución
+T4	Term-DPEJ 81 85	pago
+T5	Term-DPEJ 238 242	pago
+T6	Term-DPEJ 1012 1016	pago
+T7	Term-DPEJ 1475 1479	pago
+T8	Term-DPEJ 1527 1531	pago
+T9	Term-DPEJ 573 581	potestad
+T10	Term-DPEJ 573 594	potestad discrecional
+T11	Term-DPEJ 1427 1434	acuerdo
+T12	Term-DPEJ 1725 1732	acuerdo
+T13	Term-DPEJ 1241 1248	recargo
+T14	Term-DPEJ 498 504	plazos
+T15	Term-DPEJ 670 676	plazos
+T16	Term-DPEJ 800 806	plazos
+T17	Term-DPEJ 964 969	plazo
+T18	Term-DPEJ 1093 1104	liquidación
+T19	Term-DPEJ 1300 1311	liquidación
+T20	Term-DPEJ 146 151	Anexo
+T21	Term-DPEJ 306 311	Anexo
+T22	Term-DPEJ 1278 1283	Anexo
+T23	Term-DPEJ 21 33	aplazamiento
+T24	Term-DPEJ 203 215	aplazamiento
+T25	Term-DPEJ 1135 1147	aplazamiento
+T26	Term-DPEJ 1648 1661	aplazamientos
+T27	Term-DPEJ 36 51	fraccionamiento
+T28	Term-DPEJ 218 233	fraccionamiento
+T29	Term-DPEJ 1664 1680	fraccionamientos
+T30	Term-DPEJ 9 17	petición
+T31	Term-Termcat 1343 1352	solicitud
+T32	Term-Termcat 764 773	solicitud
+T33	Term-Termcat 860 875	interés público
+T34	Term-Termcat 573 594	potestad discrecional
+T35	Term-Termcat 472 480	recursos
+T36	Term-Termcat 654 664	resolución
+T37	Term-Termcat 670 676	plazos
+T38	Term-Termcat 498 504	plazos
+T39	Term-Termcat 800 806	plazos
+T40	Term-Termcat 964 969	plazo
+T41	Term-Termcat 1781 1789	créditos
+T42	Term-Termcat 1813 1819	deudas
+T43	Term-Termcat 945 950	forma
+T44	Term-Termcat 1412 1420	garantía
+T45	Term-Termcat 458 468	generación
+T46	Term-Termcat 860 867	interés
+T47	Term-Termcat 1300 1311	liquidación
+T48	Term-Termcat 1093 1104	liquidación
+T49	Term-Termcat 1475 1479	pago
+T50	Term-Termcat 238 242	pago
+T51	Term-Termcat 81 85	pago
+T52	Term-Termcat 1012 1016	pago
+T53	Term-Termcat 1527 1531	pago
+T54	Term-Termcat 573 581	potestad
+T55	Term-Termcat 146 151	Anexo
+T56	Term-Termcat 306 311	Anexo
+T57	Term-Termcat 1278 1283	Anexo
+T58	Term-Termcat 9 17	petición
+T59	Term-Termcat 535 549	Administración
+T60	Term-Termcat 94 101	ingreso
+T61	Term-Termcat 1366 1376	requisitos
+T62	Term-Termcat 1708 1716	vigencia
+T63	Term-Termcat 1575 1583	vigencia
+T64	Term-Termcat 1192 1196	base
+T65	Term-Termcat 173 178	euros
+T66	Term-Termcat 995 1007	autorización
+T67	Term-Termcat 1725 1732	acuerdo
+T68	Term-Termcat 1427 1434	acuerdo
+T69	Term-Termcat 21 33	aplazamiento
+T70	Term-Termcat 203 215	aplazamiento
+T71	Term-Termcat 1135 1147	aplazamiento
+T72	Term-Termcat 1648 1661	aplazamientos
+T73	Term-Termcat 1629 1640	cancelación
+T74	Term-Termcat 730 744	circunstancias
+T75	Term-Termcat 1512 1524	cumplimiento
+T76	Term-Termcat 719 725	cuenta
+T77	Term-Termcat 430 436	cuenta
+T78	Term-Termcat 843 852	conformes
+T79	Term-Termcat 1121 1127	demora
+T80	Term-Termcat 1332 1338	demora
+T81	Term-Termcat 557 566	ejercicio
+T82	Term-Termcat 36 51	fraccionamiento
+T83	Term-Termcat 218 233	fraccionamiento
+T84	Term-Termcat 1664 1680	fraccionamientos
+T85	Term-Termcat 1759 1775	Hacienda Pública
+T86	Term-Termcat 1588 1602	incumplimiento
+T87	Term-Termcat 612 621	normativa
+T88	Term-Termcat 1253 1270	periodo ejecutivo
+T89	Term-Termcat 1170 1187	periodo ejecutivo
+T90	Term-Termcat 1241 1248	recargo
+T91	Term-Termcat 640 647	señalar
+T92	Term-Termcat 730 757	circunstancias concurrentes
+T93	Term-Termcat 0 5	Vista
+T94	Term-Tributario 764 773	solicitud
+T95	Term-Tributario 1343 1352	solicitud
+T96	Term-Tributario 1427 1434	acuerdo
+T97	Term-Tributario 1725 1732	acuerdo
+T98	Term-Tributario 36 51	fraccionamiento
+T99	Term-Tributario 218 233	fraccionamiento
+T100	Term-Tributario 1664 1680	fraccionamientos
+T101	Term-Tributario 81 85	pago
+T102	Term-Tributario 238 242	pago
+T103	Term-Tributario 1012 1016	pago
+T104	Term-Tributario 1475 1479	pago
+T105	Term-Tributario 1527 1531	pago
+T106	Term-Tributario 472 480	recursos
+T107	Term-Tributario 1412 1420	garantía
+T108	Term-Tributario 146 151	Anexo
+T109	Term-Tributario 306 311	Anexo
+T110	Term-Tributario 1278 1283	Anexo
+T111	Term-Tributario 9 17	petición
+T112	Term-Tributario 1781 1789	créditos
+T113	Term-Tributario 860 867	interés
+T114	Term-Tributario 654 664	resolución
+T115	Term-Tributario 1093 1104	liquidación
+T116	Term-Tributario 1300 1311	liquidación
+T117	Term-Tributario 498 504	plazos
+T118	Term-Tributario 670 676	plazos
+T119	Term-Tributario 800 806	plazos
+T120	Term-Tributario 964 969	plazo
+T121	Term-Tributario 573 594	potestad discrecional
+T122	Term-AttentionRank 1475 1479	pago
+T123	Term-AttentionRank 1527 1531	pago
+T124	Term-AttentionRank 238 242	pago
+T125	Term-AttentionRank 81 85	pago
+T126	Term-AttentionRank 21 33	aplazamiento
+T127	Term-AttentionRank 203 215	aplazamiento
+T128	Term-AttentionRank 1135 1147	aplazamiento
+T129	Term-AttentionRank 1648 1661	aplazamientos
+T130	Term-AttentionRank 916 940	obligaciones tributarias
+T131	Term-AttentionRank 1539 1563	obligaciones tributarias
+T132	Term-AttentionRank 36 51	fraccionamiento
+T133	Term-AttentionRank 218 233	fraccionamiento
+T134	Term-AttentionRank 1664 1680	fraccionamientos
+T135	Term-AttentionRank 573 594	potestad discrecional
+T136	Term-AttentionRank 1253 1270	periodo ejecutivo
+T137	Term-AttentionRank 1170 1187	periodo ejecutivo
+T138	Term-AttentionRank 1734 1752	resultase acreedor
+T139	Term-AttentionRank 1813 1829	deudas aplazadas
+T140	Term-AttentionRank 890 908	cumplimento exacto
+T141	Term-AttentionRank 976 1007	consecuencia de la autorización
+T142	Term-AttentionRank 800 816	plazos acordados
+T143	Term-AttentionRank 843 852	conformes
+T144	Term-AttentionRank 1012 1025	pago aplazado
+T145	Term-AttentionRank 612 632	normativa tributaria
+T146	Term-AttentionRank 1216 1225	intereses
+T147	Term-AttentionRank 1108 1117	intereses
+T148	Term-AttentionRank 1319 1328	intereses

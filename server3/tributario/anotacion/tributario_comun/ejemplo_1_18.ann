@@ -1,0 +1,166 @@
+T1	Term-DPEJ 164 168	aval
+T2	Term-DPEJ 233 237	aval
+T3	Term-DPEJ 580 587	gestión
+T4	Term-DPEJ 116 124	garantía
+T5	Term-DPEJ 155 163	garantía
+T6	Term-DPEJ 187 195	garantía
+T7	Term-DPEJ 1112 1121	garantías
+T8	Term-DPEJ 76 80	caso
+T9	Term-DPEJ 1787 1791	caso
+T10	Term-DPEJ 1903 1907	caso
+T11	Term-DPEJ 281 294	domiciliación
+T12	Term-DPEJ 644 657	domiciliación
+T13	Term-DPEJ 438 451	Domiciliación
+T14	Term-DPEJ 1052 1065	Documentación
+T15	Term-DPEJ 1123 1136	Documentación
+T16	Term-DPEJ 612 616	pago
+T17	Term-DPEJ 723 727	Sede
+T18	Term-DPEJ 82 89	entidad
+T19	Term-DPEJ 325 332	entidad
+T20	Term-DPEJ 478 485	entidad
+T21	Term-DPEJ 518 525	entidad
+T22	Term-DPEJ 880 887	entidad
+T23	Term-DPEJ 179 183	tipo
+T24	Term-DPEJ 1674 1685	liquidación
+T25	Term-DPEJ 0 5	ANEXO
+T26	Term-DPEJ 313 318	datos
+T27	Term-DPEJ 400 405	datos
+T28	Term-DPEJ 943 948	datos
+T29	Term-DPEJ 1003 1008	datos
+T30	Term-DPEJ 1455 1460	datos
+T31	Term-DPEJ 1542 1547	datos
+T32	Term-DPEJ 1628 1633	datos
+T33	Term-DPEJ 82 100	entidad de crédito
+T34	Term-DPEJ 543 547	zona
+T35	Term-DPEJ 919 923	Zona
+T36	Term-DPEJ 723 739	Sede electrónica
+T37	Term-DPEJ 21 33	APLAZAMIENTO
+T38	Term-DPEJ 768 780	aplazamiento
+T39	Term-DPEJ 1711 1723	aplazamiento
+T40	Term-DPEJ 1749 1756	apremio
+T41	Term-DPEJ 1235 1249	contribuyentes
+T42	Term-DPEJ 783 798	fraccionamiento
+T43	Term-Termcat 325 332	entidad
+T44	Term-Termcat 880 887	entidad
+T45	Term-Termcat 82 89	entidad
+T46	Term-Termcat 478 485	entidad
+T47	Term-Termcat 518 525	entidad
+T48	Term-Termcat 8 17	SOLICITUD
+T49	Term-Termcat 755 764	solicitud
+T50	Term-Termcat 723 739	Sede electrónica
+T51	Term-Termcat 1218 1229	tramitación
+T52	Term-Termcat 164 168	aval
+T53	Term-Termcat 233 237	aval
+T54	Term-Termcat 104 112	sociedad
+T55	Term-Termcat 93 100	crédito
+T56	Term-Termcat 37 43	DEUDAS
+T57	Term-Termcat 1803 1809	deudas
+T58	Term-Termcat 1924 1929	deuda
+T59	Term-Termcat 187 195	garantía
+T60	Term-Termcat 116 124	garantía
+T61	Term-Termcat 155 163	garantía
+T62	Term-Termcat 1112 1121	garantías
+T63	Term-Termcat 1844 1849	línea
+T64	Term-Termcat 1674 1685	liquidación
+T65	Term-Termcat 612 616	pago
+T66	Term-Termcat 594 599	poder
+T67	Term-Termcat 1561 1574	representante
+T68	Term-Termcat 849 860	titularidad
+T69	Term-Termcat 0 5	ANEXO
+T70	Term-Termcat 1912 1917	parte
+T71	Term-Termcat 1851 1859	ingresos
+T72	Term-Termcat 64 69	EUROS
+T73	Term-Termcat 1464 1478	identificación
+T74	Term-Termcat 1266 1277	actividades
+T75	Term-Termcat 21 33	APLAZAMIENTO
+T76	Term-Termcat 1711 1723	aplazamiento
+T77	Term-Termcat 768 780	aplazamiento
+T78	Term-Termcat 422 428	cuenta
+T79	Term-Termcat 965 971	cuenta
+T80	Term-Termcat 341 347	cuenta
+T81	Term-Termcat 457 463	cuenta
+T82	Term-Termcat 836 842	cuenta
+T83	Term-Termcat 1749 1756	apremio
+T84	Term-Termcat 1235 1249	contribuyentes
+T85	Term-Termcat 570 576	gastos
+T86	Term-Termcat 281 294	domiciliación
+T87	Term-Termcat 644 657	domiciliación
+T88	Term-Termcat 438 451	Domiciliación
+T89	Term-Termcat 1443 1449	efecto
+T90	Term-Termcat 1278 1291	empresariales
+T91	Term-Termcat 179 183	tipo
+T92	Term-Termcat 783 798	fraccionamiento
+T93	Term-Termcat 580 587	gestión
+T94	Term-Termcat 104 134	sociedad de garantía recíproca
+T95	Term-Termcat 44 54	SUPERIORES
+T96	Term-Termcat 543 547	zona
+T97	Term-Termcat 919 923	Zona
+T98	Term-Termcat 1123 1136	Documentación
+T99	Term-Termcat 1052 1065	Documentación
+T100	Term-Tributario 8 17	SOLICITUD
+T101	Term-Tributario 755 764	solicitud
+T102	Term-Tributario 543 547	zona
+T103	Term-Tributario 919 923	Zona
+T104	Term-Tributario 783 798	fraccionamiento
+T105	Term-Tributario 612 616	pago
+T106	Term-Tributario 341 356	cuenta bancaria
+T107	Term-Tributario 422 437	cuenta bancaria
+T108	Term-Tributario 965 980	cuenta bancaria
+T109	Term-Tributario 116 124	garantía
+T110	Term-Tributario 155 163	garantía
+T111	Term-Tributario 187 195	garantía
+T112	Term-Tributario 1112 1121	garantías
+T113	Term-Tributario 0 5	ANEXO
+T114	Term-Tributario 723 739	Sede electrónica
+T115	Term-Tributario 1235 1249	contribuyentes
+T116	Term-Tributario 82 89	entidad
+T117	Term-Tributario 325 332	entidad
+T118	Term-Tributario 478 485	entidad
+T119	Term-Tributario 518 525	entidad
+T120	Term-Tributario 880 887	entidad
+T121	Term-Tributario 93 100	crédito
+T122	Term-Tributario 116 134	garantía recíproca
+T123	Term-Tributario 313 318	datos
+T124	Term-Tributario 400 405	datos
+T125	Term-Tributario 943 948	datos
+T126	Term-Tributario 1003 1008	datos
+T127	Term-Tributario 1455 1460	datos
+T128	Term-Tributario 1542 1547	datos
+T129	Term-Tributario 1628 1633	datos
+T130	Term-Tributario 1674 1685	liquidación
+T131	Term-Tributario 164 168	aval
+T132	Term-Tributario 233 237	aval
+T133	Term-AttentionRank 1003 1008	datos
+T134	Term-AttentionRank 313 318	datos
+T135	Term-AttentionRank 1628 1633	datos
+T136	Term-AttentionRank 1455 1460	datos
+T137	Term-AttentionRank 325 332	entidad
+T138	Term-AttentionRank 880 887	entidad
+T139	Term-AttentionRank 82 89	entidad
+T140	Term-AttentionRank 478 485	entidad
+T141	Term-AttentionRank 518 525	entidad
+T142	Term-AttentionRank 281 294	domiciliación
+T143	Term-AttentionRank 644 657	domiciliación
+T144	Term-AttentionRank 438 451	Domiciliación
+T145	Term-AttentionRank 836 842	cuenta
+T146	Term-AttentionRank 457 463	cuenta
+T147	Term-AttentionRank 422 437	cuenta bancaria
+T148	Term-AttentionRank 965 980	cuenta bancaria
+T149	Term-AttentionRank 341 356	cuenta bancaria
+T150	Term-AttentionRank 1542 1574	datos relativos al representante
+T151	Term-AttentionRank 1422 1449	espacio reservado al efecto
+T152	Term-AttentionRank 943 958	datos completos
+T153	Term-AttentionRank 400 415	datos completos
+T154	Term-AttentionRank 8 17	SOLICITUD
+T155	Term-AttentionRank 755 764	solicitud
+T156	Term-AttentionRank 1366 1389	etiqueta identificativa
+T157	Term-AttentionRank 1266 1291	actividades empresariales
+T158	Term-AttentionRank 1787 1791	caso
+T159	Term-AttentionRank 1903 1907	caso
+T160	Term-AttentionRank 76 80	caso
+T161	Term-AttentionRank 1097 1108	suficiencia
+T162	Term-AttentionRank 543 547	zona
+T163	Term-AttentionRank 919 923	Zona
+T164	Term-AttentionRank 21 33	APLAZAMIENTO
+T165	Term-AttentionRank 1711 1723	aplazamiento
+T166	Term-AttentionRank 768 780	aplazamiento

@@ -1,0 +1,149 @@
+T1	Term-DPEJ 892 898	bienes
+T2	Term-DPEJ 819 832	procedimiento
+T3	Term-DPEJ 647 651	caso
+T4	Term-DPEJ 910 914	caso
+T5	Term-DPEJ 1495 1499	caso
+T6	Term-DPEJ 1246 1253	escrito
+T7	Term-DPEJ 82 86	pago
+T8	Term-DPEJ 695 699	pago
+T9	Term-DPEJ 1361 1372	reclamación
+T10	Term-DPEJ 256 263	acuerdo
+T11	Term-DPEJ 1003 1010	acuerdo
+T12	Term-DPEJ 1229 1236	acuerdo
+T13	Term-DPEJ 1316 1323	acuerdo
+T14	Term-DPEJ 592 599	recargo
+T15	Term-DPEJ 1071 1076	plazo
+T16	Term-DPEJ 819 843	procedimiento de apremio
+T17	Term-DPEJ 1176 1197	recurso de reposición
+T18	Term-DPEJ 194 204	inadmisión
+T19	Term-DPEJ 267 277	inadmisión
+T20	Term-DPEJ 1634 1642	relación
+T21	Term-DPEJ 1687 1703	domicilio fiscal
+T22	Term-DPEJ 147 152	Anexo
+T23	Term-DPEJ 241 246	Anexo
+T24	Term-DPEJ 1145 1154	documento
+T25	Term-DPEJ 1687 1696	domicilio
+T26	Term-DPEJ 1716 1725	domicilio
+T27	Term-DPEJ 1207 1213	órgano
+T28	Term-DPEJ 686 691	fecha
+T29	Term-DPEJ 1187 1197	reposición
+T30	Term-DPEJ 22 34	aplazamiento
+T31	Term-DPEJ 306 318	aplazamiento
+T32	Term-DPEJ 836 843	apremio
+T33	Term-DPEJ 37 52	fraccionamiento
+T34	Term-DPEJ 321 336	fraccionamiento
+T35	Term-Termcat 293 302	solicitud
+T36	Term-Termcat 9 18	solicitud
+T37	Term-Termcat 963 972	solicitud
+T38	Term-Termcat 442 451	solicitud
+T39	Term-Termcat 1646 1653	recurso
+T40	Term-Termcat 1176 1197	recurso de reposición
+T41	Term-Termcat 1071 1076	plazo
+T42	Term-Termcat 877 888	enajenación
+T43	Term-Termcat 892 898	bienes
+T44	Term-Termcat 775 780	cobro
+T45	Term-Termcat 411 417	deudas
+T46	Term-Termcat 730 736	deudas
+T47	Term-Termcat 706 711	deuda
+T48	Term-Termcat 1716 1725	domicilio
+T49	Term-Termcat 1687 1696	domicilio
+T50	Term-Termcat 1453 1459	nombre
+T51	Term-Termcat 1551 1557	nombre
+T52	Term-Termcat 695 699	pago
+T53	Term-Termcat 82 86	pago
+T54	Term-Termcat 1361 1372	reclamación
+T55	Term-Termcat 1525 1538	representante
+T56	Term-Termcat 241 246	Anexo
+T57	Term-Termcat 147 152	Anexo
+T58	Term-Termcat 1017 1031	Administración
+T59	Term-Termcat 532 539	ingreso
+T60	Term-Termcat 95 102	ingreso
+T61	Term-Termcat 173 178	euros
+T62	Term-Termcat 1229 1236	acuerdo
+T63	Term-Termcat 1003 1010	acuerdo
+T64	Term-Termcat 256 263	acuerdo
+T65	Term-Termcat 1316 1323	acuerdo
+T66	Term-Termcat 862 873	actuaciones
+T67	Term-Termcat 22 34	aplazamiento
+T68	Term-Termcat 306 318	aplazamiento
+T69	Term-Termcat 877 898	enajenación de bienes
+T70	Term-Termcat 1300 1308	conforme
+T71	Term-Termcat 985 993	conforme
+T72	Term-Termcat 836 843	apremio
+T73	Term-Termcat 670 676	demora
+T74	Term-Termcat 1145 1154	documento
+T75	Term-Termcat 1687 1703	domicilio fiscal
+T76	Term-Termcat 376 383	efectos
+T77	Term-Termcat 321 336	fraccionamiento
+T78	Term-Termcat 37 52	fraccionamiento
+T79	Term-Termcat 1344 1349	haber
+T80	Term-Termcat 1437 1448	información
+T81	Term-Termcat 213 220	motivos
+T82	Term-Termcat 1207 1213	órgano
+T83	Term-Termcat 604 621	periodo ejecutivo
+T84	Term-Termcat 754 771	periodo ejecutivo
+T85	Term-Termcat 556 573	periodo ejecutivo
+T86	Term-Termcat 470 488	periodo voluntario
+T87	Term-Termcat 819 832	procedimiento
+T88	Term-Termcat 1462 1474	razón social
+T89	Term-Termcat 592 599	recargo
+T90	Term-Termcat 1041 1049	recurrir
+T91	Term-Termcat 1697 1703	fiscal
+T92	Term-Termcat 267 277	inadmisión
+T93	Term-Termcat 194 204	inadmisión
+T94	Term-Termcat 1127 1136	recepción
+T95	Term-Termcat 1176 1183	recurso
+T96	Term-Termcat 0 5	Vista
+T97	Term-Tributario 9 18	solicitud
+T98	Term-Tributario 293 302	solicitud
+T99	Term-Tributario 442 451	solicitud
+T100	Term-Tributario 963 972	solicitud
+T101	Term-Tributario 256 263	acuerdo
+T102	Term-Tributario 1003 1010	acuerdo
+T103	Term-Tributario 1229 1236	acuerdo
+T104	Term-Tributario 1316 1323	acuerdo
+T105	Term-Tributario 37 52	fraccionamiento
+T106	Term-Tributario 321 336	fraccionamiento
+T107	Term-Tributario 82 86	pago
+T108	Term-Tributario 695 699	pago
+T109	Term-Tributario 1083 1086	mes
+T110	Term-Tributario 1176 1183	recurso
+T111	Term-Tributario 1646 1653	recurso
+T112	Term-Tributario 147 152	Anexo
+T113	Term-Tributario 241 246	Anexo
+T114	Term-Tributario 1687 1703	domicilio fiscal
+T115	Term-Tributario 1361 1372	reclamación
+T116	Term-Tributario 819 832	procedimiento
+T117	Term-Tributario 1462 1467	razón
+T118	Term-Tributario 428 435	momento
+T119	Term-Tributario 1071 1076	plazo
+T120	Term-AttentionRank 1083 1154	mes contado desde el día siguiente al de la recepción de este documento
+T121	Term-AttentionRank 604 621	periodo ejecutivo
+T122	Term-AttentionRank 556 573	periodo ejecutivo
+T123	Term-AttentionRank 267 277	inadmisión
+T124	Term-AttentionRank 194 204	inadmisión
+T125	Term-AttentionRank 754 780	periodo ejecutivo de cobro
+T126	Term-AttentionRank 1667 1703	lugar distinto a su domicilio fiscal
+T127	Term-AttentionRank 1229 1236	acuerdo
+T128	Term-AttentionRank 1003 1010	acuerdo
+T129	Term-AttentionRank 256 263	acuerdo
+T130	Term-AttentionRank 1316 1323	acuerdo
+T131	Term-AttentionRank 411 417	deudas
+T132	Term-AttentionRank 730 736	deudas
+T133	Term-AttentionRank 706 711	deuda
+T134	Term-AttentionRank 293 302	solicitud
+T135	Term-AttentionRank 9 18	solicitud
+T136	Term-AttentionRank 963 972	solicitud
+T137	Term-AttentionRank 442 451	solicitud
+T138	Term-AttentionRank 695 699	pago
+T139	Term-AttentionRank 82 86	pago
+T140	Term-AttentionRank 1495 1499	caso
+T141	Term-AttentionRank 910 914	caso
+T142	Term-AttentionRank 647 651	caso
+T143	Term-AttentionRank 1515 1538	través de representante
+T144	Term-AttentionRank 321 336	fraccionamiento
+T145	Term-AttentionRank 37 52	fraccionamiento
+T146	Term-AttentionRank 1634 1653	relación al recurso
+T147	Term-AttentionRank 1176 1183	recurso
+T148	Term-AttentionRank 532 539	ingreso
+T149	Term-AttentionRank 95 102	ingreso
