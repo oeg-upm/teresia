@@ -1,0 +1,3 @@
+T1	concept 1156 1172	violencia sexual
+T2	concept 1120 1139	violencia de género
+R1	subclass_of Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T1	org 1752 1792	Inspección de Trabajo y Seguridad Social
+T2	org 1381 1407	servicio público de empleo
+R1	part_of Arg1:T1 Arg2:T2

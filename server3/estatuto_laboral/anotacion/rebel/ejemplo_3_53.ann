@@ -1,0 +1,3 @@
+T1	concept 1374 1438	Contrato de trabajo eventual por circunstancias de la producción
+T2	concept 717 736	contrato de trabajo
+R1	subclass_of Arg1:T1 Arg2:T2

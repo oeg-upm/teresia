@@ -1,0 +1,3 @@
+T1	org 565 579	representación
+T2	concept 440 447	empresa
+R1	instance_of Arg1:T1 Arg2:T2

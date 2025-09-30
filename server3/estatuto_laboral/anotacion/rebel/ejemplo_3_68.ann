@@ -1,0 +1,3 @@
+T1	concept 184 239	Contrato de trabajo para la formación y el apr endizaje
+T2	concept 42 68	Fondo de Garantía Salarial
+R1	part_of Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T1	concept 1396 1403	salario
+T2	concept 1312 1323	retribución
+R1	subclass_of Arg1:T1 Arg2:T2

@@ -1,0 +1,78 @@
+T1	Term-DPEJ 171 189	trabajos nocturnos
+T2	Term-DPEJ 53 61	admisión
+T3	Term-DPEJ 379 386	Riesgos
+T4	Term-DPEJ 113 125	trabajadores
+T5	Term-DPEJ 0 8	Artículo
+T6	Term-DPEJ 407 413	normas
+T7	Term-DPEJ 574 595	espectáculos públicos
+T8	Term-DPEJ 618 623	casos
+T9	Term-DPEJ 755 762	permiso
+T10	Term-DPEJ 720 741	formación profesional
+T11	Term-DPEJ 216 223	puestos
+T12	Term-DPEJ 379 396	Riesgos Laborales
+T13	Term-DPEJ 703 708	salud
+T14	Term-DPEJ 202 213	actividades
+T15	Term-DPEJ 12 19	Trabajo
+T16	Term-DPEJ 65 72	trabajo
+T17	Term-DPEJ 227 234	trabajo
+T18	Term-DPEJ 171 179	trabajos
+T19	Term-DPEJ 645 654	autoridad
+T20	Term-Termcat 645 654	autoridad
+T21	Term-Termcat 755 762	permiso
+T22	Term-Termcat 797 802	actos
+T23	Term-Termcat 330 333	Ley
+T24	Term-Termcat 0 8	Artículo
+T25	Term-Termcat 525 537	intervención
+T26	Term-Termcat 407 413	normas
+T27	Term-Termcat 645 662	autoridad laboral
+T28	Term-Termcat 12 19	Trabajo
+T29	Term-Termcat 227 234	trabajo
+T30	Term-Termcat 65 72	trabajo
+T31	Term-Termcat 720 741	formación profesional
+T32	Term-Termcat 464 485	horas extraordinarias
+T33	Term-Termcat 687 694	peligro
+T34	Term-Termcat 365 396	Prevención de Riesgos Laborales
+T35	Term-Termcat 171 189	trabajos nocturnos
+T36	Term-Termcat 202 213	actividades
+T37	Term-Termcat 53 61	admisión
+T38	Term-Termcat 300 308	conforme
+T39	Term-Termcat 287 299	contratación
+T40	Term-Termcat 171 179	trabajos
+T41	Term-Termcat 27 34	menores
+T42	Term-Termcat 126 133	menores
+T43	Term-Termcat 545 552	menores
+T44	Term-Termcat 79 86	menores
+T45	Term-Termcat 492 499	menores
+T46	Term-Termcat 379 386	Riesgos
+T47	Term-Termcat 365 375	Prevención
+T48	Term-Termcat 587 595	públicos
+T49	Term-AttentionRank 525 555	intervención de los menores de
+T50	Term-AttentionRank 113 136	trabajadores menores de
+T51	Term-AttentionRank 12 19	Trabajo
+T52	Term-AttentionRank 227 234	trabajo
+T53	Term-AttentionRank 65 72	trabajo
+T54	Term-AttentionRank 235 249	respecto a los
+T55	Term-AttentionRank 171 189	trabajos nocturnos
+T56	Term-AttentionRank 574 595	espectáculos públicos
+T57	Term-AttentionRank 464 485	horas extraordinarias
+T58	Term-AttentionRank 720 729	formación
+T59	Term-AttentionRank 645 662	autoridad laboral
+T60	Term-AttentionRank 53 61	admisión
+T61	Term-AttentionRank 216 223	puestos
+T62	Term-AttentionRank 703 708	salud
+T63	Term-AttentionRank 755 762	permiso
+T64	Term-AttentionRank 618 637	casos excepcionales
+T65	Term-AttentionRank 269 281	limitaciones
+T66	Term-Rebel 171 189	trabajos nocturnos
+T67	Term-Rebel 216 234	puestos de trabajo
+T68	Term-IATE 0 8	Artículo
+T69	Term-IATE 755 762	permiso
+T70	Term-IATE 113 125	trabajadores
+T71	Term-IATE 171 189	trabajos nocturnos
+T72	Term-IATE 202 213	actividades
+T73	Term-IATE 365 375	Prevención
+T74	Term-IATE 720 729	formación
+T75	Term-IATE 379 386	Riesgos
+T76	Term-IATE 53 61	admisión
+T77	Term-IATE 720 741	formación profesional
+R1	subclass_of-Rebel Arg1:T66 Arg2:T67

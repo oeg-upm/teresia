@@ -1,0 +1,3 @@
+T1	concept 1130 1139	carcinoma
+T2	concept 1100 1116	tumores malignos
+R1	subclass_of Arg1:T1 Arg2:T2

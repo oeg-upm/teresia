@@ -1,0 +1,3 @@
+T1	media 6 32	Fondo de Garantía Salarial
+T2	org 65 104	Ministerio de Empleo y Seguridad Social
+R1	part_of Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T1	concept 1768 1800	elecciones objeto de impugnación
+T2	concept 1697 1707	elecciones
+R1	subclass_of Arg1:T1 Arg2:T2

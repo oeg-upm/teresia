@@ -1,0 +1,3 @@
+T1	concept 292 300	asamblea
+T2	concept 22 29	reunión
+R1	subclass_of Arg1:T1 Arg2:T2

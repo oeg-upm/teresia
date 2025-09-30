@@ -1,0 +1,3 @@
+T1	concept 538 555	despido colectivo
+T2	concept 538 545	despido
+R1	subclass_of Arg1:T1 Arg2:T2

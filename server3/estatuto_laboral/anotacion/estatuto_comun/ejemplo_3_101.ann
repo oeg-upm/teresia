@@ -1,0 +1,169 @@
+T1	Term-DPEJ 721 732	incapacidad
+T2	Term-DPEJ 721 741	incapacidad temporal
+T3	Term-DPEJ 118 128	aplicación
+T4	Term-DPEJ 1577 1583	tiempo
+T5	Term-DPEJ 1051 1061	limitación
+T6	Term-DPEJ 1636 1648	trabajadores
+T7	Term-DPEJ 450 458	artículo
+T8	Term-DPEJ 1188 1196	artículo
+T9	Term-DPEJ 966 985	contrato de trabajo
+T10	Term-DPEJ 65 75	suspensión
+T11	Term-DPEJ 383 393	suspensión
+T12	Term-DPEJ 554 564	suspensión
+T13	Term-DPEJ 1264 1274	suspensión
+T14	Term-DPEJ 1157 1168	acogimiento
+T15	Term-DPEJ 343 350	derecho
+T16	Term-DPEJ 789 796	derecho
+T17	Term-DPEJ 838 845	derecho
+T18	Term-DPEJ 943 950	derecho
+T19	Term-DPEJ 880 886	normas
+T20	Term-DPEJ 1667 1675	términos
+T21	Term-DPEJ 1513 1522	apartados
+T22	Term-DPEJ 1556 1563	jornada
+T23	Term-DPEJ 966 974	contrato
+T24	Term-DPEJ 212 216	caso
+T25	Term-DPEJ 474 478	caso
+T26	Term-DPEJ 752 756	caso
+T27	Term-DPEJ 1209 1213	caso
+T28	Term-DPEJ 1292 1298	opción
+T29	Term-DPEJ 864 871	acuerdo
+T30	Term-DPEJ 1173 1180	acuerdo
+T31	Term-DPEJ 1600 1607	acuerdo
+T32	Term-DPEJ 1388 1395	límites
+T33	Term-DPEJ 431 442	conformidad
+T34	Term-DPEJ 482 492	nacimiento
+T35	Term-DPEJ 1345 1350	forma
+T36	Term-DPEJ 708 717	situación
+T37	Term-DPEJ 812 821	actividad
+T38	Term-DPEJ 906 915	actividad
+T39	Term-DPEJ 308 315	trabajo
+T40	Term-DPEJ 678 685	trabajo
+T41	Term-DPEJ 978 985	trabajo
+T42	Term-Termcat 1667 1675	términos
+T43	Term-Termcat 1143 1151	adopción
+T44	Term-Termcat 1110 1118	adopción
+T45	Term-Termcat 966 974	contrato
+T46	Term-Termcat 1345 1350	forma
+T47	Term-Termcat 1399 1407	disfrute
+T48	Term-Termcat 1123 1129	guarda
+T49	Term-Termcat 721 732	incapacidad
+T50	Term-Termcat 482 492	nacimiento
+T51	Term-Termcat 535 538	uso
+T52	Term-Termcat 450 458	artículo
+T53	Term-Termcat 1188 1196	artículo
+T54	Term-Termcat 880 886	normas
+T55	Term-Termcat 149 156	sistema
+T56	Term-Termcat 966 985	contrato de trabajo
+T57	Term-Termcat 308 315	trabajo
+T58	Term-Termcat 678 685	trabajo
+T59	Term-Termcat 721 741	incapacidad temporal
+T60	Term-Termcat 1556 1572	jornada completa
+T61	Term-Termcat 647 662	reincorporación
+T62	Term-Termcat 1009 1016	semanas
+T63	Term-Termcat 372 379	semanas
+T64	Term-Termcat 789 796	derecho
+T65	Term-Termcat 343 350	derecho
+T66	Term-Termcat 943 950	derecho
+T67	Term-Termcat 838 845	derecho
+T68	Term-Termcat 261 274	independencia
+T69	Term-Termcat 65 75	suspensión
+T70	Term-Termcat 554 564	suspensión
+T71	Term-Termcat 383 393	suspensión
+T72	Term-Termcat 1264 1274	suspensión
+T73	Term-Termcat 431 442	conformidad
+T74	Term-Termcat 1306 1317	interesados
+T75	Term-Termcat 1157 1168	acogimiento
+T76	Term-Termcat 864 871	acuerdo
+T77	Term-Termcat 1173 1180	acuerdo
+T78	Term-Termcat 1600 1607	acuerdo
+T79	Term-Termcat 906 915	actividad
+T80	Term-Termcat 812 821	actividad
+T81	Term-Termcat 118 128	aplicación
+T82	Term-Termcat 669 674	madre
+T83	Term-Termcat 412 427	madre biológica
+T84	Term-Termcat 240 255	madre biológica
+T85	Term-Termcat 592 607	madre biológica
+T86	Term-Termcat 1292 1298	opción
+T87	Term-Termcat 1066 1073	régimen
+T88	Term-Termcat 1545 1552	régimen
+T89	Term-AttentionRank 622 685	momento previsto para la reincorporación de la madre al trabajo
+T90	Term-AttentionRank 53 61	periodos
+T91	Term-AttentionRank 1475 1483	periodos
+T92	Term-AttentionRank 1253 1260	periodo
+T93	Term-AttentionRank 107 114	periodo
+T94	Term-AttentionRank 543 550	periodo
+T95	Term-AttentionRank 1450 1457	periodo
+T96	Term-AttentionRank 789 796	derecho
+T97	Term-AttentionRank 343 350	derecho
+T98	Term-AttentionRank 943 950	derecho
+T99	Term-AttentionRank 838 845	derecho
+T100	Term-AttentionRank 474 478	caso
+T101	Term-AttentionRank 212 216	caso
+T102	Term-AttentionRank 752 756	caso
+T103	Term-AttentionRank 1209 1213	caso
+T104	Term-AttentionRank 65 75	suspensión
+T105	Term-AttentionRank 554 564	suspensión
+T106	Term-AttentionRank 383 393	suspensión
+T107	Term-AttentionRank 1264 1274	suspensión
+T108	Term-AttentionRank 450 458	artículo
+T109	Term-AttentionRank 978 985	trabajo
+T110	Term-AttentionRank 308 315	trabajo
+T111	Term-AttentionRank 1173 1196	acuerdo con el artículo
+T112	Term-AttentionRank 864 871	acuerdo
+T113	Term-AttentionRank 1600 1607	acuerdo
+T114	Term-AttentionRank 412 427	madre biológica
+T115	Term-AttentionRank 240 255	madre biológica
+T116	Term-AttentionRank 592 607	madre biológica
+T117	Term-AttentionRank 1292 1317	opción de los interesados
+T118	Term-AttentionRank 1134 1139	fines
+T119	Term-AttentionRank 721 741	incapacidad temporal
+T120	Term-AttentionRank 1227 1239	progenitores
+T121	Term-AttentionRank 85 97	progenitores
+T122	Term-AttentionRank 325 335	progenitor
+T123	Term-AttentionRank 925 935	progenitor
+T124	Term-AttentionRank 767 777	progenitor
+T125	Term-AttentionRank 502 512	progenitor
+T126	Term-AttentionRank 1066 1085	régimen transitorio
+T127	Term-Rebel 1110 1118	adopción
+T128	Term-IATE 149 156	sistema
+T129	Term-IATE 118 128	aplicación
+T130	Term-IATE 1618 1629	empresarios
+T131	Term-IATE 1513 1522	apartados
+T132	Term-IATE 482 492	nacimiento
+T133	Term-IATE 450 458	artículo
+T134	Term-IATE 1188 1196	artículo
+T135	Term-IATE 721 741	incapacidad temporal
+T136	Term-IATE 85 97	progenitores
+T137	Term-IATE 1227 1239	progenitores
+T138	Term-IATE 325 335	progenitor
+T139	Term-IATE 502 512	progenitor
+T140	Term-IATE 767 777	progenitor
+T141	Term-IATE 925 935	progenitor
+T142	Term-IATE 1110 1118	adopción
+T143	Term-IATE 1143 1151	adopción
+T144	Term-IATE 966 974	contrato
+T145	Term-IATE 1636 1648	trabajadores
+T146	Term-IATE 1292 1298	opción
+T147	Term-IATE 65 75	suspensión
+T148	Term-IATE 383 393	suspensión
+T149	Term-IATE 554 564	suspensión
+T150	Term-IATE 1264 1274	suspensión
+T151	Term-IATE 812 821	actividad
+T152	Term-IATE 906 915	actividad
+T153	Term-IATE 240 255	madre biológica
+T154	Term-IATE 412 427	madre biológica
+T155	Term-IATE 592 607	madre biológica
+T156	Term-IATE 431 442	conformidad
+T157	Term-IATE 622 629	momento
+T158	Term-IATE 721 732	incapacidad
+T159	Term-IATE 708 717	situación
+T160	Term-IATE 812 833	actividad profesional
+T161	Term-IATE 864 871	acuerdo
+T162	Term-IATE 1173 1180	acuerdo
+T163	Term-IATE 1600 1607	acuerdo
+T164	Term-IATE 240 245	madre
+T165	Term-IATE 412 417	madre
+T166	Term-IATE 592 597	madre
+T167	Term-IATE 669 674	madre
+T168	Term-IATE 647 662	reincorporación
+R1	different_from-Rebel Arg1:T127 Arg2:T127

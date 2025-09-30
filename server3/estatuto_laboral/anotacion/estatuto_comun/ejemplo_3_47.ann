@@ -1,0 +1,61 @@
+T1	Term-DPEJ 565 579	representación
+T2	Term-DPEJ 664 678	REPREsEntacIón
+T3	Term-DPEJ 280 292	trabajadores
+T4	Term-DPEJ 610 622	trabajadores
+T5	Term-DPEJ 213 237	Real Decreto Legislativo
+T6	Term-DPEJ 0 8	Artículo
+T7	Term-DPEJ 183 188	Orden
+T8	Term-DPEJ 553 561	derechos
+T9	Term-DPEJ 652 659	dEREcho
+T10	Term-DPEJ 440 447	empresa
+T11	Term-DPEJ 629 636	empresa
+T12	Term-DPEJ 536 542	TÍTULO
+T13	Term-DPEJ 595 602	reunión
+T14	Term-DPEJ 120 135	texto refundido
+T15	Term-DPEJ 424 429	fecha
+T16	Term-DPEJ 492 496	caso
+T17	Term-DPEJ 472 480	comisión
+T18	Term-Termcat 218 237	Decreto Legislativo
+T19	Term-Termcat 183 188	Orden
+T20	Term-Termcat 13 25	Prescripción
+T21	Term-Termcat 142 145	Ley
+T22	Term-Termcat 565 579	representación
+T23	Term-Termcat 664 678	REPREsEntacIón
+T24	Term-Termcat 536 542	TÍTULO
+T25	Term-Termcat 0 8	Artículo
+T26	Term-Termcat 637 645	CAPÍTULO
+T27	Term-Termcat 595 602	reunión
+T28	Term-Termcat 120 135	texto refundido
+T29	Term-Termcat 472 480	comisión
+T30	Term-Termcat 440 447	empresa
+T31	Term-Termcat 629 636	empresa
+T32	Term-Termcat 298 310	faltas leves
+T33	Term-Termcat 565 589	representación colectiva
+T34	Term-Termcat 553 561	derechos
+T35	Term-Termcat 652 659	dEREcho
+T36	Term-Termcat 453 465	conocimiento
+T37	Term-Termcat 88 96	conforme
+T38	Term-Termcat 213 225	Real Decreto
+T39	Term-Termcat 218 225	Decreto
+T40	Term-Termcat 146 151	sobre
+T41	Term-AttentionRank 34 74	infracciones cometidas por el empresario
+T42	Term-AttentionRank 404 408	días
+T43	Term-AttentionRank 335 339	días
+T44	Term-AttentionRank 366 370	días
+T45	Term-AttentionRank 120 135	texto refundido
+T46	Term-AttentionRank 298 310	faltas leves
+T47	org-Rebel 565 579	representación
+T48	Term-Rebel 440 447	empresa
+T49	Term-IATE 64 74	empresario
+T50	Term-IATE 0 8	Artículo
+T51	Term-IATE 183 188	Orden
+T52	Term-IATE 280 292	trabajadores
+T53	Term-IATE 610 622	trabajadores
+T54	Term-IATE 536 542	TÍTULO
+T55	Term-IATE 509 514	meses
+T56	Term-IATE 298 304	faltas
+T57	Term-IATE 440 447	empresa
+T58	Term-IATE 629 636	empresa
+T59	Term-IATE 637 645	CAPÍTULO
+T60	Term-IATE 595 602	reunión
+R1	instance_of-Rebel Arg1:T47 Arg2:T48

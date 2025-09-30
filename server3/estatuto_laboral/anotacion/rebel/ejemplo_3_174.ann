@@ -1,0 +1,3 @@
+T1	concept 1005 1026	pagas extraordinarias
+T2	concept 932 963	salario mínimo interprofesional
+R1	part_of Arg1:T1 Arg2:T2

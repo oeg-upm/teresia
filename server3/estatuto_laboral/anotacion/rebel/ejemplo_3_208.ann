@@ -1,0 +1,3 @@
+T1	concept 1690 1694	hijo
+T2	concept 1782 1787	parto
+R1	has_cause Arg1:T1 Arg2:T2

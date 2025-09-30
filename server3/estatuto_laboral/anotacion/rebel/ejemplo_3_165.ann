@@ -1,0 +1,3 @@
+T1	concept 1657 1676	desconexión digital
+T2	concept 1457 1466	intimidad
+R1	subclass_of Arg1:T1 Arg2:T2

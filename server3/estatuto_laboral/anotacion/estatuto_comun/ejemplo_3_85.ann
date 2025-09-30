@@ -1,0 +1,168 @@
+T1	Term-DPEJ 197 204	persona
+T2	Term-DPEJ 52 58	tiempo
+T3	Term-DPEJ 1150 1158	convenio
+T4	Term-DPEJ 74 117	contrato de trabajo de duración determinada
+T5	Term-DPEJ 523 531	artículo
+T6	Term-DPEJ 858 866	artículo
+T7	Term-DPEJ 6 25	contrato de trabajo
+T8	Term-DPEJ 74 93	contrato de trabajo
+T9	Term-DPEJ 705 712	empresa
+T10	Term-DPEJ 1544 1552	empresas
+T11	Term-DPEJ 1722 1730	términos
+T12	Term-DPEJ 1150 1168	convenio colectivo
+T13	Term-DPEJ 6 14	contrato
+T14	Term-DPEJ 74 82	contrato
+T15	Term-DPEJ 341 349	contrato
+T16	Term-DPEJ 1015 1023	contrato
+T17	Term-DPEJ 1229 1237	contrato
+T18	Term-DPEJ 1270 1278	contrato
+T19	Term-DPEJ 1479 1487	contrato
+T20	Term-DPEJ 1571 1580	contratos
+T21	Term-DPEJ 1255 1259	caso
+T22	Term-DPEJ 1407 1414	acuerdo
+T23	Term-DPEJ 1172 1178	ámbito
+T24	Term-DPEJ 252 257	causa
+T25	Term-DPEJ 353 358	causa
+T26	Term-DPEJ 1407 1428	acuerdo de las partes
+T27	Term-DPEJ 753 759	empleo
+T28	Term-DPEJ 1422 1428	partes
+T29	Term-DPEJ 197 216	persona trabajadora
+T30	Term-DPEJ 273 285	temporalidad
+T31	Term-DPEJ 144 158	circunstancias
+T32	Term-DPEJ 404 418	circunstancias
+T33	Term-DPEJ 550 564	circunstancias
+T34	Term-DPEJ 1065 1079	circunstancias
+T35	Term-DPEJ 1585 1599	circunstancias
+T36	Term-DPEJ 627 636	actividad
+T37	Term-DPEJ 682 691	actividad
+T38	Term-DPEJ 18 25	trabajo
+T39	Term-DPEJ 86 93	trabajo
+T40	Term-Termcat 1150 1158	convenio
+T41	Term-Termcat 1722 1730	términos
+T42	Term-Termcat 1015 1023	contrato
+T43	Term-Termcat 6 14	contrato
+T44	Term-Termcat 1229 1237	contrato
+T45	Term-Termcat 1270 1278	contrato
+T46	Term-Termcat 341 349	contrato
+T47	Term-Termcat 74 82	contrato
+T48	Term-Termcat 1479 1487	contrato
+T49	Term-Termcat 1571 1580	contratos
+T50	Term-Termcat 858 866	artículo
+T51	Term-Termcat 523 531	artículo
+T52	Term-Termcat 1422 1428	partes
+T53	Term-Termcat 682 698	actividad normal
+T54	Term-Termcat 6 25	contrato de trabajo
+T55	Term-Termcat 74 117	contrato de trabajo de duración determinada
+T56	Term-Termcat 1150 1168	convenio colectivo
+T57	Term-Termcat 705 712	empresa
+T58	Term-Termcat 1544 1552	empresas
+T59	Term-Termcat 753 759	empleo
+T60	Term-Termcat 182 193	sustitución
+T61	Term-Termcat 985 995	vacaciones
+T62	Term-Termcat 1027 1035	duración
+T63	Term-Termcat 1101 1109	duración
+T64	Term-Termcat 1309 1317	duración
+T65	Term-Termcat 1511 1519	duración
+T66	Term-Termcat 1460 1468	duración
+T67	Term-Termcat 1209 1217	duración
+T68	Term-Termcat 1684 1692	duración
+T69	Term-Termcat 468 476	duración
+T70	Term-Termcat 197 204	persona
+T71	Term-Termcat 1407 1414	acuerdo
+T72	Term-Termcat 682 691	actividad
+T73	Term-Termcat 627 636	actividad
+T74	Term-Termcat 252 257	causa
+T75	Term-Termcat 353 358	causa
+T76	Term-Termcat 404 418	circunstancias
+T77	Term-Termcat 144 158	circunstancias
+T78	Term-Termcat 1065 1079	circunstancias
+T79	Term-Termcat 1585 1599	circunstancias
+T80	Term-Termcat 550 564	circunstancias
+T81	Term-Termcat 377 389	contratación
+T82	Term-Termcat 492 499	efectos
+T83	Term-Termcat 1339 1344	legal
+T84	Term-Termcat 1606 1616	producción
+T85	Term-Termcat 1086 1096	producción
+T86	Term-Termcat 571 581	producción
+T87	Term-Termcat 165 175	producción
+T88	Term-Termcat 1179 1188	sectorial
+T89	Term-Termcat 1123 1131	superior
+T90	Term-Termcat 390 398	temporal
+T91	Term-Termcat 735 743	temporal
+T92	Term-Termcat 74 93	contrato de trabajo
+T93	Term-Termcat 1749 1756	párrafo
+T94	Term-Termcat 916 923	párrafo
+T95	Term-AttentionRank 1015 1023	contrato
+T96	Term-AttentionRank 6 14	contrato
+T97	Term-AttentionRank 1229 1237	contrato
+T98	Term-AttentionRank 1270 1278	contrato
+T99	Term-AttentionRank 341 349	contrato
+T100	Term-AttentionRank 74 82	contrato
+T101	Term-AttentionRank 1479 1487	contrato
+T102	Term-AttentionRank 1571 1580	contratos
+T103	Term-AttentionRank 1460 1468	duración
+T104	Term-AttentionRank 1101 1109	duración
+T105	Term-AttentionRank 1684 1692	duración
+T106	Term-AttentionRank 468 476	duración
+T107	Term-AttentionRank 404 418	circunstancias
+T108	Term-AttentionRank 144 158	circunstancias
+T109	Term-AttentionRank 1065 1079	circunstancias
+T110	Term-AttentionRank 1585 1599	circunstancias
+T111	Term-AttentionRank 550 564	circunstancias
+T112	Term-AttentionRank 1407 1428	acuerdo de las partes
+T113	Term-AttentionRank 353 370	causa habilitante
+T114	Term-AttentionRank 1309 1344	duración inferior a la máxima legal
+T115	Term-AttentionRank 1606 1616	producción
+T116	Term-AttentionRank 1086 1096	producción
+T117	Term-AttentionRank 571 581	producción
+T118	Term-AttentionRank 165 175	producción
+T119	Term-AttentionRank 97 117	duración determinada
+T120	Term-AttentionRank 1027 1047	duración determinada
+T121	Term-AttentionRank 643 655	oscilaciones
+T122	Term-AttentionRank 883 895	oscilaciones
+T123	Term-AttentionRank 1511 1526	duración máxima
+T124	Term-AttentionRank 1209 1224	duración máxima
+T125	Term-AttentionRank 858 866	artículo
+T126	Term-AttentionRank 523 531	artículo
+T127	Term-AttentionRank 753 767	empleo estable
+T128	Term-AttentionRank 86 93	trabajo
+T129	Term-AttentionRank 18 25	trabajo
+T130	Term-AttentionRank 1150 1168	convenio colectivo
+T131	Term-AttentionRank 682 691	actividad
+T132	Term-AttentionRank 627 636	actividad
+T133	Term-Rebel 1015 1047	contrato de duración determinada
+T134	Term-Rebel 6 14	contrato
+T135	Term-IATE 523 531	artículo
+T136	Term-IATE 858 866	artículo
+T137	Term-IATE 97 105	duración
+T138	Term-IATE 468 476	duración
+T139	Term-IATE 1027 1035	duración
+T140	Term-IATE 1101 1109	duración
+T141	Term-IATE 1209 1217	duración
+T142	Term-IATE 1309 1317	duración
+T143	Term-IATE 1460 1468	duración
+T144	Term-IATE 1511 1519	duración
+T145	Term-IATE 1684 1692	duración
+T146	Term-IATE 6 14	contrato
+T147	Term-IATE 74 82	contrato
+T148	Term-IATE 341 349	contrato
+T149	Term-IATE 1015 1023	contrato
+T150	Term-IATE 1229 1237	contrato
+T151	Term-IATE 1270 1278	contrato
+T152	Term-IATE 1479 1487	contrato
+T153	Term-IATE 1571 1580	contratos
+T154	Term-IATE 86 117	trabajo de duración determinada
+T155	Term-IATE 916 923	párrafo
+T156	Term-IATE 1749 1756	párrafo
+T157	Term-IATE 1015 1047	contrato de duración determinada
+T158	Term-IATE 627 636	actividad
+T159	Term-IATE 682 691	actividad
+T160	Term-IATE 1150 1158	convenio
+T161	Term-IATE 753 759	empleo
+T162	Term-IATE 1422 1428	partes
+T163	Term-IATE 1150 1168	convenio colectivo
+T164	Term-IATE 1139 1144	meses
+T165	Term-IATE 1407 1414	acuerdo
+T166	Term-IATE 705 712	empresa
+T167	Term-IATE 1544 1552	empresas
+R1	subclass_of-Rebel Arg1:T133 Arg2:T134

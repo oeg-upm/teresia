@@ -1,0 +1,215 @@
+T1	Term-DPEJ 1257 1263	prueba
+T2	Term-DPEJ 951 963	fuerza mayor
+T3	Term-DPEJ 1386 1398	fuerza mayor
+T4	Term-DPEJ 1799 1811	fuerza mayor
+T5	Term-DPEJ 733 743	aplicación
+T6	Term-DPEJ 1111 1121	aplicación
+T7	Term-DPEJ 228 236	personas
+T8	Term-DPEJ 1346 1354	personas
+T9	Term-DPEJ 1579 1587	personas
+T10	Term-DPEJ 206 220	representación
+T11	Term-DPEJ 1318 1332	representación
+T12	Term-DPEJ 1056 1064	artículo
+T13	Term-DPEJ 1300 1312	comunicación
+T14	Term-DPEJ 80 90	suspensión
+T15	Term-DPEJ 653 663	suspensión
+T16	Term-DPEJ 890 900	suspensión
+T17	Term-DPEJ 1436 1446	suspensión
+T18	Term-DPEJ 1693 1702	Seguridad
+T19	Term-DPEJ 177 184	empresa
+T20	Term-DPEJ 1177 1184	empresa
+T21	Term-DPEJ 823 831	empresas
+T22	Term-DPEJ 527 532	plazo
+T23	Term-DPEJ 701 707	plazos
+T24	Term-DPEJ 804 812	apartado
+T25	Term-DPEJ 1040 1048	apartado
+T26	Term-DPEJ 1669 1679	Inspección
+T27	Term-DPEJ 70 77	jornada
+T28	Term-DPEJ 643 650	jornada
+T29	Term-DPEJ 866 873	jornada
+T30	Term-DPEJ 1462 1469	jornada
+T31	Term-DPEJ 94 103	contratos
+T32	Term-DPEJ 908 917	contratos
+T33	Term-DPEJ 1477 1486	contratos
+T34	Term-DPEJ 1726 1736	resolución
+T35	Term-DPEJ 1644 1651	informe
+T36	Term-DPEJ 1743 1750	informe
+T37	Term-DPEJ 114 120	causas
+T38	Term-DPEJ 933 938	causa
+T39	Term-DPEJ 1413 1418	causa
+T40	Term-DPEJ 1569 1575	número
+T41	Term-DPEJ 296 305	consultas
+T42	Term-DPEJ 412 421	consultas
+T43	Term-DPEJ 762 771	consultas
+T44	Term-DPEJ 228 249	personas trabajadoras
+T45	Term-DPEJ 1346 1367	personas trabajadoras
+T46	Term-DPEJ 1579 1600	personas trabajadoras
+T47	Term-DPEJ 461 469	decisión
+T48	Term-DPEJ 1693 1709	Seguridad Social
+T49	Term-DPEJ 323 331	prórroga
+T50	Term-DPEJ 367 375	prórroga
+T51	Term-DPEJ 57 66	reducción
+T52	Term-DPEJ 630 639	reducción
+T53	Term-DPEJ 850 859	reducción
+T54	Term-DPEJ 1449 1458	reducción
+T55	Term-DPEJ 670 686	relación laboral
+T56	Term-DPEJ 981 994	procedimiento
+T57	Term-DPEJ 1126 1139	procedimiento
+T58	Term-DPEJ 877 884	trabajo
+T59	Term-DPEJ 921 928	trabajo
+T60	Term-DPEJ 1490 1497	trabajo
+T61	Term-DPEJ 1683 1690	Trabajo
+T62	Term-DPEJ 503 512	autoridad
+T63	Term-DPEJ 1199 1208	autoridad
+T64	Term-DPEJ 1528 1537	autoridad
+T65	Term-DPEJ 1615 1624	autoridad
+T66	Term-DPEJ 47 53	medida
+T67	Term-DPEJ 338 344	medida
+T68	Term-Termcat 503 512	autoridad
+T69	Term-Termcat 1199 1208	autoridad
+T70	Term-Termcat 1615 1624	autoridad
+T71	Term-Termcat 1528 1537	autoridad
+T72	Term-Termcat 1743 1750	informe
+T73	Term-Termcat 1644 1662	informe preceptivo
+T74	Term-Termcat 1669 1679	Inspección
+T75	Term-Termcat 1161 1170	solicitud
+T76	Term-Termcat 1257 1263	prueba
+T77	Term-Termcat 1726 1736	resolución
+T78	Term-Termcat 527 532	plazo
+T79	Term-Termcat 701 707	plazos
+T80	Term-Termcat 1477 1486	contratos
+T81	Term-Termcat 908 917	contratos
+T82	Term-Termcat 94 103	contratos
+T83	Term-Termcat 951 963	fuerza mayor
+T84	Term-Termcat 1799 1811	fuerza mayor
+T85	Term-Termcat 1386 1398	fuerza mayor
+T86	Term-Termcat 1318 1332	representación
+T87	Term-Termcat 206 220	representación
+T88	Term-Termcat 1056 1064	artículo
+T89	Term-Termcat 1300 1312	comunicación
+T90	Term-Termcat 349 358	necesidad
+T91	Term-Termcat 1528 1545	autoridad laboral
+T92	Term-Termcat 503 520	autoridad laboral
+T93	Term-Termcat 1199 1216	autoridad laboral
+T94	Term-Termcat 1615 1632	autoridad laboral
+T95	Term-Termcat 177 184	empresa
+T96	Term-Termcat 1177 1184	empresa
+T97	Term-Termcat 823 831	empresas
+T98	Term-Termcat 921 928	trabajo
+T99	Term-Termcat 1490 1497	trabajo
+T100	Term-Termcat 1669 1690	Inspección de Trabajo
+T101	Term-Termcat 866 884	jornada de trabajo
+T102	Term-Termcat 323 331	prórroga
+T103	Term-Termcat 367 375	prórroga
+T104	Term-Termcat 630 650	reducción de jornada
+T105	Term-Termcat 57 77	reducción de jornada
+T106	Term-Termcat 1449 1469	reducción de jornada
+T107	Term-Termcat 1693 1709	Seguridad Social
+T108	Term-Termcat 425 433	duración
+T109	Term-Termcat 32 40	vigencia
+T110	Term-Termcat 461 469	decisión
+T111	Term-Termcat 1346 1354	personas
+T112	Term-Termcat 228 236	personas
+T113	Term-Termcat 1579 1587	personas
+T114	Term-Termcat 1247 1253	medios
+T115	Term-Termcat 1693 1702	Seguridad
+T116	Term-Termcat 80 90	suspensión
+T117	Term-Termcat 1436 1446	suspensión
+T118	Term-Termcat 653 663	suspensión
+T119	Term-Termcat 890 900	suspensión
+T120	Term-Termcat 1111 1121	aplicación
+T121	Term-Termcat 733 743	aplicación
+T122	Term-Termcat 933 938	causa
+T123	Term-Termcat 1413 1418	causa
+T124	Term-Termcat 114 131	causas económicas
+T125	Term-Termcat 1780 1792	concurrencia
+T126	Term-Termcat 1008 1016	conforme
+T127	Term-Termcat 558 565	efectos
+T128	Term-Termcat 470 481	empresarial
+T129	Term-Termcat 1644 1651	informe
+T130	Term-Termcat 1333 1338	legal
+T131	Term-Termcat 1126 1139	procedimiento
+T132	Term-Termcat 981 994	procedimiento
+T133	Term-Termcat 162 172	producción
+T134	Term-Termcat 670 686	relación laboral
+T135	Term-Termcat 1399 1407	temporal
+T136	Term-Termcat 964 972	temporal
+T137	Term-Termcat 1217 1227	competente
+T138	Term-Termcat 191 200	comunicar
+T139	Term-Termcat 1758 1770	pronunciarse
+T140	Term-Termcat 1719 1725	dictar
+T141	Term-Termcat 1569 1575	número
+T142	Term-Termcat 1771 1776	sobre
+T143	Term-AttentionRank 575 650	día siguiente a la finalización del periodo inicial de reducción de jornada
+T144	Term-AttentionRank 1528 1545	autoridad laboral
+T145	Term-AttentionRank 503 520	autoridad laboral
+T146	Term-AttentionRank 1615 1632	autoridad laboral
+T147	Term-AttentionRank 1177 1227	empresa dirigida a la autoridad laboral competente
+T148	Term-AttentionRank 951 963	fuerza mayor
+T149	Term-AttentionRank 1799 1811	fuerza mayor
+T150	Term-AttentionRank 1386 1398	fuerza mayor
+T151	Term-AttentionRank 1413 1446	causa motivadora de la suspensión
+T152	Term-AttentionRank 228 249	personas trabajadoras
+T153	Term-AttentionRank 1579 1600	personas trabajadoras
+T154	Term-AttentionRank 1346 1367	personas trabajadoras
+T155	Term-AttentionRank 94 131	contratos basada en causas económicas
+T156	Term-AttentionRank 70 77	jornada
+T157	Term-AttentionRank 1462 1469	jornada
+T158	Term-AttentionRank 866 873	jornada
+T159	Term-AttentionRank 401 408	periodo
+T160	Term-AttentionRank 751 758	periodo
+T161	Term-AttentionRank 285 292	periodo
+T162	Term-AttentionRank 933 957	causa derivada de fuerza
+T163	Term-AttentionRank 877 884	trabajo
+T164	Term-AttentionRank 921 928	trabajo
+T165	Term-AttentionRank 1490 1497	trabajo
+T166	Term-AttentionRank 1683 1690	Trabajo
+T167	Term-AttentionRank 1477 1486	contratos
+T168	Term-AttentionRank 908 917	contratos
+T169	Term-AttentionRank 80 90	suspensión
+T170	Term-AttentionRank 653 663	suspensión
+T171	Term-AttentionRank 890 900	suspensión
+T172	Term-AttentionRank 1079 1092	disposiciones
+T173	Term-AttentionRank 1126 1139	procedimiento
+T174	Term-AttentionRank 981 994	procedimiento
+T175	Term-Rebel 866 884	jornada de trabajo
+T176	Term-Rebel 908 928	contratos de trabajo
+T177	Term-IATE 1693 1709	Seguridad Social
+T178	Term-IATE 296 305	consultas
+T179	Term-IATE 412 421	consultas
+T180	Term-IATE 762 771	consultas
+T181	Term-IATE 733 743	aplicación
+T182	Term-IATE 1111 1121	aplicación
+T183	Term-IATE 981 994	procedimiento
+T184	Term-IATE 1126 1139	procedimiento
+T185	Term-IATE 804 812	apartado
+T186	Term-IATE 1040 1048	apartado
+T187	Term-IATE 1056 1064	artículo
+T188	Term-IATE 57 66	reducción
+T189	Term-IATE 630 639	reducción
+T190	Term-IATE 850 859	reducción
+T191	Term-IATE 1449 1458	reducción
+T192	Term-IATE 425 433	duración
+T193	Term-IATE 1644 1651	informe
+T194	Term-IATE 1743 1750	informe
+T195	Term-IATE 94 103	contratos
+T196	Term-IATE 908 917	contratos
+T197	Term-IATE 1477 1486	contratos
+T198	Term-IATE 527 532	plazo
+T199	Term-IATE 701 707	plazos
+T200	Term-IATE 80 90	suspensión
+T201	Term-IATE 653 663	suspensión
+T202	Term-IATE 890 900	suspensión
+T203	Term-IATE 1436 1446	suspensión
+T204	Term-IATE 461 469	decisión
+T205	Term-IATE 1693 1702	Seguridad
+T206	Term-IATE 13 20	momento
+T207	Term-IATE 670 686	relación laboral
+T208	Term-IATE 1726 1736	resolución
+T209	Term-IATE 1669 1679	Inspección
+T210	Term-IATE 1257 1263	prueba
+T211	Term-IATE 1161 1170	solicitud
+T212	Term-IATE 177 184	empresa
+T213	Term-IATE 1177 1184	empresa
+T214	Term-IATE 823 831	empresas
+R1	part_of-Rebel Arg1:T175 Arg2:T176

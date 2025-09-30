@@ -1,0 +1,3 @@
+T1	concept 150 160	readmisión
+T2	concept 194 207	indemnización
+R1	subclass_of Arg1:T1 Arg2:T2

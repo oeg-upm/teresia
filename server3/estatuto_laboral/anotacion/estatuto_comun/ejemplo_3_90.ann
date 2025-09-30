@@ -1,0 +1,173 @@
+T1	Term-DPEJ 211 223	fuerza mayor
+T2	Term-DPEJ 441 453	fuerza mayor
+T3	Term-DPEJ 673 685	fuerza mayor
+T4	Term-DPEJ 811 823	fuerza mayor
+T5	Term-DPEJ 1482 1494	fuerza mayor
+T6	Term-DPEJ 1594 1606	fuerza mayor
+T7	Term-DPEJ 1176 1184	artículo
+T8	Term-DPEJ 1531 1539	artículo
+T9	Term-DPEJ 1066 1079	salud pública
+T10	Term-DPEJ 331 341	suspensión
+T11	Term-DPEJ 239 246	empresa
+T12	Term-DPEJ 923 930	empresa
+T13	Term-DPEJ 107 112	plazo
+T14	Term-DPEJ 548 553	plazo
+T15	Term-DPEJ 1360 1368	términos
+T16	Term-DPEJ 1333 1352	trabajo a distancia
+T17	Term-DPEJ 410 415	fecha
+T18	Term-DPEJ 466 471	fecha
+T19	Term-DPEJ 1049 1059	protección
+T20	Term-DPEJ 309 317	jornadas
+T21	Term-DPEJ 349 358	contratos
+T22	Term-DPEJ 173 177	caso
+T23	Term-DPEJ 1647 1651	caso
+T24	Term-DPEJ 3 13	resolución
+T25	Term-DPEJ 374 384	resolución
+T26	Term-DPEJ 496 506	resolución
+T27	Term-DPEJ 523 533	resolución
+T28	Term-DPEJ 734 744	resolución
+T29	Term-DPEJ 1519 1526	permiso
+T30	Term-DPEJ 940 952	consecuencia
+T31	Term-DPEJ 76 84	informes
+T32	Term-DPEJ 1049 1071	protección de la salud
+T33	Term-DPEJ 1610 1614	base
+T34	Term-DPEJ 1228 1234	centro
+T35	Term-DPEJ 591 601	expediente
+T36	Term-DPEJ 749 759	expediente
+T37	Term-DPEJ 628 634	empleo
+T38	Term-DPEJ 274 282	decisión
+T39	Term-DPEJ 1066 1071	salud
+T40	Term-DPEJ 292 301	reducción
+T41	Term-DPEJ 1420 1434	circunstancias
+T42	Term-DPEJ 1623 1637	circunstancias
+T43	Term-DPEJ 895 904	actividad
+T44	Term-DPEJ 321 328	trabajo
+T45	Term-DPEJ 362 369	trabajo
+T46	Term-DPEJ 1238 1245	trabajo
+T47	Term-DPEJ 1333 1340	trabajo
+T48	Term-DPEJ 791 803	autorización
+T49	Term-DPEJ 20 29	autoridad
+T50	Term-DPEJ 984 993	autoridad
+T51	Term-DPEJ 1228 1245	centro de trabajo
+T52	Term-Termcat 20 29	autoridad
+T53	Term-Termcat 984 993	autoridad
+T54	Term-Termcat 76 84	informes
+T55	Term-Termcat 136 145	solicitud
+T56	Term-Termcat 1519 1526	permiso
+T57	Term-Termcat 496 506	resolución
+T58	Term-Termcat 3 13	resolución
+T59	Term-Termcat 523 533	resolución
+T60	Term-Termcat 734 744	resolución
+T61	Term-Termcat 374 384	resolución
+T62	Term-Termcat 1360 1368	términos
+T63	Term-Termcat 107 112	plazo
+T64	Term-Termcat 548 553	plazo
+T65	Term-Termcat 1254 1258	vías
+T66	Term-Termcat 1701 1709	causante
+T67	Term-Termcat 426 434	causante
+T68	Term-Termcat 349 358	contratos
+T69	Term-Termcat 211 223	fuerza mayor
+T70	Term-Termcat 1482 1494	fuerza mayor
+T71	Term-Termcat 673 685	fuerza mayor
+T72	Term-Termcat 1594 1606	fuerza mayor
+T73	Term-Termcat 441 453	fuerza mayor
+T74	Term-Termcat 811 823	fuerza mayor
+T75	Term-Termcat 861 873	impedimentos
+T76	Term-Termcat 1531 1539	artículo
+T77	Term-Termcat 1176 1184	artículo
+T78	Term-Termcat 20 37	autoridad laboral
+T79	Term-Termcat 1228 1245	centro de trabajo
+T80	Term-Termcat 923 930	empresa
+T81	Term-Termcat 239 246	empresa
+T82	Term-Termcat 321 328	trabajo
+T83	Term-Termcat 362 369	trabajo
+T84	Term-Termcat 628 634	empleo
+T85	Term-Termcat 1049 1071	protección de la salud
+T86	Term-Termcat 1333 1352	trabajo a distancia
+T87	Term-Termcat 1506 1514	duración
+T88	Term-Termcat 1610 1614	base
+T89	Term-Termcat 274 282	decisión
+T90	Term-Termcat 331 341	suspensión
+T91	Term-Termcat 791 803	autorización
+T92	Term-Termcat 895 904	actividad
+T93	Term-Termcat 62 73	actuaciones
+T94	Term-Termcat 1623 1637	circunstancias
+T95	Term-Termcat 1420 1434	circunstancias
+T96	Term-Termcat 1656 1663	efectos
+T97	Term-Termcat 393 400	efectos
+T98	Term-Termcat 591 601	expediente
+T99	Term-Termcat 749 759	expediente
+T100	Term-Termcat 1333 1340	trabajo
+T101	Term-Termcat 420 425	hecho
+T102	Term-Termcat 1695 1700	hecho
+T103	Term-Termcat 605 615	regulación
+T104	Term-Termcat 824 832	temporal
+T105	Term-Termcat 616 624	temporal
+T106	Term-Termcat 1290 1296	acudir
+T107	Term-Termcat 1002 1012	competente
+T108	Term-Termcat 771 780	solicitar
+T109	Term-Termcat 1115 1128	mantenimiento
+T110	Term-Termcat 1439 1446	párrafo
+T111	Term-Termcat 283 288	sobre
+T112	Term-AttentionRank 211 223	fuerza mayor
+T113	Term-AttentionRank 1482 1494	fuerza mayor
+T114	Term-AttentionRank 673 685	fuerza mayor
+T115	Term-AttentionRank 1594 1606	fuerza mayor
+T116	Term-AttentionRank 441 453	fuerza mayor
+T117	Term-AttentionRank 956 1012	decisiones adoptadas por la autoridad pública competente
+T118	Term-AttentionRank 1155 1184	días previstos en el artículo
+T119	Term-AttentionRank 895 930	actividad normalizada de la empresa
+T120	Term-AttentionRank 1238 1245	trabajo
+T121	Term-AttentionRank 321 328	trabajo
+T122	Term-AttentionRank 362 369	trabajo
+T123	Term-AttentionRank 1333 1340	trabajo
+T124	Term-AttentionRank 496 506	resolución
+T125	Term-AttentionRank 3 13	resolución
+T126	Term-AttentionRank 523 533	resolución
+T127	Term-AttentionRank 734 744	resolución
+T128	Term-AttentionRank 374 384	resolución
+T129	Term-AttentionRank 1531 1539	artículo
+T130	Term-AttentionRank 1066 1079	salud pública
+T131	Term-AttentionRank 107 112	plazo
+T132	Term-AttentionRank 548 553	plazo
+T133	Term-AttentionRank 1683 1709	momento del hecho causante
+T134	Term-AttentionRank 811 832	fuerza mayor temporal
+T135	Term-AttentionRank 122 126	días
+T136	Term-AttentionRank 1360 1396	términos recogidos en dicho precepto
+T137	Term-AttentionRank 1254 1258	vías
+T138	Term-AttentionRank 1623 1637	circunstancias
+T139	Term-AttentionRank 1420 1434	circunstancias
+T140	Term-Rebel 309 328	jornadas de trabajo
+T141	Term-Rebel 349 369	contratos de trabajo
+T142	Term-IATE 1176 1184	artículo
+T143	Term-IATE 1531 1539	artículo
+T144	Term-IATE 292 301	reducción
+T145	Term-IATE 1506 1514	duración
+T146	Term-IATE 1519 1526	permiso
+T147	Term-IATE 76 84	informes
+T148	Term-IATE 1049 1079	protección de la salud pública
+T149	Term-IATE 591 601	expediente
+T150	Term-IATE 749 759	expediente
+T151	Term-IATE 349 358	contratos
+T152	Term-IATE 1049 1059	protección
+T153	Term-IATE 1049 1071	protección de la salud
+T154	Term-IATE 1066 1079	salud pública
+T155	Term-IATE 107 112	plazo
+T156	Term-IATE 548 553	plazo
+T157	Term-IATE 1439 1446	párrafo
+T158	Term-IATE 331 341	suspensión
+T159	Term-IATE 895 904	actividad
+T160	Term-IATE 628 634	empleo
+T161	Term-IATE 274 282	decisión
+T162	Term-IATE 1683 1690	momento
+T163	Term-IATE 605 615	regulación
+T164	Term-IATE 3 13	resolución
+T165	Term-IATE 374 384	resolución
+T166	Term-IATE 496 506	resolución
+T167	Term-IATE 523 533	resolución
+T168	Term-IATE 734 744	resolución
+T169	Term-IATE 791 803	autorización
+T170	Term-IATE 136 145	solicitud
+T171	Term-IATE 239 246	empresa
+T172	Term-IATE 923 930	empresa
+R1	part_of-Rebel Arg1:T140 Arg2:T141

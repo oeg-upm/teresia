@@ -1,0 +1,177 @@
+T1	Term-DPEJ 735 742	persona
+T2	Term-DPEJ 1275 1282	persona
+T3	Term-DPEJ 1358 1365	persona
+T4	Term-DPEJ 871 879	convenio
+T5	Term-DPEJ 1775 1787	trabajadores
+T6	Term-DPEJ 1038 1045	nulidad
+T7	Term-DPEJ 1126 1133	víctima
+T8	Term-DPEJ 528 543	mayoría de edad
+T9	Term-DPEJ 100 111	acogimiento
+T10	Term-DPEJ 63 67	edad
+T11	Term-DPEJ 539 543	edad
+T12	Term-DPEJ 665 669	edad
+T13	Term-DPEJ 1137 1146	violencia
+T14	Term-DPEJ 343 350	derecho
+T15	Term-DPEJ 697 704	derecho
+T16	Term-DPEJ 1161 1168	derecho
+T17	Term-DPEJ 1530 1537	derecho
+T18	Term-DPEJ 1657 1664	derecho
+T19	Term-DPEJ 1749 1756	derecho
+T20	Term-DPEJ 1459 1467	apartado
+T21	Term-DPEJ 1725 1733	apartado
+T22	Term-DPEJ 871 889	convenio colectivo
+T23	Term-DPEJ 205 212	jornada
+T24	Term-DPEJ 369 376	jornada
+T25	Term-DPEJ 969 976	jornada
+T26	Term-DPEJ 1187 1194	jornada
+T27	Term-DPEJ 1556 1563	jornada
+T28	Term-DPEJ 1696 1703	jornada
+T29	Term-DPEJ 998 1006	jornadas
+T30	Term-DPEJ 3 15	consecuencia
+T31	Term-DPEJ 164 169	causa
+T32	Term-DPEJ 245 252	cuidado
+T33	Term-DPEJ 189 198	reducción
+T34	Term-DPEJ 356 365	reducción
+T35	Term-DPEJ 712 721	reducción
+T36	Term-DPEJ 956 965	reducción
+T37	Term-DPEJ 1174 1183	reducción
+T38	Term-DPEJ 1543 1552	reducción
+T39	Term-DPEJ 25 37	cumplimiento
+T40	Term-DPEJ 173 182	extinción
+T41	Term-DPEJ 1069 1078	extinción
+T42	Term-Termcat 871 879	convenio
+T43	Term-Termcat 577 586	solicitud
+T44	Term-Termcat 147 155	adopción
+T45	Term-Termcat 390 398	causante
+T46	Term-Termcat 819 831	discapacidad
+T47	Term-Termcat 1059 1067	divorcio
+T48	Term-Termcat 63 67	edad
+T49	Term-Termcat 665 669	edad
+T50	Term-Termcat 810 815	grado
+T51	Term-Termcat 127 133	guarda
+T52	Term-Termcat 528 543	mayoría de edad
+T53	Term-Termcat 1478 1488	matrimonio
+T54	Term-Termcat 1038 1045	nulidad
+T55	Term-Termcat 1085 1100	pareja de hecho
+T56	Term-Termcat 1587 1602	pareja de hecho
+T57	Term-Termcat 1506 1521	pareja de hecho
+T58	Term-Termcat 1434 1441	tercero
+T59	Term-Termcat 1137 1146	violencia
+T60	Term-Termcat 232 241	necesidad
+T61	Term-Termcat 1126 1133	víctima
+T62	Term-Termcat 1137 1156	violencia de género
+T63	Term-Termcat 245 252	cuidado
+T64	Term-Termcat 871 889	convenio colectivo
+T65	Term-Termcat 998 1016	jornadas completas
+T66	Term-Termcat 956 976	reducción de jornada
+T67	Term-Termcat 356 376	reducción de jornada
+T68	Term-Termcat 1174 1194	reducción de jornada
+T69	Term-Termcat 1543 1563	reducción de jornada
+T70	Term-Termcat 1327 1337	requisitos
+T71	Term-Termcat 604 614	requisitos
+T72	Term-Termcat 1749 1756	derecho
+T73	Term-Termcat 1530 1537	derecho
+T74	Term-Termcat 343 350	derecho
+T75	Term-Termcat 697 704	derecho
+T76	Term-Termcat 1657 1664	derecho
+T77	Term-Termcat 1161 1168	derecho
+T78	Term-Termcat 1069 1078	extinción
+T79	Term-Termcat 173 182	extinción
+T80	Term-Termcat 1358 1365	persona
+T81	Term-Termcat 1275 1282	persona
+T82	Term-Termcat 735 742	persona
+T83	Term-Termcat 528 535	mayoría
+T84	Term-Termcat 100 111	acogimiento
+T85	Term-Termcat 164 169	causa
+T86	Term-Termcat 25 37	cumplimiento
+T87	Term-Termcat 1577 1584	cónyuge
+T88	Term-Termcat 1749 1767	derecho individual
+T89	Term-Termcat 1799 1806	mujeres
+T90	Term-Termcat 1150 1156	género
+T91	Term-Termcat 1789 1796	hombres
+T92	Term-Termcat 85 90	menor
+T93	Term-Termcat 1047 1057	separación
+T94	Term-Termcat 91 97	sujeto
+T95	Term-Termcat 840 848	superior
+T96	Term-Termcat 901 911	establecer
+T97	Term-Termcat 1095 1100	hecho
+T98	Term-Termcat 1516 1521	hecho
+T99	Term-Termcat 1597 1602	hecho
+T100	Term-Termcat 635 643	párrafos
+T101	Term-Termcat 1425 1433	párrafos
+T102	Term-AttentionRank 356 365	reducción
+T103	Term-AttentionRank 1543 1552	reducción
+T104	Term-AttentionRank 956 965	reducción
+T105	Term-AttentionRank 712 721	reducción
+T106	Term-AttentionRank 189 198	reducción
+T107	Term-AttentionRank 1174 1183	reducción
+T108	Term-AttentionRank 205 212	jornada
+T109	Term-AttentionRank 1187 1194	jornada
+T110	Term-AttentionRank 1696 1703	jornada
+T111	Term-AttentionRank 369 376	jornada
+T112	Term-AttentionRank 969 976	jornada
+T113	Term-AttentionRank 1556 1563	jornada
+T114	Term-AttentionRank 998 1006	jornadas
+T115	Term-AttentionRank 1749 1756	derecho
+T116	Term-AttentionRank 1530 1537	derecho
+T117	Term-AttentionRank 343 350	derecho
+T118	Term-AttentionRank 697 704	derecho
+T119	Term-AttentionRank 1657 1664	derecho
+T120	Term-AttentionRank 1161 1168	derecho
+T121	Term-AttentionRank 315 319	años
+T122	Term-AttentionRank 55 59	años
+T123	Term-AttentionRank 409 413	años
+T124	Term-AttentionRank 782 786	años
+T125	Term-AttentionRank 753 757	años
+T126	Term-AttentionRank 604 654	requisitos establecidos en los párrafos anteriores
+T127	Term-AttentionRank 1085 1091	pareja
+T128	Term-AttentionRank 1587 1593	pareja
+T129	Term-AttentionRank 1506 1512	pareja
+T130	Term-AttentionRank 1358 1365	persona
+T131	Term-AttentionRank 1275 1282	persona
+T132	Term-AttentionRank 735 742	persona
+T133	Term-AttentionRank 1025 1034	supuestos
+T134	Term-AttentionRank 421 430	supuestos
+T135	Term-AttentionRank 930 939	supuestos
+T136	Term-AttentionRank 1398 1407	supuestos
+T137	Term-AttentionRank 441 453	padecimiento
+T138	Term-AttentionRank 1211 1231	favor del progenitor
+T139	Term-AttentionRank 63 67	edad
+T140	Term-AttentionRank 539 543	edad
+T141	Term-AttentionRank 665 669	edad
+T142	Term-AttentionRank 871 889	convenio colectivo
+T143	Term-AttentionRank 1629 1640	condiciones
+T144	Term-AttentionRank 916 927	condiciones
+T145	Term-AttentionRank 100 122	acogimiento permanente
+T146	Term-AttentionRank 245 260	cuidado directo
+T147	Term-Rebel 1085 1100	pareja de hecho
+T148	Term-Rebel 1478 1488	matrimonio
+T149	Term-IATE 1459 1467	apartado
+T150	Term-IATE 1725 1733	apartado
+T151	Term-IATE 189 198	reducción
+T152	Term-IATE 356 365	reducción
+T153	Term-IATE 712 721	reducción
+T154	Term-IATE 956 965	reducción
+T155	Term-IATE 1174 1183	reducción
+T156	Term-IATE 1543 1552	reducción
+T157	Term-IATE 1221 1231	progenitor
+T158	Term-IATE 147 155	adopción
+T159	Term-IATE 1150 1156	género
+T160	Term-IATE 1775 1787	trabajadores
+T161	Term-IATE 604 614	requisitos
+T162	Term-IATE 1327 1337	requisitos
+T163	Term-IATE 635 643	párrafos
+T164	Term-IATE 1425 1433	párrafos
+T165	Term-IATE 871 879	convenio
+T166	Term-IATE 1577 1584	cónyuge
+T167	Term-IATE 173 182	extinción
+T168	Term-IATE 1069 1078	extinción
+T169	Term-IATE 563 570	momento
+T170	Term-IATE 871 889	convenio colectivo
+T171	Term-IATE 1789 1796	hombres
+T172	Term-IATE 1799 1806	mujeres
+T173	Term-IATE 577 586	solicitud
+T174	Term-IATE 75 79	hijo
+T175	Term-IATE 1126 1133	víctima
+T176	Term-IATE 1038 1045	nulidad
+R1	facet_of-Rebel Arg1:T147 Arg2:T148

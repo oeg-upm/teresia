@@ -1,0 +1,53 @@
+T1	Term-DPEJ 306 318	tRaBajadoREs
+T2	Term-DPEJ 0 8	Artículo
+T3	Term-DPEJ 92 102	suspensión
+T4	Term-DPEJ 171 178	empresa
+T5	Term-DPEJ 13 36	Procedimiento concursal
+T6	Term-DPEJ 133 142	contratos
+T7	Term-DPEJ 41 45	caso
+T8	Term-DPEJ 13 26	Procedimiento
+T9	Term-DPEJ 146 153	trabajo
+T10	Term-DPEJ 105 114	extinción
+T11	Term-DPEJ 78 90	modificación
+T12	Term-Termcat 49 57	concurso
+T13	Term-Termcat 133 142	contratos
+T14	Term-Termcat 228 231	Ley
+T15	Term-Termcat 159 167	sucesión
+T16	Term-Termcat 0 8	Artículo
+T17	Term-Termcat 267 275	CAPÍTULO
+T18	Term-Termcat 13 36	Procedimiento concursal
+T19	Term-Termcat 279 285	FaLtas
+T20	Term-Termcat 146 153	trabajo
+T21	Term-Termcat 159 178	sucesión de empresa
+T22	Term-Termcat 105 114	extinción
+T23	Term-Termcat 78 90	modificación
+T24	Term-Termcat 92 102	suspensión
+T25	Term-Termcat 27 36	concursal
+T26	Term-Termcat 256 265	Concursal
+T27	Term-Termcat 171 178	empresa
+T28	Term-Termcat 13 26	Procedimiento
+T29	Term-Termcat 197 211	especialidades
+T30	Term-AttentionRank 41 57	caso de concurso
+T31	Term-AttentionRank 133 142	contratos
+T32	Term-AttentionRank 105 114	extinción
+T33	Term-AttentionRank 146 153	trabajo
+T34	Term-AttentionRank 159 167	sucesión
+T35	Term-AttentionRank 78 90	modificación
+T36	Term-AttentionRank 92 102	suspensión
+T37	Term-AttentionRank 171 178	empresa
+T38	Term-AttentionRank 65 74	supuestos
+T39	Term-Rebel 105 125	extinción colectivas
+T40	Term-Rebel 133 153	contratos de trabajo
+T41	Term-IATE 13 26	Procedimiento
+T42	Term-IATE 0 8	Artículo
+T43	Term-IATE 78 90	modificación
+T44	Term-IATE 159 167	sucesión
+T45	Term-IATE 133 142	contratos
+T46	Term-IATE 306 318	tRaBajadoREs
+T47	Term-IATE 92 102	suspensión
+T48	Term-IATE 105 114	extinción
+T49	Term-IATE 279 285	FaLtas
+T50	Term-IATE 171 178	empresa
+T51	Term-IATE 267 275	CAPÍTULO
+T52	Term-IATE 13 36	Procedimiento concursal
+R1	subclass_of-Rebel Arg1:T39 Arg2:T40

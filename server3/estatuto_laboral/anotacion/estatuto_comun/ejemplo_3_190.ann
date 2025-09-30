@@ -1,0 +1,174 @@
+T1	Term-DPEJ 244 250	prueba
+T2	Term-DPEJ 1104 1118	representantes
+T3	Term-DPEJ 587 593	tiempo
+T4	Term-DPEJ 647 653	tiempo
+T5	Term-DPEJ 1265 1271	tiempo
+T6	Term-DPEJ 1362 1368	planes
+T7	Term-DPEJ 79 89	trabajador
+T8	Term-DPEJ 340 350	trabajador
+T9	Term-DPEJ 498 508	trabajador
+T10	Term-DPEJ 701 711	trabajador
+T11	Term-DPEJ 1126 1138	trabajadores
+T12	Term-DPEJ 1772 1784	trabajadores
+T13	Term-DPEJ 325 335	adaptación
+T14	Term-DPEJ 542 552	adaptación
+T15	Term-DPEJ 947 957	adaptación
+T16	Term-DPEJ 0 8	Artículo
+T17	Term-DPEJ 1015 1023	artículo
+T18	Term-DPEJ 1823 1831	artículo
+T19	Term-DPEJ 1889 1897	artículo
+T20	Term-DPEJ 1693 1712	contrato de trabajo
+T21	Term-DPEJ 65 74	ineptitud
+T22	Term-DPEJ 174 183	ineptitud
+T23	Term-DPEJ 162 169	empresa
+T24	Term-DPEJ 1178 1185	empresa
+T25	Term-DPEJ 647 673	tiempo de trabajo efectivo
+T26	Term-DPEJ 429 436	cambios
+T27	Term-DPEJ 1224 1232	apartado
+T28	Term-DPEJ 27 35	contrato
+T29	Term-DPEJ 1693 1701	contrato
+T30	Term-DPEJ 1251 1260	contratos
+T31	Term-DPEJ 642 646	caso
+T32	Term-DPEJ 1243 1247	caso
+T33	Term-DPEJ 1554 1566	consecuencia
+T34	Term-DPEJ 715 722	salario
+T35	Term-DPEJ 1312 1321	entidades
+T36	Term-DPEJ 40 46	causas
+T37	Term-DPEJ 992 998	causas
+T38	Term-DPEJ 396 402	puesto
+T39	Term-DPEJ 1056 1062	número
+T40	Term-DPEJ 1762 1768	número
+T41	Term-DPEJ 657 673	trabajo efectivo
+T42	Term-DPEJ 1857 1870	procedimiento
+T43	Term-DPEJ 214 226	cumplimiento
+T44	Term-DPEJ 295 307	cumplimiento
+T45	Term-DPEJ 406 413	trabajo
+T46	Term-DPEJ 657 664	trabajo
+T47	Term-DPEJ 1705 1712	trabajo
+T48	Term-DPEJ 13 22	Extinción
+T49	Term-DPEJ 757 766	extinción
+T50	Term-DPEJ 1034 1043	extinción
+T51	Term-DPEJ 1740 1749	extinción
+T52	Term-DPEJ 886 898	modificación
+T53	Term-Termcat 1312 1321	entidades
+T54	Term-Termcat 244 250	prueba
+T55	Term-Termcat 1326 1340	ánimo de lucro
+T56	Term-Termcat 1654 1666	consignación
+T57	Term-Termcat 1693 1701	contrato
+T58	Term-Termcat 27 35	contrato
+T59	Term-Termcat 1251 1260	contratos
+T60	Term-Termcat 1104 1118	representantes
+T61	Term-Termcat 0 8	Artículo
+T62	Term-Termcat 1889 1897	artículo
+T63	Term-Termcat 1015 1023	artículo
+T64	Term-Termcat 1823 1831	artículo
+T65	Term-Termcat 1693 1712	contrato de trabajo
+T66	Term-Termcat 1178 1185	empresa
+T67	Term-Termcat 162 169	empresa
+T68	Term-Termcat 316 321	falta
+T69	Term-Termcat 609 618	formación
+T70	Term-Termcat 923 932	formación
+T71	Term-Termcat 1570 1578	ingresos
+T72	Term-Termcat 396 413	puesto de trabajo
+T73	Term-Termcat 715 722	salario
+T74	Term-Termcat 647 664	tiempo de trabajo
+T75	Term-Termcat 657 673	trabajo efectivo
+T76	Term-Termcat 13 22	Extinción
+T77	Term-Termcat 1034 1043	extinción
+T78	Term-Termcat 1740 1749	extinción
+T79	Term-Termcat 757 766	extinción
+T80	Term-Termcat 723 728	medio
+T81	Term-Termcat 886 898	modificación
+T82	Term-Termcat 325 335	adaptación
+T83	Term-Termcat 542 552	adaptación
+T84	Term-Termcat 947 957	adaptación
+T85	Term-Termcat 429 436	cambios
+T86	Term-Termcat 992 998	causas
+T87	Term-Termcat 40 46	causas
+T88	Term-Termcat 136 146	colocación
+T89	Term-Termcat 295 307	cumplimiento
+T90	Term-Termcat 214 226	cumplimiento
+T91	Term-Termcat 1349 1358	ejecución
+T92	Term-Termcat 233 250	periodo de prueba
+T93	Term-Termcat 1160 1171	permanencia
+T94	Term-Termcat 1362 1368	planes
+T95	Term-Termcat 1857 1870	procedimiento
+T96	Term-Termcat 1371 1380	programas
+T97	Term-Termcat 1322 1340	sin ánimo de lucro
+T98	Term-Termcat 1793 1801	superior
+T99	Term-Termcat 647 673	tiempo de trabajo efectivo
+T100	Term-Termcat 1591 1599	carácter
+T101	Term-Termcat 1675 1688	mantenimiento
+T102	Term-Termcat 1762 1768	número
+T103	Term-Termcat 1056 1062	número
+T104	Term-Termcat 1381 1389	públicos
+T105	Term-AttentionRank 65 74	ineptitud
+T106	Term-AttentionRank 1525 1545	extrapresupuestarias
+T107	Term-AttentionRank 174 210	ineptitud existente con anterioridad
+T108	Term-AttentionRank 1056 1092	número inferior al establecido en el
+T109	Term-AttentionRank 992 1023	causas previstas en el artículo
+T110	Term-AttentionRank 923 957	formación dirigida a la adaptación
+T111	Term-AttentionRank 0 8	Artículo
+T112	Term-AttentionRank 1823 1831	artículo
+T113	Term-AttentionRank 1857 1897	procedimiento previsto en dicho artículo
+T114	Term-AttentionRank 1492 1522	consignaciones presupuestarias
+T115	Term-AttentionRank 1638 1666	correspondiente consignación
+T116	Term-AttentionRank 13 22	Extinción
+T117	Term-AttentionRank 1034 1043	extinción
+T118	Term-AttentionRank 1740 1749	extinción
+T119	Term-AttentionRank 757 766	extinción
+T120	Term-AttentionRank 1693 1701	contrato
+T121	Term-AttentionRank 27 35	contrato
+T122	Term-AttentionRank 1251 1260	contratos
+T123	Term-AttentionRank 587 618	tiempo destinado a la formación
+T124	Term-AttentionRank 1705 1712	trabajo
+T125	Term-AttentionRank 406 413	trabajo
+T126	Term-AttentionRank 657 664	trabajo
+T127	Term-AttentionRank 340 350	trabajador
+T128	Term-AttentionRank 498 508	trabajador
+T129	Term-AttentionRank 701 711	trabajador
+T130	Term-AttentionRank 79 89	trabajador
+T131	Term-AttentionRank 1772 1784	trabajadores
+T132	Term-AttentionRank 1126 1138	trabajadores
+T133	Term-Rebel 1251 1282	contratos por tiempo indefinido
+T134	Term-Rebel 1693 1712	contrato de trabajo
+T135	Term-IATE 1147 1156	prioridad
+T136	Term-IATE 469 479	empresario
+T137	Term-IATE 679 689	empresario
+T138	Term-IATE 796 806	empresario
+T139	Term-IATE 1857 1870	procedimiento
+T140	Term-IATE 1224 1232	apartado
+T141	Term-IATE 0 8	Artículo
+T142	Term-IATE 1015 1023	artículo
+T143	Term-IATE 1823 1831	artículo
+T144	Term-IATE 1889 1897	artículo
+T145	Term-IATE 886 898	modificación
+T146	Term-IATE 27 35	contrato
+T147	Term-IATE 1693 1701	contrato
+T148	Term-IATE 1251 1260	contratos
+T149	Term-IATE 79 89	trabajador
+T150	Term-IATE 340 350	trabajador
+T151	Term-IATE 498 508	trabajador
+T152	Term-IATE 701 711	trabajador
+T153	Term-IATE 1126 1138	trabajadores
+T154	Term-IATE 1772 1784	trabajadores
+T155	Term-IATE 715 722	salario
+T156	Term-IATE 136 146	colocación
+T157	Term-IATE 1312 1321	entidades
+T158	Term-IATE 1457 1482	Administraciones Públicas
+T159	Term-IATE 609 618	formación
+T160	Term-IATE 923 932	formación
+T161	Term-IATE 13 22	Extinción
+T162	Term-IATE 757 766	extinción
+T163	Term-IATE 1034 1043	extinción
+T164	Term-IATE 1740 1749	extinción
+T165	Term-IATE 1104 1118	representantes
+T166	Term-IATE 854 859	meses
+T167	Term-IATE 316 321	falta
+T168	Term-IATE 244 250	prueba
+T169	Term-IATE 1591 1599	carácter
+T170	Term-IATE 162 169	empresa
+T171	Term-IATE 1178 1185	empresa
+T172	Term-IATE 1371 1380	programas
+T173	Term-IATE 1160 1171	permanencia
+R1	subclass_of-Rebel Arg1:T133 Arg2:T134

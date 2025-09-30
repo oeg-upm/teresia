@@ -1,0 +1,169 @@
+T1	Term-DPEJ 440 450	aplicación
+T2	Term-DPEJ 627 637	aplicación
+T3	Term-DPEJ 901 907	tiempo
+T4	Term-DPEJ 1000 1006	tiempo
+T5	Term-DPEJ 1099 1105	tiempo
+T6	Term-DPEJ 1196 1202	tiempo
+T7	Term-DPEJ 605 613	artículo
+T8	Term-DPEJ 60 70	suspensión
+T9	Term-DPEJ 314 324	suspensión
+T10	Term-DPEJ 564 589	indemnización por despido
+T11	Term-DPEJ 706 731	indemnización por despido
+T12	Term-DPEJ 911 921	prestación
+T13	Term-DPEJ 1109 1119	prestación
+T14	Term-DPEJ 952 957	fecha
+T15	Term-DPEJ 122 129	jornada
+T16	Term-DPEJ 376 383	jornada
+T17	Term-DPEJ 78 87	contratos
+T18	Term-DPEJ 332 341	contratos
+T19	Term-DPEJ 644 653	contratos
+T20	Term-DPEJ 752 761	contratos
+T21	Term-DPEJ 1458 1462	caso
+T22	Term-DPEJ 1600 1604	caso
+T23	Term-DPEJ 531 541	resolución
+T24	Term-DPEJ 866 873	salario
+T25	Term-DPEJ 1064 1071	salario
+T26	Term-DPEJ 1312 1319	salario
+T27	Term-DPEJ 1425 1431	número
+T28	Term-DPEJ 4 15	expedientes
+T29	Term-DPEJ 255 266	expedientes
+T30	Term-DPEJ 546 556	expediente
+T31	Term-DPEJ 33 39	empleo
+T32	Term-DPEJ 284 290	empleo
+T33	Term-DPEJ 885 893	servicio
+T34	Term-DPEJ 1083 1091	servicio
+T35	Term-DPEJ 925 934	servicios
+T36	Term-DPEJ 1123 1132	servicios
+T37	Term-DPEJ 564 577	indemnización
+T38	Term-DPEJ 706 719	indemnización
+T39	Term-DPEJ 1349 1362	indemnización
+T40	Term-DPEJ 109 118	reducción
+T41	Term-DPEJ 363 372	reducción
+T42	Term-DPEJ 91 98	trabajo
+T43	Term-DPEJ 345 352	trabajo
+T44	Term-DPEJ 48 57	extinción
+T45	Term-DPEJ 299 308	extinción
+T46	Term-DPEJ 582 589	despido
+T47	Term-DPEJ 724 731	despido
+T48	Term-DPEJ 401 410	autoridad
+T49	Term-Termcat 401 410	autoridad
+T50	Term-Termcat 531 541	resolución
+T51	Term-Termcat 1083 1091	servicio
+T52	Term-Termcat 885 893	servicio
+T53	Term-Termcat 925 934	servicios
+T54	Term-Termcat 1123 1132	servicios
+T55	Term-Termcat 148 159	tramitación
+T56	Term-Termcat 78 87	contratos
+T57	Term-Termcat 644 653	contratos
+T58	Term-Termcat 752 761	contratos
+T59	Term-Termcat 332 341	contratos
+T60	Term-Termcat 1109 1119	prestación
+T61	Term-Termcat 911 921	prestación
+T62	Term-Termcat 605 613	artículo
+T63	Term-Termcat 582 589	despido
+T64	Term-Termcat 724 744	despido improcedente
+T65	Term-Termcat 401 418	autoridad laboral
+T66	Term-Termcat 503 511	en vigor
+T67	Term-Termcat 345 352	trabajo
+T68	Term-Termcat 91 98	trabajo
+T69	Term-Termcat 564 577	indemnización
+T70	Term-Termcat 706 719	indemnización
+T71	Term-Termcat 1349 1362	indemnización
+T72	Term-Termcat 1575 1588	mensualidades
+T73	Term-Termcat 109 129	reducción de jornada
+T74	Term-Termcat 363 383	reducción de jornada
+T75	Term-Termcat 19 39	regulación de empleo
+T76	Term-Termcat 270 290	regulación de empleo
+T77	Term-Termcat 1064 1071	salario
+T78	Term-Termcat 1312 1319	salario
+T79	Term-Termcat 866 873	salario
+T80	Term-Termcat 425 433	vigencia
+T81	Term-Termcat 48 57	extinción
+T82	Term-Termcat 299 308	extinción
+T83	Term-Termcat 314 324	suspensión
+T84	Term-Termcat 60 70	suspensión
+T85	Term-Termcat 284 290	empleo
+T86	Term-Termcat 33 39	empleo
+T87	Term-Termcat 627 637	aplicación
+T88	Term-Termcat 440 450	aplicación
+T89	Term-Termcat 4 15	expedientes
+T90	Term-Termcat 255 266	expedientes
+T91	Term-Termcat 546 556	expediente
+T92	Term-Termcat 493 502	normativa
+T93	Term-Termcat 202 211	normativa
+T94	Term-Termcat 1109 1132	prestación de servicios
+T95	Term-Termcat 911 934	prestación de servicios
+T96	Term-Termcat 1032 1037	razón
+T97	Term-Termcat 832 837	razón
+T98	Term-Termcat 1274 1282	superior
+T99	Term-Termcat 1549 1557	superior
+T100	Term-Termcat 1440 1448	superior
+T101	Term-Termcat 212 219	vigente
+T102	Term-Termcat 732 744	improcedente
+T103	Term-Termcat 1425 1431	número
+T104	Term-AttentionRank 752 791	contratos formalizados con anterioridad
+T105	Term-AttentionRank 202 246	normativa vigente en el momento de su inicio
+T106	Term-AttentionRank 858 862	días
+T107	Term-AttentionRank 1435 1439	días
+T108	Term-AttentionRank 1056 1060	días
+T109	Term-AttentionRank 1304 1308	días
+T110	Term-AttentionRank 1227 1249	importe indemnizatorio
+T111	Term-AttentionRank 78 87	contratos
+T112	Term-AttentionRank 332 341	contratos
+T113	Term-AttentionRank 644 676	contratos suscritos a partir del
+T114	Term-AttentionRank 4 15	expedientes
+T115	Term-AttentionRank 255 266	expedientes
+T116	Term-AttentionRank 546 556	expediente
+T117	Term-AttentionRank 1219 1222	año
+T118	Term-AttentionRank 1023 1026	año
+T119	Term-AttentionRank 878 881	año
+T120	Term-AttentionRank 1076 1079	año
+T121	Term-AttentionRank 1494 1515	indemnizatorio máximo
+T122	Term-AttentionRank 724 744	despido improcedente
+T123	Term-AttentionRank 1099 1105	tiempo
+T124	Term-AttentionRank 1196 1202	tiempo
+T125	Term-AttentionRank 1000 1006	tiempo
+T126	Term-AttentionRank 901 907	tiempo
+T127	Term-AttentionRank 925 957	servicios anterior a dicha fecha
+T128	Term-AttentionRank 564 577	indemnización
+T129	Term-AttentionRank 706 719	indemnización
+T130	Term-AttentionRank 1349 1362	indemnización
+T131	Term-AttentionRank 1485 1492	importe
+T132	Term-AttentionRank 1531 1538	importe
+T133	Term-AttentionRank 270 280	regulación
+T134	Term-AttentionRank 19 29	regulación
+T135	Term-Rebel 706 744	indemnización por despido improcedente
+T136	Term-Rebel 564 589	indemnización por despido
+T137	Term-IATE 440 450	aplicación
+T138	Term-IATE 627 637	aplicación
+T139	Term-IATE 605 613	artículo
+T140	Term-IATE 109 118	reducción
+T141	Term-IATE 363 372	reducción
+T142	Term-IATE 832 837	razón
+T143	Term-IATE 1032 1037	razón
+T144	Term-IATE 4 15	expedientes
+T145	Term-IATE 255 266	expedientes
+T146	Term-IATE 546 556	expediente
+T147	Term-IATE 78 87	contratos
+T148	Term-IATE 332 341	contratos
+T149	Term-IATE 644 653	contratos
+T150	Term-IATE 752 761	contratos
+T151	Term-IATE 866 873	salario
+T152	Term-IATE 1064 1071	salario
+T153	Term-IATE 1312 1319	salario
+T154	Term-IATE 60 70	suspensión
+T155	Term-IATE 314 324	suspensión
+T156	Term-IATE 506 511	vigor
+T157	Term-IATE 33 39	empleo
+T158	Term-IATE 284 290	empleo
+T159	Term-IATE 48 57	extinción
+T160	Term-IATE 299 308	extinción
+T161	Term-IATE 226 233	momento
+T162	Term-IATE 19 29	regulación
+T163	Term-IATE 270 280	regulación
+T164	Term-IATE 978 983	meses
+T165	Term-IATE 1174 1179	meses
+T166	Term-IATE 531 541	resolución
+T167	Term-IATE 911 921	prestación
+T168	Term-IATE 1109 1119	prestación
+R1	subclass_of-Rebel Arg1:T135 Arg2:T136

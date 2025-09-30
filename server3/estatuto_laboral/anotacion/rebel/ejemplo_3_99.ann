@@ -1,0 +1,3 @@
+T1	concept 1466 1477	Sindicación
+T2	concept 1279 1286	Derecho
+R1	subclass_of Arg1:T1 Arg2:T2

@@ -1,0 +1,163 @@
+T1	Term-DPEJ 1181 1191	aplicación
+T2	Term-DPEJ 1068 1082	órgano público
+T3	Term-DPEJ 1246 1253	materia
+T4	Term-DPEJ 1390 1402	notificación
+T5	Term-DPEJ 248 254	tiempo
+T6	Term-DPEJ 1280 1303	modificación sustancial
+T7	Term-DPEJ 310 318	convenio
+T8	Term-DPEJ 613 618	lugar
+T9	Term-DPEJ 1491 1498	Sección
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-DPEJ 1097 1106	arbitraje
+T12	Term-DPEJ 69 88	contrato de trabajo
+T13	Term-DPEJ 112 117	plazo
+T14	Term-DPEJ 657 662	plazo
+T15	Term-DPEJ 925 930	plazo
+T16	Term-DPEJ 968 973	plazo
+T17	Term-DPEJ 1334 1339	plazo
+T18	Term-DPEJ 358 368	prestación
+T19	Term-DPEJ 1155 1163	apartado
+T20	Term-DPEJ 310 328	convenio colectivo
+T21	Term-DPEJ 1381 1386	fecha
+T22	Term-DPEJ 925 943	plazo de caducidad
+T23	Term-DPEJ 968 986	plazo de caducidad
+T24	Term-DPEJ 69 77	contrato
+T25	Term-DPEJ 211 219	contrato
+T26	Term-DPEJ 644 652	contrato
+T27	Term-DPEJ 800 809	contratos
+T28	Term-DPEJ 1459 1463	caso
+T29	Term-DPEJ 786 796	resolución
+T30	Term-DPEJ 1480 1489	consultas
+T31	Term-DPEJ 290 307	disposición legal
+T32	Term-DPEJ 372 381	servicios
+T33	Term-DPEJ 290 301	disposición
+T34	Term-DPEJ 1068 1074	órgano
+T35	Term-DPEJ 1409 1417	decisión
+T36	Term-DPEJ 912 919	hábiles
+T37	Term-DPEJ 446 454	prórroga
+T38	Term-DPEJ 547 559	cumplimiento
+T39	Term-DPEJ 81 88	trabajo
+T40	Term-DPEJ 1322 1329	trabajo
+T41	Term-DPEJ 1280 1292	modificación
+T42	Term-DPEJ 776 783	despido
+T43	Term-Termcat 482 488	acción
+T44	Term-Termcat 759 765	acción
+T45	Term-Termcat 709 715	acción
+T46	Term-Termcat 310 318	convenio
+T47	Term-Termcat 1034 1043	solicitud
+T48	Term-Termcat 1390 1402	notificación
+T49	Term-Termcat 13 25	Prescripción
+T50	Term-Termcat 1504 1516	Prescripción
+T51	Term-Termcat 786 796	resolución
+T52	Term-Termcat 1491 1498	Sección
+T53	Term-Termcat 372 381	servicios
+T54	Term-Termcat 925 930	plazo
+T55	Term-Termcat 968 973	plazo
+T56	Term-Termcat 657 662	plazo
+T57	Term-Termcat 1334 1339	plazo
+T58	Term-Termcat 112 117	plazo
+T59	Term-Termcat 977 986	caducidad
+T60	Term-Termcat 934 943	caducidad
+T61	Term-Termcat 28 37	caducidad
+T62	Term-Termcat 644 652	contrato
+T63	Term-Termcat 211 219	contrato
+T64	Term-Termcat 69 77	contrato
+T65	Term-Termcat 800 809	contratos
+T66	Term-Termcat 358 368	prestación
+T67	Term-Termcat 0 8	Artículo
+T68	Term-Termcat 1097 1106	arbitraje
+T69	Term-Termcat 1109 1121	conciliación
+T70	Term-Termcat 1047 1059	conciliación
+T71	Term-Termcat 1086 1095	mediación
+T72	Term-Termcat 776 783	despido
+T73	Term-Termcat 1307 1329	condiciones de trabajo
+T74	Term-Termcat 69 88	contrato de trabajo
+T75	Term-Termcat 310 328	convenio colectivo
+T76	Term-Termcat 1539 1545	faltas
+T77	Term-Termcat 1257 1277	movilidad geográfica
+T78	Term-Termcat 446 454	prórroga
+T79	Term-Termcat 258 266	duración
+T80	Term-Termcat 1409 1417	decisión
+T81	Term-Termcat 153 164	terminación
+T82	Term-Termcat 1280 1292	modificación
+T83	Term-Termcat 290 301	disposición
+T84	Term-Termcat 1181 1191	aplicación
+T85	Term-Termcat 547 559	cumplimiento
+T86	Term-Termcat 174 181	efectos
+T87	Term-Termcat 956 963	efectos
+T88	Term-Termcat 1229 1242	empresariales
+T89	Term-Termcat 1418 1429	empresarial
+T90	Term-Termcat 743 752	ejercicio
+T91	Term-Termcat 302 307	legal
+T92	Term-Termcat 1246 1253	materia
+T93	Term-Termcat 1068 1074	órgano
+T94	Term-Termcat 358 381	prestación de servicios
+T95	Term-Termcat 810 820	temporales
+T96	Term-Termcat 1122 1132	competente
+T97	Term-Termcat 420 431	continuidad
+T98	Term-Termcat 1075 1082	público
+T99	Term-AttentionRank 1362 1429	día siguiente a la fecha de notificación de la decisión empresarial
+T100	Term-AttentionRank 227 230	día
+T101	Term-AttentionRank 336 339	día
+T102	Term-AttentionRank 695 698	día
+T103	Term-AttentionRank 901 905	días
+T104	Term-AttentionRank 843 847	días
+T105	Term-AttentionRank 925 930	plazo
+T106	Term-AttentionRank 968 973	plazo
+T107	Term-AttentionRank 657 662	plazo
+T108	Term-AttentionRank 1334 1339	plazo
+T109	Term-AttentionRank 112 117	plazo
+T110	Term-AttentionRank 46 88	acciones derivadas del contrato de trabajo
+T111	Term-AttentionRank 211 219	contrato
+T112	Term-AttentionRank 644 652	contrato
+T113	Term-AttentionRank 800 809	contratos
+T114	Term-AttentionRank 372 393	servicios continuados
+T115	Term-AttentionRank 258 276	duración convenido
+T116	Term-AttentionRank 579 591	tracto único
+T117	Term-AttentionRank 482 488	acción
+T118	Term-AttentionRank 759 765	acción
+T119	Term-AttentionRank 709 715	acción
+T120	Term-AttentionRank 436 462	virtud de prórroga expresa
+T121	Term-AttentionRank 1068 1082	órgano público
+T122	Term-AttentionRank 1246 1277	materia de movilidad geográfica
+T123	Term-AttentionRank 1307 1318	condiciones
+T124	Term-AttentionRank 1322 1329	trabajo
+T125	Term-AttentionRank 1198 1206	acciones
+T126	Term-Rebel 1047 1059	conciliación
+T127	Term-Rebel 1097 1106	arbitraje
+T128	Term-IATE 1480 1489	consultas
+T129	Term-IATE 1181 1191	aplicación
+T130	Term-IATE 1155 1163	apartado
+T131	Term-IATE 0 8	Artículo
+T132	Term-IATE 258 266	duración
+T133	Term-IATE 1015 1027	presentación
+T134	Term-IATE 1280 1292	modificación
+T135	Term-IATE 1097 1106	arbitraje
+T136	Term-IATE 69 77	contrato
+T137	Term-IATE 211 219	contrato
+T138	Term-IATE 644 652	contrato
+T139	Term-IATE 800 809	contratos
+T140	Term-IATE 800 820	contratos temporales
+T141	Term-IATE 112 117	plazo
+T142	Term-IATE 657 662	plazo
+T143	Term-IATE 925 930	plazo
+T144	Term-IATE 968 973	plazo
+T145	Term-IATE 1334 1339	plazo
+T146	Term-IATE 310 318	convenio
+T147	Term-IATE 1409 1417	decisión
+T148	Term-IATE 1491 1498	Sección
+T149	Term-IATE 1280 1303	modificación sustancial
+T150	Term-IATE 46 54	acciones
+T151	Term-IATE 1198 1206	acciones
+T152	Term-IATE 310 328	convenio colectivo
+T153	Term-IATE 1539 1545	faltas
+T154	Term-IATE 482 488	acción
+T155	Term-IATE 709 715	acción
+T156	Term-IATE 759 765	acción
+T157	Term-IATE 786 796	resolución
+T158	Term-IATE 1034 1043	solicitud
+T159	Term-IATE 1246 1253	materia
+T160	Term-IATE 743 752	ejercicio
+T161	Term-IATE 1390 1402	notificación
+T162	Term-IATE 358 368	prestación
+R1	subclass_of-Rebel Arg1:T126 Arg2:T127

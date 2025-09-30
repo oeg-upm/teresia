@@ -1,0 +1,143 @@
+T1	Term-DPEJ 1089 1099	aplicación
+T2	Term-DPEJ 196 205	convenios
+T3	Term-DPEJ 460 469	convenios
+T4	Term-DPEJ 1659 1667	convenio
+T5	Term-DPEJ 377 387	trabajador
+T6	Term-DPEJ 1128 1138	trabajador
+T7	Term-DPEJ 1405 1417	trabajadores
+T8	Term-DPEJ 1679 1686	Sección
+T9	Term-DPEJ 0 8	Artículo
+T10	Term-DPEJ 270 289	contrato de trabajo
+T11	Term-DPEJ 51 59	derechos
+T12	Term-DPEJ 1492 1500	derechos
+T13	Term-DPEJ 1615 1623	derechos
+T14	Term-DPEJ 1044 1051	derecho
+T15	Term-DPEJ 1553 1560	derecho
+T16	Term-DPEJ 1692 1700	Derechos
+T17	Term-DPEJ 751 757	normas
+T18	Term-DPEJ 946 952	normas
+T19	Term-DPEJ 196 216	convenios colectivos
+T20	Term-DPEJ 460 480	convenios colectivos
+T21	Term-DPEJ 1659 1677	convenio colectivo
+T22	Term-DPEJ 517 535	costumbres locales
+T23	Term-DPEJ 270 278	contrato
+T24	Term-DPEJ 335 339	caso
+T25	Term-DPEJ 1024 1028	caso
+T26	Term-DPEJ 517 527	costumbres
+T27	Term-DPEJ 1241 1251	costumbres
+T28	Term-DPEJ 1472 1483	adquisición
+T29	Term-DPEJ 244 250	partes
+T30	Term-DPEJ 26 42	relación laboral
+T31	Term-DPEJ 94 110	relación laboral
+T32	Term-DPEJ 1703 1710	deberes
+T33	Term-DPEJ 1155 1163	conjunto
+T34	Term-DPEJ 1201 1210	conceptos
+T35	Term-DPEJ 282 289	trabajo
+T36	Term-DPEJ 818 825	trabajo
+T37	Term-Termcat 196 205	convenios
+T38	Term-Termcat 460 469	convenios
+T39	Term-Termcat 1659 1667	convenio
+T40	Term-Termcat 1241 1251	costumbres
+T41	Term-Termcat 517 527	costumbres
+T42	Term-Termcat 177 183	Estado
+T43	Term-Termcat 637 669	principio de jerarquía normativa
+T44	Term-Termcat 1679 1686	Sección
+T45	Term-Termcat 1472 1483	adquisición
+T46	Term-Termcat 270 278	contrato
+T47	Term-Termcat 1703 1710	deberes
+T48	Term-Termcat 863 868	leyes
+T49	Term-Termcat 1380 1388	remisión
+T50	Term-Termcat 510 514	usos
+T51	Term-Termcat 1234 1238	usos
+T52	Term-Termcat 0 8	Artículo
+T53	Term-Termcat 751 757	normas
+T54	Term-Termcat 946 952	normas
+T55	Term-Termcat 891 901	conflictos
+T56	Term-Termcat 244 250	partes
+T57	Term-Termcat 803 825	condiciones de trabajo
+T58	Term-Termcat 270 289	contrato de trabajo
+T59	Term-Termcat 196 216	convenios colectivos
+T60	Term-Termcat 460 480	convenios colectivos
+T61	Term-Termcat 1659 1677	convenio colectivo
+T62	Term-Termcat 1492 1500	derechos
+T63	Term-Termcat 1615 1623	derechos
+T64	Term-Termcat 51 59	derechos
+T65	Term-Termcat 1044 1051	derecho
+T66	Term-Termcat 1553 1560	derecho
+T67	Term-Termcat 1692 1700	Derechos
+T68	Term-Termcat 1089 1099	aplicación
+T69	Term-Termcat 1170 1177	cómputo
+T70	Term-Termcat 1703 1728	deberes laborales básicos
+T71	Term-Termcat 650 669	jerarquía normativa
+T72	Term-Termcat 450 457	legales
+T73	Term-Termcat 1298 1305	legales
+T74	Term-Termcat 148 155	legales
+T75	Term-Termcat 1542 1549	legales
+T76	Term-Termcat 574 581	legales
+T77	Term-Termcat 363 372	perjuicio
+T78	Term-Termcat 637 646	principio
+T79	Term-Termcat 761 766	rango
+T80	Term-Termcat 94 110	relación laboral
+T81	Term-Termcat 26 42	relación laboral
+T82	Term-Termcat 767 775	superior
+T83	Term-Termcat 510 527	usos y costumbres
+T84	Term-Termcat 1234 1251	usos y costumbres
+T85	Term-Termcat 228 236	voluntad
+T86	Term-Termcat 1587 1595	disponer
+T87	Term-Termcat 1428 1436	disponer
+T88	Term-Termcat 792 802	establecer
+T89	Term-Termcat 1368 1377	recepción
+T90	Term-Termcat 12 19	Fuentes
+T91	Term-AttentionRank 1528 1549	disposiciones legales
+T92	Term-AttentionRank 436 457	disposiciones legales
+T93	Term-AttentionRank 1284 1305	disposiciones legales
+T94	Term-AttentionRank 560 581	disposiciones legales
+T95	Term-AttentionRank 134 155	disposiciones legales
+T96	Term-AttentionRank 1492 1500	derechos
+T97	Term-AttentionRank 51 59	derechos
+T98	Term-AttentionRank 1692 1700	Derechos
+T99	Term-AttentionRank 1044 1061	derecho necesario
+T100	Term-AttentionRank 1553 1570	derecho necesario
+T101	Term-AttentionRank 377 416	trabajador condiciones menos favorables
+T102	Term-AttentionRank 803 814	condiciones
+T103	Term-AttentionRank 94 110	relación laboral
+T104	Term-AttentionRank 26 42	relación laboral
+T105	Term-AttentionRank 675 703	disposiciones reglamentarias
+T106	Term-AttentionRank 510 514	usos
+T107	Term-AttentionRank 1234 1238	usos
+T108	Term-AttentionRank 282 289	trabajo
+T109	Term-AttentionRank 818 825	trabajo
+T110	Term-AttentionRank 891 912	conflictos originados
+T111	Term-AttentionRank 751 757	normas
+T112	Term-AttentionRank 946 952	normas
+T113	Term-AttentionRank 1241 1251	costumbres
+T114	Term-AttentionRank 517 527	costumbres
+T115	Term-AttentionRank 196 216	convenios colectivos
+T116	Term-AttentionRank 460 480	convenios colectivos
+T117	Term-AttentionRank 1659 1677	convenio colectivo
+T118	Term-AttentionRank 335 339	caso
+T119	Term-AttentionRank 1024 1028	caso
+T120	Term-AttentionRank 1615 1635	derechos reconocidos
+T121	Term-Rebel 1692 1728	Derechos y deberes laborales básicos
+T122	Term-Rebel 1044 1051	derecho
+T123	Term-IATE 1089 1099	aplicación
+T124	Term-IATE 0 8	Artículo
+T125	Term-IATE 363 372	perjuicio
+T126	Term-IATE 270 278	contrato
+T127	Term-IATE 377 387	trabajador
+T128	Term-IATE 1128 1138	trabajador
+T129	Term-IATE 1405 1417	trabajadores
+T130	Term-IATE 1155 1163	conjunto
+T131	Term-IATE 196 205	convenios
+T132	Term-IATE 460 469	convenios
+T133	Term-IATE 1659 1667	convenio
+T134	Term-IATE 244 250	partes
+T135	Term-IATE 1679 1686	Sección
+T136	Term-IATE 196 216	convenios colectivos
+T137	Term-IATE 460 480	convenios colectivos
+T138	Term-IATE 1659 1677	convenio colectivo
+T139	Term-IATE 1472 1483	adquisición
+T140	Term-IATE 26 42	relación laboral
+T141	Term-IATE 94 110	relación laboral
+T142	Term-IATE 1201 1210	conceptos
+R1	subclass_of-Rebel Arg1:T121 Arg2:T122

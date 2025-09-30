@@ -1,0 +1,175 @@
+T1	Term-DPEJ 60 74	representantes
+T2	Term-DPEJ 1510 1524	representantes
+T3	Term-DPEJ 502 512	aplicación
+T4	Term-DPEJ 334 348	representación
+T5	Term-DPEJ 139 147	miembros
+T6	Term-DPEJ 90 102	trabajadores
+T7	Term-DPEJ 185 197	trabajadores
+T8	Term-DPEJ 259 271	trabajadores
+T9	Term-DPEJ 356 368	trabajadores
+T10	Term-DPEJ 1532 1544	trabajadores
+T11	Term-DPEJ 481 490	arbitraje
+T12	Term-DPEJ 821 831	suspensión
+T13	Term-DPEJ 532 539	empresa
+T14	Term-DPEJ 577 582	plazo
+T15	Term-DPEJ 112 116	caso
+T16	Term-DPEJ 715 719	caso
+T17	Term-DPEJ 793 797	caso
+T18	Term-DPEJ 1479 1483	caso
+T19	Term-DPEJ 220 225	casos
+T20	Term-DPEJ 60 82	representantes legales
+T21	Term-DPEJ 6 13	acuerdo
+T22	Term-DPEJ 1431 1438	acuerdo
+T23	Term-DPEJ 519 525	ámbito
+T24	Term-DPEJ 1145 1162	despido colectivo
+T25	Term-DPEJ 1591 1608	despido colectivo
+T26	Term-DPEJ 154 162	comisión
+T27	Term-DPEJ 27 38	conformidad
+T28	Term-DPEJ 1386 1395	resultado
+T29	Term-DPEJ 435 444	consultas
+T30	Term-DPEJ 681 690	consultas
+T31	Term-DPEJ 978 987	consultas
+T32	Term-DPEJ 1325 1334	consultas
+T33	Term-DPEJ 276 282	centro
+T34	Term-DPEJ 285 292	centros
+T35	Term-DPEJ 758 764	partes
+T36	Term-DPEJ 1016 1022	partes
+T37	Term-DPEJ 1266 1272	partes
+T38	Term-DPEJ 1573 1581	decisión
+T39	Term-DPEJ 821 849	suspensión del procedimiento
+T40	Term-DPEJ 452 465	procedimiento
+T41	Term-DPEJ 836 849	procedimiento
+T42	Term-DPEJ 296 303	trabajo
+T43	Term-DPEJ 1145 1152	despido
+T44	Term-DPEJ 1591 1598	despido
+T45	Term-DPEJ 622 631	autoridad
+T46	Term-DPEJ 923 932	autoridad
+T47	Term-DPEJ 1365 1374	autoridad
+T48	Term-DPEJ 1552 1561	autoridad
+T49	Term-DPEJ 334 368	representación de los trabajadores
+T50	Term-Termcat 721 733	advertencias
+T51	Term-Termcat 622 631	autoridad
+T52	Term-Termcat 1552 1561	autoridad
+T53	Term-Termcat 923 932	autoridad
+T54	Term-Termcat 1365 1374	autoridad
+T55	Term-Termcat 577 582	plazo
+T56	Term-Termcat 334 348	representación
+T57	Term-Termcat 1510 1524	representantes
+T58	Term-Termcat 60 74	representantes
+T59	Term-Termcat 991 999	petición
+T60	Term-Termcat 1236 1244	petición
+T61	Term-Termcat 481 490	arbitraje
+T62	Term-Termcat 1043 1052	mediación
+T63	Term-Termcat 1266 1272	partes
+T64	Term-Termcat 1016 1022	partes
+T65	Term-Termcat 758 764	partes
+T66	Term-Termcat 452 478	procedimiento de mediación
+T67	Term-Termcat 1145 1162	despido colectivo
+T68	Term-Termcat 1591 1608	despido colectivo
+T69	Term-Termcat 1223 1233	asistencia
+T70	Term-Termcat 923 940	autoridad laboral
+T71	Term-Termcat 1365 1382	autoridad laboral
+T72	Term-Termcat 1552 1569	autoridad laboral
+T73	Term-Termcat 622 639	autoridad laboral
+T74	Term-Termcat 154 162	comisión
+T75	Term-Termcat 532 539	empresa
+T76	Term-Termcat 296 303	trabajo
+T77	Term-Termcat 469 478	mediación
+T78	Term-Termcat 408 419	sustitución
+T79	Term-Termcat 1573 1581	decisión
+T80	Term-Termcat 244 251	mayoría
+T81	Term-Termcat 45 52	mayoría
+T82	Term-Termcat 124 131	mayoría
+T83	Term-Termcat 821 831	suspensión
+T84	Term-Termcat 27 38	conformidad
+T85	Term-Termcat 6 13	acuerdo
+T86	Term-Termcat 1431 1438	acuerdo
+T87	Term-Termcat 1028 1039	actuaciones
+T88	Term-Termcat 502 512	aplicación
+T89	Term-Termcat 75 82	legales
+T90	Term-Termcat 868 877	perjuicio
+T91	Term-Termcat 1117 1126	problemas
+T92	Term-Termcat 836 849	procedimiento
+T93	Term-Termcat 452 465	procedimiento
+T94	Term-Termcat 376 383	acordar
+T95	Term-Termcat 1177 1186	finalidad
+T96	Term-Termcat 60 82	representantes legales
+T97	Term-Termcat 1386 1395	resultado
+T98	Term-Termcat 1451 1456	copia
+T99	Term-Termcat 902 909	párrafo
+T100	Term-AttentionRank 923 940	autoridad laboral
+T101	Term-AttentionRank 1365 1382	autoridad laboral
+T102	Term-AttentionRank 1552 1569	autoridad laboral
+T103	Term-AttentionRank 622 639	autoridad laboral
+T104	Term-AttentionRank 1117 1162	problemas planteados por el despido colectivo
+T105	Term-AttentionRank 610 617	periodo
+T106	Term-AttentionRank 1314 1321	periodo
+T107	Term-AttentionRank 967 974	periodo
+T108	Term-AttentionRank 424 431	periodo
+T109	Term-AttentionRank 670 677	periodo
+T110	Term-AttentionRank 356 368	trabajadores
+T111	Term-AttentionRank 259 271	trabajadores
+T112	Term-AttentionRank 185 197	trabajadores
+T113	Term-AttentionRank 1532 1544	trabajadores
+T114	Term-AttentionRank 90 102	trabajadores
+T115	Term-AttentionRank 1591 1608	despido colectivo
+T116	Term-AttentionRank 1479 1483	caso
+T117	Term-AttentionRank 793 797	caso
+T118	Term-AttentionRank 112 116	caso
+T119	Term-AttentionRank 715 719	caso
+T120	Term-AttentionRank 220 225	casos
+T121	Term-AttentionRank 1325 1334	consultas
+T122	Term-AttentionRank 681 690	consultas
+T123	Term-AttentionRank 978 987	consultas
+T124	Term-AttentionRank 435 444	consultas
+T125	Term-AttentionRank 154 177	comisión representativa
+T126	Term-AttentionRank 836 849	procedimiento
+T127	Term-AttentionRank 452 465	procedimiento
+T128	Term-AttentionRank 6 13	acuerdo
+T129	Term-AttentionRank 1431 1438	acuerdo
+T130	Term-AttentionRank 1451 1468	copia íntegra del
+T131	Term-AttentionRank 276 282	centro
+T132	Term-AttentionRank 285 292	centros
+T133	Term-AttentionRank 1266 1272	partes
+T134	Term-AttentionRank 1016 1022	partes
+T135	Term-AttentionRank 758 764	partes
+T136	Term-AttentionRank 1633 1644	condiciones
+T137	Term-Rebel 60 102	representantes legales de los trabajadores
+T138	Term-Rebel 154 197	comisión representativa de los trabajadores
+T139	Term-IATE 435 444	consultas
+T140	Term-IATE 681 690	consultas
+T141	Term-IATE 978 987	consultas
+T142	Term-IATE 1325 1334	consultas
+T143	Term-IATE 1145 1162	despido colectivo
+T144	Term-IATE 1591 1608	despido colectivo
+T145	Term-IATE 502 512	aplicación
+T146	Term-IATE 318 328	empresario
+T147	Term-IATE 1338 1348	empresario
+T148	Term-IATE 452 465	procedimiento
+T149	Term-IATE 836 849	procedimiento
+T150	Term-IATE 60 82	representantes legales
+T151	Term-IATE 868 877	perjuicio
+T152	Term-IATE 481 490	arbitraje
+T153	Term-IATE 90 102	trabajadores
+T154	Term-IATE 185 197	trabajadores
+T155	Term-IATE 259 271	trabajadores
+T156	Term-IATE 356 368	trabajadores
+T157	Term-IATE 1532 1544	trabajadores
+T158	Term-IATE 577 582	plazo
+T159	Term-IATE 902 909	párrafo
+T160	Term-IATE 821 831	suspensión
+T161	Term-IATE 27 38	conformidad
+T162	Term-IATE 1573 1581	decisión
+T163	Term-IATE 758 764	partes
+T164	Term-IATE 1016 1022	partes
+T165	Term-IATE 1266 1272	partes
+T166	Term-IATE 139 147	miembros
+T167	Term-IATE 397 404	momento
+T168	Term-IATE 60 74	representantes
+T169	Term-IATE 1510 1524	representantes
+T170	Term-IATE 6 13	acuerdo
+T171	Term-IATE 1431 1438	acuerdo
+T172	Term-IATE 532 539	empresa
+T173	Term-IATE 991 999	petición
+T174	Term-IATE 1236 1244	petición
+R1	part_of-Rebel Arg1:T137 Arg2:T138

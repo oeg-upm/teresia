@@ -1,0 +1,169 @@
+T1	Term-DPEJ 1360 1381	negociación colectiva
+T2	Term-DPEJ 552 562	aplicación
+T3	Term-DPEJ 902 912	aplicación
+T4	Term-DPEJ 13 29	Trabajo nocturno
+T5	Term-DPEJ 127 143	trabajo nocturno
+T6	Term-DPEJ 269 285	trabajo nocturno
+T7	Term-DPEJ 1126 1142	trabajo nocturno
+T8	Term-DPEJ 1284 1300	trabajo nocturno
+T9	Term-DPEJ 1229 1236	riesgos
+T10	Term-DPEJ 363 375	trabajadores
+T11	Term-DPEJ 489 501	trabajadores
+T12	Term-DPEJ 1197 1209	trabajadores
+T13	Term-DPEJ 618 628	trabajador
+T14	Term-DPEJ 1512 1524	compensación
+T15	Term-DPEJ 0 8	Artículo
+T16	Term-DPEJ 971 979	artículo
+T17	Term-DPEJ 1094 1102	artículo
+T18	Term-DPEJ 1267 1276	seguridad
+T19	Term-DPEJ 1184 1193	categoría
+T20	Term-DPEJ 337 344	jornada
+T21	Term-DPEJ 731 738	jornada
+T22	Term-DPEJ 863 870	jornada
+T23	Term-DPEJ 1360 1371	negociación
+T24	Term-DPEJ 1396 1403	salario
+T25	Term-DPEJ 31 47	trabajo a turnos
+T26	Term-DPEJ 178 183	noche
+T27	Term-DPEJ 694 699	parte
+T28	Term-DPEJ 827 832	parte
+T29	Term-DPEJ 41 47	turnos
+T30	Term-DPEJ 1259 1264	salud
+T31	Term-DPEJ 1312 1323	retribución
+T32	Term-DPEJ 1041 1050	garantías
+T33	Term-DPEJ 1154 1165	actividades
+T34	Term-DPEJ 13 20	Trabajo
+T35	Term-DPEJ 31 38	trabajo
+T36	Term-DPEJ 59 66	trabajo
+T37	Term-DPEJ 127 134	trabajo
+T38	Term-DPEJ 269 276	trabajo
+T39	Term-DPEJ 348 355	trabajo
+T40	Term-DPEJ 749 756	trabajo
+T41	Term-DPEJ 874 881	trabajo
+T42	Term-DPEJ 1126 1133	trabajo
+T43	Term-DPEJ 1284 1291	trabajo
+T44	Term-DPEJ 1444 1451	trabajo
+T45	Term-DPEJ 1533 1540	trabajo
+T46	Term-DPEJ 315 324	autoridad
+T47	Term-Termcat 315 324	autoridad
+T48	Term-Termcat 1360 1381	negociación colectiva
+T49	Term-Termcat 1312 1323	retribución
+T50	Term-Termcat 1512 1524	compensación
+T51	Term-Termcat 1041 1050	garantías
+T52	Term-Termcat 109 112	ley
+T53	Term-Termcat 0 8	Artículo
+T54	Term-Termcat 971 979	artículo
+T55	Term-Termcat 1094 1102	artículo
+T56	Term-Termcat 827 832	parte
+T57	Term-Termcat 694 699	parte
+T58	Term-Termcat 315 332	autoridad laboral
+T59	Term-Termcat 1545 1554	descansos
+T60	Term-Termcat 749 756	trabajo
+T61	Term-Termcat 1533 1540	trabajo
+T62	Term-Termcat 59 66	trabajo
+T63	Term-Termcat 1444 1451	trabajo
+T64	Term-Termcat 1214 1221	función
+T65	Term-Termcat 521 542	horas extraordinarias
+T66	Term-Termcat 337 355	jornada de trabajo
+T67	Term-Termcat 863 881	jornada de trabajo
+T68	Term-Termcat 731 745	jornada diaria
+T69	Term-Termcat 1396 1403	salario
+T70	Term-Termcat 13 29	Trabajo nocturno
+T71	Term-Termcat 127 143	trabajo nocturno
+T72	Term-Termcat 269 285	trabajo nocturno
+T73	Term-Termcat 1284 1300	trabajo nocturno
+T74	Term-Termcat 1126 1142	trabajo nocturno
+T75	Term-Termcat 31 47	trabajo a turnos
+T76	Term-Termcat 1000 1008	Gobierno
+T77	Term-Termcat 1360 1371	negociación
+T78	Term-Termcat 1267 1276	seguridad
+T79	Term-Termcat 1154 1165	actividades
+T80	Term-Termcat 902 912	aplicación
+T81	Term-Termcat 552 562	aplicación
+T82	Term-Termcat 1184 1193	categoría
+T83	Term-Termcat 77 84	efectos
+T84	Term-Termcat 13 20	Trabajo
+T85	Term-Termcat 269 276	trabajo
+T86	Term-Termcat 1284 1291	trabajo
+T87	Term-Termcat 127 134	trabajo
+T88	Term-Termcat 31 38	trabajo
+T89	Term-Termcat 1126 1133	trabajo
+T90	Term-Termcat 1229 1236	riesgos
+T91	Term-Termcat 41 47	turnos
+T92	Term-Termcat 1015 1025	establecer
+T93	Term-Termcat 1111 1122	realización
+T94	Term-Termcat 254 265	realización
+T95	Term-Termcat 936 943	párrafo
+T96	Term-Termcat 585 592	párrafo
+T97	Term-Termcat 455 465	referencia
+T98	Term-AttentionRank 348 355	trabajo
+T99	Term-AttentionRank 1533 1540	trabajo
+T100	Term-AttentionRank 749 756	trabajo
+T101	Term-AttentionRank 874 881	trabajo
+T102	Term-AttentionRank 59 66	trabajo
+T103	Term-AttentionRank 1444 1451	trabajo
+T104	Term-AttentionRank 31 38	trabajo
+T105	Term-AttentionRank 13 29	Trabajo nocturno
+T106	Term-AttentionRank 127 143	trabajo nocturno
+T107	Term-AttentionRank 269 285	trabajo nocturno
+T108	Term-AttentionRank 1284 1300	trabajo nocturno
+T109	Term-AttentionRank 1126 1142	trabajo nocturno
+T110	Term-AttentionRank 337 344	jornada
+T111	Term-AttentionRank 863 870	jornada
+T112	Term-AttentionRank 731 738	jornada
+T113	Term-AttentionRank 0 8	Artículo
+T114	Term-AttentionRank 971 979	artículo
+T115	Term-AttentionRank 1094 1102	artículo
+T116	Term-AttentionRank 489 501	trabajadores
+T117	Term-AttentionRank 1197 1209	trabajadores
+T118	Term-AttentionRank 815 822	periodo
+T119	Term-AttentionRank 444 451	periodo
+T120	Term-AttentionRank 673 680	periodo
+T121	Term-AttentionRank 1259 1264	salud
+T122	Term-AttentionRank 1267 1276	seguridad
+T123	Term-AttentionRank 1214 1236	función de los riesgos
+T124	Term-AttentionRank 1545 1554	descansos
+T125	Term-AttentionRank 363 385	trabajadores nocturnos
+T126	Term-AttentionRank 618 637	trabajador nocturno
+T127	Term-AttentionRank 178 183	noche
+T128	Term-AttentionRank 476 480	días
+T129	Term-AttentionRank 411 424	horas diarias
+T130	Term-AttentionRank 1360 1381	negociación colectiva
+T131	Term-Rebel 1396 1403	salario
+T132	Term-Rebel 1312 1323	retribución
+T133	Term-IATE 552 562	aplicación
+T134	Term-IATE 902 912	aplicación
+T135	Term-IATE 212 222	empresario
+T136	Term-IATE 0 8	Artículo
+T137	Term-IATE 971 979	artículo
+T138	Term-IATE 1094 1102	artículo
+T139	Term-IATE 363 375	trabajadores
+T140	Term-IATE 489 501	trabajadores
+T141	Term-IATE 1197 1209	trabajadores
+T142	Term-IATE 618 628	trabajador
+T143	Term-IATE 363 385	trabajadores nocturnos
+T144	Term-IATE 618 637	trabajador nocturno
+T145	Term-IATE 1396 1403	salario
+T146	Term-IATE 1312 1323	retribución
+T147	Term-IATE 13 29	Trabajo nocturno
+T148	Term-IATE 127 143	trabajo nocturno
+T149	Term-IATE 269 285	trabajo nocturno
+T150	Term-IATE 1126 1142	trabajo nocturno
+T151	Term-IATE 1284 1300	trabajo nocturno
+T152	Term-IATE 585 592	párrafo
+T153	Term-IATE 936 943	párrafo
+T154	Term-IATE 1154 1165	actividades
+T155	Term-IATE 178 183	noche
+T156	Term-IATE 1360 1371	negociación
+T157	Term-IATE 694 699	parte
+T158	Term-IATE 827 832	parte
+T159	Term-IATE 1041 1050	garantías
+T160	Term-IATE 1545 1554	descansos
+T161	Term-IATE 1267 1276	seguridad
+T162	Term-IATE 1214 1221	función
+T163	Term-IATE 1229 1236	riesgos
+T164	Term-IATE 1360 1381	negociación colectiva
+T165	Term-IATE 1184 1193	categoría
+T166	Term-IATE 1512 1524	compensación
+T167	Term-IATE 254 265	realización
+T168	Term-IATE 1111 1122	realización
+R1	subclass_of-Rebel Arg1:T131 Arg2:T132

@@ -1,0 +1,93 @@
+T1	Term-DPEJ 474 482	fracción
+T2	Term-DPEJ 55 61	comité
+T3	Term-DPEJ 629 635	comité
+T4	Term-DPEJ 42 50	miembros
+T5	Term-DPEJ 586 594	miembros
+T6	Term-DPEJ 915 923	miembros
+T7	Term-DPEJ 147 159	trabajadores
+T8	Term-DPEJ 208 220	trabajadores
+T9	Term-DPEJ 275 287	trabajadores
+T10	Term-DPEJ 341 353	trabajadores
+T11	Term-DPEJ 407 419	trabajadores
+T12	Term-DPEJ 943 955	trabajadores
+T13	Term-DPEJ 0 8	Artículo
+T14	Term-DPEJ 65 72	empresa
+T15	Term-DPEJ 536 543	empresa
+T16	Term-DPEJ 819 826	empresa
+T17	Term-DPEJ 55 72	comité de empresa
+T18	Term-DPEJ 91 98	acuerdo
+T19	Term-DPEJ 32 38	número
+T20	Term-DPEJ 546 552	centro
+T21	Term-DPEJ 660 670	reglamento
+T22	Term-DPEJ 674 687	procedimiento
+T23	Term-DPEJ 556 563	trabajo
+T24	Term-DPEJ 770 779	autoridad
+T25	Term-DPEJ 546 563	centro de trabajo
+T26	Term-Termcat 770 779	autoridad
+T27	Term-Termcat 116 122	escala
+T28	Term-Termcat 660 670	reglamento
+T29	Term-Termcat 733 736	ley
+T30	Term-Termcat 0 8	Artículo
+T31	Term-Termcat 770 787	autoridad laboral
+T32	Term-Termcat 546 563	centro de trabajo
+T33	Term-Termcat 55 72	comité de empresa
+T34	Term-Termcat 819 826	empresa
+T35	Term-Termcat 536 543	empresa
+T36	Term-Termcat 91 98	acuerdo
+T37	Term-Termcat 629 635	comité
+T38	Term-Termcat 791 798	efectos
+T39	Term-Termcat 802 810	registro
+T40	Term-Termcat 674 687	procedimiento
+T41	Term-Termcat 13 24	Composición
+T42	Term-Termcat 749 754	copia
+T43	Term-Termcat 32 38	número
+T44	Term-AttentionRank 373 384	setecientos
+T45	Term-AttentionRank 319 330	setecientos
+T46	Term-AttentionRank 407 419	trabajadores
+T47	Term-AttentionRank 147 159	trabajadores
+T48	Term-AttentionRank 275 287	trabajadores
+T49	Term-AttentionRank 341 353	trabajadores
+T50	Term-AttentionRank 208 220	trabajadores
+T51	Term-AttentionRank 629 635	comité
+T52	Term-AttentionRank 55 61	comité
+T53	Term-AttentionRank 91 122	acuerdo con la siguiente escala
+T54	Term-AttentionRank 819 826	empresa
+T55	Term-AttentionRank 65 72	empresa
+T56	Term-AttentionRank 536 543	empresa
+T57	Term-AttentionRank 915 923	miembros
+T58	Term-AttentionRank 586 594	miembros
+T59	Term-AttentionRank 42 50	miembros
+T60	Term-AttentionRank 943 969	trabajadores representados
+T61	Term-AttentionRank 32 38	número
+T62	Term-AttentionRank 733 736	ley
+T63	Term-AttentionRank 770 787	autoridad laboral
+T64	Term-AttentionRank 556 563	trabajo
+T65	Term-AttentionRank 660 670	reglamento
+T66	Term-AttentionRank 866 871	meses
+T67	Term-AttentionRank 546 552	centro
+T68	Term-AttentionRank 802 810	registro
+T69	Term-Rebel 598 608	presidente
+T70	Term-Rebel 546 563	centro de trabajo
+T71	Term-IATE 674 687	procedimiento
+T72	Term-IATE 0 8	Artículo
+T73	Term-IATE 147 159	trabajadores
+T74	Term-IATE 208 220	trabajadores
+T75	Term-IATE 275 287	trabajadores
+T76	Term-IATE 341 353	trabajadores
+T77	Term-IATE 407 419	trabajadores
+T78	Term-IATE 943 955	trabajadores
+T79	Term-IATE 614 624	secretario
+T80	Term-IATE 598 608	presidente
+T81	Term-IATE 42 50	miembros
+T82	Term-IATE 586 594	miembros
+T83	Term-IATE 915 923	miembros
+T84	Term-IATE 802 810	registro
+T85	Term-IATE 802 810	registro
+T86	Term-IATE 866 871	meses
+T87	Term-IATE 474 482	fracción
+T88	Term-IATE 91 98	acuerdo
+T89	Term-IATE 65 72	empresa
+T90	Term-IATE 536 543	empresa
+T91	Term-IATE 819 826	empresa
+T92	Term-IATE 660 670	reglamento
+R1	part_of-Rebel Arg1:T69 Arg2:T70

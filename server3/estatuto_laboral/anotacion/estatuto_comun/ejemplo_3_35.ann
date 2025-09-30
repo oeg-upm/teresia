@@ -1,0 +1,145 @@
+T1	Term-DPEJ 259 265	comité
+T2	Term-DPEJ 538 544	comité
+T3	Term-DPEJ 366 378	competencias
+T4	Term-DPEJ 1417 1423	tiempo
+T5	Term-DPEJ 880 888	convenio
+T6	Term-DPEJ 1539 1554	oficina pública
+T7	Term-DPEJ 246 254	miembros
+T8	Term-DPEJ 525 533	miembros
+T9	Term-DPEJ 585 597	trabajadores
+T10	Term-DPEJ 1112 1122	trabajador
+T11	Term-DPEJ 1272 1282	trabajador
+T12	Term-DPEJ 64 76	comunicación
+T13	Term-DPEJ 269 276	empresa
+T14	Term-DPEJ 1037 1044	empresa
+T15	Term-DPEJ 259 276	comité de empresa
+T16	Term-DPEJ 1332 1337	votos
+T17	Term-DPEJ 880 898	convenio colectivo
+T18	Term-DPEJ 215 224	delegados
+T19	Term-DPEJ 501 510	delegados
+T20	Term-DPEJ 1215 1224	delegados
+T21	Term-DPEJ 200 207	mandato
+T22	Term-DPEJ 556 563	mandato
+T23	Term-DPEJ 1438 1445	mandato
+T24	Term-DPEJ 1511 1518	mandato
+T25	Term-DPEJ 1539 1546	oficina
+T26	Term-DPEJ 228 236	personal
+T27	Term-DPEJ 514 522	personal
+T28	Term-DPEJ 766 774	personal
+T29	Term-DPEJ 1228 1236	personal
+T30	Term-DPEJ 972 976	caso
+T31	Term-DPEJ 1310 1318	votación
+T32	Term-DPEJ 1013 1018	causa
+T33	Term-DPEJ 27 36	promoción
+T34	Term-DPEJ 97 106	promoción
+T35	Term-DPEJ 1322 1328	número
+T36	Term-DPEJ 1050 1057	centros
+T37	Term-DPEJ 820 830	revocación
+T38	Term-DPEJ 569 577	decisión
+T39	Term-DPEJ 110 120	elecciones
+T40	Term-DPEJ 454 464	elecciones
+T41	Term-DPEJ 388 397	garantías
+T42	Term-DPEJ 630 638	asamblea
+T43	Term-DPEJ 1061 1068	trabajo
+T44	Term-DPEJ 1573 1582	autoridad
+T45	Term-DPEJ 757 765	sufragio
+T46	Term-Termcat 1573 1582	autoridad
+T47	Term-Termcat 880 888	convenio
+T48	Term-Termcat 661 670	instancia
+T49	Term-Termcat 820 830	revocación
+T50	Term-Termcat 862 873	tramitación
+T51	Term-Termcat 1438 1445	mandato
+T52	Term-Termcat 200 207	mandato
+T53	Term-Termcat 1511 1518	mandato
+T54	Term-Termcat 556 563	mandato
+T55	Term-Termcat 77 87	fehaciente
+T56	Term-Termcat 388 397	garantías
+T57	Term-Termcat 721 737	mayoría absoluta
+T58	Term-Termcat 757 765	sufragio
+T59	Term-Termcat 1332 1337	votos
+T60	Term-Termcat 1310 1318	votación
+T61	Term-Termcat 64 76	comunicación
+T62	Term-Termcat 27 36	promoción
+T63	Term-Termcat 97 106	promoción
+T64	Term-Termcat 1573 1590	autoridad laboral
+T65	Term-Termcat 259 276	comité de empresa
+T66	Term-Termcat 366 378	competencias
+T67	Term-Termcat 880 898	convenio colectivo
+T68	Term-Termcat 1037 1044	empresa
+T69	Term-Termcat 1061 1068	trabajo
+T70	Term-Termcat 514 522	personal
+T71	Term-Termcat 766 774	personal
+T72	Term-Termcat 228 236	personal
+T73	Term-Termcat 1228 1236	personal
+T74	Term-Termcat 991 998	vacante
+T75	Term-Termcat 1190 1197	vacante
+T76	Term-Termcat 1636 1654	tablón de anuncios
+T77	Term-Termcat 187 195	duración
+T78	Term-Termcat 569 577	decisión
+T79	Term-Termcat 721 728	mayoría
+T80	Term-Termcat 630 638	asamblea
+T81	Term-Termcat 1013 1018	causa
+T82	Term-Termcat 538 544	comité
+T83	Term-Termcat 652 658	efecto
+T84	Term-Termcat 110 120	elecciones
+T85	Term-Termcat 454 464	elecciones
+T86	Term-Termcat 349 358	ejercicio
+T87	Term-Termcat 793 800	secreto
+T88	Term-Termcat 1322 1328	número
+T89	Term-AttentionRank 630 683	asamblea convocada al efecto a instancia de un tercio
+T90	Term-AttentionRank 1332 1387	votos inmediatamente inferior al último de los elegidos
+T91	Term-AttentionRank 1112 1149	trabajador siguiente en la lista a la
+T92	Term-AttentionRank 514 522	personal
+T93	Term-AttentionRank 766 774	personal
+T94	Term-AttentionRank 228 236	personal
+T95	Term-AttentionRank 1228 1236	personal
+T96	Term-AttentionRank 64 87	comunicación fehaciente
+T97	Term-AttentionRank 110 120	elecciones
+T98	Term-AttentionRank 501 510	delegados
+T99	Term-AttentionRank 215 224	delegados
+T100	Term-AttentionRank 1215 1224	delegados
+T101	Term-AttentionRank 1438 1445	mandato
+T102	Term-AttentionRank 200 207	mandato
+T103	Term-AttentionRank 1511 1518	mandato
+T104	Term-AttentionRank 556 563	mandato
+T105	Term-AttentionRank 259 265	comité
+T106	Term-AttentionRank 538 544	comité
+T107	Term-AttentionRank 585 597	trabajadores
+T108	Term-AttentionRank 447 464	nuevas elecciones
+T109	Term-AttentionRank 880 898	convenio colectivo
+T110	Term-AttentionRank 525 533	miembros
+T111	Term-AttentionRank 246 254	miembros
+T112	Term-AttentionRank 1417 1423	tiempo
+T113	Term-AttentionRank 1573 1590	autoridad laboral
+T114	Term-Rebel 215 236	delegados de personal
+T115	Term-Rebel 259 276	comité de empresa
+T116	Term-IATE 366 378	competencias
+T117	Term-IATE 1596 1606	empresario
+T118	Term-IATE 187 195	duración
+T119	Term-IATE 630 638	asamblea
+T120	Term-IATE 585 597	trabajadores
+T121	Term-IATE 1112 1122	trabajador
+T122	Term-IATE 1272 1282	trabajador
+T123	Term-IATE 661 670	instancia
+T124	Term-IATE 880 888	convenio
+T125	Term-IATE 1310 1318	votación
+T126	Term-IATE 820 830	revocación
+T127	Term-IATE 569 577	decisión
+T128	Term-IATE 388 397	garantías
+T129	Term-IATE 246 254	miembros
+T130	Term-IATE 525 533	miembros
+T131	Term-IATE 200 207	mandato
+T132	Term-IATE 556 563	mandato
+T133	Term-IATE 1438 1445	mandato
+T134	Term-IATE 1511 1518	mandato
+T135	Term-IATE 880 898	convenio colectivo
+T136	Term-IATE 215 224	delegados
+T137	Term-IATE 501 510	delegados
+T138	Term-IATE 1215 1224	delegados
+T139	Term-IATE 956 961	meses
+T140	Term-IATE 187 207	duración del mandato
+T141	Term-IATE 269 276	empresa
+T142	Term-IATE 1037 1044	empresa
+T143	Term-IATE 349 358	ejercicio
+T144	Term-IATE 1539 1546	oficina
+R1	part_of-Rebel Arg1:T114 Arg2:T115

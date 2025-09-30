@@ -1,0 +1,182 @@
+T1	Term-DPEJ 175 179	mesa
+T2	Term-DPEJ 297 301	mesa
+T3	Term-DPEJ 651 655	mesa
+T4	Term-DPEJ 1132 1136	mesa
+T5	Term-DPEJ 1465 1469	mesa
+T6	Term-DPEJ 1602 1606	mesa
+T7	Term-DPEJ 1803 1807	mesa
+T8	Term-DPEJ 196 210	representantes
+T9	Term-DPEJ 860 874	representantes
+T10	Term-DPEJ 138 150	trabajadores
+T11	Term-DPEJ 218 230	trabajadores
+T12	Term-DPEJ 766 778	trabajadores
+T13	Term-DPEJ 1374 1386	trabajadores
+T14	Term-DPEJ 297 311	mesa electoral
+T15	Term-DPEJ 651 665	mesa electoral
+T16	Term-DPEJ 669 674	censo
+T17	Term-DPEJ 782 787	censo
+T18	Term-DPEJ 505 522	proceso electoral
+T19	Term-DPEJ 119 131	comunicación
+T20	Term-DPEJ 418 430	comunicación
+T21	Term-DPEJ 1415 1435	delegado de personal
+T22	Term-DPEJ 19 26	empresa
+T23	Term-DPEJ 1030 1035	plazo
+T24	Term-DPEJ 1075 1081	plazos
+T25	Term-DPEJ 76 83	término
+T26	Term-DPEJ 609 616	término
+T27	Term-DPEJ 380 385	fecha
+T28	Term-DPEJ 481 486	fecha
+T29	Term-DPEJ 880 885	fecha
+T30	Term-DPEJ 1256 1261	fecha
+T31	Term-DPEJ 559 568	delegados
+T32	Term-DPEJ 1415 1423	delegado
+T33	Term-DPEJ 572 580	personal
+T34	Term-DPEJ 1427 1435	personal
+T35	Term-DPEJ 1223 1227	caso
+T36	Term-DPEJ 1316 1320	caso
+T37	Term-DPEJ 1594 1598	caso
+T38	Term-DPEJ 1773 1783	resolución
+T39	Term-DPEJ 1489 1497	votación
+T40	Term-DPEJ 1679 1687	votación
+T41	Term-DPEJ 3 13	Comunicado
+T42	Term-DPEJ 850 856	número
+T43	Term-DPEJ 30 39	propósito
+T44	Term-DPEJ 435 444	propósito
+T45	Term-DPEJ 1338 1345	centros
+T46	Term-DPEJ 349 353	acta
+T47	Term-DPEJ 1005 1009	acta
+T48	Term-DPEJ 1755 1759	acta
+T49	Term-DPEJ 669 682	censo laboral
+T50	Term-DPEJ 782 795	censo laboral
+T51	Term-DPEJ 52 62	elecciones
+T52	Term-DPEJ 457 467	elecciones
+T53	Term-DPEJ 546 556	elecciones
+T54	Term-DPEJ 1269 1279	elecciones
+T55	Term-DPEJ 1324 1334	elecciones
+T56	Term-DPEJ 505 512	proceso
+T57	Term-DPEJ 1193 1207	circunstancias
+T58	Term-DPEJ 1349 1356	trabajo
+T59	Term-DPEJ 104 112	traslado
+T60	Term-Termcat 349 353	acta
+T61	Term-Termcat 1005 1009	acta
+T62	Term-Termcat 1755 1759	acta
+T63	Term-Termcat 1238 1250	constitución
+T64	Term-Termcat 1446 1458	constitución
+T65	Term-Termcat 1055 1069	días naturales
+T66	Term-Termcat 1773 1783	resolución
+T67	Term-Termcat 76 83	término
+T68	Term-Termcat 609 616	término
+T69	Term-Termcat 1030 1035	plazo
+T70	Term-Termcat 1075 1081	plazos
+T71	Term-Termcat 1103 1108	actos
+T72	Term-Termcat 1480 1485	actos
+T73	Term-Termcat 782 787	censo
+T74	Term-Termcat 669 674	censo
+T75	Term-Termcat 1721 1732	reclamación
+T76	Term-Termcat 860 874	representantes
+T77	Term-Termcat 196 210	representantes
+T78	Term-Termcat 1013 1023	escrutinio
+T79	Term-Termcat 1679 1687	votación
+T80	Term-Termcat 1489 1497	votación
+T81	Term-Termcat 418 430	comunicación
+T82	Term-Termcat 119 131	comunicación
+T83	Term-Termcat 19 26	empresa
+T84	Term-Termcat 1349 1356	trabajo
+T85	Term-Termcat 297 311	mesa electoral
+T86	Term-Termcat 651 665	mesa electoral
+T87	Term-Termcat 1427 1435	personal
+T88	Term-Termcat 572 580	personal
+T89	Term-Termcat 104 112	traslado
+T90	Term-Termcat 505 512	proceso
+T91	Term-Termcat 958 970	candidaturas
+T92	Term-Termcat 915 927	candidaturas
+T93	Term-Termcat 1661 1672	celebración
+T94	Term-Termcat 1193 1207	circunstancias
+T95	Term-Termcat 262 274	conocimiento
+T96	Term-Termcat 366 372	efecto
+T97	Term-Termcat 709 716	efectos
+T98	Term-Termcat 457 467	elecciones
+T99	Term-Termcat 1269 1279	elecciones
+T100	Term-Termcat 52 62	elecciones
+T101	Term-Termcat 546 556	elecciones
+T102	Term-Termcat 1324 1334	elecciones
+T103	Term-Termcat 490 500	iniciación
+T104	Term-Termcat 1803 1807	mesa
+T105	Term-Termcat 1465 1469	mesa
+T106	Term-Termcat 175 179	mesa
+T107	Term-Termcat 1602 1606	mesa
+T108	Term-Termcat 1132 1136	mesa
+T109	Term-Termcat 1154 1167	razonabilidad
+T110	Term-Termcat 1039 1047	superior
+T111	Term-Termcat 720 726	modelo
+T112	Term-Termcat 850 856	número
+T113	Term-Termcat 748 755	público
+T114	Term-AttentionRank 457 467	elecciones
+T115	Term-AttentionRank 1269 1279	elecciones
+T116	Term-AttentionRank 52 62	elecciones
+T117	Term-AttentionRank 546 556	elecciones
+T118	Term-AttentionRank 1324 1334	elecciones
+T119	Term-AttentionRank 1803 1807	mesa
+T120	Term-AttentionRank 1465 1469	mesa
+T121	Term-AttentionRank 175 179	mesa
+T122	Term-AttentionRank 1602 1606	mesa
+T123	Term-AttentionRank 1132 1136	mesa
+T124	Term-AttentionRank 481 486	fecha
+T125	Term-AttentionRank 380 385	fecha
+T126	Term-AttentionRank 1256 1261	fecha
+T127	Term-AttentionRank 880 885	fecha
+T128	Term-AttentionRank 297 311	mesa electoral
+T129	Term-AttentionRank 651 665	mesa electoral
+T130	Term-AttentionRank 349 372	acta otorgada al efecto
+T131	Term-AttentionRank 766 778	trabajadores
+T132	Term-AttentionRank 138 150	trabajadores
+T133	Term-AttentionRank 1374 1386	trabajadores
+T134	Term-AttentionRank 218 230	trabajadores
+T135	Term-AttentionRank 1030 1049	plazo no superior a
+T136	Term-AttentionRank 782 795	censo laboral
+T137	Term-AttentionRank 669 682	censo laboral
+T138	Term-AttentionRank 1005 1009	acta
+T139	Term-AttentionRank 1755 1759	acta
+T140	Term-AttentionRank 1594 1598	caso
+T141	Term-AttentionRank 1223 1227	caso
+T142	Term-AttentionRank 1316 1320	caso
+T143	Term-AttentionRank 93 97	días
+T144	Term-AttentionRank 1304 1308	días
+T145	Term-AttentionRank 1055 1059	días
+T146	Term-AttentionRank 1570 1575	horas
+T147	Term-AttentionRank 1653 1657	hora
+T148	Term-AttentionRank 418 430	comunicación
+T149	Term-AttentionRank 119 131	comunicación
+T150	Term-AttentionRank 30 39	propósito
+T151	Term-AttentionRank 435 444	propósito
+T152	Term-AttentionRank 1427 1435	personal
+T153	Term-AttentionRank 572 580	personal
+T154	Term-Rebel 1324 1356	elecciones en centros de trabajo
+T155	Term-Rebel 52 62	elecciones
+T156	Term-IATE 585 595	empresario
+T157	Term-IATE 899 911	presentación
+T158	Term-IATE 1516 1526	candidatos
+T159	Term-IATE 175 179	mesa
+T160	Term-IATE 297 301	mesa
+T161	Term-IATE 651 655	mesa
+T162	Term-IATE 1132 1136	mesa
+T163	Term-IATE 1465 1469	mesa
+T164	Term-IATE 1602 1606	mesa
+T165	Term-IATE 1803 1807	mesa
+T166	Term-IATE 138 150	trabajadores
+T167	Term-IATE 218 230	trabajadores
+T168	Term-IATE 766 778	trabajadores
+T169	Term-IATE 1374 1386	trabajadores
+T170	Term-IATE 505 512	proceso
+T171	Term-IATE 1030 1035	plazo
+T172	Term-IATE 1075 1081	plazos
+T173	Term-IATE 1489 1497	votación
+T174	Term-IATE 1679 1687	votación
+T175	Term-IATE 196 210	representantes
+T176	Term-IATE 860 874	representantes
+T177	Term-IATE 800 810	indicación
+T178	Term-IATE 559 568	delegados
+T179	Term-IATE 1415 1423	delegado
+T180	Term-IATE 1773 1783	resolución
+T181	Term-IATE 19 26	empresa
+R1	subclass_of-Rebel Arg1:T154 Arg2:T155

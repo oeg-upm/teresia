@@ -1,0 +1,3 @@
+T1	concept 58 75	despido colectivo
+T2	concept 79 112	extinción de contratos de trabajo
+R1	subclass_of Arg1:T1 Arg2:T2

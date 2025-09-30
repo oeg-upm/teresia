@@ -1,0 +1,3 @@
+T1	org 1324 1363	Ministerio de Empleo y Seguridad Social
+T2	org 1298 1306	Gobierno
+R1	part_of Arg1:T1 Arg2:T2

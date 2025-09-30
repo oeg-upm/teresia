@@ -1,0 +1,156 @@
+T1	Term-DPEJ 119 127	personas
+T2	Term-DPEJ 455 463	personas
+T3	Term-DPEJ 935 942	persona
+T4	Term-DPEJ 1057 1064	persona
+T5	Term-DPEJ 1209 1216	persona
+T6	Term-DPEJ 1486 1493	persona
+T7	Term-DPEJ 1659 1666	persona
+T8	Term-DPEJ 1279 1285	tiempo
+T9	Term-DPEJ 1592 1600	convenio
+T10	Term-DPEJ 427 441	representación
+T11	Term-DPEJ 959 966	derecho
+T12	Term-DPEJ 4 12	empresas
+T13	Term-DPEJ 358 366	empresas
+T14	Term-DPEJ 731 738	empresa
+T15	Term-DPEJ 832 840	términos
+T16	Term-DPEJ 1126 1136	prestación
+T17	Term-DPEJ 1592 1610	convenio colectivo
+T18	Term-DPEJ 621 630	contratas
+T19	Term-DPEJ 1460 1467	jornada
+T20	Term-DPEJ 39 47	contrato
+T21	Term-DPEJ 278 286	contrato
+T22	Term-DPEJ 566 574	contrato
+T23	Term-DPEJ 1032 1040	contrato
+T24	Term-DPEJ 1400 1408	contrato
+T25	Term-DPEJ 1634 1642	contrato
+T26	Term-DPEJ 513 522	contratos
+T27	Term-DPEJ 874 883	contratos
+T28	Term-DPEJ 1194 1202	ausencia
+T29	Term-DPEJ 552 557	causa
+T30	Term-DPEJ 1081 1086	causa
+T31	Term-DPEJ 1683 1688	causa
+T32	Term-DPEJ 1543 1549	causas
+T33	Term-DPEJ 980 986	puesto
+T34	Term-DPEJ 1343 1349	puesto
+T35	Term-DPEJ 1140 1149	servicios
+T36	Term-DPEJ 119 140	personas trabajadoras
+T37	Term-DPEJ 455 476	personas trabajadoras
+T38	Term-DPEJ 935 954	persona trabajadora
+T39	Term-DPEJ 1486 1505	persona trabajadora
+T40	Term-DPEJ 1520 1529	reducción
+T41	Term-DPEJ 793 807	circunstancias
+T42	Term-DPEJ 694 703	actividad
+T43	Term-DPEJ 597 605	trabajos
+T44	Term-DPEJ 990 997	trabajo
+T45	Term-Termcat 1592 1600	convenio
+T46	Term-Termcat 959 997	derecho a reserva de puesto de trabajo
+T47	Term-Termcat 1140 1149	servicios
+T48	Term-Termcat 832 840	términos
+T49	Term-Termcat 1194 1202	ausencia
+T50	Term-Termcat 39 47	contrato
+T51	Term-Termcat 1634 1642	contrato
+T52	Term-Termcat 1400 1408	contrato
+T53	Term-Termcat 1032 1040	contrato
+T54	Term-Termcat 278 286	contrato
+T55	Term-Termcat 566 574	contrato
+T56	Term-Termcat 874 883	contratos
+T57	Term-Termcat 513 522	contratos
+T58	Term-Termcat 1044 1050	nombre
+T59	Term-Termcat 1646 1652	nombre
+T60	Term-Termcat 1126 1136	prestación
+T61	Term-Termcat 427 441	representación
+T62	Term-Termcat 500 503	uso
+T63	Term-Termcat 1592 1610	convenio colectivo
+T64	Term-Termcat 4 12	empresas
+T65	Term-Termcat 358 366	empresas
+T66	Term-Termcat 731 738	empresa
+T67	Term-Termcat 597 605	trabajos
+T68	Term-Termcat 1460 1476	jornada reducida
+T69	Term-Termcat 980 997	puesto de trabajo
+T70	Term-Termcat 1412 1423	sustitución
+T71	Term-Termcat 1695 1706	sustitución
+T72	Term-Termcat 1093 1104	sustitución
+T73	Term-Termcat 916 927	sustitución
+T74	Term-Termcat 887 895	duración
+T75	Term-Termcat 1248 1258	desarrollo
+T76	Term-Termcat 959 966	derecho
+T77	Term-Termcat 119 127	personas
+T78	Term-Termcat 455 463	personas
+T79	Term-Termcat 1209 1216	persona
+T80	Term-Termcat 1057 1064	persona
+T81	Term-Termcat 1659 1666	persona
+T82	Term-Termcat 1486 1493	persona
+T83	Term-Termcat 935 942	persona
+T84	Term-Termcat 969 976	reserva
+T85	Term-Termcat 694 703	actividad
+T86	Term-Termcat 552 557	causa
+T87	Term-Termcat 1683 1688	causa
+T88	Term-Termcat 1081 1086	causa
+T89	Term-Termcat 1543 1549	causas
+T90	Term-Termcat 760 771	celebración
+T91	Term-Termcat 793 807	circunstancias
+T92	Term-Termcat 621 630	contratas
+T93	Term-Termcat 1306 1316	garantizar
+T94	Term-Termcat 442 447	legal
+T95	Term-Termcat 744 753	perjuicio
+T96	Term-Termcat 1126 1149	prestación de servicios
+T97	Term-Termcat 814 824	producción
+T98	Term-Termcat 412 421	trasladar
+T99	Term-Termcat 578 589	realización
+T100	Term-AttentionRank 887 997	duración determinada para la sustitución de una persona trabajadora con derecho a reserva de puesto de trabajo
+T101	Term-AttentionRank 39 47	contrato
+T102	Term-AttentionRank 1634 1642	contrato
+T103	Term-AttentionRank 1400 1408	contrato
+T104	Term-AttentionRank 1032 1040	contrato
+T105	Term-AttentionRank 278 286	contrato
+T106	Term-AttentionRank 566 574	contrato
+T107	Term-AttentionRank 874 883	contratos
+T108	Term-AttentionRank 513 522	contratos
+T109	Term-AttentionRank 1460 1505	jornada reducida por otra persona trabajadora
+T110	Term-AttentionRank 69 73	días
+T111	Term-AttentionRank 302 306	días
+T112	Term-AttentionRank 1381 1385	días
+T113	Term-AttentionRank 196 200	días
+T114	Term-AttentionRank 552 557	causa
+T115	Term-AttentionRank 1683 1688	causa
+T116	Term-AttentionRank 1081 1086	causa
+T117	Term-AttentionRank 4 12	empresas
+T118	Term-AttentionRank 358 366	empresas
+T119	Term-AttentionRank 731 738	empresa
+T120	Term-AttentionRank 1543 1573	causas legalmente establecidas
+T121	Term-AttentionRank 621 630	contratas
+T122	Term-AttentionRank 399 402	año
+T123	Term-AttentionRank 80 83	año
+T124	Term-AttentionRank 1209 1227	persona sustituida
+T125	Term-AttentionRank 1057 1075	persona sustituida
+T126	Term-AttentionRank 1659 1677	persona sustituida
+T127	Term-AttentionRank 1248 1258	desarrollo
+T128	Term-AttentionRank 814 824	producción
+T129	Term-AttentionRank 1320 1349	desempeño adecuado del puesto
+T130	Term-AttentionRank 744 771	perjuicio de su celebración
+T131	Term-AttentionRank 455 476	personas trabajadoras
+T132	Term-AttentionRank 119 140	personas trabajadoras
+T133	Term-Rebel 632 643	subcontrata
+T134	Term-Rebel 621 629	contrata
+T135	Term-IATE 1520 1529	reducción
+T136	Term-IATE 887 895	duración
+T137	Term-IATE 744 753	perjuicio
+T138	Term-IATE 39 47	contrato
+T139	Term-IATE 278 286	contrato
+T140	Term-IATE 566 574	contrato
+T141	Term-IATE 1032 1040	contrato
+T142	Term-IATE 1400 1408	contrato
+T143	Term-IATE 1634 1642	contrato
+T144	Term-IATE 513 522	contratos
+T145	Term-IATE 874 883	contratos
+T146	Term-IATE 694 703	actividad
+T147	Term-IATE 1592 1600	convenio
+T148	Term-IATE 1592 1610	convenio colectivo
+T149	Term-IATE 969 976	reserva
+T150	Term-IATE 578 589	realización
+T151	Term-IATE 4 12	empresas
+T152	Term-IATE 358 366	empresas
+T153	Term-IATE 731 738	empresa
+T154	Term-IATE 621 630	contratas
+T155	Term-IATE 1126 1136	prestación
+R1	subclass_of-Rebel Arg1:T133 Arg2:T134

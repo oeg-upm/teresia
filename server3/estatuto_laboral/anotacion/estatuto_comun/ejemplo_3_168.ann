@@ -1,0 +1,138 @@
+T1	Term-DPEJ 393 403	aplicación
+T2	Term-DPEJ 153 158	regla
+T3	Term-DPEJ 7 19	trabajadores
+T4	Term-DPEJ 1065 1070	lugar
+T5	Term-DPEJ 443 451	artículo
+T6	Term-DPEJ 28 35	derecho
+T7	Term-DPEJ 282 298	descanso semanal
+T8	Term-DPEJ 407 423	descanso semanal
+T9	Term-DPEJ 209 213	caso
+T10	Term-DPEJ 748 752	caso
+T11	Term-DPEJ 1101 1105	caso
+T12	Term-DPEJ 1476 1480	caso
+T13	Term-DPEJ 783 789	ámbito
+T14	Term-DPEJ 1038 1044	ámbito
+T15	Term-DPEJ 1412 1418	ámbito
+T16	Term-DPEJ 1275 1281	límite
+T17	Term-DPEJ 1241 1252	comunidades
+T18	Term-DPEJ 1617 1626	comunidad
+T19	Term-DPEJ 1734 1740	número
+T20	Term-DPEJ 1241 1262	comunidades autónomas
+T21	Term-DPEJ 1617 1635	comunidad autónoma
+T22	Term-DPEJ 1163 1179	descanso laboral
+T23	Term-DPEJ 566 577	actividades
+T24	Term-DPEJ 869 876	Trabajo
+T25	Term-DPEJ 1117 1125	traslado
+T26	Term-DPEJ 1557 1565	traslado
+T27	Term-Termcat 1241 1262	comunidades autónomas
+T28	Term-Termcat 1617 1635	comunidad autónoma
+T29	Term-Termcat 1241 1252	comunidades
+T30	Term-Termcat 1617 1626	comunidad
+T31	Term-Termcat 1545 1553	facultad
+T32	Term-Termcat 1354 1363	tradición
+T33	Term-Termcat 1535 1538	uso
+T34	Term-Termcat 443 451	artículo
+T35	Term-Termcat 1163 1171	descanso
+T36	Term-Termcat 41 49	descanso
+T37	Term-Termcat 539 547	descanso
+T38	Term-Termcat 282 298	descanso semanal
+T39	Term-Termcat 407 423	descanso semanal
+T40	Term-Termcat 1299 1312	días festivos
+T41	Term-Termcat 1202 1209	fiestas
+T42	Term-Termcat 1027 1034	fiestas
+T43	Term-Termcat 772 779	fiestas
+T44	Term-Termcat 1744 1751	fiestas
+T45	Term-Termcat 1669 1676	fiestas
+T46	Term-Termcat 1338 1345	fiestas
+T47	Term-Termcat 900 906	Fiesta
+T48	Term-Termcat 858 864	Fiesta
+T49	Term-Termcat 1807 1813	fiesta
+T50	Term-Termcat 869 876	Trabajo
+T51	Term-Termcat 596 613	fiestas laborales
+T52	Term-Termcat 1077 1083	semana
+T53	Term-Termcat 1117 1125	traslado
+T54	Term-Termcat 1557 1565	traslado
+T55	Term-Termcat 269 277	duración
+T56	Term-Termcat 28 35	derecho
+T57	Term-Termcat 980 988	Gobierno
+T58	Term-Termcat 122 127	medio
+T59	Term-Termcat 566 577	actividades
+T60	Term-Termcat 393 403	aplicación
+T61	Term-Termcat 306 313	menores
+T62	Term-Termcat 1419 1427	nacional
+T63	Term-Termcat 790 798	nacional
+T64	Term-Termcat 1045 1053	nacional
+T65	Term-Termcat 907 915	Nacional
+T66	Term-Termcat 1752 1762	nacionales
+T67	Term-Termcat 153 158	regla
+T68	Term-Termcat 1677 1690	tradicionales
+T69	Term-Termcat 1647 1657	establecer
+T70	Term-Termcat 1321 1328	señalar
+T71	Term-Termcat 995 1004	trasladar
+T72	Term-Termcat 514 522	fijación
+T73	Term-Termcat 1823 1831	carácter
+T74	Term-Termcat 627 635	carácter
+T75	Term-Termcat 1734 1740	número
+T76	Term-Termcat 1589 1596	párrafo
+T77	Term-Termcat 959 966	párrafo
+T78	Term-AttentionRank 1202 1209	fiestas
+T79	Term-AttentionRank 1027 1034	fiestas
+T80	Term-AttentionRank 772 779	fiestas
+T81	Term-AttentionRank 1744 1751	fiestas
+T82	Term-AttentionRank 596 603	fiestas
+T83	Term-AttentionRank 1669 1676	fiestas
+T84	Term-AttentionRank 1338 1345	fiestas
+T85	Term-AttentionRank 900 906	Fiesta
+T86	Term-AttentionRank 858 864	Fiesta
+T87	Term-AttentionRank 1807 1813	fiesta
+T88	Term-AttentionRank 358 362	días
+T89	Term-AttentionRank 1299 1303	días
+T90	Term-AttentionRank 107 111	días
+T91	Term-AttentionRank 240 243	día
+T92	Term-AttentionRank 116 119	día
+T93	Term-AttentionRank 1545 1582	facultad de traslado a lunes prevista
+T94	Term-AttentionRank 327 331	años
+T95	Term-AttentionRank 697 700	año
+T96	Term-AttentionRank 1776 1779	año
+T97	Term-AttentionRank 831 834	Año
+T98	Term-AttentionRank 783 798	ámbito nacional
+T99	Term-AttentionRank 1038 1053	ámbito nacional
+T100	Term-AttentionRank 1412 1427	ámbito nacional
+T101	Term-AttentionRank 627 646	carácter retribuido
+T102	Term-AttentionRank 748 752	caso
+T103	Term-AttentionRank 1476 1480	caso
+T104	Term-AttentionRank 1101 1105	caso
+T105	Term-AttentionRank 209 213	caso
+T106	Term-AttentionRank 1835 1846	recuperable
+T107	Term-AttentionRank 652 663	recuperable
+T108	Term-AttentionRank 1129 1134	lunes
+T109	Term-AttentionRank 1505 1510	lunes
+T110	Term-AttentionRank 229 234	lunes
+T111	Term-AttentionRank 1011 1016	lunes
+T112	Term-AttentionRank 282 298	descanso semanal
+T113	Term-AttentionRank 407 423	descanso semanal
+T114	Term-AttentionRank 1077 1083	semana
+T115	Term-AttentionRank 41 56	descanso mínimo
+T116	Term-AttentionRank 1117 1125	traslado
+T117	Term-AttentionRank 1712 1719	domingo
+T118	Term-AttentionRank 257 264	domingo
+T119	Term-AttentionRank 1228 1235	domingo
+T120	Term-AttentionRank 28 35	derecho
+T121	Term-IATE 393 403	aplicación
+T122	Term-IATE 443 451	artículo
+T123	Term-IATE 269 277	duración
+T124	Term-IATE 7 19	trabajadores
+T125	Term-IATE 959 966	párrafo
+T126	Term-IATE 1589 1596	párrafo
+T127	Term-IATE 566 577	actividades
+T128	Term-IATE 41 49	descanso
+T129	Term-IATE 282 290	descanso
+T130	Term-IATE 407 415	descanso
+T131	Term-IATE 539 547	descanso
+T132	Term-IATE 1163 1171	descanso
+T133	Term-IATE 1241 1262	comunidades autónomas
+T134	Term-IATE 1617 1635	comunidad autónoma
+T135	Term-IATE 627 635	carácter
+T136	Term-IATE 1823 1831	carácter
+T137	Term-IATE 1241 1252	comunidades
+T138	Term-IATE 1617 1626	comunidad

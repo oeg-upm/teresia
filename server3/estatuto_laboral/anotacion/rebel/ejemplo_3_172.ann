@@ -1,0 +1,3 @@
+T1	media 516 542	Fondo de Garantía Salarial
+T2	concept 516 521	Fondo
+R1	instance_of Arg1:T1 Arg2:T2

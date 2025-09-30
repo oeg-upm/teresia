@@ -1,0 +1,91 @@
+T1	Term-DPEJ 61 74	causas justas
+T2	Term-DPEJ 508 520	fuerza mayor
+T3	Term-DPEJ 40 50	trabajador
+T4	Term-DPEJ 87 97	trabajador
+T5	Term-DPEJ 312 322	trabajador
+T6	Term-DPEJ 569 579	trabajador
+T7	Term-DPEJ 768 778	trabajador
+T8	Term-DPEJ 0 8	Artículo
+T9	Term-DPEJ 253 261	artículo
+T10	Term-DPEJ 655 664	artículos
+T11	Term-DPEJ 786 793	derecho
+T12	Term-DPEJ 339 343	pago
+T13	Term-DPEJ 131 139	contrato
+T14	Term-DPEJ 758 763	casos
+T15	Term-DPEJ 383 390	salario
+T16	Term-DPEJ 61 67	causas
+T17	Term-DPEJ 463 468	parte
+T18	Term-DPEJ 198 205	trabajo
+T19	Term-DPEJ 613 620	trabajo
+T20	Term-DPEJ 13 22	Extinción
+T21	Term-DPEJ 117 126	extinción
+T22	Term-DPEJ 834 841	despido
+T23	Term-Termcat 131 139	contrato
+T24	Term-Termcat 508 520	fuerza mayor
+T25	Term-Termcat 339 343	pago
+T26	Term-Termcat 0 8	Artículo
+T27	Term-Termcat 253 261	artículo
+T28	Term-Termcat 655 664	artículos
+T29	Term-Termcat 463 468	parte
+T30	Term-Termcat 685 694	sentencia
+T31	Term-Termcat 834 854	despido improcedente
+T32	Term-Termcat 598 620	condiciones de trabajo
+T33	Term-Termcat 183 205	condiciones de trabajo
+T34	Term-Termcat 330 335	falta
+T35	Term-Termcat 383 390	salario
+T36	Term-Termcat 299 307	dignidad
+T37	Term-Termcat 786 793	derecho
+T38	Term-Termcat 13 22	Extinción
+T39	Term-Termcat 117 126	extinción
+T40	Term-Termcat 373 378	abono
+T41	Term-Termcat 61 74	causas justas
+T42	Term-Termcat 418 432	incumplimiento
+T43	Term-Termcat 283 292	menoscabo
+T44	Term-Termcat 27 35	voluntad
+T45	Term-Termcat 842 854	improcedente
+T46	Term-Termcat 695 703	judicial
+T47	Term-Termcat 104 113	solicitar
+T48	Term-AttentionRank 800 854	indemnizaciones señaladas para el despido improcedente
+T49	Term-AttentionRank 0 8	Artículo
+T50	Term-AttentionRank 253 261	artículo
+T51	Term-AttentionRank 655 664	artículos
+T52	Term-AttentionRank 183 194	condiciones
+T53	Term-AttentionRank 312 322	trabajador
+T54	Term-AttentionRank 87 97	trabajador
+T55	Term-AttentionRank 768 778	trabajador
+T56	Term-AttentionRank 569 579	trabajador
+T57	Term-AttentionRank 40 50	trabajador
+T58	Term-AttentionRank 685 703	sentencia judicial
+T59	Term-AttentionRank 148 175	modificaciones sustanciales
+T60	Term-AttentionRank 198 205	trabajo
+T61	Term-AttentionRank 613 620	trabajo
+T62	Term-AttentionRank 61 74	causas justas
+T63	Term-AttentionRank 587 609	anteriores condiciones
+T64	Term-AttentionRank 283 292	menoscabo
+T65	Term-AttentionRank 418 438	incumplimiento grave
+T66	Term-AttentionRank 339 343	pago
+T67	Term-AttentionRank 131 139	contrato
+T68	Term-AttentionRank 330 335	falta
+T69	Term-AttentionRank 13 22	Extinción
+T70	Term-AttentionRank 117 126	extinción
+T71	Term-Rebel 834 854	despido improcedente
+T72	Term-Rebel 117 139	extinción del contrato
+T73	Term-IATE 473 483	empresario
+T74	Term-IATE 339 343	pago
+T75	Term-IATE 0 8	Artículo
+T76	Term-IATE 253 261	artículo
+T77	Term-IATE 655 664	artículos
+T78	Term-IATE 131 139	contrato
+T79	Term-IATE 40 50	trabajador
+T80	Term-IATE 87 97	trabajador
+T81	Term-IATE 312 322	trabajador
+T82	Term-IATE 569 579	trabajador
+T83	Term-IATE 768 778	trabajador
+T84	Term-IATE 383 390	salario
+T85	Term-IATE 373 378	abono
+T86	Term-IATE 685 694	sentencia
+T87	Term-IATE 463 468	parte
+T88	Term-IATE 13 22	Extinción
+T89	Term-IATE 117 126	extinción
+T90	Term-IATE 330 335	falta
+R1	subclass_of-Rebel Arg1:T71 Arg2:T72

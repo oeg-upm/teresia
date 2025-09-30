@@ -1,0 +1,3 @@
+T1	concept 1846 1855	desempleo
+T2	concept 743 750	despido
+R1	subclass_of Arg1:T1 Arg2:T2

@@ -1,0 +1,146 @@
+T1	Term-DPEJ 71 77	comité
+T2	Term-DPEJ 954 960	comité
+T3	Term-DPEJ 980 990	sindicatos
+T4	Term-DPEJ 643 651	convenio
+T5	Term-DPEJ 58 66	miembros
+T6	Term-DPEJ 941 949	miembros
+T7	Term-DPEJ 115 127	trabajadores
+T8	Term-DPEJ 314 326	trabajadores
+T9	Term-DPEJ 460 472	trabajadores
+T10	Term-DPEJ 735 747	trabajadores
+T11	Term-DPEJ 994 1006	trabajadores
+T12	Term-DPEJ 1209 1221	trabajadores
+T13	Term-DPEJ 0 8	Artículo
+T14	Term-DPEJ 81 88	empresa
+T15	Term-DPEJ 333 340	empresa
+T16	Term-DPEJ 414 421	empresa
+T17	Term-DPEJ 532 539	empresa
+T18	Term-DPEJ 964 971	empresa
+T19	Term-DPEJ 71 88	comité de empresa
+T20	Term-DPEJ 954 971	comité de empresa
+T21	Term-DPEJ 665 670	plazo
+T22	Term-DPEJ 643 661	convenio colectivo
+T23	Term-DPEJ 30 39	delegados
+T24	Term-DPEJ 917 926	delegados
+T25	Term-DPEJ 43 51	personal
+T26	Term-DPEJ 146 154	personal
+T27	Term-DPEJ 621 629	personal
+T28	Term-DPEJ 930 938	personal
+T29	Term-DPEJ 1321 1325	caso
+T30	Term-DPEJ 688 694	límite
+T31	Term-DPEJ 1374 1381	puestos
+T32	Term-DPEJ 1255 1261	número
+T33	Term-DPEJ 1364 1370	número
+T34	Term-DPEJ 1148 1158	resultados
+T35	Term-DPEJ 218 223	forma
+T36	Term-DPEJ 343 349	centro
+T37	Term-DPEJ 1297 1303	centro
+T38	Term-DPEJ 903 913	elecciones
+T39	Term-DPEJ 1306 1313	colegio
+T40	Term-DPEJ 13 21	Elección
+T41	Term-DPEJ 584 595	actividades
+T42	Term-DPEJ 353 360	trabajo
+T43	Term-DPEJ 343 360	centro de trabajo
+T44	Term-DPEJ 137 145	sufragio
+T45	Term-Termcat 643 651	convenio
+T46	Term-Termcat 665 670	plazo
+T47	Term-Termcat 218 223	forma
+T48	Term-Termcat 280 283	ley
+T49	Term-Termcat 0 8	Artículo
+T50	Term-Termcat 1164 1173	coalición
+T51	Term-Termcat 137 145	sufragio
+T52	Term-Termcat 719 729	antigüedad
+T53	Term-Termcat 397 407	antigüedad
+T54	Term-Termcat 515 525	antigüedad
+T55	Term-Termcat 980 990	sindicatos
+T56	Term-Termcat 343 360	centro de trabajo
+T57	Term-Termcat 1384 1390	cubrir
+T58	Term-Termcat 71 88	comité de empresa
+T59	Term-Termcat 954 971	comité de empresa
+T60	Term-Termcat 643 661	convenio colectivo
+T61	Term-Termcat 414 421	empresa
+T62	Term-Termcat 532 539	empresa
+T63	Term-Termcat 333 340	empresa
+T64	Term-Termcat 146 154	personal
+T65	Term-Termcat 930 938	personal
+T66	Term-Termcat 621 629	personal
+T67	Term-Termcat 43 51	personal
+T68	Term-Termcat 261 271	desarrollo
+T69	Term-Termcat 1265 1271	firmas
+T70	Term-Termcat 584 595	actividades
+T71	Term-Termcat 1236 1247	candidatura
+T72	Term-Termcat 1108 1120	denominación
+T73	Term-Termcat 13 21	Elección
+T74	Term-Termcat 903 913	elecciones
+T75	Term-Termcat 446 455	elegibles
+T76	Term-Termcat 783 792	elegibles
+T77	Term-Termcat 173 180	secreto
+T78	Term-Termcat 1148 1158	resultados
+T79	Term-Termcat 205 211	correo
+T80	Term-Termcat 1255 1261	número
+T81	Term-Termcat 1364 1370	número
+T82	Term-Termcat 843 850	párrafo
+T83	Term-AttentionRank 735 747	trabajadores
+T84	Term-AttentionRank 460 472	trabajadores
+T85	Term-AttentionRank 1209 1221	trabajadores
+T86	Term-AttentionRank 115 127	trabajadores
+T87	Term-AttentionRank 314 326	trabajadores
+T88	Term-AttentionRank 994 1030	trabajadores legalmente constituidos
+T89	Term-AttentionRank 446 455	elegibles
+T90	Term-AttentionRank 783 792	elegibles
+T91	Term-AttentionRank 414 421	empresa
+T92	Term-AttentionRank 964 971	empresa
+T93	Term-AttentionRank 81 88	empresa
+T94	Term-AttentionRank 333 340	empresa
+T95	Term-AttentionRank 532 539	empresa
+T96	Term-AttentionRank 930 938	personal
+T97	Term-AttentionRank 621 629	personal
+T98	Term-AttentionRank 43 51	personal
+T99	Term-AttentionRank 1297 1303	centro
+T100	Term-AttentionRank 343 349	centro
+T101	Term-AttentionRank 771 780	electores
+T102	Term-AttentionRank 1275 1284	electores
+T103	Term-AttentionRank 294 303	electores
+T104	Term-AttentionRank 137 154	sufragio personal
+T105	Term-AttentionRank 688 701	límite mínimo
+T106	Term-AttentionRank 559 564	meses
+T107	Term-AttentionRank 710 715	meses
+T108	Term-AttentionRank 643 661	convenio colectivo
+T109	Term-AttentionRank 244 257	disposiciones
+T110	Term-AttentionRank 917 926	delegados
+T111	Term-AttentionRank 30 39	delegados
+T112	Term-AttentionRank 1255 1261	número
+T113	Term-AttentionRank 1364 1370	número
+T114	Term-AttentionRank 382 386	años
+T115	Term-AttentionRank 494 498	años
+T116	Term-Rebel 980 990	sindicatos
+T117	Term-Rebel 1041 1052	coaliciones
+T118	Term-IATE 0 8	Artículo
+T119	Term-IATE 883 893	candidatos
+T120	Term-IATE 1306 1313	colegio
+T121	Term-IATE 1306 1313	colegio
+T122	Term-IATE 115 127	trabajadores
+T123	Term-IATE 314 326	trabajadores
+T124	Term-IATE 460 472	trabajadores
+T125	Term-IATE 735 747	trabajadores
+T126	Term-IATE 994 1006	trabajadores
+T127	Term-IATE 1209 1221	trabajadores
+T128	Term-IATE 665 670	plazo
+T129	Term-IATE 843 850	párrafo
+T130	Term-IATE 748 759	extranjeros
+T131	Term-IATE 584 595	actividades
+T132	Term-IATE 643 651	convenio
+T133	Term-IATE 58 66	miembros
+T134	Term-IATE 941 949	miembros
+T135	Term-IATE 643 661	convenio colectivo
+T136	Term-IATE 30 39	delegados
+T137	Term-IATE 917 926	delegados
+T138	Term-IATE 439 442	mes
+T139	Term-IATE 559 564	meses
+T140	Term-IATE 710 715	meses
+T141	Term-IATE 81 88	empresa
+T142	Term-IATE 333 340	empresa
+T143	Term-IATE 414 421	empresa
+T144	Term-IATE 532 539	empresa
+T145	Term-IATE 964 971	empresa
+R1	subclass_of-Rebel Arg1:T116 Arg2:T117

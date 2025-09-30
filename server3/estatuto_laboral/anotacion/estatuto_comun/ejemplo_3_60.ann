@@ -1,0 +1,147 @@
+T1	Term-DPEJ 1314 1320	prueba
+T2	Term-DPEJ 906 912	recibo
+T3	Term-DPEJ 1392 1400	personas
+T4	Term-DPEJ 24 30	tiempo
+T5	Term-DPEJ 119 125	tiempo
+T6	Term-DPEJ 329 335	tiempo
+T7	Term-DPEJ 700 706	tiempo
+T8	Term-DPEJ 792 798	tiempo
+T9	Term-DPEJ 1416 1422	tiempo
+T10	Term-DPEJ 1482 1488	tiempo
+T11	Term-DPEJ 1695 1701	tiempo
+T12	Term-DPEJ 287 295	convenio
+T13	Term-DPEJ 1635 1644	convenios
+T14	Term-DPEJ 104 116	trabajadores
+T15	Term-DPEJ 314 326	trabajadores
+T16	Term-DPEJ 777 789	trabajadores
+T17	Term-DPEJ 1467 1479	trabajadores
+T18	Term-DPEJ 881 891	trabajador
+T19	Term-DPEJ 433 441	artículo
+T20	Term-DPEJ 1450 1458	derechos
+T21	Term-DPEJ 1553 1561	derechos
+T22	Term-DPEJ 521 529	apartado
+T23	Term-DPEJ 730 738	apartado
+T24	Term-DPEJ 1047 1055	apartado
+T25	Term-DPEJ 287 305	convenio colectivo
+T26	Term-DPEJ 1635 1655	convenios colectivos
+T27	Term-DPEJ 68 75	jornada
+T28	Term-DPEJ 230 237	jornada
+T29	Term-DPEJ 762 769	jornada
+T30	Term-DPEJ 1134 1141	jornada
+T31	Term-DPEJ 1290 1297	jornada
+T32	Term-DPEJ 13 21	contrato
+T33	Term-DPEJ 1256 1264	contrato
+T34	Term-DPEJ 1751 1759	ausencia
+T35	Term-DPEJ 541 545	caso
+T36	Term-DPEJ 1187 1191	caso
+T37	Term-DPEJ 1743 1747	caso
+T38	Term-DPEJ 916 924	salarios
+T39	Term-DPEJ 673 679	límite
+T40	Term-DPEJ 156 161	forma
+T41	Term-DPEJ 1374 1383	servicios
+T42	Term-DPEJ 1392 1413	personas trabajadoras
+T43	Term-DPEJ 1763 1777	discriminación
+T44	Term-DPEJ 690 697	trabajo
+T45	Term-Termcat 287 295	convenio
+T46	Term-Termcat 1635 1644	convenios
+T47	Term-Termcat 1314 1320	prueba
+T48	Term-Termcat 1374 1383	servicios
+T49	Term-Termcat 1751 1759	ausencia
+T50	Term-Termcat 1256 1264	contrato
+T51	Term-Termcat 13 21	contrato
+T52	Term-Termcat 273 277	cosa
+T53	Term-Termcat 156 161	forma
+T54	Term-Termcat 906 912	recibo
+T55	Term-Termcat 433 441	artículo
+T56	Term-Termcat 930 937	resumen
+T57	Term-Termcat 1521 1529	atención
+T58	Term-Termcat 287 305	convenio colectivo
+T59	Term-Termcat 1635 1655	convenios colectivos
+T60	Term-Termcat 1763 1777	discriminación
+T61	Term-Termcat 1683 1690	función
+T62	Term-Termcat 466 487	horas complementarias
+T63	Term-Termcat 363 384	horas extraordinarias
+T64	Term-Termcat 1290 1306	jornada completa
+T65	Term-Termcat 230 244	jornada diaria
+T66	Term-Termcat 68 82	jornada diaria
+T67	Term-Termcat 916 924	salarios
+T68	Term-Termcat 690 714	trabajo a tiempo parcial
+T69	Term-Termcat 1450 1458	derechos
+T70	Term-Termcat 1553 1561	derechos
+T71	Term-Termcat 1392 1400	personas
+T72	Term-Termcat 750 757	efectos
+T73	Term-Termcat 1121 1130	registros
+T74	Term-Termcat 1243 1251	registro
+T75	Term-Termcat 1815 1822	mujeres
+T76	Term-Termcat 51 60	ejecución
+T77	Term-Termcat 1825 1832	hombres
+T78	Term-Termcat 1195 1209	incumplimiento
+T79	Term-Termcat 208 220	interrupción
+T80	Term-Termcat 680 685	legal
+T81	Term-Termcat 1601 1608	legales
+T82	Term-Termcat 162 169	partida
+T83	Term-Termcat 1350 1358	carácter
+T84	Term-Termcat 872 877	copia
+T85	Term-Termcat 451 462	realización
+T86	Term-AttentionRank 329 343	tiempo parcial
+T87	Term-AttentionRank 24 38	tiempo parcial
+T88	Term-AttentionRank 1416 1430	tiempo parcial
+T89	Term-AttentionRank 792 806	tiempo parcial
+T90	Term-AttentionRank 363 368	horas
+T91	Term-AttentionRank 466 471	horas
+T92	Term-AttentionRank 951 956	horas
+T93	Term-AttentionRank 700 738	tiempo parcial definido en el apartado
+T94	Term-AttentionRank 762 769	jornada
+T95	Term-AttentionRank 1134 1141	jornada
+T96	Term-AttentionRank 1290 1297	jornada
+T97	Term-AttentionRank 1683 1711	función del tiempo trabajado
+T98	Term-AttentionRank 1467 1479	trabajadores
+T99	Term-AttentionRank 314 326	trabajadores
+T100	Term-AttentionRank 777 789	trabajadores
+T101	Term-AttentionRank 104 116	trabajadores
+T102	Term-AttentionRank 230 244	jornada diaria
+T103	Term-AttentionRank 68 82	jornada diaria
+T104	Term-AttentionRank 1256 1264	contrato
+T105	Term-AttentionRank 13 21	contrato
+T106	Term-AttentionRank 562 578	horas ordinarias
+T107	Term-AttentionRank 1587 1608	disposiciones legales
+T108	Term-AttentionRank 119 134	tiempo completo
+T109	Term-AttentionRank 1482 1497	tiempo completo
+T110	Term-AttentionRank 1450 1458	derechos
+T111	Term-AttentionRank 1553 1561	derechos
+T112	Term-AttentionRank 1047 1055	apartado
+T113	Term-AttentionRank 521 529	apartado
+T114	Term-AttentionRank 827 830	día
+T115	Term-AttentionRank 821 824	día
+T116	Term-AttentionRank 1121 1130	registros
+T117	Term-AttentionRank 1243 1251	registro
+T118	Term-IATE 1062 1072	empresario
+T119	Term-IATE 521 529	apartado
+T120	Term-IATE 730 738	apartado
+T121	Term-IATE 1047 1055	apartado
+T122	Term-IATE 433 441	artículo
+T123	Term-IATE 1763 1777	discriminación
+T124	Term-IATE 13 21	contrato
+T125	Term-IATE 1256 1264	contrato
+T126	Term-IATE 104 116	trabajadores
+T127	Term-IATE 314 326	trabajadores
+T128	Term-IATE 777 789	trabajadores
+T129	Term-IATE 1467 1479	trabajadores
+T130	Term-IATE 881 891	trabajador
+T131	Term-IATE 162 169	partida
+T132	Term-IATE 916 924	salarios
+T133	Term-IATE 287 295	convenio
+T134	Term-IATE 1635 1644	convenios
+T135	Term-IATE 1683 1690	función
+T136	Term-IATE 1121 1130	registros
+T137	Term-IATE 1121 1130	registros
+T138	Term-IATE 1243 1251	registro
+T139	Term-IATE 1243 1251	registro
+T140	Term-IATE 287 305	convenio colectivo
+T141	Term-IATE 1635 1655	convenios colectivos
+T142	Term-IATE 1825 1832	hombres
+T143	Term-IATE 976 979	mes
+T144	Term-IATE 1815 1822	mujeres
+T145	Term-IATE 451 462	realización
+T146	Term-IATE 1314 1320	prueba
+T147	Term-IATE 1350 1358	carácter

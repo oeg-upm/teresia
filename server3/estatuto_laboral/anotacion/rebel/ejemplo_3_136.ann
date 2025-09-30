@@ -1,0 +1,3 @@
+T1	concept 1566 1584	edad de jubilación
+T2	concept 1533 1551	jubilación parcial
+R1	different_from Arg1:T1 Arg2:T2

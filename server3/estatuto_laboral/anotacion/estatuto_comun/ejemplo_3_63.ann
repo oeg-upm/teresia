@@ -1,0 +1,165 @@
+T1	Term-DPEJ 1757 1762	nivel
+T2	Term-DPEJ 1572 1578	prueba
+T3	Term-DPEJ 762 769	persona
+T4	Term-DPEJ 1453 1460	persona
+T5	Term-DPEJ 154 160	tiempo
+T6	Term-DPEJ 826 832	tiempo
+T7	Term-DPEJ 1053 1059	tiempo
+T8	Term-DPEJ 495 504	convenios
+T9	Term-DPEJ 579 588	convenios
+T10	Term-DPEJ 1645 1653	convenio
+T11	Term-DPEJ 1203 1211	artículo
+T12	Term-DPEJ 139 146	empresa
+T13	Term-DPEJ 814 821	empresa
+T14	Term-DPEJ 1009 1016	empresa
+T15	Term-DPEJ 1217 1224	títulos
+T16	Term-DPEJ 1502 1508	título
+T17	Term-DPEJ 872 880	apartado
+T18	Term-DPEJ 1099 1107	apartado
+T19	Term-DPEJ 495 515	convenios colectivos
+T20	Term-DPEJ 579 599	convenios colectivos
+T21	Term-DPEJ 1645 1663	convenio colectivo
+T22	Term-DPEJ 401 409	contrato
+T23	Term-DPEJ 1397 1405	contrato
+T24	Term-DPEJ 1801 1809	contrato
+T25	Term-DPEJ 1593 1597	caso
+T26	Term-DPEJ 519 525	ámbito
+T27	Term-DPEJ 615 621	ámbito
+T28	Term-DPEJ 483 490	límites
+T29	Term-DPEJ 1031 1037	puesto
+T30	Term-DPEJ 1671 1677	puesto
+T31	Term-DPEJ 269 274	parte
+T32	Term-DPEJ 699 705	sector
+T33	Term-DPEJ 1453 1472	persona trabajadora
+T34	Term-DPEJ 579 611	convenios colectivos sectoriales
+T35	Term-DPEJ 84 93	actividad
+T36	Term-DPEJ 116 125	actividad
+T37	Term-DPEJ 1041 1048	trabajo
+T38	Term-DPEJ 1681 1688	trabajo
+T39	Term-Termcat 334 345	certificado
+T40	Term-Termcat 1168 1179	certificado
+T41	Term-Termcat 925 936	certificado
+T42	Term-Termcat 579 588	convenios
+T43	Term-Termcat 495 504	convenios
+T44	Term-Termcat 1645 1653	convenio
+T45	Term-Termcat 1757 1762	nivel
+T46	Term-Termcat 1572 1578	prueba
+T47	Term-Termcat 1397 1405	contrato
+T48	Term-Termcat 401 409	contrato
+T49	Term-Termcat 1801 1809	contrato
+T50	Term-Termcat 1228 1233	grado
+T51	Term-Termcat 1489 1497	posesión
+T52	Term-Termcat 1217 1224	títulos
+T53	Term-Termcat 1502 1508	título
+T54	Term-Termcat 1203 1211	artículo
+T55	Term-Termcat 269 274	parte
+T56	Term-Termcat 495 515	convenios colectivos
+T57	Term-Termcat 1645 1663	convenio colectivo
+T58	Term-Termcat 579 611	convenios colectivos sectoriales
+T59	Term-Termcat 279 288	currículo
+T60	Term-Termcat 1009 1016	empresa
+T61	Term-Termcat 814 821	empresa
+T62	Term-Termcat 139 146	empresa
+T63	Term-Termcat 48 71	experiencia profesional
+T64	Term-Termcat 1780 1789	formación
+T65	Term-Termcat 236 245	formación
+T66	Term-Termcat 987 996	formación
+T67	Term-Termcat 1671 1688	puesto de trabajo
+T68	Term-Termcat 1031 1048	puesto de trabajo
+T69	Term-Termcat 715 724	prácticas
+T70	Term-Termcat 248 257	prácticas
+T71	Term-Termcat 384 392	duración
+T72	Term-Termcat 652 660	duración
+T73	Term-Termcat 762 769	persona
+T74	Term-Termcat 1453 1460	persona
+T75	Term-Termcat 84 93	actividad
+T76	Term-Termcat 116 125	actividad
+T77	Term-Termcat 364 376	contratación
+T78	Term-Termcat 1187 1194	efectos
+T79	Term-Termcat 212 219	efectos
+T80	Term-Termcat 1561 1578	periodo de prueba
+T81	Term-Termcat 526 535	sectorial
+T82	Term-Termcat 833 841	superior
+T83	Term-Termcat 161 169	superior
+T84	Term-Termcat 1060 1068	superior
+T85	Term-Termcat 1509 1517	superior
+T86	Term-Termcat 1547 1557	establecer
+T87	Term-Termcat 1429 1437	práctica
+T88	Term-Termcat 1724 1732	práctica
+T89	Term-Termcat 1235 1241	máster
+T90	Term-Termcat 1414 1425	realización
+T91	Term-AttentionRank 1053 1116	tiempo superior a los máximos previstos en el apartado anterior
+T92	Term-AttentionRank 826 922	tiempo superior a los máximos previstos en el apartado anterior en virtud de la misma titulación
+T93	Term-AttentionRank 279 331	currículo exigido para la obtención de la titulación
+T94	Term-AttentionRank 154 171	tiempo superior a
+T95	Term-AttentionRank 579 599	convenios colectivos
+T96	Term-AttentionRank 495 515	convenios colectivos
+T97	Term-AttentionRank 1329 1339	titulación
+T98	Term-AttentionRank 1146 1156	titulación
+T99	Term-AttentionRank 1671 1677	puesto
+T100	Term-AttentionRank 1031 1037	puesto
+T101	Term-AttentionRank 1780 1789	formación
+T102	Term-AttentionRank 236 245	formación
+T103	Term-AttentionRank 987 996	formación
+T104	Term-AttentionRank 1397 1405	contrato
+T105	Term-AttentionRank 401 409	contrato
+T106	Term-AttentionRank 1801 1809	contrato
+T107	Term-AttentionRank 84 93	actividad
+T108	Term-AttentionRank 116 125	actividad
+T109	Term-AttentionRank 224 232	periodos
+T110	Term-AttentionRank 1561 1568	periodo
+T111	Term-AttentionRank 177 182	meses
+T112	Term-AttentionRank 439 444	meses
+T113	Term-AttentionRank 1217 1224	títulos
+T114	Term-AttentionRank 762 769	persona
+T115	Term-AttentionRank 1453 1460	persona
+T116	Term-AttentionRank 1009 1016	empresa
+T117	Term-AttentionRank 814 821	empresa
+T118	Term-AttentionRank 139 146	empresa
+T119	Term-Rebel 1235 1241	máster
+T120	Term-Rebel 1228 1233	grado
+T121	Term-IATE 872 880	apartado
+T122	Term-IATE 1099 1107	apartado
+T123	Term-IATE 334 345	certificado
+T124	Term-IATE 925 936	certificado
+T125	Term-IATE 1168 1179	certificado
+T126	Term-IATE 1203 1211	artículo
+T127	Term-IATE 384 392	duración
+T128	Term-IATE 652 660	duración
+T129	Term-IATE 248 257	prácticas
+T130	Term-IATE 715 724	prácticas
+T131	Term-IATE 401 409	contrato
+T132	Term-IATE 1397 1405	contrato
+T133	Term-IATE 1801 1809	contrato
+T134	Term-IATE 1757 1762	nivel
+T135	Term-IATE 84 93	actividad
+T136	Term-IATE 116 125	actividad
+T137	Term-IATE 495 504	convenios
+T138	Term-IATE 579 588	convenios
+T139	Term-IATE 1645 1653	convenio
+T140	Term-IATE 236 245	formación
+T141	Term-IATE 987 996	formación
+T142	Term-IATE 1780 1789	formación
+T143	Term-IATE 269 274	parte
+T144	Term-IATE 699 705	sector
+T145	Term-IATE 1217 1224	títulos
+T146	Term-IATE 1502 1508	título
+T147	Term-IATE 495 515	convenios colectivos
+T148	Term-IATE 579 599	convenios colectivos
+T149	Term-IATE 1645 1663	convenio colectivo
+T150	Term-IATE 679 694	características
+T151	Term-IATE 177 182	meses
+T152	Term-IATE 439 444	meses
+T153	Term-IATE 1618 1621	mes
+T154	Term-IATE 1414 1425	realización
+T155	Term-IATE 1572 1578	prueba
+T156	Term-IATE 1277 1285	estudios
+T157	Term-IATE 1766 1774	estudios
+T158	Term-IATE 139 146	empresa
+T159	Term-IATE 814 821	empresa
+T160	Term-IATE 1009 1016	empresa
+T161	Term-IATE 321 331	titulación
+T162	Term-IATE 912 922	titulación
+T163	Term-IATE 1146 1156	titulación
+T164	Term-IATE 1329 1339	titulación
+R1	instance_of-Rebel Arg1:T119 Arg2:T120

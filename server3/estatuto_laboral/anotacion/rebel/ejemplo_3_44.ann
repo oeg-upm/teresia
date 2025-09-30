@@ -1,0 +1,3 @@
+T1	concept 12 29	Deberes laborales
+T2	concept 632 651	contrato de trabajo
+R1	part_of Arg1:T1 Arg2:T2

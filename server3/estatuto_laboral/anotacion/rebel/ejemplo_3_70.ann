@@ -1,0 +1,3 @@
+T1	concept 875 888	Días festivos
+T2	concept 838 856	Tiempos de trabajo
+R1	subclass_of Arg1:T1 Arg2:T2

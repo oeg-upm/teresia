@@ -1,0 +1,3 @@
+T1	concept 503 512	desempleo
+T2	concept 488 512	prestación por desempleo
+R1	different_from Arg1:T1 Arg2:T2

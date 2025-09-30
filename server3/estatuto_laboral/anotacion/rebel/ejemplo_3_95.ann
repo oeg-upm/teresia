@@ -1,0 +1,3 @@
+T1	concept 390 408	contrato de relevo
+T2	concept 1583 1603	contrato de duración
+R1	subclass_of Arg1:T1 Arg2:T2

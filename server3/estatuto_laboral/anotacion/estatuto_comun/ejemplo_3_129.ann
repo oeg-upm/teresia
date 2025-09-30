@@ -1,0 +1,155 @@
+T1	Term-DPEJ 146 165	resolución judicial
+T2	Term-DPEJ 377 384	persona
+T3	Term-DPEJ 704 711	persona
+T4	Term-DPEJ 1128 1135	persona
+T5	Term-DPEJ 1254 1261	persona
+T6	Term-DPEJ 651 657	tiempo
+T7	Term-DPEJ 1425 1434	convenios
+T8	Term-DPEJ 354 364	suspensión
+T9	Term-DPEJ 564 574	suspensión
+T10	Term-DPEJ 944 954	suspensión
+T11	Term-DPEJ 276 287	acogimiento
+T12	Term-DPEJ 325 332	derecho
+T13	Term-DPEJ 1100 1107	derecho
+T14	Term-DPEJ 1368 1375	derecho
+T15	Term-DPEJ 1516 1523	derecho
+T16	Term-DPEJ 511 518	empresa
+T17	Term-DPEJ 691 698	empresa
+T18	Term-DPEJ 1296 1303	empresa
+T19	Term-DPEJ 1547 1554	empresa
+T20	Term-DPEJ 741 749	términos
+T21	Term-DPEJ 1383 1391	términos
+T22	Term-DPEJ 987 995	apartado
+T23	Term-DPEJ 1425 1445	convenios colectivos
+T24	Term-DPEJ 630 637	jornada
+T25	Term-DPEJ 299 303	caso
+T26	Term-DPEJ 443 447	caso
+T27	Term-DPEJ 974 978	caso
+T28	Term-DPEJ 1412 1416	caso
+T29	Term-DPEJ 146 156	resolución
+T30	Term-DPEJ 1046 1056	resolución
+T31	Term-DPEJ 674 681	acuerdo
+T32	Term-DPEJ 1196 1205	adoptante
+T33	Term-DPEJ 1462 1472	adoptantes
+T34	Term-DPEJ 73 78	forma
+T35	Term-DPEJ 377 396	persona trabajadora
+T36	Term-DPEJ 704 723	persona trabajadora
+T37	Term-DPEJ 1128 1147	persona trabajadora
+T38	Term-DPEJ 1254 1273	persona trabajadora
+T39	Term-DPEJ 215 223	decisión
+T40	Term-Termcat 1425 1434	convenios
+T41	Term-Termcat 146 156	resolución
+T42	Term-Termcat 1046 1056	resolución
+T43	Term-Termcat 1383 1391	términos
+T44	Term-Termcat 741 749	términos
+T45	Term-Termcat 262 270	adopción
+T46	Term-Termcat 1085 1093	adopción
+T47	Term-Termcat 1230 1238	adopción
+T48	Term-Termcat 194 202	adopción
+T49	Term-Termcat 808 816	adopción
+T50	Term-Termcat 1196 1205	adoptante
+T51	Term-Termcat 1462 1472	adoptantes
+T52	Term-Termcat 205 209	bien
+T53	Term-Termcat 73 78	forma
+T54	Term-Termcat 1578 1586	disfrute
+T55	Term-Termcat 401 409	disfrute
+T56	Term-Termcat 242 248	guarda
+T57	Term-Termcat 1425 1445	convenios colectivos
+T58	Term-Termcat 511 518	empresa
+T59	Term-Termcat 691 698	empresa
+T60	Term-Termcat 1296 1303	empresa
+T61	Term-Termcat 1547 1554	empresa
+T62	Term-Termcat 630 646	jornada completa
+T63	Term-Termcat 9 16	semanas
+T64	Term-Termcat 1610 1617	semanas
+T65	Term-Termcat 1026 1033	semanas
+T66	Term-Termcat 589 596	semanas
+T67	Term-Termcat 215 223	decisión
+T68	Term-Termcat 1516 1523	derecho
+T69	Term-Termcat 1368 1375	derecho
+T70	Term-Termcat 325 332	derecho
+T71	Term-Termcat 1100 1107	derecho
+T72	Term-Termcat 817 830	internacional
+T73	Term-Termcat 1128 1135	persona
+T74	Term-Termcat 704 711	persona
+T75	Term-Termcat 1254 1261	persona
+T76	Term-Termcat 377 384	persona
+T77	Term-Termcat 901 915	país de origen
+T78	Term-Termcat 944 954	suspensión
+T79	Term-Termcat 564 574	suspensión
+T80	Term-Termcat 354 364	suspensión
+T81	Term-Termcat 146 165	resolución judicial
+T82	Term-Termcat 276 287	acogimiento
+T83	Term-Termcat 674 681	acuerdo
+T84	Term-Termcat 856 870	desplazamiento
+T85	Term-Termcat 1350 1359	ejercicio
+T86	Term-Termcat 1178 1187	ejercicio
+T87	Term-Termcat 1111 1121	individual
+T88	Term-Termcat 314 319	menor
+T89	Term-Termcat 619 626	régimen
+T90	Term-Termcat 1281 1290	comunicar
+T91	Term-AttentionRank 124 172	meses siguientes a la resolución judicial por la
+T92	Term-AttentionRank 377 396	persona trabajadora
+T93	Term-AttentionRank 1128 1147	persona trabajadora
+T94	Term-AttentionRank 704 723	persona trabajadora
+T95	Term-AttentionRank 1254 1273	persona trabajadora
+T96	Term-AttentionRank 262 270	adopción
+T97	Term-AttentionRank 1085 1093	adopción
+T98	Term-AttentionRank 1230 1238	adopción
+T99	Term-AttentionRank 194 202	adopción
+T100	Term-AttentionRank 808 816	adopción
+T101	Term-AttentionRank 1516 1523	derecho
+T102	Term-AttentionRank 1368 1375	derecho
+T103	Term-AttentionRank 325 332	derecho
+T104	Term-AttentionRank 1100 1107	derecho
+T105	Term-AttentionRank 1196 1205	adoptante
+T106	Term-AttentionRank 1462 1472	adoptantes
+T107	Term-AttentionRank 9 16	semanas
+T108	Term-AttentionRank 1610 1617	semanas
+T109	Term-AttentionRank 1026 1033	semanas
+T110	Term-AttentionRank 589 596	semanas
+T111	Term-AttentionRank 527 544	antelación mínima
+T112	Term-AttentionRank 1313 1330	antelación mínima
+T113	Term-AttentionRank 856 897	desplazamiento previo de los progenitores
+T114	Term-AttentionRank 1221 1226	fines
+T115	Term-AttentionRank 253 258	fines
+T116	Term-AttentionRank 974 978	caso
+T117	Term-AttentionRank 443 447	caso
+T118	Term-AttentionRank 299 303	caso
+T119	Term-AttentionRank 1412 1416	caso
+T120	Term-AttentionRank 511 518	empresa
+T121	Term-AttentionRank 691 698	empresa
+T122	Term-AttentionRank 1296 1303	empresa
+T123	Term-AttentionRank 1547 1554	empresa
+T124	Term-AttentionRank 944 954	suspensión
+T125	Term-AttentionRank 564 574	suspensión
+T126	Term-AttentionRank 354 364	suspensión
+T127	Term-AttentionRank 1578 1597	disfrute simultáneo
+T128	Term-AttentionRank 1634 1650	razones fundadas
+T129	Term-Rebel 808 830	adopción internacional
+T130	Term-Rebel 920 928	adoptado
+T131	Term-IATE 987 995	apartado
+T132	Term-IATE 885 897	progenitores
+T133	Term-IATE 194 202	adopción
+T134	Term-IATE 262 270	adopción
+T135	Term-IATE 808 816	adopción
+T136	Term-IATE 1085 1093	adopción
+T137	Term-IATE 1230 1238	adopción
+T138	Term-IATE 354 364	suspensión
+T139	Term-IATE 564 574	suspensión
+T140	Term-IATE 944 954	suspensión
+T141	Term-IATE 1425 1434	convenios
+T142	Term-IATE 215 223	decisión
+T143	Term-IATE 808 830	adopción internacional
+T144	Term-IATE 1425 1445	convenios colectivos
+T145	Term-IATE 124 129	meses
+T146	Term-IATE 146 156	resolución
+T147	Term-IATE 1046 1056	resolución
+T148	Term-IATE 674 681	acuerdo
+T149	Term-IATE 511 518	empresa
+T150	Term-IATE 691 698	empresa
+T151	Term-IATE 1296 1303	empresa
+T152	Term-IATE 1547 1554	empresa
+T153	Term-IATE 1178 1187	ejercicio
+T154	Term-IATE 1350 1359	ejercicio
+R1	subclass_of-Rebel Arg1:T129 Arg2:T130

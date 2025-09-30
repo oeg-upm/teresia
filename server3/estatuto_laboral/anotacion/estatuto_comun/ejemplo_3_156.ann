@@ -1,0 +1,144 @@
+T1	Term-DPEJ 260 266	comité
+T2	Term-DPEJ 438 444	comité
+T3	Term-DPEJ 607 615	personas
+T4	Term-DPEJ 819 827	personas
+T5	Term-DPEJ 30 42	trabajadores
+T6	Term-DPEJ 101 113	trabajadores
+T7	Term-DPEJ 318 330	trabajadores
+T8	Term-DPEJ 0 8	Artículo
+T9	Term-DPEJ 85 93	artículo
+T10	Term-DPEJ 727 732	orden
+T11	Term-DPEJ 162 169	derecho
+T12	Term-DPEJ 127 134	empresa
+T13	Term-DPEJ 270 277	empresa
+T14	Term-DPEJ 448 455	empresa
+T15	Term-DPEJ 639 646	empresa
+T16	Term-DPEJ 851 858	empresa
+T17	Term-DPEJ 987 994	empresa
+T18	Term-DPEJ 260 277	comité de empresa
+T19	Term-DPEJ 438 455	comité de empresa
+T20	Term-DPEJ 727 740	orden del día
+T21	Term-DPEJ 234 243	delegados
+T22	Term-DPEJ 466 475	delegados
+T23	Term-DPEJ 247 255	personal
+T24	Term-DPEJ 479 487	personal
+T25	Term-DPEJ 425 429	caso
+T26	Term-DPEJ 50 61	conformidad
+T27	Term-DPEJ 308 314	número
+T28	Term-DPEJ 137 143	centro
+T29	Term-DPEJ 280 286	centro
+T30	Term-DPEJ 1024 1030	turnos
+T31	Term-DPEJ 17 26	asambleas
+T32	Term-DPEJ 184 192	asamblea
+T33	Term-DPEJ 197 205	asamblea
+T34	Term-DPEJ 392 400	asamblea
+T35	Term-DPEJ 595 603	asamblea
+T36	Term-DPEJ 884 892	asamblea
+T37	Term-DPEJ 1086 1099	circunstancia
+T38	Term-DPEJ 964 973	actividad
+T39	Term-DPEJ 147 154	trabajo
+T40	Term-DPEJ 290 297	trabajo
+T41	Term-DPEJ 917 924	medidas
+T42	Term-DPEJ 137 154	centro de trabajo
+T43	Term-DPEJ 280 297	centro de trabajo
+T44	Term-Termcat 727 732	orden
+T45	Term-Termcat 804 811	nombres
+T46	Term-Termcat 0 8	Artículo
+T47	Term-Termcat 85 93	artículo
+T48	Term-Termcat 727 740	orden del día
+T49	Term-Termcat 964 980	actividad normal
+T50	Term-Termcat 137 154	centro de trabajo
+T51	Term-Termcat 280 297	centro de trabajo
+T52	Term-Termcat 438 455	comité de empresa
+T53	Term-Termcat 260 277	comité de empresa
+T54	Term-Termcat 987 994	empresa
+T55	Term-Termcat 639 646	empresa
+T56	Term-Termcat 127 134	empresa
+T57	Term-Termcat 851 858	empresa
+T58	Term-Termcat 247 255	personal
+T59	Term-Termcat 479 487	personal
+T60	Term-Termcat 1143 1152	plantilla
+T61	Term-Termcat 378 387	plantilla
+T62	Term-Termcat 1024 1030	turnos
+T63	Term-Termcat 1193 1203	desarrollo
+T64	Term-Termcat 540 550	desarrollo
+T65	Term-Termcat 162 169	derecho
+T66	Term-Termcat 819 827	personas
+T67	Term-Termcat 607 615	personas
+T68	Term-Termcat 50 61	conformidad
+T69	Term-Termcat 964 973	actividad
+T70	Term-Termcat 17 26	asambleas
+T71	Term-Termcat 392 400	asamblea
+T72	Term-Termcat 184 192	asamblea
+T73	Term-Termcat 884 892	asamblea
+T74	Term-Termcat 595 603	asamblea
+T75	Term-Termcat 197 205	asamblea
+T76	Term-Termcat 1086 1099	circunstancia
+T77	Term-Termcat 785 797	convocatoria
+T78	Term-Termcat 947 957	perjuicios
+T79	Term-Termcat 1157 1166	perjuicio
+T80	Term-Termcat 1210 1220	producción
+T81	Term-Termcat 1169 1179	alteración
+T82	Term-Termcat 871 878	asistir
+T83	Term-Termcat 579 588	presencia
+T84	Term-Termcat 308 314	número
+T85	Term-AttentionRank 607 646	personas no pertenecientes a la empresa
+T86	Term-AttentionRank 819 858	personas no pertenecientes a la empresa
+T87	Term-AttentionRank 17 26	asambleas
+T88	Term-AttentionRank 392 400	asamblea
+T89	Term-AttentionRank 184 192	asamblea
+T90	Term-AttentionRank 884 892	asamblea
+T91	Term-AttentionRank 595 603	asamblea
+T92	Term-AttentionRank 197 205	asamblea
+T93	Term-AttentionRank 987 994	empresa
+T94	Term-AttentionRank 127 134	empresa
+T95	Term-AttentionRank 270 277	empresa
+T96	Term-AttentionRank 448 455	empresa
+T97	Term-AttentionRank 1186 1203	normal desarrollo
+T98	Term-AttentionRank 533 550	normal desarrollo
+T99	Term-AttentionRank 318 345	trabajadores no inferior al
+T100	Term-AttentionRank 101 113	trabajadores
+T101	Term-AttentionRank 30 42	trabajadores
+T102	Term-AttentionRank 0 8	Artículo
+T103	Term-AttentionRank 85 93	artículo
+T104	Term-AttentionRank 737 740	día
+T105	Term-AttentionRank 137 143	centro
+T106	Term-AttentionRank 280 286	centro
+T107	Term-AttentionRank 1326 1343	día de la primera
+T108	Term-AttentionRank 147 154	trabajo
+T109	Term-AttentionRank 290 297	trabajo
+T110	Term-AttentionRank 247 255	personal
+T111	Term-AttentionRank 479 487	personal
+T112	Term-AttentionRank 1226 1254	diversas reuniones parciales
+T113	Term-AttentionRank 727 732	orden
+T114	Term-AttentionRank 162 169	derecho
+T115	Term-Rebel 1024 1030	turnos
+T116	Term-Rebel 1210 1220	producción
+T117	Term-IATE 771 781	empresario
+T118	Term-IATE 0 8	Artículo
+T119	Term-IATE 85 93	artículo
+T120	Term-IATE 17 26	asambleas
+T121	Term-IATE 184 192	asamblea
+T122	Term-IATE 197 205	asamblea
+T123	Term-IATE 392 400	asamblea
+T124	Term-IATE 595 603	asamblea
+T125	Term-IATE 884 892	asamblea
+T126	Term-IATE 727 732	orden
+T127	Term-IATE 947 957	perjuicios
+T128	Term-IATE 1157 1166	perjuicio
+T129	Term-IATE 745 756	presidencia
+T130	Term-IATE 30 42	trabajadores
+T131	Term-IATE 101 113	trabajadores
+T132	Term-IATE 318 330	trabajadores
+T133	Term-IATE 964 973	actividad
+T134	Term-IATE 50 61	conformidad
+T135	Term-IATE 785 797	convocatoria
+T136	Term-IATE 234 243	delegados
+T137	Term-IATE 466 475	delegados
+T138	Term-IATE 127 134	empresa
+T139	Term-IATE 270 277	empresa
+T140	Term-IATE 448 455	empresa
+T141	Term-IATE 639 646	empresa
+T142	Term-IATE 851 858	empresa
+T143	Term-IATE 987 994	empresa
+R1	part_of-Rebel Arg1:T115 Arg2:T116

@@ -1,0 +1,3 @@
+T1	concept 599 625	extinción de los contratos
+T2	concept 557 569	fuerza mayor
+R1	has_cause Arg1:T1 Arg2:T2

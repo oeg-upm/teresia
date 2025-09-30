@@ -1,0 +1,94 @@
+T1	Term-DPEJ 526 534	materias
+T2	Term-DPEJ 589 595	tiempo
+T3	Term-DPEJ 74 83	dirección
+T4	Term-DPEJ 669 676	cuantía
+T5	Term-DPEJ 0 8	Artículo
+T6	Term-DPEJ 343 355	organización
+T7	Term-DPEJ 572 584	distribución
+T8	Term-DPEJ 677 685	salarial
+T9	Term-DPEJ 90 97	empresa
+T10	Term-DPEJ 384 391	empresa
+T11	Term-DPEJ 539 546	Jornada
+T12	Term-DPEJ 760 767	límites
+T13	Term-DPEJ 622 638	trabajo a turnos
+T14	Term-DPEJ 632 638	turnos
+T15	Term-DPEJ 59 66	trabajo
+T16	Term-DPEJ 162 169	trabajo
+T17	Term-DPEJ 370 377	trabajo
+T18	Term-DPEJ 471 478	trabajo
+T19	Term-DPEJ 550 557	trabajo
+T20	Term-DPEJ 599 606	trabajo
+T21	Term-DPEJ 622 629	trabajo
+T22	Term-DPEJ 701 708	trabajo
+T23	Term-Termcat 0 8	Artículo
+T24	Term-Termcat 643 650	Sistema
+T25	Term-Termcat 690 697	Sistema
+T26	Term-Termcat 311 325	competitividad
+T27	Term-Termcat 456 478	condiciones de trabajo
+T28	Term-Termcat 44 66	condiciones de trabajo
+T29	Term-Termcat 147 169	condiciones de trabajo
+T30	Term-Termcat 74 83	dirección
+T31	Term-Termcat 90 97	empresa
+T32	Term-Termcat 384 391	empresa
+T33	Term-Termcat 370 377	trabajo
+T34	Term-Termcat 701 708	trabajo
+T35	Term-Termcat 539 557	Jornada de trabajo
+T36	Term-Termcat 780 799	movilidad funcional
+T37	Term-Termcat 327 340	productividad
+T38	Term-Termcat 654 666	remuneración
+T39	Term-Termcat 711 722	rendimiento
+T40	Term-Termcat 677 685	salarial
+T41	Term-Termcat 589 606	tiempo de trabajo
+T42	Term-Termcat 622 638	trabajo a turnos
+T43	Term-Termcat 599 606	trabajo
+T44	Term-Termcat 622 629	trabajo
+T45	Term-Termcat 526 534	materias
+T46	Term-Termcat 243 253	producción
+T47	Term-Termcat 669 676	cuantía
+T48	Term-Termcat 611 618	Régimen
+T49	Term-Termcat 690 708	Sistema de trabajo
+T50	Term-Termcat 632 638	turnos
+T51	Term-Termcat 104 111	acordar
+T52	Term-Termcat 572 584	distribución
+T53	Term-AttentionRank 550 557	trabajo
+T54	Term-AttentionRank 370 377	trabajo
+T55	Term-AttentionRank 622 629	trabajo
+T56	Term-AttentionRank 471 478	trabajo
+T57	Term-AttentionRank 59 66	trabajo
+T58	Term-AttentionRank 599 606	trabajo
+T59	Term-AttentionRank 162 169	trabajo
+T60	Term-AttentionRank 701 708	trabajo
+T61	Term-AttentionRank 13 40	Modificaciones sustanciales
+T62	Term-AttentionRank 421 448	modificaciones sustanciales
+T63	Term-AttentionRank 112 139	modificaciones sustanciales
+T64	Term-AttentionRank 456 467	condiciones
+T65	Term-AttentionRank 44 55	condiciones
+T66	Term-AttentionRank 147 158	condiciones
+T67	Term-AttentionRank 185 212	probadas razones económicas
+T68	Term-AttentionRank 343 355	organización
+T69	Term-AttentionRank 74 83	dirección
+T70	Term-AttentionRank 90 97	empresa
+T71	Term-AttentionRank 384 391	empresa
+T72	Term-AttentionRank 780 799	movilidad funcional
+T73	Term-AttentionRank 589 595	tiempo
+T74	Term-AttentionRank 572 584	distribución
+T75	Term-AttentionRank 311 325	competitividad
+T76	Term-AttentionRank 327 340	productividad
+T77	Term-AttentionRank 404 417	consideración
+T78	Term-AttentionRank 515 534	siguientes materias
+T79	Term-AttentionRank 760 767	límites
+T80	Term-Rebel 669 685	cuantía salarial
+T81	Term-Rebel 654 666	remuneración
+T82	Term-IATE 643 650	Sistema
+T83	Term-IATE 690 697	Sistema
+T84	Term-IATE 0 8	Artículo
+T85	Term-IATE 572 584	distribución
+T86	Term-IATE 74 83	dirección
+T87	Term-IATE 74 83	dirección
+T88	Term-IATE 311 325	competitividad
+T89	Term-IATE 654 666	remuneración
+T90	Term-IATE 90 97	empresa
+T91	Term-IATE 384 391	empresa
+T92	Term-IATE 526 534	materias
+T93	Term-IATE 327 340	productividad
+R1	subclass_of-Rebel Arg1:T80 Arg2:T81

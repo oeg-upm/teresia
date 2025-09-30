@@ -1,0 +1,214 @@
+T1	Term-DPEJ 1119 1125	prueba
+T2	Term-DPEJ 1569 1580	incapacidad
+T3	Term-DPEJ 1781 1792	incapacidad
+T4	Term-DPEJ 584 594	aplicación
+T5	Term-DPEJ 319 326	persona
+T6	Term-DPEJ 166 172	tiempo
+T7	Term-DPEJ 1094 1100	tiempo
+T8	Term-DPEJ 1490 1499	convenios
+T9	Term-DPEJ 1199 1242	contrato de trabajo de duración determinada
+T10	Term-DPEJ 1569 1591	incapacidad permanente
+T11	Term-DPEJ 902 912	trabajador
+T12	Term-DPEJ 1434 1444	trabajador
+T13	Term-DPEJ 1613 1623	trabajador
+T14	Term-DPEJ 1530 1535	lugar
+T15	Term-DPEJ 385 392	cuantía
+T16	Term-DPEJ 1661 1669	artículo
+T17	Term-DPEJ 1845 1853	artículo
+T18	Term-DPEJ 1199 1218	contrato de trabajo
+T19	Term-DPEJ 99 106	derecho
+T20	Term-DPEJ 346 353	derecho
+T21	Term-DPEJ 1761 1770	Seguridad
+T22	Term-DPEJ 1569 1597	incapacidad permanente total
+T23	Term-DPEJ 657 662	plazo
+T24	Term-DPEJ 847 852	plazo
+T25	Term-DPEJ 1691 1701	jubilación
+T26	Term-DPEJ 1020 1030	prestación
+T27	Term-DPEJ 1181 1191	prestación
+T28	Term-DPEJ 1490 1510	convenios colectivos
+T29	Term-DPEJ 48 56	contrato
+T30	Term-DPEJ 206 214	contrato
+T31	Term-DPEJ 257 265	contrato
+T32	Term-DPEJ 1043 1051	contrato
+T33	Term-DPEJ 1199 1207	contrato
+T34	Term-DPEJ 1278 1286	contrato
+T35	Term-DPEJ 231 240	contratos
+T36	Term-DPEJ 600 609	contratos
+T37	Term-DPEJ 697 706	contratos
+T38	Term-DPEJ 1020 1038	prestación laboral
+T39	Term-DPEJ 540 544	caso
+T40	Term-DPEJ 1709 1714	casos
+T41	Term-DPEJ 482 489	salario
+T42	Term-DPEJ 1516 1525	costumbre
+T43	Term-DPEJ 11 17	causas
+T44	Term-DPEJ 294 299	causa
+T45	Term-DPEJ 122 127	parte
+T46	Term-DPEJ 410 415	parte
+T47	Term-DPEJ 1268 1273	parte
+T48	Term-DPEJ 506 514	servicio
+T49	Term-DPEJ 932 941	servicios
+T50	Term-DPEJ 319 338	persona trabajadora
+T51	Term-DPEJ 1761 1777	Seguridad Social
+T52	Term-DPEJ 880 888	prórroga
+T53	Term-DPEJ 1552 1566	gran invalidez
+T54	Term-DPEJ 1465 1473	preaviso
+T55	Term-DPEJ 368 381	indemnización
+T56	Term-DPEJ 231 251	contratos formativos
+T57	Term-DPEJ 697 717	contratos formativos
+T58	Term-DPEJ 1211 1218	trabajo
+T59	Term-DPEJ 1864 1873	extinción
+T60	Term-Termcat 1906 1917	contratante
+T61	Term-Termcat 1490 1499	convenios
+T62	Term-Termcat 1516 1525	costumbre
+T63	Term-Termcat 1557 1566	invalidez
+T64	Term-Termcat 1119 1125	prueba
+T65	Term-Termcat 506 514	servicio
+T66	Term-Termcat 932 941	servicios
+T67	Term-Termcat 847 852	plazo
+T68	Term-Termcat 657 662	plazo
+T69	Term-Termcat 90 106	abuso de derecho
+T70	Term-Termcat 48 56	contrato
+T71	Term-Termcat 257 265	contrato
+T72	Term-Termcat 1043 1051	contrato
+T73	Term-Termcat 1199 1207	contrato
+T74	Term-Termcat 1278 1286	contrato
+T75	Term-Termcat 206 214	contrato
+T76	Term-Termcat 600 609	contratos
+T77	Term-Termcat 231 240	contratos
+T78	Term-Termcat 697 706	contratos
+T79	Term-Termcat 1781 1792	incapacidad
+T80	Term-Termcat 1569 1580	incapacidad
+T81	Term-Termcat 1544 1550	muerte
+T82	Term-Termcat 1683 1689	muerte
+T83	Term-Termcat 1880 1901	personalidad jurídica
+T84	Term-Termcat 1020 1030	prestación
+T85	Term-Termcat 1181 1191	prestación
+T86	Term-Termcat 1661 1669	artículo
+T87	Term-Termcat 1845 1853	artículo
+T88	Term-Termcat 1455 1461	mediar
+T89	Term-Termcat 122 127	parte
+T90	Term-Termcat 1268 1273	parte
+T91	Term-Termcat 410 415	parte
+T92	Term-Termcat 1465 1473	preaviso
+T93	Term-Termcat 1421 1429	dimisión
+T94	Term-Termcat 1199 1242	contrato de trabajo de duración determinada
+T95	Term-Termcat 1490 1510	convenios colectivos
+T96	Term-Termcat 1302 1310	denuncia
+T97	Term-Termcat 989 997	denuncia
+T98	Term-Termcat 869 877	denuncia
+T99	Term-Termcat 151 161	expiración
+T100	Term-Termcat 1552 1566	gran invalidez
+T101	Term-Termcat 1569 1597	incapacidad permanente total
+T102	Term-Termcat 368 381	indemnización
+T103	Term-Termcat 1691 1701	jubilación
+T104	Term-Termcat 880 888	prórroga
+T105	Term-Termcat 482 489	salario
+T106	Term-Termcat 1761 1777	Seguridad Social
+T107	Term-Termcat 303 314	sustitución
+T108	Term-Termcat 613 621	duración
+T109	Term-Termcat 269 277	duración
+T110	Term-Termcat 958 966	duración
+T111	Term-Termcat 673 681	duración
+T112	Term-Termcat 739 747	duración
+T113	Term-Termcat 346 353	derecho
+T114	Term-Termcat 99 106	derecho
+T115	Term-Termcat 1864 1873	extinción
+T116	Term-Termcat 1350 1361	terminación
+T117	Term-Termcat 319 326	persona
+T118	Term-Termcat 1761 1770	Seguridad
+T119	Term-Termcat 584 594	aplicación
+T120	Term-Termcat 11 17	causas
+T121	Term-Termcat 294 299	causa
+T122	Term-Termcat 1569 1591	incapacidad permanente
+T123	Term-Termcat 552 561	normativa
+T124	Term-Termcat 1629 1638	perjuicio
+T125	Term-Termcat 1813 1822	perjuicio
+T126	Term-Termcat 385 392	cuantía
+T127	Term-Termcat 1731 1738	régimen
+T128	Term-Termcat 1246 1254	superior
+T129	Term-Termcat 1166 1174	temporal
+T130	Term-Termcat 1327 1336	notificar
+T131	Term-Termcat 1880 1892	personalidad
+T132	Term-Termcat 1199 1218	contrato de trabajo
+T133	Term-AttentionRank 48 56	contrato
+T134	Term-AttentionRank 257 265	contrato
+T135	Term-AttentionRank 1043 1051	contrato
+T136	Term-AttentionRank 1199 1207	contrato
+T137	Term-AttentionRank 1278 1286	contrato
+T138	Term-AttentionRank 206 214	contrato
+T139	Term-AttentionRank 600 609	contratos
+T140	Term-AttentionRank 613 633	duración determinada
+T141	Term-AttentionRank 1222 1242	duración determinada
+T142	Term-AttentionRank 958 966	duración
+T143	Term-AttentionRank 673 681	duración
+T144	Term-AttentionRank 739 791	duración inferior a la máxima legalmente establecida
+T145	Term-AttentionRank 269 314	duración determinada por causa de sustitución
+T146	Term-AttentionRank 1552 1566	gran invalidez
+T147	Term-AttentionRank 697 717	contratos formativos
+T148	Term-AttentionRank 231 251	contratos formativos
+T149	Term-AttentionRank 166 182	tiempo convenido
+T150	Term-AttentionRank 1661 1669	artículo
+T151	Term-AttentionRank 1845 1853	artículo
+T152	Term-AttentionRank 1260 1263	año
+T153	Term-AttentionRank 499 502	año
+T154	Term-AttentionRank 1781 1792	incapacidad
+T155	Term-AttentionRank 1569 1580	incapacidad
+T156	Term-AttentionRank 474 478	días
+T157	Term-AttentionRank 1408 1412	días
+T158	Term-AttentionRank 346 353	derecho
+T159	Term-AttentionRank 99 106	derecho
+T160	Term-AttentionRank 902 912	trabajador
+T161	Term-AttentionRank 1613 1623	trabajador
+T162	Term-AttentionRank 1434 1444	trabajador
+T163	Term-AttentionRank 807 818	prorrogados
+T164	Term-Rebel 257 289	contrato de duración determinada
+T165	Term-Rebel 48 56	contrato
+T166	Term-IATE 1761 1777	Seguridad Social
+T167	Term-IATE 584 594	aplicación
+T168	Term-IATE 132 142	empresario
+T169	Term-IATE 1797 1807	empresario
+T170	Term-IATE 1880 1901	personalidad jurídica
+T171	Term-IATE 1661 1669	artículo
+T172	Term-IATE 1845 1853	artículo
+T173	Term-IATE 269 277	duración
+T174	Term-IATE 613 621	duración
+T175	Term-IATE 673 681	duración
+T176	Term-IATE 739 747	duración
+T177	Term-IATE 958 966	duración
+T178	Term-IATE 1222 1230	duración
+T179	Term-IATE 1569 1591	incapacidad permanente
+T180	Term-IATE 1629 1638	perjuicio
+T181	Term-IATE 1813 1822	perjuicio
+T182	Term-IATE 48 56	contrato
+T183	Term-IATE 206 214	contrato
+T184	Term-IATE 257 265	contrato
+T185	Term-IATE 1043 1051	contrato
+T186	Term-IATE 1199 1207	contrato
+T187	Term-IATE 1278 1286	contrato
+T188	Term-IATE 231 240	contratos
+T189	Term-IATE 600 609	contratos
+T190	Term-IATE 697 706	contratos
+T191	Term-IATE 1211 1242	trabajo de duración determinada
+T192	Term-IATE 902 912	trabajador
+T193	Term-IATE 1434 1444	trabajador
+T194	Term-IATE 1613 1623	trabajador
+T195	Term-IATE 482 489	salario
+T196	Term-IATE 657 662	plazo
+T197	Term-IATE 847 852	plazo
+T198	Term-IATE 257 289	contrato de duración determinada
+T199	Term-IATE 1490 1499	convenios
+T200	Term-IATE 122 127	parte
+T201	Term-IATE 410 415	parte
+T202	Term-IATE 1268 1273	parte
+T203	Term-IATE 1864 1873	extinción
+T204	Term-IATE 1569 1597	incapacidad permanente total
+T205	Term-IATE 1761 1770	Seguridad
+T206	Term-IATE 1569 1580	incapacidad
+T207	Term-IATE 1781 1792	incapacidad
+T208	Term-IATE 1490 1510	convenios colectivos
+T209	Term-IATE 1557 1566	invalidez
+T210	Term-IATE 1119 1125	prueba
+T211	Term-IATE 1552 1566	gran invalidez
+T212	Term-IATE 1020 1030	prestación
+T213	Term-IATE 1181 1191	prestación
+R1	subclass_of-Rebel Arg1:T164 Arg2:T165

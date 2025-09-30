@@ -1,0 +1,3 @@
+T1	concept 73 78	obras
+T2	concept 81 90	servicios
+R1	subclass_of Arg1:T1 Arg2:T2

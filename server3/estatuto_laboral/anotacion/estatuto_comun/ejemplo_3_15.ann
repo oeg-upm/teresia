@@ -1,0 +1,175 @@
+T1	Term-DPEJ 155 162	materia
+T2	Term-DPEJ 184 192	materias
+T3	Term-DPEJ 814 823	cláusulas
+T4	Term-DPEJ 71 80	convenios
+T5	Term-DPEJ 415 424	convenios
+T6	Term-DPEJ 210 218	convenio
+T7	Term-DPEJ 244 252	convenio
+T8	Term-DPEJ 532 540	convenio
+T9	Term-DPEJ 674 682	convenio
+T10	Term-DPEJ 735 743	convenio
+T11	Term-DPEJ 911 919	convenio
+T12	Term-DPEJ 1333 1341	convenio
+T13	Term-DPEJ 1386 1394	convenio
+T14	Term-DPEJ 335 344	artículos
+T15	Term-DPEJ 1551 1559	artículo
+T16	Term-DPEJ 305 317	legitimación
+T17	Term-DPEJ 1217 1224	empresa
+T18	Term-DPEJ 624 632	términos
+T19	Term-DPEJ 165 170	grupo
+T20	Term-DPEJ 244 262	convenio colectivo
+T21	Term-DPEJ 532 550	convenio colectivo
+T22	Term-DPEJ 735 753	convenio colectivo
+T23	Term-DPEJ 1333 1351	convenio colectivo
+T24	Term-DPEJ 415 435	convenios colectivos
+T25	Term-DPEJ 1047 1057	contenidos
+T26	Term-DPEJ 980 988	acuerdos
+T27	Term-DPEJ 1232 1240	acuerdos
+T28	Term-DPEJ 1476 1484	acuerdos
+T29	Term-DPEJ 1507 1513	ámbito
+T30	Term-DPEJ 21 27	partes
+T31	Term-DPEJ 503 509	partes
+T32	Term-DPEJ 958 964	partes
+T33	Term-DPEJ 1269 1275	partes
+T34	Term-DPEJ 1400 1406	partes
+T35	Term-DPEJ 1202 1208	sector
+T36	Term-DPEJ 980 998	acuerdos parciales
+T37	Term-DPEJ 1476 1503	acuerdos interprofesionales
+T38	Term-DPEJ 391 396	pacto
+T39	Term-DPEJ 769 774	pacto
+T40	Term-DPEJ 1431 1445	procedimientos
+T41	Term-DPEJ 1186 1195	actividad
+T42	Term-DPEJ 1007 1019	modificación
+T43	Term-Termcat 71 80	convenios
+T44	Term-Termcat 415 424	convenios
+T45	Term-Termcat 1333 1341	convenio
+T46	Term-Termcat 674 682	convenio
+T47	Term-Termcat 244 252	convenio
+T48	Term-Termcat 735 743	convenio
+T49	Term-Termcat 532 540	convenio
+T50	Term-Termcat 210 218	convenio
+T51	Term-Termcat 1386 1394	convenio
+T52	Term-Termcat 911 919	convenio
+T53	Term-Termcat 165 170	grupo
+T54	Term-Termcat 305 317	legitimación
+T55	Term-Termcat 624 632	términos
+T56	Term-Termcat 972 979	adoptar
+T57	Term-Termcat 805 809	bien
+T58	Term-Termcat 814 823	cláusulas
+T59	Term-Termcat 391 396	pacto
+T60	Term-Termcat 769 774	pacto
+T61	Term-Termcat 335 344	artículos
+T62	Term-Termcat 1551 1559	artículo
+T63	Term-Termcat 980 998	acuerdos parciales
+T64	Term-Termcat 1449 1458	mediación
+T65	Term-Termcat 503 509	partes
+T66	Term-Termcat 1400 1406	partes
+T67	Term-Termcat 1269 1275	partes
+T68	Term-Termcat 958 964	partes
+T69	Term-Termcat 21 27	partes
+T70	Term-Termcat 1476 1503	acuerdos interprofesionales
+T71	Term-Termcat 244 262	convenio colectivo
+T72	Term-Termcat 735 753	convenio colectivo
+T73	Term-Termcat 532 550	convenio colectivo
+T74	Term-Termcat 1333 1351	convenio colectivo
+T75	Term-Termcat 415 435	convenios colectivos
+T76	Term-Termcat 1320 1328	denuncia
+T77	Term-Termcat 479 487	denuncia
+T78	Term-Termcat 944 952	denuncia
+T79	Term-Termcat 1217 1224	empresa
+T80	Term-Termcat 21 40	partes negociadoras
+T81	Term-Termcat 291 301	requisitos
+T82	Term-Termcat 372 380	revisión
+T83	Term-Termcat 878 884	huelga
+T84	Term-Termcat 586 594	duración
+T85	Term-Termcat 55 63	duración
+T86	Term-Termcat 1252 1260	vigencia
+T87	Term-Termcat 517 525	vigencia
+T88	Term-Termcat 896 904	vigencia
+T89	Term-Termcat 231 239	vigencia
+T90	Term-Termcat 792 800	vigencia
+T91	Term-Termcat 1151 1159	vigencia
+T92	Term-Termcat 136 144	vigencia
+T93	Term-Termcat 1133 1144	terminación
+T94	Term-Termcat 1007 1019	modificación
+T95	Term-Termcat 1232 1240	acuerdos
+T96	Term-Termcat 980 988	acuerdos
+T97	Term-Termcat 1186 1195	actividad
+T98	Term-Termcat 155 162	materia
+T99	Term-Termcat 184 192	materias
+T100	Term-Termcat 1431 1445	procedimientos
+T101	Term-Termcat 268 275	sujetos
+T102	Term-Termcat 1476 1484	acuerdos
+T103	Term-Termcat 41 51	establecer
+T104	Term-AttentionRank 71 80	convenios
+T105	Term-AttentionRank 911 919	convenio
+T106	Term-AttentionRank 674 682	convenio
+T107	Term-AttentionRank 210 218	convenio
+T108	Term-AttentionRank 1449 1521	mediación regulados en los acuerdos interprofesionales de ámbito estatal
+T109	Term-AttentionRank 244 262	convenio colectivo
+T110	Term-AttentionRank 735 753	convenio colectivo
+T111	Term-AttentionRank 532 550	convenio colectivo
+T112	Term-AttentionRank 1333 1351	convenio colectivo
+T113	Term-AttentionRank 415 435	convenios colectivos
+T114	Term-AttentionRank 1047 1083	contenidos prorrogados con el fin de
+T115	Term-AttentionRank 1252 1260	vigencia
+T116	Term-AttentionRank 517 525	vigencia
+T117	Term-AttentionRank 896 904	vigencia
+T118	Term-AttentionRank 231 239	vigencia
+T119	Term-AttentionRank 792 800	vigencia
+T120	Term-AttentionRank 1151 1159	vigencia
+T121	Term-AttentionRank 136 144	vigencia
+T122	Term-AttentionRank 503 509	partes
+T123	Term-AttentionRank 1400 1406	partes
+T124	Term-AttentionRank 1269 1275	partes
+T125	Term-AttentionRank 958 964	partes
+T126	Term-AttentionRank 21 27	partes
+T127	Term-AttentionRank 1232 1240	acuerdos
+T128	Term-AttentionRank 980 988	acuerdos
+T129	Term-AttentionRank 461 464	año
+T130	Term-AttentionRank 1307 1310	año
+T131	Term-AttentionRank 454 457	año
+T132	Term-AttentionRank 391 396	pacto
+T133	Term-AttentionRank 769 774	pacto
+T134	Term-AttentionRank 305 344	legitimación previstos en los artículos
+T135	Term-AttentionRank 814 838	cláusulas convencionales
+T136	Term-AttentionRank 931 952	partir de su denuncia
+T137	Term-AttentionRank 1380 1394	nuevo convenio
+T138	Term-AttentionRank 556 559	vez
+T139	Term-IATE 1431 1445	procedimientos
+T140	Term-IATE 335 344	artículos
+T141	Term-IATE 1551 1559	artículo
+T142	Term-IATE 55 63	duración
+T143	Term-IATE 586 594	duración
+T144	Term-IATE 1007 1019	modificación
+T145	Term-IATE 291 301	requisitos
+T146	Term-IATE 165 170	grupo
+T147	Term-IATE 165 170	grupo
+T148	Term-IATE 1186 1195	actividad
+T149	Term-IATE 71 80	convenios
+T150	Term-IATE 415 424	convenios
+T151	Term-IATE 210 218	convenio
+T152	Term-IATE 244 252	convenio
+T153	Term-IATE 532 540	convenio
+T154	Term-IATE 674 682	convenio
+T155	Term-IATE 735 743	convenio
+T156	Term-IATE 911 919	convenio
+T157	Term-IATE 1333 1341	convenio
+T158	Term-IATE 1386 1394	convenio
+T159	Term-IATE 21 27	partes
+T160	Term-IATE 503 509	partes
+T161	Term-IATE 958 964	partes
+T162	Term-IATE 1269 1275	partes
+T163	Term-IATE 1400 1406	partes
+T164	Term-IATE 1202 1208	sector
+T165	Term-IATE 244 262	convenio colectivo
+T166	Term-IATE 532 550	convenio colectivo
+T167	Term-IATE 735 753	convenio colectivo
+T168	Term-IATE 1333 1351	convenio colectivo
+T169	Term-IATE 415 435	convenios colectivos
+T170	Term-IATE 980 988	acuerdos
+T171	Term-IATE 1232 1240	acuerdos
+T172	Term-IATE 1476 1484	acuerdos
+T173	Term-IATE 1217 1224	empresa
+T174	Term-IATE 155 162	materia
+T175	Term-IATE 184 192	materias

@@ -1,0 +1,3 @@
+T1	concept 550 594	entidades formativas acreditadas o inscritas
+T2	concept 512 544	centros de formación profesional
+R1	subclass_of Arg1:T1 Arg2:T2

@@ -1,0 +1,3 @@
+T1	concept 1692 1728	Derechos y deberes laborales básicos
+T2	concept 1044 1051	derecho
+R1	subclass_of Arg1:T1 Arg2:T2

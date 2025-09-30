@@ -1,0 +1,179 @@
+T1	Term-DPEJ 1161 1182	negociación colectiva
+T2	Term-DPEJ 4 12	personas
+T3	Term-DPEJ 551 559	personas
+T4	Term-DPEJ 915 923	personas
+T5	Term-DPEJ 1403 1411	personas
+T6	Term-DPEJ 422 429	persona
+T7	Term-DPEJ 876 883	persona
+T8	Term-DPEJ 1497 1504	persona
+T9	Term-DPEJ 147 153	tiempo
+T10	Term-DPEJ 1019 1023	edad
+T11	Term-DPEJ 87 99	distribución
+T12	Term-DPEJ 33 40	derecho
+T13	Term-DPEJ 267 274	derecho
+T14	Term-DPEJ 580 587	derecho
+T15	Term-DPEJ 684 691	derecho
+T16	Term-DPEJ 498 505	empresa
+T17	Term-DPEJ 1464 1471	empresa
+T18	Term-DPEJ 1797 1804	empresa
+T19	Term-DPEJ 856 869	segundo grado
+T20	Term-DPEJ 1749 1754	plazo
+T21	Term-DPEJ 1254 1262	términos
+T22	Term-DPEJ 223 242	trabajo a distancia
+T23	Term-DPEJ 182 192	prestación
+T24	Term-DPEJ 206 216	prestación
+T25	Term-DPEJ 1240 1248	apartado
+T26	Term-DPEJ 106 113	jornada
+T27	Term-DPEJ 1161 1172	negociación
+T28	Term-DPEJ 1539 1550	negociación
+T29	Term-DPEJ 1781 1792	negociación
+T30	Term-DPEJ 1339 1347	ausencia
+T31	Term-DPEJ 1451 1459	ausencia
+T32	Term-DPEJ 513 517	caso
+T33	Term-DPEJ 960 964	caso
+T34	Term-DPEJ 1624 1628	caso
+T35	Term-DPEJ 915 936	personas dependientes
+T36	Term-DPEJ 832 846	consanguinidad
+T37	Term-DPEJ 173 178	forma
+T38	Term-DPEJ 4 25	personas trabajadoras
+T39	Term-DPEJ 551 572	personas trabajadoras
+T40	Term-DPEJ 1403 1424	personas trabajadoras
+T41	Term-DPEJ 422 441	persona trabajadora
+T42	Term-DPEJ 876 895	persona trabajadora
+T43	Term-DPEJ 1497 1516	persona trabajadora
+T44	Term-DPEJ 1528 1535	proceso
+T45	Term-DPEJ 1770 1777	proceso
+T46	Term-DPEJ 727 734	cuidado
+T47	Term-DPEJ 1105 1119	circunstancias
+T48	Term-DPEJ 1351 1365	discriminación
+T49	Term-DPEJ 117 124	trabajo
+T50	Term-DPEJ 157 164	trabajo
+T51	Term-DPEJ 223 230	trabajo
+T52	Term-DPEJ 299 303	vida
+T53	Term-Termcat 1481 1490	solicitud
+T54	Term-Termcat 605 614	solicitud
+T55	Term-Termcat 1161 1182	negociación colectiva
+T56	Term-Termcat 1714 1723	oposición
+T57	Term-Termcat 1254 1262	términos
+T58	Term-Termcat 1749 1754	plazo
+T59	Term-Termcat 1339 1347	ausencia
+T60	Term-Termcat 1451 1459	ausencia
+T61	Term-Termcat 832 846	consanguinidad
+T62	Term-Termcat 987 996	domicilio
+T63	Term-Termcat 1019 1023	edad
+T64	Term-Termcat 173 178	forma
+T65	Term-Termcat 864 869	grado
+T66	Term-Termcat 800 815	pareja de hecho
+T67	Term-Termcat 182 192	prestación
+T68	Term-Termcat 206 216	prestación
+T69	Term-Termcat 1145 1153	petición
+T70	Term-Termcat 1850 1858	petición
+T71	Term-Termcat 280 292	conciliación
+T72	Term-Termcat 404 415	necesidades
+T73	Term-Termcat 452 463	necesidades
+T74	Term-Termcat 712 723	necesidades
+T75	Term-Termcat 1539 1550	negociación
+T76	Term-Termcat 1781 1792	negociación
+T77	Term-Termcat 1312 1320	sistemas
+T78	Term-Termcat 1025 1034	accidente
+T79	Term-Termcat 727 734	cuidado
+T80	Term-Termcat 1351 1365	discriminación
+T81	Term-Termcat 1797 1804	empresa
+T82	Term-Termcat 1464 1471	empresa
+T83	Term-Termcat 498 505	empresa
+T84	Term-Termcat 106 124	jornada de trabajo
+T85	Term-Termcat 132 164	ordenación del tiempo de trabajo
+T86	Term-Termcat 223 242	trabajo a distancia
+T87	Term-Termcat 76 84	duración
+T88	Term-Termcat 1833 1843	aceptación
+T89	Term-Termcat 33 40	derecho
+T90	Term-Termcat 580 587	derecho
+T91	Term-Termcat 684 691	derecho
+T92	Term-Termcat 267 274	derecho
+T93	Term-Termcat 915 923	personas
+T94	Term-Termcat 551 559	personas
+T95	Term-Termcat 1403 1411	personas
+T96	Term-Termcat 4 12	personas
+T97	Term-Termcat 1497 1504	persona
+T98	Term-Termcat 422 429	persona
+T99	Term-Termcat 876 883	persona
+T100	Term-Termcat 1161 1172	negociación
+T101	Term-Termcat 1528 1535	proceso
+T102	Term-Termcat 1770 1777	proceso
+T103	Term-Termcat 1603 1612	celeridad
+T104	Term-Termcat 1105 1119	circunstancias
+T105	Term-Termcat 1689 1698	concesión
+T106	Term-Termcat 790 797	cónyuge
+T107	Term-Termcat 1269 1278	ejercicio
+T108	Term-Termcat 223 230	trabajo
+T109	Term-Termcat 157 164	trabajo
+T110	Term-Termcat 1193 1203	establecer
+T111	Term-Termcat 810 815	hecho
+T112	Term-Termcat 43 52	solicitar
+T113	Term-Termcat 87 99	distribución
+T114	Term-AttentionRank 551 572	personas trabajadoras
+T115	Term-AttentionRank 1403 1424	personas trabajadoras
+T116	Term-AttentionRank 4 25	personas trabajadoras
+T117	Term-AttentionRank 1497 1516	persona trabajadora
+T118	Term-AttentionRank 422 441	persona trabajadora
+T119	Term-AttentionRank 876 895	persona trabajadora
+T120	Term-AttentionRank 832 846	consanguinidad
+T121	Term-AttentionRank 33 40	derecho
+T122	Term-AttentionRank 580 587	derecho
+T123	Term-AttentionRank 684 691	derecho
+T124	Term-AttentionRank 267 274	derecho
+T125	Term-AttentionRank 735 756	respecto de los hijos
+T126	Term-AttentionRank 452 463	necesidades
+T127	Term-AttentionRank 712 723	necesidades
+T128	Term-AttentionRank 117 124	trabajo
+T129	Term-AttentionRank 223 230	trabajo
+T130	Term-AttentionRank 157 164	trabajo
+T131	Term-AttentionRank 532 537	hijos
+T132	Term-AttentionRank 629 634	hijos
+T133	Term-AttentionRank 1539 1550	negociación
+T134	Term-AttentionRank 1781 1792	negociación
+T135	Term-AttentionRank 387 415	relación con las necesidades
+T136	Term-AttentionRank 1624 1628	caso
+T137	Term-AttentionRank 960 964	caso
+T138	Term-AttentionRank 513 517	caso
+T139	Term-AttentionRank 1528 1535	proceso
+T140	Term-AttentionRank 1770 1777	proceso
+T141	Term-AttentionRank 1797 1804	empresa
+T142	Term-AttentionRank 1464 1471	empresa
+T143	Term-AttentionRank 498 505	empresa
+T144	Term-AttentionRank 1161 1182	negociación colectiva
+T145	Term-AttentionRank 57 69	adaptaciones
+T146	Term-AttentionRank 331 343	adaptaciones
+T147	Term-IATE 1312 1320	sistemas
+T148	Term-IATE 540 545	hijas
+T149	Term-IATE 637 642	hijas
+T150	Term-IATE 759 764	hijas
+T151	Term-IATE 1240 1248	apartado
+T152	Term-IATE 76 84	duración
+T153	Term-IATE 1439 1443	sexo
+T154	Term-IATE 87 99	distribución
+T155	Term-IATE 1351 1365	discriminación
+T156	Term-IATE 1528 1535	proceso
+T157	Term-IATE 1770 1777	proceso
+T158	Term-IATE 1749 1754	plazo
+T159	Term-IATE 790 797	cónyuge
+T160	Term-IATE 304 312	familiar
+T161	Term-IATE 817 827	familiares
+T162	Term-IATE 1161 1172	negociación
+T163	Term-IATE 1539 1550	negociación
+T164	Term-IATE 1781 1792	negociación
+T165	Term-IATE 832 846	consanguinidad
+T166	Term-IATE 1161 1182	negociación colectiva
+T167	Term-IATE 605 614	solicitud
+T168	Term-IATE 1481 1490	solicitud
+T169	Term-IATE 498 505	empresa
+T170	Term-IATE 1464 1471	empresa
+T171	Term-IATE 1797 1804	empresa
+T172	Term-IATE 1145 1153	petición
+T173	Term-IATE 1850 1858	petición
+T174	Term-IATE 1269 1278	ejercicio
+T175	Term-IATE 532 537	hijos
+T176	Term-IATE 629 634	hijos
+T177	Term-IATE 751 756	hijos
+T178	Term-IATE 182 192	prestación
+T179	Term-IATE 206 216	prestación

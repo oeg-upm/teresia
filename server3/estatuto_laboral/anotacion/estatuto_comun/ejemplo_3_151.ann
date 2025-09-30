@@ -1,0 +1,157 @@
+T1	Term-DPEJ 1038 1044	prueba
+T2	Term-DPEJ 439 445	tiempo
+T3	Term-DPEJ 606 612	tiempo
+T4	Term-DPEJ 992 998	tiempo
+T5	Term-DPEJ 1110 1116	tiempo
+T6	Term-DPEJ 1325 1340	oficina pública
+T7	Term-DPEJ 179 188	dirección
+T8	Term-DPEJ 760 772	trabajadores
+T9	Term-DPEJ 807 819	trabajadores
+T10	Term-DPEJ 164 176	organización
+T11	Term-DPEJ 6 25	contrato de trabajo
+T12	Term-DPEJ 945 964	contrato de trabajo
+T13	Term-DPEJ 857 865	empresas
+T14	Term-DPEJ 1358 1363	plazo
+T15	Term-DPEJ 218 224	cambio
+T16	Term-DPEJ 1419 1427	términos
+T17	Term-DPEJ 410 421	aprendizaje
+T18	Term-DPEJ 1469 1478	contenido
+T19	Term-DPEJ 1014 1021	jornada
+T20	Term-DPEJ 6 14	contrato
+T21	Term-DPEJ 945 953	contrato
+T22	Term-DPEJ 1188 1196	contrato
+T23	Term-DPEJ 288 297	contratos
+T24	Term-DPEJ 427 436	contratos
+T25	Term-DPEJ 492 501	contratos
+T26	Term-DPEJ 592 601	contratos
+T27	Term-DPEJ 713 722	contratos
+T28	Term-DPEJ 1486 1495	contratos
+T29	Term-DPEJ 1325 1332	oficina
+T30	Term-DPEJ 362 366	caso
+T31	Term-DPEJ 154 160	ámbito
+T32	Term-DPEJ 927 932	forma
+T33	Term-DPEJ 333 350	disposición legal
+T34	Term-DPEJ 1344 1350	empleo
+T35	Term-DPEJ 1161 1167	partes
+T36	Term-DPEJ 121 129	servicio
+T37	Term-DPEJ 536 544	servicio
+T38	Term-DPEJ 845 853	servicio
+T39	Term-DPEJ 1132 1141	servicios
+T40	Term-DPEJ 333 344	disposición
+T41	Term-DPEJ 1525 1534	prórrogas
+T42	Term-DPEJ 232 243	retribución
+T43	Term-DPEJ 1259 1275	relación laboral
+T44	Term-DPEJ 18 25	trabajo
+T45	Term-DPEJ 301 308	trabajo
+T46	Term-DPEJ 726 733	trabajo
+T47	Term-DPEJ 957 964	trabajo
+T48	Term-DPEJ 1499 1506	trabajo
+T49	Term-Termcat 1038 1044	prueba
+T50	Term-Termcat 232 243	retribución
+T51	Term-Termcat 121 129	servicio
+T52	Term-Termcat 845 853	servicio
+T53	Term-Termcat 536 544	servicio
+T54	Term-Termcat 1132 1141	servicios
+T55	Term-Termcat 1419 1427	términos
+T56	Term-Termcat 1358 1363	plazo
+T57	Term-Termcat 1188 1196	contrato
+T58	Term-Termcat 945 953	contrato
+T59	Term-Termcat 6 14	contrato
+T60	Term-Termcat 592 601	contratos
+T61	Term-Termcat 1486 1495	contratos
+T62	Term-Termcat 492 501	contratos
+T63	Term-Termcat 288 297	contratos
+T64	Term-Termcat 713 722	contratos
+T65	Term-Termcat 427 436	contratos
+T66	Term-Termcat 927 932	forma
+T67	Term-Termcat 410 421	aprendizaje
+T68	Term-Termcat 1161 1167	partes
+T69	Term-Termcat 1397 1409	concertación
+T70	Term-Termcat 945 964	contrato de trabajo
+T71	Term-Termcat 6 25	contrato de trabajo
+T72	Term-Termcat 179 188	dirección
+T73	Term-Termcat 857 865	empresas
+T74	Term-Termcat 726 733	trabajo
+T75	Term-Termcat 301 308	trabajo
+T76	Term-Termcat 1499 1506	trabajo
+T77	Term-Termcat 1344 1350	empleo
+T78	Term-Termcat 395 404	formación
+T79	Term-Termcat 1014 1030	jornada completa
+T80	Term-Termcat 375 384	prácticas
+T81	Term-Termcat 1525 1534	prórrogas
+T82	Term-Termcat 661 668	semanas
+T83	Term-Termcat 630 638	duración
+T84	Term-Termcat 333 344	disposición
+T85	Term-Termcat 218 224	cambio
+T86	Term-Termcat 134 140	cuenta
+T87	Term-Termcat 345 350	legal
+T88	Term-Termcat 529 533	obra
+T89	Term-Termcat 1259 1275	relación laboral
+T90	Term-Termcat 643 651	superior
+T91	Term-Termcat 1085 1093	temporal
+T92	Term-Termcat 1310 1319	comunicar
+T93	Term-Termcat 479 485	relevo
+T94	Term-Termcat 1099 1107	carácter
+T95	Term-Termcat 510 521	realización
+T96	Term-AttentionRank 1188 1196	contrato
+T97	Term-AttentionRank 945 953	contrato
+T98	Term-AttentionRank 6 14	contrato
+T99	Term-AttentionRank 592 601	contratos
+T100	Term-AttentionRank 1486 1495	contratos
+T101	Term-AttentionRank 492 501	contratos
+T102	Term-AttentionRank 288 297	contratos
+T103	Term-AttentionRank 713 722	contratos
+T104	Term-AttentionRank 427 436	contratos
+T105	Term-AttentionRank 1376 1409	días siguientes a su concertación
+T106	Term-AttentionRank 121 129	servicio
+T107	Term-AttentionRank 845 853	servicio
+T108	Term-AttentionRank 536 544	servicio
+T109	Term-AttentionRank 1132 1141	servicios
+T110	Term-AttentionRank 726 733	trabajo
+T111	Term-AttentionRank 301 308	trabajo
+T112	Term-AttentionRank 1499 1506	trabajo
+T113	Term-AttentionRank 957 964	trabajo
+T114	Term-AttentionRank 18 25	trabajo
+T115	Term-AttentionRank 1525 1534	prórrogas
+T116	Term-AttentionRank 439 453	tiempo parcial
+T117	Term-AttentionRank 1110 1124	tiempo parcial
+T118	Term-AttentionRank 218 243	cambio de una retribución
+T119	Term-AttentionRank 179 188	dirección
+T120	Term-AttentionRank 164 176	organización
+T121	Term-AttentionRank 760 772	trabajadores
+T122	Term-AttentionRank 807 819	trabajadores
+T123	Term-AttentionRank 410 421	aprendizaje
+T124	Term-AttentionRank 857 875	empresas españolas
+T125	Term-AttentionRank 529 533	obra
+T126	Term-AttentionRank 134 140	cuenta
+T127	Term-AttentionRank 395 404	formación
+T128	Term-IATE 1283 1293	empresario
+T129	Term-IATE 630 638	duración
+T130	Term-IATE 179 188	dirección
+T131	Term-IATE 179 188	dirección
+T132	Term-IATE 375 384	prácticas
+T133	Term-IATE 6 14	contrato
+T134	Term-IATE 945 953	contrato
+T135	Term-IATE 1188 1196	contrato
+T136	Term-IATE 288 297	contratos
+T137	Term-IATE 427 436	contratos
+T138	Term-IATE 492 501	contratos
+T139	Term-IATE 592 601	contratos
+T140	Term-IATE 713 722	contratos
+T141	Term-IATE 1486 1495	contratos
+T142	Term-IATE 760 772	trabajadores
+T143	Term-IATE 807 819	trabajadores
+T144	Term-IATE 232 243	retribución
+T145	Term-IATE 1358 1363	plazo
+T146	Term-IATE 882 892	extranjero
+T147	Term-IATE 1344 1350	empleo
+T148	Term-IATE 395 404	formación
+T149	Term-IATE 1161 1167	partes
+T150	Term-IATE 410 421	aprendizaje
+T151	Term-IATE 1259 1275	relación laboral
+T152	Term-IATE 529 533	obra
+T153	Term-IATE 510 521	realización
+T154	Term-IATE 1038 1044	prueba
+T155	Term-IATE 1099 1107	carácter
+T156	Term-IATE 857 865	empresas
+T157	Term-IATE 1325 1332	oficina

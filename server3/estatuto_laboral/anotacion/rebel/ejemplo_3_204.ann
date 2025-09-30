@@ -1,0 +1,3 @@
+T1	concept 1374 1390	cuantía salarial
+T2	concept 1348 1371	Sistema de remuneración
+R1	part_of Arg1:T1 Arg2:T2

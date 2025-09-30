@@ -1,0 +1,3 @@
+T1	concept 997 1002	parto
+T2	concept 950 970	incapacidad temporal
+R1	has_cause Arg1:T1 Arg2:T2

@@ -1,0 +1,185 @@
+T1	Term-DPEJ 6 13	persona
+T2	Term-DPEJ 41 48	persona
+T3	Term-DPEJ 475 482	persona
+T4	Term-DPEJ 655 664	convenios
+T5	Term-DPEJ 266 270	plan
+T6	Term-DPEJ 1409 1413	plan
+T7	Term-DPEJ 1660 1664	plan
+T8	Term-DPEJ 733 739	planes
+T9	Term-DPEJ 127 134	empresa
+T10	Term-DPEJ 298 305	empresa
+T11	Term-DPEJ 496 503	empresa
+T12	Term-DPEJ 720 727	empresa
+T13	Term-DPEJ 1042 1049	empresa
+T14	Term-DPEJ 1138 1145	empresa
+T15	Term-DPEJ 788 797	contenido
+T16	Term-DPEJ 946 954	contrato
+T17	Term-DPEJ 1361 1369	contrato
+T18	Term-DPEJ 1532 1540	contrato
+T19	Term-DPEJ 331 338	acuerdo
+T20	Term-DPEJ 644 652	acuerdos
+T21	Term-DPEJ 82 89	entidad
+T22	Term-DPEJ 381 388	entidad
+T23	Term-DPEJ 415 422	entidad
+T24	Term-DPEJ 1009 1016	entidad
+T25	Term-DPEJ 550 559	entidades
+T26	Term-DPEJ 342 353	cooperación
+T27	Term-DPEJ 668 679	cooperación
+T28	Term-DPEJ 523 544	formación profesional
+T29	Term-DPEJ 700 713	participación
+T30	Term-DPEJ 1544 1549	forma
+T31	Term-DPEJ 73 79	centro
+T32	Term-DPEJ 372 378	centro
+T33	Term-DPEJ 406 412	centro
+T34	Term-DPEJ 1000 1006	centro
+T35	Term-DPEJ 1151 1157	centro
+T36	Term-DPEJ 512 519	centros
+T37	Term-DPEJ 601 608	centros
+T38	Term-DPEJ 921 926	parte
+T39	Term-DPEJ 883 895	cumplimiento
+T40	Term-DPEJ 835 846	actividades
+T41	Term-DPEJ 1321 1330	actividad
+T42	Term-DPEJ 331 353	acuerdo de cooperación
+T43	Term-Termcat 655 664	convenios
+T44	Term-Termcat 342 353	cooperación
+T45	Term-Termcat 668 679	cooperación
+T46	Term-Termcat 381 388	entidad
+T47	Term-Termcat 1009 1016	entidad
+T48	Term-Termcat 415 422	entidad
+T49	Term-Termcat 82 89	entidad
+T50	Term-Termcat 550 559	entidades
+T51	Term-Termcat 1361 1369	contrato
+T52	Term-Termcat 946 954	contrato
+T53	Term-Termcat 1532 1540	contrato
+T54	Term-Termcat 1544 1549	forma
+T55	Term-Termcat 921 926	parte
+T56	Term-Termcat 251 262	seguimiento
+T57	Term-Termcat 1198 1205	sistema
+T58	Term-Termcat 818 828	calendario
+T59	Term-Termcat 1042 1049	empresa
+T60	Term-Termcat 720 727	empresa
+T61	Term-Termcat 1138 1145	empresa
+T62	Term-Termcat 298 305	empresa
+T63	Term-Termcat 127 134	empresa
+T64	Term-Termcat 496 503	empresa
+T65	Term-Termcat 93 102	formación
+T66	Term-Termcat 1020 1029	formación
+T67	Term-Termcat 964 973	formación
+T68	Term-Termcat 174 183	formación
+T69	Term-Termcat 804 813	formación
+T70	Term-Termcat 1249 1258	formación
+T71	Term-Termcat 1101 1110	formación
+T72	Term-Termcat 523 544	formación profesional
+T73	Term-Termcat 239 246	función
+T74	Term-Termcat 853 863	requisitos
+T75	Term-Termcat 219 225	tareas
+T76	Term-Termcat 1348 1356	duración
+T77	Term-Termcat 331 353	acuerdo de cooperación
+T78	Term-Termcat 6 13	persona
+T79	Term-Termcat 41 48	persona
+T80	Term-Termcat 475 482	persona
+T81	Term-Termcat 644 652	acuerdos
+T82	Term-Termcat 835 846	actividades
+T83	Term-Termcat 1321 1330	actividad
+T84	Term-Termcat 883 895	cumplimiento
+T85	Term-Termcat 455 467	coordinación
+T86	Term-Termcat 1348 1369	duración del contrato
+T87	Term-Termcat 1302 1314	financiación
+T88	Term-Termcat 441 451	garantizar
+T89	Term-Termcat 281 291	individual
+T90	Term-Termcat 751 763	individuales
+T91	Term-Termcat 903 912	objetivos
+T92	Term-Termcat 700 713	participación
+T93	Term-Termcat 1660 1664	plan
+T94	Term-Termcat 266 270	plan
+T95	Term-Termcat 1409 1413	plan
+T96	Term-Termcat 733 739	planes
+T97	Term-Termcat 1667 1675	programa
+T98	Term-Termcat 1416 1424	programa
+T99	Term-Termcat 331 338	acuerdo
+T100	Term-Termcat 1514 1520	amparo
+T101	Term-Termcat 1111 1119	práctica
+T102	Term-AttentionRank 93 102	formación
+T103	Term-AttentionRank 1020 1029	formación
+T104	Term-AttentionRank 964 973	formación
+T105	Term-AttentionRank 174 183	formación
+T106	Term-AttentionRank 804 813	formación
+T107	Term-AttentionRank 1249 1258	formación
+T108	Term-AttentionRank 1151 1157	centro
+T109	Term-AttentionRank 1000 1006	centro
+T110	Term-AttentionRank 372 378	centro
+T111	Term-AttentionRank 406 412	centro
+T112	Term-AttentionRank 73 79	centro
+T113	Term-AttentionRank 601 608	centros
+T114	Term-AttentionRank 512 519	centros
+T115	Term-AttentionRank 1570 1604	largo de diversos periodos anuales
+T116	Term-AttentionRank 381 388	entidad
+T117	Term-AttentionRank 1009 1016	entidad
+T118	Term-AttentionRank 415 422	entidad
+T119	Term-AttentionRank 82 89	entidad
+T120	Term-AttentionRank 550 559	entidades
+T121	Term-AttentionRank 41 55	persona tutora
+T122	Term-AttentionRank 475 489	persona tutora
+T123	Term-AttentionRank 1042 1049	empresa
+T124	Term-AttentionRank 720 727	empresa
+T125	Term-AttentionRank 1138 1145	empresa
+T126	Term-AttentionRank 298 305	empresa
+T127	Term-AttentionRank 127 134	empresa
+T128	Term-AttentionRank 496 503	empresa
+T129	Term-AttentionRank 1361 1369	contrato
+T130	Term-AttentionRank 946 954	contrato
+T131	Term-AttentionRank 1532 1540	contrato
+T132	Term-AttentionRank 523 544	formación profesional
+T133	Term-AttentionRank 266 280	plan formativo
+T134	Term-AttentionRank 733 750	planes formativos
+T135	Term-AttentionRank 1544 1563	forma no continuada
+T136	Term-AttentionRank 1667 1675	programa
+T137	Term-AttentionRank 1416 1424	programa
+T138	Term-AttentionRank 867 874	tutoría
+T139	Term-AttentionRank 331 338	acuerdo
+T140	Term-AttentionRank 644 652	acuerdos
+T141	Term-AttentionRank 1085 1119	correspondiente formación práctica
+T142	Term-Rebel 550 594	entidades formativas acreditadas o inscritas
+T143	Term-Rebel 512 544	centros de formación profesional
+T144	Term-IATE 1198 1205	sistema
+T145	Term-IATE 1348 1356	duración
+T146	Term-IATE 946 954	contrato
+T147	Term-IATE 1361 1369	contrato
+T148	Term-IATE 1532 1540	contrato
+T149	Term-IATE 853 863	requisitos
+T150	Term-IATE 82 89	entidad
+T151	Term-IATE 381 388	entidad
+T152	Term-IATE 415 422	entidad
+T153	Term-IATE 1009 1016	entidad
+T154	Term-IATE 550 559	entidades
+T155	Term-IATE 835 846	actividades
+T156	Term-IATE 1321 1330	actividad
+T157	Term-IATE 655 664	convenios
+T158	Term-IATE 93 102	formación
+T159	Term-IATE 174 183	formación
+T160	Term-IATE 523 532	formación
+T161	Term-IATE 804 813	formación
+T162	Term-IATE 964 973	formación
+T163	Term-IATE 1020 1029	formación
+T164	Term-IATE 1101 1110	formación
+T165	Term-IATE 1249 1258	formación
+T166	Term-IATE 921 926	parte
+T167	Term-IATE 239 246	función
+T168	Term-IATE 1227 1242	características
+T169	Term-IATE 1458 1463	meses
+T170	Term-IATE 331 338	acuerdo
+T171	Term-IATE 644 652	acuerdos
+T172	Term-IATE 700 713	participación
+T173	Term-IATE 523 544	formación profesional
+T174	Term-IATE 867 874	tutoría
+T175	Term-IATE 1626 1634	estudios
+T176	Term-IATE 251 262	seguimiento
+T177	Term-IATE 127 134	empresa
+T178	Term-IATE 298 305	empresa
+T179	Term-IATE 496 503	empresa
+T180	Term-IATE 720 727	empresa
+T181	Term-IATE 1042 1049	empresa
+T182	Term-IATE 1138 1145	empresa
+T183	Term-IATE 1416 1424	programa
+T184	Term-IATE 1667 1675	programa
+R1	subclass_of-Rebel Arg1:T142 Arg2:T143

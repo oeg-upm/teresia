@@ -1,0 +1,166 @@
+T1	Term-DPEJ 1273 1294	negociación colectiva
+T2	Term-DPEJ 546 560	representantes
+T3	Term-DPEJ 1240 1259	jurisdicción social
+T4	Term-DPEJ 1151 1157	comité
+T5	Term-DPEJ 940 946	reglas
+T6	Term-DPEJ 950 957	materia
+T7	Term-DPEJ 435 441	tiempo
+T8	Term-DPEJ 812 820	convenio
+T9	Term-DPEJ 189 199	trabajador
+T10	Term-DPEJ 739 749	trabajador
+T11	Term-DPEJ 1206 1216	trabajador
+T12	Term-DPEJ 1424 1434	trabajador
+T13	Term-DPEJ 568 580	trabajadores
+T14	Term-DPEJ 1718 1728	adaptación
+T15	Term-DPEJ 1361 1369	artículo
+T16	Term-DPEJ 1682 1691	ineptitud
+T17	Term-DPEJ 1442 1449	derecho
+T18	Term-DPEJ 1240 1252	jurisdicción
+T19	Term-DPEJ 1036 1044	salarial
+T20	Term-DPEJ 32 39	empresa
+T21	Term-DPEJ 987 994	empresa
+T22	Term-DPEJ 1121 1128	empresa
+T23	Term-DPEJ 318 323	grupo
+T24	Term-DPEJ 641 646	grupo
+T25	Term-DPEJ 138 148	prestación
+T26	Term-DPEJ 812 830	convenio colectivo
+T27	Term-DPEJ 768 775	ascenso
+T28	Term-DPEJ 961 969	ascensos
+T29	Term-DPEJ 1180 1189	delegados
+T30	Term-DPEJ 138 156	prestación laboral
+T31	Term-DPEJ 1273 1284	negociación
+T32	Term-DPEJ 1193 1201	personal
+T33	Term-DPEJ 588 592	caso
+T34	Term-DPEJ 842 846	caso
+T35	Term-DPEJ 1167 1171	caso
+T36	Term-DPEJ 1539 1544	casos
+T37	Term-DPEJ 56 63	acuerdo
+T38	Term-DPEJ 1807 1819	consecuencia
+T39	Term-DPEJ 1139 1146	informe
+T40	Term-DPEJ 1653 1658	causa
+T41	Term-DPEJ 509 517	decisión
+T42	Term-DPEJ 1455 1466	retribución
+T43	Term-DPEJ 1608 1619	retribución
+T44	Term-DPEJ 1662 1669	despido
+T45	Term-Termcat 812 820	convenio
+T46	Term-Termcat 1139 1146	informe
+T47	Term-Termcat 318 323	grupo
+T48	Term-Termcat 641 646	grupo
+T49	Term-Termcat 1273 1294	negociación colectiva
+T50	Term-Termcat 1608 1619	retribución
+T51	Term-Termcat 1455 1466	retribución
+T52	Term-Termcat 138 148	prestación
+T53	Term-Termcat 546 560	representantes
+T54	Term-Termcat 1361 1369	artículo
+T55	Term-Termcat 1662 1669	despido
+T56	Term-Termcat 768 775	ascenso
+T57	Term-Termcat 961 969	ascensos
+T58	Term-Termcat 465 473	atención
+T59	Term-Termcat 812 830	convenio colectivo
+T60	Term-Termcat 987 994	empresa
+T61	Term-Termcat 1121 1128	empresa
+T62	Term-Termcat 32 39	empresa
+T63	Term-Termcat 1709 1714	falta
+T64	Term-Termcat 318 335	grupo profesional
+T65	Term-Termcat 641 658	grupo profesional
+T66	Term-Termcat 207 226	movilidad funcional
+T67	Term-Termcat 1826 1845	movilidad funcional
+T68	Term-Termcat 6 25	movilidad funcional
+T69	Term-Termcat 1193 1201	personal
+T70	Term-Termcat 867 874	vacante
+T71	Term-Termcat 1408 1416	vacantes
+T72	Term-Termcat 1036 1044	salarial
+T73	Term-Termcat 509 517	decisión
+T74	Term-Termcat 176 184	dignidad
+T75	Term-Termcat 1442 1449	derecho
+T76	Term-Termcat 1240 1252	jurisdicción
+T77	Term-Termcat 1273 1284	negociación
+T78	Term-Termcat 1662 1678	despido objetivo
+T79	Term-Termcat 56 63	acuerdo
+T80	Term-Termcat 1718 1728	adaptación
+T81	Term-Termcat 1653 1669	causa de despido
+T82	Term-Termcat 1151 1157	comité
+T83	Term-Termcat 925 933	conforme
+T84	Term-Termcat 1372 1379	efectos
+T85	Term-Termcat 1240 1259	jurisdicción social
+T86	Term-Termcat 950 957	materia
+T87	Term-Termcat 1000 1009	perjuicio
+T88	Term-Termcat 940 946	reglas
+T89	Term-Termcat 620 630	superiores
+T90	Term-Termcat 267 277	superiores
+T91	Term-Termcat 674 682	superior
+T92	Term-Termcat 1305 1315	establecer
+T93	Term-Termcat 496 505	comunicar
+T94	Term-Termcat 1223 1231	reclamar
+T95	Term-Termcat 756 764	reclamar
+T96	Term-Termcat 1013 1021	reclamar
+T97	Term-Termcat 1383 1391	reclamar
+T98	Term-Termcat 851 860	cobertura
+T99	Term-Termcat 1395 1404	cobertura
+T100	Term-Termcat 235 246	realización
+T101	Term-Termcat 1749 1760	realización
+T102	Term-Termcat 1670 1678	objetivo
+T103	Term-AttentionRank 610 658	funciones superiores a las del grupo profesional
+T104	Term-AttentionRank 250 259	funciones
+T105	Term-AttentionRank 1562 1571	funciones
+T106	Term-AttentionRank 1764 1773	funciones
+T107	Term-AttentionRank 207 226	movilidad funcional
+T108	Term-AttentionRank 6 25	movilidad funcional
+T109	Term-AttentionRank 867 910	vacante correspondiente a las funciones por
+T110	Term-AttentionRank 1682 1703	ineptitud sobrevenida
+T111	Term-AttentionRank 1455 1498	retribución correspondiente a las funciones
+T112	Term-AttentionRank 318 335	grupo profesional
+T113	Term-AttentionRank 1424 1434	trabajador
+T114	Term-AttentionRank 739 749	trabajador
+T115	Term-AttentionRank 1206 1216	trabajador
+T116	Term-AttentionRank 189 199	trabajador
+T117	Term-AttentionRank 568 580	trabajadores
+T118	Term-AttentionRank 1807 1845	consecuencia de la movilidad funcional
+T119	Term-AttentionRank 666 684	periodo superior a
+T120	Term-AttentionRank 842 846	caso
+T121	Term-AttentionRank 588 592	caso
+T122	Term-AttentionRank 1167 1171	caso
+T123	Term-AttentionRank 1539 1544	casos
+T124	Term-AttentionRank 70 93	titulaciones académicas
+T125	Term-AttentionRank 524 531	razones
+T126	Term-AttentionRank 374 381	razones
+T127	Term-AttentionRank 812 830	convenio colectivo
+T128	Term-AttentionRank 1132 1146	previo informe
+T129	Term-Rebel 1180 1201	delegados de personal
+T130	Term-Rebel 1151 1157	comité
+T131	Term-IATE 478 488	empresario
+T132	Term-IATE 1361 1369	artículo
+T133	Term-IATE 1139 1146	informe
+T134	Term-IATE 1000 1009	perjuicio
+T135	Term-IATE 189 199	trabajador
+T136	Term-IATE 739 749	trabajador
+T137	Term-IATE 1206 1216	trabajador
+T138	Term-IATE 1424 1434	trabajador
+T139	Term-IATE 568 580	trabajadores
+T140	Term-IATE 1455 1466	retribución
+T141	Term-IATE 1608 1619	retribución
+T142	Term-IATE 318 323	grupo
+T143	Term-IATE 641 646	grupo
+T144	Term-IATE 318 323	grupo
+T145	Term-IATE 641 646	grupo
+T146	Term-IATE 812 820	convenio
+T147	Term-IATE 1273 1284	negociación
+T148	Term-IATE 509 517	decisión
+T149	Term-IATE 1068 1076	acciones
+T150	Term-IATE 1273 1294	negociación colectiva
+T151	Term-IATE 812 830	convenio colectivo
+T152	Term-IATE 546 560	representantes
+T153	Term-IATE 1180 1189	delegados
+T154	Term-IATE 690 695	meses
+T155	Term-IATE 1709 1714	falta
+T156	Term-IATE 56 63	acuerdo
+T157	Term-IATE 235 246	realización
+T158	Term-IATE 1749 1760	realización
+T159	Term-IATE 32 39	empresa
+T160	Term-IATE 987 994	empresa
+T161	Term-IATE 1121 1128	empresa
+T162	Term-IATE 950 957	materia
+T163	Term-IATE 318 335	grupo profesional
+T164	Term-IATE 641 658	grupo profesional
+T165	Term-IATE 138 148	prestación
+R1	part_of-Rebel Arg1:T129 Arg2:T130

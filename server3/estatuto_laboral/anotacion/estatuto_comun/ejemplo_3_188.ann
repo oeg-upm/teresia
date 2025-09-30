@@ -1,0 +1,31 @@
+T1	Term-DPEJ 210 216	recibo
+T2	Term-DPEJ 203 209	acusar
+T3	Term-DPEJ 0 8	Artículo
+T4	Term-DPEJ 62 67	orden
+T5	Term-DPEJ 62 75	orden del día
+T6	Term-Termcat 62 67	orden
+T7	Term-Termcat 210 216	recibo
+T8	Term-Termcat 0 8	Artículo
+T9	Term-Termcat 62 75	orden del día
+T10	Term-Termcat 13 25	Convocatoria
+T11	Term-Termcat 30 42	convocatoria
+T12	Term-Termcat 203 216	acusar recibo
+T13	Term-AttentionRank 13 25	Convocatoria
+T14	Term-AttentionRank 30 42	convocatoria
+T15	Term-AttentionRank 210 216	recibo
+T16	Term-AttentionRank 155 160	horas
+T17	Term-AttentionRank 62 67	orden
+T18	Term-AttentionRank 72 75	día
+T19	Term-AttentionRank 164 174	antelación
+T20	Term-AttentionRank 94 105	convocantes
+T21	Term-AttentionRank 48 57	expresión
+T22	Term-AttentionRank 124 134	empresario
+T23	Term-AttentionRank 203 209	acusar
+T24	Term-Rebel 13 25	Convocatoria
+T25	Term-Rebel 62 75	orden del día
+T26	Term-IATE 124 134	empresario
+T27	Term-IATE 0 8	Artículo
+T28	Term-IATE 62 67	orden
+T29	Term-IATE 13 25	Convocatoria
+T30	Term-IATE 30 42	convocatoria
+R1	subclass_of-Rebel Arg1:T24 Arg2:T25

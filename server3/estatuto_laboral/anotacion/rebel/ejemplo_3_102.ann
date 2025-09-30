@@ -1,0 +1,3 @@
+T1	concept 188 201	contrato fijo
+T2	concept 3 11	contrato
+R1	subclass_of Arg1:T1 Arg2:T2

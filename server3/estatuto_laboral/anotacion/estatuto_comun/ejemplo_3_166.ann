@@ -1,0 +1,88 @@
+T1	Term-DPEJ 515 528	resarcimiento
+T2	Term-DPEJ 709 719	aplicación
+T3	Term-DPEJ 766 771	letra
+T4	Term-DPEJ 672 681	convenios
+T5	Term-DPEJ 537 542	daños
+T6	Term-DPEJ 13 18	Lugar
+T7	Term-DPEJ 37 42	lugar
+T8	Term-DPEJ 141 146	lugar
+T9	Term-DPEJ 0 8	Artículo
+T10	Term-DPEJ 630 637	empresa
+T11	Term-DPEJ 672 692	convenios colectivos
+T12	Term-DPEJ 22 29	reunión
+T13	Term-DPEJ 46 53	reunión
+T14	Term-DPEJ 447 454	reunión
+T15	Term-DPEJ 590 597	reunión
+T16	Term-DPEJ 326 331	casos
+T17	Term-DPEJ 184 191	acuerdo
+T18	Term-DPEJ 62 68	centro
+T19	Term-DPEJ 248 254	centro
+T20	Term-DPEJ 292 300	asamblea
+T21	Term-DPEJ 72 79	trabajo
+T22	Term-DPEJ 169 176	trabajo
+T23	Term-DPEJ 258 265	trabajo
+T24	Term-DPEJ 62 79	centro de trabajo
+T25	Term-DPEJ 248 265	centro de trabajo
+T26	Term-Termcat 672 681	convenios
+T27	Term-Termcat 537 542	daños
+T28	Term-Termcat 379 382	ley
+T29	Term-Termcat 515 528	resarcimiento
+T30	Term-Termcat 0 8	Artículo
+T31	Term-Termcat 590 597	reunión
+T32	Term-Termcat 46 53	reunión
+T33	Term-Termcat 447 454	reunión
+T34	Term-Termcat 22 29	reunión
+T35	Term-Termcat 248 265	centro de trabajo
+T36	Term-Termcat 62 79	centro de trabajo
+T37	Term-Termcat 672 692	convenios colectivos
+T38	Term-Termcat 630 637	empresa
+T39	Term-Termcat 169 176	trabajo
+T40	Term-Termcat 611 617	Cierre
+T41	Term-Termcat 184 191	acuerdo
+T42	Term-Termcat 709 719	aplicación
+T43	Term-Termcat 292 300	asamblea
+T44	Term-Termcat 274 285	celebración
+T45	Term-Termcat 618 623	legal
+T46	Term-Termcat 666 671	sobre
+T47	Term-AttentionRank 590 597	reunión
+T48	Term-AttentionRank 46 53	reunión
+T49	Term-AttentionRank 447 454	reunión
+T50	Term-AttentionRank 22 29	reunión
+T51	Term-AttentionRank 258 265	trabajo
+T52	Term-AttentionRank 72 79	trabajo
+T53	Term-AttentionRank 169 176	trabajo
+T54	Term-AttentionRank 13 18	Lugar
+T55	Term-AttentionRank 37 42	lugar
+T56	Term-AttentionRank 141 146	lugar
+T57	Term-AttentionRank 184 209	acuerdo con el empresario
+T58	Term-AttentionRank 248 254	centro
+T59	Term-AttentionRank 62 68	centro
+T60	Term-AttentionRank 88 99	condiciones
+T61	Term-AttentionRank 672 692	convenios colectivos
+T62	Term-AttentionRank 357 370	disposiciones
+T63	Term-AttentionRank 217 227	empresario
+T64	Term-AttentionRank 515 528	resarcimiento
+T65	Term-AttentionRank 160 165	horas
+T66	Term-AttentionRank 766 771	letra
+T67	Term-AttentionRank 643 665	reuniones informativas
+T68	Term-AttentionRank 315 331	siguientes casos
+T69	Term-AttentionRank 292 300	asamblea
+T70	Term-Rebel 292 300	asamblea
+T71	Term-Rebel 22 29	reunión
+T72	Term-IATE 709 719	aplicación
+T73	Term-IATE 199 209	empresario
+T74	Term-IATE 217 227	empresario
+T75	Term-IATE 537 542	daños
+T76	Term-IATE 0 8	Artículo
+T77	Term-IATE 292 300	asamblea
+T78	Term-IATE 766 771	letra
+T79	Term-IATE 672 681	convenios
+T80	Term-IATE 672 692	convenios colectivos
+T81	Term-IATE 425 430	meses
+T82	Term-IATE 184 191	acuerdo
+T83	Term-IATE 630 637	empresa
+T84	Term-IATE 22 29	reunión
+T85	Term-IATE 46 53	reunión
+T86	Term-IATE 447 454	reunión
+T87	Term-IATE 590 597	reunión
+R1	subclass_of-Rebel Arg1:T70 Arg2:T71

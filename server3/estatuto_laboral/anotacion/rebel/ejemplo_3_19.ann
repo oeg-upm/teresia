@@ -1,0 +1,3 @@
+T1	concept 12 53	Relaciones laborales de carácter especial
+T2	concept 12 32	Relaciones laborales
+R1	subclass_of Arg1:T1 Arg2:T2

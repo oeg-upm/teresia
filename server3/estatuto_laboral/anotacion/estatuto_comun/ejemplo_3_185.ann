@@ -1,0 +1,186 @@
+T1	Term-DPEJ 1216 1221	cargo
+T2	Term-DPEJ 651 665	representantes
+T3	Term-DPEJ 1590 1609	jurisdicción social
+T4	Term-DPEJ 1029 1035	tiempo
+T5	Term-DPEJ 1338 1347	convenios
+T6	Term-DPEJ 18 30	trabajadores
+T7	Term-DPEJ 624 634	trabajador
+T8	Term-DPEJ 786 796	trabajador
+T9	Term-DPEJ 1446 1456	trabajador
+T10	Term-DPEJ 1724 1734	trabajador
+T11	Term-DPEJ 855 867	compensación
+T12	Term-DPEJ 1098 1110	compensación
+T13	Term-DPEJ 441 453	organización
+T14	Term-DPEJ 804 811	derecho
+T15	Term-DPEJ 1712 1719	derecho
+T16	Term-DPEJ 1590 1602	jurisdicción
+T17	Term-DPEJ 107 115	empresas
+T18	Term-DPEJ 206 213	empresa
+T19	Term-DPEJ 482 489	empresa
+T20	Term-DPEJ 1412 1417	plazo
+T21	Term-DPEJ 224 231	cambios
+T22	Term-DPEJ 1230 1238	términos
+T23	Term-DPEJ 1338 1358	convenios colectivos
+T24	Term-DPEJ 722 727	fecha
+T25	Term-DPEJ 901 909	contrato
+T26	Term-DPEJ 1504 1512	contrato
+T27	Term-DPEJ 1692 1696	caso
+T28	Term-DPEJ 651 673	representantes legales
+T29	Term-DPEJ 959 966	salario
+T30	Term-DPEJ 1302 1309	límites
+T31	Term-DPEJ 121 128	centros
+T32	Term-DPEJ 167 173	centro
+T33	Term-DPEJ 1758 1764	centro
+T34	Term-DPEJ 1266 1272	partes
+T35	Term-DPEJ 94 103	servicios
+T36	Term-DPEJ 978 986	servicio
+T37	Term-DPEJ 560 568	decisión
+T38	Term-DPEJ 761 769	decisión
+T39	Term-DPEJ 1544 1552	decisión
+T40	Term-DPEJ 927 940	indemnización
+T41	Term-DPEJ 534 543	actividad
+T42	Term-DPEJ 132 139	trabajo
+T43	Term-DPEJ 177 184	trabajo
+T44	Term-DPEJ 468 475	trabajo
+T45	Term-DPEJ 1768 1775	trabajo
+T46	Term-DPEJ 885 894	extinción
+T47	Term-DPEJ 1488 1497	extinción
+T48	Term-DPEJ 167 184	centro de trabajo
+T49	Term-DPEJ 1758 1775	centro de trabajo
+T50	Term-DPEJ 6 14	traslado
+T51	Term-DPEJ 572 580	traslado
+T52	Term-DPEJ 773 781	traslado
+T53	Term-DPEJ 829 837	traslado
+T54	Term-DPEJ 1397 1405	traslado
+T55	Term-DPEJ 1637 1645	traslado
+T56	Term-Termcat 1338 1347	convenios
+T57	Term-Termcat 94 103	servicios
+T58	Term-Termcat 978 986	servicio
+T59	Term-Termcat 1230 1238	términos
+T60	Term-Termcat 1412 1417	plazo
+T61	Term-Termcat 1098 1110	compensación
+T62	Term-Termcat 855 867	compensación
+T63	Term-Termcat 901 909	contrato
+T64	Term-Termcat 1504 1512	contrato
+T65	Term-Termcat 651 665	representantes
+T66	Term-Termcat 235 245	residencia
+T67	Term-Termcat 1266 1272	partes
+T68	Term-Termcat 1614 1623	sentencia
+T69	Term-Termcat 1216 1221	cargo
+T70	Term-Termcat 167 184	centro de trabajo
+T71	Term-Termcat 1758 1775	centro de trabajo
+T72	Term-Termcat 409 423	competitividad
+T73	Term-Termcat 1338 1358	convenios colectivos
+T74	Term-Termcat 1712 1734	derecho del trabajador
+T75	Term-Termcat 107 115	empresas
+T76	Term-Termcat 482 489	empresa
+T77	Term-Termcat 206 213	empresa
+T78	Term-Termcat 132 139	trabajo
+T79	Term-Termcat 468 475	trabajo
+T80	Term-Termcat 1421 1434	incorporación
+T81	Term-Termcat 927 940	indemnización
+T82	Term-Termcat 1080 1093	mensualidades
+T83	Term-Termcat 425 438	productividad
+T84	Term-Termcat 959 966	salario
+T85	Term-Termcat 1397 1405	traslado
+T86	Term-Termcat 1637 1645	traslado
+T87	Term-Termcat 773 781	traslado
+T88	Term-Termcat 6 14	traslado
+T89	Term-Termcat 572 580	traslado
+T90	Term-Termcat 829 837	traslado
+T91	Term-Termcat 560 568	decisión
+T92	Term-Termcat 1544 1552	decisión
+T93	Term-Termcat 761 769	decisión
+T94	Term-Termcat 804 811	derecho
+T95	Term-Termcat 1712 1719	derecho
+T96	Term-Termcat 885 894	extinción
+T97	Term-Termcat 1488 1497	extinción
+T98	Term-Termcat 1590 1602	jurisdicción
+T99	Term-Termcat 534 543	actividad
+T100	Term-Termcat 224 231	cambios
+T101	Term-Termcat 872 878	gastos
+T102	Term-Termcat 1169 1175	gastos
+T103	Term-Termcat 1553 1564	empresarial
+T104	Term-Termcat 544 555	empresarial
+T105	Term-Termcat 1380 1392	ejecutividad
+T106	Term-Termcat 1590 1609	jurisdicción social
+T107	Term-Termcat 666 673	legales
+T108	Term-Termcat 1364 1373	perjuicio
+T109	Term-Termcat 322 332	producción
+T110	Term-Termcat 140 147	móviles
+T111	Term-Termcat 651 673	representantes legales
+T112	Term-AttentionRank 1397 1405	traslado
+T113	Term-AttentionRank 773 781	traslado
+T114	Term-AttentionRank 6 14	traslado
+T115	Term-AttentionRank 572 580	traslado
+T116	Term-AttentionRank 829 837	traslado
+T117	Term-AttentionRank 1364 1392	perjuicio de la ejecutividad
+T118	Term-AttentionRank 121 128	centros
+T119	Term-AttentionRank 1758 1764	centro
+T120	Term-AttentionRank 167 173	centro
+T121	Term-AttentionRank 132 139	trabajo
+T122	Term-AttentionRank 1768 1775	trabajo
+T123	Term-AttentionRank 177 184	trabajo
+T124	Term-AttentionRank 468 475	trabajo
+T125	Term-AttentionRank 560 568	decisión
+T126	Term-AttentionRank 1544 1552	decisión
+T127	Term-AttentionRank 761 769	decisión
+T128	Term-AttentionRank 107 115	empresas
+T129	Term-AttentionRank 482 489	empresa
+T130	Term-AttentionRank 206 213	empresa
+T131	Term-AttentionRank 18 30	trabajadores
+T132	Term-AttentionRank 1446 1456	trabajador
+T133	Term-AttentionRank 624 634	trabajador
+T134	Term-AttentionRank 1724 1734	trabajador
+T135	Term-AttentionRank 786 796	trabajador
+T136	Term-AttentionRank 712 716	días
+T137	Term-AttentionRank 951 955	días
+T138	Term-AttentionRank 971 974	año
+T139	Term-AttentionRank 1052 1055	año
+T140	Term-AttentionRank 441 453	organización
+T141	Term-AttentionRank 94 103	servicios
+T142	Term-AttentionRank 978 986	servicio
+T143	Term-AttentionRank 804 811	derecho
+T144	Term-AttentionRank 1712 1719	derecho
+T145	Term-AttentionRank 1637 1657	traslado justificado
+T146	Term-AttentionRank 224 231	cambios
+T147	Term-AttentionRank 683 700	antelación mínima
+T148	Term-Rebel 18 30	trabajadores
+T149	Term-Rebel 206 213	empresa
+T150	Term-IATE 610 620	empresario
+T151	Term-IATE 651 673	representantes legales
+T152	Term-IATE 1216 1221	cargo
+T153	Term-IATE 1364 1373	perjuicio
+T154	Term-IATE 872 878	gastos
+T155	Term-IATE 1169 1175	gastos
+T156	Term-IATE 901 909	contrato
+T157	Term-IATE 1504 1512	contrato
+T158	Term-IATE 18 30	trabajadores
+T159	Term-IATE 624 634	trabajador
+T160	Term-IATE 786 796	trabajador
+T161	Term-IATE 1446 1456	trabajador
+T162	Term-IATE 1724 1734	trabajador
+T163	Term-IATE 959 966	salario
+T164	Term-IATE 1412 1417	plazo
+T165	Term-IATE 409 423	competitividad
+T166	Term-IATE 534 543	actividad
+T167	Term-IATE 1338 1347	convenios
+T168	Term-IATE 1200 1210	familiares
+T169	Term-IATE 1614 1623	sentencia
+T170	Term-IATE 560 568	decisión
+T171	Term-IATE 761 769	decisión
+T172	Term-IATE 1544 1552	decisión
+T173	Term-IATE 1266 1272	partes
+T174	Term-IATE 885 894	extinción
+T175	Term-IATE 1488 1497	extinción
+T176	Term-IATE 1338 1358	convenios colectivos
+T177	Term-IATE 651 665	representantes
+T178	Term-IATE 1007 1012	meses
+T179	Term-IATE 235 245	residencia
+T180	Term-IATE 855 867	compensación
+T181	Term-IATE 1098 1110	compensación
+T182	Term-IATE 107 115	empresas
+T183	Term-IATE 206 213	empresa
+T184	Term-IATE 482 489	empresa
+T185	Term-IATE 425 438	productividad
+R1	part_of-Rebel Arg1:T148 Arg2:T149

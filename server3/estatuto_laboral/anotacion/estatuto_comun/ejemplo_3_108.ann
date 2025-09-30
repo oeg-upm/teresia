@@ -1,0 +1,152 @@
+T1	Term-DPEJ 638 645	cuantía
+T2	Term-DPEJ 794 801	cuantía
+T3	Term-DPEJ 1057 1064	cuantía
+T4	Term-DPEJ 0 8	Artículo
+T5	Term-DPEJ 1034 1050	inembargabilidad
+T6	Term-DPEJ 1206 1222	inembargabilidad
+T7	Term-DPEJ 1465 1481	inembargabilidad
+T8	Term-DPEJ 264 271	consumo
+T9	Term-DPEJ 477 481	caso
+T10	Term-DPEJ 1085 1089	caso
+T11	Term-DPEJ 1319 1323	caso
+T12	Term-DPEJ 13 20	Salario
+T13	Term-DPEJ 184 191	salario
+T14	Term-DPEJ 570 577	salario
+T15	Term-DPEJ 755 762	salario
+T16	Term-DPEJ 1122 1129	salario
+T17	Term-DPEJ 1271 1278	salario
+T18	Term-DPEJ 1337 1344	salario
+T19	Term-DPEJ 1520 1527	salario
+T20	Term-DPEJ 653 661	salarios
+T21	Term-DPEJ 1196 1202	límite
+T22	Term-DPEJ 1455 1461	límite
+T23	Term-DPEJ 13 27	Salario mínimo
+T24	Term-DPEJ 184 198	salario mínimo
+T25	Term-DPEJ 570 584	salario mínimo
+T26	Term-DPEJ 755 769	salario mínimo
+T27	Term-DPEJ 1271 1285	salario mínimo
+T28	Term-DPEJ 1520 1534	salario mínimo
+T29	Term-DPEJ 342 355	participación
+T30	Term-DPEJ 939 944	forma
+T31	Term-DPEJ 76 84	consulta
+T32	Term-DPEJ 1385 1390	parte
+T33	Term-DPEJ 1156 1169	gratificación
+T34	Term-DPEJ 13 44	Salario mínimo interprofesional
+T35	Term-DPEJ 184 215	salario mínimo interprofesional
+T36	Term-DPEJ 570 601	salario mínimo interprofesional
+T37	Term-DPEJ 755 786	salario mínimo interprofesional
+T38	Term-DPEJ 1271 1302	salario mínimo interprofesional
+T39	Term-DPEJ 1520 1551	salario mínimo interprofesional
+T40	Term-DPEJ 253 260	precios
+T41	Term-DPEJ 538 545	precios
+T42	Term-DPEJ 696 704	conjunto
+T43	Term-DPEJ 360 367	trabajo
+T44	Term-Termcat 939 944	forma
+T45	Term-Termcat 1094 1104	particular
+T46	Term-Termcat 253 260	precios
+T47	Term-Termcat 538 545	precios
+T48	Term-Termcat 374 379	renta
+T49	Term-Termcat 0 8	Artículo
+T50	Term-Termcat 1385 1390	parte
+T51	Term-Termcat 360 367	trabajo
+T52	Term-Termcat 1156 1169	gratificación
+T53	Term-Termcat 993 1014	pagas extraordinarias
+T54	Term-Termcat 1172 1191	paga extraordinaria
+T55	Term-Termcat 243 271	índice de precios de consumo
+T56	Term-Termcat 923 930	devengo
+T57	Term-Termcat 1411 1416	pagas
+T58	Term-Termcat 279 292	productividad
+T59	Term-Termcat 976 985	prorrateo
+T60	Term-Termcat 450 458	revisión
+T61	Term-Termcat 557 565	revisión
+T62	Term-Termcat 1337 1344	salario
+T63	Term-Termcat 1122 1129	salario
+T64	Term-Termcat 653 661	salarios
+T65	Term-Termcat 13 44	Salario mínimo interprofesional
+T66	Term-Termcat 1271 1302	salario mínimo interprofesional
+T67	Term-Termcat 570 601	salario mínimo interprofesional
+T68	Term-Termcat 184 215	salario mínimo interprofesional
+T69	Term-Termcat 1520 1551	salario mínimo interprofesional
+T70	Term-Termcat 755 786	salario mínimo interprofesional
+T71	Term-Termcat 619 629	estructura
+T72	Term-Termcat 52 60	Gobierno
+T73	Term-Termcat 229 235	cuenta
+T74	Term-Termcat 896 902	cuenta
+T75	Term-Termcat 707 714	cómputo
+T76	Term-Termcat 1555 1562	cómputo
+T77	Term-Termcat 948 955	cómputo
+T78	Term-Termcat 848 855	efectos
+T79	Term-Termcat 134 147	empresariales
+T80	Term-Termcat 299 307	nacional
+T81	Term-Termcat 380 388	nacional
+T82	Term-Termcat 342 355	participación
+T83	Term-Termcat 1057 1064	cuantía
+T84	Term-Termcat 638 645	cuantía
+T85	Term-Termcat 794 801	cuantía
+T86	Term-Termcat 729 739	superiores
+T87	Term-Termcat 1249 1254	doble
+T88	Term-Termcat 519 524	sobre
+T89	Term-AttentionRank 1206 1222	inembargabilidad
+T90	Term-AttentionRank 1034 1050	inembargabilidad
+T91	Term-AttentionRank 1465 1481	inembargabilidad
+T92	Term-AttentionRank 13 27	Salario mínimo
+T93	Term-AttentionRank 1271 1285	salario mínimo
+T94	Term-AttentionRank 184 198	salario mínimo
+T95	Term-AttentionRank 570 584	salario mínimo
+T96	Term-AttentionRank 1520 1534	salario mínimo
+T97	Term-AttentionRank 755 769	salario mínimo
+T98	Term-AttentionRank 253 260	precios
+T99	Term-AttentionRank 538 545	precios
+T100	Term-AttentionRank 1122 1137	salario mensual
+T101	Term-AttentionRank 1337 1352	salario mensual
+T102	Term-AttentionRank 1085 1089	caso
+T103	Term-AttentionRank 1319 1323	caso
+T104	Term-AttentionRank 477 481	caso
+T105	Term-AttentionRank 528 534	índice
+T106	Term-AttentionRank 243 249	índice
+T107	Term-AttentionRank 993 998	pagas
+T108	Term-AttentionRank 1411 1416	pagas
+T109	Term-AttentionRank 1172 1176	paga
+T110	Term-AttentionRank 1156 1169	gratificación
+T111	Term-AttentionRank 948 955	cómputo
+T112	Term-AttentionRank 707 720	cómputo anual
+T113	Term-AttentionRank 1555 1568	cómputo anual
+T114	Term-AttentionRank 229 235	cuenta
+T115	Term-AttentionRank 896 902	cuenta
+T116	Term-AttentionRank 1057 1064	cuantía
+T117	Term-AttentionRank 638 645	cuantía
+T118	Term-AttentionRank 794 801	cuantía
+T119	Term-AttentionRank 93 118	organizaciones sindicales
+T120	Term-AttentionRank 619 629	estructura
+T121	Term-AttentionRank 450 468	revisión semestral
+T122	Term-Rebel 13 44	Salario mínimo interprofesional
+T123	Term-Rebel 653 675	salarios profesionales
+T124	Term-IATE 76 84	consulta
+T125	Term-IATE 619 629	estructura
+T126	Term-IATE 0 8	Artículo
+T127	Term-IATE 993 998	pagas
+T128	Term-IATE 1411 1416	pagas
+T129	Term-IATE 1172 1176	paga
+T130	Term-IATE 13 20	Salario
+T131	Term-IATE 184 191	salario
+T132	Term-IATE 570 577	salario
+T133	Term-IATE 755 762	salario
+T134	Term-IATE 1122 1129	salario
+T135	Term-IATE 1271 1278	salario
+T136	Term-IATE 1337 1344	salario
+T137	Term-IATE 1520 1527	salario
+T138	Term-IATE 653 661	salarios
+T139	Term-IATE 696 704	conjunto
+T140	Term-IATE 1385 1390	parte
+T141	Term-IATE 1592 1597	meses
+T142	Term-IATE 243 249	índice
+T143	Term-IATE 528 534	índice
+T144	Term-IATE 342 355	participación
+T145	Term-IATE 13 27	Salario mínimo
+T146	Term-IATE 184 198	salario mínimo
+T147	Term-IATE 570 584	salario mínimo
+T148	Term-IATE 755 769	salario mínimo
+T149	Term-IATE 1271 1285	salario mínimo
+T150	Term-IATE 1520 1534	salario mínimo
+T151	Term-IATE 279 292	productividad
+R1	subclass_of-Rebel Arg1:T122 Arg2:T123

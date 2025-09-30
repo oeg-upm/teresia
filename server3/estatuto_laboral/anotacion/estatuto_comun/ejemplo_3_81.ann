@@ -1,0 +1,150 @@
+T1	Term-DPEJ 1554 1560	recibo
+T2	Term-DPEJ 106 112	reglas
+T3	Term-DPEJ 184 190	reglas
+T4	Term-DPEJ 1150 1157	materia
+T5	Term-DPEJ 411 417	tiempo
+T6	Term-DPEJ 130 136	letras
+T7	Term-DPEJ 1049 1054	letra
+T8	Term-DPEJ 748 756	convenio
+T9	Term-DPEJ 208 218	trabajador
+T10	Term-DPEJ 583 593	trabajador
+T11	Term-DPEJ 829 839	trabajador
+T12	Term-DPEJ 1201 1210	artículos
+T13	Term-DPEJ 1371 1380	Seguridad
+T14	Term-DPEJ 1623 1632	Seguridad
+T15	Term-DPEJ 748 766	convenio colectivo
+T16	Term-DPEJ 457 464	jornada
+T17	Term-DPEJ 1161 1168	jornada
+T18	Term-DPEJ 399 408	contratos
+T19	Term-DPEJ 803 811	contrato
+T20	Term-DPEJ 152 156	caso
+T21	Term-DPEJ 1129 1133	caso
+T22	Term-DPEJ 1575 1583	salarios
+T23	Term-DPEJ 1139 1146	límites
+T24	Term-DPEJ 665 671	número
+T25	Term-DPEJ 1469 1475	número
+T26	Term-DPEJ 1346 1351	bases
+T27	Term-DPEJ 1413 1418	bases
+T28	Term-DPEJ 1371 1387	Seguridad Social
+T29	Term-DPEJ 1623 1639	Seguridad Social
+T30	Term-DPEJ 1478 1489	retribución
+T31	Term-DPEJ 6 11	pacto
+T32	Term-DPEJ 360 365	pacto
+T33	Term-DPEJ 468 475	trabajo
+T34	Term-Termcat 748 756	convenio
+T35	Term-Termcat 1478 1489	retribución
+T36	Term-Termcat 399 408	contratos
+T37	Term-Termcat 803 811	contrato
+T38	Term-Termcat 360 365	pacto
+T39	Term-Termcat 6 11	pacto
+T40	Term-Termcat 1554 1560	recibo
+T41	Term-Termcat 1201 1210	artículos
+T42	Term-Termcat 1413 1430	bases reguladoras
+T43	Term-Termcat 309 325	conducta laboral
+T44	Term-Termcat 887 903	conducta laboral
+T45	Term-Termcat 748 766	convenio colectivo
+T46	Term-Termcat 1607 1639	cotización a la Seguridad Social
+T47	Term-Termcat 1355 1387	cotización a la Seguridad Social
+T48	Term-Termcat 1171 1180	descansos
+T49	Term-Termcat 369 390	horas complementarias
+T50	Term-Termcat 1497 1518	horas complementarias
+T51	Term-Termcat 994 1015	horas complementarias
+T52	Term-Termcat 923 944	horas complementarias
+T53	Term-Termcat 243 264	horas complementarias
+T54	Term-Termcat 15 36	horas complementarias
+T55	Term-Termcat 1080 1101	horas complementarias
+T56	Term-Termcat 612 633	horas complementarias
+T57	Term-Termcat 1241 1262	horas complementarias
+T58	Term-Termcat 457 475	jornada de trabajo
+T59	Term-Termcat 1575 1583	salarios
+T60	Term-Termcat 429 437	duración
+T61	Term-Termcat 637 647	aceptación
+T62	Term-Termcat 1413 1418	bases
+T63	Term-Termcat 1346 1351	bases
+T64	Term-Termcat 1371 1380	Seguridad
+T65	Term-Termcat 1623 1632	Seguridad
+T66	Term-Termcat 514 521	cómputo
+T67	Term-Termcat 1593 1603	documentos
+T68	Term-Termcat 1335 1342	efectos
+T69	Term-Termcat 964 971	efectos
+T70	Term-Termcat 1458 1464	efecto
+T71	Term-Termcat 273 278	haber
+T72	Term-Termcat 160 174	incumplimiento
+T73	Term-Termcat 1561 1571	individual
+T74	Term-Termcat 1150 1157	materia
+T75	Term-Termcat 6 36	pacto de horas complementarias
+T76	Term-Termcat 360 390	pacto de horas complementarias
+T77	Term-Termcat 346 355	perjuicio
+T78	Term-Termcat 184 190	reglas
+T79	Term-Termcat 106 112	reglas
+T80	Term-Termcat 92 99	sujetos
+T81	Term-Termcat 309 317	conducta
+T82	Term-Termcat 887 895	conducta
+T83	Term-Termcat 224 235	realización
+T84	Term-Termcat 845 856	realización
+T85	Term-Termcat 58 69	realización
+T86	Term-Termcat 1065 1076	realización
+T87	Term-Termcat 597 608	realización
+T88	Term-Termcat 665 671	número
+T89	Term-Termcat 1469 1475	número
+T90	Term-AttentionRank 369 390	horas complementarias
+T91	Term-AttentionRank 1497 1518	horas complementarias
+T92	Term-AttentionRank 994 1015	horas complementarias
+T93	Term-AttentionRank 923 944	horas complementarias
+T94	Term-AttentionRank 243 264	horas complementarias
+T95	Term-AttentionRank 15 36	horas complementarias
+T96	Term-AttentionRank 1080 1101	horas complementarias
+T97	Term-AttentionRank 612 633	horas complementarias
+T98	Term-AttentionRank 1241 1262	horas complementarias
+T99	Term-AttentionRank 866 871	horas
+T100	Term-AttentionRank 775 780	horas
+T101	Term-AttentionRank 224 235	realización
+T102	Term-AttentionRank 845 856	realización
+T103	Term-AttentionRank 58 69	realización
+T104	Term-AttentionRank 1065 1076	realización
+T105	Term-AttentionRank 597 608	realización
+T106	Term-AttentionRank 399 408	contratos
+T107	Term-AttentionRank 803 811	contrato
+T108	Term-AttentionRank 346 365	perjuicio del pacto
+T109	Term-AttentionRank 106 147	reglas previstas en las letras anteriores
+T110	Term-AttentionRank 184 190	reglas
+T111	Term-AttentionRank 43 54	condiciones
+T112	Term-AttentionRank 457 464	jornada
+T113	Term-AttentionRank 665 671	número
+T114	Term-AttentionRank 1469 1475	número
+T115	Term-AttentionRank 748 766	convenio colectivo
+T116	Term-AttentionRank 1201 1210	artículos
+T117	Term-AttentionRank 495 510	horas semanales
+T118	Term-AttentionRank 1150 1168	materia de jornada
+T119	Term-AttentionRank 829 839	trabajador
+T120	Term-AttentionRank 208 218	trabajador
+T121	Term-AttentionRank 583 593	trabajador
+T122	Term-Rebel 1355 1387	cotización a la Seguridad Social
+T123	Term-IATE 1371 1387	Seguridad Social
+T124	Term-IATE 1623 1639	Seguridad Social
+T125	Term-IATE 532 542	empresario
+T126	Term-IATE 1201 1210	artículos
+T127	Term-IATE 429 437	duración
+T128	Term-IATE 130 136	letras
+T129	Term-IATE 1049 1054	letra
+T130	Term-IATE 346 355	perjuicio
+T131	Term-IATE 399 408	contratos
+T132	Term-IATE 803 811	contrato
+T133	Term-IATE 208 218	trabajador
+T134	Term-IATE 583 593	trabajador
+T135	Term-IATE 829 839	trabajador
+T136	Term-IATE 1575 1583	salarios
+T137	Term-IATE 1478 1489	retribución
+T138	Term-IATE 748 756	convenio
+T139	Term-IATE 1171 1180	descansos
+T140	Term-IATE 1371 1380	Seguridad
+T141	Term-IATE 1623 1632	Seguridad
+T142	Term-IATE 563 570	momento
+T143	Term-IATE 748 766	convenio colectivo
+T144	Term-IATE 58 69	realización
+T145	Term-IATE 224 235	realización
+T146	Term-IATE 597 608	realización
+T147	Term-IATE 845 856	realización
+T148	Term-IATE 1065 1076	realización
+T149	Term-IATE 1150 1157	materia
+R1	part_of-Rebel Arg1:T122 Arg2:T122
