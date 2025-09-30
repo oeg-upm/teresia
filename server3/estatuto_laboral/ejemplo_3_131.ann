@@ -1,0 +1,62 @@
+T1	Term-DPEJ 266 280	representantes
+T2	Term-DPEJ 207 215	convenio
+T3	Term-DPEJ 335 343	convenio
+T4	Term-DPEJ 423 431	convenio
+T5	Term-DPEJ 49 59	trabajador
+T6	Term-DPEJ 296 308	trabajadores
+T7	Term-DPEJ 357 364	cuantía
+T8	Term-DPEJ 0 8	Artículo
+T9	Term-DPEJ 66 73	derecho
+T10	Term-DPEJ 207 225	convenio colectivo
+T11	Term-DPEJ 335 353	convenio colectivo
+T12	Term-DPEJ 423 441	convenio colectivo
+T13	Term-DPEJ 266 288	representantes legales
+T14	Term-DPEJ 232 239	acuerdo
+T15	Term-Termcat 335 343	convenio
+T16	Term-Termcat 423 431	convenio
+T17	Term-Termcat 207 215	convenio
+T18	Term-Termcat 266 280	representantes
+T19	Term-Termcat 0 8	Artículo
+T20	Term-Termcat 207 225	convenio colectivo
+T21	Term-Termcat 423 441	convenio colectivo
+T22	Term-Termcat 335 353	convenio colectivo
+T23	Term-Termcat 152 159	fiestas
+T24	Term-Termcat 508 521	mensualidades
+T25	Term-Termcat 66 73	derecho
+T26	Term-Termcat 232 239	acuerdo
+T27	Term-Termcat 281 288	legales
+T28	Term-Termcat 357 364	cuantía
+T29	Term-Termcat 266 288	representantes legales
+T30	Term-AttentionRank 13 44	Gratificaciones extraordinarias
+T31	Term-AttentionRank 450 481	gratificaciones extraordinarias
+T32	Term-AttentionRank 374 389	gratificaciones
+T33	Term-AttentionRank 80 118	gratificaciones extraordinarias al año
+T34	Term-AttentionRank 207 225	convenio colectivo
+T35	Term-AttentionRank 423 441	convenio colectivo
+T36	Term-AttentionRank 335 353	convenio colectivo
+T37	Term-AttentionRank 232 259	acuerdo entre el empresario
+T38	Term-AttentionRank 137 159	ocasión de las fiestas
+T39	Term-AttentionRank 187 190	mes
+T40	Term-AttentionRank 66 73	derecho
+T41	Term-AttentionRank 296 308	trabajadores
+T42	Term-AttentionRank 508 521	mensualidades
+T43	Term-AttentionRank 266 280	representantes
+T44	Term-AttentionRank 357 364	cuantía
+T45	Term-AttentionRank 49 59	trabajador
+T46	Term-Rebel 163 170	Navidad
+T47	Term-Rebel 152 159	fiestas
+T48	Term-IATE 249 259	empresario
+T49	Term-IATE 0 8	Artículo
+T50	Term-IATE 266 288	representantes legales
+T51	Term-IATE 49 59	trabajador
+T52	Term-IATE 296 308	trabajadores
+T53	Term-IATE 207 215	convenio
+T54	Term-IATE 335 343	convenio
+T55	Term-IATE 423 431	convenio
+T56	Term-IATE 207 225	convenio colectivo
+T57	Term-IATE 335 353	convenio colectivo
+T58	Term-IATE 423 441	convenio colectivo
+T59	Term-IATE 266 280	representantes
+T60	Term-IATE 187 190	mes
+T61	Term-IATE 232 239	acuerdo
+R1	instance_of-Rebel Arg1:T46 Arg2:T47

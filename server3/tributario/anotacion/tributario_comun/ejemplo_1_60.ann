@@ -160,3 +160,6 @@ T159	Term-AttentionRank 1766 1773	acuerdo
 T160	Term-AttentionRank 1504 1511	acuerdo
 T161	Term-AttentionRank 1312 1321	intereses
 T162	Term-AttentionRank 858 867	intereses
+T163	org-Rebel 104 120	Cajas de Ahorros
+T164	Term-Rebel 71 94	entidades colaboradoras
+R1	instance_of-Rebel Arg1:T163 Arg2:T164

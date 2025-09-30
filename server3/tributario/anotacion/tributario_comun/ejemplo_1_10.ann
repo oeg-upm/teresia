@@ -145,3 +145,6 @@ T144	Term-AttentionRank 1475 1478	vía
 T145	Term-AttentionRank 1225 1231	plazos
 T146	Term-AttentionRank 622 634	modificación
 T147	Term-AttentionRank 978 990	modificación
+T148	media-Rebel 239 255	Sede Electrónica
+T149	org-Rebel 262 306	Agencia Estatal de Administración Tributaria
+R1	part_of-Rebel Arg1:T148 Arg2:T149

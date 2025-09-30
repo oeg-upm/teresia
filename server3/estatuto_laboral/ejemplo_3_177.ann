@@ -1,0 +1,137 @@
+T1	Term-DPEJ 344 365	negociación colectiva
+T2	Term-DPEJ 87 97	aplicación
+T3	Term-DPEJ 622 632	sindicatos
+T4	Term-DPEJ 392 398	reglas
+T5	Term-DPEJ 849 857	materias
+T6	Term-DPEJ 308 317	cláusulas
+T7	Term-DPEJ 492 501	cláusulas
+T8	Term-DPEJ 45 54	convenios
+T9	Term-DPEJ 456 465	convenios
+T10	Term-DPEJ 532 541	convenios
+T11	Term-DPEJ 1002 1011	convenios
+T12	Term-DPEJ 780 792	trabajadores
+T13	Term-DPEJ 0 8	Artículo
+T14	Term-DPEJ 681 693	legitimación
+T15	Term-DPEJ 946 954	apartado
+T16	Term-DPEJ 45 65	convenios colectivos
+T17	Term-DPEJ 1002 1022	convenios colectivos
+T18	Term-DPEJ 25 36	negociación
+T19	Term-DPEJ 344 355	negociación
+T20	Term-DPEJ 382 386	caso
+T21	Term-DPEJ 279 287	acuerdos
+T22	Term-DPEJ 544 552	acuerdos
+T23	Term-DPEJ 834 842	acuerdos
+T24	Term-DPEJ 875 883	acuerdos
+T25	Term-DPEJ 898 906	acuerdos
+T26	Term-DPEJ 77 83	ámbito
+T27	Term-DPEJ 478 484	ámbito
+T28	Term-DPEJ 580 586	ámbito
+T29	Term-DPEJ 231 240	comunidad
+T30	Term-DPEJ 708 719	conformidad
+T31	Term-DPEJ 106 112	partes
+T32	Term-DPEJ 231 249	comunidad autónoma
+T33	Term-DPEJ 969 980	tratamiento
+T34	Term-DPEJ 279 306	acuerdos interprofesionales
+T35	Term-DPEJ 898 925	acuerdos interprofesionales
+T36	Term-DPEJ 544 563	acuerdos colectivos
+T37	Term-Termcat 231 249	comunidad autónoma
+T38	Term-Termcat 45 54	convenios
+T39	Term-Termcat 456 465	convenios
+T40	Term-Termcat 1002 1011	convenios
+T41	Term-Termcat 532 541	convenios
+T42	Term-Termcat 681 693	legitimación
+T43	Term-Termcat 344 365	negociación colectiva
+T44	Term-Termcat 492 501	cláusulas
+T45	Term-Termcat 308 317	cláusulas
+T46	Term-Termcat 231 240	comunidad
+T47	Term-Termcat 747 750	ley
+T48	Term-Termcat 989 992	ley
+T49	Term-Termcat 0 8	Artículo
+T50	Term-Termcat 423 433	conflictos
+T51	Term-Termcat 25 36	negociación
+T52	Term-Termcat 106 112	partes
+T53	Term-Termcat 279 306	acuerdos interprofesionales
+T54	Term-Termcat 898 925	acuerdos interprofesionales
+T55	Term-Termcat 77 97	ámbito de aplicación
+T56	Term-Termcat 622 632	sindicatos
+T57	Term-Termcat 1002 1022	convenios colectivos
+T58	Term-Termcat 45 65	convenios colectivos
+T59	Term-Termcat 327 337	estructura
+T60	Term-Termcat 344 355	negociación
+T61	Term-Termcat 708 719	conformidad
+T62	Term-Termcat 875 883	acuerdos
+T63	Term-Termcat 834 842	acuerdos
+T64	Term-Termcat 544 563	acuerdos colectivos
+T65	Term-Termcat 87 97	aplicación
+T66	Term-Termcat 437 449	concurrencia
+T67	Term-Termcat 171 184	empresariales
+T68	Term-Termcat 648 661	empresariales
+T69	Term-Termcat 849 857	materias
+T70	Term-Termcat 392 398	reglas
+T71	Term-Termcat 564 575	sectoriales
+T72	Term-Termcat 898 906	acuerdos
+T73	Term-Termcat 544 552	acuerdos
+T74	Term-Termcat 279 287	acuerdos
+T75	Term-Termcat 258 268	establecer
+T76	Term-Termcat 410 418	resolver
+T77	Term-Termcat 13 21	Unidades
+T78	Term-Termcat 209 217	carácter
+T79	Term-Termcat 843 848	sobre
+T80	Term-Termcat 318 323	sobre
+T81	Term-Termcat 969 980	tratamiento
+T82	Term-AttentionRank 279 306	acuerdos interprofesionales
+T83	Term-AttentionRank 898 925	acuerdos interprofesionales
+T84	Term-AttentionRank 875 883	acuerdos
+T85	Term-AttentionRank 544 552	acuerdos
+T86	Term-AttentionRank 834 842	acuerdos
+T87	Term-AttentionRank 456 465	convenios
+T88	Term-AttentionRank 532 541	convenios
+T89	Term-AttentionRank 1002 1022	convenios colectivos
+T90	Term-AttentionRank 45 65	convenios colectivos
+T91	Term-AttentionRank 77 83	ámbito
+T92	Term-AttentionRank 478 484	ámbito
+T93	Term-AttentionRank 747 750	ley
+T94	Term-AttentionRank 989 992	ley
+T95	Term-AttentionRank 130 155	organizaciones sindicales
+T96	Term-AttentionRank 231 240	comunidad
+T97	Term-AttentionRank 344 365	negociación colectiva
+T98	Term-AttentionRank 209 225	carácter estatal
+T99	Term-AttentionRank 580 594	ámbito estatal
+T100	Term-AttentionRank 492 501	cláusulas
+T101	Term-AttentionRank 308 317	cláusulas
+T102	Term-AttentionRank 392 398	reglas
+T103	Term-AttentionRank 327 337	estructura
+T104	Term-AttentionRank 681 703	legitimación necesaria
+T105	Term-Rebel 279 306	acuerdos interprofesionales
+T106	Term-Rebel 344 365	negociación colectiva
+T107	Term-IATE 87 97	aplicación
+T108	Term-IATE 795 806	empresarios
+T109	Term-IATE 327 337	estructura
+T110	Term-IATE 946 954	apartado
+T111	Term-IATE 0 8	Artículo
+T112	Term-IATE 780 792	trabajadores
+T113	Term-IATE 45 54	convenios
+T114	Term-IATE 456 465	convenios
+T115	Term-IATE 532 541	convenios
+T116	Term-IATE 1002 1011	convenios
+T117	Term-IATE 708 719	conformidad
+T118	Term-IATE 25 36	negociación
+T119	Term-IATE 344 355	negociación
+T120	Term-IATE 106 112	partes
+T121	Term-IATE 544 563	acuerdos colectivos
+T122	Term-IATE 969 980	tratamiento
+T123	Term-IATE 13 21	Unidades
+T124	Term-IATE 13 21	Unidades
+T125	Term-IATE 344 365	negociación colectiva
+T126	Term-IATE 45 65	convenios colectivos
+T127	Term-IATE 1002 1022	convenios colectivos
+T128	Term-IATE 279 287	acuerdos
+T129	Term-IATE 544 552	acuerdos
+T130	Term-IATE 834 842	acuerdos
+T131	Term-IATE 875 883	acuerdos
+T132	Term-IATE 898 906	acuerdos
+T133	Term-IATE 231 249	comunidad autónoma
+T134	Term-IATE 209 217	carácter
+T135	Term-IATE 849 857	materias
+T136	Term-IATE 231 240	comunidad
+R1	subclass_of-Rebel Arg1:T105 Arg2:T106

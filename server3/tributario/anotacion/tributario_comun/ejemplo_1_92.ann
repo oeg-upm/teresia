@@ -127,3 +127,6 @@ T126	Term-AttentionRank 799 815	plazos acordados
 T127	Term-AttentionRank 1011 1024	pago aplazado
 T128	Term-AttentionRank 1459 1486	perjuicio del mantenimiento
 T129	Term-AttentionRank 842 851	conformes
+T130	Term-Rebel 1749 1772	declaraciones aduaneras
+T131	Term-Rebel 534 548	Administración
+R1	part_of-Rebel Arg1:T130 Arg2:T131

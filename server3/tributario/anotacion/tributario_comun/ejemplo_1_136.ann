@@ -162,3 +162,6 @@ T161	Term-AttentionRank 312 319	escrito
 T162	Term-AttentionRank 1369 1376	escrito
 T163	Term-AttentionRank 97 102	plazo
 T164	Term-AttentionRank 1882 1899	firma electrónica
+T165	Term-Rebel 1882 1899	firma electrónica
+T166	Term-Rebel 1780 1796	sede electrónica
+R1	subclass_of-Rebel Arg1:T165 Arg2:T166

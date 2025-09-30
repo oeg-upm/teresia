@@ -153,3 +153,6 @@ T152	Term-AttentionRank 1241 1259	período voluntario
 T153	Term-AttentionRank 1658 1665	cálculo
 T154	Term-AttentionRank 627 633	PLAZOS
 T155	Term-AttentionRank 790 796	plazos
+T156	Term-Rebel 1361 1380	INTERESES DE DEMORA
+T157	Term-Rebel 1361 1370	INTERESES
+R1	subclass_of-Rebel Arg1:T156 Arg2:T157

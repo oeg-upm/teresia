@@ -1,0 +1,169 @@
+T1	Term-DPEJ 950 961	incapacidad
+T2	Term-DPEJ 1207 1218	incapacidad
+T3	Term-DPEJ 1476 1487	incapacidad
+T4	Term-DPEJ 1722 1733	incapacidad
+T5	Term-DPEJ 950 970	incapacidad temporal
+T6	Term-DPEJ 1207 1227	incapacidad temporal
+T7	Term-DPEJ 1476 1496	incapacidad temporal
+T8	Term-DPEJ 1268 1278	aplicación
+T9	Term-DPEJ 486 505	jurisdicción social
+T10	Term-DPEJ 935 941	tiempo
+T11	Term-DPEJ 111 119	convenio
+T12	Term-DPEJ 377 386	convenios
+T13	Term-DPEJ 313 323	trabajador
+T14	Term-DPEJ 693 703	trabajador
+T15	Term-DPEJ 1584 1594	trabajador
+T16	Term-DPEJ 1677 1687	trabajador
+T17	Term-DPEJ 68 80	compensación
+T18	Term-DPEJ 1120 1128	artículo
+T19	Term-DPEJ 1061 1080	contrato de trabajo
+T20	Term-DPEJ 1046 1056	suspensión
+T21	Term-DPEJ 1343 1353	suspensión
+T22	Term-DPEJ 68 90	compensación económica
+T23	Term-DPEJ 1143 1150	derecho
+T24	Term-DPEJ 486 498	jurisdicción
+T25	Term-DPEJ 681 688	empresa
+T26	Term-DPEJ 874 881	empresa
+T27	Term-DPEJ 1097 1106	apartados
+T28	Term-DPEJ 377 397	convenios colectivos
+T29	Term-DPEJ 516 521	fecha
+T30	Term-DPEJ 1181 1186	fecha
+T31	Term-DPEJ 717 723	fechas
+T32	Term-DPEJ 133 141	contrato
+T33	Term-DPEJ 1061 1069	contrato
+T34	Term-DPEJ 164 168	caso
+T35	Term-DPEJ 365 369	caso
+T36	Term-DPEJ 446 450	caso
+T37	Term-DPEJ 1252 1259	permiso
+T38	Term-DPEJ 280 287	acuerdo
+T39	Term-DPEJ 984 992	embarazo
+T40	Term-DPEJ 328 339	conformidad
+T41	Term-DPEJ 475 481	partes
+T42	Term-DPEJ 560 568	decisión
+T43	Term-DPEJ 591 604	procedimiento
+T44	Term-DPEJ 1073 1080	trabajo
+T45	Term-Termcat 111 119	convenio
+T46	Term-Termcat 377 386	convenios
+T47	Term-Termcat 205 219	días naturales
+T48	Term-Termcat 1252 1259	permiso
+T49	Term-Termcat 404 417	planificación
+T50	Term-Termcat 68 80	compensación
+T51	Term-Termcat 1061 1069	contrato
+T52	Term-Termcat 133 141	contrato
+T53	Term-Termcat 1239 1247	disfrute
+T54	Term-Termcat 788 796	disfrute
+T55	Term-Termcat 252 260	disfrute
+T56	Term-Termcat 534 542	disfrute
+T57	Term-Termcat 1207 1218	incapacidad
+T58	Term-Termcat 1722 1733	incapacidad
+T59	Term-Termcat 950 961	incapacidad
+T60	Term-Termcat 1476 1487	incapacidad
+T61	Term-Termcat 1120 1128	artículo
+T62	Term-Termcat 475 481	partes
+T63	Term-Termcat 638 662	calendario de vacaciones
+T64	Term-Termcat 843 867	calendario de vacaciones
+T65	Term-Termcat 1061 1080	contrato de trabajo
+T66	Term-Termcat 133 152	contrato individual
+T67	Term-Termcat 377 397	convenios colectivos
+T68	Term-Termcat 681 688	empresa
+T69	Term-Termcat 874 881	empresa
+T70	Term-Termcat 950 970	incapacidad temporal
+T71	Term-Termcat 1476 1496	incapacidad temporal
+T72	Term-Termcat 1207 1227	incapacidad temporal
+T73	Term-Termcat 819 829	vacaciones
+T74	Term-Termcat 17 27	vacaciones
+T75	Term-Termcat 431 441	vacaciones
+T76	Term-Termcat 1448 1458	vacaciones
+T77	Term-Termcat 1167 1177	vacaciones
+T78	Term-Termcat 172 180	duración
+T79	Term-Termcat 560 568	decisión
+T80	Term-Termcat 1143 1150	derecho
+T81	Term-Termcat 486 498	jurisdicción
+T82	Term-Termcat 1343 1353	suspensión
+T83	Term-Termcat 1046 1056	suspensión
+T84	Term-Termcat 328 339	conformidad
+T85	Term-Termcat 280 287	acuerdo
+T86	Term-Termcat 1268 1278	aplicación
+T87	Term-Termcat 121 130	colectivo
+T88	Term-Termcat 142 152	individual
+T89	Term-Termcat 486 505	jurisdicción social
+T90	Term-Termcat 1008 1017	lactancia
+T91	Term-Termcat 591 604	procedimiento
+T92	Term-Termcat 610 617	sumario
+T93	Term-Termcat 903 910	párrafo
+T94	Term-Termcat 1547 1554	párrafo
+T95	Term-Termcat 398 403	sobre
+T96	Term-AttentionRank 1448 1563	vacaciones coincida con una incapacidad temporal por contingencias distintas a las señaladas en el párrafo anterior
+T97	Term-AttentionRank 1181 1227	fecha distinta a la de la incapacidad temporal
+T98	Term-AttentionRank 819 829	vacaciones
+T99	Term-AttentionRank 652 662	vacaciones
+T100	Term-AttentionRank 431 441	vacaciones
+T101	Term-AttentionRank 857 867	vacaciones
+T102	Term-AttentionRank 1167 1177	vacaciones
+T103	Term-AttentionRank 17 27	vacaciones
+T104	Term-AttentionRank 1035 1042	periodo
+T105	Term-AttentionRank 227 234	periodo
+T106	Term-AttentionRank 6 13	periodo
+T107	Term-AttentionRank 1332 1339	periodo
+T108	Term-AttentionRank 1437 1444	periodo
+T109	Term-AttentionRank 808 815	periodo
+T110	Term-AttentionRank 237 245	periodos
+T111	Term-AttentionRank 950 970	incapacidad temporal
+T112	Term-AttentionRank 1722 1733	incapacidad
+T113	Term-AttentionRank 1380 1383	año
+T114	Term-AttentionRank 1816 1819	año
+T115	Term-AttentionRank 1642 1645	año
+T116	Term-AttentionRank 516 521	fecha
+T117	Term-AttentionRank 717 723	fechas
+T118	Term-AttentionRank 164 168	caso
+T119	Term-AttentionRank 446 450	caso
+T120	Term-AttentionRank 365 369	caso
+T121	Term-AttentionRank 748 753	meses
+T122	Term-AttentionRank 1787 1792	meses
+T123	Term-AttentionRank 1120 1128	artículo
+T124	Term-AttentionRank 1143 1150	derecho
+T125	Term-AttentionRank 997 1002	parto
+T126	Term-AttentionRank 1061 1069	contrato
+T127	Term-AttentionRank 133 141	contrato
+T128	Term-AttentionRank 1008 1017	lactancia
+T129	Term-Rebel 997 1002	parto
+T130	Term-Rebel 950 970	incapacidad temporal
+T131	Term-IATE 1268 1278	aplicación
+T132	Term-IATE 297 307	empresario
+T133	Term-IATE 1046 1080	suspensión del contrato de trabajo
+T134	Term-IATE 591 604	procedimiento
+T135	Term-IATE 1097 1106	apartados
+T136	Term-IATE 1120 1128	artículo
+T137	Term-IATE 172 180	duración
+T138	Term-IATE 950 970	incapacidad temporal
+T139	Term-IATE 1207 1227	incapacidad temporal
+T140	Term-IATE 1476 1496	incapacidad temporal
+T141	Term-IATE 1252 1259	permiso
+T142	Term-IATE 133 141	contrato
+T143	Term-IATE 1061 1069	contrato
+T144	Term-IATE 313 323	trabajador
+T145	Term-IATE 693 703	trabajador
+T146	Term-IATE 1584 1594	trabajador
+T147	Term-IATE 1677 1687	trabajador
+T148	Term-IATE 903 910	párrafo
+T149	Term-IATE 1547 1554	párrafo
+T150	Term-IATE 1046 1056	suspensión
+T151	Term-IATE 1343 1353	suspensión
+T152	Term-IATE 111 119	convenio
+T153	Term-IATE 377 386	convenios
+T154	Term-IATE 328 339	conformidad
+T155	Term-IATE 560 568	decisión
+T156	Term-IATE 475 481	partes
+T157	Term-IATE 950 961	incapacidad
+T158	Term-IATE 1207 1218	incapacidad
+T159	Term-IATE 1476 1487	incapacidad
+T160	Term-IATE 1722 1733	incapacidad
+T161	Term-IATE 377 397	convenios colectivos
+T162	Term-IATE 748 753	meses
+T163	Term-IATE 1787 1792	meses
+T164	Term-IATE 984 992	embarazo
+T165	Term-IATE 280 287	acuerdo
+T166	Term-IATE 68 80	compensación
+T167	Term-IATE 681 688	empresa
+T168	Term-IATE 874 881	empresa
+R1	has_cause-Rebel Arg1:T129 Arg2:T130

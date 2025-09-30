@@ -175,3 +175,6 @@ T174	Term-AttentionRank 710 723	requerimiento
 T175	Term-AttentionRank 1518 1546	consecuencia de la solicitud
 T176	Term-AttentionRank 647 652	plazo
 T177	Term-AttentionRank 745 750	plazo
+T178	media-Rebel 0 68	ACUERDO DE INADMISIÓN DE SOLICITUD DE APLAZAMIENTO / FRACCIONAMIENTO
+T179	Term-Rebel 0 21	ACUERDO DE INADMISIÓN
+R1	instance_of-Rebel Arg1:T178 Arg2:T179

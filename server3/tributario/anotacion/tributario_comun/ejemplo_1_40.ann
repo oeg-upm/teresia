@@ -259,3 +259,6 @@ T258	Term-AttentionRank 750 766	deuda tributaria
 T259	Term-AttentionRank 795 819	tecnologías informáticas
 T260	Term-AttentionRank 20 39	medios electrónicos
 T261	Term-AttentionRank 560 579	garantía suficiente
+T262	Term-Rebel 1103 1178	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T263	Term-Rebel 1362 1364	RD
+R1	instance_of-Rebel Arg1:T262 Arg2:T263

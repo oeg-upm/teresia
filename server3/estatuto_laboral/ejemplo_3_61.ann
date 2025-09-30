@@ -1,0 +1,48 @@
+T1	Term-DPEJ 38 46	personas
+T2	Term-DPEJ 211 218	Sección
+T3	Term-DPEJ 0 8	Artículo
+T4	Term-DPEJ 102 110	términos
+T5	Term-DPEJ 13 32	Trabajo a distancia
+T6	Term-DPEJ 75 94	trabajo a distancia
+T7	Term-DPEJ 142 161	trabajo a distancia
+T8	Term-DPEJ 175 184	contEnIdo
+T9	Term-DPEJ 190 198	contRato
+T10	Term-DPEJ 237 245	contrato
+T11	Term-DPEJ 38 59	personas trabajadoras
+T12	Term-DPEJ 13 20	Trabajo
+T13	Term-DPEJ 75 82	trabajo
+T14	Term-DPEJ 142 149	trabajo
+T15	Term-DPEJ 203 210	tRaBajo
+T16	Term-Termcat 211 218	Sección
+T17	Term-Termcat 102 110	términos
+T18	Term-Termcat 190 198	contRato
+T19	Term-Termcat 237 245	contrato
+T20	Term-Termcat 127 130	Ley
+T21	Term-Termcat 0 8	Artículo
+T22	Term-Termcat 163 171	CAPÍTULO
+T23	Term-Termcat 203 210	tRaBajo
+T24	Term-Termcat 13 32	Trabajo a distancia
+T25	Term-Termcat 75 94	trabajo a distancia
+T26	Term-Termcat 142 161	trabajo a distancia
+T27	Term-Termcat 224 232	Duración
+T28	Term-Termcat 38 46	personas
+T29	Term-Termcat 224 245	Duración del contrato
+T30	Term-Termcat 13 20	Trabajo
+T31	Term-Termcat 75 82	trabajo
+T32	Term-Termcat 142 149	trabajo
+T33	Term-AttentionRank 13 20	Trabajo
+T34	Term-AttentionRank 75 82	trabajo
+T35	Term-AttentionRank 142 149	trabajo
+T36	Term-AttentionRank 203 210	tRaBajo
+T37	Term-AttentionRank 152 161	distancia
+T38	Term-AttentionRank 85 94	distancia
+T39	Term-AttentionRank 23 32	distancia
+T40	Term-AttentionRank 38 59	personas trabajadoras
+T41	Term-Rebel 13 32	Trabajo a distancia
+T42	Term-IATE 0 8	Artículo
+T43	Term-IATE 224 232	Duración
+T44	Term-IATE 190 198	contRato
+T45	Term-IATE 237 245	contrato
+T46	Term-IATE 211 218	Sección
+T47	Term-IATE 163 171	CAPÍTULO
+R1	subclass_of-Rebel Arg1:T41 Arg2:T41

@@ -155,3 +155,6 @@ T154	Term-AttentionRank 1064 1068	caso
 T155	Term-AttentionRank 612 616	caso
 T156	Term-AttentionRank 8 12	caso
 T157	Term-AttentionRank 61 94	través de entidades colaboradoras
+T158	org-Rebel 104 120	Cajas de Ahorros
+T159	Term-Rebel 71 94	entidades colaboradoras
+R1	instance_of-Rebel Arg1:T158 Arg2:T159

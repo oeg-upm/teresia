@@ -162,3 +162,6 @@ T161	Term-AttentionRank 1724 1742	resultase acreedor
 T162	Term-AttentionRank 1443 1450	acuerdo
 T163	Term-AttentionRank 1715 1722	acuerdo
 T164	Term-AttentionRank 1123 1150	perjuicio del mantenimiento
+T165	Term-Rebel 1413 1436	declaraciones aduaneras
+T166	Term-Rebel 1348 1359	tributarias
+R1	subclass_of-Rebel Arg1:T165 Arg2:T166

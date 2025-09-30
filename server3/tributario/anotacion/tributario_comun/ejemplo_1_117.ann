@@ -148,3 +148,6 @@ T147	Term-AttentionRank 1496 1507	solicitudes
 T148	Term-AttentionRank 68 86	periodo voluntario
 T149	Term-AttentionRank 669 688	defectos observados
 T150	Term-AttentionRank 426 440	respecto de la
+T151	Term-Rebel 1208 1283	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T152	media-Rebel 1154 1176	Ley General Tributaria
+R1	part_of-Rebel Arg1:T151 Arg2:T152

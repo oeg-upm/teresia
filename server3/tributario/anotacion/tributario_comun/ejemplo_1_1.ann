@@ -141,3 +141,6 @@ T140	Term-AttentionRank 1096 1102	plazos
 T141	Term-AttentionRank 1083 1088	deuda
 T142	Term-AttentionRank 949 954	deuda
 T143	Term-AttentionRank 1329 1338	retenedor
+T144	Term-Rebel 1329 1338	retenedor
+T145	Term-Rebel 1240 1258	deudas tributarias
+R1	subclass_of-Rebel Arg1:T144 Arg2:T145

@@ -1,0 +1,94 @@
+T1	Term-DPEJ 266 280	consentimiento
+T2	Term-DPEJ 108 126	capacidad de obrar
+T3	Term-DPEJ 372 377	cargo
+T4	Term-DPEJ 385 398	representante
+T5	Term-DPEJ 331 338	persona
+T6	Term-DPEJ 412 419	persona
+T7	Term-DPEJ 718 725	materia
+T8	Term-DPEJ 0 8	Artículo
+T9	Term-DPEJ 551 559	derechos
+T10	Term-DPEJ 58 68	prestación
+T11	Term-DPEJ 288 294	padres
+T12	Term-DPEJ 603 611	contrato
+T13	Term-DPEJ 12 21	Capacidad
+T14	Term-DPEJ 108 117	capacidad
+T15	Term-DPEJ 423 432	capacidad
+T16	Term-DPEJ 385 404	representante legal
+T17	Term-DPEJ 655 662	acuerdo
+T18	Term-DPEJ 241 246	forma
+T19	Term-DPEJ 574 581	deberes
+T20	Term-DPEJ 75 82	trabajo
+T21	Term-DPEJ 493 500	trabajo
+T22	Term-DPEJ 312 324	autorización
+T23	Term-Termcat 108 126	capacidad de obrar
+T24	Term-Termcat 266 280	consentimiento
+T25	Term-Termcat 27 36	contratar
+T26	Term-Termcat 45 54	contratar
+T27	Term-Termcat 603 611	contrato
+T28	Term-Termcat 574 581	deberes
+T29	Term-Termcat 241 246	forma
+T30	Term-Termcat 58 68	prestación
+T31	Term-Termcat 385 398	representante
+T32	Term-Termcat 0 8	Artículo
+T33	Term-Termcat 157 163	Código
+T34	Term-Termcat 12 21	Capacidad
+T35	Term-Termcat 423 432	capacidad
+T36	Term-Termcat 372 377	cargo
+T37	Term-Termcat 622 630	cesación
+T38	Term-Termcat 75 82	trabajo
+T39	Term-Termcat 493 500	trabajo
+T40	Term-Termcat 247 260	independiente
+T41	Term-Termcat 164 169	Civil
+T42	Term-Termcat 551 559	derechos
+T43	Term-Termcat 412 419	persona
+T44	Term-Termcat 331 338	persona
+T45	Term-Termcat 312 324	autorización
+T46	Term-Termcat 297 304	tutores
+T47	Term-Termcat 655 662	acuerdo
+T48	Term-Termcat 127 135	conforme
+T49	Term-Termcat 341 352	institución
+T50	Term-Termcat 399 404	legal
+T51	Term-Termcat 686 697	legislación
+T52	Term-Termcat 718 725	materia
+T53	Term-Termcat 178 185	menores
+T54	Term-Termcat 288 294	padres
+T55	Term-Termcat 385 404	representante legal
+T56	Term-Termcat 709 714	sobre
+T57	Term-AttentionRank 12 21	Capacidad
+T58	Term-AttentionRank 423 432	capacidad
+T59	Term-AttentionRank 412 419	persona
+T60	Term-AttentionRank 331 338	persona
+T61	Term-AttentionRank 102 117	plena capacidad
+T62	Term-AttentionRank 75 82	trabajo
+T63	Term-AttentionRank 493 500	trabajo
+T64	Term-AttentionRank 241 260	forma independiente
+T65	Term-AttentionRank 385 404	representante legal
+T66	Term-AttentionRank 551 559	derechos
+T67	Term-AttentionRank 372 377	cargo
+T68	Term-AttentionRank 222 226	años
+T69	Term-AttentionRank 639 650	extranjeros
+T70	Term-AttentionRank 266 280	consentimiento
+T71	Term-AttentionRank 445 453	autoriza
+T72	Term-AttentionRank 603 611	contrato
+T73	Term-AttentionRank 288 294	padres
+T74	Term-AttentionRank 312 324	autorización
+T75	Term-Rebel 603 611	contrato
+T76	Term-Rebel 551 559	derechos
+T77	Term-IATE 0 8	Artículo
+T78	Term-IATE 385 404	representante legal
+T79	Term-IATE 372 377	cargo
+T80	Term-IATE 603 611	contrato
+T81	Term-IATE 12 21	Capacidad
+T82	Term-IATE 108 117	capacidad
+T83	Term-IATE 423 432	capacidad
+T84	Term-IATE 288 294	padres
+T85	Term-IATE 639 650	extranjeros
+T86	Term-IATE 266 280	consentimiento
+T87	Term-IATE 12 36	Capacidad para contratar
+T88	Term-IATE 108 126	capacidad de obrar
+T89	Term-IATE 385 398	representante
+T90	Term-IATE 312 324	autorización
+T91	Term-IATE 655 662	acuerdo
+T92	Term-IATE 718 725	materia
+T93	Term-IATE 58 68	prestación
+R1	subclass_of-Rebel Arg1:T75 Arg2:T76

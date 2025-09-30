@@ -145,3 +145,5 @@ T144	Term-AttentionRank 591 602	vencimiento
 T145	Term-AttentionRank 655 664	intereses
 T146	Term-AttentionRank 1547 1556	intereses
 T147	Term-AttentionRank 1077 1086	intereses
+T148	Term-Rebel 655 674	intereses de demora
+R1	subclass_of-Rebel Arg1:T148 Arg2:T148

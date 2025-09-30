@@ -162,3 +162,6 @@ T161	Term-AttentionRank 579 602	través de representante
 T162	Term-AttentionRank 312 319	escrito
 T163	Term-AttentionRank 97 102	plazo
 T164	Term-AttentionRank 1877 1894	firma electrónica
+T165	Term-Rebel 1798 1845	Agencia Estatal de la Administración Tributaria
+T166	Term-Rebel 1775 1791	sede electrónica
+R1	instance_of-Rebel Arg1:T165 Arg2:T166

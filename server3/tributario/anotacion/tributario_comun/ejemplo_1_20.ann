@@ -166,3 +166,6 @@ T165	Term-AttentionRank 589 601	notificación
 T166	Term-AttentionRank 835 847	notificación
 T167	Term-AttentionRank 1490 1513	través de representante
 T168	Term-AttentionRank 262 282	plazo señalado en el
+T169	Term-Rebel 589 619	notificación de la providencia
+T170	Term-Rebel 0 12	NOTIFICACIÓN
+R1	subclass_of-Rebel Arg1:T169 Arg2:T170

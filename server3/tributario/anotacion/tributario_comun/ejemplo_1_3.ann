@@ -250,3 +250,6 @@ T249	Term-AttentionRank 1867 1887	siguientes supuestos
 T250	Term-AttentionRank 2020 2037	cuantía pendiente
 T251	Term-AttentionRank 1901 1911	denegación
 T252	Term-AttentionRank 2055 2062	emisión
+T253	Term-Rebel 160 235	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T254	Term-Rebel 160 163	Ley
+R1	instance_of-Rebel Arg1:T253 Arg2:T254

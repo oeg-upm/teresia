@@ -1,0 +1,202 @@
+T1	Term-DPEJ 343 354	incapacidad
+T2	Term-DPEJ 425 436	incapacidad
+T3	Term-DPEJ 465 476	incapacidad
+T4	Term-DPEJ 628 639	incapacidad
+T5	Term-DPEJ 947 958	incapacidad
+T6	Term-DPEJ 1022 1027	cargo
+T7	Term-DPEJ 1219 1224	cargo
+T8	Term-DPEJ 343 363	incapacidad temporal
+T9	Term-DPEJ 275 281	letras
+T10	Term-DPEJ 502 520	profesión habitual
+T11	Term-DPEJ 425 447	incapacidad permanente
+T12	Term-DPEJ 465 487	incapacidad permanente
+T13	Term-DPEJ 947 969	incapacidad permanente
+T14	Term-DPEJ 107 117	trabajador
+T15	Term-DPEJ 644 654	trabajador
+T16	Term-DPEJ 1110 1120	trabajador
+T17	Term-DPEJ 0 8	Artículo
+T18	Term-DPEJ 229 237	artículo
+T19	Term-DPEJ 1328 1347	contrato de trabajo
+T20	Term-DPEJ 13 23	Suspensión
+T21	Term-DPEJ 92 102	suspensión
+T22	Term-DPEJ 780 790	suspensión
+T23	Term-DPEJ 994 1004	suspensión
+T24	Term-DPEJ 502 511	profesión
+T25	Term-DPEJ 125 132	derecho
+T26	Term-DPEJ 465 493	incapacidad permanente total
+T27	Term-DPEJ 1150 1155	plazo
+T28	Term-DPEJ 899 904	fecha
+T29	Term-DPEJ 1556 1566	protección
+T30	Term-DPEJ 1521 1528	jornada
+T31	Term-DPEJ 1328 1336	contrato
+T32	Term-DPEJ 911 921	resolución
+T33	Term-DPEJ 1077 1083	ámbito
+T34	Term-DPEJ 74 80	causas
+T35	Term-DPEJ 39 45	puesto
+T36	Term-DPEJ 157 163	puesto
+T37	Term-DPEJ 747 753	puesto
+T38	Term-DPEJ 831 837	puesto
+T39	Term-DPEJ 1556 1578	protección de la salud
+T40	Term-DPEJ 1242 1252	nacimiento
+T41	Term-DPEJ 588 594	órgano
+T42	Term-DPEJ 1282 1289	cuidado
+T43	Term-DPEJ 1573 1578	salud
+T44	Term-DPEJ 551 565	gran invalidez
+T45	Term-DPEJ 396 405	situación
+T46	Term-DPEJ 615 624	situación
+T47	Term-DPEJ 797 813	relación laboral
+T48	Term-DPEJ 49 56	trabajo
+T49	Term-DPEJ 167 174	trabajo
+T50	Term-DPEJ 541 548	trabajo
+T51	Term-DPEJ 757 764	trabajo
+T52	Term-DPEJ 841 848	trabajo
+T53	Term-DPEJ 1340 1347	trabajo
+T54	Term-DPEJ 378 387	extinción
+T55	Term-Termcat 1022 1035	cargo público
+T56	Term-Termcat 1174 1188	días naturales
+T57	Term-Termcat 556 565	invalidez
+T58	Term-Termcat 911 921	resolución
+T59	Term-Termcat 1150 1155	plazo
+T60	Term-Termcat 1328 1336	contrato
+T61	Term-Termcat 455 461	grados
+T62	Term-Termcat 947 958	incapacidad
+T63	Term-Termcat 343 354	incapacidad
+T64	Term-Termcat 465 476	incapacidad
+T65	Term-Termcat 628 639	incapacidad
+T66	Term-Termcat 425 436	incapacidad
+T67	Term-Termcat 1242 1252	nacimiento
+T68	Term-Termcat 0 8	Artículo
+T69	Term-Termcat 229 237	artículo
+T70	Term-Termcat 577 583	juicio
+T71	Term-Termcat 1282 1289	cuidado
+T72	Term-Termcat 1219 1224	cargo
+T73	Term-Termcat 1022 1027	cargo
+T74	Term-Termcat 1204 1212	cesación
+T75	Term-Termcat 1328 1347	contrato de trabajo
+T76	Term-Termcat 541 548	trabajo
+T77	Term-Termcat 1227 1234	función
+T78	Term-Termcat 551 565	gran invalidez
+T79	Term-Termcat 425 447	incapacidad permanente
+T80	Term-Termcat 947 969	incapacidad permanente
+T81	Term-Termcat 465 493	incapacidad permanente total
+T82	Term-Termcat 343 363	incapacidad temporal
+T83	Term-Termcat 1521 1537	jornada completa
+T84	Term-Termcat 39 56	puesto de trabajo
+T85	Term-Termcat 157 174	puesto de trabajo
+T86	Term-Termcat 747 764	puesto de trabajo
+T87	Term-Termcat 502 511	profesión
+T88	Term-Termcat 1556 1578	protección de la salud
+T89	Term-Termcat 728 743	reincorporación
+T90	Term-Termcat 138 153	reincorporación
+T91	Term-Termcat 819 848	reserva del puesto de trabajo
+T92	Term-Termcat 692 700	revisión
+T93	Term-Termcat 1432 1439	semanas
+T94	Term-Termcat 1381 1388	semanas
+T95	Term-Termcat 125 132	derecho
+T96	Term-Termcat 378 387	extinción
+T97	Term-Termcat 819 826	reserva
+T98	Term-Termcat 28 35	reserva
+T99	Term-Termcat 13 23	Suspensión
+T100	Term-Termcat 994 1004	suspensión
+T101	Term-Termcat 780 790	suspensión
+T102	Term-Termcat 92 102	suspensión
+T103	Term-Termcat 74 80	causas
+T104	Term-Termcat 410 421	declaración
+T105	Term-Termcat 1009 1018	ejercicio
+T106	Term-Termcat 465 520	incapacidad permanente total para la profesión habitual
+T107	Term-Termcat 81 88	legales
+T108	Term-Termcat 831 848	puesto de trabajo
+T109	Term-Termcat 1585 1590	madre
+T110	Term-Termcat 1354 1369	madre biológica
+T111	Term-Termcat 1293 1298	menor
+T112	Term-Termcat 588 594	órgano
+T113	Term-Termcat 598 610	calificación
+T114	Term-Termcat 797 813	relación laboral
+T115	Term-Termcat 1097 1105	superior
+T116	Term-Termcat 1028 1035	público
+T117	Term-AttentionRank 343 354	incapacidad
+T118	Term-AttentionRank 628 639	incapacidad
+T119	Term-AttentionRank 465 487	incapacidad permanente
+T120	Term-AttentionRank 425 447	incapacidad permanente
+T121	Term-AttentionRank 947 969	incapacidad permanente
+T122	Term-AttentionRank 541 548	trabajo
+T123	Term-AttentionRank 167 174	trabajo
+T124	Term-AttentionRank 841 848	trabajo
+T125	Term-AttentionRank 757 764	trabajo
+T126	Term-AttentionRank 49 56	trabajo
+T127	Term-AttentionRank 1340 1347	trabajo
+T128	Term-AttentionRank 1009 1035	ejercicio de cargo público
+T129	Term-AttentionRank 39 45	puesto
+T130	Term-AttentionRank 831 837	puesto
+T131	Term-AttentionRank 157 163	puesto
+T132	Term-AttentionRank 747 753	puesto
+T133	Term-AttentionRank 551 565	gran invalidez
+T134	Term-AttentionRank 728 743	reincorporación
+T135	Term-AttentionRank 138 153	reincorporación
+T136	Term-AttentionRank 1191 1212	partir de la cesación
+T137	Term-AttentionRank 13 23	Suspensión
+T138	Term-AttentionRank 994 1004	suspensión
+T139	Term-AttentionRank 780 790	suspensión
+T140	Term-AttentionRank 92 102	suspensión
+T141	Term-AttentionRank 1432 1455	semanas ininterrumpidas
+T142	Term-AttentionRank 502 520	profesión habitual
+T143	Term-AttentionRank 0 8	Artículo
+T144	Term-AttentionRank 229 237	artículo
+T145	Term-AttentionRank 107 117	trabajador
+T146	Term-AttentionRank 644 654	trabajador
+T147	Term-AttentionRank 1110 1120	trabajador
+T148	Term-AttentionRank 1486 1491	parto
+T149	Term-AttentionRank 1271 1276	parto
+T150	Term-AttentionRank 199 208	supuestos
+T151	Term-AttentionRank 981 990	supuestos
+T152	Term-AttentionRank 331 339	supuesto
+T153	Term-Rebel 1271 1276	parto
+T154	Term-IATE 410 421	declaración
+T155	Term-IATE 1242 1252	nacimiento
+T156	Term-IATE 0 8	Artículo
+T157	Term-IATE 229 237	artículo
+T158	Term-IATE 343 363	incapacidad temporal
+T159	Term-IATE 502 511	profesión
+T160	Term-IATE 1022 1027	cargo
+T161	Term-IATE 1219 1224	cargo
+T162	Term-IATE 275 281	letras
+T163	Term-IATE 425 447	incapacidad permanente
+T164	Term-IATE 465 487	incapacidad permanente
+T165	Term-IATE 947 969	incapacidad permanente
+T166	Term-IATE 1328 1336	contrato
+T167	Term-IATE 1556 1566	protección
+T168	Term-IATE 107 117	trabajador
+T169	Term-IATE 644 654	trabajador
+T170	Term-IATE 1110 1120	trabajador
+T171	Term-IATE 1556 1578	protección de la salud
+T172	Term-IATE 1150 1155	plazo
+T173	Term-IATE 13 23	Suspensión
+T174	Term-IATE 92 102	suspensión
+T175	Term-IATE 780 790	suspensión
+T176	Term-IATE 994 1004	suspensión
+T177	Term-IATE 502 520	profesión habitual
+T178	Term-IATE 1354 1369	madre biológica
+T179	Term-IATE 378 387	extinción
+T180	Term-IATE 465 493	incapacidad permanente total
+T181	Term-IATE 1022 1035	cargo público
+T182	Term-IATE 1227 1234	función
+T183	Term-IATE 343 354	incapacidad
+T184	Term-IATE 425 436	incapacidad
+T185	Term-IATE 465 476	incapacidad
+T186	Term-IATE 628 639	incapacidad
+T187	Term-IATE 947 958	incapacidad
+T188	Term-IATE 556 565	invalidez
+T189	Term-IATE 28 35	reserva
+T190	Term-IATE 819 826	reserva
+T191	Term-IATE 1307 1312	meses
+T192	Term-IATE 797 813	relación laboral
+T193	Term-IATE 396 405	situación
+T194	Term-IATE 615 624	situación
+T195	Term-IATE 911 921	resolución
+T196	Term-IATE 551 565	gran invalidez
+T197	Term-IATE 1009 1018	ejercicio
+T198	Term-IATE 1354 1359	madre
+T199	Term-IATE 1585 1590	madre
+T200	Term-IATE 138 153	reincorporación
+T201	Term-IATE 728 743	reincorporación
+R1	has_cause-Rebel Arg1:T153 Arg2:T153

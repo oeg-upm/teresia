@@ -173,3 +173,6 @@ T172	Term-AttentionRank 1048 1057	dirección
 T173	Term-AttentionRank 566 587	segundo mes posterior
 T174	Term-AttentionRank 1650 1670	sucursales bancarias
 T175	Term-AttentionRank 1149 1154	firma
+T176	org-Rebel 275 279	AEAT
+T177	Term-Rebel 900 923	Cooperativas de Crédito
+R1	instance_of-Rebel Arg1:T176 Arg2:T177

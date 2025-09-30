@@ -1,0 +1,95 @@
+T1	Term-DPEJ 14 28	Representantes
+T2	Term-DPEJ 421 435	representantes
+T3	Term-DPEJ 857 865	fracción
+T4	Term-DPEJ 94 106	trabajadores
+T5	Term-DPEJ 183 195	trabajadores
+T6	Term-DPEJ 337 349	trabajadores
+T7	Term-DPEJ 529 541	trabajadores
+T8	Term-DPEJ 627 639	trabajadores
+T9	Term-DPEJ 887 897	trabajador
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-DPEJ 683 690	término
+T12	Term-DPEJ 308 314	título
+T13	Term-DPEJ 211 219	contrato
+T14	Term-DPEJ 557 565	contrato
+T15	Term-DPEJ 411 417	número
+T16	Term-DPEJ 730 736	número
+T17	Term-DPEJ 48 57	servicios
+T18	Term-DPEJ 136 145	servicios
+T19	Term-DPEJ 482 491	servicios
+T20	Term-DPEJ 274 281	órganos
+T21	Term-DPEJ 813 821	elección
+T22	Term-DPEJ 61 69	trabajos
+T23	Term-DPEJ 149 157	trabajos
+T24	Term-DPEJ 495 503	trabajos
+T25	Term-Termcat 482 491	servicios
+T26	Term-Termcat 48 57	servicios
+T27	Term-Termcat 136 145	servicios
+T28	Term-Termcat 683 690	término
+T29	Term-Termcat 557 565	contrato
+T30	Term-Termcat 211 219	contrato
+T31	Term-Termcat 14 28	Representantes
+T32	Term-Termcat 421 435	representantes
+T33	Term-Termcat 308 314	título
+T34	Term-Termcat 0 8	Artículo
+T35	Term-Termcat 149 163	trabajos fijos
+T36	Term-Termcat 495 509	trabajos fijos
+T37	Term-Termcat 61 75	trabajos fijos
+T38	Term-Termcat 359 368	plantilla
+T39	Term-Termcat 649 658	plantilla
+T40	Term-Termcat 569 577	duración
+T41	Term-Termcat 223 231	duración
+T42	Term-Termcat 794 806	convocatoria
+T43	Term-Termcat 386 393	efectos
+T44	Term-Termcat 813 821	elección
+T45	Term-Termcat 495 503	trabajos
+T46	Term-Termcat 61 69	trabajos
+T47	Term-Termcat 149 157	trabajos
+T48	Term-Termcat 274 281	órganos
+T49	Term-Termcat 590 598	superior
+T50	Term-Termcat 411 417	número
+T51	Term-Termcat 730 736	número
+T52	Term-AttentionRank 740 821	días trabajados en el periodo de un año anterior a la convocatoria de la elección
+T53	Term-AttentionRank 94 106	trabajadores
+T54	Term-AttentionRank 529 541	trabajadores
+T55	Term-AttentionRank 183 195	trabajadores
+T56	Term-AttentionRank 839 854	días trabajados
+T57	Term-AttentionRank 337 355	trabajadores fijos
+T58	Term-AttentionRank 627 645	trabajadores fijos
+T59	Term-AttentionRank 683 706	término de hasta un año
+T60	Term-AttentionRank 482 491	servicios
+T61	Term-AttentionRank 48 57	servicios
+T62	Term-AttentionRank 136 145	servicios
+T63	Term-AttentionRank 604 607	año
+T64	Term-AttentionRank 411 417	número
+T65	Term-AttentionRank 730 736	número
+T66	Term-AttentionRank 223 243	duración determinada
+T67	Term-AttentionRank 569 589	duración determinada
+T68	Term-AttentionRank 557 565	contrato
+T69	Term-AttentionRank 211 219	contrato
+T70	Term-AttentionRank 308 314	título
+T71	Term-AttentionRank 887 897	trabajador
+T72	Term-AttentionRank 14 28	Representantes
+T73	Term-AttentionRank 421 435	representantes
+T74	Term-AttentionRank 274 281	órganos
+T75	Term-Rebel 857 865	fracción
+T76	Term-Rebel 740 755	días trabajados
+T77	Term-IATE 0 8	Artículo
+T78	Term-IATE 223 231	duración
+T79	Term-IATE 569 577	duración
+T80	Term-IATE 211 219	contrato
+T81	Term-IATE 557 565	contrato
+T82	Term-IATE 94 106	trabajadores
+T83	Term-IATE 183 195	trabajadores
+T84	Term-IATE 337 349	trabajadores
+T85	Term-IATE 529 541	trabajadores
+T86	Term-IATE 627 639	trabajadores
+T87	Term-IATE 887 897	trabajador
+T88	Term-IATE 211 243	contrato de duración determinada
+T89	Term-IATE 557 589	contrato de duración determinada
+T90	Term-IATE 308 314	título
+T91	Term-IATE 14 28	Representantes
+T92	Term-IATE 421 435	representantes
+T93	Term-IATE 794 806	convocatoria
+T94	Term-IATE 857 865	fracción
+R1	part_of-Rebel Arg1:T75 Arg2:T76

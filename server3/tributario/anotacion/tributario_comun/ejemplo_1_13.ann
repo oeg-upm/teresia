@@ -182,3 +182,6 @@ T181	Term-AttentionRank 1519 1532	aplazamientos
 T182	Term-AttentionRank 1968 1980	aplazamiento
 T183	Term-AttentionRank 1602 1614	aplazamiento
 T184	Term-AttentionRank 566 583	firma electrónica
+T185	Term-Rebel 1140 1181	Reclamaciones Económico - Administrativas
+T186	Term-Rebel 4 42	reclamación económico - administrativa
+R1	subclass_of-Rebel Arg1:T185 Arg2:T186

@@ -146,3 +146,6 @@ T145	Term-AttentionRank 612 632	normativa tributaria
 T146	Term-AttentionRank 1216 1225	intereses
 T147	Term-AttentionRank 1108 1117	intereses
 T148	Term-AttentionRank 1319 1328	intereses
+T149	Term-Rebel 1108 1127	intereses de demora
+T150	Term-Rebel 1108 1117	intereses
+R1	subclass_of-Rebel Arg1:T149 Arg2:T150

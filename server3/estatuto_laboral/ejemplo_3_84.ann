@@ -1,0 +1,147 @@
+T1	Term-DPEJ 457 476	resolución judicial
+T2	Term-DPEJ 825 844	resolución judicial
+T3	Term-DPEJ 374 380	tiempo
+T4	Term-DPEJ 128 136	artículo
+T5	Term-DPEJ 1005 1013	artículo
+T6	Term-DPEJ 333 343	suspensión
+T7	Term-DPEJ 1579 1589	suspensión
+T8	Term-DPEJ 277 288	acogimiento
+T9	Term-DPEJ 588 599	acogimiento
+T10	Term-DPEJ 955 966	acogimiento
+T11	Term-DPEJ 1290 1297	derecho
+T12	Term-DPEJ 1321 1328	empresa
+T13	Term-DPEJ 228 232	caso
+T14	Term-DPEJ 1514 1518	caso
+T15	Term-DPEJ 457 467	resolución
+T16	Term-DPEJ 825 835	resolución
+T17	Term-DPEJ 971 982	conformidad
+T18	Term-DPEJ 1522 1532	nacimiento
+T19	Term-DPEJ 393 398	forma
+T20	Term-DPEJ 763 768	forma
+T21	Term-DPEJ 1670 1675	forma
+T22	Term-DPEJ 1212 1223	disposición
+T23	Term-DPEJ 527 535	decisión
+T24	Term-DPEJ 894 902	decisión
+T25	Term-Termcat 187 194	Decreto
+T26	Term-Termcat 825 835	resolución
+T27	Term-Termcat 457 467	resolución
+T28	Term-Termcat 266 274	adopción
+T29	Term-Termcat 941 949	adopción
+T30	Term-Termcat 236 244	adopción
+T31	Term-Termcat 574 582	adopción
+T32	Term-Termcat 505 513	adopción
+T33	Term-Termcat 873 881	adopción
+T34	Term-Termcat 516 520	bien
+T35	Term-Termcat 884 888	bien
+T36	Term-Termcat 393 398	forma
+T37	Term-Termcat 763 768	forma
+T38	Term-Termcat 1670 1675	forma
+T39	Term-Termcat 3 11	disfrute
+T40	Term-Termcat 718 726	disfrute
+T41	Term-Termcat 1352 1360	disfrute
+T42	Term-Termcat 629 637	disfrute
+T43	Term-Termcat 1131 1139	disfrute
+T44	Term-Termcat 246 252	guarda
+T45	Term-Termcat 554 560	guarda
+T46	Term-Termcat 921 927	guarda
+T47	Term-Termcat 195 198	ley
+T48	Term-Termcat 1522 1532	nacimiento
+T49	Term-Termcat 1005 1013	artículo
+T50	Term-Termcat 128 136	artículo
+T51	Term-Termcat 161 177	entrada en vigor
+T52	Term-Termcat 1321 1328	empresa
+T53	Term-Termcat 1202 1209	semanas
+T54	Term-Termcat 1089 1096	semanas
+T55	Term-Termcat 86 93	semanas
+T56	Term-Termcat 707 714	semanas
+T57	Term-Termcat 352 359	semanas
+T58	Term-Termcat 1112 1119	semanas
+T59	Term-Termcat 618 625	semanas
+T60	Term-Termcat 1384 1391	semanas
+T61	Term-Termcat 1604 1611	semanas
+T62	Term-Termcat 894 902	decisión
+T63	Term-Termcat 527 535	decisión
+T64	Term-Termcat 1290 1297	derecho
+T65	Term-Termcat 1579 1589	suspensión
+T66	Term-Termcat 333 343	suspensión
+T67	Term-Termcat 971 982	conformidad
+T68	Term-Termcat 1212 1223	disposición
+T69	Term-Termcat 825 844	resolución judicial
+T70	Term-Termcat 457 476	resolución judicial
+T71	Term-Termcat 277 288	acogimiento
+T72	Term-Termcat 955 966	acogimiento
+T73	Term-Termcat 588 599	acogimiento
+T74	Term-Termcat 668 670	as
+T75	Term-Termcat 182 194	Real Decreto
+T76	Term-Termcat 678 686	disponer
+T77	Term-Termcat 1175 1180	sobre
+T78	Term-Termcat 1097 1102	sobre
+T79	Term-AttentionRank 1202 1209	semanas
+T80	Term-AttentionRank 1089 1096	semanas
+T81	Term-AttentionRank 86 93	semanas
+T82	Term-AttentionRank 707 714	semanas
+T83	Term-AttentionRank 352 359	semanas
+T84	Term-AttentionRank 618 625	semanas
+T85	Term-AttentionRank 1384 1391	semanas
+T86	Term-AttentionRank 1604 1611	semanas
+T87	Term-AttentionRank 803 851	meses siguientes a la resolución judicial por la
+T88	Term-AttentionRank 266 274	adopción
+T89	Term-AttentionRank 941 949	adopción
+T90	Term-AttentionRank 236 244	adopción
+T91	Term-AttentionRank 574 582	adopción
+T92	Term-AttentionRank 505 513	adopción
+T93	Term-AttentionRank 873 881	adopción
+T94	Term-AttentionRank 257 262	fines
+T95	Term-AttentionRank 565 570	fines
+T96	Term-AttentionRank 932 937	fines
+T97	Term-AttentionRank 1670 1719	forma ininterrumpida inmediatamente tras el parto
+T98	Term-AttentionRank 295 305	progenitor
+T99	Term-AttentionRank 1025 1035	progenitor
+T100	Term-AttentionRank 1542 1552	progenitor
+T101	Term-AttentionRank 1233 1243	progenitor
+T102	Term-AttentionRank 40 50	progenitor
+T103	Term-AttentionRank 1260 1272	progenitores
+T104	Term-AttentionRank 655 667	progenitores
+T105	Term-AttentionRank 1112 1150	semanas totales de disfrute voluntario
+T106	Term-AttentionRank 322 329	periodo
+T107	Term-AttentionRank 1568 1575	periodo
+T108	Term-AttentionRank 20 27	periodo
+T109	Term-AttentionRank 718 737	disfrute voluntario
+T110	Term-AttentionRank 1590 1595	total
+T111	Term-AttentionRank 693 698	total
+T112	Term-AttentionRank 1184 1189	total
+T113	Term-AttentionRank 277 288	acogimiento
+T114	Term-AttentionRank 955 966	acogimiento
+T115	Term-AttentionRank 588 599	acogimiento
+T116	Term-AttentionRank 1005 1013	artículo
+T117	Term-AttentionRank 128 136	artículo
+T118	Term-AttentionRank 148 168	partir de la entrada
+T119	Term-AttentionRank 1352 1371	disfrute simultáneo
+T120	Term-AttentionRank 763 783	forma ininterrumpida
+T121	Term-IATE 1522 1532	nacimiento
+T122	Term-IATE 128 136	artículo
+T123	Term-IATE 1005 1013	artículo
+T124	Term-IATE 40 50	progenitor
+T125	Term-IATE 295 305	progenitor
+T126	Term-IATE 1025 1035	progenitor
+T127	Term-IATE 1233 1243	progenitor
+T128	Term-IATE 1542 1552	progenitor
+T129	Term-IATE 655 667	progenitores
+T130	Term-IATE 1260 1272	progenitores
+T131	Term-IATE 236 244	adopción
+T132	Term-IATE 266 274	adopción
+T133	Term-IATE 505 513	adopción
+T134	Term-IATE 574 582	adopción
+T135	Term-IATE 873 881	adopción
+T136	Term-IATE 941 949	adopción
+T137	Term-IATE 333 343	suspensión
+T138	Term-IATE 1579 1589	suspensión
+T139	Term-IATE 172 177	vigor
+T140	Term-IATE 971 982	conformidad
+T141	Term-IATE 527 535	decisión
+T142	Term-IATE 894 902	decisión
+T143	Term-IATE 803 808	meses
+T144	Term-IATE 457 467	resolución
+T145	Term-IATE 825 835	resolución
+T146	Term-IATE 1321 1328	empresa
+T147	Term-IATE 161 177	entrada en vigor

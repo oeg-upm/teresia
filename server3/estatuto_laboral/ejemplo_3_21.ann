@@ -1,0 +1,192 @@
+T1	Term-DPEJ 1064 1086	estructura del salario
+T2	Term-DPEJ 1113 1125	salario base
+T3	Term-DPEJ 1751 1756	cargo
+T4	Term-DPEJ 982 1003	negociación colectiva
+T5	Term-DPEJ 1165 1171	tiempo
+T6	Term-DPEJ 77 89	trabajadores
+T7	Term-DPEJ 523 533	trabajador
+T8	Term-DPEJ 710 720	trabajador
+T9	Term-DPEJ 1301 1311	trabajador
+T10	Term-DPEJ 1761 1771	trabajador
+T11	Term-DPEJ 542 547	lugar
+T12	Term-DPEJ 418 426	artículo
+T13	Term-DPEJ 508 518	salariales
+T14	Term-DPEJ 1210 1220	salariales
+T15	Term-DPEJ 1525 1535	salariales
+T16	Term-DPEJ 873 882	Seguridad
+T17	Term-DPEJ 1732 1741	Seguridad
+T18	Term-DPEJ 1370 1377	empresa
+T19	Term-DPEJ 1689 1696	empresa
+T20	Term-DPEJ 122 132	prestación
+T21	Term-DPEJ 1025 1033	contrato
+T22	Term-DPEJ 982 993	negociación
+T23	Term-DPEJ 1286 1296	personales
+T24	Term-DPEJ 336 340	caso
+T25	Term-DPEJ 1191 1195	caso
+T26	Term-DPEJ 1585 1592	acuerdo
+T27	Term-DPEJ 794 806	consecuencia
+T28	Term-DPEJ 18 25	salario
+T29	Term-DPEJ 433 440	salario
+T30	Term-DPEJ 601 608	salario
+T31	Term-DPEJ 668 675	salario
+T32	Term-DPEJ 1079 1086	salario
+T33	Term-DPEJ 1113 1120	salario
+T34	Term-DPEJ 1635 1641	puesto
+T35	Term-DPEJ 601 615	salario mínimo
+T36	Term-DPEJ 1353 1363	resultados
+T37	Term-DPEJ 1672 1682	resultados
+T38	Term-DPEJ 247 252	forma
+T39	Term-DPEJ 1121 1125	base
+T40	Term-DPEJ 152 161	servicios
+T41	Term-DPEJ 873 889	Seguridad Social
+T42	Term-DPEJ 1732 1748	Seguridad Social
+T43	Term-DPEJ 601 632	salario mínimo interprofesional
+T44	Term-DPEJ 207 223	trabajo efectivo
+T45	Term-DPEJ 1132 1143	retribución
+T46	Term-DPEJ 1341 1350	situación
+T47	Term-DPEJ 1660 1669	situación
+T48	Term-DPEJ 1821 1826	pacto
+T49	Term-DPEJ 1243 1257	circunstancias
+T50	Term-DPEJ 813 822	actividad
+T51	Term-DPEJ 724 732	concepto
+T52	Term-DPEJ 207 214	trabajo
+T53	Term-DPEJ 317 324	trabajo
+T54	Term-DPEJ 1316 1323	trabajo
+T55	Term-DPEJ 1645 1652	trabajo
+T56	Term-DPEJ 433 451	salario en especie
+T57	Term-DPEJ 957 965	despidos
+T58	Term-DPEJ 931 940	traslados
+T59	Term-Termcat 1711 1717	cargas
+T60	Term-Termcat 982 1003	negociación colectiva
+T61	Term-Termcat 1132 1143	retribución
+T62	Term-Termcat 152 161	servicios
+T63	Term-Termcat 1025 1033	contrato
+T64	Term-Termcat 1821 1826	pacto
+T65	Term-Termcat 247 252	forma
+T66	Term-Termcat 122 132	prestación
+T67	Term-Termcat 418 426	artículo
+T68	Term-Termcat 172 188	por cuenta ajena
+T69	Term-Termcat 754 762	suplidos
+T70	Term-Termcat 957 965	despidos
+T71	Term-Termcat 1751 1756	cargo
+T72	Term-Termcat 1197 1220	complementos salariales
+T73	Term-Termcat 1512 1535	complementos salariales
+T74	Term-Termcat 1025 1044	contrato individual
+T75	Term-Termcat 288 296	descanso
+T76	Term-Termcat 1370 1377	empresa
+T77	Term-Termcat 1689 1696	empresa
+T78	Term-Termcat 1064 1086	estructura del salario
+T79	Term-Termcat 317 324	trabajo
+T80	Term-Termcat 1316 1323	trabajo
+T81	Term-Termcat 1232 1239	función
+T82	Term-Termcat 1635 1652	puesto de trabajo
+T83	Term-Termcat 553 563	minoración
+T84	Term-Termcat 1286 1296	personales
+T85	Term-Termcat 356 397	relaciones laborales de carácter especial
+T86	Term-Termcat 256 268	remuneración
+T87	Term-Termcat 18 25	salario
+T88	Term-Termcat 668 675	salario
+T89	Term-Termcat 1113 1125	salario base
+T90	Term-Termcat 433 451	salario en especie
+T91	Term-Termcat 601 632	salario mínimo interprofesional
+T92	Term-Termcat 508 518	salariales
+T93	Term-Termcat 1732 1748	Seguridad Social
+T94	Term-Termcat 873 889	Seguridad Social
+T95	Term-Termcat 931 940	traslados
+T96	Term-Termcat 207 223	trabajo efectivo
+T97	Term-Termcat 1121 1125	base
+T98	Term-Termcat 1064 1074	estructura
+T99	Term-Termcat 982 993	negociación
+T100	Term-Termcat 873 882	Seguridad
+T101	Term-Termcat 1732 1741	Seguridad
+T102	Term-Termcat 1585 1592	acuerdo
+T103	Term-Termcat 813 822	actividad
+T104	Term-Termcat 1243 1257	circunstancias
+T105	Term-Termcat 176 182	cuenta
+T106	Term-Termcat 1397 1405	conforme
+T107	Term-Termcat 771 777	gastos
+T108	Term-Termcat 1432 1438	efecto
+T109	Term-Termcat 207 214	trabajo
+T110	Term-Termcat 1718 1726	fiscales
+T111	Term-Termcat 1034 1044	individual
+T112	Term-Termcat 1177 1181	obra
+T113	Term-Termcat 1079 1086	salario
+T114	Term-Termcat 1353 1363	resultados
+T115	Term-Termcat 1672 1682	resultados
+T116	Term-Termcat 1155 1161	unidad
+T117	Term-Termcat 1552 1560	carácter
+T118	Term-Termcat 1475 1483	carácter
+T119	Term-Termcat 380 388	carácter
+T120	Term-AttentionRank 1132 1171	retribución fijada por unidad de tiempo
+T121	Term-AttentionRank 1232 1311	función de circunstancias relativas a las condiciones personales del trabajador
+T122	Term-AttentionRank 668 675	salario
+T123	Term-AttentionRank 1079 1086	salario
+T124	Term-AttentionRank 433 440	salario
+T125	Term-AttentionRank 18 25	salario
+T126	Term-AttentionRank 1113 1120	salario
+T127	Term-AttentionRank 207 214	trabajo
+T128	Term-AttentionRank 317 324	trabajo
+T129	Term-AttentionRank 1645 1652	trabajo
+T130	Term-AttentionRank 1316 1323	trabajo
+T131	Term-AttentionRank 1475 1496	carácter consolidable
+T132	Term-AttentionRank 570 586	cuan tía íntegra
+T133	Term-AttentionRank 77 89	trabajadores
+T134	Term-AttentionRank 523 533	trabajador
+T135	Term-AttentionRank 710 720	trabajador
+T136	Term-AttentionRank 1341 1350	situación
+T137	Term-AttentionRank 1660 1669	situación
+T138	Term-AttentionRank 1552 1560	carácter
+T139	Term-AttentionRank 380 388	carácter
+T140	Term-AttentionRank 1505 1535	dichos complementos salariales
+T141	Term-AttentionRank 851 866	indemnizaciones
+T142	Term-AttentionRank 736 751	indemnizaciones
+T143	Term-AttentionRank 896 911	indemnizaciones
+T144	Term-AttentionRank 1751 1771	cargo del trabajador
+T145	Term-AttentionRank 152 171	servicios laborales
+T146	Term-AttentionRank 1635 1641	puesto
+T147	Term-AttentionRank 601 615	salario mínimo
+T148	Term-Rebel 1025 1044	contrato individual
+T149	Term-Rebel 982 1003	negociación colectiva
+T150	Term-IATE 873 889	Seguridad Social
+T151	Term-IATE 1732 1748	Seguridad Social
+T152	Term-IATE 1064 1074	estructura
+T153	Term-IATE 418 426	artículo
+T154	Term-IATE 1751 1756	cargo
+T155	Term-IATE 771 777	gastos
+T156	Term-IATE 1025 1033	contrato
+T157	Term-IATE 77 89	trabajadores
+T158	Term-IATE 523 533	trabajador
+T159	Term-IATE 710 720	trabajador
+T160	Term-IATE 1301 1311	trabajador
+T161	Term-IATE 1761 1771	trabajador
+T162	Term-IATE 18 25	salario
+T163	Term-IATE 433 440	salario
+T164	Term-IATE 601 608	salario
+T165	Term-IATE 668 675	salario
+T166	Term-IATE 1079 1086	salario
+T167	Term-IATE 1113 1120	salario
+T168	Term-IATE 1132 1143	retribución
+T169	Term-IATE 813 822	actividad
+T170	Term-IATE 356 376	relaciones laborales
+T171	Term-IATE 982 993	negociación
+T172	Term-IATE 288 296	descanso
+T173	Term-IATE 873 882	Seguridad
+T174	Term-IATE 1732 1741	Seguridad
+T175	Term-IATE 1155 1161	unidad
+T176	Term-IATE 1155 1161	unidad
+T177	Term-IATE 1232 1239	función
+T178	Term-IATE 982 1003	negociación colectiva
+T179	Term-IATE 1341 1350	situación
+T180	Term-IATE 1660 1669	situación
+T181	Term-IATE 1177 1181	obra
+T182	Term-IATE 1585 1592	acuerdo
+T183	Term-IATE 256 268	remuneración
+T184	Term-IATE 380 388	carácter
+T185	Term-IATE 1475 1483	carácter
+T186	Term-IATE 1552 1560	carácter
+T187	Term-IATE 1370 1377	empresa
+T188	Term-IATE 1689 1696	empresa
+T189	Term-IATE 601 615	salario mínimo
+T190	Term-IATE 724 732	concepto
+T191	Term-IATE 122 132	prestación
+R1	subclass_of-Rebel Arg1:T148 Arg2:T149

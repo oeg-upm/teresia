@@ -148,3 +148,6 @@ T147	Term-AttentionRank 596 601	plazo
 T148	Term-AttentionRank 925 946	reclamación económico
 T149	Term-AttentionRank 1357 1363	número
 T150	Term-AttentionRank 1279 1288	domicilio
+T151	org-Rebel 104 120	Cajas de Ahorros
+T152	Term-Rebel 71 94	entidades colaboradoras
+R1	instance_of-Rebel Arg1:T151 Arg2:T152

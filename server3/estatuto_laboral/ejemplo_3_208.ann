@@ -1,0 +1,193 @@
+T1	Term-DPEJ 126 134	personas
+T2	Term-DPEJ 712 720	personas
+T3	Term-DPEJ 860 868	personas
+T4	Term-DPEJ 1187 1195	personas
+T5	Term-DPEJ 1285 1293	personas
+T6	Term-DPEJ 1572 1580	personas
+T7	Term-DPEJ 784 791	persona
+T8	Term-DPEJ 1137 1141	plan
+T9	Term-DPEJ 104 112	artículo
+T10	Term-DPEJ 73 84	acogimiento
+T11	Term-DPEJ 429 440	acogimiento
+T12	Term-DPEJ 156 163	derecho
+T13	Term-DPEJ 470 477	derecho
+T14	Term-DPEJ 686 693	derecho
+T15	Term-DPEJ 915 922	derecho
+T16	Term-DPEJ 1358 1365	derecho
+T17	Term-DPEJ 1602 1609	derecho
+T18	Term-DPEJ 1807 1814	derecho
+T19	Term-DPEJ 1246 1254	derechos
+T20	Term-DPEJ 894 901	empresa
+T21	Term-DPEJ 1050 1057	empresa
+T22	Term-DPEJ 1118 1125	empresa
+T23	Term-DPEJ 663 671	apartado
+T24	Term-DPEJ 538 545	jornada
+T25	Term-DPEJ 635 642	jornada
+T26	Term-DPEJ 1828 1835	jornada
+T27	Term-DPEJ 599 607	jornadas
+T28	Term-DPEJ 178 186	ausencia
+T29	Term-DPEJ 367 372	casos
+T30	Term-DPEJ 1110 1114	caso
+T31	Term-DPEJ 1658 1662	caso
+T32	Term-DPEJ 318 325	permiso
+T33	Term-DPEJ 89 96	acuerdo
+T34	Term-DPEJ 1511 1518	salario
+T35	Term-DPEJ 1913 1920	salario
+T36	Term-DPEJ 1724 1729	causa
+T37	Term-DPEJ 805 814	adoptante
+T38	Term-DPEJ 1308 1318	adoptantes
+T39	Term-DPEJ 20 30	nacimiento
+T40	Term-DPEJ 376 386	nacimiento
+T41	Term-DPEJ 1666 1676	nacimiento
+T42	Term-DPEJ 126 147	personas trabajadoras
+T43	Term-DPEJ 712 733	personas trabajadoras
+T44	Term-DPEJ 860 881	personas trabajadoras
+T45	Term-DPEJ 1187 1208	personas trabajadoras
+T46	Term-DPEJ 1572 1593	personas trabajadoras
+T47	Term-DPEJ 246 253	cuidado
+T48	Term-DPEJ 522 531	reducción
+T49	Term-DPEJ 622 631	reducción
+T50	Term-DPEJ 1484 1493	reducción
+T51	Term-DPEJ 1532 1544	cumplimiento
+T52	Term-DPEJ 191 198	trabajo
+T53	Term-DPEJ 1627 1634	trabajo
+T54	Term-DPEJ 1839 1846	trabajo
+T55	Term-Termcat 318 325	permiso
+T56	Term-Termcat 178 186	ausencia
+T57	Term-Termcat 62 70	adopción
+T58	Term-Termcat 388 396	adopción
+T59	Term-Termcat 418 426	adopción
+T60	Term-Termcat 32 40	adopción
+T61	Term-Termcat 805 814	adoptante
+T62	Term-Termcat 1308 1318	adoptantes
+T63	Term-Termcat 943 951	causante
+T64	Term-Termcat 1169 1177	disfrute
+T65	Term-Termcat 1413 1421	disfrute
+T66	Term-Termcat 398 404	guarda
+T67	Term-Termcat 42 48	guarda
+T68	Term-Termcat 376 386	nacimiento
+T69	Term-Termcat 1666 1676	nacimiento
+T70	Term-Termcat 20 30	nacimiento
+T71	Term-Termcat 104 112	artículo
+T72	Term-Termcat 1258 1270	conciliación
+T73	Term-Termcat 246 253	cuidado
+T74	Term-Termcat 894 901	empresa
+T75	Term-Termcat 1050 1057	empresa
+T76	Term-Termcat 1118 1125	empresa
+T77	Term-Termcat 191 198	trabajo
+T78	Term-Termcat 1627 1634	trabajo
+T79	Term-Termcat 599 617	jornadas completas
+T80	Term-Termcat 1828 1846	jornada de trabajo
+T81	Term-Termcat 622 642	reducción de jornada
+T82	Term-Termcat 1511 1518	salario
+T83	Term-Termcat 1913 1920	salario
+T84	Term-Termcat 1379 1387	duración
+T85	Term-Termcat 305 313	duración
+T86	Term-Termcat 1807 1814	derecho
+T87	Term-Termcat 470 477	derecho
+T88	Term-Termcat 915 922	derecho
+T89	Term-Termcat 686 693	derecho
+T90	Term-Termcat 1602 1609	derecho
+T91	Term-Termcat 156 163	derecho
+T92	Term-Termcat 1358 1365	derecho
+T93	Term-Termcat 1246 1254	derechos
+T94	Term-Termcat 860 868	personas
+T95	Term-Termcat 712 720	personas
+T96	Term-Termcat 1285 1293	personas
+T97	Term-Termcat 1187 1195	personas
+T98	Term-Termcat 1572 1580	personas
+T99	Term-Termcat 126 134	personas
+T100	Term-Termcat 784 791	persona
+T101	Term-Termcat 429 440	acogimiento
+T102	Term-Termcat 73 84	acogimiento
+T103	Term-Termcat 89 96	acuerdo
+T104	Term-Termcat 1724 1729	causa
+T105	Term-Termcat 1532 1544	cumplimiento
+T106	Term-Termcat 686 704	derecho individual
+T107	Term-Termcat 972 981	ejercicio
+T108	Term-Termcat 1229 1238	ejercicio
+T109	Term-Termcat 764 773	ejercicio
+T110	Term-Termcat 1137 1141	plan
+T111	Term-Termcat 1390 1397	régimen
+T112	Term-Termcat 936 942	sujeto
+T113	Term-Termcat 486 494	voluntad
+T114	Term-Termcat 573 582	finalidad
+T115	Term-Termcat 1817 1824	reducir
+T116	Term-AttentionRank 860 881	personas trabajadoras
+T117	Term-AttentionRank 712 733	personas trabajadoras
+T118	Term-AttentionRank 1572 1593	personas trabajadoras
+T119	Term-AttentionRank 1187 1208	personas trabajadoras
+T120	Term-AttentionRank 126 147	personas trabajadoras
+T121	Term-AttentionRank 1807 1814	derecho
+T122	Term-AttentionRank 470 477	derecho
+T123	Term-AttentionRank 915 922	derecho
+T124	Term-AttentionRank 686 693	derecho
+T125	Term-AttentionRank 1602 1609	derecho
+T126	Term-AttentionRank 156 163	derecho
+T127	Term-AttentionRank 1358 1365	derecho
+T128	Term-AttentionRank 1246 1254	derechos
+T129	Term-AttentionRank 409 414	fines
+T130	Term-AttentionRank 53 58	fines
+T131	Term-AttentionRank 62 70	adopción
+T132	Term-AttentionRank 388 396	adopción
+T133	Term-AttentionRank 418 426	adopción
+T134	Term-AttentionRank 32 40	adopción
+T135	Term-AttentionRank 1828 1835	jornada
+T136	Term-AttentionRank 635 642	jornada
+T137	Term-AttentionRank 538 545	jornada
+T138	Term-AttentionRank 599 607	jornadas
+T139	Term-AttentionRank 1839 1846	trabajo
+T140	Term-AttentionRank 191 198	trabajo
+T141	Term-AttentionRank 1627 1634	trabajo
+T142	Term-AttentionRank 170 174	hora
+T143	Term-AttentionRank 555 559	hora
+T144	Term-AttentionRank 1647 1651	hora
+T145	Term-AttentionRank 1870 1875	horas
+T146	Term-AttentionRank 972 992	ejercicio simultáneo
+T147	Term-AttentionRank 622 631	reducción
+T148	Term-AttentionRank 522 531	reducción
+T149	Term-AttentionRank 1484 1493	reducción
+T150	Term-AttentionRank 1452 1460	lactante
+T151	Term-AttentionRank 258 266	lactante
+T152	Term-AttentionRank 1473 1478	meses
+T153	Term-AttentionRank 1558 1563	meses
+T154	Term-AttentionRank 295 300	meses
+T155	Term-AttentionRank 1285 1306	personas progenitoras
+T156	Term-AttentionRank 89 112	acuerdo con el artículo
+T157	Term-AttentionRank 997 1013	razones fundadas
+T158	Term-AttentionRank 429 440	acogimiento
+T159	Term-AttentionRank 73 84	acogimiento
+T160	Term-Rebel 1690 1694	hijo
+T161	Term-Rebel 1782 1787	parto
+T162	Term-IATE 1697 1701	hija
+T163	Term-IATE 663 671	apartado
+T164	Term-IATE 20 30	nacimiento
+T165	Term-IATE 376 386	nacimiento
+T166	Term-IATE 1666 1676	nacimiento
+T167	Term-IATE 104 112	artículo
+T168	Term-IATE 522 531	reducción
+T169	Term-IATE 622 631	reducción
+T170	Term-IATE 1484 1493	reducción
+T171	Term-IATE 305 313	duración
+T172	Term-IATE 1379 1387	duración
+T173	Term-IATE 32 40	adopción
+T174	Term-IATE 62 70	adopción
+T175	Term-IATE 388 396	adopción
+T176	Term-IATE 418 426	adopción
+T177	Term-IATE 318 325	permiso
+T178	Term-IATE 1511 1518	salario
+T179	Term-IATE 1913 1920	salario
+T180	Term-IATE 258 266	lactante
+T181	Term-IATE 1452 1460	lactante
+T182	Term-IATE 295 300	meses
+T183	Term-IATE 1473 1478	meses
+T184	Term-IATE 1558 1563	meses
+T185	Term-IATE 89 96	acuerdo
+T186	Term-IATE 894 901	empresa
+T187	Term-IATE 1050 1057	empresa
+T188	Term-IATE 1118 1125	empresa
+T189	Term-IATE 764 773	ejercicio
+T190	Term-IATE 972 981	ejercicio
+T191	Term-IATE 1229 1238	ejercicio
+T192	Term-IATE 1690 1694	hijo
+R1	has_cause-Rebel Arg1:T160 Arg2:T161

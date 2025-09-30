@@ -140,3 +140,6 @@ T139	Term-AttentionRank 1496 1506	reposición
 T140	Term-AttentionRank 587 608	siguiente información
 T141	Term-AttentionRank 231 236	plazo
 T142	Term-AttentionRank 954 960	número
+T143	media-Rebel 1385 1420	Tribunal Económico - Administrativo
+T144	media-Rebel 1460 1474	A_._E_._A_._T_
+R1	part_of-Rebel Arg1:T143 Arg2:T144

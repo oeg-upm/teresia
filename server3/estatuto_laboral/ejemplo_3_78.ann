@@ -1,0 +1,86 @@
+T1	Term-DPEJ 435 449	representación
+T2	Term-DPEJ 526 540	representación
+T3	Term-DPEJ 346 354	miembros
+T4	Term-DPEJ 115 127	trabajadores
+T5	Term-DPEJ 269 281	trabajadores
+T6	Term-DPEJ 551 561	trabajador
+T7	Term-DPEJ 0 8	Artículo
+T8	Term-DPEJ 183 191	derechos
+T9	Term-DPEJ 359 367	derechos
+T10	Term-DPEJ 44 49	grupo
+T11	Term-DPEJ 102 107	grupo
+T12	Term-DPEJ 260 265	grupo
+T13	Term-DPEJ 416 421	grupo
+T14	Term-DPEJ 32 40	contrato
+T15	Term-DPEJ 244 252	contrato
+T16	Term-DPEJ 194 201	deberes
+T17	Term-DPEJ 370 377	deberes
+T18	Term-DPEJ 13 20	Trabajo
+T19	Term-DPEJ 80 87	trabajo
+T20	Term-DPEJ 612 619	trabajo
+T21	Term-Termcat 102 107	grupo
+T22	Term-Termcat 260 265	grupo
+T23	Term-Termcat 44 49	grupo
+T24	Term-Termcat 416 421	grupo
+T25	Term-Termcat 244 252	contrato
+T26	Term-Termcat 32 40	contrato
+T27	Term-Termcat 370 377	deberes
+T28	Term-Termcat 194 201	deberes
+T29	Term-Termcat 526 540	representación
+T30	Term-Termcat 435 449	representación
+T31	Term-Termcat 0 8	Artículo
+T32	Term-Termcat 634 642	ayudante
+T33	Term-Termcat 13 20	Trabajo
+T34	Term-Termcat 612 619	trabajo
+T35	Term-Termcat 80 87	trabajo
+T36	Term-Termcat 183 191	derechos
+T37	Term-Termcat 359 367	derechos
+T38	Term-Termcat 623 631	auxiliar
+T39	Term-Termcat 563 571	conforme
+T40	Term-AttentionRank 269 309	trabajadores considerado en su totalidad
+T41	Term-AttentionRank 102 107	grupo
+T42	Term-AttentionRank 260 265	grupo
+T43	Term-AttentionRank 44 49	grupo
+T44	Term-AttentionRank 416 421	grupo
+T45	Term-AttentionRank 13 20	Trabajo
+T46	Term-AttentionRank 80 87	trabajo
+T47	Term-AttentionRank 612 631	trabajo un auxiliar
+T48	Term-AttentionRank 115 127	trabajadores
+T49	Term-AttentionRank 647 657	empresario
+T50	Term-AttentionRank 212 222	empresario
+T51	Term-AttentionRank 60 70	empresario
+T52	Term-AttentionRank 140 156	respecto de cada
+T53	Term-AttentionRank 244 252	contrato
+T54	Term-AttentionRank 32 40	contrato
+T55	Term-AttentionRank 183 191	derechos
+T56	Term-AttentionRank 359 367	derechos
+T57	Term-AttentionRank 370 377	deberes
+T58	Term-AttentionRank 194 201	deberes
+T59	Term-AttentionRank 494 517	obligaciones inherentes
+T60	Term-AttentionRank 407 411	jefe
+T61	Term-AttentionRank 526 540	representación
+T62	Term-AttentionRank 435 449	representación
+T63	Term-AttentionRank 346 354	miembros
+T64	Term-AttentionRank 551 561	trabajador
+T65	Term-Rebel 13 29	Trabajo en común
+T66	Term-Rebel 32 40	contrato
+T67	Term-IATE 60 70	empresario
+T68	Term-IATE 212 222	empresario
+T69	Term-IATE 647 657	empresario
+T70	Term-IATE 0 8	Artículo
+T71	Term-IATE 32 40	contrato
+T72	Term-IATE 244 252	contrato
+T73	Term-IATE 115 127	trabajadores
+T74	Term-IATE 269 281	trabajadores
+T75	Term-IATE 551 561	trabajador
+T76	Term-IATE 44 49	grupo
+T77	Term-IATE 102 107	grupo
+T78	Term-IATE 260 265	grupo
+T79	Term-IATE 416 421	grupo
+T80	Term-IATE 44 49	grupo
+T81	Term-IATE 102 107	grupo
+T82	Term-IATE 260 265	grupo
+T83	Term-IATE 416 421	grupo
+T84	Term-IATE 260 281	grupo de trabajadores
+T85	Term-IATE 346 354	miembros
+R1	subclass_of-Rebel Arg1:T65 Arg2:T66

@@ -142,3 +142,6 @@ T141	Term-AttentionRank 430 440	reposición
 T142	Term-AttentionRank 1220 1230	reposición
 T143	Term-AttentionRank 1704 1708	pago
 T144	Term-AttentionRank 1448 1460	presentación
+T145	Term-Rebel 1337 1384	Agencia Estatal de la Administración Tributaria
+T146	Term-Rebel 1416 1433	firma electrónica
+R1	field_of_work-Rebel Arg1:T145 Arg2:T146

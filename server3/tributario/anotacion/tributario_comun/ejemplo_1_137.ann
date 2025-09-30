@@ -177,3 +177,6 @@ T176	Term-AttentionRank 1209 1221	aplazamiento
 T177	Term-AttentionRank 216 233	firma electrónica
 T178	Term-AttentionRank 39 60	reclamación económico
 T179	Term-AttentionRank 1863 1890	actuaciones administrativas
+T180	Term-Rebel 1731 1799	Dirección General de la Agencia Estatal de Administración Tributaria
+T181	org-Rebel 1755 1799	Agencia Estatal de Administración Tributaria
+R1	part_of-Rebel Arg1:T180 Arg2:T181

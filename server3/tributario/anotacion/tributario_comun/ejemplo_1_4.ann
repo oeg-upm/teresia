@@ -249,3 +249,6 @@ T248	Term-AttentionRank 423 433	reposición
 T249	Term-AttentionRank 233 250	normativa vigente
 T250	Term-AttentionRank 87 98	reclamación
 T251	Term-AttentionRank 180 189	supuestos
+T252	Term-Rebel 919 994	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T253	Term-Rebel 927 994	Procedimiento Administrativo Común de las Administraciones Públicas
+R1	instance_of-Rebel Arg1:T252 Arg2:T253

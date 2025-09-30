@@ -197,3 +197,6 @@ T196	Term-AttentionRank 1700 1717	cuantía pendiente
 T197	Term-AttentionRank 1792 1809	cuantía pendiente
 T198	Term-AttentionRank 1227 1233	bienes
 T199	Term-AttentionRank 1471 1477	bienes
+T200	Term-Rebel 1370 1378	hipoteca
+T201	Term-Rebel 1608 1616	créditos
+R1	subclass_of-Rebel Arg1:T200 Arg2:T201

@@ -153,3 +153,6 @@ T152	Term-AttentionRank 1145 1172	perjuicio del mantenimiento
 T153	Term-AttentionRank 801 814	pago aplazado
 T154	Term-AttentionRank 581 586	meses
 T155	Term-AttentionRank 736 741	meses
+T156	Term-Rebel 1435 1458	declaraciones aduaneras
+T157	Term-Rebel 1370 1381	tributarias
+R1	subclass_of-Rebel Arg1:T156 Arg2:T157

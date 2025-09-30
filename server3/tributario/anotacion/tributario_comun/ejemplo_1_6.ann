@@ -211,3 +211,6 @@ T210	Term-AttentionRank 518 523	plazo
 T211	Term-AttentionRank 526 532	plazos
 T212	Term-AttentionRank 1072 1077	datos
 T213	Term-AttentionRank 1107 1112	datos
+T214	Term-Rebel 673 695	domiciliación bancaria
+T215	Term-Rebel 673 686	domiciliación
+R1	subclass_of-Rebel Arg1:T214 Arg2:T215

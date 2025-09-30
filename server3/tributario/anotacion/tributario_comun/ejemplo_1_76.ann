@@ -165,3 +165,6 @@ T164	Term-AttentionRank 180 203	través de dichos medios
 T165	Term-AttentionRank 1181 1188	devengo
 T166	Term-AttentionRank 20 39	medios electrónicos
 T167	Term-AttentionRank 1192 1201	intereses
+T168	org-Rebel 1732 1776	Agencia Estatal de Administración Tributaria
+T169	Term-Rebel 1751 1776	Administración Tributaria
+R1	instance_of-Rebel Arg1:T168 Arg2:T169

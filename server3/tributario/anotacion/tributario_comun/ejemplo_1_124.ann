@@ -146,3 +146,6 @@ T145	Term-AttentionRank 470 475	firma
 T146	Term-AttentionRank 701 707	PLAZOS
 T147	Term-AttentionRank 864 870	plazos
 T148	Term-AttentionRank 345 370	aplicaciones informáticas
+T149	Term-Rebel 1425 1444	INTERESES DE DEMORA
+T150	Term-Rebel 1425 1432	INTERES
+R1	subclass_of-Rebel Arg1:T149 Arg2:T150

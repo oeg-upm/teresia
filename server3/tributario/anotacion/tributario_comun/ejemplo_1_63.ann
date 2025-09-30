@@ -139,3 +139,6 @@ T138	Term-AttentionRank 1509 1520	resultantes
 T139	Term-AttentionRank 827 844	periodo ejecutivo
 T140	Term-AttentionRank 768 773	plazo
 T141	Term-AttentionRank 1094 1100	plazos
+T142	Term-Rebel 1327 1336	retenedor
+T143	Term-Rebel 1238 1256	deudas tributarias
+R1	subclass_of-Rebel Arg1:T142 Arg2:T143

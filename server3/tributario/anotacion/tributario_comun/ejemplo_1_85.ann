@@ -152,3 +152,6 @@ T151	Term-AttentionRank 992 996	pago
 T152	Term-AttentionRank 1203 1207	pago
 T153	Term-AttentionRank 565 578	interposición
 T154	Term-AttentionRank 1668 1680	presentación
+T155	Term-Rebel 1557 1604	Agencia Estatal de la Administración Tributaria
+T156	Term-Rebel 1636 1653	firma electrónica
+R1	field_of_work-Rebel Arg1:T155 Arg2:T156

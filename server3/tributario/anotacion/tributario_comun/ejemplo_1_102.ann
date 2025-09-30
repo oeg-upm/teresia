@@ -191,3 +191,6 @@ T190	Term-AttentionRank 572 590	deuda identificada
 T191	Term-AttentionRank 1157 1171	aval solidario
 T192	Term-AttentionRank 1266 1279	Justificación
 T193	Term-AttentionRank 1603 1616	justificación
+T194	Term-Rebel 1247 1264	seguro de caución
+T195	Term-Rebel 235 241	Seguro
+R1	subclass_of-Rebel Arg1:T194 Arg2:T195

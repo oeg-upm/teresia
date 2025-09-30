@@ -1,0 +1,132 @@
+T1	Term-DPEJ 326 334	artículo
+T2	Term-DPEJ 28 47	contrato de trabajo
+T3	Term-DPEJ 517 527	suspensión
+T4	Term-DPEJ 718 728	suspensión
+T5	Term-DPEJ 998 1008	suspensión
+T6	Term-DPEJ 1245 1255	suspensión
+T7	Term-DPEJ 1406 1416	suspensión
+T8	Term-DPEJ 1725 1735	suspensión
+T9	Term-DPEJ 1132 1140	términos
+T10	Term-DPEJ 885 894	condición
+T11	Term-DPEJ 618 623	fecha
+T12	Term-DPEJ 245 252	jornada
+T13	Term-DPEJ 28 36	contrato
+T14	Term-DPEJ 745 753	contrato
+T15	Term-DPEJ 1421 1429	contrato
+T16	Term-DPEJ 363 368	casos
+T17	Term-DPEJ 784 789	casos
+T18	Term-DPEJ 429 434	causa
+T19	Term-DPEJ 1384 1390	puesto
+T20	Term-DPEJ 3 13	nacimiento
+T21	Term-DPEJ 1652 1657	forma
+T22	Term-DPEJ 302 309	cuidado
+T23	Term-DPEJ 1469 1476	cuidado
+T24	Term-DPEJ 291 298	deberes
+T25	Term-DPEJ 271 283	cumplimiento
+T26	Term-DPEJ 40 47	trabajo
+T27	Term-DPEJ 1394 1401	trabajo
+T28	Term-Termcat 885 894	condición
+T29	Term-Termcat 548 557	instancia
+T30	Term-Termcat 1132 1140	términos
+T31	Term-Termcat 745 753	contrato
+T32	Term-Termcat 1421 1429	contrato
+T33	Term-Termcat 28 36	contrato
+T34	Term-Termcat 291 298	deberes
+T35	Term-Termcat 1652 1657	forma
+T36	Term-Termcat 3 13	nacimiento
+T37	Term-Termcat 326 334	artículo
+T38	Term-Termcat 342 348	Código
+T39	Term-Termcat 628 632	alta
+T40	Term-Termcat 1469 1476	cuidado
+T41	Term-Termcat 302 309	cuidado
+T42	Term-Termcat 28 47	contrato de trabajo
+T43	Term-Termcat 1328 1348	descanso obligatorio
+T44	Term-Termcat 813 818	falta
+T45	Term-Termcat 245 261	jornada completa
+T46	Term-Termcat 1384 1401	puesto de trabajo
+T47	Term-Termcat 1365 1380	reincorporación
+T48	Term-Termcat 685 692	semanas
+T49	Term-Termcat 1102 1109	semanas
+T50	Term-Termcat 1317 1324	semanas
+T51	Term-Termcat 105 112	semanas
+T52	Term-Termcat 1527 1534	semanas
+T53	Term-Termcat 156 163	semanas
+T54	Term-Termcat 349 354	Civil
+T55	Term-Termcat 1406 1416	suspensión
+T56	Term-Termcat 1245 1255	suspensión
+T57	Term-Termcat 1725 1735	suspensión
+T58	Term-Termcat 517 527	suspensión
+T59	Term-Termcat 998 1008	suspensión
+T60	Term-Termcat 718 728	suspensión
+T61	Term-Termcat 429 434	causa
+T62	Term-Termcat 271 283	cumplimiento
+T63	Term-Termcat 668 675	cómputo
+T64	Term-Termcat 1328 1336	descanso
+T65	Term-Termcat 78 93	madre biológica
+T66	Term-Termcat 564 579	madre biológica
+T67	Term-Termcat 760 775	madre biológica
+T68	Term-Termcat 1480 1485	menor
+T69	Term-Termcat 961 969	superior
+T70	Term-Termcat 1593 1601	voluntad
+T71	Term-AttentionRank 210 215	parto
+T72	Term-AttentionRank 1761 1766	parto
+T73	Term-AttentionRank 496 501	parto
+T74	Term-AttentionRank 939 944	parto
+T75	Term-AttentionRank 1317 1324	semanas
+T76	Term-AttentionRank 105 112	semanas
+T77	Term-AttentionRank 1102 1109	semanas
+T78	Term-AttentionRank 1245 1255	suspensión
+T79	Term-AttentionRank 1406 1416	suspensión
+T80	Term-AttentionRank 998 1008	suspensión
+T81	Term-AttentionRank 517 527	suspensión
+T82	Term-AttentionRank 857 872	neonato precise
+T83	Term-AttentionRank 78 93	madre biológica
+T84	Term-AttentionRank 760 775	madre biológica
+T85	Term-AttentionRank 987 994	periodo
+T86	Term-AttentionRank 506 513	periodo
+T87	Term-AttentionRank 1234 1241	periodo
+T88	Term-AttentionRank 439 446	neonato
+T89	Term-AttentionRank 548 579	instancia de la madre biológica
+T90	Term-AttentionRank 1527 1570	semanas inmediatamente posteriores al parto
+T91	Term-AttentionRank 793 808	parto prematuro
+T92	Term-AttentionRank 372 387	parto prematuro
+T93	Term-AttentionRank 1725 1747	suspensión obligatoria
+T94	Term-AttentionRank 718 740	suspensión obligatoria
+T95	Term-AttentionRank 745 753	contrato
+T96	Term-AttentionRank 1421 1429	contrato
+T97	Term-AttentionRank 28 36	contrato
+T98	Term-AttentionRank 156 179	semanas ininterrumpidas
+T99	Term-AttentionRank 685 713	semanas posteriores al parto
+T100	Term-AttentionRank 953 971	periodo superior a
+T101	Term-Rebel 372 387	parto prematuro
+T102	Term-Rebel 210 215	parto
+T103	Term-IATE 1225 1229	hija
+T104	Term-IATE 1790 1794	hija
+T105	Term-IATE 3 13	nacimiento
+T106	Term-IATE 326 334	artículo
+T107	Term-IATE 52 62	progenitor
+T108	Term-IATE 591 601	progenitor
+T109	Term-IATE 1449 1461	progenitores
+T110	Term-IATE 28 36	contrato
+T111	Term-IATE 745 753	contrato
+T112	Term-IATE 1421 1429	contrato
+T113	Term-IATE 548 557	instancia
+T114	Term-IATE 517 527	suspensión
+T115	Term-IATE 718 728	suspensión
+T116	Term-IATE 998 1008	suspensión
+T117	Term-IATE 1245 1255	suspensión
+T118	Term-IATE 1406 1416	suspensión
+T119	Term-IATE 1725 1735	suspensión
+T120	Term-IATE 78 93	madre biológica
+T121	Term-IATE 564 579	madre biológica
+T122	Term-IATE 760 775	madre biológica
+T123	Term-IATE 1328 1336	descanso
+T124	Term-IATE 1807 1812	meses
+T125	Term-IATE 813 818	falta
+T126	Term-IATE 78 83	madre
+T127	Term-IATE 564 569	madre
+T128	Term-IATE 760 765	madre
+T129	Term-IATE 1218 1222	hijo
+T130	Term-IATE 1780 1784	hijo
+T131	Term-IATE 1365 1380	reincorporación
+R1	subclass_of-Rebel Arg1:T101 Arg2:T102

@@ -1,0 +1,67 @@
+T1	Term-DPEJ 162 170	convenio
+T2	Term-DPEJ 40 50	trabajador
+T3	Term-DPEJ 361 368	Sección
+T4	Term-DPEJ 0 8	Artículo
+T5	Term-DPEJ 101 108	derecho
+T6	Term-DPEJ 277 285	derechos
+T7	Term-DPEJ 395 405	salariales
+T8	Term-DPEJ 142 150	términos
+T9	Term-DPEJ 226 234	apartado
+T10	Term-DPEJ 162 180	convenio colectivo
+T11	Term-DPEJ 183 191	contrato
+T12	Term-DPEJ 374 382	Salarios
+T13	Term-DPEJ 311 322	adquisición
+T14	Term-DPEJ 13 22	Promoción
+T15	Term-DPEJ 115 124	promoción
+T16	Term-DPEJ 13 32	Promoción económica
+T17	Term-DPEJ 115 134	promoción económica
+T18	Term-DPEJ 385 394	garantías
+T19	Term-DPEJ 67 74	trabajo
+T20	Term-Termcat 162 170	convenio
+T21	Term-Termcat 361 368	Sección
+T22	Term-Termcat 142 150	términos
+T23	Term-Termcat 311 322	adquisición
+T24	Term-Termcat 183 191	contrato
+T25	Term-Termcat 385 394	garantías
+T26	Term-Termcat 0 8	Artículo
+T27	Term-Termcat 13 22	Promoción
+T28	Term-Termcat 115 124	promoción
+T29	Term-Termcat 183 202	contrato individual
+T30	Term-Termcat 162 180	convenio colectivo
+T31	Term-Termcat 277 296	derechos adquiridos
+T32	Term-Termcat 67 74	trabajo
+T33	Term-Termcat 55 62	función
+T34	Term-Termcat 374 382	Salarios
+T35	Term-Termcat 395 405	salariales
+T36	Term-Termcat 101 108	derecho
+T37	Term-Termcat 277 285	derechos
+T38	Term-Termcat 192 202	individual
+T39	Term-Termcat 260 269	perjuicio
+T40	Term-Termcat 335 343	temporal
+T41	Term-AttentionRank 260 296	perjuicio de los derechos adquiridos
+T42	Term-AttentionRank 142 180	términos fijados en convenio colectivo
+T43	Term-AttentionRank 13 32	Promoción económica
+T44	Term-AttentionRank 115 134	promoción económica
+T45	Term-AttentionRank 55 87	función del trabajo desarrollado
+T46	Term-AttentionRank 302 307	curso
+T47	Term-AttentionRank 329 343	tramo temporal
+T48	Term-AttentionRank 101 108	derecho
+T49	Term-AttentionRank 226 243	apartado anterior
+T50	Term-AttentionRank 40 50	trabajador
+T51	Term-AttentionRank 311 322	adquisición
+T52	Term-Rebel 374 381	Salario
+T53	Term-Rebel 385 405	garantías salariales
+T54	Term-IATE 226 234	apartado
+T55	Term-IATE 0 8	Artículo
+T56	Term-IATE 260 269	perjuicio
+T57	Term-IATE 183 191	contrato
+T58	Term-IATE 40 50	trabajador
+T59	Term-IATE 374 382	Salarios
+T60	Term-IATE 162 170	convenio
+T61	Term-IATE 385 394	garantías
+T62	Term-IATE 361 368	Sección
+T63	Term-IATE 55 62	función
+T64	Term-IATE 162 180	convenio colectivo
+T65	Term-IATE 311 322	adquisición
+T66	Term-IATE 329 334	tramo
+R1	part_of-Rebel Arg1:T52 Arg2:T53

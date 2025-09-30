@@ -143,3 +143,6 @@ T142	Term-AttentionRank 1363 1370	acuerdo
 T143	Term-AttentionRank 699 708	intereses
 T144	Term-AttentionRank 277 286	intereses
 T145	Term-AttentionRank 1169 1178	intereses
+T146	Term-Rebel 1536 1557	recurso de reposición
+T147	Term-Rebel 1760 1796	reclamación económico administrativa
+R1	subclass_of-Rebel Arg1:T146 Arg2:T147

@@ -131,3 +131,6 @@ T130	Term-AttentionRank 1607 1627	sucursales bancarias
 T131	Term-AttentionRank 1532 1547	pago telefónico
 T132	Term-AttentionRank 275 287	aclaraciones
 T133	Term-AttentionRank 1320 1326	adeudo
+T134	org-Rebel 970 974	AEAT
+T135	Term-Rebel 857 880	Cooperativas de Crédito
+R1	instance_of-Rebel Arg1:T134 Arg2:T135

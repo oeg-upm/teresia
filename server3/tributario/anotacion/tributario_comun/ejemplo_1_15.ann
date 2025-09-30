@@ -163,3 +163,6 @@ T162	Term-AttentionRank 934 945	liquidación
 T163	Term-AttentionRank 711 722	liquidación
 T164	Term-AttentionRank 1197 1224	perjuicio del mantenimiento
 T165	Term-AttentionRank 853 866	pago aplazado
+T166	Term-Rebel 1487 1510	declaraciones aduaneras
+T167	Term-Rebel 1422 1433	tributarias
+R1	subclass_of-Rebel Arg1:T166 Arg2:T167

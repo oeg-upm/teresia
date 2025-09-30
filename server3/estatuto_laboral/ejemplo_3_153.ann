@@ -1,0 +1,166 @@
+T1	Term-DPEJ 317 322	nivel
+T2	Term-DPEJ 459 464	nivel
+T3	Term-DPEJ 1472 1476	dolo
+T4	Term-DPEJ 1423 1442	jurisdicción social
+T5	Term-DPEJ 1721 1729	convenio
+T6	Term-DPEJ 1086 1095	dirección
+T7	Term-DPEJ 0 8	artículo
+T8	Term-DPEJ 1187 1195	artículo
+T9	Term-DPEJ 1208 1213	orden
+T10	Term-DPEJ 1498 1505	derecho
+T11	Term-DPEJ 1423 1435	jurisdicción
+T12	Term-DPEJ 66 75	Seguridad
+T13	Term-DPEJ 159 166	empresa
+T14	Term-DPEJ 1002 1009	empresa
+T15	Term-DPEJ 1102 1109	empresa
+T16	Term-DPEJ 1618 1625	empresa
+T17	Term-DPEJ 1739 1746	empresa
+T18	Term-DPEJ 643 650	cambios
+T19	Term-DPEJ 763 770	cambios
+T20	Term-DPEJ 930 937	cambios
+T21	Term-DPEJ 958 965	demanda
+T22	Term-DPEJ 1033 1040	mercado
+T23	Term-DPEJ 839 847	personal
+T24	Term-DPEJ 217 222	casos
+T25	Term-DPEJ 364 368	caso
+T26	Term-DPEJ 1295 1302	acuerdo
+T27	Term-DPEJ 1527 1534	acuerdo
+T28	Term-DPEJ 671 677	ámbito
+T29	Term-DPEJ 791 797	ámbito
+T30	Term-DPEJ 110 116	causas
+T31	Term-DPEJ 607 613	causas
+T32	Term-DPEJ 722 728	causas
+T33	Term-DPEJ 891 897	causas
+T34	Term-DPEJ 1334 1340	causas
+T35	Term-DPEJ 142 152	resultados
+T36	Term-DPEJ 1133 1142	consultas
+T37	Term-DPEJ 1272 1281	consultas
+T38	Term-DPEJ 985 994	servicios
+T39	Term-DPEJ 856 860	modo
+T40	Term-DPEJ 66 82	Seguridad Social
+T41	Term-DPEJ 184 193	situación
+T42	Term-DPEJ 1116 1129	procedimiento
+T43	Term-DPEJ 827 834	trabajo
+T44	Term-DPEJ 1593 1600	trabajo
+T45	Term-Termcat 42 48	acción
+T46	Term-Termcat 1721 1729	convenio
+T47	Term-Termcat 958 965	demanda
+T48	Term-Termcat 856 860	modo
+T49	Term-Termcat 459 464	nivel
+T50	Term-Termcat 317 322	nivel
+T51	Term-Termcat 1208 1213	orden
+T52	Term-Termcat 985 994	servicios
+T53	Term-Termcat 1489 1505	abuso de derecho
+T54	Term-Termcat 1472 1476	dolo
+T55	Term-Termcat 1464 1470	fraude
+T56	Term-Termcat 0 8	artículo
+T57	Term-Termcat 1187 1195	artículo
+T58	Term-Termcat 1045 1057	intervención
+T59	Term-Termcat 805 813	sistemas
+T60	Term-Termcat 42 82	acción protectora de la Seguridad Social
+T61	Term-Termcat 1578 1600	condiciones de trabajo
+T62	Term-Termcat 1086 1095	dirección
+T63	Term-Termcat 1739 1746	empresa
+T64	Term-Termcat 1102 1109	empresa
+T65	Term-Termcat 1002 1009	empresa
+T66	Term-Termcat 1618 1625	empresa
+T67	Term-Termcat 159 166	empresa
+T68	Term-Termcat 827 834	trabajo
+T69	Term-Termcat 326 334	ingresos
+T70	Term-Termcat 468 476	ingresos
+T71	Term-Termcat 839 847	personal
+T72	Term-Termcat 1631 1639	duración
+T73	Term-Termcat 1512 1522	conclusión
+T74	Term-Termcat 1498 1505	derecho
+T75	Term-Termcat 1423 1435	jurisdicción
+T76	Term-Termcat 685 691	medios
+T77	Term-Termcat 66 75	Seguridad
+T78	Term-Termcat 42 59	acción protectora
+T79	Term-Termcat 1527 1534	acuerdo
+T80	Term-Termcat 1295 1302	acuerdo
+T81	Term-Termcat 930 937	cambios
+T82	Term-Termcat 643 650	cambios
+T83	Term-Termcat 763 770	cambios
+T84	Term-Termcat 722 728	causas
+T85	Term-Termcat 1334 1340	causas
+T86	Term-Termcat 110 127	causas económicas
+T87	Term-Termcat 891 909	causas productivas
+T88	Term-Termcat 607 622	causas técnicas
+T89	Term-Termcat 1478 1486	coacción
+T90	Term-Termcat 694 706	instrumentos
+T91	Term-Termcat 1423 1442	jurisdicción social
+T92	Term-Termcat 1033 1040	mercado
+T93	Term-Termcat 816 823	métodos
+T94	Term-Termcat 16 23	Mejoras
+T95	Term-Termcat 335 345	ordinarios
+T96	Term-Termcat 477 487	ordinarios
+T97	Term-Termcat 251 259	pérdidas
+T98	Term-Termcat 1116 1129	procedimiento
+T99	Term-Termcat 710 720	producción
+T100	Term-Termcat 877 887	producción
+T101	Term-Termcat 66 82	Seguridad Social
+T102	Term-Termcat 1163 1170	sujetos
+T103	Term-Termcat 490 496	ventas
+T104	Term-Termcat 348 354	ventas
+T105	Term-Termcat 142 152	resultados
+T106	Term-Termcat 1371 1378	párrafo
+T107	Term-Termcat 973 982	productos
+T108	Term-AttentionRank 326 345	ingresos ordinarios
+T109	Term-AttentionRank 468 487	ingresos ordinarios
+T110	Term-AttentionRank 722 728	causas
+T111	Term-AttentionRank 891 897	causas
+T112	Term-AttentionRank 1163 1195	sujetos indicados en el artículo
+T113	Term-AttentionRank 1739 1746	empresa
+T114	Term-AttentionRank 1102 1109	empresa
+T115	Term-AttentionRank 1002 1009	empresa
+T116	Term-AttentionRank 1618 1625	empresa
+T117	Term-AttentionRank 159 166	empresa
+T118	Term-AttentionRank 1334 1355	causas justificativas
+T119	Term-AttentionRank 930 937	cambios
+T120	Term-AttentionRank 643 650	cambios
+T121	Term-AttentionRank 763 770	cambios
+T122	Term-AttentionRank 827 834	trabajo
+T123	Term-AttentionRank 1527 1534	acuerdo
+T124	Term-AttentionRank 1295 1302	acuerdo
+T125	Term-AttentionRank 1578 1589	condiciones
+T126	Term-AttentionRank 1216 1227	condiciones
+T127	Term-AttentionRank 607 622	causas técnicas
+T128	Term-AttentionRank 459 464	nivel
+T129	Term-AttentionRank 317 322	nivel
+T130	Term-AttentionRank 1498 1505	derecho
+T131	Term-AttentionRank 1593 1611	trabajo aplicables
+T132	Term-AttentionRank 710 720	producción
+T133	Term-AttentionRank 877 887	producción
+T134	Term-AttentionRank 110 127	causas económicas
+T135	Term-Rebel 1472 1476	dolo
+T136	Term-Rebel 1464 1470	fraude
+T137	Term-IATE 66 82	Seguridad Social
+T138	Term-IATE 1133 1142	consultas
+T139	Term-IATE 1272 1281	consultas
+T140	Term-IATE 805 813	sistemas
+T141	Term-IATE 1116 1129	procedimiento
+T142	Term-IATE 326 345	ingresos ordinarios
+T143	Term-IATE 468 487	ingresos ordinarios
+T144	Term-IATE 0 8	artículo
+T145	Term-IATE 1187 1195	artículo
+T146	Term-IATE 1631 1639	duración
+T147	Term-IATE 1208 1213	orden
+T148	Term-IATE 1086 1095	dirección
+T149	Term-IATE 1086 1095	dirección
+T150	Term-IATE 1371 1378	párrafo
+T151	Term-IATE 317 322	nivel
+T152	Term-IATE 459 464	nivel
+T153	Term-IATE 1721 1729	convenio
+T154	Term-IATE 958 965	demanda
+T155	Term-IATE 66 75	Seguridad
+T156	Term-IATE 1679 1686	momento
+T157	Term-IATE 184 193	situación
+T158	Term-IATE 42 48	acción
+T159	Term-IATE 1295 1302	acuerdo
+T160	Term-IATE 1527 1534	acuerdo
+T161	Term-IATE 159 166	empresa
+T162	Term-IATE 1002 1009	empresa
+T163	Term-IATE 1102 1109	empresa
+T164	Term-IATE 1618 1625	empresa
+T165	Term-IATE 1739 1746	empresa
+R1	subclass_of-Rebel Arg1:T135 Arg2:T136

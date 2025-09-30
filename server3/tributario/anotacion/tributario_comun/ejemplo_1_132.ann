@@ -157,3 +157,6 @@ T156	Term-AttentionRank 336 343	informe
 T157	Term-AttentionRank 1011 1018	Informe
 T158	Term-AttentionRank 1625 1658	forma prevista reglamentariamente
 T159	Term-AttentionRank 1212 1220	artículo
+T160	Term-Rebel 126 132	prenda
+T161	Term-Rebel 104 112	hipoteca
+R1	subclass_of-Rebel Arg1:T160 Arg2:T161

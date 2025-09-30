@@ -1,0 +1,88 @@
+T1	Term-DPEJ 450 463	representante
+T2	Term-DPEJ 34 41	persona
+T3	Term-DPEJ 100 107	persona
+T4	Term-DPEJ 46 56	trabajador
+T5	Term-DPEJ 112 122	trabajador
+T6	Term-DPEJ 402 412	trabajador
+T7	Term-DPEJ 539 549	trabajador
+T8	Term-DPEJ 253 265	trabajadores
+T9	Term-DPEJ 477 489	trabajadores
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-DPEJ 272 279	empresa
+T12	Term-DPEJ 556 563	empresa
+T13	Term-DPEJ 196 206	protección
+T14	Term-DPEJ 499 507	ausencia
+T15	Term-DPEJ 450 469	representante legal
+T16	Term-DPEJ 388 397	intimidad
+T17	Term-DPEJ 292 298	centro
+T18	Term-DPEJ 512 518	centro
+T19	Term-DPEJ 302 309	trabajo
+T20	Term-DPEJ 324 331	trabajo
+T21	Term-DPEJ 522 529	trabajo
+T22	Term-DPEJ 292 309	centro de trabajo
+T23	Term-DPEJ 512 529	centro de trabajo
+T24	Term-Termcat 499 507	ausencia
+T25	Term-Termcat 151 163	particulares
+T26	Term-Termcat 211 221	patrimonio
+T27	Term-Termcat 450 463	representante
+T28	Term-Termcat 0 8	Artículo
+T29	Term-Termcat 433 443	asistencia
+T30	Term-Termcat 292 309	centro de trabajo
+T31	Term-Termcat 512 529	centro de trabajo
+T32	Term-Termcat 272 279	empresa
+T33	Term-Termcat 556 563	empresa
+T34	Term-Termcat 324 331	trabajo
+T35	Term-Termcat 377 385	dignidad
+T36	Term-Termcat 100 107	persona
+T37	Term-Termcat 34 41	persona
+T38	Term-Termcat 143 150	efectos
+T39	Term-Termcat 222 233	empresarial
+T40	Term-Termcat 81 90	registros
+T41	Term-Termcat 13 27	Inviolabilidad
+T42	Term-Termcat 464 469	legal
+T43	Term-Termcat 450 469	representante legal
+T44	Term-Termcat 339 350	realización
+T45	Term-Termcat 91 96	sobre
+T46	Term-AttentionRank 324 331	trabajo
+T47	Term-AttentionRank 522 529	trabajo
+T48	Term-AttentionRank 302 309	trabajo
+T49	Term-AttentionRank 402 412	trabajador
+T50	Term-AttentionRank 539 549	trabajador
+T51	Term-AttentionRank 112 122	trabajador
+T52	Term-AttentionRank 46 56	trabajador
+T53	Term-AttentionRank 253 265	trabajadores
+T54	Term-AttentionRank 477 489	trabajadores
+T55	Term-AttentionRank 211 233	patrimonio empresarial
+T56	Term-AttentionRank 292 298	centro
+T57	Term-AttentionRank 512 518	centro
+T58	Term-AttentionRank 196 206	protección
+T59	Term-AttentionRank 450 469	representante legal
+T60	Term-AttentionRank 100 107	persona
+T61	Term-AttentionRank 34 41	persona
+T62	Term-AttentionRank 81 90	registros
+T63	Term-AttentionRank 272 279	empresa
+T64	Term-AttentionRank 556 563	empresa
+T65	Term-AttentionRank 143 150	efectos
+T66	Term-AttentionRank 315 320	horas
+T67	Term-AttentionRank 499 507	ausencia
+T68	Term-AttentionRank 377 385	dignidad
+T69	Term-AttentionRank 433 443	asistencia
+T70	Term-Rebel 46 56	trabajador
+T71	Term-Rebel 272 279	empresa
+T72	Term-IATE 0 8	Artículo
+T73	Term-IATE 450 469	representante legal
+T74	Term-IATE 388 397	intimidad
+T75	Term-IATE 196 206	protección
+T76	Term-IATE 46 56	trabajador
+T77	Term-IATE 112 122	trabajador
+T78	Term-IATE 402 412	trabajador
+T79	Term-IATE 539 549	trabajador
+T80	Term-IATE 253 265	trabajadores
+T81	Term-IATE 477 489	trabajadores
+T82	Term-IATE 81 90	registros
+T83	Term-IATE 81 90	registros
+T84	Term-IATE 450 463	representante
+T85	Term-IATE 339 350	realización
+T86	Term-IATE 272 279	empresa
+T87	Term-IATE 556 563	empresa
+R1	part_of-Rebel Arg1:T70 Arg2:T71

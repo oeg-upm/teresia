@@ -1,0 +1,152 @@
+T1	Term-DPEJ 1457 1463	reglas
+T2	Term-DPEJ 1418 1430	trabajadores
+T3	Term-DPEJ 86 94	artículo
+T4	Term-DPEJ 175 183	artículo
+T5	Term-DPEJ 613 622	artículos
+T6	Term-DPEJ 1222 1229	derecho
+T7	Term-DPEJ 534 542	Salarial
+T8	Term-DPEJ 985 993	Salarial
+T9	Term-DPEJ 108 113	norma
+T10	Term-DPEJ 755 781	procedimientos concursales
+T11	Term-DPEJ 1164 1168	pago
+T12	Term-DPEJ 1064 1073	apartados
+T13	Term-DPEJ 588 597	contratos
+T14	Term-DPEJ 13 18	casos
+T15	Term-DPEJ 552 557	casos
+T16	Term-DPEJ 747 751	caso
+T17	Term-DPEJ 516 542	Fondo de Garantía Salarial
+T18	Term-DPEJ 967 993	Fondo de Garantía Salarial
+T19	Term-DPEJ 290 297	salario
+T20	Term-DPEJ 352 359	salario
+T21	Term-DPEJ 27 33	límite
+T22	Term-DPEJ 125 131	límite
+T23	Term-DPEJ 247 253	límite
+T24	Term-DPEJ 703 709	límite
+T25	Term-DPEJ 48 57	anualidad
+T26	Term-DPEJ 352 366	salario mínimo
+T27	Term-DPEJ 306 310	base
+T28	Term-DPEJ 654 658	base
+T29	Term-DPEJ 1114 1124	expediente
+T30	Term-DPEJ 1311 1321	expediente
+T31	Term-DPEJ 399 404	parte
+T32	Term-DPEJ 950 955	parte
+T33	Term-DPEJ 686 694	servicio
+T34	Term-DPEJ 352 383	salario mínimo interprofesional
+T35	Term-DPEJ 465 478	indemnización
+T36	Term-DPEJ 525 533	Garantía
+T37	Term-DPEJ 976 984	Garantía
+T38	Term-DPEJ 755 769	procedimientos
+T39	Term-DPEJ 571 580	extinción
+T40	Term-DPEJ 561 568	despido
+T41	Term-Termcat 198 205	Decreto
+T42	Term-Termcat 937 946	instancia
+T43	Term-Termcat 926 932	oficio
+T44	Term-Termcat 686 694	servicio
+T45	Term-Termcat 588 597	contratos
+T46	Term-Termcat 1184 1192	créditos
+T47	Term-Termcat 849 857	créditos
+T48	Term-Termcat 525 533	Garantía
+T49	Term-Termcat 976 984	Garantía
+T50	Term-Termcat 1164 1168	pago
+T51	Term-Termcat 86 94	artículo
+T52	Term-Termcat 175 183	artículo
+T53	Term-Termcat 613 622	artículos
+T54	Term-Termcat 108 113	norma
+T55	Term-Termcat 950 955	parte
+T56	Term-Termcat 399 404	parte
+T57	Term-Termcat 561 568	despido
+T58	Term-Termcat 48 57	anualidad
+T59	Term-Termcat 755 781	procedimientos concursales
+T60	Term-Termcat 1354 1359	Fondo
+T61	Term-Termcat 1089 1094	Fondo
+T62	Term-Termcat 516 542	Fondo de Garantía Salarial
+T63	Term-Termcat 967 993	Fondo de Garantía Salarial
+T64	Term-Termcat 425 446	pagas extraordinarias
+T65	Term-Termcat 465 478	indemnización
+T66	Term-Termcat 264 277	mensualidades
+T67	Term-Termcat 149 162	mensualidades
+T68	Term-Termcat 1004 1013	requisito
+T69	Term-Termcat 290 297	salario
+T70	Term-Termcat 352 383	salario mínimo interprofesional
+T71	Term-Termcat 306 310	base
+T72	Term-Termcat 654 658	base
+T73	Term-Termcat 1222 1229	derecho
+T74	Term-Termcat 571 580	extinción
+T75	Term-Termcat 1341 1346	abono
+T76	Term-Termcat 503 508	abono
+T77	Term-Termcat 1446 1452	cuenta
+T78	Term-Termcat 770 781	concursales
+T79	Term-Termcat 816 828	conocimiento
+T80	Term-Termcat 598 606	conforme
+T81	Term-Termcat 1329 1336	efectos
+T82	Term-Termcat 492 499	efectos
+T83	Term-Termcat 1311 1321	expediente
+T84	Term-Termcat 1114 1124	expediente
+T85	Term-Termcat 1142 1147	legal
+T86	Term-Termcat 1245 1254	perjuicio
+T87	Term-Termcat 755 769	procedimientos
+T88	Term-Termcat 1457 1463	reglas
+T89	Term-Termcat 193 205	Real Decreto
+T90	Term-Termcat 935 955	a instancia de parte
+T91	Term-Termcat 923 932	de oficio
+T92	Term-Termcat 917 921	juez
+T93	Term-Termcat 298 304	diario
+T94	Term-Termcat 342 347	doble
+T95	Term-Termcat 723 730	párrafo
+T96	Term-Termcat 645 650	sobre
+T97	Term-AttentionRank 747 781	caso de procedimientos concursales
+T98	Term-AttentionRank 703 739	límite fijado en el párrafo anterior
+T99	Term-AttentionRank 247 253	límite
+T100	Term-AttentionRank 1034 1084	obligaciones señaladas en los apartados anteriores
+T101	Term-AttentionRank 125 138	límite máximo
+T102	Term-AttentionRank 27 40	límite máximo
+T103	Term-AttentionRank 598 622	conforme a los artículos
+T104	Term-AttentionRank 1329 1336	efectos
+T105	Term-AttentionRank 492 499	efectos
+T106	Term-AttentionRank 290 304	salario diario
+T107	Term-AttentionRank 352 366	salario mínimo
+T108	Term-AttentionRank 48 57	anualidad
+T109	Term-AttentionRank 1341 1346	abono
+T110	Term-AttentionRank 503 508	abono
+T111	Term-AttentionRank 306 310	base
+T112	Term-AttentionRank 654 658	base
+T113	Term-AttentionRank 849 867	créditos laborales
+T114	Term-AttentionRank 1130 1147	responsable legal
+T115	Term-AttentionRank 86 94	artículo
+T116	Term-AttentionRank 175 183	artículo
+T117	media-Rebel 516 542	Fondo de Garantía Salarial
+T118	Term-Rebel 516 521	Fondo
+T119	Term-IATE 48 57	anualidad
+T120	Term-IATE 755 769	procedimientos
+T121	Term-IATE 1164 1168	pago
+T122	Term-IATE 1064 1073	apartados
+T123	Term-IATE 86 94	artículo
+T124	Term-IATE 175 183	artículo
+T125	Term-IATE 613 622	artículos
+T126	Term-IATE 425 430	pagas
+T127	Term-IATE 849 857	créditos
+T128	Term-IATE 1184 1192	créditos
+T129	Term-IATE 1245 1254	perjuicio
+T130	Term-IATE 1114 1124	expediente
+T131	Term-IATE 1311 1321	expediente
+T132	Term-IATE 588 597	contratos
+T133	Term-IATE 1418 1430	trabajadores
+T134	Term-IATE 937 946	instancia
+T135	Term-IATE 1004 1013	requisito
+T136	Term-IATE 290 297	salario
+T137	Term-IATE 352 359	salario
+T138	Term-IATE 27 40	límite máximo
+T139	Term-IATE 125 138	límite máximo
+T140	Term-IATE 723 730	párrafo
+T141	Term-IATE 503 508	abono
+T142	Term-IATE 1341 1346	abono
+T143	Term-IATE 926 932	oficio
+T144	Term-IATE 399 404	parte
+T145	Term-IATE 950 955	parte
+T146	Term-IATE 571 580	extinción
+T147	Term-IATE 525 533	Garantía
+T148	Term-IATE 976 984	Garantía
+T149	Term-IATE 792 799	momento
+T150	Term-IATE 352 366	salario mínimo
+T151	Term-IATE 755 781	procedimientos concursales
+R1	instance_of-Rebel Arg1:T117 Arg2:T118

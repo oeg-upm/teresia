@@ -137,3 +137,6 @@ T136	Term-AttentionRank 1129 1144	datos relativos
 T137	Term-AttentionRank 1298 1307	entidades
 T138	Term-AttentionRank 998 1005	gestión
 T139	Term-AttentionRank 728 740	notificación
+T140	Term-Rebel 1711 1715	DNIe
+T141	Term-Rebel 1678 1695	Firma electrónica
+R1	instance_of-Rebel Arg1:T140 Arg2:T141

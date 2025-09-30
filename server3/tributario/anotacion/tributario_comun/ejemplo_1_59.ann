@@ -156,3 +156,6 @@ T155	Term-AttentionRank 83 91	petición
 T156	Term-AttentionRank 305 313	petición
 T157	Term-AttentionRank 798 807	capacidad
 T158	Term-AttentionRank 1388 1409	reclamación económico
+T159	Term-Rebel 1203 1224	recurso de reposición
+T160	Term-Rebel 1008 1022	Administración
+R1	part_of-Rebel Arg1:T159 Arg2:T160

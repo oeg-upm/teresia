@@ -1,0 +1,183 @@
+T1	Term-DPEJ 773 778	nivel
+T2	Term-DPEJ 916 921	nivel
+T3	Term-DPEJ 262 274	trabajadores
+T4	Term-DPEJ 317 329	trabajadores
+T5	Term-DPEJ 367 379	trabajadores
+T6	Term-DPEJ 442 454	trabajadores
+T7	Term-DPEJ 467 479	trabajadores
+T8	Term-DPEJ 526 538	trabajadores
+T9	Term-DPEJ 1669 1681	trabajadores
+T10	Term-DPEJ 283 291	empresas
+T11	Term-DPEJ 487 495	empresas
+T12	Term-DPEJ 386 393	empresa
+T13	Term-DPEJ 615 622	empresa
+T14	Term-DPEJ 1458 1465	empresa
+T15	Term-DPEJ 1635 1642	empresa
+T16	Term-DPEJ 1100 1107	cambios
+T17	Term-DPEJ 1220 1227	cambios
+T18	Term-DPEJ 1386 1393	cambios
+T19	Term-DPEJ 1414 1421	demanda
+T20	Term-DPEJ 92 101	contratos
+T21	Term-DPEJ 1565 1574	contratos
+T22	Term-DPEJ 1489 1496	mercado
+T23	Term-DPEJ 1296 1304	personal
+T24	Term-DPEJ 673 678	casos
+T25	Term-DPEJ 820 824	caso
+T26	Term-DPEJ 1744 1756	consecuencia
+T27	Term-DPEJ 1128 1134	ámbito
+T28	Term-DPEJ 1248 1254	ámbito
+T29	Term-DPEJ 124 130	causas
+T30	Term-DPEJ 566 572	causas
+T31	Term-DPEJ 1064 1070	causas
+T32	Term-DPEJ 1179 1185	causas
+T33	Term-DPEJ 1347 1353	causas
+T34	Term-DPEJ 1828 1834	causas
+T35	Term-DPEJ 58 75	despido colectivo
+T36	Term-DPEJ 1527 1544	despido colectivo
+T37	Term-DPEJ 357 363	número
+T38	Term-DPEJ 1659 1665	número
+T39	Term-DPEJ 598 608	resultados
+T40	Term-DPEJ 1441 1450	servicios
+T41	Term-DPEJ 1313 1317	modo
+T42	Term-DPEJ 640 649	situación
+T43	Term-DPEJ 1784 1793	actividad
+T44	Term-DPEJ 105 112	trabajo
+T45	Term-DPEJ 1284 1291	trabajo
+T46	Term-DPEJ 1578 1585	trabajo
+T47	Term-DPEJ 79 88	extinción
+T48	Term-DPEJ 225 234	extinción
+T49	Term-DPEJ 1548 1557	extinción
+T50	Term-DPEJ 58 65	despido
+T51	Term-DPEJ 1527 1534	despido
+T52	Term-Termcat 1414 1421	demanda
+T53	Term-Termcat 1313 1317	modo
+T54	Term-Termcat 916 921	nivel
+T55	Term-Termcat 773 778	nivel
+T56	Term-Termcat 1441 1450	servicios
+T57	Term-Termcat 1565 1574	contratos
+T58	Term-Termcat 92 101	contratos
+T59	Term-Termcat 37 40	ley
+T60	Term-Termcat 1262 1270	sistemas
+T61	Term-Termcat 58 75	despido colectivo
+T62	Term-Termcat 1527 1544	despido colectivo
+T63	Term-Termcat 1763 1771	cesación
+T64	Term-Termcat 487 495	empresas
+T65	Term-Termcat 283 291	empresas
+T66	Term-Termcat 1635 1642	empresa
+T67	Term-Termcat 1458 1465	empresa
+T68	Term-Termcat 386 393	empresa
+T69	Term-Termcat 615 622	empresa
+T70	Term-Termcat 1284 1291	trabajo
+T71	Term-Termcat 105 112	trabajo
+T72	Term-Termcat 1578 1585	trabajo
+T73	Term-Termcat 782 790	ingresos
+T74	Term-Termcat 925 933	ingresos
+T75	Term-Termcat 1296 1304	personal
+T76	Term-Termcat 1619 1628	plantilla
+T77	Term-Termcat 225 234	extinción
+T78	Term-Termcat 79 88	extinción
+T79	Term-Termcat 1548 1557	extinción
+T80	Term-Termcat 1142 1148	medios
+T81	Term-Termcat 1784 1793	actividad
+T82	Term-Termcat 1386 1393	cambios
+T83	Term-Termcat 1220 1227	cambios
+T84	Term-Termcat 1100 1107	cambios
+T85	Term-Termcat 1828 1834	causas
+T86	Term-Termcat 1179 1185	causas
+T87	Term-Termcat 124 141	causas económicas
+T88	Term-Termcat 566 583	causas económicas
+T89	Term-Termcat 1347 1365	causas productivas
+T90	Term-Termcat 1064 1079	causas técnicas
+T91	Term-Termcat 5 12	efectos
+T92	Term-Termcat 1794 1805	empresarial
+T93	Term-Termcat 1151 1163	instrumentos
+T94	Term-Termcat 1489 1496	mercado
+T95	Term-Termcat 1273 1280	métodos
+T96	Term-Termcat 791 801	ordinarios
+T97	Term-Termcat 934 944	ordinarios
+T98	Term-Termcat 707 715	pérdidas
+T99	Term-Termcat 1334 1344	producción
+T100	Term-Termcat 172 182	producción
+T101	Term-Termcat 1167 1177	producción
+T102	Term-Termcat 1696 1704	superior
+T103	Term-Termcat 947 953	ventas
+T104	Term-Termcat 804 810	ventas
+T105	Term-Termcat 598 608	resultados
+T106	Term-Termcat 357 363	número
+T107	Term-Termcat 1659 1665	número
+T108	Term-Termcat 1429 1438	productos
+T109	Term-AttentionRank 262 274	trabajadores
+T110	Term-AttentionRank 1669 1681	trabajadores
+T111	Term-AttentionRank 467 479	trabajadores
+T112	Term-AttentionRank 367 379	trabajadores
+T113	Term-AttentionRank 317 329	trabajadores
+T114	Term-AttentionRank 526 538	trabajadores
+T115	Term-AttentionRank 442 454	trabajadores
+T116	Term-AttentionRank 1828 1834	causas
+T117	Term-AttentionRank 1347 1353	causas
+T118	Term-AttentionRank 1179 1185	causas
+T119	Term-AttentionRank 1064 1070	causas
+T120	Term-AttentionRank 487 495	empresas
+T121	Term-AttentionRank 283 291	empresas
+T122	Term-AttentionRank 1635 1642	empresa
+T123	Term-AttentionRank 1458 1465	empresa
+T124	Term-AttentionRank 386 393	empresa
+T125	Term-AttentionRank 615 622	empresa
+T126	Term-AttentionRank 782 801	ingresos ordinarios
+T127	Term-AttentionRank 925 944	ingresos ordinarios
+T128	Term-AttentionRank 1744 1777	consecuencia de la cesación total
+T129	Term-AttentionRank 58 75	despido colectivo
+T130	Term-AttentionRank 1527 1544	despido colectivo
+T131	Term-AttentionRank 124 141	causas económicas
+T132	Term-AttentionRank 566 583	causas económicas
+T133	Term-AttentionRank 1284 1291	trabajo
+T134	Term-AttentionRank 105 112	trabajo
+T135	Term-AttentionRank 1578 1585	trabajo
+T136	Term-AttentionRank 1386 1393	cambios
+T137	Term-AttentionRank 1220 1227	cambios
+T138	Term-AttentionRank 1100 1107	cambios
+T139	Term-AttentionRank 1565 1574	contratos
+T140	Term-AttentionRank 92 101	contratos
+T141	Term-AttentionRank 1334 1344	producción
+T142	Term-AttentionRank 172 182	producción
+T143	Term-AttentionRank 1167 1177	producción
+T144	Term-AttentionRank 153 166	organizativas
+T145	Term-AttentionRank 1186 1199	organizativas
+T146	Term-AttentionRank 357 363	número
+T147	Term-AttentionRank 1659 1665	número
+T148	Term-AttentionRank 225 234	extinción
+T149	Term-AttentionRank 79 88	extinción
+T150	Term-AttentionRank 1548 1557	extinción
+T151	Term-AttentionRank 916 921	nivel
+T152	Term-AttentionRank 773 778	nivel
+T153	Term-Rebel 58 75	despido colectivo
+T154	Term-Rebel 79 112	extinción de contratos de trabajo
+T155	Term-IATE 1262 1270	sistemas
+T156	Term-IATE 58 75	despido colectivo
+T157	Term-IATE 1527 1544	despido colectivo
+T158	Term-IATE 782 801	ingresos ordinarios
+T159	Term-IATE 925 944	ingresos ordinarios
+T160	Term-IATE 92 101	contratos
+T161	Term-IATE 1565 1574	contratos
+T162	Term-IATE 262 274	trabajadores
+T163	Term-IATE 317 329	trabajadores
+T164	Term-IATE 367 379	trabajadores
+T165	Term-IATE 442 454	trabajadores
+T166	Term-IATE 467 479	trabajadores
+T167	Term-IATE 526 538	trabajadores
+T168	Term-IATE 1669 1681	trabajadores
+T169	Term-IATE 773 778	nivel
+T170	Term-IATE 916 921	nivel
+T171	Term-IATE 1784 1793	actividad
+T172	Term-IATE 79 88	extinción
+T173	Term-IATE 225 234	extinción
+T174	Term-IATE 1548 1557	extinción
+T175	Term-IATE 1414 1421	demanda
+T176	Term-IATE 640 649	situación
+T177	Term-IATE 283 291	empresas
+T178	Term-IATE 487 495	empresas
+T179	Term-IATE 386 393	empresa
+T180	Term-IATE 615 622	empresa
+T181	Term-IATE 1458 1465	empresa
+T182	Term-IATE 1635 1642	empresa
+R1	subclass_of-Rebel Arg1:T153 Arg2:T154

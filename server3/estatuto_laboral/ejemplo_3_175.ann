@@ -1,0 +1,170 @@
+T1	Term-DPEJ 216 224	personas
+T2	Term-DPEJ 267 275	personas
+T3	Term-DPEJ 579 585	tiempo
+T4	Term-DPEJ 709 721	trabajadores
+T5	Term-DPEJ 1532 1544	trabajadores
+T6	Term-DPEJ 1251 1259	víctimas
+T7	Term-DPEJ 1316 1324	víctimas
+T8	Term-DPEJ 1263 1272	violencia
+T9	Term-DPEJ 1288 1297	violencia
+T10	Term-DPEJ 671 678	derecho
+T11	Term-DPEJ 955 962	derecho
+T12	Term-DPEJ 123 130	empresa
+T13	Term-DPEJ 1043 1050	empresa
+T14	Term-DPEJ 1475 1482	empresa
+T15	Term-DPEJ 17 23	cambio
+T16	Term-DPEJ 1169 1177	términos
+T17	Term-DPEJ 1017 1022	grupo
+T18	Term-DPEJ 1211 1219	apartado
+T19	Term-DPEJ 682 692	protección
+T20	Term-DPEJ 451 459	contrato
+T21	Term-DPEJ 399 403	caso
+T22	Term-DPEJ 509 516	salario
+T23	Term-DPEJ 1652 1660	salarios
+T24	Term-DPEJ 167 173	puesto
+T25	Term-DPEJ 324 330	puesto
+T26	Term-DPEJ 988 994	puesto
+T27	Term-DPEJ 27 33	centro
+T28	Term-DPEJ 1082 1089	centros
+T29	Term-DPEJ 528 536	servicio
+T30	Term-DPEJ 216 237	personas trabajadoras
+T31	Term-DPEJ 267 288	personas trabajadoras
+T32	Term-DPEJ 698 703	salud
+T33	Term-DPEJ 802 813	tratamiento
+T34	Term-DPEJ 876 887	tratamiento
+T35	Term-DPEJ 1149 1160	tratamiento
+T36	Term-DPEJ 477 490	indemnización
+T37	Term-DPEJ 1449 1458	actividad
+T38	Term-DPEJ 37 44	trabajo
+T39	Term-DPEJ 177 184	trabajo
+T40	Term-DPEJ 334 341	trabajo
+T41	Term-DPEJ 998 1005	trabajo
+T42	Term-DPEJ 1093 1100	trabajo
+T43	Term-DPEJ 435 444	extinción
+T44	Term-DPEJ 27 44	centro de trabajo
+T45	Term-DPEJ 3 11	traslado
+T46	Term-Termcat 1688 1694	dietas
+T47	Term-Termcat 1017 1022	grupo
+T48	Term-Termcat 817 829	habilitación
+T49	Term-Termcat 976 982	ocupar
+T50	Term-Termcat 832 846	rehabilitación
+T51	Term-Termcat 528 536	servicio
+T52	Term-Termcat 1169 1177	términos
+T53	Term-Termcat 1410 1414	bien
+T54	Term-Termcat 451 459	contrato
+T55	Term-Termcat 726 738	discapacidad
+T56	Term-Termcat 933 945	discapacidad
+T57	Term-Termcat 1608 1617	domicilio
+T58	Term-Termcat 141 151	obligación
+T59	Term-Termcat 407 417	obligación
+T60	Term-Termcat 311 318	regreso
+T61	Term-Termcat 1263 1272	violencia
+T62	Term-Termcat 1288 1297	violencia
+T63	Term-Termcat 756 765	necesidad
+T64	Term-Termcat 1316 1324	víctimas
+T65	Term-Termcat 1251 1259	víctimas
+T66	Term-Termcat 1263 1282	violencia de género
+T67	Term-Termcat 866 874	atención
+T68	Term-Termcat 27 44	centro de trabajo
+T69	Term-Termcat 123 130	empresa
+T70	Term-Termcat 1475 1482	empresa
+T71	Term-Termcat 1043 1050	empresa
+T72	Term-Termcat 1093 1100	trabajo
+T73	Term-Termcat 1017 1034	grupo profesional
+T74	Term-Termcat 477 490	indemnización
+T75	Term-Termcat 167 184	puesto de trabajo
+T76	Term-Termcat 988 1005	puesto de trabajo
+T77	Term-Termcat 324 341	puesto de trabajo
+T78	Term-Termcat 630 643	mensualidades
+T79	Term-Termcat 1059 1066	vacante
+T80	Term-Termcat 509 516	salario
+T81	Term-Termcat 1652 1660	salarios
+T82	Term-Termcat 3 11	traslado
+T83	Term-Termcat 56 64	duración
+T84	Term-Termcat 1288 1304	violencia sexual
+T85	Term-Termcat 955 962	derecho
+T86	Term-Termcat 671 678	derecho
+T87	Term-Termcat 435 444	extinción
+T88	Term-Termcat 216 224	personas
+T89	Term-Termcat 267 275	personas
+T90	Term-Termcat 1577 1586	población
+T91	Term-Termcat 421 428	reserva
+T92	Term-Termcat 1328 1338	terrorismo
+T93	Term-Termcat 1449 1458	actividad
+T94	Term-Termcat 17 23	cambio
+T95	Term-Termcat 1666 1672	gastos
+T96	Term-Termcat 1498 1513	desplazamientos
+T97	Term-Termcat 1459 1470	empresarial
+T98	Term-Termcat 1276 1282	género
+T99	Term-Termcat 1396 1406	producción
+T100	Term-Termcat 1514 1524	temporales
+T101	Term-Termcat 356 367	continuidad
+T102	Term-Termcat 876 887	tratamiento
+T103	Term-Termcat 1149 1160	tratamiento
+T104	Term-Termcat 802 813	tratamiento
+T105	Term-AttentionRank 334 341	trabajo
+T106	Term-AttentionRank 177 184	trabajo
+T107	Term-AttentionRank 1093 1100	trabajo
+T108	Term-AttentionRank 998 1005	trabajo
+T109	Term-AttentionRank 37 44	trabajo
+T110	Term-AttentionRank 167 173	puesto
+T111	Term-AttentionRank 988 994	puesto
+T112	Term-AttentionRank 324 330	puesto
+T113	Term-AttentionRank 876 887	tratamiento
+T114	Term-AttentionRank 1149 1160	tratamiento
+T115	Term-AttentionRank 802 813	tratamiento
+T116	Term-AttentionRank 267 288	personas trabajadoras
+T117	Term-AttentionRank 216 237	personas trabajadoras
+T118	Term-AttentionRank 123 130	empresa
+T119	Term-AttentionRank 1475 1482	empresa
+T120	Term-AttentionRank 1043 1050	empresa
+T121	Term-AttentionRank 955 962	derecho
+T122	Term-AttentionRank 671 678	derecho
+T123	Term-AttentionRank 27 33	centro
+T124	Term-AttentionRank 1082 1089	centros
+T125	Term-AttentionRank 1316 1324	víctimas
+T126	Term-AttentionRank 602 605	año
+T127	Term-AttentionRank 521 524	año
+T128	Term-AttentionRank 141 151	obligación
+T129	Term-AttentionRank 407 417	obligación
+T130	Term-AttentionRank 254 261	periodo
+T131	Term-AttentionRank 567 575	periodos
+T132	Term-AttentionRank 1238 1259	trabajadoras víctimas
+T133	Term-AttentionRank 709 721	trabajadores
+T134	Term-AttentionRank 1532 1544	trabajadores
+T135	Term-AttentionRank 1263 1272	violencia
+T136	Term-AttentionRank 1288 1297	violencia
+T137	Term-AttentionRank 1347 1365	razones económicas
+T138	Term-Rebel 832 863	rehabilitación médico-funcional
+T139	Term-Rebel 726 738	discapacidad
+T140	Term-IATE 1211 1219	apartado
+T141	Term-IATE 56 64	duración
+T142	Term-IATE 1276 1282	género
+T143	Term-IATE 1666 1672	gastos
+T144	Term-IATE 451 459	contrato
+T145	Term-IATE 682 692	protección
+T146	Term-IATE 709 721	trabajadores
+T147	Term-IATE 1532 1544	trabajadores
+T148	Term-IATE 509 516	salario
+T149	Term-IATE 1652 1660	salarios
+T150	Term-IATE 141 151	obligación
+T151	Term-IATE 407 417	obligación
+T152	Term-IATE 1017 1022	grupo
+T153	Term-IATE 1017 1022	grupo
+T154	Term-IATE 1449 1458	actividad
+T155	Term-IATE 435 444	extinción
+T156	Term-IATE 802 813	tratamiento
+T157	Term-IATE 876 887	tratamiento
+T158	Term-IATE 1149 1160	tratamiento
+T159	Term-IATE 421 428	reserva
+T160	Term-IATE 94 99	meses
+T161	Term-IATE 557 562	meses
+T162	Term-IATE 1251 1259	víctimas
+T163	Term-IATE 1316 1324	víctimas
+T164	Term-IATE 1251 1259	víctimas
+T165	Term-IATE 1316 1324	víctimas
+T166	Term-IATE 123 130	empresa
+T167	Term-IATE 1043 1050	empresa
+T168	Term-IATE 1475 1482	empresa
+T169	Term-IATE 1017 1034	grupo profesional
+R1	facet_of-Rebel Arg1:T138 Arg2:T139

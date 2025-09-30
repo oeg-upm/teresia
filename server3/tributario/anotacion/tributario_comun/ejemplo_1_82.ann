@@ -158,3 +158,6 @@ T157	Term-AttentionRank 1060 1067	momento
 T158	Term-AttentionRank 1620 1627	recurso
 T159	Term-AttentionRank 1805 1826	reclamación económico
 T160	Term-AttentionRank 642 648	deudas
+T161	org-Rebel 104 120	Cajas de Ahorros
+T162	Term-Rebel 71 94	entidades colaboradoras
+R1	instance_of-Rebel Arg1:T161 Arg2:T162

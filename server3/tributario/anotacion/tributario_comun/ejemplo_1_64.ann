@@ -187,3 +187,6 @@ T186	Term-AttentionRank 591 601	reposición
 T187	Term-AttentionRank 27 32	fecha
 T188	Term-AttentionRank 48 58	expediente
 T189	Term-AttentionRank 83 93	expediente
+T190	Term-Rebel 1148 1223	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T191	Term-Rebel 1148 1151	Ley
+R1	instance_of-Rebel Arg1:T190 Arg2:T191

@@ -1,0 +1,175 @@
+T1	Term-DPEJ 204 209	cargo
+T2	Term-DPEJ 335 340	cargo
+T3	Term-DPEJ 1227 1248	negociación colectiva
+T4	Term-DPEJ 1054 1073	resolución judicial
+T5	Term-DPEJ 356 366	trabajador
+T6	Term-DPEJ 630 640	trabajador
+T7	Term-DPEJ 733 745	trabajadores
+T8	Term-DPEJ 1254 1266	trabajadores
+T9	Term-DPEJ 1740 1752	trabajadores
+T10	Term-DPEJ 485 506	excedencia voluntaria
+T11	Term-DPEJ 703 724	excedencia voluntaria
+T12	Term-DPEJ 971 982	acogimiento
+T13	Term-DPEJ 1472 1476	edad
+T14	Term-DPEJ 70 77	derecho
+T15	Term-DPEJ 425 432	derecho
+T16	Term-DPEJ 574 581	derecho
+T17	Term-DPEJ 754 761	derecho
+T18	Term-DPEJ 1108 1115	derecho
+T19	Term-DPEJ 1714 1721	derecho
+T20	Term-DPEJ 401 408	empresa
+T21	Term-DPEJ 1348 1361	segundo grado
+T22	Term-DPEJ 514 519	plazo
+T23	Term-DPEJ 1625 1633	apartado
+T24	Term-DPEJ 1013 1018	fecha
+T25	Term-DPEJ 1227 1238	negociación
+T26	Term-DPEJ 1042 1046	caso
+T27	Term-DPEJ 1054 1064	resolución
+T28	Term-DPEJ 100 106	puesto
+T29	Term-DPEJ 1365 1379	consanguinidad
+T30	Term-DPEJ 1022 1032	nacimiento
+T31	Term-DPEJ 1681 1686	forma
+T32	Term-DPEJ 6 16	excedencia
+T33	Term-DPEJ 485 495	excedencia
+T34	Term-DPEJ 703 713	excedencia
+T35	Term-DPEJ 778 788	excedencia
+T36	Term-DPEJ 1132 1142	excedencia
+T37	Term-DPEJ 1587 1597	excedencia
+T38	Term-DPEJ 841 848	cuidado
+T39	Term-DPEJ 1283 1290	cuidado
+T40	Term-DPEJ 187 195	elección
+T41	Term-DPEJ 1562 1571	actividad
+T42	Term-DPEJ 252 259	trabajo
+T43	Term-Termcat 204 217	cargo público
+T44	Term-Termcat 335 348	cargo público
+T45	Term-Termcat 324 328	cese
+T46	Term-Termcat 83 95	conservación
+T47	Term-Termcat 1587 1597	excedencia
+T48	Term-Termcat 485 495	excedencia
+T49	Term-Termcat 778 788	excedencia
+T50	Term-Termcat 703 713	excedencia
+T51	Term-Termcat 6 16	excedencia
+T52	Term-Termcat 1132 1142	excedencia
+T53	Term-Termcat 1227 1248	negociación colectiva
+T54	Term-Termcat 264 273	reingreso
+T55	Term-Termcat 1054 1064	resolución
+T56	Term-Termcat 514 519	plazo
+T57	Term-Termcat 908 916	adopción
+T58	Term-Termcat 960 968	adopción
+T59	Term-Termcat 1386 1394	afinidad
+T60	Term-Termcat 1365 1379	consanguinidad
+T61	Term-Termcat 1503 1515	discapacidad
+T62	Term-Termcat 1472 1476	edad
+T63	Term-Termcat 1681 1686	forma
+T64	Term-Termcat 1356 1361	grado
+T65	Term-Termcat 940 946	guarda
+T66	Term-Termcat 1022 1032	nacimiento
+T67	Term-Termcat 1305 1320	pareja de hecho
+T68	Term-Termcat 1436 1451	pareja de hecho
+T69	Term-Termcat 1478 1487	accidente
+T70	Term-Termcat 126 136	antigüedad
+T71	Term-Termcat 384 394	antigüedad
+T72	Term-Termcat 238 248	asistencia
+T73	Term-Termcat 841 848	cuidado
+T74	Term-Termcat 1283 1290	cuidado
+T75	Term-Termcat 204 209	cargo
+T76	Term-Termcat 335 340	cargo
+T77	Term-Termcat 401 408	empresa
+T78	Term-Termcat 703 724	excedencia voluntaria
+T79	Term-Termcat 485 506	excedencia voluntaria
+T80	Term-Termcat 252 259	trabajo
+T81	Term-Termcat 1651 1659	duración
+T82	Term-Termcat 1147 1155	duración
+T83	Term-Termcat 792 800	duración
+T84	Term-Termcat 1208 1216	duración
+T85	Term-Termcat 143 151	vigencia
+T86	Term-Termcat 425 432	derecho
+T87	Term-Termcat 70 77	derecho
+T88	Term-Termcat 1108 1115	derecho
+T89	Term-Termcat 754 761	derecho
+T90	Term-Termcat 1714 1721	derecho
+T91	Term-Termcat 574 581	derecho
+T92	Term-Termcat 1227 1238	negociación
+T93	Term-Termcat 1054 1073	resolución judicial
+T94	Term-Termcat 971 982	acogimiento
+T95	Term-Termcat 1562 1571	actividad
+T96	Term-Termcat 112 119	cómputo
+T97	Term-Termcat 1295 1302	cónyuge
+T98	Term-Termcat 1714 1732	derecho individual
+T99	Term-Termcat 187 195	elección
+T100	Term-Termcat 523 528	menor
+T101	Term-Termcat 1159 1167	superior
+T102	Term-Termcat 804 812	superior
+T103	Term-Termcat 1446 1451	hecho
+T104	Term-Termcat 1315 1320	hecho
+T105	Term-Termcat 341 348	público
+T106	Term-Termcat 210 217	público
+T107	Term-AttentionRank 778 788	excedencia
+T108	Term-AttentionRank 6 16	excedencia
+T109	Term-AttentionRank 1132 1142	excedencia
+T110	Term-AttentionRank 792 814	duración no superior a
+T111	Term-AttentionRank 1147 1169	duración no superior a
+T112	Term-AttentionRank 307 348	mes siguiente al cese en el cargo público
+T113	Term-AttentionRank 425 432	derecho
+T114	Term-AttentionRank 70 77	derecho
+T115	Term-AttentionRank 1108 1115	derecho
+T116	Term-AttentionRank 754 761	derecho
+T117	Term-AttentionRank 1714 1721	derecho
+T118	Term-AttentionRank 574 581	derecho
+T119	Term-AttentionRank 1587 1633	excedencia contemplada en el presente apartado
+T120	Term-AttentionRank 415 418	año
+T121	Term-AttentionRank 563 567	años
+T122	Term-AttentionRank 820 824	años
+T123	Term-AttentionRank 668 672	años
+T124	Term-AttentionRank 1174 1178	años
+T125	Term-AttentionRank 1562 1582	actividad retribuida
+T126	Term-AttentionRank 733 745	trabajadores
+T127	Term-AttentionRank 1740 1752	trabajadores
+T128	Term-AttentionRank 1254 1266	trabajadores
+T129	Term-AttentionRank 1121 1128	periodo
+T130	Term-AttentionRank 1640 1647	periodo
+T131	Term-AttentionRank 767 774	periodo
+T132	Term-AttentionRank 703 724	excedencia voluntaria
+T133	Term-AttentionRank 485 506	excedencia voluntaria
+T134	Term-AttentionRank 1365 1379	consanguinidad
+T135	Term-AttentionRank 1651 1659	duración
+T136	Term-AttentionRank 1208 1216	duración
+T137	Term-AttentionRank 514 530	plazo no menor a
+T138	Term-AttentionRank 204 217	cargo público
+T139	Term-AttentionRank 951 956	fines
+T140	Term-Rebel 1365 1379	consanguinidad
+T141	Term-Rebel 1417 1429	consanguíneo
+T142	Term-IATE 1625 1633	apartado
+T143	Term-IATE 1022 1032	nacimiento
+T144	Term-IATE 792 800	duración
+T145	Term-IATE 1147 1155	duración
+T146	Term-IATE 1208 1216	duración
+T147	Term-IATE 1651 1659	duración
+T148	Term-IATE 908 916	adopción
+T149	Term-IATE 960 968	adopción
+T150	Term-IATE 204 209	cargo
+T151	Term-IATE 335 340	cargo
+T152	Term-IATE 356 366	trabajador
+T153	Term-IATE 630 640	trabajador
+T154	Term-IATE 733 745	trabajadores
+T155	Term-IATE 1254 1266	trabajadores
+T156	Term-IATE 1740 1752	trabajadores
+T157	Term-IATE 514 519	plazo
+T158	Term-IATE 1562 1571	actividad
+T159	Term-IATE 1295 1302	cónyuge
+T160	Term-IATE 1330 1338	familiar
+T161	Term-IATE 1408 1416	familiar
+T162	Term-IATE 1227 1238	negociación
+T163	Term-IATE 1365 1379	consanguinidad
+T164	Term-IATE 204 217	cargo público
+T165	Term-IATE 335 348	cargo público
+T166	Term-IATE 1227 1248	negociación colectiva
+T167	Term-IATE 173 184	designación
+T168	Term-IATE 307 310	mes
+T169	Term-IATE 538 543	meses
+T170	Term-IATE 1054 1064	resolución
+T171	Term-IATE 83 95	conservación
+T172	Term-IATE 401 408	empresa
+T173	Term-IATE 264 273	reingreso
+T174	Term-IATE 857 861	hijo
+R1	subclass_of-Rebel Arg1:T140 Arg2:T141

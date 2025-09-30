@@ -143,3 +143,6 @@ T142	Term-AttentionRank 590 603	posterioridad
 T143	Term-AttentionRank 4 17	posterioridad
 T144	Term-AttentionRank 1637 1654	firma electrónica
 T145	Term-AttentionRank 913 926	contribuyente
+T146	media-Rebel 993 1009	sede electrónica
+T147	org-Rebel 1420 1464	Agencia Estatal de Administración Tributaria
+R1	part_of-Rebel Arg1:T146 Arg2:T147

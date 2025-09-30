@@ -248,3 +248,6 @@ T247	Term-AttentionRank 20 39	medios electrónicos
 T248	Term-AttentionRank 455 465	suspensión
 T249	Term-AttentionRank 628 638	suspensión
 T250	Term-AttentionRank 560 579	garantía suficiente
+T251	Term-Rebel 951 1026	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T252	Term-Rebel 951 954	Ley
+R1	instance_of-Rebel Arg1:T251 Arg2:T252

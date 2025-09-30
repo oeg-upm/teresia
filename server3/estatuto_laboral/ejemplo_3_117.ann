@@ -1,0 +1,166 @@
+T1	Term-DPEJ 234 238	mesa
+T2	Term-DPEJ 283 293	sindicatos
+T3	Term-DPEJ 639 654	oficina pública
+T4	Term-DPEJ 938 953	oficina pública
+T5	Term-DPEJ 1579 1594	oficina pública
+T6	Term-DPEJ 1355 1360	lugar
+T7	Term-DPEJ 881 890	arbitraje
+T8	Term-DPEJ 97 102	plazo
+T9	Term-DPEJ 555 560	plazo
+T10	Term-DPEJ 908 914	plazos
+T11	Term-DPEJ 1497 1505	apartado
+T12	Term-DPEJ 639 646	oficina
+T13	Term-DPEJ 938 945	oficina
+T14	Term-DPEJ 1579 1586	oficina
+T15	Term-DPEJ 1007 1014	árbitro
+T16	Term-DPEJ 1260 1267	árbitro
+T17	Term-DPEJ 1441 1448	árbitro
+T18	Term-DPEJ 1659 1666	árbitro
+T19	Term-DPEJ 246 250	caso
+T20	Term-DPEJ 749 753	caso
+T21	Term-DPEJ 1157 1174	actas electorales
+T22	Term-DPEJ 1524 1531	acuerdo
+T23	Term-DPEJ 519 527	votación
+T24	Term-DPEJ 111 123	días hábiles
+T25	Term-DPEJ 574 586	días hábiles
+T26	Term-DPEJ 1373 1385	días hábiles
+T27	Term-DPEJ 1033 1042	día hábil
+T28	Term-DPEJ 1462 1473	conformidad
+T29	Term-DPEJ 1671 1696	expediente administrativo
+T30	Term-DPEJ 340 346	centro
+T31	Term-DPEJ 1094 1104	expediente
+T32	Term-DPEJ 1671 1681	expediente
+T33	Term-DPEJ 1284 1290	partes
+T34	Term-DPEJ 1405 1411	partes
+T35	Term-DPEJ 627 632	actas
+T36	Term-DPEJ 1157 1162	actas
+T37	Term-DPEJ 116 123	hábiles
+T38	Term-DPEJ 579 586	hábiles
+T39	Term-DPEJ 1378 1385	hábiles
+T40	Term-DPEJ 1037 1042	hábil
+T41	Term-DPEJ 392 400	elección
+T42	Term-DPEJ 717 739	procedimiento arbitral
+T43	Term-DPEJ 836 858	procedimiento arbitral
+T44	Term-DPEJ 717 730	procedimiento
+T45	Term-DPEJ 836 849	procedimiento
+T46	Term-DPEJ 1746 1759	procedimiento
+T47	Term-DPEJ 350 357	trabajo
+T48	Term-DPEJ 673 682	autoridad
+T49	Term-DPEJ 972 981	autoridad
+T50	Term-DPEJ 1613 1622	autoridad
+T51	Term-DPEJ 340 357	centro de trabajo
+T52	Term-DPEJ 995 1003	traslado
+T53	Term-DPEJ 1643 1651	traslado
+T54	Term-Termcat 627 632	actas
+T55	Term-Termcat 1157 1162	actas
+T56	Term-Termcat 1613 1622	autoridad
+T57	Term-Termcat 972 981	autoridad
+T58	Term-Termcat 673 682	autoridad
+T59	Term-Termcat 574 586	días hábiles
+T60	Term-Termcat 111 123	días hábiles
+T61	Term-Termcat 1373 1385	días hábiles
+T62	Term-Termcat 1033 1042	día hábil
+T63	Term-Termcat 1671 1696	expediente administrativo
+T64	Term-Termcat 918 930	prescripción
+T65	Term-Termcat 97 102	plazo
+T66	Term-Termcat 555 560	plazo
+T67	Term-Termcat 908 914	plazos
+T68	Term-Termcat 1207 1218	tramitación
+T69	Term-Termcat 812 823	tramitación
+T70	Term-Termcat 499 504	actos
+T71	Term-Termcat 215 226	reclamación
+T72	Term-Termcat 519 527	votación
+T73	Term-Termcat 881 890	arbitraje
+T74	Term-Termcat 1284 1290	partes
+T75	Term-Termcat 1405 1411	partes
+T76	Term-Termcat 673 690	autoridad laboral
+T77	Term-Termcat 1613 1630	autoridad laboral
+T78	Term-Termcat 972 989	autoridad laboral
+T79	Term-Termcat 283 293	sindicatos
+T80	Term-Termcat 340 357	centro de trabajo
+T81	Term-Termcat 1284 1302	partes interesadas
+T82	Term-Termcat 995 1003	traslado
+T83	Term-Termcat 1643 1651	traslado
+T84	Term-Termcat 1462 1473	conformidad
+T85	Term-Termcat 1524 1531	acuerdo
+T86	Term-Termcat 321 333	candidaturas
+T87	Term-Termcat 1422 1432	comparecer
+T88	Term-Termcat 392 400	elección
+T89	Term-Termcat 1180 1188	registro
+T90	Term-Termcat 1094 1104	expediente
+T91	Term-Termcat 38 44	hechos
+T92	Term-Termcat 194 200	hechos
+T93	Term-Termcat 464 469	hecho
+T94	Term-Termcat 768 779	impugnación
+T95	Term-Termcat 234 238	mesa
+T96	Term-Termcat 1746 1759	procedimiento
+T97	Term-Termcat 836 849	procedimiento
+T98	Term-Termcat 717 730	procedimiento
+T99	Term-Termcat 62 70	impugnar
+T100	Term-Termcat 780 788	judicial
+T101	Term-Termcat 1058 1067	recepción
+T102	Term-Termcat 1084 1089	copia
+T103	Term-Termcat 1671 1681	expediente
+T104	Term-AttentionRank 411 415	días
+T105	Term-AttentionRank 439 442	día
+T106	Term-AttentionRank 509 512	día
+T107	Term-AttentionRank 1033 1036	día
+T108	Term-AttentionRank 254 293	impugnaciones promovidas por sindicatos
+T109	Term-AttentionRank 673 690	autoridad laboral
+T110	Term-AttentionRank 1613 1630	autoridad laboral
+T111	Term-AttentionRank 972 989	autoridad laboral
+T112	Term-AttentionRank 639 654	oficina pública
+T113	Term-AttentionRank 938 953	oficina pública
+T114	Term-AttentionRank 1579 1594	oficina pública
+T115	Term-AttentionRank 574 586	días hábiles
+T116	Term-AttentionRank 111 123	días hábiles
+T117	Term-AttentionRank 1373 1385	días hábiles
+T118	Term-AttentionRank 717 739	procedimiento arbitral
+T119	Term-AttentionRank 97 102	plazo
+T120	Term-AttentionRank 555 560	plazo
+T121	Term-AttentionRank 908 914	plazos
+T122	Term-AttentionRank 1441 1473	árbitro designado de conformidad
+T123	Term-AttentionRank 1746 1759	procedimiento
+T124	Term-AttentionRank 1671 1696	expediente administrativo
+T125	Term-AttentionRank 1007 1014	árbitro
+T126	Term-AttentionRank 1260 1267	árbitro
+T127	Term-AttentionRank 1659 1666	árbitro
+T128	Term-AttentionRank 830 858	nuevo procedimiento arbitral
+T129	Term-AttentionRank 758 788	posterior impugnación judicial
+T130	Term-AttentionRank 599 619	partir de la entrada
+T131	Term-AttentionRank 749 753	caso
+T132	Term-AttentionRank 246 250	caso
+T133	Term-Rebel 717 739	procedimiento arbitral
+T134	Term-Rebel 215 238	reclamación por la mesa
+T135	Term-IATE 717 730	procedimiento
+T136	Term-IATE 836 849	procedimiento
+T137	Term-IATE 1746 1759	procedimiento
+T138	Term-IATE 1497 1505	apartado
+T139	Term-IATE 234 238	mesa
+T140	Term-IATE 881 890	arbitraje
+T141	Term-IATE 1094 1104	expediente
+T142	Term-IATE 1671 1681	expediente
+T143	Term-IATE 97 102	plazo
+T144	Term-IATE 555 560	plazo
+T145	Term-IATE 908 914	plazos
+T146	Term-IATE 111 123	días hábiles
+T147	Term-IATE 574 586	días hábiles
+T148	Term-IATE 1373 1385	días hábiles
+T149	Term-IATE 1033 1042	día hábil
+T150	Term-IATE 717 739	procedimiento arbitral
+T151	Term-IATE 836 858	procedimiento arbitral
+T152	Term-IATE 519 527	votación
+T153	Term-IATE 1462 1473	conformidad
+T154	Term-IATE 1284 1290	partes
+T155	Term-IATE 1405 1411	partes
+T156	Term-IATE 1180 1188	registro
+T157	Term-IATE 1180 1188	registro
+T158	Term-IATE 1007 1014	árbitro
+T159	Term-IATE 1260 1267	árbitro
+T160	Term-IATE 1441 1448	árbitro
+T161	Term-IATE 1659 1666	árbitro
+T162	Term-IATE 1524 1531	acuerdo
+T163	Term-IATE 639 646	oficina
+T164	Term-IATE 938 945	oficina
+T165	Term-IATE 1579 1586	oficina
+R1	subclass_of-Rebel Arg1:T133 Arg2:T134

@@ -166,3 +166,6 @@ T165	Term-AttentionRank 1461 1471	resultados
 T166	Term-AttentionRank 806 816	resultados
 T167	Term-AttentionRank 1187 1195	derechos
 T168	Term-AttentionRank 285 293	derechos
+T169	Term-Rebel 609 615	prenda
+T170	Term-Rebel 36 44	hipoteca
+R1	subclass_of-Rebel Arg1:T169 Arg2:T170

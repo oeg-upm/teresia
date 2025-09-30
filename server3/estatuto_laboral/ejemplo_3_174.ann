@@ -1,0 +1,145 @@
+T1	Term-DPEJ 670 675	cargo
+T2	Term-DPEJ 1250 1255	cargo
+T3	Term-DPEJ 188 200	trabajadores
+T4	Term-DPEJ 1063 1075	trabajadores
+T5	Term-DPEJ 1616 1628	trabajadores
+T6	Term-DPEJ 349 356	cuantía
+T7	Term-DPEJ 536 543	cuantía
+T8	Term-DPEJ 34 57	responsabilidad directa
+T9	Term-DPEJ 1700 1708	artículo
+T10	Term-DPEJ 132 139	derecho
+T11	Term-DPEJ 1589 1597	derechos
+T12	Term-DPEJ 1543 1551	Salarial
+T13	Term-DPEJ 34 49	responsabilidad
+T14	Term-DPEJ 145 155	prestación
+T15	Term-DPEJ 1222 1232	prestación
+T16	Term-DPEJ 1378 1387	apartados
+T17	Term-DPEJ 79 84	casos
+T18	Term-DPEJ 256 260	caso
+T19	Term-DPEJ 1525 1551	Fondo de Garantía Salarial
+T20	Term-DPEJ 870 877	salario
+T21	Term-DPEJ 932 939	salario
+T22	Term-DPEJ 827 833	límite
+T23	Term-DPEJ 1209 1215	límite
+T24	Term-DPEJ 848 857	anualidad
+T25	Term-DPEJ 932 946	salario mínimo
+T26	Term-DPEJ 779 783	base
+T27	Term-DPEJ 886 890	base
+T28	Term-DPEJ 1422 1432	expediente
+T29	Term-DPEJ 979 984	parte
+T30	Term-DPEJ 1150 1155	parte
+T31	Term-DPEJ 810 818	servicio
+T32	Term-DPEJ 304 310	órgano
+T33	Term-DPEJ 737 744	proceso
+T34	Term-DPEJ 932 963	salario mínimo interprofesional
+T35	Term-DPEJ 1159 1172	indemnización
+T36	Term-DPEJ 1534 1542	Garantía
+T37	Term-Termcat 315 323	concurso
+T38	Term-Termcat 463 472	solicitud
+T39	Term-Termcat 1407 1418	instrucción
+T40	Term-Termcat 810 818	servicio
+T41	Term-Termcat 724 730	pactar
+T42	Term-Termcat 172 180	créditos
+T43	Term-Termcat 1657 1679	créditos privilegiados
+T44	Term-Termcat 279 285	deudas
+T45	Term-Termcat 1534 1542	Garantía
+T46	Term-Termcat 1720 1723	ley
+T47	Term-Termcat 426 436	obligación
+T48	Term-Termcat 145 155	prestación
+T49	Term-Termcat 1222 1232	prestación
+T50	Term-Termcat 1700 1708	artículo
+T51	Term-Termcat 979 984	parte
+T52	Term-Termcat 1150 1155	parte
+T53	Term-Termcat 113 127	reconocimiento
+T54	Term-Termcat 848 857	anualidad
+T55	Term-Termcat 1250 1255	cargo
+T56	Term-Termcat 670 675	cargo
+T57	Term-Termcat 1326 1331	Fondo
+T58	Term-Termcat 680 685	Fondo
+T59	Term-Termcat 1129 1134	Fondo
+T60	Term-Termcat 492 497	Fondo
+T61	Term-Termcat 1260 1265	Fondo
+T62	Term-Termcat 399 404	Fondo
+T63	Term-Termcat 1525 1551	Fondo de Garantía Salarial
+T64	Term-Termcat 1005 1026	pagas extraordinarias
+T65	Term-Termcat 1159 1172	indemnización
+T66	Term-Termcat 870 877	salario
+T67	Term-Termcat 932 963	salario mínimo interprofesional
+T68	Term-Termcat 886 890	base
+T69	Term-Termcat 779 783	base
+T70	Term-Termcat 132 139	derecho
+T71	Term-Termcat 1589 1597	derechos
+T72	Term-Termcat 691 704	independencia
+T73	Term-Termcat 737 744	proceso
+T74	Term-Termcat 1138 1143	abono
+T75	Term-Termcat 745 754	concursal
+T76	Term-Termcat 1657 1665	créditos
+T77	Term-Termcat 1422 1432	expediente
+T78	Term-Termcat 304 310	órgano
+T79	Term-Termcat 410 419	perjuicio
+T80	Term-Termcat 4 13	perjuicio
+T81	Term-Termcat 536 543	cuantía
+T82	Term-Termcat 349 356	cuantía
+T83	Term-Termcat 1481 1490	reembolso
+T84	Term-Termcat 34 57	responsabilidad directa
+T85	Term-Termcat 365 373	superior
+T86	Term-Termcat 324 334	competente
+T87	Term-Termcat 452 459	reducir
+T88	Term-Termcat 34 49	responsabilidad
+T89	Term-Termcat 1645 1653	carácter
+T90	Term-Termcat 878 884	diario
+T91	Term-Termcat 922 927	doble
+T92	Term-Termcat 770 775	sobre
+T93	Term-AttentionRank 1344 1398	obligaciones especificadas en los apartados anteriores
+T94	Term-AttentionRank 1222 1247	prestación indemnizatoria
+T95	Term-AttentionRank 536 577	cuantía reconocida en la lista definitiva
+T96	Term-AttentionRank 1063 1087	trabajadores perceptores
+T97	Term-AttentionRank 1616 1628	trabajadores
+T98	Term-AttentionRank 188 200	trabajadores
+T99	Term-AttentionRank 132 139	derecho
+T100	Term-AttentionRank 1589 1597	derechos
+T101	Term-AttentionRank 1209 1215	límite
+T102	Term-AttentionRank 315 334	concurso competente
+T103	Term-AttentionRank 79 108	casos legalmente establecidos
+T104	Term-AttentionRank 1498 1520	cantidades satisfechas
+T105	Term-AttentionRank 827 840	límite máximo
+T106	Term-AttentionRank 34 57	responsabilidad directa
+T107	Term-AttentionRank 145 155	prestación
+T108	Term-AttentionRank 870 884	salario diario
+T109	Term-AttentionRank 1097 1112	indemnizaciones
+T110	Term-AttentionRank 643 658	indemnizaciones
+T111	Term-Rebel 1005 1026	pagas extraordinarias
+T112	Term-Rebel 932 963	salario mínimo interprofesional
+T113	Term-IATE 848 857	anualidad
+T114	Term-IATE 1194 1204	empresario
+T115	Term-IATE 1378 1387	apartados
+T116	Term-IATE 1700 1708	artículo
+T117	Term-IATE 1407 1418	instrucción
+T118	Term-IATE 670 675	cargo
+T119	Term-IATE 1250 1255	cargo
+T120	Term-IATE 1005 1010	pagas
+T121	Term-IATE 172 180	créditos
+T122	Term-IATE 1657 1665	créditos
+T123	Term-IATE 4 13	perjuicio
+T124	Term-IATE 410 419	perjuicio
+T125	Term-IATE 1422 1432	expediente
+T126	Term-IATE 188 200	trabajadores
+T127	Term-IATE 1063 1075	trabajadores
+T128	Term-IATE 1616 1628	trabajadores
+T129	Term-IATE 737 744	proceso
+T130	Term-IATE 870 877	salario
+T131	Term-IATE 932 939	salario
+T132	Term-IATE 827 840	límite máximo
+T133	Term-IATE 426 436	obligación
+T134	Term-IATE 1138 1143	abono
+T135	Term-IATE 979 984	parte
+T136	Term-IATE 1150 1155	parte
+T137	Term-IATE 1534 1542	Garantía
+T138	Term-IATE 1600 1608	acciones
+T139	Term-IATE 463 472	solicitud
+T140	Term-IATE 34 49	responsabilidad
+T141	Term-IATE 1645 1653	carácter
+T142	Term-IATE 932 946	salario mínimo
+T143	Term-IATE 145 155	prestación
+T144	Term-IATE 1222 1232	prestación
+R1	part_of-Rebel Arg1:T111 Arg2:T112

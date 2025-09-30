@@ -229,3 +229,6 @@ T228	Term-AttentionRank 325 335	obligación
 T229	Term-AttentionRank 1295 1305	obligación
 T230	Term-AttentionRank 1857 1864	acuerdo
 T231	Term-AttentionRank 1833 1840	momento
+T232	Term-Rebel 223 298	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T233	Term-Rebel 223 226	Ley
+R1	instance_of-Rebel Arg1:T232 Arg2:T233

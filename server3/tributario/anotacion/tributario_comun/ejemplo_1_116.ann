@@ -168,3 +168,6 @@ T167	Term-AttentionRank 425 446	plazo arriba indicado
 T168	Term-AttentionRank 1020 1033	procedimiento
 T169	Term-AttentionRank 1444 1467	entidades colaboradoras
 T170	Term-AttentionRank 1072 1084	anterioridad
+T171	media-Rebel 1262 1278	sede electrónica
+T172	org-Rebel 1689 1733	Agencia Estatal de Administración Tributaria
+R1	part_of-Rebel Arg1:T171 Arg2:T172

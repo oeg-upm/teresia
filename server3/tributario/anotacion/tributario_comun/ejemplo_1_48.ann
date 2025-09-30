@@ -146,3 +146,6 @@ T145	Term-AttentionRank 853 858	ANEXO
 T146	Term-AttentionRank 543 561	período voluntario
 T147	Term-AttentionRank 904 920	FRACCIONAMIENTOS
 T148	Term-AttentionRank 1081 1096	fraccionamiento
+T149	Term-Rebel 1081 1111	fraccionamiento / aplazamiento
+T150	Term-Rebel 998 1005	tributo
+R1	subclass_of-Rebel Arg1:T149 Arg2:T150

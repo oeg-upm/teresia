@@ -1,0 +1,157 @@
+T1	Term-DPEJ 1329 1339	aplicación
+T2	Term-DPEJ 1536 1546	aplicación
+T3	Term-DPEJ 242 250	hipoteca
+T4	Term-DPEJ 374 386	trabajadores
+T5	Term-DPEJ 233 239	prenda
+T6	Term-DPEJ 72 79	cuantía
+T7	Term-DPEJ 576 583	cuantía
+T8	Term-DPEJ 948 955	cuantía
+T9	Term-DPEJ 1625 1638	clasificación
+T10	Term-DPEJ 790 797	derecho
+T11	Term-DPEJ 1088 1096	derechos
+T12	Term-DPEJ 1249 1257	derechos
+T13	Term-DPEJ 16 26	salariales
+T14	Term-DPEJ 268 278	salariales
+T15	Term-DPEJ 1124 1132	salarial
+T16	Term-DPEJ 1063 1068	plazo
+T17	Term-DPEJ 706 710	pago
+T18	Term-DPEJ 529 538	condición
+T19	Term-DPEJ 497 506	apartados
+T20	Term-DPEJ 1298 1307	apartados
+T21	Term-DPEJ 1509 1513	caso
+T22	Term-DPEJ 107 114	salario
+T23	Term-DPEJ 625 632	salario
+T24	Term-DPEJ 684 691	salario
+T25	Term-DPEJ 1041 1048	salario
+T26	Term-DPEJ 1200 1207	salario
+T27	Term-DPEJ 467 475	salarios
+T28	Term-DPEJ 107 121	salario mínimo
+T29	Term-DPEJ 625 639	salario mínimo
+T30	Term-DPEJ 1041 1055	salario mínimo
+T31	Term-DPEJ 665 671	número
+T32	Term-DPEJ 1008 1012	base
+T33	Term-DPEJ 107 138	salario mínimo interprofesional
+T34	Term-DPEJ 59 66	trabajo
+T35	Term-DPEJ 934 941	despido
+T36	Term-Termcat 1517 1525	concurso
+T37	Term-Termcat 1416 1424	concurso
+T38	Term-Termcat 529 538	condición
+T39	Term-Termcat 1063 1068	plazo
+T40	Term-Termcat 1489 1495	bienes
+T41	Term-Termcat 259 267	créditos
+T42	Term-Termcat 1646 1654	créditos
+T43	Term-Termcat 454 462	créditos
+T44	Term-Termcat 1447 1455	créditos
+T45	Term-Termcat 7 15	créditos
+T46	Term-Termcat 777 785	créditos
+T47	Term-Termcat 183 190	crédito
+T48	Term-Termcat 323 330	crédito
+T49	Term-Termcat 756 763	crédito
+T50	Term-Termcat 1116 1123	crédito
+T51	Term-Termcat 401 410	propiedad
+T52	Term-Termcat 790 802	derecho real
+T53	Term-Termcat 242 250	hipoteca
+T54	Term-Termcat 856 859	ley
+T55	Term-Termcat 1571 1574	Ley
+T56	Term-Termcat 706 710	pago
+T57	Term-Termcat 233 239	prenda
+T58	Term-Termcat 422 430	posesión
+T59	Term-Termcat 934 941	despido
+T60	Term-Termcat 59 66	trabajo
+T61	Term-Termcat 1041 1048	salario
+T62	Term-Termcat 625 632	salario
+T63	Term-Termcat 684 691	salario
+T64	Term-Termcat 1200 1207	salario
+T65	Term-Termcat 467 475	salarios
+T66	Term-Termcat 107 138	salario mínimo interprofesional
+T67	Term-Termcat 16 26	salariales
+T68	Term-Termcat 268 278	salariales
+T69	Term-Termcat 1124 1132	salarial
+T70	Term-Termcat 1008 1012	base
+T71	Term-Termcat 790 797	derecho
+T72	Term-Termcat 1249 1257	derechos
+T73	Term-Termcat 1088 1096	derechos
+T74	Term-Termcat 1329 1339	aplicación
+T75	Term-Termcat 1536 1546	aplicación
+T76	Term-Termcat 1599 1608	Concursal
+T77	Term-Termcat 1677 1685	apremios
+T78	Term-Termcat 982 987	legal
+T79	Term-Termcat 1308 1319	precedentes
+T80	Term-Termcat 72 79	cuantía
+T81	Term-Termcat 576 583	cuantía
+T82	Term-Termcat 948 955	cuantía
+T83	Term-Termcat 1625 1638	clasificación
+T84	Term-Termcat 843 850	arreglo
+T85	Term-Termcat 97 102	doble
+T86	Term-Termcat 665 671	número
+T87	Term-Termcat 735 740	sobre
+T88	Term-Termcat 302 307	sobre
+T89	Term-Termcat 1483 1488	sobre
+T90	Term-Termcat 998 1003	sobre
+T91	Term-Termcat 162 167	sobre
+T92	Term-AttentionRank 454 462	créditos
+T93	Term-AttentionRank 1646 1654	créditos
+T94	Term-AttentionRank 1447 1455	créditos
+T95	Term-AttentionRank 777 785	créditos
+T96	Term-AttentionRank 183 190	crédito
+T97	Term-AttentionRank 323 330	crédito
+T98	Term-AttentionRank 756 763	crédito
+T99	Term-AttentionRank 1116 1123	crédito
+T100	Term-AttentionRank 948 1012	cuantía correspondiente al mínimo legal calculada sobre una base
+T101	Term-AttentionRank 529 583	condición de singularmente privilegiados en la cuantía
+T102	Term-AttentionRank 467 517	salarios no protegidos en los apartados anteriores
+T103	Term-AttentionRank 1041 1055	salario mínimo
+T104	Term-AttentionRank 107 121	salario mínimo
+T105	Term-AttentionRank 625 639	salario mínimo
+T106	Term-AttentionRank 331 386	respecto de los objetos elaborados por los trabajadores
+T107	Term-AttentionRank 7 26	créditos salariales
+T108	Term-AttentionRank 259 278	créditos salariales
+T109	Term-AttentionRank 1200 1207	salario
+T110	Term-AttentionRank 856 859	ley
+T111	Term-AttentionRank 1571 1574	Ley
+T112	Term-AttentionRank 290 301	preferencia
+T113	Term-AttentionRank 1100 1111	preferencia
+T114	Term-AttentionRank 723 734	preferencia
+T115	Term-AttentionRank 150 161	preferencia
+T116	Term-AttentionRank 1266 1278	preferencias
+T117	Term-AttentionRank 684 710	salario pendientes de pago
+T118	Term-AttentionRank 675 679	días
+T119	Term-AttentionRank 51 55	días
+T120	Term-AttentionRank 72 79	cuantía
+T121	Term-AttentionRank 1509 1525	caso de concurso
+T122	Term-AttentionRank 1249 1257	derechos
+T123	Term-AttentionRank 1088 1096	derechos
+T124	Term-IATE 1329 1339	aplicación
+T125	Term-IATE 1536 1546	aplicación
+T126	Term-IATE 435 445	empresario
+T127	Term-IATE 1392 1402	empresario
+T128	Term-IATE 706 710	pago
+T129	Term-IATE 497 506	apartados
+T130	Term-IATE 1298 1307	apartados
+T131	Term-IATE 7 15	créditos
+T132	Term-IATE 259 267	créditos
+T133	Term-IATE 454 462	créditos
+T134	Term-IATE 777 785	créditos
+T135	Term-IATE 1447 1455	créditos
+T136	Term-IATE 1646 1654	créditos
+T137	Term-IATE 183 190	crédito
+T138	Term-IATE 323 330	crédito
+T139	Term-IATE 756 763	crédito
+T140	Term-IATE 1116 1123	crédito
+T141	Term-IATE 150 161	preferencia
+T142	Term-IATE 290 301	preferencia
+T143	Term-IATE 723 734	preferencia
+T144	Term-IATE 1100 1111	preferencia
+T145	Term-IATE 1266 1278	preferencias
+T146	Term-IATE 374 386	trabajadores
+T147	Term-IATE 107 114	salario
+T148	Term-IATE 625 632	salario
+T149	Term-IATE 684 691	salario
+T150	Term-IATE 1041 1048	salario
+T151	Term-IATE 1200 1207	salario
+T152	Term-IATE 467 475	salarios
+T153	Term-IATE 1063 1068	plazo
+T154	Term-IATE 1165 1172	momento
+T155	Term-IATE 107 121	salario mínimo
+T156	Term-IATE 625 639	salario mínimo
+T157	Term-IATE 1041 1055	salario mínimo

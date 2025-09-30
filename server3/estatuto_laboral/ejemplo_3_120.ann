@@ -1,0 +1,44 @@
+T1	Term-DPEJ 355 361	tiempo
+T2	Term-DPEJ 51 61	trabajador
+T3	Term-DPEJ 219 229	trabajador
+T4	Term-DPEJ 0 8	Artículo
+T5	Term-DPEJ 250 257	derecho
+T6	Term-DPEJ 33 43	prestación
+T7	Term-DPEJ 114 122	contrato
+T8	Term-DPEJ 263 270	salario
+T9	Term-DPEJ 85 94	servicios
+T10	Term-DPEJ 166 173	trabajo
+T11	Term-DPEJ 329 336	trabajo
+T12	Term-Termcat 85 94	servicios
+T13	Term-Termcat 114 122	contrato
+T14	Term-Termcat 178 190	impedimentos
+T15	Term-Termcat 33 43	prestación
+T16	Term-Termcat 0 8	Artículo
+T17	Term-Termcat 329 336	trabajo
+T18	Term-Termcat 166 173	trabajo
+T19	Term-Termcat 263 270	salario
+T20	Term-Termcat 250 257	derecho
+T21	Term-Termcat 103 110	vigente
+T22	Term-Termcat 191 201	imputables
+T23	Term-AttentionRank 178 201	impedimentos imputables
+T24	Term-AttentionRank 329 361	trabajo realizado en otro tiempo
+T25	Term-AttentionRank 166 173	trabajo
+T26	Term-AttentionRank 99 102	vez
+T27	Term-AttentionRank 250 257	derecho
+T28	Term-AttentionRank 219 229	trabajador
+T29	Term-AttentionRank 51 61	trabajador
+T30	Term-AttentionRank 114 122	contrato
+T31	Term-AttentionRank 85 94	servicios
+T32	Term-AttentionRank 133 143	empresario
+T33	Term-AttentionRank 263 270	salario
+T34	Term-AttentionRank 33 43	prestación
+T35	Term-Rebel 263 270	salario
+T36	Term-Rebel 114 122	contrato
+T37	Term-IATE 133 143	empresario
+T38	Term-IATE 0 8	Artículo
+T39	Term-IATE 114 122	contrato
+T40	Term-IATE 51 61	trabajador
+T41	Term-IATE 219 229	trabajador
+T42	Term-IATE 263 270	salario
+T43	Term-IATE 33 43	prestación
+R1	part_of-Rebel Arg1:T35 Arg2:T36

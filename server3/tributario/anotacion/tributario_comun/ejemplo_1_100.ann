@@ -184,3 +184,6 @@ T183	Term-AttentionRank 1820 1831	Recaudación
 T184	Term-AttentionRank 1000 1017	firma electrónica
 T185	Term-AttentionRank 1032 1044	presentación
 T186	Term-AttentionRank 1049 1068	medios electrónicos
+T187	Term-Rebel 1574 1649	Ley del Procedimiento Administrativo Común de las Administraciones Públicas
+T188	Term-Rebel 1574 1577	Ley
+R1	instance_of-Rebel Arg1:T187 Arg2:T188

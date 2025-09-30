@@ -1,0 +1,165 @@
+T1	Term-DPEJ 155 161	reglas
+T2	Term-DPEJ 113 119	tiempo
+T3	Term-DPEJ 400 406	tiempo
+T4	Term-DPEJ 659 665	tiempo
+T5	Term-DPEJ 1883 1889	tiempo
+T6	Term-DPEJ 1041 1050	convenios
+T7	Term-DPEJ 1396 1404	convenio
+T8	Term-DPEJ 288 298	trabajador
+T9	Term-DPEJ 1250 1260	trabajador
+T10	Term-DPEJ 1525 1535	trabajador
+T11	Term-DPEJ 1746 1754	artículo
+T12	Term-DPEJ 1700 1717	responsabilidades
+T13	Term-DPEJ 1419 1424	plazo
+T14	Term-DPEJ 1041 1061	convenios colectivos
+T15	Term-DPEJ 682 689	jornada
+T16	Term-DPEJ 102 110	contrato
+T17	Term-DPEJ 389 397	contrato
+T18	Term-DPEJ 509 517	contrato
+T19	Term-DPEJ 1027 1035	contrato
+T20	Term-DPEJ 1872 1880	contrato
+T21	Term-DPEJ 647 656	contratos
+T22	Term-DPEJ 471 475	caso
+T23	Term-DPEJ 639 643	caso
+T24	Term-DPEJ 1119 1123	caso
+T25	Term-DPEJ 809 815	número
+T26	Term-DPEJ 900 906	número
+T27	Term-DPEJ 1419 1436	plazo de preaviso
+T28	Term-DPEJ 1353 1361	preaviso
+T29	Term-DPEJ 1428 1436	preaviso
+T30	Term-DPEJ 1549 1557	preaviso
+T31	Term-DPEJ 303 308	pacto
+T32	Term-DPEJ 480 485	pacto
+T33	Term-DPEJ 522 527	pacto
+T34	Term-DPEJ 602 607	pacto
+T35	Term-DPEJ 760 765	pacto
+T36	Term-DPEJ 1453 1458	pacto
+T37	Term-DPEJ 1661 1675	circunstancias
+T38	Term-DPEJ 693 700	trabajo
+T39	Term-DPEJ 1008 1015	trabajo
+T40	Term-Termcat 1041 1050	convenios
+T41	Term-Termcat 1396 1404	convenio
+T42	Term-Termcat 1816 1832	incompatibilidad
+T43	Term-Termcat 1846 1862	Incompatibilidad
+T44	Term-Termcat 1512 1520	renuncia
+T45	Term-Termcat 1419 1424	plazo
+T46	Term-Termcat 1027 1035	contrato
+T47	Term-Termcat 102 110	contrato
+T48	Term-Termcat 509 517	contrato
+T49	Term-Termcat 1872 1880	contrato
+T50	Term-Termcat 389 397	contrato
+T51	Term-Termcat 647 656	contratos
+T52	Term-Termcat 760 765	pacto
+T53	Term-Termcat 480 485	pacto
+T54	Term-Termcat 602 607	pacto
+T55	Term-Termcat 522 527	pacto
+T56	Term-Termcat 303 308	pacto
+T57	Term-Termcat 1453 1458	pacto
+T58	Term-Termcat 1746 1754	artículo
+T59	Term-Termcat 1765 1776	Necesidades
+T60	Term-Termcat 1684 1692	atención
+T61	Term-Termcat 1353 1361	preaviso
+T62	Term-Termcat 1549 1557	preaviso
+T63	Term-Termcat 1041 1061	convenios colectivos
+T64	Term-Termcat 1008 1015	trabajo
+T65	Term-Termcat 769 790	horas complementarias
+T66	Term-Termcat 1315 1336	horas complementarias
+T67	Term-Termcat 14 35	horas complementarias
+T68	Term-Termcat 216 237	horas complementarias
+T69	Term-Termcat 910 931	horas complementarias
+T70	Term-Termcat 819 840	horas complementarias
+T71	Term-Termcat 1462 1483	horas complementarias
+T72	Term-Termcat 611 632	horas complementarias
+T73	Term-Termcat 315 336	horas complementarias
+T74	Term-Termcat 682 700	jornada de trabajo
+T75	Term-Termcat 1419 1436	plazo de preaviso
+T76	Term-Termcat 56 63	adición
+T77	Term-Termcat 373 384	celebración
+T78	Term-Termcat 1607 1618	celebración
+T79	Term-Termcat 1661 1675	circunstancias
+T80	Term-Termcat 739 746	cómputo
+T81	Term-Termcat 129 137	conforme
+T82	Term-Termcat 1501 1507	efecto
+T83	Term-Termcat 602 632	pacto de horas complementarias
+T84	Term-Termcat 760 790	pacto de horas complementarias
+T85	Term-Termcat 1453 1483	pacto de horas complementarias
+T86	Term-Termcat 1428 1436	preaviso
+T87	Term-Termcat 155 161	reglas
+T88	Term-Termcat 1700 1717	responsabilidades
+T89	Term-Termcat 1069 1079	establecer
+T90	Term-Termcat 1268 1275	conocer
+T91	Term-Termcat 1296 1307	realización
+T92	Term-Termcat 201 212	realización
+T93	Term-Termcat 846 857	realización
+T94	Term-Termcat 900 906	número
+T95	Term-Termcat 809 815	número
+T96	Term-Termcat 309 314	sobre
+T97	Term-AttentionRank 769 790	horas complementarias
+T98	Term-AttentionRank 1315 1336	horas complementarias
+T99	Term-AttentionRank 14 35	horas complementarias
+T100	Term-AttentionRank 216 237	horas complementarias
+T101	Term-AttentionRank 910 931	horas complementarias
+T102	Term-AttentionRank 819 840	horas complementarias
+T103	Term-AttentionRank 1462 1483	horas complementarias
+T104	Term-AttentionRank 611 632	horas complementarias
+T105	Term-AttentionRank 315 336	horas complementarias
+T106	Term-AttentionRank 760 765	pacto
+T107	Term-AttentionRank 480 485	pacto
+T108	Term-AttentionRank 602 607	pacto
+T109	Term-AttentionRank 522 527	pacto
+T110	Term-AttentionRank 303 308	pacto
+T111	Term-AttentionRank 1453 1458	pacto
+T112	Term-AttentionRank 1027 1035	contrato
+T113	Term-AttentionRank 1872 1880	contrato
+T114	Term-AttentionRank 389 397	contrato
+T115	Term-AttentionRank 102 110	contrato
+T116	Term-AttentionRank 647 656	contratos
+T117	Term-AttentionRank 1428 1436	preaviso
+T118	Term-AttentionRank 1549 1557	preaviso
+T119	Term-AttentionRank 113 127	tiempo parcial
+T120	Term-AttentionRank 1883 1897	tiempo parcial
+T121	Term-AttentionRank 400 414	tiempo parcial
+T122	Term-AttentionRank 659 673	tiempo parcial
+T123	Term-AttentionRank 988 1004	horas ordinarias
+T124	Term-AttentionRank 1214 1230	horas ordinarias
+T125	Term-AttentionRank 70 86	horas ordinarias
+T126	Term-AttentionRank 1279 1282	día
+T127	Term-AttentionRank 1377 1381	días
+T128	Term-AttentionRank 1568 1572	días
+T129	Term-AttentionRank 1353 1368	preaviso mínimo
+T130	Term-AttentionRank 639 643	caso
+T131	Term-AttentionRank 1119 1123	caso
+T132	Term-AttentionRank 471 475	caso
+T133	Term-AttentionRank 497 517	respecto al contrato
+T134	Term-AttentionRank 900 906	número
+T135	Term-AttentionRank 809 815	número
+T136	Term-AttentionRank 129 161	conforme a las siguientes reglas
+T137	Term-AttentionRank 1008 1015	trabajo
+T138	Term-AttentionRank 693 700	trabajo
+T139	Term-AttentionRank 1419 1424	plazo
+T140	Term-AttentionRank 1746 1754	artículo
+T141	Term-Rebel 720 735	horas semanales
+T142	Term-Rebel 682 700	jornada de trabajo
+T143	Term-IATE 169 179	empresario
+T144	Term-IATE 885 895	empresario
+T145	Term-IATE 1746 1754	artículo
+T146	Term-IATE 102 110	contrato
+T147	Term-IATE 389 397	contrato
+T148	Term-IATE 509 517	contrato
+T149	Term-IATE 1027 1035	contrato
+T150	Term-IATE 1872 1880	contrato
+T151	Term-IATE 647 656	contratos
+T152	Term-IATE 288 298	trabajador
+T153	Term-IATE 1250 1260	trabajador
+T154	Term-IATE 1525 1535	trabajador
+T155	Term-IATE 1419 1424	plazo
+T156	Term-IATE 1041 1050	convenios
+T157	Term-IATE 1396 1404	convenio
+T158	Term-IATE 1718 1728	familiares
+T159	Term-IATE 359 366	momento
+T160	Term-IATE 1041 1061	convenios colectivos
+T161	Term-IATE 201 212	realización
+T162	Term-IATE 846 857	realización
+T163	Term-IATE 1296 1307	realización
+T164	Term-IATE 1700 1717	responsabilidades
+R1	part_of-Rebel Arg1:T141 Arg2:T142

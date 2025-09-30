@@ -1,0 +1,182 @@
+T1	Term-DPEJ 100 108	convenio
+T2	Term-DPEJ 348 356	convenio
+T3	Term-DPEJ 498 506	convenio
+T4	Term-DPEJ 1601 1610	Convenios
+T5	Term-DPEJ 235 239	plan
+T6	Term-DPEJ 40 45	lugar
+T7	Term-DPEJ 1131 1136	laudo
+T8	Term-DPEJ 889 897	artículo
+T9	Term-DPEJ 1304 1312	artículo
+T10	Term-DPEJ 1093 1102	arbitraje
+T11	Term-DPEJ 268 275	empresa
+T12	Term-DPEJ 1711 1718	empresa
+T13	Term-DPEJ 528 533	plazo
+T14	Term-DPEJ 1019 1027	apartado
+T15	Term-DPEJ 348 366	convenio colectivo
+T16	Term-DPEJ 1601 1621	Convenios Colectivos
+T17	Term-DPEJ 969 980	negociación
+T18	Term-DPEJ 223 227	caso
+T19	Term-DPEJ 371 375	caso
+T20	Term-DPEJ 1123 1127	caso
+T21	Term-DPEJ 1854 1859	casos
+T22	Term-DPEJ 3 10	acuerdo
+T23	Term-DPEJ 290 297	acuerdo
+T24	Term-DPEJ 723 730	acuerdo
+T25	Term-DPEJ 1361 1368	acuerdo
+T26	Term-DPEJ 813 821	acuerdos
+T27	Term-DPEJ 988 996	acuerdos
+T28	Term-DPEJ 1179 1187	acuerdos
+T29	Term-DPEJ 844 850	ámbito
+T30	Term-DPEJ 1759 1768	comunidad
+T31	Term-DPEJ 1819 1830	comunidades
+T32	Term-DPEJ 325 333	comisión
+T33	Term-DPEJ 683 691	comisión
+T34	Term-DPEJ 1569 1577	Comisión
+T35	Term-DPEJ 1543 1551	solución
+T36	Term-DPEJ 412 421	consultas
+T37	Term-DPEJ 1202 1211	consultas
+T38	Term-DPEJ 1338 1347	consultas
+T39	Term-DPEJ 1266 1270	base
+T40	Term-DPEJ 1686 1693	centros
+T41	Term-DPEJ 440 446	partes
+T42	Term-DPEJ 736 742	partes
+T43	Term-DPEJ 1519 1525	partes
+T44	Term-DPEJ 1787 1794	órganos
+T45	Term-DPEJ 1759 1777	comunidad autónoma
+T46	Term-DPEJ 1819 1840	comunidades autónomas
+T47	Term-DPEJ 325 343	comisión paritaria
+T48	Term-DPEJ 243 251	igualdad
+T49	Term-DPEJ 813 840	acuerdos interprofesionales
+T50	Term-DPEJ 766 780	procedimientos
+T51	Term-DPEJ 1396 1410	procedimientos
+T52	Term-DPEJ 1247 1260	procedimiento
+T53	Term-DPEJ 1667 1674	trabajo
+T54	Term-DPEJ 1697 1704	trabajo
+T55	Term-DPEJ 1131 1145	laudo arbitral
+T56	Term-Termcat 1759 1777	comunidad autónoma
+T57	Term-Termcat 1819 1840	comunidades autónomas
+T58	Term-Termcat 498 506	convenio
+T59	Term-Termcat 348 356	convenio
+T60	Term-Termcat 100 108	convenio
+T61	Term-Termcat 1601 1610	Convenios
+T62	Term-Termcat 528 533	plazo
+T63	Term-Termcat 1759 1768	comunidad
+T64	Term-Termcat 1819 1830	comunidades
+T65	Term-Termcat 1304 1312	artículo
+T66	Term-Termcat 889 897	artículo
+T67	Term-Termcat 664 676	intervención
+T68	Term-Termcat 1093 1102	arbitraje
+T69	Term-Termcat 1041 1051	compromiso
+T70	Term-Termcat 1131 1145	laudo arbitral
+T71	Term-Termcat 969 980	negociación
+T72	Term-Termcat 440 446	partes
+T73	Term-Termcat 1519 1525	partes
+T74	Term-Termcat 736 742	partes
+T75	Term-Termcat 813 840	acuerdos interprofesionales
+T76	Term-Termcat 683 691	comisión
+T77	Term-Termcat 1569 1577	Comisión
+T78	Term-Termcat 325 343	comisión paritaria
+T79	Term-Termcat 1652 1674	condiciones de trabajo
+T80	Term-Termcat 348 366	convenio colectivo
+T81	Term-Termcat 1601 1621	Convenios Colectivos
+T82	Term-Termcat 268 275	empresa
+T83	Term-Termcat 1711 1718	empresa
+T84	Term-Termcat 1697 1704	trabajo
+T85	Term-Termcat 235 251	plan de igualdad
+T86	Term-Termcat 1266 1270	base
+T87	Term-Termcat 243 251	igualdad
+T88	Term-Termcat 1734 1744	territorio
+T89	Term-Termcat 1162 1170	eficacia
+T90	Term-Termcat 723 730	acuerdo
+T91	Term-Termcat 290 297	acuerdo
+T92	Term-Termcat 1361 1368	acuerdo
+T93	Term-Termcat 3 10	acuerdo
+T94	Term-Termcat 1179 1187	acuerdos
+T95	Term-Termcat 988 996	acuerdos
+T96	Term-Termcat 1569 1588	Comisión Consultiva
+T97	Term-Termcat 1235 1243	conforme
+T98	Term-Termcat 175 181	género
+T99	Term-Termcat 49 63	incumplimiento
+T100	Term-Termcat 1277 1284	motivos
+T101	Term-Termcat 1589 1597	Nacional
+T102	Term-Termcat 1787 1794	órganos
+T103	Term-Termcat 235 239	plan
+T104	Term-Termcat 766 780	procedimientos
+T105	Term-Termcat 1396 1410	procedimientos
+T106	Term-Termcat 1247 1260	procedimiento
+T107	Term-Termcat 751 759	recurrir
+T108	Term-Termcat 813 821	acuerdos
+T109	Term-Termcat 325 333	comisión
+T110	Term-Termcat 560 572	pronunciarse
+T111	Term-Termcat 1224 1234	recurrible
+T112	Term-Termcat 1435 1442	párrafo
+T113	Term-AttentionRank 71 181	obligaciones establecidas en convenio relativas a la eliminación de las discriminaciones por razones de género
+T114	Term-AttentionRank 1711 1777	empresa situados en el territorio de más de una comunidad autónoma
+T115	Term-AttentionRank 723 730	acuerdo
+T116	Term-AttentionRank 290 297	acuerdo
+T117	Term-AttentionRank 1361 1368	acuerdo
+T118	Term-AttentionRank 3 10	acuerdo
+T119	Term-AttentionRank 1179 1187	acuerdos
+T120	Term-AttentionRank 988 996	acuerdos
+T121	Term-AttentionRank 1632 1644	inaplicación
+T122	Term-AttentionRank 14 26	inaplicación
+T123	Term-AttentionRank 325 343	comisión paritaria
+T124	Term-AttentionRank 498 506	convenio
+T125	Term-AttentionRank 1131 1145	laudo arbitral
+T126	Term-AttentionRank 683 691	comisión
+T127	Term-AttentionRank 1569 1577	Comisión
+T128	Term-AttentionRank 813 840	acuerdos interprofesionales
+T129	Term-AttentionRank 489 493	sión
+T130	Term-AttentionRank 1304 1312	artículo
+T131	Term-AttentionRank 889 897	artículo
+T132	Term-AttentionRank 401 408	periodo
+T133	Term-AttentionRank 1191 1198	periodo
+T134	Term-AttentionRank 1327 1334	periodo
+T135	Term-AttentionRank 844 858	ámbito estatal
+T136	Term-AttentionRank 348 366	convenio colectivo
+T137	Term-AttentionRank 1601 1621	Convenios Colectivos
+T138	Term-AttentionRank 1667 1674	trabajo
+T139	Term-AttentionRank 1697 1704	trabajo
+T140	Term-Rebel 1819 1840	comunidades autónomas
+T141	Term-Rebel 1759 1777	comunidad autónoma
+T142	Term-IATE 412 421	consultas
+T143	Term-IATE 1202 1211	consultas
+T144	Term-IATE 1338 1347	consultas
+T145	Term-IATE 766 780	procedimientos
+T146	Term-IATE 1396 1410	procedimientos
+T147	Term-IATE 1247 1260	procedimiento
+T148	Term-IATE 1019 1027	apartado
+T149	Term-IATE 889 897	artículo
+T150	Term-IATE 1304 1312	artículo
+T151	Term-IATE 175 181	género
+T152	Term-IATE 1131 1145	laudo arbitral
+T153	Term-IATE 1093 1102	arbitraje
+T154	Term-IATE 528 533	plazo
+T155	Term-IATE 1435 1442	párrafo
+T156	Term-IATE 100 108	convenio
+T157	Term-IATE 348 356	convenio
+T158	Term-IATE 498 506	convenio
+T159	Term-IATE 1601 1610	Convenios
+T160	Term-IATE 969 980	negociación
+T161	Term-IATE 440 446	partes
+T162	Term-IATE 736 742	partes
+T163	Term-IATE 1519 1525	partes
+T164	Term-IATE 1131 1136	laudo
+T165	Term-IATE 243 251	igualdad
+T166	Term-IATE 348 366	convenio colectivo
+T167	Term-IATE 1601 1621	Convenios Colectivos
+T168	Term-IATE 3 10	acuerdo
+T169	Term-IATE 290 297	acuerdo
+T170	Term-IATE 723 730	acuerdo
+T171	Term-IATE 1361 1368	acuerdo
+T172	Term-IATE 813 821	acuerdos
+T173	Term-IATE 988 996	acuerdos
+T174	Term-IATE 1179 1187	acuerdos
+T175	Term-IATE 1759 1777	comunidad autónoma
+T176	Term-IATE 1819 1840	comunidades autónomas
+T177	Term-IATE 268 275	empresa
+T178	Term-IATE 1711 1718	empresa
+T179	Term-IATE 1543 1551	solución
+T180	Term-IATE 1759 1768	comunidad
+T181	Term-IATE 1819 1830	comunidades
+R1	subclass_of-Rebel Arg1:T140 Arg2:T141

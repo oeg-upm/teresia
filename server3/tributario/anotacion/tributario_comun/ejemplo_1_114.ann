@@ -203,3 +203,6 @@ T202	Term-AttentionRank 1355 1378	través de dichos medios
 T203	Term-AttentionRank 395 401	número
 T204	Term-AttentionRank 1195 1214	medios electrónicos
 T205	Term-AttentionRank 63 68	razón
+T206	Term-Rebel 1067 1114	Agencia Estatal de la Administración Tributaria
+T207	Term-Rebel 1146 1163	firma electrónica
+R1	field_of_work-Rebel Arg1:T206 Arg2:T207

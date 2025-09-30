@@ -1,0 +1,161 @@
+T1	Term-DPEJ 66 87	negociación colectiva
+T2	Term-DPEJ 137 151	representantes
+T3	Term-DPEJ 24 49	clasificación profesional
+T4	Term-DPEJ 202 227	clasificación profesional
+T5	Term-DPEJ 1456 1462	tiempo
+T6	Term-DPEJ 159 171	trabajadores
+T7	Term-DPEJ 235 247	trabajadores
+T8	Term-DPEJ 536 546	trabajador
+T9	Term-DPEJ 987 997	trabajador
+T10	Term-DPEJ 1029 1039	trabajador
+T11	Term-DPEJ 0 8	Artículo
+T12	Term-DPEJ 949 957	artículo
+T13	Term-DPEJ 1129 1148	contrato de trabajo
+T14	Term-DPEJ 24 37	clasificación
+T15	Term-DPEJ 202 215	clasificación
+T16	Term-DPEJ 123 130	empresa
+T17	Term-DPEJ 505 522	responsabilidades
+T18	Term-DPEJ 261 267	grupos
+T19	Term-DPEJ 572 578	grupos
+T20	Term-DPEJ 303 308	grupo
+T21	Term-DPEJ 1043 1048	grupo
+T22	Term-DPEJ 1207 1212	grupo
+T23	Term-DPEJ 1361 1366	grupo
+T24	Term-DPEJ 417 427	prestación
+T25	Term-DPEJ 1099 1109	prestación
+T26	Term-DPEJ 393 402	contenido
+T27	Term-DPEJ 1083 1092	contenido
+T28	Term-DPEJ 1129 1137	contrato
+T29	Term-DPEJ 1099 1117	prestación laboral
+T30	Term-DPEJ 66 77	negociación
+T31	Term-DPEJ 792 800	ausencia
+T32	Term-DPEJ 911 915	caso
+T33	Term-DPEJ 106 113	acuerdo
+T34	Term-DPEJ 970 977	acuerdo
+T35	Term-DPEJ 694 701	puestos
+T36	Term-DPEJ 804 818	discriminación
+T37	Term-DPEJ 705 712	trabajo
+T38	Term-DPEJ 1141 1148	trabajo
+T39	Term-Termcat 572 578	grupos
+T40	Term-Termcat 261 267	grupos
+T41	Term-Termcat 1207 1212	grupo
+T42	Term-Termcat 303 308	grupo
+T43	Term-Termcat 1043 1048	grupo
+T44	Term-Termcat 1361 1366	grupo
+T45	Term-Termcat 66 87	negociación colectiva
+T46	Term-Termcat 792 800	ausencia
+T47	Term-Termcat 1129 1137	contrato
+T48	Term-Termcat 417 427	prestación
+T49	Term-Termcat 1099 1109	prestación
+T50	Term-Termcat 137 151	representantes
+T51	Term-Termcat 0 8	Artículo
+T52	Term-Termcat 949 957	artículo
+T53	Term-Termcat 13 20	Sistema
+T54	Term-Termcat 191 198	sistema
+T55	Term-Termcat 619 627	sistemas
+T56	Term-Termcat 893 901	sistemas
+T57	Term-Termcat 353 362	aptitudes
+T58	Term-Termcat 24 49	clasificación profesional
+T59	Term-Termcat 202 227	clasificación profesional
+T60	Term-Termcat 1129 1148	contrato de trabajo
+T61	Term-Termcat 804 818	discriminación
+T62	Term-Termcat 123 130	empresa
+T63	Term-Termcat 705 712	trabajo
+T64	Term-Termcat 572 592	grupos profesionales
+T65	Term-Termcat 261 281	grupos profesionales
+T66	Term-Termcat 1207 1224	grupo profesional
+T67	Term-Termcat 303 320	grupo profesional
+T68	Term-Termcat 1043 1060	grupo profesional
+T69	Term-Termcat 1287 1299	polivalencia
+T70	Term-Termcat 455 461	tareas
+T71	Term-Termcat 252 257	medio
+T72	Term-Termcat 66 77	negociación
+T73	Term-Termcat 554 564	definición
+T74	Term-Termcat 970 977	acuerdo
+T75	Term-Termcat 106 113	acuerdo
+T76	Term-Termcat 647 655	análisis
+T77	Term-Termcat 353 376	aptitudes profesionales
+T78	Term-Termcat 856 863	mujeres
+T79	Term-Termcat 778 788	garantizar
+T80	Term-Termcat 686 692	género
+T81	Term-Termcat 866 873	hombres
+T82	Term-Termcat 1287 1309	polivalencia funcional
+T83	Term-Termcat 505 522	responsabilidades
+T84	Term-Termcat 13 49	Sistema de clasificación profesional
+T85	Term-Termcat 191 227	sistema de clasificación profesional
+T86	Term-Termcat 24 37	clasificación
+T87	Term-Termcat 202 215	clasificación
+T88	Term-Termcat 474 488	especialidades
+T89	Term-Termcat 1315 1326	realización
+T90	Term-Termcat 1152 1163	realización
+T91	Term-AttentionRank 572 592	grupos profesionales
+T92	Term-AttentionRank 261 281	grupos profesionales
+T93	Term-AttentionRank 303 320	grupo profesional
+T94	Term-AttentionRank 1043 1060	grupo profesional
+T95	Term-AttentionRank 1177 1233	funciones correspondientes al grupo profesional asignado
+T96	Term-AttentionRank 13 20	Sistema
+T97	Term-AttentionRank 191 198	sistema
+T98	Term-AttentionRank 619 627	sistemas
+T99	Term-AttentionRank 893 901	sistemas
+T100	Term-AttentionRank 24 49	clasificación profesional
+T101	Term-AttentionRank 202 227	clasificación profesional
+T102	Term-AttentionRank 1287 1309	polivalencia funcional
+T103	Term-AttentionRank 970 997	acuerdo entre el trabajador
+T104	Term-AttentionRank 463 472	funciones
+T105	Term-AttentionRank 1330 1339	funciones
+T106	Term-AttentionRank 647 669	análisis correlacional
+T107	Term-AttentionRank 714 723	criterios
+T108	Term-AttentionRank 881 890	criterios
+T109	Term-AttentionRank 607 616	criterios
+T110	Term-AttentionRank 676 682	sesgos
+T111	Term-AttentionRank 1400 1423	virtud de las funciones
+T112	Term-AttentionRank 1099 1117	prestación laboral
+T113	Term-AttentionRank 106 113	acuerdo
+T114	Term-AttentionRank 393 402	contenido
+T115	Term-AttentionRank 1083 1092	contenido
+T116	Term-IATE 13 20	Sistema
+T117	Term-IATE 191 198	sistema
+T118	Term-IATE 619 627	sistemas
+T119	Term-IATE 893 901	sistemas
+T120	Term-IATE 1003 1013	empresario
+T121	Term-IATE 0 8	Artículo
+T122	Term-IATE 949 957	artículo
+T123	Term-IATE 686 692	género
+T124	Term-IATE 804 818	discriminación
+T125	Term-IATE 1129 1137	contrato
+T126	Term-IATE 159 171	trabajadores
+T127	Term-IATE 235 247	trabajadores
+T128	Term-IATE 536 546	trabajador
+T129	Term-IATE 987 997	trabajador
+T130	Term-IATE 1029 1039	trabajador
+T131	Term-IATE 261 267	grupos
+T132	Term-IATE 572 578	grupos
+T133	Term-IATE 261 267	grupos
+T134	Term-IATE 572 578	grupos
+T135	Term-IATE 303 308	grupo
+T136	Term-IATE 1043 1048	grupo
+T137	Term-IATE 1207 1212	grupo
+T138	Term-IATE 1361 1366	grupo
+T139	Term-IATE 303 308	grupo
+T140	Term-IATE 1043 1048	grupo
+T141	Term-IATE 1207 1212	grupo
+T142	Term-IATE 1361 1366	grupo
+T143	Term-IATE 66 77	negociación
+T144	Term-IATE 676 682	sesgos
+T145	Term-IATE 66 87	negociación colectiva
+T146	Term-IATE 137 151	representantes
+T147	Term-IATE 866 873	hombres
+T148	Term-IATE 856 863	mujeres
+T149	Term-IATE 106 113	acuerdo
+T150	Term-IATE 970 977	acuerdo
+T151	Term-IATE 1152 1163	realización
+T152	Term-IATE 1315 1326	realización
+T153	Term-IATE 505 522	responsabilidades
+T154	Term-IATE 123 130	empresa
+T155	Term-IATE 261 281	grupos profesionales
+T156	Term-IATE 572 592	grupos profesionales
+T157	Term-IATE 303 320	grupo profesional
+T158	Term-IATE 1043 1060	grupo profesional
+T159	Term-IATE 1207 1224	grupo profesional
+T160	Term-IATE 417 427	prestación
+T161	Term-IATE 1099 1109	prestación

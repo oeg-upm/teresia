@@ -1,0 +1,155 @@
+T1	Term-DPEJ 434 441	tiempos
+T2	Term-DPEJ 1330 1336	tiempo
+T3	Term-DPEJ 209 217	convenio
+T4	Term-DPEJ 1768 1773	daños
+T5	Term-DPEJ 788 800	trabajadores
+T6	Term-DPEJ 1486 1498	trabajadores
+T7	Term-DPEJ 325 332	cuantía
+T8	Term-DPEJ 1822 1834	compensación
+T9	Term-DPEJ 181 189	artículo
+T10	Term-DPEJ 924 931	empresa
+T11	Term-DPEJ 1515 1524	desempleo
+T12	Term-DPEJ 767 775	apartado
+T13	Term-DPEJ 209 227	convenio colectivo
+T14	Term-DPEJ 1386 1391	ramas
+T15	Term-DPEJ 126 133	jornada
+T16	Term-DPEJ 863 870	jornada
+T17	Term-DPEJ 902 909	jornada
+T18	Term-DPEJ 1591 1598	jornada
+T19	Term-DPEJ 1039 1047	jornadas
+T20	Term-DPEJ 246 254	contrato
+T21	Term-DPEJ 839 847	contrato
+T22	Term-DPEJ 482 490	ausencia
+T23	Term-DPEJ 360 364	caso
+T24	Term-DPEJ 166 173	acuerdo
+T25	Term-DPEJ 1407 1414	ámbitos
+T26	Term-DPEJ 671 677	número
+T27	Term-DPEJ 936 942	número
+T28	Term-DPEJ 1287 1293	número
+T29	Term-DPEJ 1641 1647	número
+T30	Term-DPEJ 126 143	jornada ordinaria
+T31	Term-DPEJ 1591 1608	jornada ordinaria
+T32	Term-DPEJ 1502 1511	situación
+T33	Term-DPEJ 494 499	pacto
+T34	Term-DPEJ 1395 1404	actividad
+T35	Term-DPEJ 71 78	trabajo
+T36	Term-DPEJ 147 154	trabajo
+T37	Term-Termcat 209 217	convenio
+T38	Term-Termcat 482 490	ausencia
+T39	Term-Termcat 1822 1834	compensación
+T40	Term-Termcat 839 847	contrato
+T41	Term-Termcat 246 254	contrato
+T42	Term-Termcat 494 499	pacto
+T43	Term-Termcat 1768 1773	daños
+T44	Term-Termcat 181 189	artículo
+T45	Term-Termcat 1407 1428	ámbitos territoriales
+T46	Term-Termcat 1515 1524	desempleo
+T47	Term-Termcat 246 265	contrato individual
+T48	Term-Termcat 209 227	convenio colectivo
+T49	Term-Termcat 458 466	descanso
+T50	Term-Termcat 1182 1190	descanso
+T51	Term-Termcat 600 608	descanso
+T52	Term-Termcat 924 931	empresa
+T53	Term-Termcat 147 154	trabajo
+T54	Term-Termcat 71 78	trabajo
+T55	Term-Termcat 1840 1861	horas extraordinarias
+T56	Term-Termcat 959 980	horas extraordinarias
+T57	Term-Termcat 31 52	horas extraordinarias
+T58	Term-Termcat 1662 1683	horas extraordinarias
+T59	Term-Termcat 1124 1145	horas extraordinarias
+T60	Term-Termcat 534 555	horas extraordinarias
+T61	Term-Termcat 681 702	horas extraordinarias
+T62	Term-Termcat 1304 1325	horas extraordinarias
+T63	Term-Termcat 126 143	jornada ordinaria
+T64	Term-Termcat 1591 1608	jornada ordinaria
+T65	Term-Termcat 104 112	duración
+T66	Term-Termcat 824 832	duración
+T67	Term-Termcat 1569 1577	duración
+T68	Term-Termcat 1250 1258	Gobierno
+T69	Term-Termcat 166 173	acuerdo
+T70	Term-Termcat 1395 1404	actividad
+T71	Term-Termcat 1468 1478	colocación
+T72	Term-Termcat 1545 1551	cuenta
+T73	Term-Termcat 874 881	cómputo
+T74	Term-Termcat 1629 1636	cómputo
+T75	Term-Termcat 1055 1062	efectos
+T76	Term-Termcat 1555 1562	efectos
+T77	Term-Termcat 255 265	individual
+T78	Term-Termcat 1806 1815	perjuicio
+T79	Term-Termcat 325 332	cuantía
+T80	Term-Termcat 1749 1759	siniestros
+T81	Term-Termcat 716 724	superior
+T82	Term-Termcat 1700 1706	exceso
+T83	Term-Termcat 1451 1464	oportunidades
+T84	Term-Termcat 1276 1283	reducir
+T85	Term-Termcat 1354 1362	carácter
+T86	Term-Termcat 1234 1245	realización
+T87	Term-Termcat 652 663	realización
+T88	Term-Termcat 936 942	número
+T89	Term-Termcat 671 677	número
+T90	Term-Termcat 1287 1293	número
+T91	Term-Termcat 1641 1647	número
+T92	Term-Termcat 1085 1092	párrafo
+T93	Term-Termcat 95 100	sobre
+T94	Term-Termcat 387 392	valor
+T95	Term-AttentionRank 1840 1861	horas extraordinarias
+T96	Term-AttentionRank 959 980	horas extraordinarias
+T97	Term-AttentionRank 31 52	horas extraordinarias
+T98	Term-AttentionRank 1124 1145	horas extraordinarias
+T99	Term-AttentionRank 534 555	horas extraordinarias
+T100	Term-AttentionRank 681 702	horas extraordinarias
+T101	Term-AttentionRank 62 67	horas
+T102	Term-AttentionRank 1304 1348	horas extraordinarias por tiempo determinado
+T103	Term-AttentionRank 1641 1654	número máximo
+T104	Term-AttentionRank 936 949	número máximo
+T105	Term-AttentionRank 1287 1300	número máximo
+T106	Term-AttentionRank 863 870	jornada
+T107	Term-AttentionRank 902 909	jornada
+T108	Term-AttentionRank 1039 1047	jornadas
+T109	Term-AttentionRank 294 307	horas extraor
+T110	Term-AttentionRank 671 677	número
+T111	Term-AttentionRank 1212 1245	meses siguientes a su realización
+T112	Term-AttentionRank 630 663	meses siguientes a su realización
+T113	Term-AttentionRank 1662 1695	horas extraordinarias autorizadas
+T114	Term-AttentionRank 458 477	descanso retribuido
+T115	Term-AttentionRank 1515 1524	desempleo
+T116	Term-AttentionRank 788 800	trabajadores
+T117	Term-AttentionRank 1486 1498	trabajadores
+T118	Term-AttentionRank 126 143	jornada ordinaria
+T119	Term-AttentionRank 1591 1608	jornada ordinaria
+T120	Term-AttentionRank 1569 1584	duración máxima
+T121	Term-AttentionRank 104 119	duración máxima
+T122	Term-AttentionRank 1768 1773	daños
+T123	Term-Rebel 294 318	horas extraor - dinarias
+T124	Term-Rebel 458 466	descanso
+T125	Term-IATE 767 775	apartado
+T126	Term-IATE 1768 1773	daños
+T127	Term-IATE 181 189	artículo
+T128	Term-IATE 104 112	duración
+T129	Term-IATE 824 832	duración
+T130	Term-IATE 1569 1577	duración
+T131	Term-IATE 1806 1815	perjuicio
+T132	Term-IATE 246 254	contrato
+T133	Term-IATE 839 847	contrato
+T134	Term-IATE 788 800	trabajadores
+T135	Term-IATE 1486 1498	trabajadores
+T136	Term-IATE 1468 1478	colocación
+T137	Term-IATE 1085 1092	párrafo
+T138	Term-IATE 1395 1404	actividad
+T139	Term-IATE 209 217	convenio
+T140	Term-IATE 458 466	descanso
+T141	Term-IATE 600 608	descanso
+T142	Term-IATE 1182 1190	descanso
+T143	Term-IATE 209 227	convenio colectivo
+T144	Term-IATE 630 635	meses
+T145	Term-IATE 1212 1217	meses
+T146	Term-IATE 1502 1511	situación
+T147	Term-IATE 1407 1428	ámbitos territoriales
+T148	Term-IATE 166 173	acuerdo
+T149	Term-IATE 1822 1834	compensación
+T150	Term-IATE 652 663	realización
+T151	Term-IATE 1234 1245	realización
+T152	Term-IATE 1354 1362	carácter
+T153	Term-IATE 924 931	empresa
+T154	Term-IATE 1515 1524	desempleo
+R1	subclass_of-Rebel Arg1:T123 Arg2:T124

@@ -162,3 +162,6 @@ T161	Term-AttentionRank 1067 1074	importe
 T162	Term-AttentionRank 1686 1692	adeudo
 T163	Term-AttentionRank 177 204	actuaciones administrativas
 T164	Term-AttentionRank 685 702	período ejecutivo
+T165	org-Rebel 1336 1340	AEAT
+T166	Term-Rebel 1223 1246	Cooperativas de Crédito
+R1	instance_of-Rebel Arg1:T165 Arg2:T166

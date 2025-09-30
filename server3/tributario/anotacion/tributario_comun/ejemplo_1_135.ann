@@ -163,3 +163,6 @@ T162	Term-AttentionRank 1385 1396	vencimiento
 T163	Term-AttentionRank 591 602	vencimiento
 T164	Term-AttentionRank 860 871	vencimiento
 T165	Term-AttentionRank 1902 1913	vencimiento
+T166	Term-Rebel 655 674	intereses de demora
+T167	Term-Rebel 655 662	interes
+R1	subclass_of-Rebel Arg1:T166 Arg2:T167

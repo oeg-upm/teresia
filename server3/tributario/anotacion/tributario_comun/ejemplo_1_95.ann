@@ -158,3 +158,6 @@ T157	Term-AttentionRank 362 381	efectos suspensivos
 T158	Term-AttentionRank 1275 1299	pie de la primera página
 T159	Term-AttentionRank 810 819	capacidad
 T160	Term-AttentionRank 926 949	petición de acuerdo con
+T161	Term-Rebel 460 467	tributo
+T162	Term-Rebel 1360 1374	Administración
+R1	part_of-Rebel Arg1:T161 Arg2:T162

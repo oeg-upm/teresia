@@ -164,3 +164,6 @@ T163	Term-AttentionRank 1178 1197	medios electrónicos
 T164	Term-AttentionRank 395 401	número
 T165	Term-AttentionRank 317 326	domicilio
 T166	Term-AttentionRank 63 68	razón
+T167	Term-Rebel 2009 2029	Impuestos Especiales
+T168	Term-Rebel 1653 1684	Impuesto sobre el Valor Añadido
+R1	subclass_of-Rebel Arg1:T167 Arg2:T168

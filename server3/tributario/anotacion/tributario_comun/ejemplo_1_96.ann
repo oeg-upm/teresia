@@ -136,3 +136,6 @@ T135	Term-AttentionRank 645 658	procedimiento
 T136	Term-AttentionRank 182 195	procedimiento
 T137	Term-AttentionRank 662 669	apremio
 T138	Term-AttentionRank 199 206	apremio
+T139	Term-Rebel 1090 1111	recurso de reposición
+T140	Term-Rebel 931 945	Administración
+R1	part_of-Rebel Arg1:T139 Arg2:T140

@@ -128,3 +128,6 @@ T127	Term-AttentionRank 1317 1344	perjuicio del mantenimiento
 T128	Term-AttentionRank 842 851	conformes
 T129	Term-AttentionRank 1012 1025	pago aplazado
 T130	Term-AttentionRank 611 631	normativa tributaria
+T131	Term-Rebel 1607 1630	declaraciones aduaneras
+T132	Term-Rebel 1416 1424	aduanero
+R1	part_of-Rebel Arg1:T131 Arg2:T132

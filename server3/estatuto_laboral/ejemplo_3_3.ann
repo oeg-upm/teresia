@@ -1,0 +1,111 @@
+T1	Term-DPEJ 455 474	jurisdicción social
+T2	Term-DPEJ 276 284	convenio
+T3	Term-DPEJ 103 112	dirección
+T4	Term-DPEJ 395 404	dirección
+T5	Term-DPEJ 39 51	trabajadores
+T6	Term-DPEJ 60 72	trabajadores
+T7	Term-DPEJ 555 565	trabajador
+T8	Term-DPEJ 769 779	trabajador
+T9	Term-DPEJ 833 840	Sección
+T10	Term-DPEJ 0 8	Artículo
+T11	Term-DPEJ 531 543	comunicación
+T12	Term-DPEJ 744 752	derechos
+T13	Term-DPEJ 455 467	jurisdicción
+T14	Term-DPEJ 120 128	empresas
+T15	Term-DPEJ 411 418	empresa
+T16	Term-DPEJ 809 815	PLazos
+T17	Term-DPEJ 276 294	convenio colectivo
+T18	Term-DPEJ 587 592	fecha
+T19	Term-DPEJ 885 893	contrato
+T20	Term-DPEJ 172 179	acuerdo
+T21	Term-DPEJ 479 486	sanción
+T22	Term-DPEJ 531 551	comunicación escrita
+T23	Term-DPEJ 676 685	reducción
+T24	Term-Termcat 276 284	convenio
+T25	Term-Termcat 820 832	PREscRIPcIón
+T26	Term-Termcat 846 858	Prescripción
+T27	Term-Termcat 782 787	multa
+T28	Term-Termcat 833 840	Sección
+T29	Term-Termcat 809 815	PLazos
+T30	Term-Termcat 885 893	contrato
+T31	Term-Termcat 479 486	sanción
+T32	Term-Termcat 0 8	Artículo
+T33	Term-Termcat 798 806	CAPÍTULO
+T34	Term-Termcat 531 543	comunicación
+T35	Term-Termcat 276 294	convenio colectivo
+T36	Term-Termcat 756 764	descanso
+T37	Term-Termcat 395 404	dirección
+T38	Term-Termcat 103 112	dirección
+T39	Term-Termcat 120 128	empresas
+T40	Term-Termcat 411 418	empresa
+T41	Term-Termcat 13 19	Faltas
+T42	Term-Termcat 338 344	faltas
+T43	Term-Termcat 201 207	faltas
+T44	Term-Termcat 494 507	faltas graves
+T45	Term-Termcat 726 736	minoración
+T46	Term-Termcat 782 796	multa de haber
+T47	Term-Termcat 708 718	vacaciones
+T48	Term-Termcat 692 700	duración
+T49	Term-Termcat 744 752	derechos
+T50	Term-Termcat 455 467	jurisdicción
+T51	Term-Termcat 172 179	acuerdo
+T52	Term-Termcat 599 605	hechos
+T53	Term-Termcat 791 796	haber
+T54	Term-Termcat 142 157	incumplimientos
+T55	Term-Termcat 455 474	jurisdicción social
+T56	Term-Termcat 260 267	legales
+T57	Term-Termcat 531 551	comunicación escrita
+T58	Term-AttentionRank 531 565	comunicación escrita al trabajador
+T59	Term-AttentionRank 210 219	sanciones
+T60	Term-AttentionRank 22 31	sanciones
+T61	Term-AttentionRank 646 655	sanciones
+T62	Term-AttentionRank 132 167	virtud de incumplimientos laborales
+T63	Term-AttentionRank 172 197	acuerdo con la graduación
+T64	Term-AttentionRank 13 19	Faltas
+T65	Term-AttentionRank 338 344	faltas
+T66	Term-AttentionRank 201 207	faltas
+T67	Term-AttentionRank 395 404	dirección
+T68	Term-AttentionRank 103 112	dirección
+T69	Term-AttentionRank 726 736	minoración
+T70	Term-AttentionRank 246 267	disposiciones legales
+T71	Term-AttentionRank 39 51	trabajadores
+T72	Term-AttentionRank 60 72	trabajadores
+T73	Term-AttentionRank 494 507	faltas graves
+T74	Term-AttentionRank 120 128	empresas
+T75	Term-AttentionRank 411 418	empresa
+T76	Term-AttentionRank 769 779	trabajador
+T77	Term-AttentionRank 744 752	derechos
+T78	Term-AttentionRank 455 474	jurisdicción social
+T79	Term-AttentionRank 351 377	correspondientes sanciones
+T80	Term-Rebel 708 718	vacaciones
+T81	Term-Rebel 756 764	descanso
+T82	Term-IATE 0 8	Artículo
+T83	Term-IATE 676 685	reducción
+T84	Term-IATE 692 700	duración
+T85	Term-IATE 479 486	sanción
+T86	Term-IATE 103 112	dirección
+T87	Term-IATE 395 404	dirección
+T88	Term-IATE 103 112	dirección
+T89	Term-IATE 395 404	dirección
+T90	Term-IATE 320 330	valoración
+T91	Term-IATE 885 893	contrato
+T92	Term-IATE 39 51	trabajadores
+T93	Term-IATE 60 72	trabajadores
+T94	Term-IATE 555 565	trabajador
+T95	Term-IATE 769 779	trabajador
+T96	Term-IATE 809 815	PLazos
+T97	Term-IATE 276 284	convenio
+T98	Term-IATE 494 507	faltas graves
+T99	Term-IATE 756 764	descanso
+T100	Term-IATE 833 840	Sección
+T101	Term-IATE 862 870	acciones
+T102	Term-IATE 276 294	convenio colectivo
+T103	Term-IATE 13 19	Faltas
+T104	Term-IATE 201 207	faltas
+T105	Term-IATE 338 344	faltas
+T106	Term-IATE 494 500	faltas
+T107	Term-IATE 172 179	acuerdo
+T108	Term-IATE 120 128	empresas
+T109	Term-IATE 411 418	empresa
+T110	Term-IATE 798 806	CAPÍTULO
+R1	subclass_of-Rebel Arg1:T80 Arg2:T81

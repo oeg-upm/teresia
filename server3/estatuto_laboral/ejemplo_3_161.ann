@@ -1,0 +1,224 @@
+T1	Term-DPEJ 472 486	representantes
+T2	Term-DPEJ 1320 1334	representantes
+T3	Term-DPEJ 1255 1265	aplicación
+T4	Term-DPEJ 141 148	materia
+T5	Term-DPEJ 592 599	materia
+T6	Term-DPEJ 766 773	materia
+T7	Term-DPEJ 1500 1507	materia
+T8	Term-DPEJ 1183 1190	Riesgos
+T9	Term-DPEJ 1619 1625	riesgo
+T10	Term-DPEJ 52 62	trabajador
+T11	Term-DPEJ 191 201	trabajador
+T12	Term-DPEJ 417 427	trabajador
+T13	Term-DPEJ 688 698	trabajador
+T14	Term-DPEJ 1017 1027	trabajador
+T15	Term-DPEJ 1350 1362	trabajadores
+T16	Term-DPEJ 0 8	Artículo
+T17	Term-DPEJ 106 113	derecho
+T18	Term-DPEJ 434 441	derecho
+T19	Term-DPEJ 336 343	control
+T20	Term-DPEJ 13 22	Seguridad
+T21	Term-DPEJ 152 161	seguridad
+T22	Term-DPEJ 281 290	seguridad
+T23	Term-DPEJ 1860 1869	seguridad
+T24	Term-DPEJ 1666 1671	plazo
+T25	Term-DPEJ 902 909	cambios
+T26	Term-DPEJ 979 986	cambios
+T27	Term-DPEJ 1211 1217	normas
+T28	Term-DPEJ 1109 1117	términos
+T29	Term-DPEJ 70 80	prestación
+T30	Term-DPEJ 120 130	protección
+T31	Term-DPEJ 323 333	inspección
+T32	Term-DPEJ 1274 1283	delegados
+T33	Term-DPEJ 1706 1726	autoridad competente
+T34	Term-DPEJ 1785 1795	resolución
+T35	Term-DPEJ 472 494	representantes legales
+T36	Term-DPEJ 1320 1342	representantes legales
+T37	Term-DPEJ 501 507	centro
+T38	Term-DPEJ 1369 1375	centro
+T39	Term-DPEJ 551 558	centros
+T40	Term-DPEJ 88 97	servicios
+T41	Term-DPEJ 540 547	órganos
+T42	Term-DPEJ 1183 1200	Riesgos Laborales
+T43	Term-DPEJ 25 30	salud
+T44	Term-DPEJ 164 169	salud
+T45	Term-DPEJ 293 298	salud
+T46	Term-DPEJ 1751 1765	circunstancias
+T47	Term-DPEJ 1900 1911	actividades
+T48	Term-DPEJ 37 44	trabajo
+T49	Term-DPEJ 176 183	trabajo
+T50	Term-DPEJ 233 240	trabajo
+T51	Term-DPEJ 305 312	trabajo
+T52	Term-DPEJ 511 518	trabajo
+T53	Term-DPEJ 1005 1012	trabajo
+T54	Term-DPEJ 1379 1386	trabajo
+T55	Term-DPEJ 1934 1941	trabajo
+T56	Term-DPEJ 1706 1715	autoridad
+T57	Term-DPEJ 245 252	medidas
+T58	Term-DPEJ 354 361	medidas
+T59	Term-DPEJ 1566 1573	medidas
+T60	Term-DPEJ 1849 1856	medidas
+T61	Term-DPEJ 501 518	centro de trabajo
+T62	Term-DPEJ 1369 1386	centro de trabajo
+T63	Term-Termcat 1706 1715	autoridad
+T64	Term-Termcat 1609 1615	estado
+T65	Term-Termcat 323 333	inspección
+T66	Term-Termcat 1785 1795	resolución
+T67	Term-Termcat 88 97	servicios
+T68	Term-Termcat 1109 1117	términos
+T69	Term-Termcat 1666 1671	plazo
+T70	Term-Termcat 1134 1137	Ley
+T71	Term-Termcat 70 80	prestación
+T72	Term-Termcat 472 486	representantes
+T73	Term-Termcat 1320 1334	representantes
+T74	Term-Termcat 0 8	Artículo
+T75	Term-Termcat 1211 1217	normas
+T76	Term-Termcat 1633 1641	petición
+T77	Term-Termcat 1435 1444	accidente
+T78	Term-Termcat 501 518	centro de trabajo
+T79	Term-Termcat 1369 1386	centro de trabajo
+T80	Term-Termcat 994 1001	equipos
+T81	Term-Termcat 233 240	trabajo
+T82	Term-Termcat 1934 1941	trabajo
+T83	Term-Termcat 1005 1012	trabajo
+T84	Term-Termcat 710 719	formación
+T85	Term-Termcat 1054 1063	formación
+T86	Term-Termcat 1963 1970	peligro
+T87	Term-Termcat 1081 1090	prácticas
+T88	Term-Termcat 1169 1200	Prevención de Riesgos Laborales
+T89	Term-Termcat 293 312	salud en el trabajo
+T90	Term-Termcat 164 183	salud en el trabajo
+T91	Term-Termcat 25 44	salud en el trabajo
+T92	Term-Termcat 859 867	duración
+T93	Term-Termcat 1221 1231	desarrollo
+T94	Term-Termcat 434 441	derecho
+T95	Term-Termcat 106 113	derecho
+T96	Term-Termcat 459 464	medio
+T97	Term-Termcat 13 22	Seguridad
+T98	Term-Termcat 1860 1869	seguridad
+T99	Term-Termcat 152 161	seguridad
+T100	Term-Termcat 281 290	seguridad
+T101	Term-Termcat 1900 1911	actividades
+T102	Term-Termcat 1255 1265	aplicación
+T103	Term-Termcat 979 986	cambios
+T104	Term-Termcat 902 909	cambios
+T105	Term-Termcat 1751 1765	circunstancias
+T106	Term-Termcat 529 535	cuenta
+T107	Term-Termcat 811 823	contratación
+T108	Term-Termcat 336 343	control
+T109	Term-Termcat 668 678	garantizar
+T110	Term-Termcat 487 494	legales
+T111	Term-Termcat 1335 1342	legales
+T112	Term-Termcat 253 260	legales
+T113	Term-Termcat 614 625	legislación
+T114	Term-Termcat 1472 1483	legislación
+T115	Term-Termcat 141 148	materia
+T116	Term-Termcat 1500 1507	materia
+T117	Term-Termcat 766 773	materia
+T118	Term-Termcat 592 599	materia
+T119	Term-Termcat 374 385	observancia
+T120	Term-Termcat 540 547	órganos
+T121	Term-Termcat 1405 1417	probabilidad
+T122	Term-Termcat 1619 1625	riesgo
+T123	Term-Termcat 626 633	vigente
+T124	Term-Termcat 1918 1922	zona
+T125	Term-Termcat 574 585	competentes
+T126	Term-Termcat 1716 1726	competente
+T127	Term-Termcat 1183 1190	Riesgos
+T128	Term-Termcat 730 738	práctica
+T129	Term-Termcat 1169 1179	Prevención
+T130	Term-Termcat 1287 1297	prevención
+T131	Term-Termcat 472 494	representantes legales
+T132	Term-Termcat 1320 1342	representantes legales
+T133	Term-AttentionRank 511 518	trabajo
+T134	Term-AttentionRank 1379 1386	trabajo
+T135	Term-AttentionRank 176 183	trabajo
+T136	Term-AttentionRank 1934 1941	trabajo
+T137	Term-AttentionRank 1005 1012	trabajo
+T138	Term-AttentionRank 37 44	trabajo
+T139	Term-AttentionRank 233 240	trabajo
+T140	Term-AttentionRank 305 312	trabajo
+T141	Term-AttentionRank 13 22	Seguridad
+T142	Term-AttentionRank 1860 1869	seguridad
+T143	Term-AttentionRank 152 161	seguridad
+T144	Term-AttentionRank 281 290	seguridad
+T145	Term-AttentionRank 1566 1573	medidas
+T146	Term-AttentionRank 354 361	medidas
+T147	Term-AttentionRank 245 252	medidas
+T148	Term-AttentionRank 1849 1856	medidas
+T149	Term-AttentionRank 52 62	trabajador
+T150	Term-AttentionRank 688 698	trabajador
+T151	Term-AttentionRank 417 427	trabajador
+T152	Term-AttentionRank 191 201	trabajador
+T153	Term-AttentionRank 1017 1027	trabajador
+T154	Term-AttentionRank 1350 1362	trabajadores
+T155	Term-AttentionRank 459 494	medio de sus representantes legales
+T156	Term-AttentionRank 164 169	salud
+T157	Term-AttentionRank 25 30	salud
+T158	Term-AttentionRank 293 298	salud
+T159	Term-AttentionRank 141 148	materia
+T160	Term-AttentionRank 1500 1507	materia
+T161	Term-AttentionRank 766 773	materia
+T162	Term-AttentionRank 592 599	materia
+T163	Term-AttentionRank 1369 1375	centro
+T164	Term-AttentionRank 501 507	centro
+T165	Term-AttentionRank 551 558	centros
+T166	Term-AttentionRank 402 412	empresario
+T167	Term-AttentionRank 1523 1533	empresario
+T168	Term-AttentionRank 1818 1828	empresario
+T169	Term-AttentionRank 641 651	empresario
+T170	Term-AttentionRank 1054 1063	formación
+T171	Term-AttentionRank 602 633	tenor de la legislación vigente
+T172	Term-AttentionRank 979 986	cambios
+T173	Term-AttentionRank 902 909	cambios
+T174	Term-AttentionRank 710 727	formación teórica
+T175	Term-AttentionRank 434 441	derecho
+T176	Term-AttentionRank 106 113	derecho
+T177	Term-AttentionRank 1751 1774	circunstancias alegadas
+T178	Term-Rebel 13 44	Seguridad y salud en el trabajo
+T179	Term-Rebel 13 30	Seguridad y salud
+T180	Term-IATE 1255 1265	aplicación
+T181	Term-IATE 402 412	empresario
+T182	Term-IATE 641 651	empresario
+T183	Term-IATE 1523 1533	empresario
+T184	Term-IATE 1818 1828	empresario
+T185	Term-IATE 0 8	Artículo
+T186	Term-IATE 859 867	duración
+T187	Term-IATE 472 494	representantes legales
+T188	Term-IATE 1320 1342	representantes legales
+T189	Term-IATE 1081 1090	prácticas
+T190	Term-IATE 120 130	protección
+T191	Term-IATE 52 62	trabajador
+T192	Term-IATE 191 201	trabajador
+T193	Term-IATE 417 427	trabajador
+T194	Term-IATE 688 698	trabajador
+T195	Term-IATE 1017 1027	trabajador
+T196	Term-IATE 1350 1362	trabajadores
+T197	Term-IATE 1666 1671	plazo
+T198	Term-IATE 1900 1911	actividades
+T199	Term-IATE 1169 1179	Prevención
+T200	Term-IATE 1287 1297	prevención
+T201	Term-IATE 710 719	formación
+T202	Term-IATE 1054 1063	formación
+T203	Term-IATE 13 22	Seguridad
+T204	Term-IATE 152 161	seguridad
+T205	Term-IATE 281 290	seguridad
+T206	Term-IATE 1860 1869	seguridad
+T207	Term-IATE 797 804	momento
+T208	Term-IATE 1183 1190	Riesgos
+T209	Term-IATE 1619 1625	riesgo
+T210	Term-IATE 472 486	representantes
+T211	Term-IATE 1320 1334	representantes
+T212	Term-IATE 1274 1283	delegados
+T213	Term-IATE 1785 1795	resolución
+T214	Term-IATE 994 1001	equipos
+T215	Term-IATE 323 333	inspección
+T216	Term-IATE 1706 1726	autoridad competente
+T217	Term-IATE 141 148	materia
+T218	Term-IATE 592 599	materia
+T219	Term-IATE 766 773	materia
+T220	Term-IATE 1500 1507	materia
+T221	Term-IATE 1633 1641	petición
+T222	Term-IATE 336 343	control
+T223	Term-IATE 70 80	prestación
+R1	subclass_of-Rebel Arg1:T178 Arg2:T179

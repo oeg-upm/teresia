@@ -175,3 +175,6 @@ T174	Term-AttentionRank 601 628	información arriba indicada
 T175	Term-AttentionRank 1699 1716	normativa vigente
 T176	Term-AttentionRank 1211 1234	través de dichos medios
 T177	Term-AttentionRank 1781 1797	deuda tributaria
+T178	Term-Rebel 923 970	Agencia Estatal de la Administración Tributaria
+T179	Term-Rebel 1002 1019	firma electrónica
+R1	field_of_work-Rebel Arg1:T178 Arg2:T179
