@@ -1,0 +1,42 @@
+{
+    "gloss": [
+      "(?P<term>__TERM__)(?P<context>, es decir,)",
+      "(?P<context>es decir, )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context> o sea)",
+      "(?P<context>o sea, )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context>.{0,5} o )",
+      "(?P<term>__TERM__)(?P<context>, en otras palabras)",
+      "(?P<context>en otras palabras, )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context>, por ejemplo)",
+      "(?P<context>por ejemplo, )(?P<term>__TERM__)",
+
+      "(?P<term>__TERM__)(?P<context>.{0,4}como por ejemplo)",
+      "(?P<context>por ejemplo, como )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context> o que)",
+      "(?P<term>__TERM__)(?P<context> denominad(o|a)s?)",
+      "(denominad(o|a)s? )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context> alude a)",
+      "(?P<term>__TERM__)(?P<context>.{0,5}se refiere al?)",
+      "(?P<term>__TERM__)(?P<context>.{0,25}hace referencia a)",
+      "(?P<context>que se conoce como )(?P<term>__TERM__)",
+      "(?P<context>se entiende por .{0,10})(?P<term>__TERM__)",
+
+      "(?P<term>__TERM__)(?P<context>, definido como)",
+      "(?P<term>__TERM__)(?P<context>, que se define como)",
+      "(?P<term>__TERM__)(?P<context>, cuya definición es)",
+      "(?P<term>__TERM__)(?P<context>, esto es)",
+      "(?P<term>__TERM__)(?P<context>.{0,5} que es)",
+      "(?P<term>__TERM__)(?P<context>, dicho de otra (manera|modo))",
+      "(?P<term>__TERM__)(?P<context>.{0,9} también llamado)",
+      "(?P<context>también llamad(o|a).{0,30})(?P<term>__TERM__)",
+      
+      "(?P<term>__TERM__)(?P<context>, a saber)",
+      "(?P<term>__TERM__)(?P<context>.{0,3}es .{0,4}(proceso que|proceso mediante el que|material que)?)",
+      "(?P<term>__TERM__)(?P<context>.{0,10}son)",
+      "(?P<term>__TERM__)(?P<context>.{0,3} es )",
+      "(?P<term>__TERM__)(?P<context>.{0,3}sería)",
+      "(?P<context>también conocido como.{0,30})(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context>, también conocido como)"
+    ]
+  }
+  

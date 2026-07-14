@@ -1,0 +1,173 @@
+[
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, es decir,)",
+    "term": "inteligencia artificial",
+    "fragment": "En el sector tecnológico, la inteligencia artificial, es decir, un conjunto de técnicas y algoritmos que simulan el razonamiento humano, está transformando industrias completas al permitir automatizar procesos complejos y extraer conocimientos de grandes volúmenes de datos para mejorar la toma de decisiones."
+  },
+  {
+    "pattern": "(?P<context>es decir, )(?P<term>__TERM__)",
+    "term": "arquitectura orientada a servicios",
+    "fragment": "La empresa migró su plataforma monolítica a microservicios, es decir, arquitectura orientada a servicios que descompone la aplicación en componentes independientes y desplegables de forma autónoma, lo que facilita las actualizaciones continuas y la escalabilidad en la nube."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context> o sea)",
+    "term": "aprendizaje profundo",
+    "fragment": "El aprendizaje profundo o sea la rama del aprendizaje automático que utiliza redes neuronales con múltiples capas para modelar representaciones abstractas de datos se ha consolidado como la técnica más efectiva para tareas de visión por computadora y procesamiento de lenguaje natural."
+  },
+  {
+    "pattern": "(?P<context>o sea, )(?P<term>__TERM__)",
+    "term": "blockchain",
+    "fragment": "El sistema garantiza la inmutabilidad y la transparencia de las transacciones, o sea, blockchain como tecnología de contabilidad distribuida revolucionaria que elimina la necesidad de intermediarios al registrar cada operación en un libro mayor compartido entre múltiples nodos."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,5} o )",
+    "term": "modelo predictivo",
+    "fragment": "El modelo predictivo bien o mal funciona según la calidad de los datos y las variables consideradas, lo cual afecta la precisión de los resultados obtenidos y la robustez de las predicciones en escenarios reales de negocio."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, en otras palabras)",
+    "term": "transformación digital",
+    "fragment": "La tendencia hacia la transformación digital, en otras palabras, la integración de tecnologías digitales en todos los aspectos de una organización, ha permitido mejorar la eficiencia operativa, optimizar procesos internos y ofrecer nuevas experiencias personalizadas a los clientes."
+  },
+  {
+    "pattern": "(?P<context>en otras palabras, )(?P<term>__TERM__)",
+    "term": "innovación abierta",
+    "fragment": "Para afrontar los retos del mercado, muchas organizaciones adoptan prácticas colaborativas, en otras palabras, innovación abierta que implica compartir recursos y conocimientos con socios externos para acelerar la creación de valor y explorar nuevas oportunidades de negocio."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, por ejemplo)",
+    "term": "machine learning",
+    "fragment": "Para automatizar la clasificación de documentos, machine learning, por ejemplo, técnicas como SVM, árboles de decisión o redes neuronales se aplican para entrenar modelos capaces de reconocer categorías y asignar etiquetas de forma autónoma basándose en características extraídas del texto."
+  },
+  {
+    "pattern": "(?P<context>por ejemplo, )(?P<term>__TERM__)",
+    "term": "ciberseguridad",
+    "fragment": "En el entorno digital actual, las organizaciones enfrentan riesgos crecientes, por ejemplo, ciberseguridad que abarca políticas, herramientas y prácticas destinadas a salvaguardar la confidencialidad, integridad y disponibilidad de la información frente a ataques maliciosos y vulnerabilidades emergentes."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,4}como por ejemplo)",
+    "term": "API RESTful",
+    "fragment": "En el diseño moderno de software, la API RESTful, como por ejemplo la implementada con Flask y FastAPI, permite estandarizar las comunicaciones entre microservicios, mejorando la interoperabilidad y facilitando el mantenimiento de grandes plataformas distribuidas en la nube."
+  },
+  {
+    "pattern": "(?P<context>por ejemplo, como )(?P<term>__TERM__)",
+    "term": "Microservicios",
+    "fragment": "Muchas organizaciones adoptan arquitecturas modulares, por ejemplo, como Microservicios que dividen la aplicación en componentes autónomos y desplegables independientemente, lo que acelera las actualizaciones y reduce el riesgo de fallo generalizado."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context> o que)",
+    "term": "Contenedores",
+    "fragment": "El uso de Contenedores o que encapsulan tanto la aplicación como sus dependencias en un único paquete ligero ha revolucionado el despliegue de software, garantizando consistencia entre entornos de desarrollo, testing y producción."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context> denominad(o|a)s?)",
+    "term": "DevOps",
+    "fragment": "En la industria de TI, las metodologías DevOps denominadas prácticas culturales y técnicas colaborativas fomentan la comunicación entre equipos de desarrollo y operaciones, permitiendo ciclos de entrega más cortos y un feedback continuo que mejora la calidad del software."
+  },
+  {
+    "pattern": "(denominad(o|a)s? )(?P<term>__TERM__)",
+    "term": "Microservicios",
+    "fragment": "En los últimos años, han surgido distintos enfoques de arquitectura, siendo denominados Microservicios aquellos que fragmentan las funcionalidades en servicios independientes, facilitando la escalabilidad horizontal y la resiliencia ante fallos."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context> alude a)",
+    "term": "GraphQL",
+    "fragment": "La especificación GraphQL alude a un lenguaje de consulta para APIs desarrollado por Facebook que permite a los clientes solicitar exactamente los datos que necesitan, reduciendo el volumen de peticiones y optimizando el rendimiento en aplicaciones móviles y web."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,5}se refiere al?)",
+    "term": "Serverless",
+    "fragment": "El paradigma Serverless se refiere al modelo en el que el proveedor gestiona automáticamente la infraestructura subyacente, liberando a los desarrolladores de la necesidad de aprovisionar servidores y permitiendo escalar según la demanda real."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,25}hace referencia a)",
+    "term": "Big Data",
+    "fragment": "La analítica avanzada Big Data hace referencia a la recolección y procesamiento masivo de datos estructurados y no estructurados, con técnicas de minería y aprendizaje automático, para extraer información valiosa que apoye la toma de decisiones estratégicas."
+  },
+  {
+    "pattern": "(?P<context>que se conoce como )(?P<term>__TERM__)",
+    "term": "Inteligencia Artificial",
+    "fragment": "Existen múltiples enfoques de aprendizaje automático, que se conoce como Inteligencia Artificial cuando las máquinas realizan tareas que normalmente requieren inteligencia humana, como el reconocimiento de voz, la visión por computadora y la toma de decisiones autónomas."
+  },
+  {
+    "pattern": "(?P<context>se entiende por .{0,10})(?P<term>__TERM__)",
+    "term": "REST",
+    "fragment": "En la documentación oficial, se entiende por API REST la implementación que sigue los principios de la arquitectura REST para diseñar servicios web escalables, mantenibles y basados en recursos accesibles a través de HTTP."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, definido como)",
+    "term": "cognición",
+    "fragment": "En las teorías contemporáneas de la mente, la cognición, definido como el conjunto de procesos mentales responsables de la percepción, el pensamiento, la memoria y la toma de decisiones, se estudia mediante métodos experimentales y neuroimagen para comprender cómo representamos y manipulamos la información."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, que se define como)",
+    "term": "ansiedad",
+    "fragment": "Desde la perspectiva clínica, la ansiedad, que se define como una respuesta emocional adaptativa caracterizada por tensión, preocupación y activación fisiológica, puede volverse patológica cuando interfiere de forma significativa con las actividades cotidianas y el bienestar del individuo."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, cuya definición es)",
+    "term": "resiliencia",
+    "fragment": "En psicología positiva, la resiliencia, cuya definición es la capacidad de una persona para afrontar, adaptarse y recuperarse de situaciones adversas o de estrés crónico, se considera un factor clave en la prevención de trastornos mentales y en la promoción del bienestar a largo plazo."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, esto es)",
+    "term": "empatía",
+    "fragment": "El desarrollo socioemocional en la infancia enfatiza la empatía, esto es la habilidad para comprender y compartir los sentimientos de otros, como fundamento de las relaciones interpersonales saludables y de la regulación emocional en contextos familiares y escolares."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,5} que es)",
+    "term": "autoestima",
+    "fragment": "La autoestima alta o baja depende de la historia de experiencias y evaluaciones personales, que es un constructo que refleja la valoración subjetiva que cada individuo hace de sí mismo en función de sus logros, relaciones y normas sociales."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, dicho de otra (manera|modo))",
+    "term": "neuroplasticidad",
+    "fragment": "La neuroplasticidad, dicho de otra manera, es la capacidad del cerebro para reorganizar sus conexiones y adaptarse a cambios en el entorno o tras lesiones, lo que permite la recuperación funcional y el aprendizaje a lo largo de toda la vida."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,9} también llamado)",
+    "term": "aprendizaje social",
+    "fragment": "El aprendizaje social o vicario, también llamado aprendizaje observacional, describe el proceso mediante el cual las personas adquieren comportamientos, habilidades o actitudes al observar y emular a modelos significativos en su entorno social, sin necesidad de experiencia directa."
+  },
+  {
+    "pattern": "(?P<context>también llamad(o|a).{0,30})(?P<term>__TERM__)",
+    "term": "motricidad fina",
+    "fragment": "En la evaluación del desarrollo infantil, también llamada coordinación motora de precisión o control manual, motricidad fina es la destreza que permite realizar acciones delicadas con las manos y los dedos, esenciales para actividades como escribir, abotonar prendas o manipular objetos pequeños."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, a saber)",
+    "term": "contrato de arrendamiento",
+    "fragment": "El contrato de arrendamiento, a saber, el acuerdo mediante el cual una parte llamada arrendador concede a otra denominada arrendatario el uso y disfrute de un bien inmueble por un plazo determinado y previa contraprestación económica, debe formalizarse por escrito para garantizar la seguridad jurídica de ambas partes."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,3}es .{0,4}(proceso que|proceso mediante el que|material que)?)",
+    "term": "evidencia pericial",
+    "fragment": "La evidencia pericial es proceso que requiere la intervención de un experto idóneo para emitir un dictamen técnico sobre hechos controvertidos en el procedimiento judicial, aportando material que facilite al juez la correcta interpretación de aspectos científicos o especializados."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,10}son)",
+    "term": "derechos subjetivos",
+    "fragment": "Los derechos subjetivos son prerrogativas conferidas a las personas por el ordenamiento jurídico que les facultan para exigir de otros el respeto a sus intereses legítimos, constituyendo el núcleo esencial de la pretensión jurídica en cualquier litigio."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,3} es )",
+    "term": "jurisdicción contencioso-administrativa",
+    "fragment": "La jurisdicción contencioso-administrativa es la rama del poder judicial encargada de resolver los conflictos que surgen entre los ciudadanos y la administración pública cuando estos reclaman la protección de sus derechos frente a actos administrativos."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>.{0,3}sería)",
+    "term": "principio de legalidad",
+    "fragment": "El principio de legalidad sería norma fundamental según la cual toda actuación de los poderes públicos debe estar previamente autorizada por una ley, garantizando así un Estado de Derecho en el que no existe arbitrariedad."
+  },
+  {
+    "pattern": "(?P<context>también conocido como.{0,30})(?P<term>__TERM__)",
+    "term": "instrumento público",
+    "fragment": "El documento notarial, también conocido como instrumento público autorizado por un fedatario, es aquel que goza de presunción de veracidad en cuanto a su contenido y fecha, siendo imprescindible para actos como la compraventa de inmuebles y la constitución de sociedades."
+  },
+  {
+    "pattern": "(?P<term>__TERM__)(?P<context>, también conocido como)",
+    "term": "testamento ológrafo",
+    "fragment": "El testamento ológrafo, también conocido como testamento manuscrito, es aquel que el propio testador redacta, firma y fecha sin intervención notarial, aunque para su validez debe conservarse en su integridad hasta su presentación ante el juez tras el fallecimiento."
+  }
+]
+

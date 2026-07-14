@@ -1,0 +1,11 @@
+{
+    "loan": [
+      "(?P<term>__TERM__)(?P<context>, en (español|inglés|francés|alemán|portugués))",
+      "(?P<context>también conocido en (español|inglés|francés|alemán|portugués) como)",
+      "(?P<term>__TERM__)(?P<context>.{0,5} proviene del \\w{4,11})",
+      "(?P<context>proviene del \\w{4,11} )(?P<term>__TERM__)",
+      "(?P<term>__TERM__)(?P<context>, que proviene del \\w{4,11})",
+      "(?P<term>__TERM__)(?P<context>, que se origina en el \\w{4,11})",
+      "(?P<context>que se origina en el \\w{4,11} )(?P<term>__TERM__)"      
+    ]
+}
